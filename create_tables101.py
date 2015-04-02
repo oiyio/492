@@ -6,34 +6,41 @@
 # cr.insert()
 # cr.test("ali","123")
 # cr.printAll()
-
+# cr.showAllTables();
+# cr.showAllRows();
+# cr.deleteRow("ali")
+# deletion of tables are done via shell commands.
+# deletion of database are done via manually deleting .db file.
 import sqlite3
 
-# show all tables inside a selected database.
-def show(): 
-	db = sqlite3.connect("mydb2.db")
+def deleteRow(username):
+	db = sqlite3.connect("mydb.db")
+
 	im = db.cursor()
-	im.execute("""SELECT name FROM sqlite_master WHERE type='table'""")
-	veriler = im.fetchall()
-	print (veriler)
-	
+
+	im.execute("DELETE FROM users WHERE username='" + username + "';" )
+	print ("something")
+	db.commit()
+	db.close()
+
 
 def create():
-	db = sqlite3.connect("mydb2.db")
+	db = sqlite3.connect("mydb.db")
 
 	im = db.cursor()
 
-	im.execute("""CREATE TABLE users8(
+	im.execute("""CREATE TABLE users(
 					user_id INTEGER PRIMARY KEY AUTOINCREMENT,
 					username VARCHAR(20) NOT NULL,
 					password VARCHAR(20) NOT NULL,
 					fullname VARCHAR(30) NOT NULL,
 					email VARCHAR(30) NOT NULL
 					)""")
+	db.close()
 					
 def insert():
 
-	db = sqlite3.connect("mydb2.db")
+	db = sqlite3.connect("mydb.db")
 	im = db.cursor()
 	
 	veriler = [
@@ -46,18 +53,18 @@ def insert():
 			  ]
 	#skip user_id, bacause of autoincrement, thus NULL in mysql command.
 	for i in veriler:
-		im.execute("""INSERT INTO users8 
+		im.execute("""INSERT INTO users 
 		VALUES (NULL, ?, ?, ?, ?)""", i)
 
 	db.commit()
-
+	db.close()
 	
 def test(username,password):	
-	db = sqlite3.connect("mydb2.db")
+	db = sqlite3.connect("mydb.db")
 
 	im = db.cursor()
 
-	im.execute("""SELECT * FROM users8 WHERE
+	im.execute("""SELECT * FROM users WHERE
 	username = ? AND password = ?""", (username, password))
 
 	data = im.fetchone()
@@ -67,26 +74,35 @@ def test(username,password):
 
 	else:
 		print (u"Wrong username or password!")
-	
+	db.close()
 # -*- coding: utf-8 -*-
 
-def printAll():
-	vt = sqlite3.connect("mydb2.db")
+# show all rows inside a table.
+def showAllRows():
+	vt = sqlite3.connect("mydb.db")
 
 	im = vt.cursor()
 
-	im.execute("""SELECT * FROM users8""")
+	im.execute("""SELECT * FROM users""")
 
 	veriler = im.fetchall()
 
 	print (veriler)
+	vt.close()
+	
+# show all tables inside a selected database.
+def showAllTables(): 
+	db = sqlite3.connect("mydb.db")
+	im = db.cursor()
+	im.execute("""SELECT name FROM sqlite_master WHERE type='table'""")
+	veriler = im.fetchall()
+	print (veriler)
+	db.close()
 
-	
-	
+
 if __name__ == "__main__":
  # if you call this script from the command line (the shell) it will
  # run the 'main' function
 	create()
 	test()
 	insert()
-	printAll()
