@@ -9,6 +9,15 @@
 
 import sqlite3
 
+# show all tables inside a selected database.
+def show(): 
+	db = sqlite3.connect("mydb2.db")
+	im = db.cursor()
+	im.execute("""SELECT name FROM sqlite_master WHERE type='table'""")
+	veriler = im.fetchall()
+	print (veriler)
+	
+
 def create():
 	db = sqlite3.connect("mydb2.db")
 
@@ -72,6 +81,7 @@ def printAll():
 
 	print (veriler)
 
+	
 	
 if __name__ == "__main__":
  # if you call this script from the command line (the shell) it will
