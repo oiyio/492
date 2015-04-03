@@ -24,7 +24,7 @@ def deleteRow(username):
 	db.close()
 
 
-def create():
+def createUsersTable():
 	db = sqlite3.connect("mydb.db")
 
 	im = db.cursor()
@@ -36,8 +36,31 @@ def create():
 					fullname VARCHAR(30) NOT NULL,
 					email VARCHAR(30) NOT NULL
 					)""")
+	db.commit() # is it really necessary? 
 	db.close()
+
+
+# pid | package_name | category | total_rate | total_download	
+def createPackageTable():
+	db = sqlite3.connect("mydb.db")
+
+	im = db.cursor()
+
+	im.execute("""CREATE TABLE packages(
+					pid INTEGER PRIMARY KEY AUTOINCREMENT,
+					pname VARCHAR(50) NOT NULL,
+					version VARCHAR(50) NOT NULL,
+					category VARCHAR(20) NOT NULL,
+					total_rate INT NOT NULL,
+					total_download INT NOT NULL
+					)""")
 					
+	im.execute("""CREATE INDEX pindex ON packages (pname)""")
+	
+	db.commit()
+	db.close()
+
+		
 def insert():
 
 	db = sqlite3.connect("mydb.db")
@@ -106,3 +129,4 @@ if __name__ == "__main__":
 	create()
 	test()
 	insert()
+	printAll()
