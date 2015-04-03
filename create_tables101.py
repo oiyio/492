@@ -13,15 +13,10 @@
 # deletion of database are done via manually deleting .db file.
 import sqlite3
 
-def deleteRow(username):
-	db = sqlite3.connect("mydb.db")
-
-	im = db.cursor()
-
-	im.execute("DELETE FROM users WHERE username='" + username + "';" )
-	print ("something")
-	db.commit()
-	db.close()
+def createAll():
+	createUsersTable()
+	createPackageTable()
+	createCommentTable()
 
 
 def createUsersTable():
@@ -30,12 +25,13 @@ def createUsersTable():
 	im = db.cursor()
 
 	im.execute("""CREATE TABLE users(
-					user_id INTEGER PRIMARY KEY AUTOINCREMENT,
+					uid INTEGER PRIMARY KEY AUTOINCREMENT,
 					username VARCHAR(20) NOT NULL,
 					password VARCHAR(20) NOT NULL,
 					fullname VARCHAR(30) NOT NULL,
 					email VARCHAR(30) NOT NULL
 					)""")
+	im.execute("""CREATE INDEX uindex ON users (username)""")
 	db.commit() # is it really necessary? 
 	db.close()
 
@@ -60,7 +56,36 @@ def createPackageTable():
 	db.commit()
 	db.close()
 
-		
+
+def createCommentTable():
+	db = sqlite3.connect("mydb.db")
+
+	im = db.cursor()
+
+	im.execute("""CREATE TABLE comments(
+					cid INTEGER PRIMARY KEY AUTOINCREMENT,
+					username VARCHAR(50) NOT NULL,
+					pname VARCHAR(50) NOT NULL,
+					rate VARCHAR(20) NOT NULL,
+					comment INT NOT NULL,
+					date INT NOT NULL
+					)""")
+					
+	im.execute("""CREATE INDEX cpindex ON comments (pname)""")
+	
+	db.commit()
+	db.close()
+
+def deleteRow(username):
+	db = sqlite3.connect("mydb.db")
+
+	im = db.cursor()
+
+	im.execute("DELETE FROM users WHERE username='" + username + "';" )
+	print ("something")
+	db.commit()
+	db.close()
+	
 def insert():
 
 	db = sqlite3.connect("mydb.db")
