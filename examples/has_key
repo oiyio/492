@@ -1,0 +1,15 @@
+In [1]: import apt
+
+In [2]: foo = apt.cache.Cache()
+
+In [3]: foo.has_key('ia32-libs-multiarch')
+Out[3]: False
+
+In [4]: foo.has_key('ia32-libs-multiarch:i386')
+Out[4]: True
+
+In [5]: foo.has_key('skype')
+Out[5]: False
+
+In [6]: foo.has_key('skype:i386')
+Out[6]: True
