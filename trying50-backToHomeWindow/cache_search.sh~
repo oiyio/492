@@ -1,0 +1,15 @@
+#!/bin/bash
+# Cache Search
+
+pkgname="" 	#packageName= empty string
+
+
+# $1 is a special variable, This variable corresponds to the arguments with which a script was invoked.
+# namely, $1 holds the keyword which the user typed to search for.
+if [ "$1" == "" ]; then
+	echo "package name missing"
+else
+	pkgname=$1
+	#apt-cache search pkgname komutu termalde çalıştırılır, sonuçlar cache_list.txt'ye yadırılır.
+	apt-cache search $pkgname > cache_list.txt
+fi
