@@ -1,0 +1,11 @@
+1-
+apt icindeki __init__.py dosyasındaki su satirlara dikkat et.
+from apt.cache import Cache
+from apt.package import Package
+
+bu sekilde from .. import ... dediğimiz için,
+apt.cache.Cache()  veya apt.Cache() diye instantiation yapabiliriz.
+apt.package.Package() veya apt.Package diye instantiation yapabiliriz.
+
+2-
+
