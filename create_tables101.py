@@ -2,21 +2,21 @@
 ######   testing in shell ######
 #####
 # import create_tables101 as cr
-# cr.create()
-# cr.insert()
+# cr.createAll()
+# cr.insertToUser()
 # cr.test("ali","123")
 # cr.printAll()
 # cr.showAllTables();
 # cr.showAllRows();
-# cr.deleteRow("ali")
+# cr.deleteRowFromUsers("ali")
 # deletion of tables are done via shell commands.
 # deletion of database are done via manually deleting .db file.
 import sqlite3
 
 def createAll():
 	createUsersTable()
-	createPackageTable()
-	createCommentTable()
+	createPackagesTable()
+	createCommentsTable()
 
 
 def createUsersTable():
@@ -37,7 +37,7 @@ def createUsersTable():
 
 
 # pid | package_name | category | total_rate | total_download	
-def createPackageTable():
+def createPackagesTable():
 	db = sqlite3.connect("mydb.db")
 
 	im = db.cursor()
@@ -56,8 +56,29 @@ def createPackageTable():
 	db.commit()
 	db.close()
 
+def insertToPackages():
 
-def createCommentTable():
+	db = sqlite3.connect("mydb.db")
+	im = db.cursor()
+	
+	veriler = [
+				("ali","123","sanane","some@some"),
+				("omer","123","sanane","some@some"),
+				("ahmet","123","sanane","some@some"),
+				("huseyin","123","sanane","some@some"),
+				("kemal","123","sanane","some@some"),
+				("cagdas","123","sanane","some@some")
+			  ]
+	#skip user_id, bacause of autoincrement, thus NULL in mysql command.
+	for i in veriler:
+		im.execute("""INSERT INTO packages 
+		VALUES (NULL, ?, ?, ?, ?)""", i)
+
+	db.commit()
+	db.close()
+		
+
+def createCommentsTable():
 	db = sqlite3.connect("mydb.db")
 
 	im = db.cursor()
@@ -86,7 +107,7 @@ def deleteRow(username):
 	db.commit()
 	db.close()
 	
-def insert():
+def insertToUser():
 
 	db = sqlite3.connect("mydb.db")
 	im = db.cursor()
