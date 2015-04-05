@@ -2,16 +2,98 @@
 ######   testing in shell ######
 #####
 # import create_tables101 as cr
-# cr.create()
-# cr.insert()
+# cr.createAll()
+# cr.insertToUser()
 # cr.test("ali","123")
 # cr.printAll()
 # cr.showAllTables();
 # cr.showAllRows();
-# cr.deleteRow("ali")
+# cr.deleteRowFromUsers("ali")
 # deletion of tables are done via shell commands.
 # deletion of database are done via manually deleting .db file.
 import sqlite3
+
+def createAll():
+	createUsersTable()
+	createPackagesTable()
+	createCommentsTable()
+
+
+def createUsersTable():
+	db = sqlite3.connect("mydb.db")
+
+	im = db.cursor()
+
+	im.execute("""CREATE TABLE users(
+					uid INTEGER PRIMARY KEY AUTOINCREMENT,
+					username VARCHAR(20) NOT NULL,
+					password VARCHAR(20) NOT NULL,
+					fullname VARCHAR(30) NOT NULL,
+					email VARCHAR(30) NOT NULL
+					)""")
+	im.execute("""CREATE INDEX uindex ON users (username)""")
+	db.commit() # is it really necessary? 
+	db.close()
+
+
+# pid | package_name | category | total_rate | total_download	
+def createPackagesTable():
+	db = sqlite3.connect("mydb.db")
+
+	im = db.cursor()
+
+	im.execute("""CREATE TABLE packages(
+					pid INTEGER PRIMARY KEY AUTOINCREMENT,
+					pname VARCHAR(50) NOT NULL,
+					version VARCHAR(50) NOT NULL,
+					category VARCHAR(20) NOT NULL,
+					total_rate INT NOT NULL,
+					total_download INT NOT NULL
+					)""")
+					
+	im.execute("""CREATE INDEX pindex ON packages (pname)""")
+	
+	db.commit()
+	db.close()
+
+# import create_tables101 as cr
+# cr.insertToPackages()
+def insertToPackages():
+
+	db = sqlite3.connect("mydb.db")
+	im = db.cursor()
+	
+	#skip user_id, bacause of autoincrement, thus NULL in mysql command.
+
+	with open("delete_line_mine/lisp_output.txt",'r') as infile: 
+			for line in infile:
+
+				pname = line.strip().split(' ')[0]
+				pversion = line.strip().split(' ')[1]
+				im.execute("INSERT INTO packages VALUES ( NULL, '" + pname + "', '" + pversion + "', 'lisp', 0, 0)")
+
+	db.commit()
+	print ("end")
+	db.close()
+
+def createCommentsTable():
+	db = sqlite3.connect("mydb.db")
+
+	im = db.cursor()
+
+	im.execute("""CREATE TABLE comments(
+					cid INTEGER PRIMARY KEY AUTOINCREMENT,
+					username VARCHAR(50) NOT NULL,
+					pname VARCHAR(50) NOT NULL,
+					rate VARCHAR(20) NOT NULL,
+					comment INT NOT NULL,
+					date INT NOT NULL
+					)""")
+					
+	im.execute("""CREATE INDEX cpindex ON comments (pname)""")
+	
+	db.commit()
+	db.close()
 
 def deleteRow(username):
 	db = sqlite3.connect("mydb.db")
@@ -22,23 +104,8 @@ def deleteRow(username):
 	print ("something")
 	db.commit()
 	db.close()
-
-
-def create():
-	db = sqlite3.connect("mydb.db")
-
-	im = db.cursor()
-
-	im.execute("""CREATE TABLE users(
-					user_id INTEGER PRIMARY KEY AUTOINCREMENT,
-					username VARCHAR(20) NOT NULL,
-					password VARCHAR(20) NOT NULL,
-					fullname VARCHAR(30) NOT NULL,
-					email VARCHAR(30) NOT NULL
-					)""")
-	db.close()
-					
-def insert():
+	
+def insertToUsers():
 
 	db = sqlite3.connect("mydb.db")
 	im = db.cursor()
@@ -106,3 +173,4 @@ if __name__ == "__main__":
 	create()
 	test()
 	insert()
+	printAll()
