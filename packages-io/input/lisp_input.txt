@@ -1,0 +1,420 @@
+anthy-el (9100h-16)
+    input method for Japanese - elisp frontend
+anything-el (1.287-2)
+    open anything / QuickSilver-like candidate-selection framework
+aplus-fsf-el (4.22.1-6)
+    XEmacs lisp for A+ development
+auto-complete-el (1.3.1-2)
+    intelligent auto-completion extension for GNU Emacs
+auto-install-el (1.53-1)
+    Auto install elisp file
+buildapp (1.4.2-1)
+    application to create common lisp images
+chicken-bin (4.7.0-1)
+    Practical and portable Scheme system - compiler
+cl-acl-compat (1.2.42+cvs.2010.02.08-dfsg-1.1)
+    Compatibility layer for Allegro Common Lisp
+cl-alexandria (0.0.20100217-1)
+    A collection of portable Common Lisp utilities
+cl-asdf (2:2.22-1)
+    Another System Definition Facility
+cl-aserve (1.2.42+cvs.2010.02.08-dfsg-1.1)
+    Portable Aserve
+cl-awk (1-3)
+    Common Lisp package with the features of AWK and more
+cl-babel (0.3.0+20091229-1)
+    A charset encoding/decoding library, not unlike GNU libiconv
+cl-base64 (3.3.3-2)
+    Common Lisp package to encode and decode base64 with URI support
+cl-bordeaux-threads (0.0.2-1)
+    Portable shared-state concurrency for Common Lisp
+cl-brlapi (4.4-10+deb7u1)
+    Common Lisp bindings for BrlAPI
+cl-cffi (20100219-2)
+    The Common Foreign Function Interface for Common Lisp
+cl-closer-mop (2:0.6-1)
+    Cross Implementation AMOP library
+cl-cluck (0.1.3-2)
+    Common Lisp Microcontroller Clock Calculator
+cl-clx-sbcl (0.7.4-5)
+    X11 Common Lisp client library for SBCL
+cl-contextl (1:0.61-1)
+    context orientation for Common Lisp
+cl-fftw3 (1.0-1)
+    Common Lisp package for using the FFTW3 library
+cl-flexi-streams (1.0.7-2)
+    Flexi-streams: Flexible bivalent streams for Common Lisp
+cl-flexichain (1.5.1.dfsg.1-2)
+    An efficient gap buffer with a well-defined external protocol
+cl-ftp (1.3.3-2)
+    Common Lisp FTP library
+cl-getopt (1.2.0-3)
+    Common Lisp utility for command-line processing
+cl-htmlgen (1.2.42+cvs.2010.02.08-dfsg-1.1)
+    HTML generation library for Common Lisp programs
+cl-hyperobject (2.12.0-1)
+    Common Lisp library for hyperobjects
+cl-irc (1:0.8.1-dfsg-3.1)
+    Common Lisp Internet Relay Chat Library
+cl-irc-logger (0.9.4-3)
+    Internet Relay Channel Logger
+cl-kmrcl (1.106-1)
+    General Utilities for Common Lisp Programs
+cl-launch (3.018-1)
+    uniform frontend to running Common Lisp code from the shell
+cl-lexer (1-4)
+    Lexical-analyzer-generator package for Common Lisp
+cl-lml (2.5.7-4)
+    Lisp Markup Language
+cl-lml2 (1.6.6-4)
+    Lisp Markup Language
+cl-lw-compat (0.23-1)
+    LispWorks Compatibility Library
+cl-mcclim (0.9.6.dfsg.cvs20100315-1)
+    Common Lisp graphic user interface toolkit
+cl-mcclim-examples (0.9.6.dfsg.cvs20100315-1)
+    Common Lisp graphic user interface toolkit
+cl-md5 (1:1.8.5-1)
+    Common Lisp package for MD5 Message Digests
+cl-modlisp (0.6-7)
+    Common Lisp interface to the Apache mod-lisp module
+cl-pg (1:20061216-5)
+    Common Lisp library that provides a socket level postgresql interface
+cl-photo (0.14-4)
+    photographic calculator in Common Lisp
+cl-pipes (1.2.1-5)
+    Common Lisp library for pipes or streams
+cl-plplot (0.6.0-3)
+    CFFI based interface to the PLplot scientific plotting library
+cl-postoffice (1.8.2.3-4)
+    SMTP, POP, & IMAP interface library for Common Lisp Programs
+cl-ppcre (2.0.3-1)
+    Portable Regular Express Library for Common Lisp
+cl-ptester (2.1.2-6)
+    Test suite for Common Lisp programs
+cl-pubmed (2.1.3-5)
+    Common Lisp package to query Pubmed medical literature database
+cl-puri (1.5.5-1)
+    Common Lisp Portable URI Library
+cl-quicklisp (1.0-1)
+    library manager for Common Lisp
+cl-regex (1-3)
+    Common Lisp regular expression compiler/matcher
+cl-reversi (1.0.14-4)
+    Reversi game for Common Lisp
+cl-rlc (0.1.3-3)
+    Common Lisp RLC Circuit Simulator
+cl-rsm-mod (1.4)
+    McIntire's Common Lisp Modular Arithmetic Library
+cl-rss (0.1.1-6)
+    Common Lisp RSS processor
+cl-rt (20040621-4)
+    Common Lisp regression tester from MIT
+cl-salza (0.7.4-1)
+    Common Lisp package to write compressed data
+cl-spatial-trees (0.2-3)
+    Spatial trees Common Lisp library
+cl-speech-dispatcher (0.7.1-6.2)
+    Common Lisp interface to Speech Dispatcher
+cl-split-sequence (20050802-3)
+    Common Lisp package split a sequence of objects
+cl-sql (6.2.0-1)
+    SQL Interface for Common Lisp
+cl-sql-aodbc (6.2.0-1)
+    CLSQL database backend, AODBC
+cl-sql-mysql (6.2.0-1+b1)
+    CLSQL database backend, MySQL
+cl-sql-odbc (6.2.0-1)
+    CLSQL database backend, ODBC
+cl-sql-oracle (6.2.0-1) [contrib]
+    CLSQL database backend, Oracle
+cl-sql-postgresql (6.2.0-1)
+    CLSQL database backend, PostgreSQL via library
+cl-sql-postgresql-socket (6.2.0-1)
+    CLSQL database backend, PostgreSQL via sockets
+cl-sql-sqlite (6.2.0-1)
+    CLSQL database backend, SQLite
+cl-sql-sqlite3 (6.2.0-1)
+    CLSQL database backend, SQLite3
+cl-sql-tests (6.2.0-1)
+    Testing suite for CLSQL
+cl-sql-uffi (6.2.0-1+b1)
+    Common UFFI functions for CLSQL database backends
+cl-swank (1:20120525-1)
+    Superior LISP Interaction Mode for Emacs (Lisp-side server)
+cl-trivial-features (0.6-1)
+    An abstraction layer for the *features* that implementations use
+cl-trivial-gray-streams (20091021-1)
+    thin compatibility layer for gray streams
+cl-uffi (2.1.2-1)
+    Universal Foreign Function Library for Common Lisp
+cl-uffi-tests (2.1.2-1)
+    Regression tests for UFFI Common Lisp Library
+cl-umlisp (1:2007ac.2-6) [contrib]
+    Common Lisp interface for the Unified Medical Language System
+cl-umlisp-orf (3.3.2-3) [contrib]
+    Common Lisp Unified Medical Language System Interface, ORF
+cl-usocket (0.5.5-1)
+    Common Lisp socket library
+cl-webactions (1.2.42+cvs.2010.02.08-dfsg-1.1)
+    HTTP dispatch library for cl-aserve
+cl-xlunit (0.6.3-2)
+    Common Lisp eXtreme Lisp Unit Testing Package
+cl-xmls (1.4.1-1)
+    XML Simple Parser for Common Lisp
+cl-xptest (1.2.4-3)
+    Extreme programming test suite for Common Lisp package
+cl-zpb-ttf (0.7-2)
+    TTF parser
+clisp (1:2.49-8.1)
+    GNU CLISP, a Common Lisp implementation
+clisp-dev (1:2.49-8.1)
+    GNU CLISP, a Common Lisp implementation (development files)
+clisp-module-berkeley-db (1:2.49-8.1)
+    clisp module that adds an interface to Berkeley DB
+clisp-module-bindings-glibc (1:2.49-8.1)
+    clisp module that adds the glibc bindings
+clisp-module-clx (1:2.49-8.1)
+    clisp module that adds X11 bindings
+clisp-module-dbus (1:2.49-8.1)
+    clisp module that adds an interface to D-Bus
+clisp-module-gdbm (1:2.49-8.1)
+    clisp module that adds an interface to GNU DBM
+clisp-module-pcre (1:2.49-8.1)
+    clisp module that adds libpcre support
+clisp-module-postgresql (1:2.49-8.1)
+    clisp module that adds a PostgreSQL interface
+clisp-module-rawsock (1:2.49-8.1)
+    clisp module that adds a low level socket interface
+clisp-module-wildcard (1:2.49-8.1)
+    clisp module that adds wildcard matching
+clisp-module-zlib (1:2.49-8.1)
+    clisp module that adds zlib support for vectors
+cmucl (20c-2)
+    CMU Common Lisp compiler and development system
+cmucl-clm (20c-2)
+    Motif interface for CMUCL
+cmucl-docs (20c-2)
+    CMUCL documentation
+cmucl-source (20c-2)
+    CMUCL lisp sources
+cmuscheme48-el (1.8+dfsg-1+deb7u1)
+    Emacs mode specialized for Scheme48
+common-lisp-controller (7.10)
+    Common Lisp source and compiler manager
+darcsum (1.10-4)
+    pcl-cvs like interface for managing darcs patches
+debian-el (35.2+nmu1)
+    Emacs helpers specific to Debian users
+develock-el (0.39-1)
+    additional font-lock keywords for the developers on Emacs
+devscripts-el (35.2+nmu1)
+    Emacs wrappers for the commands in devscripts
+dh-lisp (0.7.1)
+    Debhelper to support Common Lisp related packages
+dictionary-el (1.8.7-15)
+    dictionary client for Emacs
+dpkg-dev-el (35.2+nmu1)
+    Emacs helpers specific to Debian development
+e2wm (1.2+git20120601-1)
+    simple window manager for emacs
+ecasound-el (2.9.0-1)
+    multitrack-capable audio recorder and effect processor (emacs)
+edb (1.31-2)
+    database program for GNU Emacs
+edict-el (1.06-9)
+    An Emacs interface to Edict
+elib (1.0-11.1+deb7u1)
+    Library of commonly-used Emacs functions
+elk (3.99.8-2)
+    scheme interpreter
+emacs-calfw (1.3+git20111208-1)
+    calendar framework for Emacs
+emacs-calfw-howm (1.3+git20111208-1)
+    calendar framework for Emacs (howm add-on)
+emacs-goodies-el (35.2+nmu1)
+    Miscellaneous add-ons for Emacs
+emacs-window-layout (1.1-2)
+    window layout manager for emacs
+evernote-mode (0.41-3)
+    Emacs major mode for editing Evernote directly
+g-wrap (1.9.14-1.1)
+    scripting interface generator for C
+gambc (4.2.8-1.1)
+    Gambit-C Scheme interpreter and compiler
+gauche (0.9.1-5.1)
+    A Scheme implementation designed for script writing
+gauche-c-wrapper (0.6.1-4.1)
+    Foreign function interface for Gauche to C libraries
+gauche-dev (0.9.1-5.1)
+    Development files for Gauche
+gauche-gdbm (0.9.1-5.1)
+    gdbm binding for Gauche
+gauche-gl (0.4.4-5+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.4.4-5 [armhf, s390x])
+    Gauche bindings for OpenGL
+gauche-zlib (0.9.1-5.1)
+    zlib binding for Gauche
+gcl (2.6.7+dfsga-1)
+    GNU Common Lisp compiler
+geiser (0.1.4-2)
+    enhanced Scheme interaction mode for Emacs
+gettext-el (0.18.1.1-9)
+    Emacs po-mode for editing gettext .po files
+gnu-smalltalk-el (3.2.4-2)
+    GNU Smalltalk Emacs front-end
+gnus-bonus-el (35.2+nmu1)
+    Miscellaneous add-ons for Gnus
+goo (0.155-12)
+    generic object-orientator (programming language)
+gri-el (2.12.23-2.2)
+    Emacs major-mode for gri, a language for scientific graphics
+guile-1.6 (1.6.8-10.3)
+    The GNU extension language and Scheme interpreter
+guile-1.6-dev (1.6.8-10.3)
+    Development files for Guile 1.6
+guile-1.6-libs (1.6.8-10.3)
+    Main Guile libraries
+guile-1.6-slib (1.6.8-10.3)
+    Guile SLIB support
+guile-1.8 (1.8.8+1-8)
+    GNU extension language and Scheme interpreter
+guile-1.8-dev (1.8.8+1-8)
+    Development files for Guile 1.8
+guile-1.8-libs (1.8.8+1-8)
+    Core Guile libraries
+guile-2.0 (2.0.5+1-3)
+    GNU extension language and Scheme interpreter
+guile-2.0-dev (2.0.5+1-3)
+    Development files for Guile 2.0
+guile-2.0-libs (2.0.5+1-3)
+    Core Guile libraries
+guile-cairo (1.4.0-3)
+    Guile bindings for Cairo
+guile-cairo-dev (1.4.0-3)
+    Guile bindings for Cairo, development files
+guile-db (0.1-4.1)
+    Berkeley DB module for Guile
+guile-g-wrap (1.9.14-1.1)
+    scripting interface generator for C - Guile runtime
+guile-library (0.2.1-1)
+    Library of useful Guile modules
+guile-pg (0.16-5)
+    Guile bindings for the PostgreSQL client library
+haml-elisp (1:3.0.15-4)
+    Emacs Lisp mode for the Haml markup language
+howm (1.4.0rc2-2)
+    Note-taking tool on Emacs
+ibus-el (0.3.0-2)
+    IBus client for GNU Emacs
+idl-font-lock-el (1.5-6)
+    OMG IDL font-locking for Emacs
+ikarus (0.0.3+bzr.2010.01.26-2)
+    Scheme compiler and interpreter
+lookup-el (1.4.1-8)
+    emacsen interface to electronic dictionaries
+lush (1.2.1-9+cvs20110227+nmu1)
+    Lisp Universal Shell Executable
+lush-library (1.2.1-9+cvs20110227+nmu1)
+    Lisp Universal Shell Library
+mit-scheme (9.1-1)
+    MIT/GNU Scheme development environment
+mpg123-el (1:1.58-1)
+    front-end to mpg321/ogg321 media players for Emacs
+mu4e (0.9.8.4-3+deb7u1)
+    e-mail client for Emacs based on mu (maildir-utils)
+muse-el (3.20+dfsg-0.1)
+    Author and publish projects using Wiki-like markup
+navi2ch (2.0.0~git20120331-1)
+    2channel Navigator for Emacs
+nethack-el (1:0.9.5-3)
+    Emacs major-mode for playing NetHack
+oaklisp (1.3.3-5)
+    An object-oriented dialect of Scheme
+oneliner-el (0.3.6-7.1)
+    extensions of Emacs standard shell-mode
+paredit-el (20-2)
+    Emacs minor mode for structurally editing Lisp code
+php-elisp (1.5.0-1.1)
+    Emacs support for php files
+picolisp (3.1.0.7-1)
+    Lisp interpreter and application server framework
+planner-el (3.42-5.1)
+    personal information manager for Emacs
+prolog-el (1.23-1)
+    Emacs major mode for editing Prolog code
+quilt-el (0.48.0-1)
+    simple Emacs interface of quilt
+racket (5.2.1+g6~92c8784+dfsg2-2+deb7u1)
+    extensible programming language in the Scheme family
+racket-common (5.2.1+g6~92c8784+dfsg2-2+deb7u1)
+    extensible programming language in the Scheme family (shared files)
+rail (1.2.6-2)
+    Replace Agent-string Internal Library
+remember-el (1.9-1.1)
+    remember text within Emacs
+rep (0.90.2-1.3)
+    lisp command interpreter
+sass-elisp (3.0.15-2)
+    Emacs Lisp mode for the Sass markup language
+sawfish-lisp-source (1:1.5.3-2.1)
+    sawfish lisp files
+sbcl (2:1.0.57.0-2)
+    Common Lisp compiler and development system
+sbcl-source (2:1.0.57.0-2)
+    Source code files for SBCL
+scheme2c (2011.07.26-5)
+    Joel Bartlett's fabled Scheme->C system
+scheme48 (1.8+dfsg-1+deb7u1)
+    A simple, modular, and lightweight Scheme implementation
+scheme9 (2010.11.13-2)
+    Scheme 9 from Empty Space R4RS Scheme interpreter
+scm (5e5-3.2)
+    A Scheme language interpreter
+scsh (0.6.6.3)
+    A `scheme' interpreter designed for writing system programs (default version)
+scsh-0.6 (0.6.7-8)
+    A `scheme' interpreter designed for writing system programs
+scsh-common-0.6 (0.6.7-8)
+    A `scheme' interpreter designed for writing system programs
+scsh-install-lib (1.3.0-1)
+    scsh package installer
+sigscheme (0.8.5-2.1)
+    A Scheme Interpreter
+slib (3b1-3.1)
+    Portable Scheme library
+slime (1:20120525-1)
+    Superior LISP Interaction Mode for Emacs
+stalin (0.11-5)
+    An extremely aggressive Scheme compiler
+suikyo-elisp (2.1.0-3)
+    Romaji Hiragana conversion library (elisp binding)
+timidity-el (2.13.2-40.1)
+    Emacs front end to Timidity++
+tinyscheme (1.37-3.1)
+    Very small scheme implementation
+twittering-mode (2.0.0+git20120325-1)
+    Twitter client for Emacs
+uim-el (1:1.8.1-4)
+    Universal Input Method - Emacs front end
+verbiste-el (0.1.34-1)
+    French and Italian conjugator - emacs extension
+vm-bonus-el (35.2+nmu1)
+    vm-bogofilter add-on for VM
+w3m-el (1.4.4-11)
+    simple Emacs interface of w3m
+w3m-el
+    virtual package provided by w3m-el-snapshot
+w3m-el-snapshot (1.4.483+0.20120614-1)
+    simple Emacs interface of w3m (development version)
+windows-el (2.41-3)
+    window manager for GNU Emacs
+wysihtml-el (0.13-5.1)
+    Almost real-time previewing system for HTML and DocBook
+x-face-el (1.3.6.24-12)
+    utility for displaying X-Face on emacsen
+x-pgp-sig-el (1.3.5.1-4.1) [contrib]
+    X-PGP-Sig mail and news header utility for Emacs
+yasnippet (0.6.1c-1)
+    A template system for Emacs
+yc-el (5.0.0-1)
+    Yet another Canna client for Emacsen 

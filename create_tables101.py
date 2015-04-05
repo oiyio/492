@@ -64,14 +64,17 @@ def insertToPackages():
 	im = db.cursor()
 	
 	#skip user_id, bacause of autoincrement, thus NULL in mysql command.
-	
-	im.execute("INSERT INTO packages VALUES ( NULL, 'pkg', 'vrs', 'category', 0, 0)")
+
+	with open("delete_line_mine/lisp_output.txt",'r') as infile: 
+			for line in infile:
+
+				pname = line.strip().split(' ')[0]
+				pversion = line.strip().split(' ')[1]
+				im.execute("INSERT INTO packages VALUES ( NULL, '" + pname + "', '" + pversion + "', 'lisp', 0, 0)")
 
 	db.commit()
+	print ("end")
 	db.close()
-
-
-
 
 def createCommentsTable():
 	db = sqlite3.connect("mydb.db")
