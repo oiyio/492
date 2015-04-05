@@ -56,27 +56,22 @@ def createPackagesTable():
 	db.commit()
 	db.close()
 
+# import create_tables101 as cr
+# cr.insertToPackages()
 def insertToPackages():
 
 	db = sqlite3.connect("mydb.db")
 	im = db.cursor()
 	
-	veriler = [
-				("ali","123","sanane","some@some"),
-				("omer","123","sanane","some@some"),
-				("ahmet","123","sanane","some@some"),
-				("huseyin","123","sanane","some@some"),
-				("kemal","123","sanane","some@some"),
-				("cagdas","123","sanane","some@some")
-			  ]
 	#skip user_id, bacause of autoincrement, thus NULL in mysql command.
-	for i in veriler:
-		im.execute("""INSERT INTO packages 
-		VALUES (NULL, ?, ?, ?, ?)""", i)
+	
+	im.execute("INSERT INTO packages VALUES ( NULL, 'pkg', 'vrs', 'category', 0, 0)")
 
 	db.commit()
 	db.close()
-		
+
+
+
 
 def createCommentsTable():
 	db = sqlite3.connect("mydb.db")
@@ -107,7 +102,7 @@ def deleteRow(username):
 	db.commit()
 	db.close()
 	
-def insertToUser():
+def insertToUsers():
 
 	db = sqlite3.connect("mydb.db")
 	im = db.cursor()
