@@ -72,7 +72,7 @@ def insertToPackages():
 			#s="INSERT INTO packages VALUES ( NULL, '" + pname + "', '" + pversion + "', 'lisp', 0, 0)"
 			#im.execute(s)
 			im.execute("""INSERT INTO packages VALUES ( NULL, ?, ?, ?, 0, 0)""",(pname,pversion,"lisp"))
-			db.commit()
+	db.commit()
 		
 	print ("end")
 	db.close()

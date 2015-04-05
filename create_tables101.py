@@ -62,7 +62,7 @@ def insertToPackages():
 
 	db = sqlite3.connect("mydb.db")
 	im = db.cursor()
-	
+
 	#skip user_id, bacause of autoincrement, thus NULL in mysql command.
 
 	with open("packages-io/output/lisp_output.txt",'r') as infile: 
@@ -72,8 +72,8 @@ def insertToPackages():
 			#s="INSERT INTO packages VALUES ( NULL, '" + pname + "', '" + pversion + "', 'lisp', 0, 0)"
 			#im.execute(s)
 			im.execute("""INSERT INTO packages VALUES ( NULL, ?, ?, ?, 0, 0)""",(pname,pversion,"lisp"))
-			db.commit()
-		
+	db.commit()
+
 	print ("end")
 	db.close()
 

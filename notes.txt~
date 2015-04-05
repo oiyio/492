@@ -7,5 +7,26 @@ bu sekilde from .. import ... dediğimiz için,
 apt.cache.Cache()  veya apt.Cache() diye instantiation yapabiliriz.
 apt.package.Package() veya apt.Package diye instantiation yapabiliriz.
 
-2-
+2- apt_pkg 'in nasil kullanildigini bilmiyorum, yerini de bulamadim, c++'da yazilmis.
+
+
+3 - Sqlite shell'i nasil kullaniriz? 
+In Windows için, sqlite shell indirilir,inen exe dosyasını
+python dosyasi ile ayni yere koyariz. exe dosyasina tiklayinca shell acilir,  daha onceden
+create etmis oldugumuz mydb.db dosyasindaki table'lara bakmak istiyorum diyelim. 
+.open mydb.db
+select * from packages;
+
+In ubuntu, sqlite yuklu degilse, database locked hatasi veriyor.
+yukledikten sonra, terminal'de su komutu veriyorum
+sqlite3 mydb.db  -> shell aciliyor,
+select * from packages;
+
+
+4- packages-io klasoru altina geliyorum terminalde, 
+sudo python
+import del_row
+deyince input.txt, outout.txt'ye donusturuluyor.
+
+
 
