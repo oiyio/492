@@ -1,0 +1,27 @@
+import apt
+import os
+import sys
+
+def checkPackage(cache):
+        count=1
+	with open("packages-io/output/lisp_output.txt",'r') as infile: 
+		for line in infile:
+			package_name = line.strip().split(' ')[0]
+			try:
+				pkg = cache[package_name]
+			except Exception, arg:
+				pass
+                		#print >> sys.stderr, "Sorry, package installation failed [{err}]".format(err=str(arg))
+			vrs = pkg.versions
+			print "section : " + vrs[0].section
+
+cache = apt.cache.Cache()
+print "before update"
+cache.update() 
+print "after update"
+
+checkPackage(cache)
+
+del_lines()
+print ("done")
+
