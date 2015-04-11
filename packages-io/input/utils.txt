@@ -1,0 +1,3138 @@
+2vcard (0.5-3)
+    perl script to convert an addressbook to VCARD file format
+4store (1.1.4-2+b1 [armel, armhf, mips, mipsel, powerpc, s390, sparc], 1.1.4-2 [amd64, i386, ia64, kfreebsd-amd64, kfreebsd-i386, s390x])
+    RDF database storage and query engine -- database daemon
+9base (1:6-5)
+    Plan 9 userland tools
+abtransfers (0.0.3.0-2)
+    simple online banking application for online money transfers
+ack-grep (1.96-2)
+    grep-like program specifically for large source trees
+acl (2.2.51-8)
+    Access control list utilities
+acpi (1.6-1)
+    displays information on ACPI devices
+acpitail (0.1-4)
+    Show ACPI information in a tail-like style
+acpitool (0.5.1-3)
+    command line ACPI client
+actionaz (3.4.2-1)
+    emulate human activity through a powerful GUI and JavaScript
+activity-log-manager (0.8.0-1)
+    blacklist configuration user interface for Zeitgeist
+adplug-utils (2.2.1+dfsg3-0.1)
+    free AdLib sound library (utils)
+advancecomp (1.15-1)
+    collection of recompression utilities
+aesfix (1.0.1-2)
+    tool for correcting bit errors in an AES key schedule
+aeskeyfind (1:1.0-1)
+    tool for locating AES keys in a captures memory image
+aespipe (2.4c-1)
+    AES-encryption tool with loop-AES support
+afbinit (1.0-4) [contrib]
+    Elite 3D Framebuffer firmware initializer
+afflib-tools (3.6.6-1.1+b1 [i386], 3.6.6-1.1 [amd64, armel, armhf, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    support for Advanced Forensics format (utilities)
+afuse (0.2-3+b2 [kfreebsd-amd64, kfreebsd-i386], 0.2-3+b1 [amd64, armel, armhf, i386, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    automounting file system implemented in user-space using FUSE
+agedu (8928-1)
+    a Unix utility for tracking down wasted disk space
+aha (0.4.4-1)
+    ANSI color to HTML converter
+akonadiconsole (4:4.4.11.1+l10n-3+b1)
+    management and debugging console for akonadi
+alacarte (3.5.3-1)
+    easy GNOME menu editing tool
+alarm-clock (1.2.5-1.2)
+    Alarm Clock for GTK Environments
+alt-key (2.2.5-1)
+    tool to help developers improve keyboard accelerators
+alure-utils (1.2-6)
+    AL Utilities REtooled (utilities)
+amanda-client (1:3.3.1-4)
+    Advanced Maryland Automatic Network Disk Archiver (Client)
+amanda-common (1:3.3.1-4)
+    Advanced Maryland Automatic Network Disk Archiver (Libs)
+amanda-server (1:3.3.1-4)
+    Advanced Maryland Automatic Network Disk Archiver (Server)
+amarok-utils (2.6~beta1+75.g47e75df-1)
+    utilities for Amarok media player
+amideco (0.31e-3.1)
+    Decompress flashfiles equipped with an AMI BIOS
+amule-emc (0.5.2-2)
+    lists ed2k links inside emulecollection files
+anthy (9100h-16)
+    input method for Japanese - backend, dictionary and utility
+anthy-common (9100h-16)
+    input method for Japanese - common files and dictionary
+anypaper (1.4-1)
+    front-end for wallpapersetter
+anyremote (6.0+dfsg-1)
+    Remote control daemon for applications using Bluetooth, IrDA or WiFi
+anyremote-data (6.0+dfsg-1)
+    architecture independent files for anyremote
+apparix (07-261-1)
+    console-based bookmark tool for fast file system navigation
+apt-listchanges (2.85.11)
+    package change history notification tool
+apt-rdepends (1.3.0-3)
+    Recursively lists package dependencies
+aptfs (1:0+git201108031956-38fb8dc-1)
+    FUSE filesystem for APT source repositories
+aqbanking-tools (5.0.24-3)
+    basic command line homebanking utilities
+ara (1.0.31)
+    Command line utility for searching the Debian package database
+arc (5.21p-1)
+    Archive utility based on the MSDOS ARC program
+archivemount (0.6.1-2+b1)
+    mounts an archive for access as a file system
+archmage (1:0.2.4-3)
+    CHM(Compiled HTML) Decompressor
+arj (3.10.22-10)
+    archiver for .arj files
+ark (4:4.8.4-2)
+    archive utility
+armada-backlight (1.1-6)
+    adjust backlight of Compaq Armada laptops (E300, M500, M700)
+artha (1.0.2-1)
+    Handy off-line thesaurus based on WordNet
+ascii (3.11-1)
+    interactive ASCII name and synonym chart
+asciio (1.02.71-1)
+    dynamically create ASCII charts and graphs with GTK+2
+assimp-utils (3.0~dfsg-1)
+    3D model import library (utilities)
+assogiate (0.2.1-5)
+    editor of the MIME file types database
+asused (3.72-9)
+    To run a check on the usage of your registry's allocations
+athena-jot (9.0-5)
+    print out increasing, decreasing, random, or redundant data, one per line
+atool (0.39.0-2)
+    tool for managing file archives of various types
+attr (1:2.4.46-8)
+    Utilities for manipulating filesystem extended attributes
+audiofile-tools (0.3.4-2)
+    sfinfo and sfconvert tools
+authbind (2.1.1)
+    Allows non-root programs to bind() to low ports
+autodir (0.99.9-7.1)
+    Automatically creates home and group directories for LDAP/NIS/SQL/local accounts
+autofs (5.0.7-3)
+    kernel-based automounter for Linux
+autofs-hesiod (5.0.7-3)
+    Hesiod map support for autofs
+autofs-ldap (5.0.7-3)
+    LDAP map support for autofs
+autokey-common (0.90.1-1.1)
+    desktop automation utility - common data
+autorenamer (0.2-1)
+    program to rename files to make them sort in given order
+autotrash (0.1.5-1)
+    purges files from your trash based on age and/or filename
+avahi-ui-utils (0.6.31-2)
+    Avahi GTK+ utilities
+avfs (1.0.0-4)
+    virtual filesystem to access archives, disk images, remote locations
+avinfo (1.0.a15+20090102-1)
+    Audio/Video information automatic extractor/file list generator
+awardeco (0.2-3.1)
+    Decompress flashfiles equipped with an AWARD BIOS
+away (0.9.5-3)
+    A terminal locking program
+b43-fwcutter (1:015-14.1) [contrib]
+    Utility for extracting Broadcom 43xx firmware
+babiloo (2.0.11-1)
+    dictionary viewer with multi-languages support
+backintime-common (1.0.10-1)
+    simple backup/snapshot system
+backintime-gnome (1.0.10-1)
+    GNOME front-end for backintime
+backintime-kde (1.0.10-1)
+    KDE front-end for backintime
+backuppc (3.2.1-4)
+    high-performance, enterprise-grade system for backing up PCs
+bacula-console-qt (5.2.6+dfsg-9)
+    network backup service - Bacula Administration Tool
+bar (1.11.0+debian-4)
+    Show information about a data transfer
+barry-util (0.18.3-5)
+    Command line utilities for working with the RIM BlackBerry Handheld
+barrybackup-gui (0.18.3-5)
+    GTK+ GUI for backing up the RIM BlackBerry Handheld
+barrydesktop (0.18.3-5)
+    Desktop Panel GUI for the RIM BlackBerry Handheld
+bash-builtins (4.2+dfsg-0.1+deb7u3)
+    Bash loadable builtins - headers & examples
+bashburn (3.0.1-2~deb7u1)
+    simplify cd/dvd burning at the command line
+bdf2psf (1.88)
+    font converter to generate console fonts from BDF source fonts
+bfbtester (2.0.1-7.1)
+    Brute Force Binary Tester
+binclock (1.5-6)
+    binary clock for console with color support
+bindfs (1.10.3-2)
+    mirrors or overlays a local directory with altered permissions
+binfmtc (0.17-1)
+    Execute C program as script
+binstats (1.08-8)
+    Statistics tool for installed programs
+blhc (0.03+20120626+git93afe23-1)
+    build log hardening check
+blktap-utils (2.0.90-1)
+    utilities to work with VHD disk images files
+blktrace (1.0.1-2.1)
+    utilities for block layer IO tracing
+bluez-tools (0.1.38+git662e-3)
+    Set of tools to manage Bluetooth devices for linux
+bogl-bterm (0.1.18-8+b1)
+    Ben's Own Graphics Library - graphical terminal
+bonnie++ (1.96)
+    Hard drive benchmark suite.
+bootcd (3.28)
+    run your system from cd without need for disks
+bootcd-backup (3.28)
+    tools to backup a Debian or alien Linux installation
+bootcd-i386 (3.28)
+    bootcd extension to create images that can boot on i386
+bootcd-ia64 (3.28)
+    bootcd extension to create images that can boot on ia64
+bootcd-mkinitramfs (3.28)
+    initramfs extension for bootcd
+bootchart2 (0.14.4-3)
+    boot process performance analyser
+bosh (0.6-6)
+    browse output of processes
+boxbackup-client (0.11.1~r2837-1)
+    client for the BoxBackup remote backup system
+boxbackup-server (0.11.1~r2837-1)
+    server for the BoxBackup remote backup system
+browser-plugin-lightspark (0.6.0.1-2)
+    High-performance SWF player - Mozilla Plugin (experimental)
+bsdcpio (3.0.4-3+wheezy1) [security]
+    Implementation of the 'cpio' program from FreeBSD
+bsdiff (4.3-14)
+    generate/apply a patch between two binary files
+bsdmainutils (9.0.3)
+    collection of more utilities from FreeBSD
+bsdtar (3.0.4-3+wheezy1) [security]
+    Implementation of the 'tar' program from FreeBSD
+bsdutils (1:2.20.1-5.3)
+    Basic utilities from 4.4BSD-Lite
+buffer (1.19-11)
+    Buffering/reblocking program for tape backups, printing, etc.
+burp (1.3.8-1)
+    Simple cross-platform network BackUp and Restore Program
+busybox (1:1.20.0-7)
+    Tiny utilities for small and embedded systems
+busybox-syslogd (1:1.20.0-7)
+    Provides syslogd and klogd using busybox
+bzip2 (1.0.6-4)
+    high-quality block-sorting file compressor - utilities
+cabal-debian (1.25-1)
+    Create a debianization for a cabal package
+cabextract (1.4-3)
+    Microsoft Cabinet file unpacker
+caca-utils (0.99.beta18-1)
+    text mode graphics utilities
+calamaris (2.99.4.0-18)
+    log analyzer for Squid or Oops proxy log files
+calcoo (1.3.18-3)
+    Scientific calculator (GTK+)
+calcurse (2.9.2-1)
+    text-based calendar and todo manager
+canna (3.7p3-11)
+    input system for Japanese - server and dictionary
+canna-shion (0.0.20010204-11)
+    supporting dictionaries for Canna
+canna-utils (3.7p3-11)
+    input system for Japanese - utilities
+catfish (0.3.2-2+deb7u1.1)
+    file search tool that support several different engines
+cbm (0.1-9)
+    display the current network traffic in colors
+ccal (4.0-3)
+    Colorised calendar utility
+cclive (0.7.9-1)
+    lightweight command line video extraction tool
+ccrypt (1.9-4)
+    secure encryption and decryption of files and streams
+ccze (0.2.1-2)
+    A robust, modular log coloriser
+cd5 (0.1-3)
+    Compute checksum of individual track on CD-ROMS
+cdargs (1.35-9)
+    bookmarks and browsing for the cd command
+cdck (0.7.0-5)
+    tool for verifying the quality of written CDs/DVDs
+cdde (0.3.1-1)
+    CD Detect & Execute utility
+cde (0.1-1)
+    package everything required to execute a Linux command on another computer
+cdebconf (0.182)
+    Debian Configuration Management System (C-implementation)
+cdo (1.5.4+dfsg.1-5)
+    Climate Data Operators
+cec-utils (1.6.2-1.1)
+    USB CEC Adaptor communication Library (utility programs)
+cereal (0.24-1)
+    automated, logged serial terminal management system
+certmonger (0.57-1)
+    D-Bus -based service to simplify interaction with certificate authorities
+cfv (1.18.3-2)
+    versatile file checksum creator and verifier
+changetrack (4.7-1)
+    monitor changes to (configuration) files
+chase (0.5.2-4)
+    Follow a symlink and print out its target file
+checkpolicy (2.1.8-2)
+    SELinux policy compiler
+chiark-backup (4.2.0)
+    backup system for small systems and networks
+chiark-rwbuffer (4.2.0)
+    readbuffer/writebuffer: prevents tape drive seesawing, etc.
+chiark-utils-bin (4.2.0)
+    chiark system administration utilities
+chrpath (0.13-2)
+    Tool to edit the rpath in ELF binaries
+cksfv (1.3.14-2)
+    sfv checker and generator
+clamav (0.98.5+dfsg-0+deb7u2)
+    anti-virus utility for Unix - command-line interface
+clamav-base (0.98.5+dfsg-0+deb7u2)
+    anti-virus utility for Unix - base package
+clamav-daemon (0.98.5+dfsg-0+deb7u2)
+    anti-virus utility for Unix - scanner daemon
+clamav-freshclam (0.98.5+dfsg-0+deb7u2)
+    anti-virus utility for Unix - virus database update utility
+clamav-milter (0.98.5+dfsg-0+deb7u2)
+    anti-virus utility for Unix - sendmail integration
+clamav-testfiles (0.98.5+dfsg-0+deb7u2)
+    anti-virus utility for Unix - test files
+clamav-unofficial-sigs (3.7.1-3)
+    update script for 3rd-party clamav signatures
+clamtk (4.41-1)
+    graphical front-end for ClamAV
+clamz (0.5-1)
+    command-line program to download MP3's from Amazon
+clive (2.3.3-2)
+    video extraction utility for YouTube, Google Video and others
+clzip (1.3-2)
+    C, lossless data compressor based on the LZMA algorithm
+cmigemo (20110227-7)
+    Japanese incremental search tool written in C - binary
+cmigemo-common (20110227-7)
+    Japanese incremental search tool written in C - common files
+cmip5-cmor-tables (1.3.12-1)
+    CMIP5 tables for the Climate Model Output Rewriter library
+cmis-client (0.1.0-1+b1)
+    client for the CMIS protocol
+cmospwd (5.0+dfsg-2)
+    decrypt BIOS passwords from CMOS
+codfis (0.4.7-2)
+    tool to generate Italian fiscal codes (codice fiscale)
+collectd (5.1.0-3)
+    statistics collection and monitoring daemon
+collectd-core (5.1.0-3)
+    statistics collection and monitoring daemon (core system)
+collectd-dev (5.1.0-3)
+    statistics collection and monitoring daemon (development files)
+collectd-utils (5.1.0-3)
+    statistics collection and monitoring daemon (utilities)
+colorname (0.4+dfsg.1-3)
+    utility to associate a name to a color
+colortail (0.3.3-1)
+    log colorizer that makes log checking easier
+colortest (20110624-1)
+    utilities to test color capabilities of terminal
+colortest-python (1.4-2)
+    utility to test color capabilities of terminal
+comparepdf (1.0.1-1)
+    command line tool for comparing two PDF files
+comprez (2.6.1-2)
+    frontend to many compression programs
+concordance (0.24-1.1)
+    Harmony remote configuration tool
+confclerk (0.5.5-1)
+    offline conference schedule application
+congruity (15-1)
+    graphical utility to configure Logitech Harmony remotes
+conky-all (1.9.0-2) [contrib]
+    highly configurable system monitor (all features enabled)
+conky-cli (1.9.0-2)
+    highly configurable system monitor (basic version)
+conky-std (1.9.0-2)
+    highly configurable system monitor (default version)
+console-braille (1.3)
+    Fonts and keymaps for reading/typing unicode braille
+console-common (0.7.87)
+    basic infrastructure for text console configuration
+console-data (2:1.12-2)
+    keymaps, fonts, charset maps, fallback tables for console-tools
+console-setup (1.88)
+    console font and keymap setup program
+console-setup-freebsd (1.88)
+    FreeBSD specific part of console-setup
+console-setup-linux (1.88)
+    Linux specific part of console-setup
+console-setup-mini (1.88)
+    console font and keymap setup program - reduced version for Linux
+console-tools (1:0.2.3dbs-70)
+    Linux console and font utilities
+convert-pgn (0.29.6-2)
+    chess book format converter
+convlit (1.8-1)
+    convert Microsoft Reader .LIT files to HTML
+convmv (1.12-2)
+    filename encoding conversion tool
+coop-computing-tools (3.5.1-2)
+    cooperative computing tools
+copyfs (1.0.1-4)
+    Versioning filesystem for FUSE
+coreutils (8.13-3.5)
+    GNU core utilities
+cortado (0.6.0-1)
+    streaming applet for Ogg formats
+cowbuilder (0.70)
+    pbuilder running on cowdancer
+cowdancer (0.70)
+    Copy-on-write directory tree utility.
+cpio (2.11+dfsg-0.1+deb7u1)
+    GNU cpio -- a program to manage archives of files
+cpio-win32 (2.11+dfsg-0.1+deb7u1)
+    GNU cpio -- a program to manage archives of files (win32 build)
+cpipe (3.0.1-1)
+    counting pipe
+cpm (0.26-1)
+    Curses based password manager using PGP-encryption
+cramfsprogs (1.1-6+b1 [mips, mipsel], 1.1-6 [amd64, armel, armhf, i386, ia64, powerpc, s390, s390x, sparc])
+    Tools for CramFs (Compressed ROM File System)
+cramfsswap (1.4.1)
+    swap endianess of a cram filesystem (cramfs)
+crash (6.0.6-1)
+    kernel debugging utility, allowing gdb like syntax
+createfp (3.2.0-2)
+    Language detection library - fingerprint generation utility
+csstidy (1.4-3)
+    CSS parser and optimiser
+cstream (3.0.0-1)
+    general-purpose stream-handling tool similar to dd
+csvtool (1.2.2-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.2.2-1 [armhf, s390x])
+    handy command line tool for handling CSV files
+ctpl (0.3.3.dfsg-2)
+    command-line template parsing utility
+cue2toc (0.4-5)
+    converts CUE files to cdrdao's TOC format
+cuetools (1.3.1-12)
+    tools for manipulating CUE/TOC files
+cups-ppdc (1.5.3-5+deb7u5) [security]
+    Common UNIX Printing System(tm) - PPD manipulation utilities
+curlftpfs (0.9.2-5)
+    filesystem to access FTP hosts based on FUSE and cURL
+cycle (0.3.1-8)
+    calendar program for women
+d-shlibs (0.52)
+    Debian shared library package building helper scripts
+dact (0.8.42-4)
+    multi-algorithm compression
+daemon (0.6.4-1)
+    turns other processes into daemons
+daemonfs (1.1-1)
+    real time monitoring software
+dar (2.4.5.debian.1-1)
+    Disk ARchive: Backup directory tree and files
+dares (0.6.5-7)
+    rescue files from damaged CDs and DVDs (ncurses-interface)
+davfs2 (1.4.6-1.1+wheezy1)
+    mount a WebDAV resource as a regular file system
+db-upgrade-util (5.1.6)
+    Berkeley Database Utilities (old versions)
+db-util (5.1.6)
+    Berkeley Database Utilities
+dbench (4.0-2)
+    The dbench (disk) and tbench (TCP) benchmarks
+dbskkd-cdb (1:2.00-6)
+    SKK dictionary server using cdb for faster access
+dbus-java-bin (2.8-4)
+    simple interprocess messaging system (Java Binaries)
+dc3dd (7.1.614-1)
+    patched version of GNU dd with forensic features
+dconf-tools (0.12.1-3)
+    simple configuration storage system - utilities
+dctrl-tools (2.22.2)
+    Command-line tools to process Debian package information
+dctrl2xml (0.18)
+    Debian control data to XML converter
+ddccontrol (0.4.2-10)
+    program to control monitor parameters
+ddccontrol-db (20061014-4)
+    monitor database for ddccontrol
+ddir (2010.0321+git1685e72-2)
+    display hierarchical directory tree
+dds2tar (2.5.2-4)
+    Tools for using DDS features of DAT drives with GNU tar
+ddskk (14.4-2)
+    efficient Japanese input system for emacsen
+deb-gview (0.2.9)
+    GNOME viewer for .deb package files and contents
+debget (1.6+nmu1)
+    download/compile source and binary Debian packages
+debian-goodies (0.61)
+    Small toolbox-style utilities for Debian systems
+debian-installer-launcher (17)
+    Debian Installer desktop launcher
+debianutils (4.3.2)
+    Miscellaneous utilities specific to Debian
+debtree (1.0.10)
+    package dependency graphs on steroids
+deja-dup (20.2-2.1)
+    Backup utility
+detox (1.2.0-5)
+    utility to replace problematic characters in filenames
+devio (1.2-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.2-1 [armhf, s390x])
+    correctly read (or write) a region of a block device
+devtodo (0.1.20-6)
+    hierarchical, prioritised todo list manager
+dfc (2.5.0-1)
+    display file system usage using graph and colors
+dfo (0.8+svn52-7)
+    Desktop Flickr Organizer for GNOME
+di (4.30-1)
+    advanced df like disk information utility
+di-netboot-assistant (0.36b)
+    Debian-Installer netboot assistant
+dictconv (0.2-7)
+    convert a dictionary file type in another dictionary file type
+dictfmt (1.12.0+dfsg-5)
+    utility to format a file for use by a dictd server
+diffpdf (2.1.1-1)
+    compare two PDF files textually or visually
+diffutils (1:3.2-6)
+    File comparison utilities
+digitools (1.03-1.1)
+    A set of tools to control ASUS Digimatrix embedded hardware
+dirdiff (2.1-5+b1 [armel, ia64], 2.1-5 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Display and merge changes between two directory trees
+dirmngr (1.1.0-3)
+    server for managing certificate revocation lists
+disc-cover (1.5.6-1)
+    produces covers for audio CDs
+discus (0.2.9-6)
+    pretty version of df(1) command
+disktype (9-1)
+    detection of content format of a disk or disk image
+disper (0.3.0-1)
+    display switcher for attaching/detaching displays easily
+dissy (9-3)
+    graphical frontend for objdump
+divxcomp (0.1-7)
+    bitrate calculator for DivX;-) movies written in perl
+dlocate (1.02)
+    fast alternative to dpkg -L and dpkg -S
+dmidecode (2.11-9)
+    SMBIOS/DMI table decoder
+dmtcp (1.2.5-1)
+    Checkpoint/Restart functionality for Linux processes
+dolphin (4:4.8.4-2)
+    file manager
+doodle (0.7.0-5)
+    Desktop Search Engine (client)
+doodled (0.7.0-5)
+    Desktop Search Engine (daemon)
+doschk (1.1-6)
+    SYSV and DOS filename conflicts check
+doxypy (0.4.2-1)
+    Python input filter for Doxygen
+dpkg-cross (2.6.7)
+    tools for cross compiling Debian packages
+dpkg-dev (1.16.15)
+    Debian package development tools
+dracut (020-2)
+    A new initramfs infrastructure
+dracut-network (020-2)
+    A new initramfs infrastucture
+dragbox (0.4.0-1)
+    A command line drag-and-drop tool for GNOME
+drobo-utils (0.6.1+repack-1)
+    manage data robotics storage units (drobos)
+dsc-statistics-collector (201203250530-2)
+    DNS Statistics Collector - Collector component
+dsc-statistics-presenter (201203250530-2)
+    DNS Statistics Collector - Presenter component
+dtrx (6.6-1.1)
+    intelligently extract multiple archive types
+duff (0.5.2-1)
+    Duplicate file finder
+dump (0.4b44-1)
+    4.4bsd dump and restore for ext2 filesystems
+dumpasn1 (20120521-1)
+    ASN.1 object dump program
+duplicity (0.6.18-3)
+    encrypted bandwidth-efficient backup
+duply (1.5.5.5-1)
+    easy to use frontend to the duplicity backup system
+durep (0.9-2.3)
+    create disk usage reports
+dvb-tools (0.8.8-3)
+    Collection of command line DVB utilities
+dvcs-autosync (0.5)
+    Automatically synchronize distributed version control repositories
+dvhtool (1.0.1-5)
+    Manipulate the volume header on sgi partition layouts
+dvipng (1.14-1+b1)
+    convert DVI files to PNG graphics
+dvtm (0.6-1)
+    Tiling window management for the console
+dwarfdump (20120410-2)
+    utility to dump DWARF debug information from ELF objects
+dwarves (1.10-2)
+    set of advanced DWARF utilities
+dwdiff (2.0.4-1)
+    diff program that operates word by word
+dynamite (0.1.1-2)
+    PKWARE Data Compression decompressor
+easypg (0.0.16-2.1)
+    yet another GnuPG interface for Emacs
+eatmydata (26-2)
+    library and utilities designed to disable fsync and friends
+eb-utils (4.4.3-6)
+    C library for accessing electronic books (utilities)
+ed2k-hash (0.3.3+deb2-1)
+    A tool for generating ed2k-links
+eeepc-acpi-scripts (1.1.12)
+    Scripts to support suspend and hotkeys on the Asus Eee PC laptop
+efilinux (1.0-2)
+    UEFI bootloader
+egg (4.0.6+0.20041122cvs-19)
+    Tamago Ver. 4 -- EGG Input Method Architecture for Emacsen
+eject (2.1.5+deb1+cvs20081104-13)
+    ejects CDs and operates CD-Changers under Linux
+ekeyd (1.1.5-4)
+    Simtec Electronics UDEKEY01 Entropy Key Daemon
+ekeyd-egd-linux (1.1.5-4)
+    Transfers entropy from an EGD to the Linux kernel pool
+elfrc (0.7-1)
+    convert arbitrary files into elf objects
+elfutils (0.152-1+wheezy1)
+    collection of utilities to handle ELF objects
+elscreen (1.4.6-5)
+    Screen for Emacsen
+emacs-mozc (1.5.1090.102-4+deb7u1)
+    Mozc for Emacs
+emacs-mozc-bin (1.5.1090.102-4+deb7u1)
+    Helper module for emacs-mozc
+emdebian-archive-keyring (2.0.3)
+    GnuPG archive keys for the emdebian repository
+emdebian-crush (2.2.19)
+    emdebian crossbuilding helpers
+emdebian-grip (3.0.7)
+    support for the Grip flavour of Emdebian
+emdebian-grip-server (3.0.7)
+    server-side support for Emdebian Grip
+emdebian-tdeb (3.0.7)
+    Debian TDeb handling scripts
+emerillon (0.1.90-1+b1 [armhf, s390x], 0.1.90-1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc])
+    map viewer for the GNOME desktop
+encfs (1.7.4-2.4+b1)
+    encrypted virtual filesystem
+enum (1.1-1)
+    seq- and jot-like enumerator
+envstore (2.0.4-1)
+    save and restore environment variables
+epwutil (1.1-8.1)
+    Several utilities for EB(Electric Book)/EPWING
+escputil (5.2.9-1)
+    maintenance utility for Epson Stylus printers
+estic (1.61-20.1)
+    Administration program for ISDN PABX ISTEC 1003/1008
+euca2ools (2.0.2-1)
+    managing cloud instances for Eucalyptus
+evtest (1:1.30-1)
+    utility to monitor Linux input device events
+extlinux (2:4.05+dfsg-6+deb7u1)
+    collection of boot loaders (ext2/3/4 and btrfs bootloader)
+extract (1:0.6.3-5)
+    displays meta-data from files of arbitrary type
+extundelete (0.2.0-2.1)
+    utility to recover deleted files from ext3/ext4 partition
+fakechroot (2.16-1)
+    gives a fake chroot environment - utilities
+fakeroot (1.18.4-2)
+    tool for simulating superuser privileges
+fakeroot-ng (0.16-1.1)
+    Gives a fake root environment
+faketime (0.8-1)
+    report faked system time to programs
+falselogin (0.3-4)
+    false login shell
+fancontrol (1:3.3.2-2+deb7u1)
+    utilities to read temperature/voltage/fan sensors
+fatattr (1.0.1-9)
+    Utility to control attributes on a FAT filesystem
+fbterm (1.7-2)
+    A fast framebuffer based terminal emulator for Linux
+fbterm-ucimf (0.2.9-2)
+    ucimf input method interface for fbterm
+fcitx (1:4.2.4.1-7)
+    Flexible Input Method Framework
+fcitx-bin (1:4.2.4.1-7)
+    Flexible Input Method Framework - essential binaries
+fcitx-chewing (0.1.2-2)
+    Fcitx wrapper for Chewing library
+fcitx-config-common (0.4.4-1)
+    graphic Fcitx configuration tool - common files
+fcitx-config-gtk (0.4.4-1)
+    graphic Fcitx configuration tool - Gtk+ 3 version
+fcitx-config-gtk2 (0.4.4-1)
+    graphic Fcitx configuration tool - Gtk+ 2 version
+fcitx-data (1:4.2.4.1-7)
+    Flexible Input Method Framework - essential data files
+fcitx-frontend-all (1:4.2.4.1-7)
+    Flexible Input Method Framework - frontends metapackage
+fcitx-frontend-fbterm (0.1.4-1)
+    Flexible Input Method Framework - FbTerm frontend
+fcitx-frontend-gtk2 (1:4.2.4.1-7)
+    Flexible Input Method Framework - GTK+ 2 IM Module frontend
+fcitx-frontend-gtk3 (1:4.2.4.1-7)
+    Flexible Input Method Framework - GTK+ 3 IM Module frontend
+fcitx-frontend-qt4 (1:4.2.4.1-7)
+    Flexible Input Method Framework - QT 4 IM Module frontend
+fcitx-googlepinyin (0.1.5-2)
+    Fcitx wrapper for Google Pinyin IM engine
+fcitx-hangul (0.1.1-1)
+    Free Chinese Input Toy of X - hangul module
+fcitx-libpinyin (0.1.1-2)
+    Fcitx wrapper for libpinyin
+fcitx-m17n (0.1.2-2)
+    Free Chinese Input Toy of X - m17n module
+fcitx-module-cloudpinyin (0.2.2-1+deb7u1)
+    Flexible Input Method Framework - cloudpinyin module
+fcitx-module-dbus (1:4.2.4.1-7)
+    Flexible Input Method Framework - D-Bus module and IPC frontend
+fcitx-module-kimpanel (1:4.2.4.1-7)
+    Flexible Input Method Framework - KIMPanel protocol module
+fcitx-module-lua (1:4.2.4.1-7)
+    Flexible Input Method Framework - Lua module
+fcitx-module-x11 (1:4.2.4.1-7)
+    Flexible Input Method Framework - X11 module and XIM frontend
+fcitx-modules (1:4.2.4.1-7)
+    Flexible Input Method Framework - core modules
+fcitx-mozc (1.5.1090.102-4+deb7u1)
+    Mozc engine for fcitx - Client of the Mozc input method
+fcitx-pinyin (1:4.2.4.1-7)
+    Flexible Input Method Framework - classic Pinyin engine
+fcitx-qw (1:4.2.4.1-7)
+    Flexible Input Method Framework - QuWei engine
+fcitx-sunpinyin (0.3.7-1)
+    fcitx wrapper for Sunpinyin IM engine
+fcitx-table (1:4.2.4.1-7)
+    Flexible Input Method Framework - table engine
+fcitx-table-all (1:4.2.4.1-7)
+    Flexible Input Method Framework - tables metapackage
+fcitx-table-amharic (0.2.0+git20120621-1)
+    Flexible Input Method Framework - Amharic table
+fcitx-table-arabic (0.2.0+git20120621-1)
+    Flexible Input Method Framework - Arabic table
+fcitx-table-array30 (0.3.1-1)
+    Flexible Input Method Framework - Array30 table
+fcitx-table-array30-big (0.3.1-1)
+    Flexible Input Method Framework - Array30-Big table
+fcitx-table-bingchan (1:4.2.4.1-7)
+    Flexible Input Method Framework - Bingchan table
+fcitx-table-boshiamy (0.3.1-1)
+    Flexible Input Method Framework - Boshiamy table
+fcitx-table-cangjie (1:4.2.4.1-7)
+    Flexible Input Method Framework - Cangjie table
+fcitx-table-cangjie-big (0.3.1-1)
+    Flexible Input Method Framework - Cangjie-Big table
+fcitx-table-cangjie3 (0.3.1-1)
+    Flexible Input Method Framework - Cangjie3 table
+fcitx-table-cangjie5 (0.3.1-1)
+    Flexible Input Method Framework - Cangjie5 table
+fcitx-table-cantonese (0.3.1-1)
+    Flexible Input Method Framework - Cantonese table
+fcitx-table-cantonhk (0.3.1-1)
+    Flexible Input Method Framework - Cantonhk table
+fcitx-table-cns11643 (0.2.0+git20120621-1)
+    Flexible Input Method Framework - Cns11643 table
+fcitx-table-compose (0.2.0+git20120621-1)
+    Flexible Input Method Framework - Compose table
+fcitx-table-dianbaoma (1:4.2.4.1-7)
+    Flexible Input Method Framework - Dianbaoma table
+fcitx-table-easy-big (0.3.1-1)
+    Flexible Input Method Framework - Easy-Big table
+fcitx-table-emoji (0.2.0+git20120621-1)
+    Flexible Input Method Framework - Emoji table
+fcitx-table-erbi (1:4.2.4.1-7)
+    Flexible Input Method Framework - Erbi table
+fcitx-table-ipa-x-sampa (0.2.0+git20120621-1)
+    Flexible Input Method Framework - IPA-X-SAMPA table
+fcitx-table-jyutping (0.3.1-1)
+    Flexible Input Method Framework - Jyutping table
+fcitx-table-latex (0.2.0+git20120621-1)
+    Flexible Input Method Framework - LaTeX table
+fcitx-table-malayalam-phonetic (0.2.0+git20120621-1)
+    Flexible Input Method Framework - Malayalam phonetic table
+fcitx-table-quick-classic (0.3.1-1)
+    Flexible Input Method Framework - Quick-Classic table
+fcitx-table-quick3 (0.3.1-1)
+    Flexible Input Method Framework - Quick3 table
+fcitx-table-quick5 (0.3.1-1)
+    Flexible Input Method Framework - Quick5 table
+fcitx-table-rustrad (0.2.0+git20120621-1)
+    Flexible Input Method Framework - Rustrad table
+fcitx-table-scj6 (0.3.1-1)
+    Flexible Input Method Framework - Scj6 table
+fcitx-table-stroke5 (0.3.1-1)
+    Flexible Input Method Framework - Stroke5 table
+fcitx-table-tamil-remington (0.2.0+git20120621-1)
+    Flexible Input Method Framework - Tamil Remington table
+fcitx-table-thai (0.2.0+git20120621-1)
+    Flexible Input Method Framework - Thai table
+fcitx-table-translit (0.2.0+git20120621-1)
+    Flexible Input Method Framework - Translit table
+fcitx-table-translit-ua (0.2.0+git20120621-1)
+    Flexible Input Method Framework - Ukrainian Translit table
+fcitx-table-viqr (0.2.0+git20120621-1)
+    Flexible Input Method Framework - Viqr table
+fcitx-table-wanfeng (1:4.2.4.1-7)
+    Flexible Input Method Framework - Wanfeng table
+fcitx-table-wbpy (1:4.2.4.1-7)
+    Flexible Input Method Framework - WubiPinyin table
+fcitx-table-wu (0.3.1-1)
+    Flexible Input Method Framework - Wu table
+fcitx-table-wubi (1:4.2.4.1-7)
+    Flexible Input Method Framework - Wubi table
+fcitx-table-wubi-large (0.3.1-1)
+    Flexible Input Method Framework - Wubi-Large table
+fcitx-table-yawerty (0.2.0+git20120621-1)
+    Flexible Input Method Framework - Yawerty table
+fcitx-table-zhengma (0.3.1-1)
+    Flexible Input Method Framework - Zhengma table
+fcitx-table-ziranma (1:4.2.4.1-7)
+    Flexible Input Method Framework - Ziranma table
+fcitx-tools (1:4.2.4.1-7)
+    Flexible Input Method Framework - various tools
+fcitx-ui-classic (1:4.2.4.1-7)
+    Flexible Input Method Framework - Classic user interface
+fcitx-ui-light (0.1.3-2)
+    light weight xlibs and xft based UI for Fcitx
+fcitx-unikey (0.1.0-1)
+    Fcitx wrapper for Unikey engine
+fcrackzip (1.0-4)
+    password cracker for zip archives
+fdflush (1.0.1.3+b1 [mips], 1.0.1.3 [i386])
+    Flush out-of-date disk buffers
+fdupes (1.50-PR2-4)
+    identifies duplicate files within given directories
+fdutils (5.5-20060227-6)
+    Linux floppy utilities
+fet (5.18.0-1)
+    timetable generator
+file (5.11-2+deb7u8) [security]
+    Determines file type using "magic" numbers
+fileschanged (0.6.5-1.2)
+    command-line utility that reports when files have been altered
+findutils (4.4.2-4)
+    utilities for finding files--find, xargs
+fio (2.0.8-2)
+    flexible I/O tester
+fl-cow (0.6-4.1)
+    copy-on-write utility
+flash-kernel (3.3+deb7u2)
+    utility to make certain embedded devices bootable
+flasm (1.62-6)
+    assembler and disassembler for Flash (SWF) bytecode
+flawfinder (1.27-3)
+    examines source code and looks for security weaknesses
+flickrbackup (0.2-3)
+    Simple tool to perform a backup of your photos in flickr
+flickrfs (1.3.9.1-9.1)
+    virtual filesystem for flickr online photosharing service
+flog (1.8-3)
+    dump STDIN to file and reopen on SIGHUP
+flvstreamer (2.1c1-1)
+    command-line RTMP client
+fnfx-client (0.3-14)
+    Client for customize fnfxd hot-keys
+fnfxd (0.3-14)
+    ACPI and hotkey daemon for Toshiba laptops
+folks-tools (0.6.9-1+b1)
+    Telepathy backend for libfolks - database and import tools
+fondu (0.0.20060102-4)
+    convert between Mac and UNIX font formats
+fpm2 (0.79-3)
+    password manager with GTK+ 2.x GUI
+freebsd-sendpr (3.113+8.2-1)
+    FreeBSD fork of send-pr (from GNU GNATS)
+freebsd-utils (9.0+ds1-11~deb7u1)
+    FreeBSD utilities needed for GNU/kFreeBSD
+freecdb (0.75)
+    creating and reading constant databases
+freepwing (1.5-1)
+    EB to JIS X 4081 converter
+freespeak (0.3.0-5)
+    GNOME frontend to online translator engines
+freetype2-demos (2.4.9-1.1+deb7u1) [security]
+    FreeType 2 demonstration programs
+freewnn-common (1.1.1~a021+cvs20100325-6)
+    Files shared among the FreeWnn packages
+freewnn-cserver (1.1.1~a021+cvs20100325-6)
+    Chinese input system
+freewnn-jserver (1.1.1~a021+cvs20100325-6)
+    Japanese input system
+freewnn-kserver (1.1.1~a021+cvs20100325-6)
+    Korean input system
+fsgateway (0.1.1-3)
+    FUSE module to browse database's metadata, sugar datastores and xml files
+fsmark (3.3-1)
+    benchmark for simulating synchronous write workloads
+fstrcmp (0.4.D001-1+deb7u1)
+    fuzzy comparison of strings
+ftdi-eeprom (0.3-2)
+    Tool for reading/erasing/flashing FTDI USB chip eeproms
+fts (1.1-1.1)
+    Modular TFTP/Fuse supplicant
+fts-clacks (1.1-1.1)
+    Clacks module for the TFTP/Fuse supplicant
+fts-fai-ldap (1.1-1.1)
+    LDAP FAI module for the TFTP/Fuse supplicant
+fts-ltsp-ldap (1.1-1.1)
+    LDAP LTSP module for the TFTP/Fuse supplicant
+fts-opsi (1.1-1.1)
+    LDAP LTSP module for the TFTP/Fuse supplicant
+fuse (2.9.0-2+deb7u1)
+    Filesystem in Userspace
+fuse-convmvfs (0.2.6-2)
+    mirrors a whole filesystem tree from one charset to another
+fuse-utils (2.9.0-2+deb7u1)
+    Filesystem in Userspace (transitional package)
+fuse4bsd (0.3.9~pre1.20080208-4)
+    Filesystem in USErspace (utilities)
+fusesmb (0.8.7-1.2)
+    filesystem client based on the SMB file transfer protocol
+g15composer (3.2-2+b1 [ia64], 3.2-2 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Scriptable command interface to libg15render
+g15daemon (1.9.5.3-8.2)
+    Screen multiplexer for Logitech G15 Keyboard
+g15macro (1.0.3-3)
+    A simple Macro recording/playback application for G15Daemon
+g15mpd (1.2svn.0.svn319-3)
+    A simple frontend for the MPD Media Player Daemon, for use with g15daemon
+g15stats (1.9.2-2)
+    a CPU/Memory/Swap usage meter for G15Daemon
+gaffitter (0.6.0-1)
+    File subsets extractor based on genetic algorithms
+galleta (1.0+20040505-5+b2 [armel, ia64], 1.0+20040505-5+b1 [amd64, i386, kfreebsd-amd64], 1.0+20040505-5 [armhf, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    An Internet Explorer cookie forensic analysis tool
+gameconqueror (0.12-2)
+    GUI for scanmem, a game hacking tool
+garmin-ant-downloader (0:20110626-1)
+    ANT+ information retrieval client for Garmin GPS products
+garmin-forerunner-tools (0.10-3)
+    retrieve data from Garmin Forerunner/Edge GPS devices
+gcal (3.6.1-2)
+    program for calculating and printing calendars
+gcal-common (3.6.1-2)
+    gcal architecture independent files
+gcalcli (2.1-2)
+    Google Calendar Command Line Interface
+gcin (2.7.6.1+dfsg-1)
+    GTK+ based input method for Chinese users
+gcin-anthy (2.7.6.1+dfsg-1)
+    support library to use Anthy in gcin
+gcin-chewing (2.7.6.1+dfsg-1)
+    support library to use Chewing in gcin
+gcin-data (2.7.6.1+dfsg-1)
+    icons and scripts for gcin
+gcin-gtk3-immodule (2.7.6.1+dfsg-1)
+    GTK3 input method module with gcin as backend
+gcin-qt4-immodule (2.7.6.1+dfsg-1)
+    Qt4 input method module with gcin as backend
+gcin-tables (2.7.6.1+dfsg-1)
+    input method tables for gcin
+gcipher (1.1-1)
+    A simple "encryption" tool
+gconf-editor (3.0.1-1)
+    editor for the GConf configuration system
+gcp (0.1.3-2)
+    advanced command line file copy system
+gddccontrol (0.4.2-10)
+    program to control monitor parameters (graphical interface)
+gddrescue (1.16-1)
+    GNU data recovery tool
+gdf-tools (0.1.2-2)
+    IO library for the GDF -- helper tools
+gedit-valencia-plugin (0.3.0-3.1)
+    Vala plugin for gedit
+genisovh (0.1-3)
+    Make CD-ROMs bootable for SGI MIPS machines
+geoclue (0.12.0-4)
+    Geographic information framework
+geoclue-geonames (0.12.0-4)
+    Geocoder provider for GeoClue (geonames)
+geoclue-gsmloc (0.12.0-4)
+    Position server for GeoClue (GSM)
+geoclue-hostip (0.12.0-4)
+    Position server for GeoClue (hostip)
+geoclue-localnet (0.12.0-4)
+    Position server for GeoClue (local network)
+geoclue-manual (0.12.0-4)
+    Position server for GeoClue (manual)
+geoclue-nominatim (0.12.0-4)
+    Geocoding and reverse-geocoding server for GeoClue (Nominatim)
+geoclue-plazes (0.12.0-4)
+    Position server for GeoClue (Plazes)
+geoclue-skyhook (0.12.0-4)
+    Map and geocode server for GeoClue (Skyhook)
+geoclue-yahoo (0.12.0-4)
+    Map and geocode server for GeoClue (Yahoo)
+geotranz (3.1-2.1)
+    GEOgraphic coordinates TRANslator
+germinate (2.10)
+    expand dependencies in a list of seed packages
+ges0.10-tools (0.10.1-2)
+    Tools for use with the GStreamer editing services
+gesftpserver (0.1-3)
+    sftp server submodule for OpenSSH
+gettext-base (0.18.1.1-9)
+    GNU Internationalization utilities for the base system
+gfarm-client (2.4.1-1.1)
+    Gfarm file system clients
+giflib-tools (4.1.6-10)
+    library for GIF images (utilities)
+gifti-bin (1.0.9-1)
+    tools shipped with the GIFTI library
+gigtools (3.3.0-2)
+    command line tools for Gigasampler and DLS Level 1/2 files
+git-annex (3.20120629)
+    manage files with git, without checking their contents into git
+github-backup (1.20120628.1)
+    backs up data from GitHub
+github-cli (1.0.0-1+nmu1)
+    command-line interface to the GitHub Issues API
+glark (1.8.0-1.1~deb7u1)
+    pattern matching tool similar to grep
+glbsp (2.24-1)
+    nodes builder for Doom-style games; has support for OpenGL
+glew-utils (1.7.0-3)
+    OpenGL Extension Wrangler - utilities
+glipper (2.3-3.1)
+    Clipboard manager for GNOME
+glogg (0.9.0-1+b1)
+    Smart interactive log explorer using Qt4
+gmemusage (0.2-11)
+    Displays a graph detailing memory usage of each process
+gmime-bin (2.6.10-1)
+    MIME message parser and creator library - runtime
+gmtkbabel (0.1-1)
+    graphical interface for mtkbabel
+gnu-fdisk (1.2.4-3.1)
+    Linux fdisk replacement based on libparted
+gnuit (4.9.5-3)
+    GNU Interactive Tools, a file browser/viewer and process viewer/killer
+gnupg (1.4.12-7+deb7u7) [security]
+    GNU privacy guard - a free PGP replacement
+gnupg-agent (2.0.19-2+deb7u2)
+    GNU privacy guard - password agent
+gnupg-curl (1.4.12-7+deb7u7) [security]
+    GNU privacy guard - a free PGP replacement (cURL)
+gnupg-pkcs11-scd (0.7.3-1)
+    GnuPG smart-card daemon with PKCS#11 support
+gnupg2 (2.0.19-2+deb7u2)
+    GNU privacy guard - a free PGP replacement (new v2.x)
+go2 (1.20120217-1)
+    fast directory finder
+goaccess (1:0.5-1)
+    log analyzer and interactive viewer for the Apache Webserver
+goldendict (1.0.2~git20110906-1.1)
+    feature-rich dictionary lookup program
+google-sitemapgen (1.5-3)
+    sitemap generator for Google Sitemap
+gosmore (0.0.0.20100711-2.1)
+    Openstreetmap.org viewer / wayfinder / search client
+goto-common (3.1-1)
+    GOto common functions
+goto-fai (3.1-1)
+    Scripts to integrate GOto with FAI
+goto-fai-backend (3.0-1.1)
+    GOsa integration with FAI
+goto-fai-progress (3.0-1)
+    Fully Automatic Installation progress bar
+gpa (0.9.0-4)
+    GNU Privacy Assistant (GPA)
+gpdftext (0.1.5-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.1.5-1+b1 [armhf, s390x])
+    GTK+ text editor for ebook PDF files
+gpe-announce (0.14-2)
+    Alarm support for the G Palmtop Environment
+gpe-bluetooth (0.56-3)
+    Bluetooth connectivity tool for GPE
+gpe-calendar (0.92-4)
+    store and manage calendar events in GPE
+gpe-expenses (0.1.9-2)
+    Simple expense records for GPE
+gpe-filemanager (0.31-2)
+    file manager for GPE
+gpe-mininet (0.7-2)
+    network connectivity monitor for GPE
+gpe-shield (0.31-6)
+    firewall configuration for GPE
+gpe-taskmanager (0.20-9)
+    lists windows and kills errant programs
+gpe-todo (0.58-1)
+    To-do list for GPE
+gpe-watch (0.11-1)
+    a watch for a small screen in GPE
+gpesyncd (2.0-1+b1 [kfreebsd-i386], 2.0-1 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, mips, mipsel, powerpc, s390, s390x, sparc])
+    synchronisation agent for GPE PIM data
+gpgsm (2.0.19-2+deb7u2)
+    GNU privacy guard - S/MIME version
+gpgv (1.4.12-7+deb7u7) [security]
+    GNU privacy guard - signature verification tool
+gpgv-win32 (1.4.12-7+deb7u7) [security]
+    GNU privacy guard - signature verification tool (win32 build)
+gphoto2 (2.4.14-1)
+    The gphoto2 digital camera command-line client
+gphotofs (0.4.0-6)
+    filesystem to mount digital cameras
+gpointing-device-settings (1.5.1-6)
+    configuration tool for pointing devices
+gpomme (1.39~dfsg-2+b1)
+    graphical client for pommed
+gpr (0.15deb-2)
+    GUI for lpr: print files and configure printer-specific options
+gprename (2.6.6-1)
+    Complete batch renamer for Linux
+gpsbabel (1.4.3-1)
+    GPS file conversion plus transfer to/from GPS units
+gpsbabel-gui (1.4.3-1)
+    GPS file conversion plus transfer to/from GPS units - GUI
+gpsprune (13.4-1)
+    visualize, edit, convert and prune GPS data
+gpw (0.0.19940601-8.1)
+    Trigraph Password Generator
+grads (2.0.a9-4+b2 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 2.0.a9-4+b1 [s390x])
+    Grid Analysis and Display System for earth science data
+graphite-carbon (0.9.10-3)
+    backend data caching and persistence daemon for Graphite
+grep (2.12-2)
+    GNU grep, egrep and fgrep
+gridengine-client (6.2u5-7.1)
+    Utilities for Grid Engine queue management
+gridengine-common (6.2u5-7.1)
+    Distributed resource management - common files
+gridengine-exec (6.2u5-7.1)
+    Distributed resource management - Execution Server
+gridengine-master (6.2u5-7.1)
+    Distributed resource management - Master Server
+gridengine-qmon (6.2u5-7.1)
+    Graphical utilities for Grid Engine queue management
+gringotts (1.2.10~pre3-1)
+    secure password and data storage manager
+grokevt (0.4.1-7)
+    scripts for reading Microsoft Windows event log files
+gscan2pdf (1.0.4-5)
+    GUI to produce PDFs or DjVus from scanned documents
+gsmartcontrol (0.8.6-1.2)
+    graphical user interface for smartctl
+gstreamer-tools (0.10.36-1.2)
+    Tools for use with GStreamer
+gstreamer0.10-plugins-base-apps (0.10.36-1.1)
+    GStreamer helper programs from the "base" set
+gstreamer0.10-tools (0.10.36-1.2)
+    Tools for use with GStreamer
+gsynaptics (1.5.1-6)
+    configuration tool for pointing devices (transitional package)
+gt5 (1.5.0~20111220+bzr29-1)
+    shell program to display visual disk usage with navigation
+gtimer (2.0.0-1.1)
+    GTK-based X11 task timer
+gtkhash (0.6.0-4)
+    GTK+ utility for computing checksums and more
+gtkhash-common (0.6.0-4)
+    common files for gtkhash extensions
+gtkperf (0.40+ds-2)
+    GTK+ performance benchmark
+gtkvncviewer (0.4-2.2)
+    Small GNOME VNC client
+gtrayicon (1.1-1)
+    Generic tray icon for GNOME
+guymager (0.6.7-3)
+    Forensic imaging tool based on Qt
+gwenhywfar-tools (4.3.3-1)
+    helper applications for Gwenhywfar library
+gwhere (0.2.3.dfsg.1-3)
+    Removable media catalog manager
+gworldclock (1.4.4-9)
+    Displays time and date in specified time zones
+gzip (1.5-1.1)
+    GNU compression utilities
+gzip-win32 (1.5-1.1)
+    GNU compression utility (win32 build)
+gzrt (0.6+ds1-1)
+    gzip recovery toolkit
+ha (0.999p+dfsg-3)
+    archiver for .ha files
+hama-slide-mouse-control (1.0-2)
+    Control the DPI setting and thumb buttons of a Hama SLide S1 gaming mouse
+hardlink (0.2.0)
+    Hardlinks multiple copies of the same file
+hashalot (0.3-5)
+    Read and hash a passphrase
+hddtemp (0.3-beta15-52)
+    hard drive temperature monitoring utility
+hdup (2.0.14-4)
+    Filesystem duplicator and backup
+hebcal (3.5-2)
+    A Perpetual Jewish Calendar
+hesiod (3.0.2-21)
+    Project Athena's DNS-based directory service - utilities
+hexcurse (1.55-2)
+    A ncurses-based hex editor with many features
+hexer (0.1.7-1.1)
+    interactive binary editor with a Vi-like interface
+hibernate (2.0+15+g88d54a8-1)
+    smartly puts your computer to sleep (suspend to RAM or disk)
+hime (0.9.9+git20120619+dfsg-1)
+    GTK+ based input method for Chinese users
+hime-anthy (0.9.9+git20120619+dfsg-1)
+    support library to use Anthy in HIME
+hime-chewing (0.9.9+git20120619+dfsg-1)
+    support library to use Chewing in HIME
+hime-data (0.9.9+git20120619+dfsg-1)
+    icons, locales and scripts for HIME
+hime-gtk3-immodule (0.9.9+git20120619+dfsg-1)
+    GTK3 input method module with HIME as backend
+hime-qt4-immodule (0.9.9+git20120619+dfsg-1)
+    Qt4 input method module with HIME as backend
+hime-tables (0.9.9+git20120619+dfsg-1)
+    input method tables for HIME
+ho22bus (0.9.1-2)
+    simple application to memorize words
+ho22bus-data (0.9.1-2)
+    common data for ho22bus
+hoz (1.65-2)
+    file splitter that uses the hacha file format
+hoz-gui (1.65-2)
+    file splitter that uses the hacha file format
+hp-ppd (0.9-0.2)
+    HP Postscript Printer Definition (PPD) files
+hpijs-ppds (3.12.6-3.1+deb7u1)
+    HP Linux Printing and Imaging - HPIJS PPD files
+hplip (3.12.6-3.1+deb7u1)
+    HP Linux Printing and Imaging System (HPLIP)
+hplip-data (3.12.6-3.1+deb7u1)
+    HP Linux Printing and Imaging - data files
+hplip-gui (3.12.6-3.1+deb7u1)
+    HP Linux Printing and Imaging - GUI utilities (Qt-based)
+htop (1.0.1-1)
+    interactive processes viewer
+httpcode (0.5-2)
+    Explains the meaning of an HTTP status code on the command line
+i2c-tools (3.1.0-2)
+    heterogeneous set of I2C tools for Linux
+i3status (2.5.1-1)
+    Generates a status line for dzen2, xmobar or i3bar
+i810switch (0.6.5-7)
+    Enables/disables video output to CRT/LCD on i810 video hardware
+i8kutils (1.33)
+    utilities for Dell Inspiron and Latitude laptops
+ibam (1:0.5.2-2.1)
+    Advanced battery monitor for laptops
+ibus (1.4.1-9+deb7u1)
+    Intelligent Input Bus - core
+ibus-anthy (1.2.6-2+deb7u1)
+    anthy engine for IBus
+ibus-array (0.0.2-6)
+    Array 30 input engine for iBus
+ibus-chewing (1.3.10+clean-3+b1 [i386], 1.3.10+clean-3 [amd64, armel, armhf, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Chewing engine for IBus
+ibus-clutter (0.0+git20090728.a936bacf-5)
+    ibus input method framework for clutter
+ibus-googlepinyin (0.1.1+hg20111212-1)
+    googlepinyin engine for ibus
+ibus-gtk (1.4.1-9+deb7u1)
+    Intelligent Input Bus - GTK+2 support
+ibus-gtk3 (1.4.1-9+deb7u1)
+    Intelligent Input Bus - GTK+3 support
+ibus-hangul (1.4.1-1+deb7u1)
+    Hangul engine for IBus
+ibus-input-pad (1.4.0-2)
+    Input Pad for IBus
+ibus-m17n (1.3.4-1+deb7u1)
+    m17n engine for IBus
+ibus-mozc (1.5.1090.102-4+deb7u1)
+    Mozc engine for IBus - Client of the Mozc input method
+ibus-pinyin (1.4.0-1+deb7u1)
+    Pinyin engine for IBus
+ibus-pinyin-db-android (1.4.0-1+deb7u1)
+    Pinyin engine for IBus - Android database
+ibus-pinyin-db-open-phrase (1.4.0-1+deb7u1)
+    Pinyin engine for IBus - open-phrase database
+ibus-qt4 (1.3.1-2.1)
+    qt-immodule for ibus (QT4)
+ibus-skk (1.4.1-2+deb7u1)
+    SKK engine for IBus
+ibus-sunpinyin (2.0.3-4+deb7u1)
+    sunpinyin engine for ibus
+ibus-table (1.3.9.20110827-2)
+    table engine for IBus
+ibus-table-array30 (1.3.4-1)
+    Array30 input method based on table engine of ibus
+ibus-table-cantonhk (1.3.4-1)
+    ibus-table input method: Cantonhk
+ibus-table-cns11643 (1.3.0.20100528-3)
+    ibus-table input method: Cns11643
+ibus-table-compose (1.3.0.20100528-3)
+    ibus-table input method: Compose
+ibus-table-emoji (1.3.0.20100528-3)
+    ibus-table input method: Emoji
+ibus-table-erbi (1.3.4-1)
+    ibus-table input method: ErBi
+ibus-table-erbi-qs (1.3.4-1)
+    ibus-table input method: ErBi(QS)
+ibus-table-extraphrase (1.2.0.20100305-1)
+    Extra phrase for table engine of ibus
+ibus-table-ipa-x-sampa (1.3.0.20100528-3)
+    ibus-table input method: IPA-X-SAMPA
+ibus-table-jyutping (1.3.4-1)
+    ibus-table input method: Jyutping
+ibus-table-latex (1.3.0.20100528-3)
+    ibus-table input method: LaTeX
+ibus-table-rustrad (1.3.0.20100528-3)
+    ibus-table input method: Russian Traditional
+ibus-table-thai (1.3.0.20100528-3)
+    ibus-table input method: Thai
+ibus-table-translit (1.3.0.20100528-3)
+    ibus-table input method: Translit
+ibus-table-translit-ua (1.3.0.20100528-3)
+    ibus-table input method: Ukrainian Translit
+ibus-table-viqr (1.3.0.20100528-3)
+    ibus-table input method: Viqr
+ibus-table-wu (1.3.4-1)
+    ibus-table input method: Wu
+ibus-table-yawerty (1.3.0.20100528-3)
+    ibus-table input method: Yawerty
+ibus-table-yong (1.3.4-1)
+    ibus-table input method: YongMa
+ibus-tegaki (0.3.1-1)
+    tegaki engine for IBus
+ibus-unikey (0.6.1-1)
+    Vietnamese Input Method Engine for IBus using Unikey Engine
+ibus-xkbc (1.3.3.20100922-2+deb7u1)
+    keyboard layout emulation engine for IBus
+ical2html (2.0-1)
+    create an HTML table from icalendar data
+idecrypt (3.0.19.ds1-7)
+    decrypt an encrypted response from pidentd
+ideviceinstaller (1.0.0-1.2)
+    Utility to manage installed applications on an iDevice
+ifuse (1.0.0-1+b1 [amd64, armel, i386, ia64, mips, mipsel, powerpc, s390, sparc], 1.0.0-1 [armhf, s390x])
+    FUSE module for iPhone and iPod Touch devices
+imageshack-uploader (2.2+hg20100408.d802dea89428-5.1)
+    a image and video upload utility for the ImageShack hosting service
+imageshack-uploader-common (2.2+hg20100408.d802dea89428-5.1)
+    a image and video upload utility - common files
+imdb-tools (0.9-1)
+    Lookup film details on IMDB
+imgtex (0.20050123-8) [contrib]
+    provides yet another math-on-the-web solution
+imhangul-common (1+nmu1)
+    Common files for imhangul
+imhangul-gtk2 (2.1.0-2)
+    Hangul (Korean) input module for GTK+
+imhangul-gtk3 (3.1.0-2)
+    Hangul (Korean) input module for GTK+
+imms-audacious (3.1.0~svn301-2)
+    Unobtrusive, automatic, and learning audacious playlist manager
+imms-common (3.1.0~svn301-2)
+    Unobtrusive, automatic, and learning playlist manager
+initramfs-tools (0.109.1)
+    generic modular initramfs generator
+innoextract (1.2+git20120504-1)
+    Tool for extracting data from an Inno Setup installer
+inosync (0.2.1-1)
+    notification-based directory synchronization daemon
+inotail (0.5-2)
+    tail replacement using inotify
+inoticoming (0.2.3-1)
+    trigger actions when files hit an incoming directory
+input-pad (1.0.1-2)
+    On-screen Input Pad to Send Characters with Mouse
+input-utils (1.0-1)
+    utilities for the input layer of the Linux kernel
+inputattach (1:1.4.3-1)
+    utility to connect serial-attached peripherals to the input subsystem
+inputlirc (19-1)
+    Zeroconf LIRC daemon using input event devices
+insanity-tools (0.0+git20110920.4750a8e8-2)
+    GStreamer QA system (Insanity) tools
+insanity-web (0.0+git20110920.4750a8e8-2)
+    GStreamer QA system (Insanity) web frontend.
+inteltool (0.0+r4091-1.2)
+    Dump Intel CPU / chipset configuration parameters
+iok (2.1.2-1)
+    Indic Onscreen Keyboard
+iozone3 (397-2) [non-free]
+    Filesystem and Disk Benchmarking Tool
+ipmitool (1.8.11-5)
+    utility for IPMI control with kernel driver or LAN interface
+iprint (1.3-9)
+    Trivial command-line integer print utility
+ir-keytable (0.8.8-3)
+    Alter keymaps of Remote Controller devices
+irda-utils (0.9.18-12)
+    IrDA management and handling utilities
+irqbalance (1.0.3-3)
+    Daemon to balance interrupts for SMP systems
+isdnactivecards (1:3.9.20060704-11) [contrib]
+    ISDN utilities - active ISDN card support
+isdnlog (1:3.25+dfsg1-3.3~deb7u1)
+    ISDN utilities - connection logger
+isdnlog-data (1:3.25+dfsg1-3.3~deb7u1)
+    ISDN utilities - connection logger data
+isdnutils-base (1:3.25+dfsg1-3.3~deb7u1)
+    ISDN utilities - minimal set
+isdnvbox (1:3.25+dfsg1-3.3~deb7u1)
+    ISDN utilities - answering machine dependency package
+isdnvboxclient (1:3.25+dfsg1-3.3~deb7u1)
+    ISDN utilities - answering machine client
+isdnvboxserver (1:3.25+dfsg1-3.3~deb7u1)
+    ISDN utilities - answering machine server
+iselect (1.4.0-1)
+    ncurses-based interactive line selection tool
+iucode-tool (0.8.3-2) [contrib]
+    Intel processor microcode tool
+jacksum (1.7.0-2)
+    computes checksums, CRCs and message digests
+jardiff (0.2-3)
+    tool to visualise API differences between two JAR files
+jazip (0.34-15.1)
+    Mount and unmount Iomega Zip and/or Jaz drives
+jcal (0.4.0-1.1)
+    UNIX-cal-like tool to display Jalali calendar
+jdresolve (0.6.1-4)
+    fast alternative to apache logresolve
+jetring (0.20)
+    gpg keyring maintenance using changesets
+jhove (1.6+dfsg-1) [non-free]
+    JSTOR/Harvard Object Validation Environment
+jigdo-file (0.7.3-3+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.7.3-3 [armhf, s390x])
+    Download Debian CD images from any Debian mirror
+jigit (1.19-1)
+    tools for working with jigdo files
+jlha-utils (0.1.6-3)
+    command-line lzh archiver written in Java
+jodconverter (2.2.2-8)
+    Office formats converter
+josm (0.0.svn5267+dfsg1-2)
+    Editor for OpenStreetMap
+josm-plugins (0.0.svn28420+ds2-1)
+    Plugins for JOSM
+jovie (4:4.8.4-2)
+    text-to-speech system
+joystick (1:1.4.3-1)
+    set of testing and calibration tools for joysticks
+jparse (1.4.0-3)
+    JSON parser utility
+jscribble (1.7.7-1.2)
+    graphical notepad for use with a pen tablet
+jstest-gtk (0.1.1~git20090722-2)
+    joystick testing and configuration tool
+jsvc (1.0.10-3)
+    wrapper to launch Java applications as daemons
+k3b-extrathemes (2.0.2-6)
+    Sophisticated CD/DVD burning application - extra themes
+kaccessible (4:4.8.4-3)
+    accessibility services for Qt applications
+kacpimon (1:2.0.16-1+deb7u1)
+    Kernel ACPI Event Monitor
+kaddressbook (4:4.4.11.1+l10n-3+b1)
+    address book and contact data manager
+kaptain (1:0.73-1)
+    universal graphical front-end for command line programs
+karma-tools (0.1.2-2.3)
+    Rio Karma access library [tools]
+kbd (1.15.3-9)
+    Linux console font and keytable utilities
+kbd
+    virtual package provided by kbd-compat
+kbd-compat (1:0.2.3dbs-70)
+    Wrappers around console-tools for backward compatibility with `kbd'
+kbdcontrol (9.0+ds1-11~deb7u1)
+    command-line tool to change keyboard layout on GNU/kFreeBSD
+kcharselect (4:4.8.4-2)
+    special character utility
+kcollectd (0.9-2.1+b1)
+    simple collectd graphing frontend for KDE
+kdc2tiff (0.35-8+b1)
+    convert Kodac kdc files to jpeg or tiff
+kdelirc (4:4.8.4-3)
+    transitional package for kremotecontrol
+kdepasswd (4:4.8.4-2)
+    graphical password changing utility
+kdf (4:4.8.4-1)
+    disk information utility
+kedpm (0.5.0-4)
+    KED Password Manager
+kedpm-gtk (0.5.0-4)
+    KED Password Manager
+keepass2 (2.19+dfsg-2)
+    Password manager
+keepassx (0.4.3+dfsg-0.1)
+    Cross Platform Password Manager
+keepnote (0.7.8-1)
+    cross-platform note-taking and organization application
+kernel-wedge (2.85)
+    udeb package builder for Debian-Installer
+key-mon (1.13-1)
+    Utility to show live keyboard and mouse status
+keyanalyze (1.1.4-1)
+    transitional package to pull in signing-party
+keyanalyze
+    virtual package provided by signing-party
+keyboard-configuration (1.88)
+    system-wide keyboard preferences
+keymapper (0.5.3-10.1)
+    Keyboard map decision tree builder and interpreter
+keynav (0.20110708.0-1)
+    keyboard-driven mouse cursor mover
+kfind (4:4.8.4-2)
+    file search utility
+kfloppy (4:4.8.4-1)
+    floppy formatter
+kgb (1.0b4+ds-13.2)
+    Archiver for .kgb files
+kgpg (4:4.8.4-4)
+    graphical front end for GNU Privacy Guard
+kinfocenter (4:4.8.4-6)
+    system information viewer
+kjots (4:4.4.11.1+l10n-3+b1)
+    note-taking utility
+kldutils (9.0+ds1-11~deb7u1)
+    tools for managing kFreeBSD modules
+kmag (4:4.8.4-3)
+    screen magnifier tool
+kmfl-keyboards-mywin (2.1.1-2)
+    myWin Myanmar (Burmese) Unicode Keyboard
+kmflcomp (0.9.8-1)
+    KMFL (Keyboard Mapping for Linux) Compiler
+kmousetool (4:4.8.4-3)
+    mouse manipulation tool for the disabled
+kmouth (4:4.8.4-3)
+    type-and-say frontend for speech synthesizers
+kon2 (0.3.9b-20)
+    Kanji on Linux Console
+konfont (0.1-8)
+    Public domain japanese fonts for KON2
+krb5-auth-dialog (3.2.1-1+deb7u1)
+    tray applet for reauthenticating kerberos tickets
+kremotecontrol (4:4.8.4-3)
+    frontend for using remote controls
+krusader (1:2.3.0~beta1-1+wheezy3)
+    twin-panel (commander-style) file manager
+ksshaskpass (0.5.3-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.5.3-1 [armhf, s390x])
+    interactively prompt users for a passphrase for ssh-add
+ksysguard (4:4.8.4-6)
+    process monitor and system statistics
+ksysguardd (4:4.8.4-6)
+    System Guard Daemon
+ktimer (4:4.8.4-1)
+    countdown timer
+ktimetracker (4:4.4.11.1+l10n-3+b1)
+    time tracker tool
+ktrace (9.0+ds1-11~deb7u1)
+    A kernel call tracer
+kttsd (4:4.8.4-2)
+    transitional package for jovie
+kttsd
+    virtual package provided by jovie
+kunststoff (2.0.2-5)
+    suite of skins for different applications
+kupfer (0+v208-2)
+    fast and lightweight desktop summoner/launcher
+kvpnc-data (0.9.6a-2.1)
+    data files for KVpnc
+kwalletmanager (4:4.8.4-3)
+    secure password wallet manager
+lam-runtime (7.1.4-3)
+    LAM runtime environment for executing parallel programs
+laptop-detect (0.13.7)
+    attempt to detect a laptop
+laptop-mode-tools (1.61-2)
+    Tools for Power Savings based on battery/AC status
+latencytop (0.5+b1 [armel, ia64], 0.5 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    A tool for developers to visualize system latencies
+latrace (0.5.11-1)
+    traces library calls in dynamically linked programs
+lcab (1.0b12-5)
+    create cabinet (.cab) archives
+lcd4linux (0.11.0~svn1189-1+b1)
+    Grabs information and displays it on an external lcd
+lcdproc (0.5.5-2)
+    LCD display driver daemon and clients
+lcdproc-extra-drivers (0.5.5-2)
+    extra drivers for the LCD display driver daemon
+lcrack (20040914-1)
+    A generic password cracker
+ldap2zone (0.2-3.1)
+    Extract DNS zones from LDAP trees
+ldb-tools (1:1.1.6-1)
+    LDAP-like embedded database - tools
+leave (1.12-2.1)
+    Reminds you when you have to leave
+ledger (2.6.2-3.1)
+    command-line double-entry accounting program
+lfm (2.3-1)
+    simple but powerful file manager for the UNIX console
+lhasa (0.0.7-2)
+    lzh archive decompressor
+libatasmart-bin (0.19-1)
+    ATA S.M.A.R.T. reading and parsing library - utilities
+libavc1394-tools (0.5.4-2)
+    control IEEE 1394 audio/video devices (utilities)
+libcap2-bin (1:2.22-1.2)
+    basic utility programs for using capabilities
+libccss-tools (0.5.0-4)
+    simple api for CSS stylesheets (utilities)
+libcitygml0-bin (0.14+svn128-1+3p0p1+4)
+    Utils of libcitygml - citygml2vrml and citygmltest
+libcmph-tools (0.9-1+b2 [armel, ia64], 0.9-1+b1 [powerpc], 0.9-1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390, s390x, sparc])
+    C Minimal Perfect Hashing Library command line utilities
+libcrypto++-utils (5.6.1-6)
+    General purpose cryptographic library - utilities and data files
+libdap-bin (3.11.1-11)
+    Binaries for the libdap Data Access Protocol library
+libdbus-c++-bin (0.9.0-6)
+    C++ API for D-Bus (utilities)
+libdmtx-utils (0.7.2-2+build1)
+    Utilities for reading and writing Data Matrix 2D barcodes
+libemos-data (000382+dfsg-2)
+    Data files for the ECMWF Interpolation library
+libfreenect-bin (1:0.1.2+dfsg-6)
+    library for accessing Kinect device -- utilities and samples
+libfribidi-bin (0.19.2-3)
+    Free Implementation of the Unicode BiDi algorithm (utility)
+libgdcm-tools (2.2.0-14.1)
+    Grassroots DICOM tools and utilities
+libgfshare-bin (1.0.5-2)
+    utilities for multi-way secret-sharing
+libgpewidget-data (0.117-6)
+    data files for libgpewidget
+libgrib-api-tools (1.9.16-2+b1 [amd64, i386, kfreebsd-amd64, kfreebsd-i386], 1.9.16-2 [armel, armhf, ia64, mipsel, powerpc, s390])
+    GRIB decoding/encoding software (utilities)
+libgxps-utils (0.2.2-2)
+    handling and rendering XPS documents (utilities)
+libiksemel-utils (1.2-4)
+    utilities from the iksemel library
+libimobiledevice-utils (1.1.1-4)
+    Library for communicating with iPhone and iPod Touch devices
+libjs-gordon (0~git20101011-2)
+    Open source flash runtime written in pure javascript
+libjs-protoaculous (4)
+    Compressed library containing both prototype and scriptaculous
+libkate-tools (0.4.1-1)
+    Utilities for mangling kate Ogg files
+liblcms-utils (1.19.dfsg-1.2)
+    Little CMS color management library utilities
+liblcms2-utils (2.2+git20110628-2.2+deb7u1)
+    Little CMS 2 olor management library
+liblicense-cli (0.8.1-3)
+    Command line interface for license metadata
+liblo-tools (0.26~repack-7)
+    Lightweight OSC library
+liblockfile-bin (1.09-5)
+    support binaries for and cli utilities based on liblockfile
+libmagics++-data (2.14.11-4)
+    Data files needed for magics++ library
+libmemcached-tools (1.0.8-1)
+    Commandline tools for talking to memcached via libmemcached
+libnjb-tools (2.2.7~dfsg0-3)
+    Creative Labs Nomad Jukebox library tools
+libnotify-bin (0.7.5-1)
+    sends desktop notifications to a notification daemon (Utilities)
+libnss-sss (1.8.4-2)
+    Nss library for the System Security Services Daemon
+libotf-bin (0.9.12-2)
+    Library for handling OpenType Font - utilities
+libpam-sss (1.8.4-2)
+    Pam module for the System Security Services Daemon
+libpaper-utils (1.1.24+nmu2)
+    library for handling paper characteristics (utilities)
+libpinyin-utils (0.6.91-1)
+    library to deal with PinYin - utilities
+libplist-utils (1.8-1)
+    Apple property list converter
+libproxy-tools (0.3.1-6)
+    automatic proxy configuration management library (tools)
+librapi2-tools (0.15-2.1)
+    Make RAPI calls to a Window Mobile device, library tools
+libraw1394-tools (2.0.9-1)
+    library for direct access to IEEE 1394 bus (aka FireWire)
+libsyncml-utils (0.5.4-2.1)
+    SyncML protocol library utilities
+libtheora-bin (1.1.1+dfsg.1-3.1)
+    The Theora Video Compression Codec (example encoder, decoder)
+libuim-data (1:1.8.1-4)
+    Universal Input Method - data files
+libvisio-tools (0.0.17-1)
+    library for parsing the visio file structure -- tools
+libvtkgdcm-tools (2.2.0-14.1)
+    Grassroots DICOM VTK tools and utilities
+libwpd-tools (0.9.4-3)
+    Tools from libwpd for converting WordPerfect to HTML/RAW/Text
+libwps-tools (0.2.7-1)
+    Tools from libwps for converting Works text documents to HTML/RAW/Text
+lightspark (0.6.0.1-2)
+    High-performance SWF player (experimental)
+lightspark-common (0.6.0.1-2)
+    High-performance SWF player - common data
+linuxinfo (1.1.8-39)
+    Displays extended system information
+lirc (0.9.0~pre1-1)
+    infra-red remote control support
+lirc-x (0.9.0~pre1-1)
+    infra-red remote control support - X utilities
+live-f1 (0.2.10-1)
+    Formula 1 live timing
+lm-sensors (1:3.3.2-2+deb7u1)
+    utilities to read temperature/voltage/fan sensors
+loadmeter (1.20-6)
+    Attractive X11 load meter
+loadwatch (1.0+1.1alpha1-5+b1 [mips, mipsel], 1.0+1.1alpha1-5 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, powerpc, s390, s390x, sparc])
+    Run a program using only idle cycles
+locate (4.4.2-4)
+    maintain and query an index of a directory tree
+logapp (0.15-1)
+    supervise execution of applications producing heavy output
+logtool (1.2.8-8)
+    Syslog-style logfile parser with lots of output options
+longrun (0.9-22)
+    Transmeta Crusoe LongRun control utility
+lrzip (0.608-2)
+    compression program with a very high compression ratio
+lsat (0.9.7.1-2)
+    Security auditor tool
+lsdvd (0.16-3+b1 [amd64, armel, i386, ia64, mips, mipsel, powerpc, s390, sparc], 0.16-3 [armhf, kfreebsd-amd64, kfreebsd-i386, s390x])
+    read the content info of a DVD
+lshw (02.16-1)
+    information about hardware configuration
+lshw-gtk (02.16-1)
+    graphical information about hardware configuration
+lsof (4.86+dfsg-1)
+    Utility to list open files
+lswm (0.6.00+svn201-3+b1 [amd64, armel, i386, ia64, mips, mipsel, powerpc, s390, sparc], 0.6.00+svn201-3 [armhf, s390x])
+    wiimote discover utility
+ltrace (0.5.3-2.1)
+    Tracks runtime library calls in dynamically linked programs
+ltt-bin (0.89-05122011-1)
+    Tools to control kernel tracing with LTTng
+lttv (0.12.38-21032011-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.12.38-21032011-1 [armhf, s390x])
+    Linux Trace Toolkit Viewer
+luckybackup (0.4.7-2)
+    rsync-based GUI data backup utility
+luckybackup-data (0.4.7-2)
+    rsync-based GUI data backup utility (data files)
+lunar (2.2-3.1)
+    Chinese Lunar Calendar conversion utility
+lunch (0.4.0-1)
+    Transitional package for python-lunch
+lunzip (1.1-2)
+    data compressor based on the LZMA algorithm (uncompressor)
+lv2-c++-tools (1.0.4-3+b1)
+    library and tools for LV2 plugins
+lxappearance (0.5.2-1)
+    LXDE GTK+ theme switcher
+lxsession-edit (0.2.0-3)
+    LXDE application session editor
+lxshortcut (0.1.2-3)
+    LXDE application shortcut editor
+lynis (1.3.0-1)
+    security auditing tool for Unix based systems
+lzip (1.13-3)
+    lossless data compressor based on the LZMA algorithm
+lziprecover (1.13-2)
+    lossless data compressor based on the LZMA algorithm (recovery)
+lzma (9.22-2)
+    Compression and decompression in the LZMA format - command line utility
+lzma
+    virtual package provided by xz-utils
+lzma-alone (9.22-2)
+    Compression and decompression in the LZMA format - legacy utility
+lzop (1.03-3)
+    fast compression program
+m17n-contrib (1.1.13-2)
+    multilingual text processing library - contributed database
+m17n-db (1.6.3-2)
+    multilingual text processing library - database
+m17n-im-config (0.9.0-3)
+    input method configuration library for m17n-lib - utility
+m17n-lib-bin (1.6.3-2)
+    multilingual text processing library - utilities
+m17n-lib-mimx (1.6.3-2)
+    multilingual text processing library - binary modules
+magicrescue (1.1.8-1)
+    recovers files by looking for magic bytes
+magics++ (2.14.11-4)
+    Executables for the magics++ library
+mail-expire (0.7)
+    Utility to extract outdated messages from mbox files
+makebootfat (1.4-5)
+    Utility to create a bootable FAT filesystem
+makepatch (2.03-1)
+    generate/apply patch files with more functionality than plain diff
+makeself (2.1.5-1)
+    utility to generate self-extractable archives
+mame-tools (0.146-4) [non-free]
+    Tools for MAME and MESS
+mapnik-utils (2.0.0+ds1-3+b4 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 2.0.0+ds1-3+b3 [armhf, s390x])
+    C++/Python toolkit for developing GIS applications (utilities)
+mbuffer (20110119-2)
+    tool for buffering data streams
+mbw (1.2.2-1)
+    memory bandwidth benchmark program
+mc (3:4.8.3-10)
+    Midnight Commander - a powerful file manager
+mc-data (3:4.8.3-10)
+    Midnight Commander - a powerful file manager -- data files
+mcollective (2.0.0+dfsg-2)
+    Marionette Collective clustering framework - server
+mcollective-client (2.0.0+dfsg-2)
+    Marionette Collective clustering framework - clients
+mcollective-common (2.0.0+dfsg-2)
+    Marionette Collective clustering framework - common files
+mcron (1.0.6-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.0.6-1 [armhf, s390x])
+    Guile-based program for running jobs at regular times
+mcrypt (2.6.8-1.3)
+    Replacement for old unix crypt(1)
+md5deep (4.2-1)
+    Recursively compute hashsums or piecewise hashings
+mdetect (0.5.2.3+b1 [armel, ia64, powerpc], 0.5.2.3 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390, s390x, sparc])
+    mouse device autodetection tool
+mdm (0.1.3-2)
+    Utilities for single-host parallel shell scripting
+mdns-scan (0.5-1)
+    Scan for mDNS/DNS-SD services published on the local network
+mediainfo (0.7.58-1)
+    command-line utility for reading information from audio/video files
+mediainfo-gui (0.7.58-1)
+    graphical utility for reading information from audio/video files
+melt (0.8.0-4)
+    command line media player and video editor
+memtester (4.2.2-1)
+    Utility for testing the memory subsystem
+mencal (2.3-9)
+    A menstruation calendar
+mergelog (4.5.1-9)
+    utility that merges httpd log files by date
+metar (20061030.1-2+b3 [amd64, i386, ia64, mips, mipsel, powerpc, sparc], 20061030.1-2 [armel, armhf, kfreebsd-amd64, kfreebsd-i386, s390, s390x])
+    utility to download/decode METAR reports
+mhddfs (0.1.39)
+    file system for unifying several mount points into one
+micro-evtd (3.4-2)
+    Linkstation Pro/Kurobox Pro special features support
+migemo (20110227-7)
+    Transitional package for migemo
+migemo
+    virtual package provided by migemo-el
+migemo-el (20110227-7)
+    Japanese incremental search with Romaji on Emacsen
+mimetex (1.73-2)
+    LaTeX math expressions to anti-aliased GIF images converter
+missidentify (1.0-6)
+    a program to find win32 applications
+mkgmap (0.0.0+svn1067-1)
+    Generate Garmin maps from OpenStreetMap data
+mkgmapgui (1.1.ds-2)
+    Graphical User Interface for mkgmap
+mkvmlinuz (36)
+    create a kernel to boot a PowerPC machine from Open Firmware
+mlocate (0.23.1-1)
+    quickly find files on the filesystem based on their name
+mmv (1.01b-15)
+    Move/Copy/Append/Link multiple files
+mobile-atlas-creator (1.9.7-1)
+    program to create offline atlases for GPS/cell phone applications
+monajat (2.6.3-1)
+    Islamic supplications tray applet (transitional package)
+monajat-applet (2.6.3-1)
+    Islamic supplications tray applet
+monajat-data (2.6.3-1)
+    Islamic supplications database
+monajat-mod (2.6.3-1)
+    Islamic supplications console utility
+monajat-screenlet (2.6.3-1)
+    Islamic supplications screenlet
+monav (0.3-6+b1)
+    metapackage for MoNav
+monav-client (0.3-6+b1)
+    fast navigation system featuring exact routing - client
+monav-data (0.3-6)
+    fast navigation system featuring exact routing - data files
+monav-preprocessor (0.3-6+b1)
+    fast navigation system featuring exact routing - preprocessor
+monav-routing-daemon (0.3-6+b1)
+    fast navigation system featuring exact routing - routing daemon
+monkeytail (0.3.2-3)
+    tail variant designed for web developers monitoring logfiles
+moreutils (0.47)
+    additional Unix utilities
+mountpy (0.8.1)
+    script for quick mounting of removable devices
+mouseemu (0.15-9)
+    Emulate mouse buttons and mouse wheel
+movixmaker-2 (0.8.4-2)
+    Utility to create customized eMoviX/MoviX/MoviX² CD images
+mozc-data (1.5.1090.102-4+deb7u1)
+    Mozc input method - data files
+mozc-server (1.5.1090.102-4+deb7u1)
+    Server of the Mozc input method
+mozc-utils-gui (1.5.1090.102-4+deb7u1)
+    GUI utilities of the Mozc input method
+mp3fs (0.31-28-g7b30a54-1)
+    FUSE filesystem for transcoding FLAC to MP3 on the fly
+mp3report (1.0.2-3)
+    Script to create an HTML report of MP3 files in a directory
+mpeg3-utils (1.5.4-5)
+    MPEG streams decoding library
+mpris-remote (0.0~1.gpb7c7f5c6-1)
+    command-line interface for mpris compatible media players
+mrename (1.2-12)
+    A tool for easy and automatic renaming of many files
+msort (8.52-1.3+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 8.52-1.3 [armhf, s390x])
+    utility for sorting records in complex ways
+msort-gui (8.52-1.3)
+    tcl/tk gui for msort utility
+msrtool (0.0+r4091-1)
+    Dump chipset-specific MSR contents
+mtbl-bin (0.2-1)
+    immutable sorted string table library (utilities)
+mtd-utils (1:1.5.0-1)
+    Memory Technology Device Utilities
+mtp-tools (1.1.3-35-g0ece104-5)
+    Media Transfer Protocol (MTP) library tools
+multitail (5.2.9-1)
+    view multiple logfiles windowed on console
+multitee (3.0-4)
+    send multiple inputs to multiple outputs
+mutrace (0.2.0-2)
+    mutex and realtime memory allocation profiling tools
+mv2120-utils (0.3)
+    utilities and init scripts for the HP mv2120
+myrescue (0.9.4-5+b2 [armel, ia64], 0.9.4-5+b1 [amd64, i386, kfreebsd-amd64], 0.9.4-5 [armhf, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    rescue data from damaged harddisks
+mythtvfs (0.6.1-3)
+    userspace filesystem client for MythTV
+mytop (1.6-6)
+    top like query monitor for MySQL
+nagstamon (0.9.9-1)
+    Nagios status monitor which takes place in systray or on desktop
+nasty (0.6-2)
+    A tool which helps you to recover your GPG passphrase
+nautilus-gtkhash (0.6.0-4)
+    nautilus extension for computing checksums and more using gtkhash
+nautilus-wipe (0.1.1-3)
+    Secure deletion extension for Nautilus
+ncdt (2.1-3)
+    Display directory tree
+ncompress (4.2.4.4-5)
+    original Lempel-Ziv compress/uncompress programs
+ncurses-bin (5.9-10)
+    terminal-related programs and man pages
+network-config (0.2-1)
+    Simple network configuration tool
+nfoview (1.9.2-1)
+    a simple viewer for NFO files
+ng-utils (0.7-1)
+    Tool to access netgroups from the command line
+nifti-bin (2.0.0-1)
+    tools shipped with the NIfTI library
+nmon (13g+debian-1)
+    performance monitoring tool for Linux
+nodau (0.3~rc6-1)
+    simple console based note taking program
+nomarch (1.4-3)
+    Unpacks .ARC and .ARK MS-DOS archives
+note (1.3.7-1)
+    small program managing notes from commandline
+numconv (2.7-1.1)
+    utility for conversion numbers as Unicode strings
+nvidia-smi (304.125-1) [non-free]
+    NVIDIA System Management Interface
+nwrite (1.9.2-20.1)
+    Enhanced replacement for the write command
+oggz-tools (1.1.1-1)
+    utilities for mangling Ogg streams
+ohcount (3.0.0-6.1)
+    Source code line counter
+opencc (0.3.0-3)
+    simplified-traditional chinese conversion tool
+openct (0.6.20-1.2+b1 [kfreebsd-amd64, kfreebsd-i386], 0.6.20-1.2 [amd64, armel, armhf, i386, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    middleware framework for smart card terminals
+opennebula (3.4.1-3.1)
+    controller which executes the OpenNebula cluster services
+opennebula-common (3.4.1-3.1)
+    empty package to create OpenNebula users and directories
+opennebula-node (3.4.1-3.1)
+    empty package to prepare a machine as OpenNebula Node
+opennebula-sunstone (3.4.1-3.1)
+    web interface to which executes the OpenNebula cluster services
+opennebula-tools (3.4.1-3.1)
+    Command-line tools for OpenNebula Cloud
+opensc (0.12.2-3)
+    Smart card utilities with support for PKCS#15 compatible cards
+openssl (1.0.1e-2+deb7u16) [security]
+    Secure Socket Layer (SSL) binary and related cryptographic tools
+openstreetmap-map-icons-classic (1:0.0.svn27763-1)
+    Collection of map icons (classic set)
+openstreetmap-map-icons-scalable (1:0.0.svn27763-1)
+    Collection of map icons (scalable set)
+openstreetmap-map-icons-square (1:0.0.svn27763-1)
+    Collection of map icons (square set)
+openvanilla-imgeneric (0.9.0a1.3+dfsg1-2.1)
+    libraries of openvanilla input method
+openvanilla-imgeneric-data-all (0.9.0a1.3+dfsg1-2.1)
+    libraries of openvanilla input method - data files meta package
+openvanilla-imgeneric-data-ja (0.9.0a1.3+dfsg1-2.1)
+    libraries of openvanilla input method - Japanese data files
+openvanilla-imgeneric-data-ko (0.9.0a1.3+dfsg1-2.1)
+    libraries of openvanilla input method - Korean data files
+openvanilla-imgeneric-data-th (0.9.0a1.3+dfsg1-2.1)
+    libraries of openvanilla input method - Thai data files
+openvanilla-imgeneric-data-vi (0.9.0a1.3+dfsg1-2.1)
+    libraries of openvanilla input method - Vietnamese data files
+openvanilla-imgeneric-data-zh-cn (0.9.0a1.3+dfsg1-2.1)
+    libraries of openvanilla input method - Chinese (Simplified) data files
+openvanilla-imgeneric-data-zh-hk (0.9.0a1.3+dfsg1-2.1)
+    libraries of openvanilla input method - Chinese (Hongkong) data files
+openvanilla-imgeneric-data-zh-tw (0.9.0a1.3+dfsg1-2.1)
+    libraries of openvanilla input method - Chinese (Traditional) data files
+orange (0.4-2)
+    extracts CAB files from self-extracting installers
+orville-write (2.55-2.3)
+    An alternative to the standard write program
+os-prober (1.58)
+    utility to detect other OSes on a set of drives
+os-prober
+    virtual package provided by os-prober-udeb
+osdclock (0.5-23)
+    Clock using the XOSD library
+osm2pgsql (0.80.0+r27899-4)
+    OpenStreetMap data to PostgreSQL converter
+osmjs (0.0~20111213-g7f3500a-3+b2)
+    osmium-based Javascript framework for handling OSM data
+osmosis (0.40.1+ds1-7)
+    Command line OpenStreetMap data processor
+osmpbf-bin (1.2.1-3)
+    OpenStreetMap PBF file format library - tools
+osptoolkit (3.4.2-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 3.4.2-1 [armhf, s390x])
+    An open source client side development kit for Open Settlement Protocol
+otcl-shells (1.14+dfsg-2)
+    OTcl shells
+otf2bdf (3.1-2)
+    generate BDF bitmap fonts from OpenType outline fonts
+outguess (1:0.2-7)
+    Universal Steganographic tool
+ovsdbmonitor (1.4.2+git20120612-9.1~deb7u1)
+    Open vSwitch graphical monitoring tool
+oxref (0.90.10-1)
+    cross reference utility
+p7zip (9.20.1~dfsg.1-4)
+    7z file archiver with high compression ratio
+p7zip-full (9.20.1~dfsg.1-4)
+    7z and 7za file archivers with high compression ratio
+p7zip-rar (9.20.1~ds.1-3) [non-free]
+    non-free rar module for p7zip
+pal (0.4.3-8)
+    command-line calendar program that can keep track of events
+paperkey (1.2-1)
+    extract just the secret information out of OpenPGP secret keys
+par2 (0.4-11)
+    Parity Archive Volume Set, for checking and repair of files
+parallel (20120422-1)
+    build and execute command lines from standard input in parallel
+parchive (1.1-4)
+    Use PAR files to reconstruct missing parts of multi-part archives
+pasco (1.0+20040505-5+b2 [armel, ia64], 1.0+20040505-5+b1 [amd64, i386, kfreebsd-amd64], 1.0+20040505-5 [armhf, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    An Internet Explorer cache forensic analysis tool
+passwordmaker-cli (1.5+dfsg-3)
+    creates unique, secure passwords - CLI version
+pathfinder-utils (1.1.3-0.4+b1 [amd64, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.1.3-0.4 [armel])
+    Utilities to use with the Pathfinder Daemon
+pathfinderd (1.1.3-0.4+b1 [amd64, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.1.3-0.4 [armel])
+    Daemon for X.509 Path Discovery and Validation
+pax (1:20120606-2)
+    Portable Archive Interchange (cpio, pax, tar)
+pbzip2 (1.1.8-1)
+    parallel bzip2 implementation
+pcal (4.11.0-3)
+    generate Postscript calendars without X
+pcalendar (3.2.0-2)
+    track menstrual cycles and predict fertility periods
+pcmanfm (0.9.10-3)
+    extremely fast and lightweight file manager
+pconf-detect (0.5-12)
+    Small printer auto-detect command-line tool
+pconsole (1.0-9)
+    parallel console shell for administering clusters
+pcregrep (1:8.30-5)
+    grep utility that uses perl 5 compatible regexes.
+pcsc-tools (1.4.20-1)
+    Some tools to use with smart cards and PC/SC
+pdfcrack (0.11-1)
+    PDF files password cracker
+pdfgrep (1.3.0-1)
+    search in pdf files for strings matching a regular expression
+pdlzip (1.3-2)
+    data compressor based on the LZMA algorithm (simple version)
+pecomato (0.0.15-4)
+    Picture-embedded contents manipulation tool
+perceptualdiff (1.1.1-1)
+    perceptual image comparison tool
+percona-toolkit (2.1.2-1)
+    Command-line tools for MySQL and system tasks
+perforate (1.2-5)
+    Utilities to save disk space
+petit (1.1.1-1)
+    log analysis tool for syslog, apache and raw log files
+pev (0.40-1)
+    text-based tool to analyze PE files
+pexec (1.0~rc8-2)
+    Executing commands in parallel
+pgpdump (0.27-1)
+    PGP packet visualizer
+pgpgpg (0.13-9)
+    Wrapper for using GnuPG in programs designed for PGP
+phnxdeco (0.33-3)
+    Decompress flashfiles equipped with a PHOENIX BIOS
+phoronix-test-suite (3.8.0-1) [contrib]
+    comprehensive testing and benchmarking platform
+pigz (2.2.4-3)
+    Parallel Implementation of GZip
+pilot (2.02+dfsg-2)
+    Simple file browser from Alpine, a text-based email client
+pinentry-curses (0.8.1-1)
+    curses-based PIN or pass-phrase entry dialog for GnuPG
+pinentry-gtk2 (0.8.1-1)
+    GTK+-2-based PIN or pass-phrase entry dialog for GnuPG
+pinentry-qt4 (0.8.1-1)
+    Qt-4-based PIN or pass-phrase entry dialog for GnuPG
+pinyin-database (1.2.99-3)
+    PinYin database used by ibus-pinyin
+pipebench (0.40-3+b2 [armel, ia64], 0.40-3+b1 [amd64, i386, kfreebsd-amd64], 0.40-3 [armhf, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Measures the speed of stdin/stdout communication
+pkcs11-data (0.7.4-1)
+    Manage PKCS#11 data objects
+pkcs11-dump (0.3.4-1)
+    Dump PKCS#11 token content
+pkg-mozilla-archive-keyring (1.1)
+    GnuPG archive keys for the Debian Mozilla team package repository
+pkpgcounter (3.50-7)
+    computes number of pages or quantity of ink needed to print documents
+ploader (1.6.0-1.1)
+    Application to upload your pictures to your Piwigo gallery
+plzip (0.9-2)
+    parallel, lossless data compressor based on the LZMA algorithm
+pmount (0.9.23-2)
+    mount removable devices as normal user
+pmtools (1.10+ds1-2)
+    Perl module tools
+policycoreutils (2.1.10-9)
+    SELinux core policy utilities
+pommed (1.39~dfsg-2+b1)
+    Apple laptops hotkeys event handler
+poppler-utils (0.18.4-6)
+    PDF utilities (based on Poppler)
+postal (0.73)
+    SMTP benchmark - the mad postman.
+postmark (1.51-7+b1 [armel, ia64], 1.51-7 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    File system benchmark from NetApp
+postpone (0.2)
+    schedules commands to be executed later
+potool (0.12-1)
+    A program to aid manipulation of gettext po files
+powermgmt-base (1.31)
+    Common utils and configs for power management
+powerpc-ibm-utils (1.2.12-1)
+    utilities for maintenance of IBM PowerPC platforms
+powerpc-utils (1.1.3-24)
+    Various utilities for Linux/PowerPC
+powertop (2.0-0.3)
+    Linux tool to find out what is using power on a laptop
+ppdfilt (2:0.10-7.1)
+    filter that inserts printer specific commands into print jobs
+ppmd (10.1-5)
+    fast archiver program with good compression ratio
+ppthtml (0.5.1-6)
+    A program for converting Microsoft Power Point Files .ppt
+prads (0.3.0-1)
+    Passive Real-time Asset Detection System
+prey (0.5.3-7.1)
+    utility for tracking stolen computers
+printer-applet (4:4.8.4-1)
+    manages your printing jobs
+printer-driver-postscript-hp (3.12.6-3.1+deb7u1)
+    HP Printers PostScript Descriptions
+pristine-tar (1.25+deb7u1)
+    regenerate pristine tarballs
+privbind (1.2-1.1)
+    Allow unprivileged apps to bind to a privileged port
+procinfo (1:2.0.304-1)
+    reporter for system information from /proc and /sys
+procmeter3 (3.5d-1)
+    graphical system status monitor
+procserv (2.6.0-1)
+    Process server with telnet console and log access
+psensor (0.6.2.17-2+b1)
+    display graphs for monitoring hardware temperature
+psensor-common (0.6.2.17-2)
+    common files for Psensor and Psensor server
+psensor-server (0.6.2.17-2+b1)
+    Psensor server for monitoring hardware sensors remotely
+pst-utils (0.6.54-4.1)
+    tools for reading Microsoft Outlook PST files
+puredata-utils (0.43.2-5)
+    realtime computer music and graphics system - utility programs
+pv (1.2.0-1)
+    Shell pipeline element to meter data passing through
+pwauth (2.3.8-1)
+    authenticator for mod_authnz_external and the Apache HTTP Daemon
+pwman3 (0.0.8-1)
+    console password managment application
+pybootchartgui (0.14.4-3)
+    viewer for boot process performance analysis results
+pydf (10)
+    colourised df(1)-clone
+pyliblo-utils (0.9.1-2)
+    Command line utilities for sending and receiving OSC messages
+pyp (2.12-1)
+    sed/awk-like tool with Python language
+pypibrowser (1.5-2)
+    graphical interface for browsing the Python Package Index
+pytagsfs (0.9.2-6)
+    maps media files to an arbitrary directory structure
+python-magics++ (2.14.11-4)
+    python support for Magics++
+pytrainer (1.9.1-2)
+    tool for logging sport activities
+qbankmanager (0.9.55beta-3)
+    online banking program with graphical interface
+qcontrol (0.4.2-7+wheezy2)
+    hardware control for QNAP Turbo Station devices
+qdbus (4:4.8.2+dfsg-11)
+    Qt 4 D-Bus tool
+qemubuilder (0.70)
+    pbuilder using QEMU as backend
+qimhangul-qt4 (0.2.0-2)
+    Hangul input method module for Qt
+qlandkartegt-garmin (0.3.4-2)
+    QLandkarteGT plugins to access Garmin devices
+qmf-tests (1.0.7~2011w23.2-2.1)
+    Qt Messaging Framework (QMF) tests
+qprint (1.0.dfsg.2-2)
+    encoder and decoder for quoted-printable encoding
+qprogram-starter (1.6.4-1)
+    Qt program to start programs or commands
+qrencode (3.3.0-2)
+    QR Code encoder into PNG image
+qshutdown (1.6.4-1)
+    Qt program to shutdown/reboot/suspend/hibernate the system
+quicktime-utils (2:1.2.4-3)
+    library for reading and writing Quicktime files (utilities)
+quicktime-x11utils (2:1.2.4-3)
+    library for reading and writing Quicktime files (x11 utilities)
+quvi (0.4.2-1)
+    command line program to extract video download links
+qv4l2 (0.8.8-3)
+    Graphical Qt v4l2 control panel
+qwbfsmanager (1.1.0-1.1)
+    graphical file manager for the WBFS filesystem
+radeontool (1.6.2-1.1)
+    utility to control ATI Radeon backlight functions on laptops
+randomize-lines (0.2.7)
+    randomize lines of input text
+ranger (1.5.4-1)
+    File manager with an ncurses frontend written in Python
+rar (2:4.0.b3-1) [non-free]
+    Archiver for .rar files
+rats (2.3-1)
+    Rough Auditing Tool for Security
+rdd (2.0.7-2+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 2.0.7-2 [armhf, s390x])
+    a forensic copy program
+rdfind (1.3.1-1)
+    find duplicate files utility
+rdiff (0.9.7-9)
+    Binary diff tool for signature-based differences
+rdiff-backup (1.2.8-7)
+    remote incremental backup
+rdiff-backup-fs (1.0.0-4)
+    Fuse filesystem for accessing rdiff-backup archives
+rdup (1.1.11-1+b1)
+    utility to create a file list suitable for making backups
+read-edid (2.0.0-3.1)
+    hardware information-gathering tool for VESA PnP monitors
+readline-common (6.2+dfsg-0.1)
+    GNU readline and history libraries, common files
+readpst (0.6.54-4.1)
+    Converts Outlook PST files to mbox and others
+realpath (1.18)
+    Return the canonicalized absolute pathname
+recoverdm (0.20-2+b1 [amd64, armel, i386, ia64], 0.20-2 [armhf, mips, mipsel, powerpc, s390, s390x, sparc])
+    recover files/disks with damaged sectors
+regionset (0.1-3)
+    view and modify the region code of DVD drives
+reglookup (0.12.0-1)
+    utility to read and query Windows NT/2000/XP registry
+remind (03.01.12-1)
+    sophisticated calendar and alarm program
+renameutils (0.12.0-1)
+    Programs to make file renaming easier
+reniced (1.19-1)
+    renice running processes based on regular expressions
+rephrase (0.1-3)
+    Specialized passphrase recovery tool for GnuPG
+reportbug (6.4.4+deb7u1)
+    reports bugs in the Debian distribution
+reportbug-ng (1.27)
+    An easy to use alternative to Debian's classic reportbug
+reprepro (4.12.5-1)
+    Debian package repository producer
+resample (1.8.1-1)
+    Resamples a sound file using a FIR filter
+restartd (0.2.2)
+    Process checker and/or restarter
+retty (1.0-2)
+    attach processes running on other terminals
+rfkill (0.4-1)
+    tool for enabling and disabling wireless devices
+rhash (1.2.9-8+deb7u1)
+    utility for computing hash sums and magnet links
+rifiuti (1.0+20040505-4+b2 [armel, ia64], 1.0+20040505-4+b1 [amd64, i386, kfreebsd-amd64], 1.0+20040505-4 [armhf, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    A MS Windows recycle bin analysis tool
+rifiuti2 (0.5.1-3+b1 [amd64, armel, i386, ia64, kfreebsd-amd64], 0.5.1-3 [armhf, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    A MS Windows recycle bin analysis tool
+ripole (0.2.0+20081101.0215-1)
+    Extract attachments from OLE2 data files (ie, MS Office docs)
+rlfe (6.2+dfsg-0.1)
+    Front-end using readline to "cook" input lines for other programs
+rlwrap (0.37-3)
+    readline feature command line wrapper
+rng-tools (2-unofficial-mt.14-1)
+    Daemon to use a Hardware TRNG
+rofs (2006.11.28-2.1)
+    Read-Only Filesystem for FUSE
+rootstrap (0.3.25-1)
+    Tool for building complete Linux filesystem images
+rovclock (0.6e-7)
+    utility to control frequency rates of your Radeon card
+rpl (1.5.5-1)
+    intelligent recursive search/replace utility
+rrdcached (1.4.7-2)
+    data caching daemon for RRDtool
+rrdcollect (0.2.10-2)
+    Round-Robin-Database Collecting Daemon
+rrdtool (1.4.7-2)
+    time-series data storage and display system (programs)
+rrdtool-tcl (1.4.7-2)
+    time-series data storage and display system (Tcl interface)
+rrep (1.3.3-2)
+    recursive pattern replacement utility
+rs (20120414-1)
+    reshape a data array
+rsakeyfind (1:1.0-2.1)
+    locates BER-encoded RSA private keys in memory images
+rsnapshot (1.3.1-3)
+    local and remote filesystem snapshot utility
+rst2pdf (0.16-2)
+    ReportLab-based reStructuredText to PDF renderer
+rsyncrypto (1.12-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.12-1 [armhf, s390x])
+    rsync friendly encryption
+runlim (1.7-1)
+    tool for sampling time and memory usage
+rzip (2.1-1)
+    compression program for large files
+s3cmd (1.1.0~beta3-1)
+    command-line Amazon S3 client
+s3dfm (0.2.2-8)
+    s3d file manager
+s3dosm (0.2.2-8)
+    gps card application for s3d
+s3dvt (0.2.2-8)
+    3d terminal emulator for s3d
+s3switch (0.1-1)
+    Manage the output device on S3 Savage chips
+safe-rm (0.8-6)
+    wrapper around the rm command to prevent accidental deletions
+safecat (1.13-2)
+    Safely copy stdin to a file
+sagasu (2.0.10-1)
+    GNOME tool to find strings in a set of files
+saidar (0.17-1)
+    curses-based program which displays live system statistics
+sampleicc-tools (1.6.4-1+b1)
+    ICC profiles i/o and manipulating library and CMM -- tools
+samplerate-programs (0.1.8-5)
+    Sample programs that use libsamplerate
+sasl2-bin (2.1.25.dfsg1-6+deb7u1)
+    Cyrus SASL - administration programs for SASL users database
+scalpel (1.60-1)
+    A Frugal, High Performance File Carver
+scanmem (0.12-2)
+    Program to locate and modify a variable in a running process
+scdaemon (2.0.19-2+deb7u2)
+    GNU privacy guard - smart card support
+schedtool (1.3.0-1)
+    Queries/alters process' scheduling policy and CPU affinity
+scim (1.4.13-5)
+    smart common input method platform
+scim-canna (1.0.0-4.2)
+    SCIM IMEngine module for Canna
+scim-chewing (0.3.4-1.2)
+    Chewing IM engine module for SCIM
+scim-gtk-immodule (1.4.13-5)
+    GTK+ input method module with SCIM as backend
+scim-kmfl-imengine (0.9.8-1.1)
+    KMFL (Keyboard Mapping for Linux) IM engine for the SCIM platform
+scim-m17n (0.2.3-3)
+    M17N Input Method Engine for SCIM
+scim-modules-socket (1.4.13-5)
+    socket modules for SCIM platform
+scim-modules-table (0.5.9-2)
+    generic tables IM engine module for SCIM platform
+scim-mozc (1.5.1090.102-4+deb7u1)
+    Mozc engine for SCIM - Client of the Mozc input method
+scim-skk (0.5.2-7.2)
+    SCIM IMEngine module like SKK input method
+scim-tables-additional (0.5.9-2)
+    miscellaneous input method data tables for SCIM platform
+scim-tables-ja (0.5.9-2)
+    Japanese input method data tables for SCIM platform
+scim-tables-ko (0.5.9-2)
+    Korean input method data tables for SCIM platform
+scim-tables-zh (0.5.9-2)
+    Chinese input method data tables for SCIM platform
+scim-thai (0.1.3-1)
+    Thai Input Method Engine for SCIM
+scim-unikey (0.3.1+debian-3.1)
+    Vietnamese Input Method Engine for SCIM using Unikey Engine
+scratchbox2 (2.2.4-1debian1)
+    Transparent cross compiling environment
+screenie-qt (0.0~git20100701-1)
+    fancy screenshot composer
+screentest (2.0-2.1)
+    Utility to test the quality of screens
+scrub (2.4.1-1)
+    writes patterns on magnetic media to thwart data recovery
+scrypt (1.1.6-3)
+    File encryption utility using scrypt for key derivation
+scsitools (0.12-2.1)
+    Collection of tools for SCSI hardware management
+scute (1.4.0-4)
+    OpenPGP smartcard plugin for Mozilla Network Security Services
+sdate (0.3.1+nmu1)
+    never ending September date
+sdcv (0.4.2-16)
+    StarDict Console Version
+searchmonkey (0.8.1-8)
+    search files using regular expressions aiming to replace find/grep tools
+sec (2.6.2-1)
+    Simple Event Correlator
+seccure (0.3-3)
+    tools for using algorithms based on elliptic curve cryptography (ECC)
+secure-delete (3.1-5)
+    tools to wipe files, free disk space, swap and memory
+sed (4.2.1-10)
+    The GNU sed stream editor
+sensible-utils (0.0.7)
+    Utilities for sensible alternative selection
+sensord (1:3.3.2-2+deb7u1)
+    hardware sensor information logging daemon
+ser2net (2.6-1+b1 [armel, ia64], 2.6-1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Allows network connections to serial ports
+set6x86 (1.5-14)
+    Cyrix/IBM 5x86/6x86 CPU configuration tool
+setcd (1.5-6)
+    Control the behaviour of your cdrom device
+sharutils (1:4.11.1-1)
+    shar, unshar, uuencode, uudecode
+shelldap (0.5-2)
+    shell-like interface for browsing LDAP servers and editing their content
+shntool (3.0.7-1)
+    multi-purpose tool for manipulating and analyzing WAV files
+simhash (0.0.20110213-1)
+    generate similarity hashes to find nearly duplicate files
+skkdic (20110529-1)
+    standard dictionary file for SKK
+skkdic-cdb (20110529-1)
+    standard dictionary file for SKK in cdb format for faster access
+skkdic-extra (20110529-1)
+    extra dictionary files for SKK
+skksearch (0.0-21)
+    SKK dictionary server handling multiple dictionaries
+skktools (1.3.2-3)
+    SKK dictionary maintenance tools
+sks-ecc (0.93-2)
+    Cryptographic tool based on ECC
+slbackup (0.0.12-3)
+    Skolelinux Backup system
+sleepenh (1.3-1)
+    Sleep until a given date with subsecond resolution
+slmon (0.5.13-2.2)
+    A simple S-Lang based system performance monitor
+slptool (1.2.1-9)
+    SLP command line tool
+smart-notifier (0.28-5)
+    graphical hard disk health status notifier
+smartmontools (5.41+svn3365-1+b1 [kfreebsd-amd64, kfreebsd-i386], 5.41+svn3365-1 [amd64, armel, armhf, i386, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    control and monitor storage systems using S.M.A.R.T.
+smem (1.0-1)
+    memory reporting tool
+sndfile-programs (1.0.25-5)
+    Sample programs that use libsndfile
+snowdrop (0.02b-10)
+    plain text watermarking and watermark recovery
+solarpowerlog (0.23a-2)
+    photovoltaic data logging
+soprano-daemon (2.7.6+dfsg.1-2wheezy1)
+    daemon for the Soprano RDF framework
+spacenavd (0.5-1)
+    daemon for using 3D input devices from 3Dconnexion
+sparkleshare (0.9.0-2)
+    distributed collaboration and sharing tool
+speedometer (2.8-1)
+    measure and display the rate of data across a network connection
+spew (1.0.8-1)
+    I/O performance measurement and load generation tool
+splitvt (1.6.6-11)
+    run two programs in a split screen
+sqlline (1.0.2-4)
+    JDBC command-line utility for issuing SQL
+sqsh (2.1.7-1)
+    commandline SQL client for MS SQL and Sybase servers
+squareness (2.3.0-5)
+    suite of skins for different applications
+srecord (1.58-1+b1)
+    collection of powerful tools for manipulating EPROM load files
+ssed (3.62-7)
+    The super sed stream editor
+ssft (0.9.13)
+    Shell Scripts Frontend Tool
+sshfs (2.4-1)
+    filesystem client based on SSH File Transfer Protocol
+sshpass (1.05-1)
+    Non-interactive ssh password authentication
+ssl-cert (1.0.32)
+    simple debconf wrapper for OpenSSL
+sslscan (1.8.2-2)
+    Fast SSL scanner
+sssd (1.8.4-2)
+    System Security Services Daemon
+sssd-tools (1.8.4-2)
+    System Security Services Daemon -- tools
+ssss (0.5-2+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.5-2 [armhf, s390x])
+    Shamir's secret sharing scheme implementation
+stardict (3.0.1-9.2)
+    International dictionary
+stardict
+    virtual package provided by stardict-gtk, stardict-gnome
+stardict-common (3.0.1-9.2)
+    International dictionary - data files
+stardict-gnome (3.0.1-9.2)
+    International dictionary for GNOME 2
+stardict-gtk (3.0.1-9.2)
+    International dictionary written in GTK+ 2.x
+stardict-plugin (3.0.1-9.2)
+    International dictionary - common plugins
+stardict-plugin-espeak (3.0.1-9.2)
+    International dictionary - eSpeak TTS plugin
+stardict-plugin-festival (3.0.1-9.2)
+    International dictionary - Festival TTS plugin
+stardict-plugin-spell (3.0.1-9.2)
+    International dictionary - spell plugin
+stardict-tools (3.0.2-3+b1)
+    dictionary conversion tools of stardict
+starpu-contrib-tools (1.0.1+dfsg-1) [contrib]
+    Task scheduler for heterogeneous multicore machines - tools
+starpu-tools (1.0.1+dfsg-1)
+    Task scheduler for heterogeneous multicore machines - tools
+starpu-tools
+    virtual package provided by starpu-contrib-tools
+starpu-top (1.0.1+dfsg-1)
+    Task scheduler for heterogeneous multicore machines - top
+startupmanager (1.9.13-5)
+    Grub, Usplash and Splash screen configuration
+statgrab (0.17-1)
+    sysctl-style access to system statistics
+statserial (1.1-22)
+    Displays serial port modem status lines
+stopwatch (3.5-3)
+    Virtual stopwatch and timer
+storebackup (3.2.1-1)
+    fancy compressing managing checksumming deduplicating hard-linking cp -ua
+strace (4.5.20-2.3)
+    A system call tracer
+strace64 (4.5.20-2.3)
+    A system call tracer for 64bit binaries
+stressapptest (1.0.4-2)
+    stress test application for simulating high load situations
+strigi-daemon (0.7.7-3)
+    fast indexing and searching tool for your personal data (daemon)
+strigi-utils (0.7.7-3)
+    command-line tools for Strigi Desktop Search
+subsurface (1.2-1)
+    simple dive log program written in C
+sunpinyin-data (0.1.22+20120112-1)
+    Statistical language model data from open-gram
+sunpinyin-utils (2.0.3+git20120607-1)
+    Simplified Chinese Input Method from SUN (utilities)
+supercat (0.5.5-4)
+    program that colorizes text for terminals and HTML
+superiotool (0.0+r6637-1)
+    Super I/O detection tool
+sweeper (4:4.8.4-1)
+    history and temporary file cleaner
+swftools (0.9.2+ds1-3)
+    Collection of utilities for SWF file manipulation/creation
+switchsh (0~20070801-3)
+    bind-mount bash as /bin/sh
+symlinks (1.4-1)
+    scan/change symbolic links
+synapse (0.2.10-2)
+    semantic file launcher
+sync-ui (1.2.99.1-1.1)
+    Sync personal information data using SyncML and CalDAV/CardDAV (GTK+ GUI)
+synce-gnomevfs (0.13-2.1)
+    SynCE plugin for GNOME VFS
+synce-hal (0.15-1.1)
+    Daemon to maintain a connection to Windows Mobile devices via hal
+synce-hal-bluetooth (0.15-1.1)
+    Bluetooth connection infrastructure for synce-hal
+synce-serial (0.11-5.3)
+    SynCE connection manipulation scripts
+synce-trayicon (0.15-1.2)
+    GNOME system tray application for SynCE
+syncevolution (1.2.99.1-1.1)
+    Sync personal information data using SyncML and CalDAV/CardDAV (CLI)
+syncevolution-common (1.2.99.1-1.1)
+    Sync personal information data using SyncML and CalDAV/CardDAV
+syncevolution-dbus (1.2.99.1-1.1)
+    Sync personal information data using SyncML and CalDAV/CardDAV (D-Bus support)
+syncevolution-http (1.2.99.1-1.1)
+    Sync personal information data using SyncML and CalDAV/CardDAV (HTTP server)
+syncevolution-libs (1.2.99.1-1.1)
+    Sync personal information data using SyncML and CalDAV/CardDAV (libraries)
+syrep (0.9-4.1)
+    A generic file repository synchronization tool
+sysfsutils (2.1.0+repack-2)
+    sysfs query tool and boot-time setup
+sysinfo (0.7-8)
+    display computer and system information
+syslinux (2:4.05+dfsg-6+deb7u1)
+    collection of boot loaders
+syslinux-common (2:4.05+dfsg-6+deb7u1)
+    collection of boot loaders (common files)
+t-code (2:2.3.1-3)
+    Japanese direct input method environment for emacsen
+taglog (0.2.3-1)
+    Personal time management system
+tahoe-lafs (1.9.2-1)
+    Secure distributed filesystem
+tar (1.26+dfsg-0.1)
+    GNU version of the tar archiving utility
+tardiff (0.1-1)
+    Tarball comparison tool
+tardy (1.25-1)
+    post-processor for tar command
+task (2.0.0-1)
+    feature-rich console based todo list manager
+tclcl (1.20-6)
+    tcl2c++ and otcldoc program from tclcl
+tdb-tools (1.2.10-2)
+    Trivial Database - bundled binaries
+tdl (1.5.2-3.1)
+    To-do list manager
+tegaki-recognize (0.3.1.2-1)
+    handwriting recognition application
+telepathy-logger (0.4.0-1)
+    Telepathy logger service - Daemon
+texify (1.20-2)
+    Beautify source code for use with LaTeX
+thunar-gtkhash (0.6.0-4)
+    thunar extension for computing checksums and more using gtkhash
+ticker (1.9)
+    configurable text scroller
+tiled (0.8.1-1)
+    general purpose tile map editor
+time (1.7-24)
+    GNU time program for measuring CPU resource usage
+timelimit (1.8-1)
+    simple utility to limit a process's absolute execution time
+tinyca (0.7.5-4)
+    simple graphical program for certification authority management
+tinycdb (0.78)
+    an utility to manipulate constant databases (cdb)
+tiobench (0.3.3-5)
+    Threaded I/O bench for Linux
+tkremind (03.01.12-1)
+    Tk GUI interface to remind
+tofrodos (1.7.9.debian.1-1)
+    Converts DOS <-> Unix text files, alias tofromdos
+tokyocabinet-bin (1.4.47-2)
+    Tokyo Cabinet Database Utilities
+tokyotyrant-utils (1.1.40-4.1+b1)
+    Tokyo Tyrant utilities
+torque-client (2.4.16+dfsg-1+deb7u4)
+    command line interface to Torque server
+torque-client
+    virtual package provided by torque-client-x11
+torque-common (2.4.16+dfsg-1+deb7u4)
+    Torque Queueing System shared files
+torque-mom (2.4.16+dfsg-1+deb7u4)
+    job execution engine for Torque batch system
+torque-pam (2.4.16+dfsg-1+deb7u4)
+    PAM module for PBS MOM nodes
+torque-server (2.4.16+dfsg-1+deb7u4)
+    PBS-derived batch processing server
+toshset (1.76-4)
+    Access much of the Toshiba laptop hardware interface
+tpb (0.6.4-8)
+    program to use the IBM ThinkPad(tm) special keys
+tpconfig (3.1.3-15)
+    touchpad device configuration utility
+tracker (0.14.1-3)
+    metadata database, indexer and search tool
+tracker-extract (0.14.1-3)
+    metadata database, indexer and search tool - metadata extractors
+tracker-miner-fs (0.14.1-3)
+    metadata database, indexer and search tool - filesystem indexer
+tracker-utils (0.14.1-3)
+    metadata database, indexer and search tool - commandline tools
+transfermii (1:0.6.1-2.1)
+    transfer your mii from and to your wiimotes
+transfermii-gui (1:0.6.1-2.1)
+    transfer your mii from and to your wiimotes -- GUI
+trash-cli (0.12.7-1)
+    command line trashcan utility
+tree (1.6.0-1)
+    displays directory tree, in color
+treeline (1.4.1-1)
+    versatile tree-like structured custom data manager
+treil (1.8-1.1)
+    tree structure into tiles
+trend (1.2-1)
+    a general-purpose, efficient trend graph
+triggerhappy (0.3.4-2)
+    global hotkey daemon for Linux
+tripwire (2.4.2.2-2)
+    file and directory integrity checker
+trovacap (0.2.2-1)
+    tool to find Italian ZIP codes
+trovacap-data (0.2.2-1)
+    tool to find Italian ZIP codes - ZIP codes database
+trscripts (1.16)
+    Scripts for reencoding text files and BDF-fonts
+tstools (1.11-1)
+    set of tools for reporting on and manipulating MPEG data
+ttf2ufm (3.4.4~r2-1)
+    True Type to PostScript Type 1 Font Converter
+tthsum (1.1.0-1)
+    generates or checks TTH message digests
+tty-clock (1.1-1)
+    simple terminal clock
+ttyload (0.5-7)
+    console based color-coded graphs of CPU load average
+ttylog (0.1.d-2)
+    serial port logger
+tudu (0.8.1-1)
+    Command line hierarchical ToDo list
+turnin-ng (1.1-1)
+    assignment submitter and manager
+tuxcmd (0.6.70+dfsg-1)
+    twin-panel (commander-style) file manager using GTK+ 2
+tuxcmd-modules (0.6.70+ds-4)
+    VFS modules for tuxcmd file manager
+txt2regex (0.8-4)
+    A Regular Expression "wizard", all written with bash2 builtins
+tzwatch (1.4.4-9)
+    Displays time and date in specified time zones on console
+u3-tool (0.3-1.1)
+    tool for controlling the special features of a U3 USB flash disk
+uboot-envtools (20081215-3+2012.04.01-2)
+    read/modify the environment for the U-Boot boot loader (transitional package)
+uboot-mkimage (2012.04.01-2)
+    generate kernel image for U-Boot (transitional package)
+ucf (3.0025+nmu3)
+    Update Configuration File: preserve user changes to config files.
+uchardet (0.0.1-1)
+    universal charset detection library - cli utility
+ucimf (2.3.8-4)
+    uicode console input method framework
+ucimf-chewing (0.3-1+build1)
+    ucimf wrapper for Chewing input method
+ucimf-openvanilla (2.10.11-2)
+    openvanilla input method collection for ucimf
+ucimf-sunpinyin (0.4-2)
+    ucimf wrapper for Sunpinyin IM engine
+ucommon-utils (5.2.2-4)
+    lightweight C++ threading and sockets - utilities
+udisks-glue (1.3.4-1)
+    simple automount daemon with support for user-defined actions
+udpcast (20100130-3)
+    multicast file transfer tool
+udunits-bin (2.1.23-3)
+    Utility for handling units of physical quantities
+ufiformat (0.9.8-1)
+    disk formatter for USB floppy drives
+ufsutils (8.2-3)
+    UFS filesystems utilities
+uif2iso (0.1.7a-1)
+    converts UIF files (used by MagicISO) to ISO or other formats
+uim (1:1.8.1-4)
+    Universal Input Method - metapackage
+uim-ajax-ime (1:1.8.1-4)
+    Universal Input Method - Ajax-IME web input support
+uim-anthy (1:1.8.1-4)
+    Universal Input Method - Anthy plugin
+uim-baidu-olime-jp (1:1.8.1-4)
+    Universal Input Method - Baidu web input support
+uim-byeoru (1:1.8.1-4)
+    Universal Input Method - byeoru hangul input support
+uim-canna (1:1.8.1-4)
+    Universal Input Method - Canna plugin
+uim-chewing (0.1.0-3)
+    Universal Input Method - Chewing plugin
+uim-common (1:1.8.1-4)
+    Universal Input Method - common files
+uim-fep (1:1.8.1-4)
+    Universal Input Method - front end processor
+uim-google-cgiapi-jp (1:1.8.1-4)
+    Universal Input Method - Google-Jp web input support
+uim-ipa-x-sampa (1:1.8.1-4)
+    Universal Input Method - X-SAMPA IPA input support
+uim-latin (1:1.8.1-4)
+    Universal Input Method - Latin script input support
+uim-look (1:1.8.1-4)
+    Universal Input Method - Dictionary-based completion input support
+uim-m17nlib (1:1.8.1-4)
+    Universal Input Method - m17nlib plugin
+uim-mozc (1.5.1090.102-4+deb7u1)
+    Mozc engine for uim - Client of the Mozc input method
+uim-pinyin (1:1.8.1-4)
+    Universal Input Method - pinyin input support
+uim-prime (1:1.8.1-4)
+    Universal Input Method - PRIME plugin
+uim-skk (1:1.8.1-4)
+    Universal Input Method - SKK plugin
+uim-social-ime (1:1.8.1-4)
+    Universal Input Method - Social-IME web input support
+uim-tcode (1:1.8.1-4)
+    Universal Input Method - T-Code input support
+uim-utils (1:1.8.1-4)
+    Universal Input Method - utilities
+uim-viqr (1:1.8.1-4)
+    Universal Input Method - Vietnamese Quoted-Readable support
+uim-yahoo-jp (1:1.8.1-4)
+    Universal Input Method - Yahoo-JP web input support
+ulatency (0.5.0-7)
+    Client for the ulatencyd daemon
+ulatencyd (0.5.0-7)
+    Daemon to minimize latency on a linux system using cgroups
+unaccent (1.8.0-6)
+    Replace accented letters by their unaccented equivalent
+unace (1.2b-10+deb7u1) [security]
+    extract, test and view .ace archives
+unace-nonfree (2.5-7) [non-free]
+    extract, test and view .ace archives (non-free version)
+unadf (0.7.11a-3)
+    Extract files from an Amiga Disk File dump (.adf)
+unalz (0.65-3)
+    De-archiver for .alz files
+unar (1.1-2)
+    Unarchiver for a variety of file formats
+undbx (0.20-1)
+    Tool to extract, recover and undelete e-mail messages from .dbx files
+unetbootin (575-1)
+    installer of Linux/BSD distributions to a partition or USB drive
+unetbootin-translations (575-1)
+    translations for the unetbootin distribution installer
+unicode (0.9.5)
+    display unicode character properties
+unicon-imc2 (3.0.4-13)
+    Chinese Input Method Library
+uniconf-tools (4.6.1-5)
+    Tools to interface with UniConf
+uniconfd (4.6.1-5)
+    Server that manages UniConf elements
+unison (2.40.65-2)
+    file-synchronization tool for Unix and Windows
+unison-gtk (2.40.65-2)
+    file-synchronization tool for Unix and Windows with GTK+ interface
+unison2.27.57 (2.27.57-7)
+    file-synchronization tool for Unix and Windows
+unison2.27.57-gtk (2.27.57-7)
+    file-synchronization tool for Unix and Windows with GTK+ interface
+unison2.32.52 (2.32.52-6)
+    file-synchronization tool for Unix and Windows
+unison2.32.52-gtk (2.32.52-6)
+    file-synchronization tool for Unix and Windows with GTK+ interface
+units (1.88-1)
+    converts between different systems of units
+unmass (0.9-3)
+    Extract game archive files
+unmo3 (0.6-1+b1 [armel, ia64], 0.6-1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Uncompress and extract samples from MO3 modules
+unp (2.0~pre7+nmu1)
+    unpack (almost) everything with one command
+unrar (1:4.1.4-1) [non-free]
+    Unarchiver for .rar files (non-free version)
+unrar-free (1:0.0.1+cvs20071127-2)
+    Unarchiver for .rar files
+unshield (0.6-3)
+    extracts CAB files from InstallShield installers
+unzip (6.0-8+deb7u2) [security]
+    De-archiver for .zip files
+uphpmvault (0.8)
+    upload recovery images to HP MediaVault2 via Ethernet
+uprecords-cgi (1:0.3.17-3.1)
+    utility to track high uptimes - CGI script
+uptimed (1:0.3.17-3.1)
+    utility to track high uptimes - daemon
+upx-ucl (3.08-2)
+    efficient live-compressor for executables
+usbmuxd (1.0.7-2+b1 [kfreebsd-amd64, kfreebsd-i386], 1.0.7-2 [amd64, armel, armhf, i386, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    USB multiplexor daemon for iPhone and iPod Touch devices
+usbutils (1:005-3)
+    Linux USB utilities
+usepackage (1.8-1)
+    utility to manage environment variables from within dotfiles
+ust-bin (2.0.4-1)
+    Transitional package for lttng-tools
+util-linux (2.20.1-5.3)
+    Miscellaneous system utilities
+uudeview (0.5.20-3.3)
+    Smart multi-file multi-part decoder (command line)
+uuid (1.6.2-1.3)
+    the Universally Unique Identifier Command-Line Tool
+uvcdynctrl (0.2.2-1)
+    Command line tool to control v4l2 devices
+uvcdynctrl-data (0.2.2-1)
+    Command line tool to control v4l2 devices - data files
+v4l-utils (0.8.8-3)
+    Collection of command line video4linux utilities
+v86d (0.1.10-1)
+    daemon to run x86 code in an emulated environment
+vainfo (1.0.15-4)
+    Video Acceleration (VA) API for Linux -- info program
+vbetool (1.1-2)
+    run real-mode video BIOS code to alter hardware state
+vbindiff (3.0-beta3-1)
+    visual binary diff, visually compare binary files
+vbuf (0.5.1-5.1)
+    Virtual Ring Buffer library - shell interface
+vcheck (1.2.1-7)
+    Utility to check and download the most recent program version
+vfu (4.10-1.1)
+    A versatile text-based filemanager
+vidcontrol (9.0+ds1-11~deb7u1)
+    command-line tool to control the system console on GNU/kFreeBSD
+vifm (0.4-1)
+    a ncurses based file manager with vi like keybindings
+viking (1.3-1)
+    GPS data editor, analyzer and viewer
+vim-migemo (20110227-7)
+    VIM plugin for C/Migemo
+vinetto (0.6.0~alpha-1)
+    A forensics tool to examine Thumbs.db files
+vlock (2.2.2-3)
+    Virtual Console locking program
+vobcopy (1.2.0-2)
+    Tool to copy DVD VOBs to hard disk
+vpx-tools (1.1.0-1)
+    VP8 video codec encoding/decoding tools
+vsd2odg (0.8.1-4)
+    Visio to OpenDocument converter
+vsdump (0.0.45-1)
+    Convert Microsoft Visio diagrams .vsd, .vss
+vttest (2.7+20120603-1)
+    tool for testing VT100 compatibility of terminals
+vusb-analyzer (1.1-3) [contrib]
+    tool for visualizing logs of USB packets
+w2do (2.3.1-3)
+    simple text-based todo manager
+wcd (5.2.1-2)
+    saves time typing when you want to change directories
+wdq2wav (0.8.3-2) [contrib]
+    Converts a WinDAQ channel to sound .wav file
+weather-util (2.0-1)
+    command-line tool to obtain weather conditions and forecasts
+weather-util-data (2.0-1)
+    optional correlation data for weather-util search feature
+webkit-image-gtk (0.0.svn25399-3)
+    generate images from webpages - GTK+ version
+webkit-image-qt (0.0.svn25399-3)
+    generate images from webpages - Qt version
+wfut (0.2.1-2)
+    WorldForge Update Tool (executable)
+whichman (2.4-7)
+    Fault tolerant search utilities: whichman, ftff, ftwhich
+whiptail (0.52.14-11.1)
+    Displays user-friendly dialog boxes from shell scripts
+whohas (0.29-0.3)
+    query multiple distributions' package archives
+wiipdf (1.4-2)
+    present a PDF file using your wiimote
+wikipediafs (0.4-4)
+    View and edit Wikipedia articles as if they were real files
+win32-loader (0.7.4.7+deb7u2)
+    Debian-Installer loader for win32
+wipe (0.22-1)
+    Secure file deletion
+wkhtmltopdf (0.9.9-4)
+    Command line utility to convert html to pdf using WebKit
+wmbatppc (2.5-5)
+    Battery monitor for Apple G3/G4 ibooks/powerbooks
+wmgui (0.6.00+svn201-3+b1 [amd64, armel, i386, ia64, mips, mipsel, powerpc, s390, sparc], 0.6.00+svn201-3 [armhf, s390x])
+    GUI interface to the wiimote
+wminput (0.6.00+svn201-3+b1 [amd64, armel, i386, ia64, mips, mipsel, powerpc, s390, sparc], 0.6.00+svn201-3 [armhf, s390x])
+    Userspace driver for the wiimote
+wmpomme (1.39~dfsg-2+b1)
+    WindowMaker dockapp client for pommed
+wnn7egg (1.02-8) [contrib]
+    Wnn-nana-tamago -- EGG Input Method with Wnn7 for Emacsen
+wpd2odt (0.8.1-4)
+    WordPerfect to OpenDocument converter
+wpg2odg (0.8.1-4)
+    WordPerfect Graphics to OpenDocument converter
+wps2odt (0.8.1-4)
+    Works text documents to OpenDocument converter
+wraplinux (1.7-7)
+    Utility to wrap a Linux kernel and initrd into an ELF or NBI file
+wyrd (1.4.4-1)
+    text-based calendar application
+x86dis (0.23-5)
+    Frontend to libdisasm
+xapian-tools (1.2.12-2)
+    Basic tools for Xapian search engine library
+xara-gtk (1.0.31)
+    GTK+ utility for searching the Debian package database
+xboxdrv (0.8.4-1)
+    Xbox360 gamepad driver for the userspace
+xcolmix (1.07-10+b1 [powerpc, s390], 1.07-10 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x, sparc])
+    an RGB colour mixer
+xcp-vncterm (0.1-2)
+    Provides VNC service for XCP guest VMs
+xd (3.22.04-1)
+    smart directory change utility
+xdelta (1.1.3-9)
+    A diff utility which works with binary files
+xdelta3 (3.0.0.dfsg-1)
+    A diff utility which works with binary files
+xdeview (0.5.20-3.3)
+    Smart multi-file multi-part decoder (X11 GUI)
+xdg-user-dirs (0.14-1)
+    tool to manage well known user directories
+xdg-user-dirs-gtk (0.9-1)
+    tool to manage well known user directories (Gtk extension)
+xdg-utils (1.1.0~rc1+git20111210-6+deb7u3) [security]
+    desktop integration utilities from freedesktop.org
+xdms (1.3.2-4)
+    Uncompressor for Amiga DMS archives
+xdu (3.0-18)
+    display the output of "du" in an X window
+xen-tools (4.3.1-1)
+    Tools to manage Xen virtual servers
+xfm (1.5.4-3)
+    X file and application manager
+xjobs (20110730-1)
+    reads job description line by line and executes them in parallel
+xlhtml (0.5.1-6)
+    A program for converting Microsoft Excel Files .xls
+xmacro (0.3pre-20000911-6)
+    Record / Play keystrokes and mouse movements in X displays
+xml2 (0.4-3.1)
+    Convert between XML, HTML, CSV and a line-oriented format
+xosview (1.9.3-3)
+    X based system monitor
+xotcl-shells (1.6.7-2)
+    Extended Object Tcl (XOTcl): Object orientation for Tcl - shells
+xstarfish (1.1-11)
+    X wallpaper generator
+xstow (1.0.0-2)
+    Extended replacement of GNU Stow
+xsunpinyin (2.0.3-4)
+    Standalone XIM server for Sunpinyin
+xsysinfo (1.7-9)
+    display some Linux kernel parameters in graphical form
+xtail (2.1-5)
+    like "tail -f", but works on truncated files, directories, more
+xtitle (1.0.2-4)
+    set window title and icon name for X terminal
+xz-utils (5.1.1alpha+20120614-2)
+    XZ-format compression utilities
+xzdec (5.1.1alpha+20120614-2)
+    XZ-format compression utilities - tiny decompressors
+yacpi (3.0-2)
+    ncurses based acpi monitor for text mode
+yagtd (0.3.4-1)
+    utility to help organize your to-do lists
+yahoo2mbox (0.24-1)
+    Retrieve and store Yahoo! Groups messages
+yajl-tools (2.0.4-2)
+    Yet Another JSON Library - tools
+yamdi (1.4-2)
+    a utility for adding metadata to flash video files
+yapet (0.8~pre2-2)
+    Yet Another Password Encryption Tool
+yasat (526-1)
+    simple stupid audit tool
+yaskkserv (0.5.2-3)
+    small and fast SKK dictionary server intended for embedded use
+yaz (4.2.30-2)
+    utilities for YAZ Z39.50 toolkit
+yaz-icu (4.2.30-2)
+    command line utility for ICU utilities of YAZ
+yaz-illclient (4.2.30-2)
+    utility for ISO ILL of YAZ
+yokadi (0.13.0-2)
+    commandline todo system
+ytree (1.94-1.1)
+    A file manager for terminals
+yubikey-personalization (1.7.0-1)
+    Personalization tool for Yubikey OTP tokens
+yubikey-personalization-gui (3.0.6-1)
+    Graphical personalization tool for YubiKey tokens
+zeitgeist (0.9.0.1-1)
+    event logging framework
+zeitgeist-core (0.9.0.1-1)
+    event logging framework - engine
+zeitgeist-datahub (0.8.2-1)
+    event logging framework - passive logging daemon
+zhcon (1:0.2.6-10)
+    Fast console CJK system using FrameBuffer
+zinnia-utils (0.06-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.06-1 [armhf, s390x])
+    utils for the zinnia library
+zip (3.0-6)
+    Archiver for .zip files
+zipcmp (0.10.1-1.1)
+    compare contents of zip archives
+zipmerge (0.10.1-1.1)
+    merge zip archives
+ziptorrent (0.10.1-1.1)
+    torrentzip zip archives
+zlib-bin (1:1.2.7.dfsg-13)
+    compression library - sample programs
+zoo (2.10-27)
+    manipulate zoo archives
+zp (1.0-1)
+    ZPAQ open standard maximum compressor (prebuilt levels)
+zpaq (1.10-1)
+    maximum reference compressor for ZPAQ open standard
+zutils (0.9-6)
+    utilities for dealing with compressed files transparently
+zvbi (0.2.33-6)
+    Vertical Blanking Interval (VBI) utilities
+zziplib-bin (0.13.56-1.1)
+    library providing read access on ZIP-archives - binaries 

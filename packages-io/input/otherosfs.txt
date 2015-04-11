@@ -1,0 +1,270 @@
+acetoneiso (2.3-2)
+    feature-rich application to mount and manage CD and DVD images
+aqemu (0.8.2-2)
+    Qt4 front-end for QEMU and KVM
+aranym (0.9.13-6)
+    Atari Running on Any Machine
+atari800 (2.2.1-2) [contrib]
+    Atari emulator for SDL
+autorun4linuxcd (0.13)
+    Menu for Debian Live under Windows
+avr-libc (1:1.8.0-2)
+    Standard C library for Atmel AVR development
+aylet (0.5-3)
+    ncurses-based player for Spectrum '.ay' music files
+aylet-gtk (0.5-3)
+    X-GTK2-based player for Spectrum '.ay' music files
+basilisk2 (0.9.20120331-2) [contrib]
+    68k Macintosh emulator
+bchunk (1.2.0-12)
+    CD image format conversion from bin/cue to iso/cdr
+bochs (2.4.6-5)
+    IA-32 PC emulator
+bochs-sdl (2.4.6-5)
+    SDL plugin for Bochs
+bochs-svga (2.4.6-5)
+    SVGA plugin for Bochs
+bochs-term (2.4.6-5)
+    Terminal (ncurses-based) plugin for Bochs
+bochs-wx (2.4.6-5)
+    WxWindows plugin for Bochs
+bochs-x (2.4.6-5)
+    X11 plugin for Bochs
+burn (0.4.6-2)
+    command-line tool for writing optical media
+bximage (2.4.6-5)
+    Disk Image Creation Tool for Bochs
+ccd2iso (0.3-3)
+    Converter from CloneCD disc image format to standard ISO
+cdrdao (1:1.2.3-0.3)
+    records CDs in Disk-At-Once (DAO) mode
+cdrskin (1.2.2-2)
+    command line CD/DVD/BD writing tool
+cdw (0.7.1-1)
+    Tool for burning CD's - console version
+cifs-utils (2:5.5-1)
+    Common Internet File System utilities
+coldfire (0.2.2-2.3)
+    Freescale Coldfire 5206 emulator
+cpmtools (2.13-1)
+    Tools to access CP/M file systems
+daa2iso (0.1.7e-1)
+    The DAA files (Direct Access Archive) to ISO converting tool
+dgen (1.23-12) [non-free]
+    Sega Genesis/MegaDrive emulator
+dmg2img (1.6.2-2+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.6.2-2 [armhf, s390x])
+    Tool for converting compress dmg files to hfsplus images
+dns323-firmware-tools (0.3-2)
+    build and manipulate firmware images for the DNS-323
+dosbox (0.74-3)
+    x86 emulator with Tandy/Herc/CGA/EGA/VGA/SVGA graphics, sound and DOS
+dosemu (1.4.0+svn.2080-1) [contrib]
+    DOS Emulator for Linux
+dosfstools (3.0.13-1)
+    utilities for making and checking MS-DOS FAT filesystems
+dumpet (2.1-4)
+    dump information about bootable CDs and other similar formats
+dvdisaster (0.72.4-1)
+    data loss/scratch/aging protection for CD/DVD media
+e-uae (0.8.29-WIP4-10) [contrib]
+    The Egalitarian Ubiquitous Amiga Emulator
+ecm (1.03-1)
+    prepares CD image files so they compress better
+esix (1-2) [contrib]
+    PDP-8 Engineering and Scientific Interpreter eXtended
+exfat-fuse (0.9.7-2)
+    read and write exFAT driver for FUSE
+exfat-utils (0.9.7-2)
+    utilities to create, check, label and dump exFAT filesystem
+fatresize (1.0.2-6)
+    FAT16/FAT32 filesystem resizer
+fatsort (0.9.15.245-1)
+    utility for sorting FAT directory structures
+faumachine (20110812-1.2)
+    Virtual machine running in user mode
+faumachine-data (20110812-1.2)
+    Virtual machine running in user mode -- data files
+floppyd (4.0.17-1)
+    Daemon for remote access to floppy drives
+fosfat (0.4.0-3)
+    FUSE library to access Smaky formatted disk (ro)
+freebsd-smbfs (9.0~svn227117-2)
+    mount command for the SMB/CIFS filesystem
+furiusisomount (0.11.3.1~repack1-0.1)
+    ISO, IMG, BIN, MDF and NRG image management utility
+fuse-emulator-common (1.0.0.1a+dfsg1-4)
+    The Free Unix Spectrum Emulator (common files)
+fuse-emulator-gtk (1.0.0.1a+dfsg1-4)
+    The Free Unix Spectrum Emulator (GTK+ version)
+fuse-emulator-sdl (1.0.0.1a+dfsg1-4)
+    The Free Unix Spectrum Emulator (SDL version)
+fuse-emulator-utils (1.0.0-4)
+    The Free Unix Spectrum Emulator - Utilities
+genisoimage (9:1.1.11-2+b1 [kfreebsd-amd64, kfreebsd-i386], 9:1.1.11-2 [amd64, armel, armhf, i386, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    Creates ISO-9660 CD-ROM filesystem images
+hatari (1.6.2-1)
+    Emulator for the Atari ST, STE, TT, and Falcon computers
+hercules (3.07-2.2)
+    System/370, ESA/390 and z/Architecture Emulator
+herculesstudio (1.3.0-2)
+    Hercules GUI front-end
+hfsplus (1.0.4-12)
+    Tools to access HFS+ formatted volumes
+hfsprogs (332.25-10)
+    mkfs and fsck for HFS and HFS+ file systems
+hfsutils (3.2.6-11)
+    Tools for reading and writing Macintosh volumes
+hfsutils-tcltk (3.2.6-11)
+    Tcl/Tk interfaces for reading and writing Macintosh volumes
+iat (0.1.3-7)
+    Converts many CD-ROM image formats to iso9660
+imgvtopgm (2.0-9)
+    PalmPilot/III Image Conversion utility
+isomaster (1.3.9-1)
+    Graphical CD image editor
+jpilot (1.8.1.2-1)
+    graphical app. to modify the contents of your Palm Pilot's DBs
+jpilot-backup (0.60-3+b1 [armel, ia64, powerpc], 0.60-3 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390, s390x, sparc])
+    Backup plugin for J-Pilot
+jpilot-plugins (1.8.1.2-1)
+    plugins for jpilot (Palm Pilot desktop)
+kcemu (0.5.1+dfsg-5) [contrib]
+    KC 85/4 emulator
+kcemu-common (0.5.1+dfsg-5) [contrib]
+    KC 85/4 emulator - common files
+libcdio-utils (0.83-4)
+    sample applications based on the CDIO libraries
+libhivex-bin (1.3.6-2)
+    utilities for reading and writing Windows Registry hives
+lx-gdb (1.03-14)
+    Dump and load databases from HP 100LX/200LX palmtops
+macutils (2.0b3-16)
+    Set of tools to deal with specially encoded Macintosh files
+makefs (20100306-3)
+    create a cd9660 or ffs file system image from a directory tree
+mdf2iso (0.3.0-2)
+    A simple utility to convert mdf to iso / cue / toc images
+mdk (1.2.6+dfsg-1)
+    MIX Development Kit
+mixal (1.08-11)
+    A MIX emulator and MIXAL interpreter
+mscompress (0.3-4)
+    Microsoft "compress.exe/expand.exe" compatible (de)compressor
+mtools (4.0.17-1)
+    Tools for manipulating MSDOS files
+nrg2iso (0.4-4)
+    Extracts ISO9660 data from Nero ".nrg" files
+ntfs-3g (1:2012.1.15AR.5-2.1)
+    read/write NTFS driver for FUSE
+openmsx (0.8.2-2.1)
+    MSX emulator that aims for perfection
+openmsx-catapult (0.8.2-1)
+    GUI for openMSX
+openmsx-data (0.8.2-2.1)
+    datafiles for openMSX, an MSX emulator
+openmsx-debugger (0.0.0.svn20110306-3)
+    Graphical debugger for openMSX
+opense-basic (1:3.1.2-1)
+    Free software ROM for the Sinclair ZX Spectrum
+os8 (2.1-4) [non-free]
+    DEC OS8 images for a PDP-8 emulator
+palbart (2.4-7)
+    Enhanced version of the PAL PDP8 assembler
+pearpc (0.4.0-5)
+    PowerPC architecture emulator
+pilot-link (0.12.5-5)
+    tools to communicate with a PalmOS PDA
+pilot-manager (1.107.0pre108-5)
+    PalmPilot PIM, UI, and Conduit Manager
+playonlinux (4.1.1-1) [contrib]
+    front-end for Wine
+plptools (1.0.9-2.4)
+    Access EPOC device (Psion PDA) over a serial link
+plucker (1.8-34)
+    Pluck stuff from the web and read it on your PalmOS device
+pmac-fdisk (0.1-16)
+    fdisk partition manipulation tool for PowerPC
+pocketpc-cab (1.0.1-2)
+    build an installable Pocket PC cabinet file
+pxfw (0.7.1.002-5+b1 [kfreebsd-amd64, kfreebsd-i386], 0.7.1.002-5 [amd64, armel, armhf, i386, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    Plextor firmware updater
+pyrite-publisher (2.1.1-7.1)
+    Convert html and text documents to palm DOC format
+q4wine (0.121-4)
+    Qt4 GUI for wine (WINE)
+qemu (1.1.2+dfsg-6a+deb7u6)
+    fast processor emulator
+qemu-launcher (1.7.4-1)
+    GTK+ front-end to QEMU computer emulator
+qpxtool (0.7.1.002-5+b1 [kfreebsd-amd64, kfreebsd-i386], 0.7.1.002-5 [amd64, armel, armhf, i386, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    CD/DVD quality checker
+rsrce (0.2.2)
+    editor for Macintosh resource forks
+simh (3.8.1-5)
+    Emulators for 33 different computers
+skyeye (1.2.5-2.1)
+    Embedded Hardware Simulation
+spectemu-common (0.94a-15) [contrib]
+    Fast 48k ZX Spectrum Emulator (common files)
+spectemu-svga (0.94a-15) [contrib]
+    Fast 48k ZX Spectrum Emulator for SVGAlib
+spectemu-x11 (0.94a-15) [contrib]
+    Fast 48k ZX Spectrum Emulator for X11
+spectrum-roms (20081224-3) [non-free]
+    ZX Spectrum ROMs
+stella (3.7.2-1)
+    Atari 2600 Emulator for SDL & the X Window System
+syncbbdb (2.3-6.2)
+    BBDB to PalmOS Pilot Manager conduit
+txt2pdbdoc (1.4.4-6)
+    convert plain text files to Palm DOC (for PalmOS) and back
+uae (0.8.29-7) [contrib]
+    The Ubiquitous Amiga Emulator
+udftools (1.0.0b3-14.2)
+    tools for UDF filesystems and DVD/CD-R(W) drives
+uml-utilities (20070815-1.3)
+    User-mode Linux (utility programs)
+upslug2 (11-3)
+    utility to upgrade the firmware of a Linksys NSLU2 via the network
+usbredirserver (0.4.3-2)
+    Simple USB host TCP server
+vcdimager (0.7.24+dfsg-0.1)
+    VideoCD (VCD) image mastering and ripping tool
+vice (2.3.dfsg-4) [contrib]
+    Versatile Commodore Emulator
+virtualbricks (0.6.352-1)
+    is a Virtualization suite for qemu/kvm VMs and vde2 networks
+visualboyadvance (1.8.0.dfsg-1)
+    full featured Game Boy Advance emulator
+visualboyadvance-gtk (1.8.0.dfsg-1)
+    GTK+ front-end to VisualBoyAdvance emulator
+vmfs-tools (0.2.5-1)
+    Tools to access VMFS filesystems
+wine (1.4.1-4)
+    Windows API implementation - standard suite
+wine-bin (1.4.1-4)
+    Windows API implementation - binary loader
+wine64-bin (1.4.1-4)
+    Windows API implementation - binary loader
+winetricks (0.0+20121030+svn918-1) [contrib]
+    package manager for WINE to install software easily
+wodim (9:1.1.11-2+b1 [kfreebsd-amd64, kfreebsd-i386], 9:1.1.11-2 [amd64, armel, armhf, i386, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    command line CD/DVD writing tool
+xorriso (1.2.2-2)
+    command line ISO-9660 and Rock Ridge manipulation tool
+xtrs (4.9c-3.4) [contrib]
+    emulator for TRS-80 Model I/III/4/4P computers
+yabause (0.9.11.1-1)
+    beautiful and under-rated Saturn emulator
+yabause-common (0.9.11.1-1)
+    beautiful and under-rated Saturn emulator - common files
+yabause-gtk (0.9.11.1-1)
+    beautiful and under-rated Saturn emulator - Gtk port
+yabause-qt (0.9.11.1-1)
+    beautiful and under-rated Saturn emulator - Qt port
+zfs-fuse (0.7.0-8)
+    ZFS on FUSE
+zmakebas (1.2-1.1)
+    convert text files into ZX Spectrum Basic programs
+zsnes (1.510+bz2-5)
+    Emulator of the Super Nintendo Entertainment System 

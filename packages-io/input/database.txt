@@ -1,0 +1,294 @@
+apgdiff (2.3-1)
+    Another PostgreSQL Diff Tool
+basex (7.3-1)
+    XML database and XPath/XQuery processor
+bucardo (4.99.5-1)
+    asynchronous replication system for PostgreSQL
+check-postgres (2.19.0-1)
+    script for monitoring PostgreSQL databases
+db4.7-util (4.7.25-21)
+    Berkeley v4.7 Database Utilities
+db4.8-util (4.8.30-12)
+    Berkeley v4.8 Database Utilities
+db5.1-sql-util (5.1.29-5)
+    Berkeley v5.1 SQL Database Utilities
+db5.1-util (5.1.29-5)
+    Berkeley v5.1 Database Utilities
+drizzle (1:7.1.36-stable-1)
+    Server binaries for Drizzle Database
+drizzle-client (1:7.1.36-stable-1)
+    Client binaries for Drizzle Database
+drizzle-plugin-auth-file (1:7.1.36-stable-1)
+    File-based authentication for Drizzle
+drizzle-plugin-auth-http (1:7.1.36-stable-1)
+    HTTP authentication for Drizzle
+drizzle-plugin-auth-ldap (1:7.1.36-stable-1)
+    LDAP authentication for Drizzle
+drizzle-plugin-auth-pam (1:7.1.36-stable-1)
+    PAM authentication for Drizzle
+drizzle-plugin-auth-schema (1:7.1.36-stable-1)
+    Schema authentication for Drizzle
+drizzle-plugin-debug (1:7.1.36-stable-1)
+    Plugin that facilitates debugging Drizzle
+drizzle-plugin-gearman-udf (1:7.1.36-stable-1)
+    Gearman User Defined Functions for Drizzle
+drizzle-plugin-http-functions (1:7.1.36-stable-1)
+    HTTP Functions for Drizzle
+drizzle-plugin-js (1:7.1.36-stable-1)
+    Javascript plugin for Drizzle
+drizzle-plugin-json-server (1:7.1.36-stable-1)
+    JSON HTTP (NoSQL) interface for Drizzle
+drizzle-plugin-logging-gearman (1:7.1.36-stable-1)
+    Gearman Logging for Drizzle
+drizzle-plugin-logging-query (1:7.1.36-stable-1)
+    Query Logging for Drizzle
+drizzle-plugin-perf-dictionary (1:7.1.36-stable-1)
+    Performance Dictionary for Drizzle
+drizzle-plugin-query-log (1:7.1.36-stable-1)
+    Query logging for Drizzle
+drizzle-plugin-rabbitmq (1:7.1.36-stable-1)
+    RabbitMQ Transaction Log for Drizzle
+drizzle-plugin-regex-policy (1:7.1.36-stable-1)
+    Regex based authorization rules for Drizzle
+drizzle-plugin-simple-user-policy (1:7.1.36-stable-1)
+    Simple User Policy for Drizzle
+drizzle-plugin-slave (1:7.1.36-stable-1)
+    Replication Slave Plugin for Drizzle
+firebird2.5-classic (2.5.2.26540.ds4-1~deb7u2)
+    Firebird Classic Server - an RDBMS based on InterBase 6.0 code
+firebird2.5-classic-common (2.5.2.26540.ds4-1~deb7u2)
+    common files for firebird 2.5 "classic" and "superclassic"
+firebird2.5-common (2.5.2.26540.ds4-1~deb7u2)
+    common files for firebird 2.5 servers and clients
+firebird2.5-server-common (2.5.2.26540.ds4-1~deb7u2)
+    common files for firebird 2.5 servers
+firebird2.5-super (2.5.2.26540.ds4-1~deb7u2)
+    Firebird Super Server - an RDBMS based on InterBase 6.0 code
+firebird2.5-superclassic (2.5.2.26540.ds4-1~deb7u2)
+    Firebird SuperClassic Server - an RDBMS based on InterBase 6.0 code
+flamerobin (0.9.3~svn+2220-1)
+    graphical database administration tool for Firebird DBMS
+freetds-bin (0.91-2+deb7u1)
+    FreeTDS command-line utilities
+handlersocket-mysql-5.5 (1.1.0-7-g1044a28-1)
+    HandlerSocket plugin for MySQL 5.5
+hsqldb-server (1.8.0.10+dfsg-0+deb7u1)
+    Java SQL database server
+hsqldb-utils (1.8.0.10+dfsg-0+deb7u1)
+    Java SQL database engine (utilities)
+kexi (1:2.4.4-3)
+    integrated database environment for the Calligra Suite
+kexi-map-form-widget (1:2.4.4-3)
+    map form widget for Kexi
+kexi-mysql-driver (1:2.4.4-3)
+    MySQL support for kexi
+kexi-postgresql-driver (1:2.4.4-3)
+    PostgreSQL support for kexi
+kexi-sybase-driver (1:2.4.4-3)
+    Sybase support for kexi
+kexi-web-form-widget (1:2.4.4-3)
+    web form widget for Kexi
+kexi-xbase-driver (1:2.4.4-3)
+    XBase support for kexi
+libgda-5.0-bin (5.0.3-2)
+    data abstraction library based on GLib -- binary files
+libgda-5.0-common (5.0.3-2)
+    data abstraction library based on GLib -- common files
+libgda-5.0-mysql (5.0.3-2)
+    MySQL provider for libgda database abstraction library
+libgda-5.0-postgres (5.0.3-2)
+    PostgreSQL provider for libgda database abstraction library
+libreoffice-base (1:3.5.4+dfsg2-0+deb7u3 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1:3.5.4+dfsg2-0+deb7u2 [ia64]) [security]
+    office productivity suite -- database
+mdbtools (0.7-1+deb7u1)
+    JET / MS Access database (MDB) tools
+mongodb (1:2.0.6-1.1)
+    object/document-oriented database (metapackage)
+mongodb-clients (1:2.0.6-1.1)
+    object/document-oriented database (client apps)
+mongodb-server (1:2.0.6-1.1)
+    object/document-oriented database (server package)
+mydumper (0.5.1-3)
+    High-performance MySQL backup tool
+mysql-client-5.5 (5.5.41-0+wheezy1) [security]
+    MySQL database client binaries
+mysql-mmm-agent (2.2.1-1.1)
+    Multi-Master Replication Manager for MySQL - agent daemon
+mysql-mmm-common (2.2.1-1.1)
+    Multi-Master Replication Manager for MySQL - common files
+mysql-mmm-monitor (2.2.1-1.1)
+    Multi-Master Replication Manager for MySQL - monitoring daemon
+mysql-mmm-tools (2.2.1-1.1)
+    Multi-Master Replication Manager for MySQL - tools
+mysql-proxy (0.8.1-1.1+b2 [armel, mips, mipsel, powerpc, s390, sparc], 0.8.1-1.1+b1 [amd64, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386], 0.8.1-1.1 [s390x])
+    high availability, load balancing and query modification for mysql
+mysql-server-5.5 (5.5.41-0+wheezy1) [security]
+    MySQL database server binaries and system database setup
+mysql-server-core-5.5 (5.5.41-0+wheezy1) [security]
+    MySQL database server binaries
+mysql-source-5.5 (5.5.41-0+wheezy1) [security]
+    MySQL source
+mysql-testsuite-5.5 (5.5.41-0+wheezy1) [security]
+    MySQL testsuite
+mysql-utilities (1.0.5-1)
+    collection of scripts for managing MySQL servers
+mysql-workbench (5.2.40+dfsg-2)
+    MySQL Workbench - a visual database modeling, administration and queuing tool
+mysql-workbench-data (5.2.40+dfsg-2)
+    MySQL Workbench -- architecture independent data
+mysqltcl (3.051-1+b1)
+    interface to the MySQL database for the Tcl language
+mysqltuner (1.2.0-1)
+    high-performance MySQL tuning script
+odbc-postgresql (1:09.01.0100-1+deb7u1)
+    ODBC driver for PostgreSQL
+openoffice.org-base (1:3.4.0~ooo340m1-7)
+    office productivity suite -- database
+pgadmin3 (1.14.2-2)
+    graphical administration tool for PostgreSQL
+pgadmin3-data (1.14.2-2)
+    graphical administration tool for PostgreSQL - documentation
+pgagent (3.2.1-1)
+    job scheduler for PostgreSQL
+pgbouncer (1.5.2-4)
+    lightweight connection pooler for PostgreSQL
+pgdbf (0.5.5-1)
+    converter of XBase / FoxPro tables to PostgreSQL
+pgfouine (1.2-3)
+    PostgreSQL log analyzer
+pgloader (2.3.3~dev3-1.1)
+    loads flat data files into PostgreSQL
+pgpool2 (3.1.3-5)
+    connection pool server and replication proxy for PostgreSQL
+pgsnap (0.7.0-1)
+    PostgreSQL report tool
+pgstaging (0.11-1)
+    setup and maintain your staging environments from your production backups
+pgstaging-client (0.11-1)
+    client script for pgstaging
+pgtap (0.90.0-1)
+    Unit testing framework for PostgreSQL
+pgtune (0.9.3-2)
+    PostgreSQL config tuner
+pgxnclient (1.0.3-1)
+    command line client for the PostgreSQL Extension Network
+portabase (2.0+git20110117-1)
+    Easy-to-use personal database application
+postgresql (9.1+134wheezy4)
+    object-relational SQL database (supported version)
+postgresql-9.1 (9.1.15-0+deb7u1) [security]
+    object-relational SQL database, version 9.1 server
+postgresql-9.1-debversion (1.0.6-1+b1)
+    Debian version number type for PostgreSQL
+postgresql-9.1-orafce (3.0.4-1)
+    Oracle support functions for PostgreSQL 9.1
+postgresql-9.1-pgfincore (1.1-1)
+    set of PostgreSQL functions to manage blocks in memory
+postgresql-9.1-pgmemcache (2.0.6-1.1+b1)
+    PostgreSQL interface to memcached
+postgresql-9.1-pgmp (1.0.0-4)
+    arbitrary precision integers and rationals for PostgreSQL 9.1
+postgresql-9.1-pgpool2 (3.1.3-5)
+    connection pool server and replication proxy for PostgreSQL - modules
+postgresql-9.1-pljava-gcj (1.4.3-2)
+    Java procedural language for PostgreSQL 9.1
+postgresql-9.1-pllua (1:0.3.2-4)
+    Lua procedural language for PostgreSQL 9.1
+postgresql-9.1-plproxy (2.4-1)
+    database partitioning system for PostgreSQL 9.1
+postgresql-9.1-plr (1:8.3.0.13-1)
+    Procedural language interface between PostgreSQL and R
+postgresql-9.1-plsh (1.3-5)
+    PL/sh procedural language for PostgreSQL 9.1
+postgresql-9.1-prefix (1.1.1-1)
+    Prefix Range module for PostgreSQL
+postgresql-9.1-preprepare (0.5-1)
+    Pre Prepare your Statement server side
+postgresql-autodoc (1.40-3)
+    Utility to create a PostgreSQL database schema overview in HTML, DOT and XML
+postgresql-client (9.1+134wheezy4)
+    front-end programs for PostgreSQL (supported version)
+postgresql-client
+    virtual package provided by postgresql-client-9.1
+postgresql-client-9.1 (9.1.15-0+deb7u1) [security]
+    front-end programs for PostgreSQL 9.1
+postgresql-client-common (134wheezy4)
+    manager for multiple PostgreSQL client versions
+postgresql-common (134wheezy4)
+    PostgreSQL database-cluster manager
+postgresql-contrib (9.1+134wheezy4)
+    additional facilities for PostgreSQL (supported version)
+postgresql-contrib-9.1 (9.1.15-0+deb7u1) [security]
+    additional facilities for PostgreSQL
+postgresql-plperl-8.4 (8.4.22-0+deb7u1)
+    PL/Perl procedural language for PostgreSQL 8.4
+postgresql-plperl-9.1 (9.1.15-0+deb7u1) [security]
+    PL/Perl procedural language for PostgreSQL 9.1
+postgresql-plpython-9.1 (9.1.15-0+deb7u1) [security]
+    PL/Python procedural language for PostgreSQL 9.1
+postgresql-plpython3-9.1 (9.1.15-0+deb7u1) [security]
+    PL/Python 3 procedural language for PostgreSQL 9.1
+postgresql-pltcl-9.1 (9.1.15-0+deb7u1) [security]
+    PL/Tcl procedural language for PostgreSQL 9.1
+postgresql-server-dev-all (134wheezy4)
+    extension build tool for multiple PostgreSQL versions
+qdbm-cgi (1.8.78-2)
+    QDBM Database CGI commands
+qdbm-util (1.8.78-2)
+    QDBM Database Utilities
+recutils (1.5-1)
+    text-based databases called recfiles
+redis-server (2:2.4.14-1)
+    Persistent key-value database with network interface
+skytools (2.1.13-2)
+    Database management tools for PostgreSQL
+skytools-modules-9.1 (2.1.13-2)
+    PostgreSQL 9.1 modules for skytools
+spl-mysql (1.0~pre6-3.1+b1)
+    SPL Programming Language -- MySQL adapter
+spl-postgres (1.0~pre6-3.1+b1)
+    SPL Programming Language -- postgres adapter
+spl-sqlite (1.0~pre6-3.1+b1)
+    SPL Programming Language -- sqlite adapter
+sqlite (2.8.17-7)
+    command line interface for SQLite
+sqlite3 (3.7.13-1+deb7u1)
+    Command line interface for SQLite 3
+sqlitebrowser (2.0.0~beta1+ds.1-3)
+    GUI editor for SQLite databases
+tarantool (1.4.6+20120629+2158-1)
+    high performance key/value storage server
+tarantool-client (1.4.6+20120629+2158-1)
+    high performance key/value storage server
+tarantool-common (1.4.6+20120629+2158-1)
+    high performance key/value storage server
+unixodbc (2.2.14p2-5)
+    Basic ODBC tools
+virtuoso-minimal (6.1.4+dfsg1-7)
+    high-performance database - core dependency package
+virtuoso-opensource (6.1.4+dfsg1-7)
+    high-performance database
+virtuoso-opensource-6.1 (6.1.4+dfsg1-7)
+    high-performance database - support files
+virtuoso-opensource-6.1-bin (6.1.4+dfsg1-7)
+    high-performance database - binaries
+virtuoso-opensource-6.1-common (6.1.4+dfsg1-7)
+    high-performance database - common files
+virtuoso-server (6.1.4+dfsg1-7)
+    high-performance database - server dependency package
+virtuoso-vad-bpel (6.1.4+dfsg1-7)
+    high-performance database - BPEL module
+virtuoso-vad-conductor (6.1.4+dfsg1-7)
+    high-performance database - conductor module
+virtuoso-vad-isparql (6.1.4+dfsg1-7)
+    high-performance database - iSPARQL module
+virtuoso-vad-ods (6.1.4+dfsg1-7)
+    high-performance database - Open Data Spaces module
+virtuoso-vad-rdfmappers (6.1.4+dfsg1-7)
+    high-performance database - RDF mappers module
+virtuoso-vad-sparqldemo (6.1.4+dfsg1-7)
+    high-performance database - SPARQL demo module
+virtuoso-vad-syncml (6.1.4+dfsg1-7)
+    high-performance database - SyncML module
+virtuoso-vsp-startpage (6.1.4+dfsg1-7)
+    high-performance database - web interface files 

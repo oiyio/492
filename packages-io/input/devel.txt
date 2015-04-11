@@ -1,0 +1,2430 @@
+a56 (1.3-6)
+    Motorola DSP56001 assembler
+abi-compliance-checker (1.97.7-1)
+    tool to compare ABI compatibility of shared C/C++ library versions
+abicheck (1.2-5)
+    binary compatibility checking tool
+ace-gperf (6.0.3+dfsg-0.1)
+    ACE perfect hash function generator
+ace-netsvcs (6.0.3+dfsg-0.1)
+    ACE network service implementations
+adabrowse (4.0.3-5)
+    HTML generator for Ada 95 library unit specifications
+adacontrol (1.12r4-3)
+    Ada rules controller
+adlint (1.10.0-1)
+    open source and free source code static analyzer
+aegis-tk (4.24.3-3)
+    aegis Tk user interface
+aegis-web (4.24.3-3)
+    aegis web based user interface
+algol68g (2.4.1-1)
+    Implementation of Algol 68 as defined by the Revised Report
+alleyoop (0.9.8-1)
+    Front-end to the Valgrind memory checker
+anjuta-common (2:3.4.3-1)
+    GNOME development IDE, for C/C++ - data files
+antlr (2.7.7+dfsg-4)
+    language tool for constructing recognizers, compilers etc
+antlr3 (3.2-7)
+    language tool for constructing recognizers, compilers etc
+apcalc-dev (2.12.4.4-3)
+    Library for arbitrary precision arithmetic
+aplus-fsf-dev (4.22.1-6)
+    A+ programming language development environment
+apt-build (0.12.44)
+    frontend to apt to build, optimize and install packages
+aroarfw-dev (0.1~beta4-5)
+    framework to build hardware with RoarAudio protocol support
+as31 (2.3.1-6)
+    Intel 8031/8051 assembler
+asis-programs (2010-5)
+    Ada Semantic Interface Specification (ASIS) example programs
+aspectc++ (1:1.1+svn20120529-2)
+    aspect-oriented programming extension for C++
+asterisk-dev (1:1.8.13.1~dfsg1-3+deb7u3)
+    Development files for Asterisk
+astyle (2.01-1)
+    Source code indenter for C++/C/Java/C# source code
+atfs (1.4pl6-11)
+    The Attributed File System (AtFS)
+atheist (0.20110402-2)
+    General purpose command-line testing tool
+ats-lang-anairiats (0.2.3-1+b3 [amd64, i386, ia64, kfreebsd-amd64, kfreebsd-i386, s390x], 0.2.3-1+b2 [armel, armhf, mips, mipsel, powerpc, s390, sparc])
+    The ATS language compiler Anairiats
+ats-lang-anairiats-examples (0.2.3-1)
+    Examples for the ATS compiler Anairiats
+autoconf (2.69-1)
+    automatic configure script builder
+autoconf-archive (20111221-2)
+    Autoconf Macro Archive
+autoconf-dickey (2.52+20101002-2)
+    automatic configure script builder (Thomas Dickey's version)
+autoconf-gl-macros (20101226-1)
+    autoconf macros to check for OpenGL/GLU/GLUT
+autoconf2.13 (2.13-62)
+    automatic configure script builder (obsolete version)
+autoconf2.59 (2.59+dfsg-0.1)
+    automatic configure script builder (obsolete version)
+autoconf2.64 (2.64-3)
+    automatic configure script builder (obsolete version)
+autodia (2.14-1)
+    generates UML diagrams from perl or C++ code
+autogen (1:5.12-0.1)
+    automated text file generator
+automake (1:1.11.6-1)
+    Tool for generating GNU Standards-compliant Makefiles
+automake1.10 (1:1.10.3-3)
+    Tool for generating GNU Standards-compliant Makefiles
+automake1.4 (1:1.4-p6-13.1)
+    A tool for generating GNU Standards-compliant Makefiles
+automake1.9 (1.9.6+nogfdl-4)
+    A tool for generating GNU Standards-compliant Makefiles
+automoc (1.0~version-0.9.88-5)
+    automatic moc for Qt 4 packages
+autopkgtest (2.2.3+nmu1)
+    automatic as-installed testing for Debian packages
+autopkgtest-xenlvm (2.2.3+nmu1)
+    Xen/LVM2 based testbed snapshot system
+autopoint (0.18.1.1-9)
+    The autopoint program from GNU gettext
+autoproject (0.20-5)
+    create a skeleton source package for a new program
+autotools-dev (20120608.1)
+    Update infrastructure for config.{guess,sub} files
+babel-1.4.0 (1.4.0.dfsg-8.1)
+    Scientific Interface Definition Language (SIDL) compiler
+bam (0.4.0-3)
+    fast and flexible build system
+bashdb (4.2.0.8-1.1)
+    BASH debugger
+basic256 (0.9.6.69a-1)
+    educational BASIC programming environment for children
+bcc (0.16.17-3.1)
+    16-bit x86 C compiler
+bcpp (0.0.20050725-2)
+    C(++) beautifier
+beef (0.0.6-2)
+    flexible Brainfuck interpreter
+bf-utf-source (0.06)
+    Source for fonts needed to build Debian installers
+bicyclerepair (0.9-6)
+    A refactoring tool for python
+bin86 (0.16.17-3.1)
+    16-bit x86 assembler and loader
+binutils (2.22-8+deb7u2) [security]
+    GNU assembler, linker and binary utilities
+binutils-avr (2.20.1-3)
+    Binary utilities supporting Atmel's AVR targets
+binutils-dev (2.22-8+deb7u2) [security]
+    GNU binary utilities (BFD development files)
+binutils-gold (2.22-8+deb7u2) [security]
+    GNU gold linker utility
+binutils-h8300-hms (2.16.1-8)
+    The GNU binary utilities, for h8300-hitachi-coff target
+binutils-m68hc1x (1:2.18-3.2)
+    binary utilities that support Motorola's 68HC11/12 targets
+binutils-mingw-w64 (2.22-8+deb7u2+2+deb7u1) [security]
+    Cross-binutils for Win32 and Win64 using MinGW-w64
+binutils-mingw-w64-i686 (2.22-8+deb7u2+2+deb7u1) [security]
+    Cross-binutils for Win32 (x86) using MinGW-w64
+binutils-mingw-w64-x86-64 (2.22-8+deb7u2+2+deb7u1) [security]
+    Cross-binutils for Win64 (x64) using MinGW-w64
+binutils-msp430 (2.22~msp20120406-2)
+    Binary utilities supporting TI's MSP430 targets
+binutils-multiarch (2.22-8+deb7u2) [security]
+    Binary utilities that support multi-arch targets
+binutils-source (2.22-8+deb7u2) [security]
+    GNU assembler, linker and binary utilities (source)
+binutils-spu (2.22-8+deb7u2) [security]
+    GNU assembler, linker and binary utilities targeted for spu-elf
+binutils-z80 (2.22-3+b2 [s390x], 2.22-3+b1 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc])
+    GNU binary utilities for the z80-unknown-coff target
+biosquid-dev (1.9g+cvs20050121-2)
+    headers and static library for biological sequence analysis
+bison (1:2.5.dfsg-2.1)
+    YACC-compatible parser generator
+bison++ (1.21.11-3)
+    Generate a parser in c or c++ from BNF notation
+bisonc++ (4.01.00-1)
+    Bison-style parser generator for C++
+blacs-pvm-dev (1.1-21)
+    Basic Linear Algebra Comm. Subprograms - Dev. files for PVM
+blacs-pvm-test (1.1-21)
+    Basic Linear Algebra Comm. Subprograms - Test files for PVM
+blends-dev (0.6.16.2)
+    Debian Pure Blends common files for developing metapackages
+blktap-dev (2.0.90-1)
+    Xen API blktap shared library (development files)
+blt-demo (2.4z-4.2)
+    the BLT extension library for Tcl/Tk - demos and examples
+blt-dev (2.4z-4.2)
+    the BLT extension library for Tcl/Tk - development files
+bnfc (2.4.2.0-2)
+    Compiler front-end generator based on Labelled BNF
+boa-constructor (0.6.1-12)
+    RAD tool for Python and wxWindows application
+boinc-dev (7.0.27+dfsg-5)
+    development files to build applications for BOINC projects
+boo (0.9.5~git20110729.r1.202a430-2)
+    python-like language and compiler for the CLI
+brickos (0.9.0.dfsg-6)
+    alternative OS for LEGO(r) Mindstorms RCX. Supports devel. in C/C++
+bsh (2.0b4-12)
+    Java scripting environment (BeanShell) Version 2
+btyacc (3.0-5)
+    Backtracking parser generator based on byacc
+build-essential (11.5+b1 [armhf, s390x], 11.5 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc])
+    Informational list of build-essential packages
+buildbot (0.8.6p1-1)
+    system to automate the compile/test cycle
+buildbot-slave (0.8.6p1-1)
+    system to automate the compile/test cycle
+buildd (0.63.2-1.1)
+    Daemon for automatically building Debian binary packages from Debian sources
+byacc (20120115-1)
+    public domain Berkeley LALR Yacc parser generator
+byacc-j (1.15-1+b1 [armel, ia64], 1.15-1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Berkeley YACC parser generator extended to generate Java code
+c-cpp-reference (2.0.2-8)
+    C and C++ programming reference
+cableswig (0.1.0+cvs20111009-1)
+    Generate wrappers for Python and Tcl from C++ code
+cairo-dock-dev (3.0.0-2+deb7u1)
+    Cairo-dock develpment file
+caspar (20120530-1)
+    Makefile snippets for centralized configuration management and typesetting
+catcodec (1.0.5-1)
+    tool to decode/encode the sample catalogue for OpenTTD
+ccache (3.1.7-1)
+    Compiler cache for fast recompilation of C/C++ code
+ccbuild (2.0.3-1+b1)
+    source scanning build utility for C++
+cccc (1:3.1.4-4)
+    C and C++ Code Counter, a software metrics tool
+ccontrol (1.0-1)
+    Compilation controller
+cdbs (0.4.115+deb7u1)
+    common build system for Debian packages
+cdecl (2.5-11+b1 [i386], 2.5-11 [amd64, armel, armhf, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Turn English phrases to C or C++ declarations
+cernlib-base (20061220+dfsg3-2)
+    CERNLIB data analysis suite - common files
+cernlib-base-dev (20061220+dfsg3-2)
+    CERNLIB data analysis suite - dependencies checking script
+cernlib-core-dev (20061220+dfsg3-2)
+    CERNLIB data analysis suite - core development files
+cervisia (4:4.8.4+dfsg-1)
+    graphical CVS client
+ceve (1.4-2+b5 [ia64, mips, mipsel, s390], 1.4-2+b4 [armel], 1.4-2+b2 [amd64, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, sparc], 1.4-2+b1 [armhf, s390x])
+    utility to parse package dependencies as set of constraints
+ceve
+    virtual package provided by dose-extra
+cflow (1:1.4+dfsg1-2)
+    Analyze control flow in C source files
+cfortran (4.4-14)
+    Header file permitting Fortran routines to be called in C/C++
+cgdb (0.6.6-2)
+    curses-based interface to the GNU Debugger (GDB)
+cgvg (1.6.2-2.1)
+    command-line source browsing tool
+check (0.9.8-2)
+    unit test framework for C
+chise-db (0.3.0-2)
+    CHISE db, the character information database
+ckport (0.1~rc0-3)
+    portability analysis and security checking tool
+ckport-database (0.1~rc0-3)
+    portability analysis and security checking tool (Database files)
+clang (1:3.0-6.2)
+    Low-Level Virtual Machine (LLVM), C language family frontend
+clc-intercal (1:1.0~4pre1.-94.-2-2)
+    Compiler for the INTERCAL language
+cloc (1.56-1)
+    statistics utility to count lines of code
+clojure-contrib (1.2.0-2)
+    user contributed set of libraries for clojure
+clojure1.2 (1.2.1+dfsg-4)
+    Lisp dialect for the JVM
+clojure1.4 (1.4.0+dfsg-2)
+    Lisp dialect for the JVM
+cloog-ppl (0.15.11-4)
+    Chunky Loop Generator
+cmake (2.8.9-1)
+    cross-platform, open-source make system
+cmake-curses-gui (2.8.9-1)
+    curses based user interface for CMake (ccmake)
+cmake-data (2.8.9-1)
+    CMake data files (modules, templates and documentation)
+cmake-qt-gui (2.8.9-1)
+    Qt4 based user interface for CMake (cmake-gui)
+coccinelle (1.0.0~rc12.deb-5)
+    semantic patching tool for C
+coco-cpp (20120102-1)
+    Coco/R Compiler Generator (C++ Version)
+coco-cs (20110419-5)
+    Coco/R Compiler Generator (C-Sharp Version)
+code2html (0.9.1-4)
+    Syntax highlighter
+codeblocks (10.05-2.1)
+    Code::Blocks integrated development environment (IDE)
+coinst (1.01-2)
+    computes the co-installability kernel of a deb or RPM repository
+coinst-viewer (1.01-2)
+    viewer for co-installability kernels generated by coinst
+colorgcc (1.3.2.0-10)
+    Colorizer for GCC warning/error messages
+colormake (0.9-1)
+    simple wrapper around make to colorize output
+condor-dev (7.8.2~dfsg.1-1+deb7u3) [security]
+    distributed workload management system - development files
+config-manager (0.4-2.1)
+    manage directories with Arch, Bazaar, CVS, HTTP, FTP and/or Subversion
+config-package-dev (4.13)
+    CDBS modules for building configuration packages
+connman-dev (1.0-1.1+wheezy1+b1)
+    Development files for connman
+cons (2.3.0.1+2.2.0-1)
+    a Perl replacement for Make
+console-tools-dev (1:0.2.3dbs-70)
+    Development files for Linux console and font manipulation
+cook (2.33-1)
+    Powerful make replacement
+cook-rsh (2.33-1)
+    Remote execution scripts for cook
+copyright-update (2010.0307+git23ecad8-2)
+    update copyright information in files
+cppcheck (1.54-1)
+    tool for static C/C++ code analysis
+cpputest (3.1-2)
+    C/C++ based unit test framework — main package
+cproto (4.7j-5)
+    utilities to generate C function prototypes from C source code
+crashme (2.4-9)
+    Stress tests operating system stability
+crasm (1.5-1+b1 [armel, ia64], 1.5-1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cross assembler for 6800/6801/6803/6502/65C02/Z80
+cscope (15.7a-3.6)
+    Interactively examine a C program source
+cscope-el (15.7a-3.6)
+    Interactively examine a C program source, cscope emacs binding
+ctapi-dev (1.1)
+    Card Terminal (CT) API definition
+cudf-tools (0.6.2-1)
+    command line tools for package upgrade problem descriptions
+cutils (1.6-3)
+    C source code utilities
+cutter-glib-support (1.1.7-1.2)
+    Cutter GLib integration
+cutter-gtk-support (1.1.7-1.2)
+    Cutter GTK+ integration
+cutter-report-module (1.1.7-1.2)
+    Test result reporting module for Cutter
+cutter-testing-framework (1.1.7-1.2)
+    Cutter testing framework suite (meta-package)
+cutter-testing-framework-bin (1.1.7-1.2)
+    A unit testing framework for C and C++
+cwebx (3.04-9)
+    C/C++ literate programming system (Marc van Leeuwen's version)
+cxref (1.6d-6)
+    Generates LaTeX and HTML documentation for C programs
+cxxtest (4.0.3-2)
+    lightweight xUnit-like framework for C/C++ applications
+cyrus-dev-2.2 (2.4.16-4+deb7u2)
+    Transitional package for cyrus-dev-2.4
+cyrus-dev-2.2
+    virtual package provided by cyrus-dev-2.4
+cyrus-dev-2.4 (2.4.16-4+deb7u2)
+    Cyrus mail system - developer files
+d-feet (0.1.14-1)
+    D-Bus object browser, viewer and debugger
+d52 (3.4.1-1.1)
+    Disassembler for 8052, 8048/8041, and Z80/8080/8085 code
+darts (0.32-11)
+    C++ Template Library for implementation of Double-Array
+datefudge (1.17)
+    Fake the system date
+dbs (0.47)
+    Allows Debian source packages with multiple patches
+dbus (1.6.8-1+deb7u6) [security]
+    simple interprocess messaging system (daemon and utilities)
+ddd (1:3.3.12-4)
+    The Data Display Debugger, a graphical debugger frontend
+debarchiver (0.9.10)
+    Tool to handle Debian package archives
+debaux (0.1.10-1)
+    Debian Auxiliary Programs
+debaux-debconf (0.1.10-1)
+    Perl Interface to Debconf
+debconf-utils (1.5.49)
+    debconf utilities
+debdelta (0.50+2)
+    diff and patch utilities which work with Debian packages
+debhelper (9.20120909)
+    helper programs for debian/rules
+debian-installer (20130613+deb7u2+b4)
+    Debian installer
+debian-xcontrol (0.0.4-1.1+b3 [i386, powerpc], 0.0.4-1.1+b2 [amd64, armel, armhf, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390, s390x, sparc])
+    Extended syntax for debian/control files
+debnest (0.0.11)
+    Nested Build System of Debian Source Package
+debomatic (0.10-2)
+    automatic build machine for Debian source packages
+dejagnu (1.5-3)
+    framework for running test suites on software tools
+delta (2006.08.03-3)
+    Heuristic minimizer of interesting files
+deps-tools-cli (0.13-1.1)
+    DEPS command-line tools
+desktop-file-utils (0.20-0.1)
+    Utilities for .desktop files
+devhelp (3.4.1-1)
+    GNOME developers help program
+devhelp-common (3.4.1-1)
+    Common files for devhelp and its library
+device-tree-compiler (1.3.0-4)
+    Device Tree Compiler for Flat Device Trees
+devscripts (2.12.6+deb7u2)
+    scripts to make the life of a Debian Package maintainer easier
+dh-ada-library (3)
+    Debian helper for Ada libraries
+dh-apparmor (2.7.103-4)
+    AppArmor debhelper routines
+dh-autoreconf (7)
+    debhelper add-on to call autoreconf and clean up after the build
+dh-buildinfo (0.9+nmu1)
+    Debhelper addon to track package versions used to build a package
+dh-consoledata (0.7.87)
+    debhelper-based script to help packaging console data files
+dh-di (3)
+    Debhelper addon for debian-installer
+dh-exec (0.4)
+    Scripts to help with executable debhelper files
+dh-kpatches (0.99.36+nmu1)
+    Debhelper script to help packaging kernel patches
+dh-linktree (0.3)
+    Create symlink trees within a Debian package
+dh-make (0.61)
+    tool that converts source archives into Debian package source
+dia2code (0.8.3-4)
+    a dia-UML code generator
+dictionaries-common-dev (1.12.11)
+    Developer tools and Policy for spelling dictionary tools
+dieharder (3.31.1-4)
+    Random-number generator test front-end
+diffstat (1.55-3)
+    produces graph of changes introduced by a diff file
+dis51 (0.5-1.1)
+    Disassembler for 8051 code in Intel Hex format
+dist (1:3.5-30-3.2)
+    Tools for developing, maintaining and distributing software.
+distcc (3.1-5)
+    simple distributed compiler client and server
+distcc-pump (3.1-5)
+    pump mode for distcc a distributed compiler client and server
+distccmon-gnome (3.1-5)
+    GTK+ monitor for distcc a distributed client and server
+distro-info (0.10)
+    provides information about the distributions' releases
+distro-info-data (0.17~deb7u1)
+    information about the distributions' releases (data files)
+ditrack (0.8-1.1)
+    lightweight distributed issue tracking system
+ditz (0.5-1)
+    distributed issue tracker
+dmake (1:4.12-2)
+    make utility used to build OpenOffice.org
+dmucs (0.6.1-2.1)
+    distributed compilation system for use with distcc
+doclifter (2.7-1)
+    Convert troff to DocBook
+doctorj (5.0.0-5)
+    A tool to analyze Java code
+dose-builddebcheck (3.0.2-3)
+    Checks whether build-dependencies can be satisfied
+dose-distcheck (3.0.2-3)
+    Checks whether dependencies of packages can be satisfied
+dose-extra (3.0.2-3)
+    Extra QA tools from the Dose3-library
+doxygen (1.8.1.2-2)
+    Documentation system for C, C++, Java, Python and other languages
+doxygen-gui (1.8.1.2-2)
+    GUI configuration tool for doxygen
+doxygen-latex (1.8.1.2-2)
+    Documentation system for C, C++, Java, Python and other languages
+doxymacs (1.8.0-6+b1 [ia64], 1.8.0-6 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    elisp package for making doxygen usage easier under Emacs
+dpkg-awk (1.2)
+    Gawk script to parse /var/lib/dpkg/{status,available} and Packages
+dpkg-sig (0.13.1)
+    create and verify signatures on .deb-files
+dput (0.9.6.3+nmu2)
+    Debian package upload tool
+drac-dev (1.12-7.2)
+    Dynamic Relay Authorization Control (development files)
+drizzle-plugin-dev (1:7.1.36-stable-1)
+    Development files for Drizzle plugin development
+drpython (1:3.11.1-2)
+    simple and customizable editor for the Python language
+duma (2.5.15-1.1)
+    library to detect buffer overruns and under-runs in C and C++ programs
+dupload (2.7.0)
+    utility to upload Debian packages
+dwz (0.4-1)
+    DWARF compression tool
+dzedit (20061220+dfsg3-2)
+    CERNLIB data analysis suite - ZEBRA documentation editor
+e2fsprogs-dbg (1.42.5-1.1+deb7u1) [security]
+    debugging information for e2fsprogs
+ecb (2.40+cvs20110608-3)
+    code browser for Emacs supporting several languages
+ecl (11.1.1+dfsg1-2+b1 [s390x], 11.1.1+dfsg1-2 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc])
+    Embeddable Common-Lisp: has an interpreter and can compile to C
+eclipse (3.8.0~rc4-1)
+    Extensible Tool Platform and Java IDE
+eclipse-anyedit (2.4.2-1)
+    Adds additional tools to the context menu of text-based Eclipse editors
+eclipse-cdt (8.1.0+dfsg-2)
+    C/C++ Development Tools for Eclipse
+eclipse-cdt-autotools (8.1.0+dfsg-2)
+    Autotools support for Eclipse CDT
+eclipse-cdt-pkg-config (0.5.4+svn212-1)
+    pkg-config support for Eclipse C/C++ development tools
+eclipse-cdt-valgrind (1.0.0-1)
+    Valgrind integration for Eclipse CDT
+eclipse-cdt-valgrind-remote (1.0.0-1)
+    Valgrind integration for Eclipse CDT (remote launch)
+eclipse-egit (2.0.0-1)
+    Eclipse Team provider for the Git version control system
+eclipse-egit-mylyn (2.0.0-1)
+    Mylyn integration for EGit
+eclipse-gef (3.7.1-1)
+    Eclipse Graphical Editing Framework
+eclipse-jdt (3.8.0~rc4-1)
+    Eclipse Java Development Tools (JDT)
+eclipse-mercurialeclipse (1.9.4-2)
+    Mercurial DVCS integration for Eclipse
+eclipse-mylyn (3.8.0-2)
+    Task-Focused Interface for Eclipse
+eclipse-mylyn-builds-hudson (3.8.0-2)
+    Mylyn Hudson/Jenkins Connector
+eclipse-mylyn-context-cdt (3.8.0-2)
+    Mylyn context integration for Eclipse CDT
+eclipse-mylyn-context-jdt (3.8.0-2)
+    Task support for Eclipse JDT
+eclipse-mylyn-context-pde (3.8.0-2)
+    Task support for Eclipse PDE
+eclipse-mylyn-tasks-bugzilla (3.8.0-2)
+    Mylyn Bugzilla Connector
+eclipse-mylyn-tasks-trac (3.8.0-2)
+    Mylyn Trac Connector
+eclipse-mylyn-versions-cvs (3.8.0-2)
+    Mylyn version control integration for CVS
+eclipse-mylyn-wikitext (3.8.0-2)
+    Mylyn WikiText
+eclipse-pde (3.8.0~rc4-1)
+    Eclipse Plug-in Development Environment (PDE)
+eclipse-platform (3.8.0~rc4-1)
+    Eclipse platform without development plug-ins
+eclipse-platform-data (3.8.0~rc4-1)
+    Eclipse platform without development plug-ins (data)
+eclipse-rcp (3.8.0~rc4-1)
+    Eclipse Rich Client Platform (RCP)
+edos-debcheck (1.0-9)
+    Check package dependencies (transitional package)
+edos-debcheck
+    virtual package provided by edos-distcheck
+edos-distcheck (1.4.2-13+b2 [ia64, mips, mipsel, s390], 1.4.2-13+b1 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, s390x, sparc])
+    Checks whether dependencies of packages can be satisfied
+edos-rpmcheck (1.0-9)
+    Check package dependencies (transitional package)
+edos-rpmcheck
+    virtual package provided by edos-distcheck
+eglibc-source (2.13-38+deb7u8) [security]
+    Embedded GNU C Library: sources
+electric-fence (2.2.4)
+    A malloc(3) debugger
+elida (0.4+nmu1)
+    pbuilder mail interface
+elks-libc (0.16.17-3.1)
+    16-bit x86 C library and include files
+emerillon-dev (0.1.90-1+b1 [armhf, s390x], 0.1.90-1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc])
+    map viewer for the GNOME desktop (development files)
+ensymble (0.28-2)
+    developer utilities for Symbian OS
+environment-modules (3.2.9c-3)
+    Modular system for handling environment variables
+eperl (2.2.14-18)
+    Embedded Perl 5 Language
+epiphany-browser-dev (3.4.2-2.1)
+    Development files for the GNOME web browser
+epm (4.2-6)
+    Cross-platform package builder by Easy Software Products
+eric (4.5.3-1)
+    full featured Python IDE
+eric-api-files (4.5.3-1)
+    API description files for use with eric
+erlang-esdl-dev (1.2-2)
+    Erlang bindings to the SDL (development files)
+evolution-data-server-dev (3.4.4-3+deb7u1)
+    Development files for evolution-data-server (metapackage)
+evolution-dev (3.4.4-3)
+    development library files for Evolution
+expect-dev (5.45-2)
+    Automates interactive applications (development)
+expeyes-firmware-dev (2.0.0-3)
+    hardware & software framework for developing science experiments
+explain (0.52.D002-1)
+    utility to explain system call errors
+eztrace (0.7-2-4)
+    Automatic execution trace generation for HPC - tools
+f2c (20100827-1)
+    FORTRAN 77 to C/C++ translator
+falconpl-curl (0.9.6.9-git20120606-2)
+    Curl bindings for Falcon P.L
+falconpl-dbi (0.9.6.9-git20120606-2)
+    Database Abstraction Layer for Falcon P.L
+falconpl-dbi-firebird (0.9.6.9-git20120606-2)
+    Firebird SQL database abstraction layer for Falcon P.L
+falconpl-dbi-mysql (0.9.6.9-git20120606-2)
+    MySQL database abstraction layer for Falcon P.L
+falconpl-dbi-postgresql (0.9.6.9-git20120606-2)
+    PostgreSQL database abstraction layer for Falcon P.L
+falconpl-dbi-sqlite3 (0.9.6.9-git20120606-2)
+    SQLite3 database abstraction for Falcon P.L
+falconpl-dbus (0.9.6.9-git20120606-2)
+    DBus client functionality for Falcon scripts
+falconpl-dev (0.9.6.9-git20120606-2)
+    Falcon P.L. - development files
+falconpl-dmtx (0.9.6.9-git20120606-2)
+    Falcon module for reading Data Matrix barcodes
+falconpl-gd2 (0.9.6.9-git20120606-2)
+    Falcon graphic image manipulation module
+falconpl-gtk (0.9.6.9-git20120606-2)
+    Falcon GTK+ wrapper module
+falconpl-hpdf (0.9.6.9-git20120606-2)
+    Falcon module for generating PDF files
+falconpl-mongodb (0.9.6.9-git20120606-2)
+    MongoDB bindings for Falcon P.L
+falconpl-sdl (0.9.6.9-git20120606-2)
+    Falcon SDL wrapper module
+fastdep (0.16-13)
+    fast dependency generator for C/C++ files
+fastjet-examples (3.0.2+dfsg-2)
+    Example source files of FastJet
+fatrat-dev (1.1.3-5)
+    development files for fatrat
+faucc (20090220-1)
+    C compiler generating Intel code for 16bit/32bit CPUs
+fauhdlc (20110812-1)
+    experimental VHDL compiler and interpreter
+fenix (0.92a.dfsg1-9)
+    development environment for making 2D games
+fenix-dev (0.92a.dfsg1-9)
+    development environment for making 2D games - header files
+fenix-plugin-mpeg (0.0.20070803-5)
+    mpeg plugin for the Fenix Game Development System
+fenix-plugins (0.0.20070803-5)
+    plugins for the Fenix Game Development System
+fenix-plugins-system (0.0.20070803-5)
+    system plugins for the Fenix Game Development System
+fhist (1.18-1)
+    File history, comparison and merge utilities
+finch-dev (2.10.10-1~deb7u1)
+    text-based multi-protocol instant messaging client - development
+fiu-utils (0.90-3)
+    userspace fault injection framework (utilities)
+fixincludes (1:4.7.2-5)
+    Fix non-ANSI header files
+flatzinc (3.7.3-1)
+    constraint problem modelling language
+flex (2.5.35-10.1)
+    A fast lexical analyzer generator.
+flex-old (2.5.4a-10)
+    Old version of the fast lexical analyzer generator
+flexc++ (0.98.00-1)
+    Flex-style scanner generator for C++
+flexml (1.9.2-1)
+    Fast validating XML processors and applications generator
+flite1-dev (1.4-release-6)
+    Small run-time speech synthesis engine - development files
+fluid (1.3.0-8)
+    Fast Light Toolkit - user interface designer
+fort77 (1.15-8)
+    Invoke f2c like a real compiler
+fosfat-dev (0.4.0-3)
+    FUSE library to access Smaky formatted disk, development files
+foundry (0.0.20100226-1+b1)
+    Code generation tools
+fp-compiler (2.6.0-9)
+    Free Pascal - compiler dependency package
+fp-compiler
+    virtual package provided by fp-compiler-2.6.0
+fp-compiler-2.6.0 (2.6.0-9)
+    Free Pascal - compiler
+fp-ide (2.6.0-9)
+    Free Pascal - IDE dependency package
+fp-ide
+    virtual package provided by fp-ide-2.6.0
+fp-ide-2.6.0 (2.6.0-9)
+    Free Pascal - IDE
+fp-units-base (2.6.0-9)
+    Free Pascal - base units dependency package
+fp-units-base
+    virtual package provided by fp-units-base-2.6.0
+fp-units-base-2.6.0 (2.6.0-9)
+    Free Pascal - base units
+fp-units-db (2.6.0-9)
+    Free Pascal - database-library units dependency package
+fp-units-db
+    virtual package provided by fp-units-db-2.6.0
+fp-units-db-2.6.0 (2.6.0-9)
+    Free Pascal - database-library units
+fp-units-fcl (2.6.0-9)
+    Free Pascal - Free Component Library dependency package
+fp-units-fcl
+    virtual package provided by fp-units-fcl-2.6.0
+fp-units-fcl-2.6.0 (2.6.0-9)
+    Free Pascal - Free Component Library
+fp-units-fv (2.6.0-9)
+    Free Pascal - Free Vision units dependency package
+fp-units-fv
+    virtual package provided by fp-units-fv-2.6.0
+fp-units-fv-2.6.0 (2.6.0-9)
+    Free Pascal - Free Vision units
+fp-units-gfx (2.6.0-9)
+    Free Pascal - graphics-library units dependency package
+fp-units-gfx
+    virtual package provided by fp-units-gfx-2.6.0
+fp-units-gfx-2.6.0 (2.6.0-9)
+    Free Pascal - graphics-library units
+fp-units-gnome1 (2.6.0-9)
+    Free Pascal - GNOME 1 units dependency package
+fp-units-gnome1
+    virtual package provided by fp-units-gnome1-2.6.0
+fp-units-gnome1-2.6.0 (2.6.0-9)
+    Free Pascal - GNOME 1 units
+fp-units-gtk (2.6.0-9)
+    Free Pascal - GTK+ 1.2 units dependency package
+fp-units-gtk
+    virtual package provided by fp-units-gtk-2.6.0
+fp-units-gtk-2.6.0 (2.6.0-9)
+    Free Pascal - GTK+ 1.2 units
+fp-units-gtk2 (2.6.0-9)
+    Free Pascal - GTK+ 2.x units dependency package
+fp-units-gtk2
+    virtual package provided by fp-units-gtk2-2.6.0
+fp-units-gtk2-2.6.0 (2.6.0-9)
+    Free Pascal - GTK+ 2.x units
+fp-units-i386 (2.6.0-9)
+    Free Pascal - Kylix compatibility units dependency package
+fp-units-i386
+    virtual package provided by fp-units-i386-2.6.0
+fp-units-i386-2.6.0 (2.6.0-9)
+    Free Pascal - Kylix compatibility units
+fp-units-math (2.6.0-9)
+    Free Pascal - math units dependency package
+fp-units-math
+    virtual package provided by fp-units-math-2.6.0
+fp-units-math-2.6.0 (2.6.0-9)
+    Free Pascal - math units
+fp-units-misc (2.6.0-9)
+    Free Pascal - miscellaneous units dependency package
+fp-units-misc
+    virtual package provided by fp-units-misc-2.6.0
+fp-units-misc-2.6.0 (2.6.0-9)
+    Free Pascal - miscellaneous units
+fp-units-multimedia (2.6.0-9)
+    Free Pascal - multimedia units dependency package
+fp-units-multimedia
+    virtual package provided by fp-units-multimedia-2.6.0
+fp-units-multimedia-2.6.0 (2.6.0-9)
+    Free Pascal - multimedia units
+fp-units-net (2.6.0-9)
+    Free Pascal - networking units dependency package
+fp-units-net
+    virtual package provided by fp-units-net-2.6.0
+fp-units-net-2.6.0 (2.6.0-9)
+    Free Pascal - networking units
+fp-units-rtl (2.6.0-9)
+    Free Pascal - runtime libraries dependency package
+fp-units-rtl
+    virtual package provided by fp-units-rtl-2.6.0
+fp-units-rtl-2.6.0 (2.6.0-9)
+    Free Pascal - runtime libraries
+fp-utils (2.6.0-9)
+    Free Pascal - utilities dependency package
+fp-utils
+    virtual package provided by fp-utils-2.6.0
+fp-utils-2.6.0 (2.6.0-9)
+    Free Pascal - utilities
+fpc (2.6.0-9)
+    Free Pascal - SDK suite dependency package
+fpc
+    virtual package provided by fpc-2.6.0
+fpc-2.6.0 (2.6.0-9)
+    Free Pascal - SDK-2.6.0 suite
+fpc-source (2.6.0-9)
+    Free Pascal - SDK source code dependency package
+fpc-source
+    virtual package provided by fpc-source-2.6.0
+fpc-source-2.6.0 (2.6.0-9)
+    Free Pascal - SDK source code
+frama-c (20111001+nitrogen+dfsg-4)
+    Framework for source code analysis of software written in C
+frama-c-base (20111001+nitrogen+dfsg-4)
+    Framework for C source code analysis (without gui)
+freebsd-buildutils (9.0-11)
+    Utilities for building FreeBSD sources
+freebsd-glue (0.0.4)
+    Emulate a FreeBSD build environment
+freetds-dev (0.91-2+deb7u1)
+    MS SQL and Sybase client library (static libs and headers)
+frei0r-plugins-dev (1.1.22git20091109-1.2)
+    minimalistic plugin API for video effects, header files
+frown (0.6.1-13)
+    LALR(k) parser generator for Haskell 98
+fso-specs (2012.05.24.1-1)
+    freesmartphone.org D-Bus XML specification & documentation
+fteqcc (3343+svn3400-3)
+    FTE QuakeC compiler
+ftgl-dev (2.1.3~rc5-4)
+    transitional dummy package
+ftjam (2.5.2-1.1)
+    FreeType version of Jam, a replacement for make
+ftnchek (3.3.1-4)
+    A semantic checker for Fortran 77 programs
+funnelweb (3.2-4.2)
+    literate-programming tool
+fusil (1.4-1)
+    Fuzzing program to test applications
+fuzz (0.6-14)
+    stress-test programs by giving them random input
+fweb (1.62-11.1)
+    literate-programming tool for C/C++/Fortran/Ratfor
+g++ (4:4.7.2-1 [amd64, i386, kfreebsd-amd64, kfreebsd-i386], 4:4.6.3-8 [armel, armhf, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    GNU C++ compiler
+g++-4.4 (4.4.7-2)
+    GNU C++ compiler
+g++-4.4-multilib (4.4.7-2)
+    GNU C++ compiler (multilib files)
+g++-4.4-spu (4.4.7-2)
+    SPU cross-compiler (C++ compiler)
+g++-4.6 (4.6.3-14)
+    GNU C++ compiler
+g++-4.6-multilib (4.6.3-14)
+    GNU C++ compiler (multilib files)
+g++-4.6-spu (4.6.3-14)
+    SPU cross-compiler (C++ compiler)
+g++-4.7 (4.7.2-5)
+    GNU C++ compiler
+g++-4.7-multilib (4.7.2-5)
+    GNU C++ compiler (multilib files)
+g++-4.7-spu (4.7.2-5)
+    SPU cross-compiler (C++ compiler)
+g++-mingw-w64 (4.6.3-14+8)
+    GNU C++ compiler for MinGW-w64
+g++-mingw-w64-i686 (4.6.3-14+8)
+    GNU C++ compiler for MinGW-w64 targeting Win32
+g++-mingw-w64-x86-64 (4.6.3-14+8)
+    GNU C++ compiler for MinGW-w64 targeting Win64
+g++-multilib (4:4.7.2-1 [amd64, i386, kfreebsd-amd64], 4:4.6.3-8 [mips, mipsel, powerpc, s390, s390x, sparc])
+    GNU C++ compiler (multilib files)
+g++-spu (4.7.2-1)
+    SPU cross-compiler (C++ compiler)
+gambas3 (3.1.1-2)
+    Complete visual development environment for Gambas
+gambas3-dev (3.1.1-2+b2 [amd64, armhf, ia64, mips, powerpc], 3.1.1-2+b1 [i386, s390], 3.1.1-2 [mipsel])
+    Gambas compilation tools
+gambas3-examples (3.1.1-2)
+    Gambas examples
+gambas3-gb-cairo (3.1.1-2+b2 [amd64, armhf, ia64, mips, powerpc], 3.1.1-2+b1 [i386, s390], 3.1.1-2 [mipsel])
+    Gambas bindings for cairo
+gambas3-gb-dbus (3.1.1-2+b2 [amd64, armhf, ia64, mips, powerpc], 3.1.1-2+b1 [i386, s390], 3.1.1-2 [mipsel])
+    Gambas bindings for DBUS
+gambas3-gb-form-stock (3.1.1-2)
+    Gambas form stock icons
+gambas3-ide (3.1.1-2)
+    Visual development environment for the Gambas programming language
+gant (1.9.7-1)
+    Groovy build framework based on scripting Ant tasks
+gap-dev (4r4p12-2)
+    GAP computer algebra system, compiler and development files
+gaphor (0.17.0-1)
+    UML modeling tool
+gcc (4:4.7.2-1 [amd64, i386, kfreebsd-amd64, kfreebsd-i386], 4:4.6.3-8 [armel, armhf, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    GNU C compiler
+gcc-4.4 (4.4.7-2)
+    GNU C compiler
+gcc-4.4-multilib (4.4.7-2)
+    GNU C compiler (multilib files)
+gcc-4.4-source (4.4.7-2)
+    Source of the GNU Compiler Collection
+gcc-4.4-spu (4.4.7-2)
+    SPU cross-compiler (preprocessor and C compiler)
+gcc-4.6 (4.6.3-14)
+    GNU C compiler
+gcc-4.6-multilib (4.6.3-14)
+    GNU C compiler (multilib files)
+gcc-4.6-plugin-dev (4.6.3-14)
+    Files for GNU GCC plugin development.
+gcc-4.6-source (4.6.3-14)
+    Source of the GNU Compiler Collection
+gcc-4.6-spu (4.6.3-14)
+    SPU cross-compiler (preprocessor and C compiler)
+gcc-4.7 (4.7.2-5)
+    GNU C compiler
+gcc-4.7-multilib (4.7.2-5)
+    GNU C compiler (multilib files)
+gcc-4.7-plugin-dev (4.7.2-5)
+    Files for GNU GCC plugin development.
+gcc-4.7-source (4.7.2-5)
+    Source of the GNU Compiler Collection
+gcc-4.7-spu (4.7.2-5)
+    SPU cross-compiler (preprocessor and C compiler)
+gcc-avr (1:4.7.2-2)
+    The GNU C compiler (cross compiler for avr)
+gcc-h8300-hms (1:3.4.6+dfsg-1)
+    GNU C compiler (cross compiler for h8300-hitachi-coff)
+gcc-m68hc1x (1:3.3.6+3.1+dfsg-3)
+    GNU C compiler for the Motorola 68HC11/12 processors
+gcc-mingw-w64 (4.6.3-14+8)
+    GNU C compiler for MinGW-w64
+gcc-mingw-w64-base (4.6.3-14+8)
+    GNU Compiler Collection for MinGW-w64 (base package)
+gcc-mingw-w64-i686 (4.6.3-14+8)
+    GNU C compiler for MinGW-w64 targeting Win32
+gcc-mingw-w64-x86-64 (4.6.3-14+8)
+    GNU C compiler for MinGW-w64 targeting Win64
+gcc-mingw32 (4.6.3-14+8)
+    GNU Compiler Collection for MinGW32 (transition package)
+gcc-msp430 (4.6.3~mspgcc-20120406-3+deb7u2)
+    GNU C compiler (cross compiler for MSP430)
+gcc-multilib (4:4.7.2-1 [amd64, i386, kfreebsd-amd64], 4:4.6.3-8 [mips, mipsel, powerpc, s390, s390x, sparc])
+    GNU C compiler (multilib files)
+gcc-spu (4.7.2-1)
+    SPU cross-compiler (preprocessor and C compiler)
+gccgo (4:4.7.2-1)
+    Go compiler, based on the GCC backend
+gccgo-4.7 (4.7.2-5)
+    GNU Go compiler
+gccgo-4.7-multilib (4.7.2-5)
+    GNU Go compiler (multilib files)
+gccgo-multilib (4:4.7.2-1)
+    Go compiler, based on the GCC backend (multilib files)
+gccxml (0.9.0+cvs20120420-4)
+    XML output extension to GCC
+gcin-dev (2.7.6.1+dfsg-1)
+    GTK+ based input method platform - development files
+gdb (7.4.1+dfsg-0.1)
+    The GNU Debugger
+gdb-avr (7.4-1)
+    The GNU Debugger for avr
+gdb-mingw-w64 (7.4.1-1.1+5)
+    Cross-debugger for Win32 and Win64 using MinGW-w64
+gdb-mingw-w64-target (7.4.1-1.1+5)
+    Cross-debugger server for Win32 and Win64 using MinGW-w64
+gdb-minimal (7.4.1+dfsg-0.1)
+    The GNU Debugger
+gdb-msp430 (7.2a~mspgcc-20111205-1)
+    The GNU debugger for MSP430
+gdb-multiarch (7.4.1+dfsg-0.1)
+    The GNU Debugger (with support for multiple architectures)
+gdb-source (7.4.1+dfsg-0.1)
+    The GNU Debugger (source)
+gdb64 (7.4.1+dfsg-0.1)
+    The GNU Debugger (64-bit)
+gdbserver (7.4.1+dfsg-0.1)
+    The GNU Debugger (remote server)
+gdc (4.6.3-8)
+    D compiler (language version 2), based on the GCC backend
+gdc
+    virtual package provided by gdc-4.6
+gdc-4.4 (1.063-4.4.7-1)
+    D compiler (version 1), based on the GCC backend
+gdc-4.6 (0.29.1-4.6.3-2)
+    GNU D compiler (version 2), based on the GCC backend
+gdc-v1 (4.6.3-8)
+    D compiler (language version 1), based on the GCC backend
+geany (1.22+dfsg-2)
+    fast and lightweight IDE
+geany-common (1.22+dfsg-2)
+    fast and lightweight IDE -- common files
+geany-plugin-addons (0.21.1.dfsg-4)
+    miscellanous plugins for Geany
+geany-plugin-codenav (0.21.1.dfsg-4)
+    code navigation plugin for Geany
+geany-plugin-debugger (0.21.1.dfsg-4)
+    debugger plugin for Geany
+geany-plugin-doc (0.21.1.dfsg-4)
+    documentation plugin for Geany
+geany-plugin-extrasel (0.21.1.dfsg-4)
+    extra selection plugin for Geany
+geany-plugin-gdb (0.21.1.dfsg-4)
+    GDB plugin for Geany
+geany-plugin-gendoc (0.21.1.dfsg-4)
+    documentation generation plugin for Geany
+geany-plugin-gproject (0.21.1.dfsg-4)
+    gproject plugin for Geany
+geany-plugin-insertnum (0.21.1.dfsg-4)
+    number inserting plugin for Geany
+geany-plugin-latex (0.21.1.dfsg-4)
+    improved LaTeX support plugin for Geany
+geany-plugin-lipsum (0.21.1.dfsg-4)
+    Lorem Ipsum generator plugin for Geany
+geany-plugin-lua (0.21.1.dfsg-4)
+    Lua scripting plugin for Geany
+geany-plugin-macro (0.21.1.dfsg-4)
+    macro plugin for Geany
+geany-plugin-numberedbookmarks (0.21.1.dfsg-4)
+    numbered bookmarks plugin for Geany
+geany-plugin-pg (0.21.1.dfsg-4)
+    pg plugin for Geany
+geany-plugin-prettyprinter (0.21.1.dfsg-4)
+    XML pretty printer for Geany
+geany-plugin-prj (0.21.1.dfsg-4)
+    alternative project manager for Geany
+geany-plugin-sendmail (0.21.1.dfsg-4)
+    mailer plugin for Geany
+geany-plugin-shiftcolumn (0.21.1.dfsg-4)
+    text column shifting plugin for Geany
+geany-plugin-spellcheck (0.21.1.dfsg-4)
+    spellcheck plugin for Geany
+geany-plugin-tableconvert (0.21.1.dfsg-4)
+    table convert plugin for Geany
+geany-plugin-treebrowser (0.21.1.dfsg-4)
+    tree browser plugin for Geany
+geany-plugin-updatechecker (0.21.1.dfsg-4)
+    update checker plugin for Geany
+geany-plugin-vc (0.21.1.dfsg-4)
+    VCS plugin for Geany
+geany-plugin-webhelper (0.21.1.dfsg-4)
+    web helper plugin for Geany
+geany-plugin-xmlsnippets (0.21.1.dfsg-4)
+    XMLSnippets plugin for Geany
+geany-plugins (0.21.1.dfsg-4)
+    set of plugins for Geany
+geany-plugins-common (0.21.1.dfsg-4)
+    set of plugins for Geany (translations)
+gedit-dev (3.4.2-1)
+    official text editor of the GNOME desktop environment (development files)
+gedit-valatoys-plugin (0.12.1-3)
+    Vala Toys for gEdit
+genbackupdata (1.6-1)
+    generate test data sets for backup software
+gendarme (2.10-6)
+    extensible rule-based checker for CLI assemblies
+gengetopt (2.22.5-1)
+    skeleton main.c generator
+genius-dev (1.0.14-1)
+    advanced general purpose calculator program (development files)
+genparse (0.9.1-1)
+    command line parser generator
+geoclue-examples (0.12.0-4)
+    GeoClue example clients
+gettext (0.18.1.1-9)
+    GNU Internationalization utilities
+gettext-lint (0.4-2)
+    Collection of tools for checking PO and POT files
+gfortran (4:4.7.2-1 [amd64, i386, kfreebsd-amd64, kfreebsd-i386], 4:4.6.3-8 [armel, armhf, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    GNU Fortran 95 compiler
+gfortran-4.4 (4.4.7-2)
+    GNU Fortran 95 compiler
+gfortran-4.4-multilib (4.4.7-2)
+    GNU Fortran 95 compiler (multilib files)
+gfortran-4.4-spu (4.4.7-2)
+    SPU cross-compiler (Fortran compiler)
+gfortran-4.6 (4.6.3-14)
+    GNU Fortran compiler
+gfortran-4.6-multilib (4.6.3-14)
+    GNU Fortran compiler (multilib files)
+gfortran-4.6-spu (4.6.3-14)
+    SPU cross-compiler (Fortran compiler)
+gfortran-4.7 (4.7.2-5)
+    GNU Fortran compiler
+gfortran-4.7-multilib (4.7.2-5)
+    GNU Fortran compiler (multilib files)
+gfortran-4.7-spu (4.7.2-5)
+    SPU cross-compiler (Fortran compiler)
+gfortran-mingw-w64 (4.6.3-14+8)
+    GNU Fortran compiler for MinGW-w64
+gfortran-mingw-w64-i686 (4.6.3-14+8)
+    GNU Fortran compiler for MinGW-w64 targeting Win32
+gfortran-mingw-w64-x86-64 (4.6.3-14+8)
+    GNU Fortran compiler for MinGW-w64 targeting Win64
+gfortran-multilib (4:4.7.2-1 [amd64, i386, kfreebsd-amd64], 4:4.6.3-8 [mips, mipsel, powerpc, s390, s390x, sparc])
+    GNU Fortran 95 compiler (multilib files)
+gfortran-spu (4.7.2-1)
+    SPU cross-compiler (Fortran compiler)
+ggcov (0.8.4-2)
+    Graphical tool for displaying gcov test coverage data
+ginspector (20050529-3.1)
+    GTK+ object/class inspector
+giws (2.0.0-1)
+    Generate C++ class wrappers to call Java methods/objects
+glabels-dev (3.0.0-3+b1)
+    development documentation and library files for gLabels
+glade (3.12.1-1)
+    GTK+ User Interface Builder
+global (5.7.1-2)
+    Source code search and browse tools
+gnat (4.6)
+    GNU Ada compiler
+gnat-4.6 (4.6.3-8)
+    GNU Ada compiler
+gnat-4.6-sjlj (4.6.3-8)
+    GNU Ada compiler (setjump/longjump runtime library)
+gnat-gps (5.0-13)
+    integrated development environment for C and Ada
+gnat-gps-common (5.0-13)
+    integrated development environment for C and Ada (common files)
+gnat-mingw-w64 (4.6.3-14+8)
+    GNU Ada compiler for MinGW-w64
+gnat-mingw-w64-i686 (4.6.3-14+8)
+    GNU Ada compiler for MinGW-w64 targeting Win32
+gnat-mingw-w64-x86-64 (4.6.3-14+8)
+    GNU Ada compiler for MinGW-w64 targeting Win64
+gnats (4.1.0-2)
+    problem report management system - central database
+gnats-user (4.1.0-2)
+    problem report management system - client tools
+gnome-control-center-dev (1:3.4.3.1-2)
+    utilities to configure the GNOME desktop
+gnome-core-devel (1:3.4+7+deb7u1)
+    GNOME Desktop Environment -- development components
+gnome-devel (1:3.4+7+deb7u1)
+    GNOME Desktop Environment -- development tools
+gnome-pkg-tools (0.19.3)
+    Tools for the Debian GNOME Packaging Team
+gnome-platform-devel (1:3.4+7+deb7u1)
+    GNOME development platform
+gnome-video-effects-dev (0.4.0-1)
+    Development files for gnome-video-effects
+gnu-efi (3.0i-3)
+    Library for developing EFI applications
+gnulib (20120404+stable-1)
+    GNU Portability Library
+gnumach-common (2:1.3.99.dfsg.git20120610-1)
+    GNU version of the Mach microkernel, common files.
+gnumach-dev (2:1.3.99.dfsg.git20120610-1)
+    GNU version of the Mach microkernel
+gnunet-gtk-dev (0.9.3-1)
+    secure, trust-based peer-to-peer framework (GTK+ client development)
+gob2 (2.0.18-1)
+    GTK+ Object Builder
+gobjc (4:4.7.2-1 [amd64, i386, kfreebsd-amd64, kfreebsd-i386], 4:4.6.3-8 [armel, armhf, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    GNU Objective-C compiler
+gobjc++ (4:4.7.2-1 [amd64, i386, kfreebsd-amd64, kfreebsd-i386], 4:4.6.3-8 [armel, armhf, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    GNU Objective-C++ compiler
+gobjc++-4.6 (4.6.3-14)
+    GNU Objective-C++ compiler
+gobjc++-4.6-multilib (4.6.3-14)
+    GNU Objective-C++ compiler (multilib files)
+gobjc++-4.7 (4.7.2-5)
+    GNU Objective-C++ compiler
+gobjc++-4.7-multilib (4.7.2-5)
+    GNU Objective-C++ compiler (multilib files)
+gobjc++-mingw-w64 (4.6.3-14+8)
+    GNU Objective-C++ compiler for MinGW-w64
+gobjc++-mingw-w64-i686 (4.6.3-14+8)
+    GNU Objective-C++ compiler for MinGW-w64 targeting Win32
+gobjc++-mingw-w64-x86-64 (4.6.3-14+8)
+    GNU Objective-C++ compiler for MinGW-w64 targeting Win64
+gobjc++-multilib (4:4.7.2-1 [amd64, i386, kfreebsd-amd64], 4:4.6.3-8 [mips, mipsel, powerpc, s390, s390x, sparc])
+    GNU Objective-C++ compiler (multilib files)
+gobjc-4.6 (4.6.3-14)
+    GNU Objective-C compiler
+gobjc-4.6-multilib (4.6.3-14)
+    GNU Objective-C compiler (multilib files)
+gobjc-4.7 (4.7.2-5)
+    GNU Objective-C compiler
+gobjc-4.7-multilib (4.7.2-5)
+    GNU Objective-C compiler (multilib files)
+gobjc-mingw-w64 (4.6.3-14+8)
+    GNU Objective-C compiler for MinGW-w64
+gobjc-mingw-w64-i686 (4.6.3-14+8)
+    GNU Objective-C compiler for MinGW-w64 targeting Win32
+gobjc-mingw-w64-x86-64 (4.6.3-14+8)
+    GNU Objective-C compiler for MinGW-w64 targeting Win64
+gobjc-multilib (4:4.7.2-1 [amd64, i386, kfreebsd-amd64], 4:4.6.3-8 [mips, mipsel, powerpc, s390, s390x, sparc])
+    GNU Objective-C compiler (multilib files)
+gobject-introspection (1.32.1-1)
+    Generate interface introspection data for GObject libraries
+golang (2:1.0.2-1.1)
+    Go programming language compiler - metapackage
+golang-go (2:1.0.2-1.1)
+    Go programming language compiler
+golang-mode (2:1.0.2-1.1)
+    Go programming language - mode for GNU Emacs
+golang-src (2:1.0.2-1.1)
+    Go programming language compiler - source files
+gonzui (1.2+cvs20070129-3.1)
+    A source code search engine
+google-mock (1.6.0-1)
+    Google's framework for writing and using C++ mock classes
+google-perftools (2.0-2)
+    command line utilities to analyze the performance of C++ programs
+gperf (3.0.3-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 3.0.3-1 [armhf, s390x])
+    Perfect hash function generator
+gperf-ace (6.0.3+dfsg-0.1)
+    ACE perfect hash function generator (transitional package)
+gplcver (2.12a-1.1)
+    Verilog simulator
+gpp (2.24-3)
+    A general-purpose preprocessor with customizable syntax
+gprbuild (2011-2)
+    multi-language extensible build tool
+gprolog (1.3.0-6.1)
+    GNU Prolog compiler
+gpsim-dev (0.26.1-2.1)
+    Libraries needed only for building gpsim components
+gpt (1.1-2)
+    G-Portugol is a portuguese structured programming language
+graph-includes (0.13-1.1)
+    transitionnal package
+graphviz-dev (2.26.3-14+deb7u2)
+    transitional package for graphviz-dev rename
+graphviz-dev
+    virtual package provided by libgraphviz-dev
+grass-dev (6.4.2-2)
+    GRASS GIS development files
+grcompiler (4.2-1)
+    Compiler of smart (graphite) fonts
+grfcodec (6.0.0-1)
+    suite of programs to modify Transport Tycoon Deluxe's GRF files
+grid-packaging-tools (3.6.2-1)
+    System for managing source dependencies in large projects
+gromacs-dev (4.5.5-2)
+    GROMACS molecular dynamics sim, development kit
+gsasl (1.8.0-2)
+    GNU SASL command line utility
+gsoap (2.8.7-2)
+    Development libraries and stub generators for gSOAP
+gstreamer0.10-plugins-cutter (1.1.7-1.2)
+    Cutter GStreamer plugin
+gthumb-dev (3:3.0.1-2)
+    image viewer and browser - development files
+gtkaml (0.5.91-1)
+    XML application markup language for GTK+ and Vala
+guilt (0.35-1.1)
+    quilt for git; similar to Mercurial queues
+hardening-includes (2.2)
+    Makefile for enabling compiler flags for security hardening
+hardening-wrapper (2.2)
+    Compiler wrapper to enable security hardening flags
+haskell-debian-utils (3.64-3+b1 [amd64], 3.64-3 [i386, kfreebsd-amd64, kfreebsd-i386, powerpc])
+    Various helpers to work with Debian packages
+headache (1.03-22)
+    Tool to manage license notes of source files
+heartbeat-dev (1:3.0.5-3)
+    Subsystem for High-Availability Linux - development files
+heimdal-dev (1.6~git20120403+dfsg1-2)
+    Heimdal Kerberos - development files
+heimdal-multidev (1.6~git20120403+dfsg1-2)
+    Heimdal Kerberos - Multi-implementation Development
+helium (1.7~pre20090428-3.1)
+    compiler used for learning the programming language Haskell
+hello (2.8-2)
+    The classic greeting, and a good example
+hello
+    virtual package provided by hello-debhelper
+hello-debhelper (2.8-1)
+    The classic greeting, and a good example
+help2man (1.40.10)
+    Automatic manpage generator
+hepmc-examples (2.06.09-1)
+    Event Record for Monte Carlo Generators - example files
+hexec (0.2.1-2)
+    Command line tool to hook into exec calls
+highlight (3.9-1)
+    Universal source code to formatted text converter
+highlight-common (3.9-1)
+    source code to formatted text converter (architecture independent files)
+hime-dev (0.9.9+git20120619+dfsg-1)
+    development files for HIME
+hp48cc (1.3-4)
+    C-like compiler which produces HP48 RPN
+ht (2.0.20-2)
+    Viewer/editor/analyser (mostly) for executables
+httest (2.2.6-1)
+    HTTP test tool
+hybrid-dev (1:7.2.2.dfsg.2-10)
+    development files for ircd-hybrid
+iasl (20100528-3)
+    Intel ASL compiler/decompiler
+ice34-services (3.4.2-8.2)
+    Services bundled into ZeroC Ice
+ice34-slice (3.4.2-8.2)
+    Slice definitions for Ice 3.4 services
+ice34-translators (3.4.2-8.2)
+    Slice translators to several languages
+icebox (3.4.2-8.2)
+    Plugin-based meta-application for ZeroC Ice
+icedtea6-plugin (6b21.4-3~deb7u2) [security]
+    web browser plugin to execute Java applets (dependency package)
+icedtea6-plugin
+    virtual package provided by icedtea-6-plugin
+icee-slice (1.2.0-6.1)
+    Slice definitions for ZeroC IceE services
+icee-translators (1.2.0-6)
+    ZeroC IceE Slice translators for C++ and Java
+icegrid-gui (3.4.2-8.2)
+    GUI for IceGrid service
+iceweasel-dbg (31.6.0esr-1~deb7u1 [amd64, armel, armhf, i386, powerpc, s390x], 24.8.1esr-1~deb7u1 [kfreebsd-amd64, kfreebsd-i386, s390], 24.5.0esr-1~deb7u1 [sparc], 17.0.10esr-1~deb7u1 [ia64, mips, mipsel]) [security]
+    Debugging symbols for Iceweasel
+icheck (0.9.7-6.1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.9.7-6.1 [armhf, s390x])
+    C interface ABI/API checker
+icmake (7.18.00-2)
+    Intelligent C-like MAKEr, or the ICce MAKE utility
+icon-ipl (9.4.3-4.2)
+    Libraries for Icon, a high-level programming language
+iconc (9.4.3-4.2)
+    Compiler for Icon, a high-level programming language
+icont (9.4.3-4.2)
+    Interpreter for Icon, a high-level programming language
+iconx (9.4.3-4.2)
+    Executor for Icon, a high-level programming language
+id-utils (4.5+dfsg-0.1)
+    Fast, high-capacity, identifier database tool
+idn2 (0.8-2)
+    Internationalized domain names (IDNA2008) command line tool
+indent (2.2.11-2)
+    C language source code formatting program
+inn2-dev (2.5.3-3)
+    libinn.a library, headers and man pages
+insighttoolkit3-examples (3.20.1+git20120521-3)
+    Image processing toolkit for registration and segmentation - examples
+intel2gas (1.3.3-14)
+    A converter from NASM assembly language to GAS
+intltool (0.50.2-2)
+    Utility scripts for internationalizing XML
+intltool-debian (0.35.0+20060710.1)
+    Help i18n of RFC822 compliant config files
+inventor-dev (2.1.5-10-16)
+    Open Inventor development files
+iptables-dev (1.4.14-3.1)
+    iptables development files
+isc-dhcp-dev (4.2.2.dfsg.1-5+deb70u6)
+    API for accessing and modifying the DHCP server and client state
+itcl3-dev (3.4.1-1)
+    [incr Tcl] OOP extension for Tcl - development files
+itk3-dev (3.3-4)
+    [incr Tk] OOP extension for Tk - development files
+ivtools-dev (1.2.10a1-1)
+    Development files for the InterViews library
+jam (2.5rel-1)
+    Software-build tool, replacement for make
+japi-compliance-checker (1.1.2-1)
+    tool to compare compatibility of Java library API
+japitools (0.9.7-1)
+    Java API compatibility testing tools
+jasmin-sable (2.4.0-1)
+    Java class (.class) file assembler
+jgit-cli (2.0.0-2)
+    Java implementation of GIT version control (command line interface)
+jhbuild (3.4.0-1)
+    flexible build script for package collections
+jimsh (0.73-3)
+    small-footprint implementation of Tcl named Jim
+jsdoc-toolkit (2.4.0+dfsg-3)
+    automatic generator for HTML documentation of Javascript sources
+jsxgraph (0.83+svn1872~dfsg1-1)
+    Interactive Geometry with JavaScript
+jtb (1.4.4-2)
+    syntax tree builder and visitors generator for JavaCC
+kannel-dev (1.4.3-2+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.4.3-2+b1 [armhf, s390x])
+    WAP and SMS gateway headers and development files
+kapptemplate (4:4.8.4+dfsg-1)
+    application template generator
+kate-syntax-go (2:1.0.2-1.1)
+    Go programming language - Kate highlighting syntax files
+kaya (0.4.4-6)
+    A statically typed, imperative programming language
+kbuild (1:0.1.9998svn2543+dfsg-1)
+    framework for writing simple makefiles for complex tasks
+kcachegrind (4:4.8.4+dfsg-1)
+    visualisation tool for the Valgrind profiler
+kcachegrind-converters (4:4.8.4+dfsg-1)
+    format converters for KCachegrind profiler visualisation tool
+kcov (4-2)
+    Code coverage analysis using DWARF debugging information
+kdbg (2.5.1-1)
+    graphical debugger interface
+kdemultimedia-dev (4:4.8.4-2)
+    development files for the KDE multimedia module
+kdesdk-dolphin-plugins (4:4.8.4+dfsg-1)
+    dolphin VCS plugins
+kdesdk-kio-plugins (4:4.8.4+dfsg-1)
+    transparent Subversion access and Perl documentation KIO slaves
+kdesdk-misc (4:4.8.4+dfsg-1)
+    miscellaneous tools from the KDE Software Development Kit
+kdesdk-scripts (4:4.8.4+dfsg-1)
+    scripts and data files for development
+kdevelop-pg-qt (1.0.0-2)
+    LL(1) parser generator based on Qt
+kdevelop-php (1.3.1-2)
+    PHP plugin for KDevelop
+kdevelop-php-docs (1.3.1-2)
+    PHP documentation plugin for KDevelop
+kdiff3-qt (0.9.96-4)
+    compares and merges 2 or 3 files or directories - Qt version
+kdump-tools (1.4.3-1)
+    scripts and tools for automating kdump (Linux crash dumps)
+kelbt (0.15-1)
+    backtracking LR parser generator
+kerneltop (0.8-2.1)
+    shows linux kernel function usage in a style like top
+ketchup (1.0.1+git20111228+e1c62066-1)
+    update utility for linux-kernel sources
+kgb-bot (1.15-2)
+    IRC collaboration bot
+kgb-client (1.15-2)
+    client for KGB (IRC collaboration bot)
+kgb-client-git (1.15-2)
+    client for KGB (IRC collaboration bot) - Git support
+kimwitu (4.6.1-7.1)
+    Compiler development tool, complementary to lex and yacc
+kimwitu++ (2.3.13-2)
+    A (syntax-)tree-handling tool (term processor)
+kmtrace (4:4.8.4+dfsg-1)
+    memory leak tracer
+kommander (4:4.8.4-1)
+    visual dialog builder and executor tool
+kompare (4:4.8.4+dfsg-1)
+    file difference viewer
+kpartloader (4:4.8.4+dfsg-1)
+    test tool for KParts
+kturtle (4:4.8.4-1)
+    educational programming environment
+kuipc (20061220+dfsg3-2)
+    CERNLIB data analysis suite - KUIP compiler
+kuiviewer (4:4.8.4+dfsg-1)
+    viewer for Qt Designer user interface files
+kwstyle (1.0.0+cvs20120330-3)
+    Style checker for source code
+lam4-dev (7.1.4-3)
+    Development of parallel programs using LAM
+lazarus (0.9.30.4-6)
+    IDE for Free Pascal - SDK dependency package
+lazarus
+    virtual package provided by lazarus-0.9.30.4
+lazarus-0.9.30.4 (0.9.30.4-6)
+    IDE for Free Pascal - suite
+lazarus-ide (0.9.30.4-6)
+    IDE for Free Pascal - common IDE files dependency package
+lazarus-ide
+    virtual package provided by lazarus-ide-gtk2-0.9.30.4, lazarus-ide-qt4-0.9.30.4, lazarus-ide-0.9.30.4
+lazarus-ide-0.9.30.4 (0.9.30.4-6)
+    IDE for Free Pascal - common IDE files
+lazarus-ide-gtk2 (0.9.30.4-6)
+    IDE for Free Pascal - GTK+ version
+lazarus-ide-gtk2
+    virtual package provided by lazarus-ide-gtk2-0.9.30.4
+lazarus-ide-gtk2-0.9.30.4 (0.9.30.4-6)
+    IDE for Free Pascal - GTK+ version
+lazarus-ide-qt4 (0.9.30.4-6)
+    IDE for Free Pascal - IDE build on top of Qt backend dependency package
+lazarus-ide-qt4
+    virtual package provided by lazarus-ide-qt4-0.9.30.4
+lazarus-ide-qt4-0.9.30.4 (0.9.30.4-6)
+    IDE for Free Pascal - Qt version
+lazarus-src (0.9.30.4-6)
+    IDE for Free Pascal - LCL source code dependency package
+lazarus-src
+    virtual package provided by lazarus-src-0.9.30.4
+lazarus-src-0.9.30.4 (0.9.30.4-6)
+    IDE for Free Pascal - LCL source code
+lcl (0.9.30.4-6)
+    Lazarus Components Library - LCL dependency package
+lcl
+    virtual package provided by lcl-0.9.30.4
+lcl-0.9.30.4 (0.9.30.4-6)
+    Lazarus Components Library - LCL suite
+lcl-0.9.30.4
+    virtual package provided by lcl-units-0.9.30.4
+lcl-gtk2 (0.9.30.4-6)
+    Lazarus Components Library - GTK+ backend dependency package
+lcl-gtk2
+    virtual package provided by lcl-gtk2-0.9.30.4
+lcl-gtk2-0.9.30.4 (0.9.30.4-6)
+    Lazarus Components Library - GTK+ backend
+lcl-nogui (0.9.30.4-6)
+    Lazarus Components Library - no GUI backend dependency package
+lcl-nogui
+    virtual package provided by lcl-nogui-0.9.30.4
+lcl-nogui-0.9.30.4 (0.9.30.4-6)
+    Lazarus Components Library - no GUI backend
+lcl-qt4 (0.9.30.4-6)
+    Lazarus Components Library - Qt backend dependency package
+lcl-qt4
+    virtual package provided by lcl-qt4-0.9.30.4
+lcl-qt4-0.9.30.4 (0.9.30.4-6)
+    Lazarus Components Library - Qt backend
+lcl-units (0.9.30.4-6)
+    Lazarus Components Library - backend independent components dependency package
+lcl-units
+    virtual package provided by lcl-units-0.9.30.4
+lcl-units-0.9.30.4 (0.9.30.4-6)
+    Lazarus Components Library - backend independent components
+lcl-utils (0.9.30.4-6)
+    Lazarus Components Library - command line build tools dependency package
+lcl-utils
+    virtual package provided by lcl-utils-0.9.30.4
+lcl-utils-0.9.30.4 (0.9.30.4-6)
+    Lazarus Components Library - command line build tools
+lcov (1.9-3)
+    Summarise Code coverage information from GCOV
+ldtp (2.3.1-1)
+    Linux Desktop Testing Project (LDTP)
+leaktracer (2.4-5)
+    Simple and efficient memory-leak tracer for C++ programs
+lemon (3.7.13-1+deb7u1)
+    LALR(1) Parser Generator for C or C++
+libatlas-test (3.8.4-9+deb7u1)
+    Automatically Tuned Linear Algebra Software, test programs
+libaws-bin (2.10.2-4)
+    Ada Web Server utilities
+libblas-test (1.2.20110419-5)
+    Basic Linear Algebra Subroutines 3, testing programs
+libbtparse-dev (0.63-1)
+    C library to parse BibTeX files - development files
+libcfitsio3-dev (3.300-2)
+    static library for I/O with FITS format data files
+libcgal-demo (4.0-5)
+    C++ library for computational geometry (demos)
+libckit-smlnj (110.74-2)
+    SML library for parsing and type-checking C programs
+libckyapplet1-dev (1.1.0-12)
+    Smart Card Coolkey applet development files
+libclaws-mail-dev (3.8.1-2)
+    Development files for Claws Mail plugins
+libclthreads-dev (2.4.0-4)
+    Development file for libclthreads
+libclxclient-dev (3.6.1-6)
+    Development file for libclxclient
+libcml-smlnj (110.74-2)
+    Concurrent ML extension of SML
+libcmlutil-smlnj (110.74-2)
+    Concurrent ML utility library
+libcore++-demo (1.7-12) [non-free]
+    C/C++ library for robust computation (demos)
+libcorelinux-examples (0.4.32-7.3)
+    Foundation Classes, Design Patterns, IPC and Threads
+libdbusmenu-tools (0.6.2-1)
+    tools useful during development with libdbusmenu
+libedje-bin (1.2.0-1)
+    Various binaries for use with libedje
+libembryo-bin (1.2.0-1)
+    SMALL compiler creating Embryo bytecode
+libexene-smlnj (110.74-2)
+    Concurrent ML library for the X Window System
+libforms-bin (1.0.93sp1-2)
+    Support binaries for the XForms widget library
+libginspx-dev (20050529-3.1)
+    Development headers of GTK+ object/class inspector
+libglpk-dev (4.45-1)
+    linear programming kit - development files
+libgnome-speech-dev (1:0.4.25-5)
+    GNOME text-to-speech library (development headers)
+libgnutls26-dbg (2.12.20-8+deb7u3) [security]
+    GNU TLS library - debugger symbols
+libgpcl-dev (2.32-1+b1 [ia64], 2.32-1 [i386, mips, powerpc, s390]) [non-free]
+    general polygon clipper library -- development package
+libgsnmp0-dev (0.3.0-1.1)
+    an SNMP library implementation based on glib and gnet (development files)
+libgtkada-bin (2.24.1-7)
+    Ada binding for the GTK+ GUI (development utilities)
+libikvm-native (7.0.4335.0+ds-1)
+    native library for IKVM.NET
+libindicator-tools (0.5.0-1)
+    Tools for libindicator
+libindicator3-tools (0.5.0-1)
+    Tools for libindicator
+libjconv-bin (2.8-6+b1 [amd64, i386, ia64, powerpc, s390], 2.8-6 [armel, armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x, sparc])
+    charset conversion library - binaries
+liblapack-test (3.4.1+dfsg-1+deb70u1)
+    Library of linear algebra routines 3 - testing programs
+libmdsp-dev (0.11-10)
+    METAR Decoder Software Package Library development files
+libmed-dev (3.0.3-3)
+    Development files for libmed
+libmedc-dev (3.0.3-3)
+    Development files for libmedc
+libmeschach-dev (1.2b-13)
+    development files for meschach
+libming-util (1:0.4.4-1.1)
+    Library to generate SWF (Flash) Files - Utilities
+libmlnlffi-smlnj (110.74-2)
+    No Longer Foreign Function Interface
+libmlrisctools-smlnj (110.74-2)
+    Library for generating MLRISC modules
+libnbio-dev (0.30-1)
+    non-blocking IO library development files
+libnfsidmap-dev (0.25-4)
+    header files and docs for libnfsidmap
+libpgraphutil-smlnj (110.74-2)
+    Portable graph utility library for SML Compilation Manager
+libpoker-eval-dev (138.0-1)
+    poker hand evaluator library development files
+libpostscriptbarcode (20080710-1)
+    A barcode generator written entirely in PostScript
+libqt4-dev-bin (4:4.8.2+dfsg-11)
+    Qt 4 development programs
+libreoffice-dev (1:3.5.4+dfsg2-0+deb7u3 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1:3.5.4+dfsg2-0+deb7u2 [ia64]) [security]
+    office productivity suite -- SDK
+libsary-dev (1:1.2.0-2.1)
+    A suffix array library (development)
+libsmlnj-smlnj (110.74-2)
+    Useful libraries for Standard ML of New Jersey
+libstfl-spl (0.22-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.22-1 [armhf, s390x])
+    SPL bindings for the structured terminal forms language/library
+libsvm-tools (3.12-1)
+    LIBSVM binary tools
+libsword-common (1.6.2+dfsg-5)
+    common settings and module repository for libsword
+libsword-utils (1.6.2+dfsg-5)
+    conversion utilities for bible documents in SWORD supported formats
+libtasn1-3-bin (2.13-2+deb7u1)
+    Manage ASN.1 structures (binaries)
+libtclap-dev (1.2.1-1)
+    Templatized command-line argument parser for C++
+libtk-img (1:1.3-release-12)
+    Extended image format support for Tcl/Tk (runtime)
+libtk-img-dev (1:1.3-release-12)
+    Extended image format support for Tcl/Tk (development files)
+libtool (2.4.2-1.1)
+    Generic library support script
+libvanessa-logger-sample (0.0.10-1.1)
+    Sample programme using libvanessa-logger
+libvanessa-socket-pipe (0.0.12-1)
+    User space TCP/IP pipe
+libwbxml2-dev (0.10.7-1)
+    WBXML library development file
+libxerces-c-samples (3.1.1-3+deb7u1) [security]
+    validating XML parser library for C++ (compiled samples)
+libzvbi-common (0.2.33-6)
+    Vertical Blanking Interval decoder (VBI) - common files
+licq-dev (1.6.1-3)
+    Licq development and header files
+linaro-image-tools (2012.06-1)
+    collection of tools to work with Linaro images
+lintian (2.5.10.4)
+    Debian package checker
+linux-kbuild-3.2 (3.2.17-1)
+    Kbuild infrastructure for Linux 3.2
+linux-libc-dev (3.2.65-1+deb7u2) [security]
+    Linux support headers for userspace development
+linux-support-3.2.0-4 (3.2.65-1+deb7u2) [security]
+    Support files for Linux 3.2
+linux-tools-3.2 (3.2.17-1)
+    Performance analysis tools for Linux 3.2
+lisaac (1:0.39~rc1-1)
+    Object-oriented language base on prototype
+lisaac-common (1:0.39~rc1-1)
+    Arch-independent part for lisaac
+lisaac-mode (1:0.39~rc1-1)
+    Emacs mode for editing Lisaac programs
+liwc (1.21-1)
+    Tools for manipulating C source code
+llvm (1:3.0-14+nmu2)
+    Low-Level Virtual Machine (LLVM)
+llvm-2.9 (2.9+dfsg-7)
+    Low-Level Virtual Machine (LLVM)
+llvm-2.9-dev (2.9+dfsg-7)
+    Low-Level Virtual Machine (LLVM), libraries and headers
+llvm-2.9-runtime (2.9+dfsg-7)
+    Low-Level Virtual Machine (LLVM), bytecode interpreter
+llvm-2.9-source (2.9+dfsg-7)
+    Low-Level Virtual Machine (LLVM), source code
+llvm-3.0 (3.0-10)
+    Low-Level Virtual Machine (LLVM)
+llvm-3.0-dev (3.0-10)
+    Low-Level Virtual Machine (LLVM), libraries and headers
+llvm-3.0-runtime (3.0-10)
+    Low-Level Virtual Machine (LLVM), bytecode interpreter
+llvm-3.0-source (3.0-10)
+    Low-Level Virtual Machine (LLVM), source code
+llvm-3.1 (3.1-1)
+    Low-Level Virtual Machine (LLVM)
+llvm-3.1-dev (3.1-1)
+    Low-Level Virtual Machine (LLVM), libraries and headers
+llvm-3.1-runtime (3.1-1)
+    Low-Level Virtual Machine (LLVM), bytecode interpreter
+llvm-3.1-source (3.1-1)
+    Low-Level Virtual Machine (LLVM), source code
+llvm-dev (1:3.0-14+nmu2)
+    Low-Level Virtual Machine (LLVM), libraries and headers
+llvm-runtime (1:3.0-14+nmu2)
+    Low-Level Virtual Machine (LLVM), bytecode interpreter
+lnpd (0.9.0-7)
+    daemon for LNP communication with BrickOS
+loggerhead (1.19~bzr461-1)
+    Web viewer for Bazaar
+lokalize (4:4.8.4+dfsg-1)
+    computer-aided translation system
+lttv-dev (0.12.38-21032011-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.12.38-21032011-1 [armhf, s390x])
+    Linux Trace Toolkit Viewer (development files)
+lua5.1-policy-dev (33)
+    Lua 5.1 Debian policy - template and scripts
+make (3.81-8.2)
+    An utility for Directing compilation.
+makedumpfile (1.4.3-1)
+    VMcore extraction tool
+matlab-support (0.0.18) [contrib]
+    distro integration for local MATLAB installations
+matlab-support-dev (0.0.18)
+    helpers for packages building MATLAB toolboxes
+mauve (20120103-1)
+    free test suite for the Java Class libraries
+mcpp (2.7.2-1.1)
+    Alternative C/C++ preprocessor
+mdbtools-dev (0.7-1+deb7u1)
+    mdbtools development files
+menhir (20120123.dfsg-1)
+    Parser generator for OCaml
+mercurial-server (1.2-2)
+    shared Mercurial repository service
+mffm-fftw-dev (1.7-3)
+    A C++ wrapper for the fftw.org C library (version 3)
+mic2 (0.24.12-1)
+    Image creator tool for MeeGo
+mig (1.3.1.99.git20120630-1)
+    GNU Mach Interface Generator
+mingw-w64 (2.0.3-1)
+    Development environment targetting 32- and 64-bit Windows
+mingw-w64-dev (2.0.3-1)
+    Development files for MinGW-w64 (transitional package)
+mingw-w64-i686-dev (2.0.3-1)
+    Development files for MinGW-w64 targeting Win32
+mingw-w64-tools (2.0.3-1)
+    Development tools for 32- and 64-bit Windows
+mingw-w64-x86-64-dev (2.0.3-1)
+    Development files for MinGW-w64 targeting Win64
+mingw32 (4.2.1.dfsg-2)
+    Minimalist GNU win32 (cross) compiler
+mingw32-binutils (2.20-0.2)
+    Minimalist GNU win32 (cross) binutils
+mingw32-runtime (3.13-1)
+    Minimalist GNU win32 (cross) runtime
+mini-dinstall (0.6.29)
+    daemon for updating Debian packages in a repository
+minpack-dev (19961126+dfsg1-1)
+    nonlinear equations and nonlinear least squares static library
+mkelfimage (2.7-7)
+    utility to create ELF boot images from Linux kernel images
+mklibs (0.1.34)
+    Shared library reduction script
+mklibs-copy (0.1.34)
+    Shared library reduction script
+ml-burg (110.74-2)
+    Code generator generator for Standard ML
+ml-lex (110.74-2)
+    Lexical analyzer generator for Standard ML
+ml-lpt (110.74-2)
+    SML/NJ language processing tools
+ml-nlffigen (110.74-2)
+    ML generator for C glue code
+ml-yacc (110.74-2)
+    Parser generator for Standard ML
+mlton (20100608-5)
+    Optimizing compiler for Standard ML
+mlton-basis (20100608-5)
+    Optimizing compiler for Standard ML - basis library
+mlton-compiler (20100608-5)
+    Optimizing compiler for Standard ML - compiler
+mlton-runtime-arm-linux-gnueabi (20100608-5)
+    Optimizing compiler for Standard ML - armel runtime libraries
+mlton-runtime-arm-linux-gnueabihf (20100608-5)
+    Optimizing compiler for Standard ML - armhf runtime libraries
+mlton-runtime-i486-kfreebsd-gnu (20100608-5)
+    Optimizing compiler for Standard ML - kfreebsd-i386 runtime libraries
+mlton-runtime-i486-linux-gnu (20100608-5)
+    Optimizing compiler for Standard ML - i386 runtime libraries
+mlton-runtime-ia64-linux-gnu (20100608-5)
+    Optimizing compiler for Standard ML - ia64 runtime libraries
+mlton-runtime-mips-linux-gnu (20100608-5)
+    Optimizing compiler for Standard ML - mips runtime libraries
+mlton-runtime-mipsel-linux-gnu (20100608-5)
+    Optimizing compiler for Standard ML - mipsel runtime libraries
+mlton-runtime-native (20100608-5)
+    Optimizing compiler for Standard ML - native runtime libraries
+mlton-runtime-powerpc-linux-gnu (20100608-5)
+    Optimizing compiler for Standard ML - powerpc runtime libraries
+mlton-runtime-s390-linux-gnu (20100608-5)
+    Optimizing compiler for Standard ML - s390 runtime libraries
+mlton-runtime-sparc-linux-gnu (20100608-5)
+    Optimizing compiler for Standard ML - sparc runtime libraries
+mlton-runtime-x86-64-kfreebsd-gnu (20100608-5)
+    Optimizing compiler for Standard ML - kfreebsd-amd64 runtime libraries
+mlton-runtime-x86-64-linux-gnu (20100608-5)
+    Optimizing compiler for Standard ML - amd64 runtime libraries
+mlton-tools (20100608-5)
+    Optimizing compiler for Standard ML - tools
+mm-common (0.9.5-1)
+    Common build files of the GNOME C++ bindings
+mmake (2.3-5.1)
+    Makefile generator for Java programs
+moap (0.2.7-1)
+    Swiss army knife for project maintainers and developers
+mono-2.0-gac (2.10.8.1-8+deb7u1) [security]
+    Mono GAC tool (for CLI 2.0)
+mono-2.0-service (2.10.8.1-8+deb7u1) [security]
+    Mono service manager for CLI 2.0
+mono-dbg (2.10.8.1-8+deb7u1) [security]
+    Mono debugging symbols
+mono-gac (2.10.8.1-8+deb7u1) [security]
+    Mono GAC tool
+mono-gmcs (2.10.8.1-8+deb7u1) [security]
+    Mono C# 2.0 and C# 3.0 compiler for CLI 2.0
+mono-jay (2.10.8.1-8+deb7u1) [security]
+    LALR(1) parser generator oriented to Java/CLI
+mono-mcs (2.10.8.1-8+deb7u1) [security]
+    Mono C# 2.0 / 3.0 / 4.0 compiler for CLI 2.0 / 4.0
+mono-utils (2.10.8.1-8+deb7u1) [security]
+    Mono utilities
+mono-xbuild (2.10.8.1-8+deb7u1) [security]
+    MSBuild-compatible build system for Mono
+monodevelop-debugger-gdb (3.0.3.2-1)
+    GNU Debugger plugin for MonoDevelop
+monodevelop-monogame (2.5.1+dfsg-3)
+    Free implementation of XNA - IDE integration
+monodoc-base (2.10.8.1-8+deb7u1) [security]
+    shared MonoDoc binaries
+monodoc-http (2.10-6)
+    MonoDoc http based viewer
+monodoc-manual (2.10.8.1-8+deb7u1) [security]
+    compiled XML documentation from the Mono project
+mozart (1.4.0-8)
+    Mozart Programming System
+mozart-stdlib (20060615-6)
+    The Mozart Programming System (Standard Library)
+mozilla-devscripts (0.32)
+    Development scripts used by Mozilla's addons packages
+mpc-ace (6.0.3+dfsg-0.1)
+    makefile, project, and workspace creator
+mpich2 (1.4.1-4.2)
+    Implementation of the MPI Message Passing Interface standard
+mscgen (0.20-2)
+    Message Sequence Chart (MSC) generator
+msp430-libc (20120224-1)
+    Standard C library for TI MSP430 development
+msp430mcu (20120406-2)
+    Spec files, headers and linker scripts for TI's MSP430 targets
+mtasc (1.14-2+b5 [ia64, mips, mipsel, s390], 1.14-2+b4 [armel], 1.14-2+b1 [powerpc], 1.14-2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, s390x, sparc])
+    ActionScript 2 to Flash (SWF) compiler
+mummy (1.0.2-5)
+    command line executable that generates C# wrappers from gccxml output
+muroard-dev (0.1.10-2)
+    minimalist RoarAudio sound daemon (development files)
+mutextrace (0.1-1)
+    Lock debugging tool
+mwrap (0.33-1)
+    Octave/MATLAB mex generator
+nana (2.5-12+deb7u1)
+    improved support for assertions and logging in C/C++
+nant (0.92~rc1+dfsg-2)
+    build tool similar to Ant
+nasm (2.10.01-1)
+    General-purpose x86 assembler
+naturaldocs (1.51-1)
+    an extensible, multi-language documentation generator
+ncc (2.8-1)
+    C source code analyzer
+network-manager-dev (0.9.4.0-10)
+    network management framework (development files)
+newlib-m68hc1x (1.18.0-6.2)
+    newlib C library (Motorola 68HC11/12)
+newlib-source (1.18.0-6.2)
+    newlib C library (source)
+newlib-spu (1.18.0-6.2)
+    newlib C library (Cell/BE SPU)
+nih-dbus-tool (1.0.3-4.1)
+    NIH D-Bus Binding Tool
+nml (0.2.3-1)
+    newgrf meta language compiler
+notion-dev (3+2012042300-1) [non-free]
+    Notion development files
+noweb (2.11b-7.1)
+    A WEB-like literate-programming tool
+nowebm (2.11b-7.1)
+    A WEB-like literate-programming tool - transitional package
+nowhere (110.74-2)
+    Translates programs from an extended Standard ML to Standard ML
+nqc (3.1.r6-1)
+    Not Quite C compiler for LEGO Mindstorms RCX
+nsis (2.46-7)
+    Nullsoft Scriptable Install System (modified for Debian)
+nsis-common (2.46-7)
+    Nullsoft Scriptable Install System stubs and plugins
+nsis-pluginapi (2.46-7)
+    Nullsoft Scriptable Install System plugin API
+nunit (2.6.0.12051+dfsg-2)
+    Unit test framework for CLI
+nunit-console (2.6.0.12051+dfsg-2)
+    Unit test framework for CLI - Console test runner
+nunit-gui (2.6.0.12051+dfsg-2)
+    Unit test framework for CLI - GUI test runner
+nvidia-cg-toolkit (3.1.0013-1) [non-free]
+    Cg Toolkit - GPU Shader Authoring Language
+nvidia-cuda-gdb (4.2.9-2) [non-free]
+    NVIDIA CUDA GDB
+nvidia-cuda-toolkit (4.2.9-2) [non-free]
+    NVIDIA CUDA toolkit
+nvidia-visual-profiler (4.2.9-2) [non-free]
+    NVIDIA Visual Profiler
+nypatchy (20061220+dfsg3-2)
+    CERNLIB data analysis suite - patch pre-processor for source code
+oathtool (1.12.4-1)
+    OATH Toolkit oathtool command line tool
+ocamlviz (1.01-2+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.01-2 [armhf, s390x])
+    real-time profiling tools for Objective Caml (clients)
+ocfs2-tools-dev (1.6.4-1+deb7u1)
+    tools for managing OCFS2 cluster filesystems - development files
+octave-pkg-dev (1.0.2)
+    infrastructure to build Octave packages
+ofono-phonesim (1.17-1)
+    Modem emulator used by the oFono mobile telephony stack
+ogre-1.8-tools (1.8.0+dfsg1-3)
+    3D Object-Oriented Graphics Rendering Engine (tools)
+ogre-tools (1.7.4+dfsg1-7)
+    3D Object-Oriented Graphics Rendering Engine (tools)
+okteta-dev (4:4.8.4+dfsg-1)
+    Development files for Okteta
+omniidl (4.1.6-2)
+    omniORB IDL to C++ and Python compiler
+omniorb (4.1.6-2)
+    IOR and naming service utilities for omniORB
+omniorb-idl (4.1.6-2)
+    omniORB CORBA services idl files
+omniorb-nameserver (4.1.6-2)
+    omniORB naming service
+opalmod (0.2.1)
+    A set of Perl modules for various tasks
+opari (1.1+dfsg-2)
+    OpenMP Pragma And Region Instrumentor - translation tool
+open-cobol (1.1-1)
+    COBOL compiler
+open-vm-tools-dev (2:8.8.0+2012.05.21-724730-1+nmu2)
+    tools and components for VMware guest systems (development)
+openjdk-6-dbg (6b34-1.13.6-1~deb7u1 [amd64, armel, armhf, i386, ia64, mipsel, powerpc, s390x], 6b33-1.13.5-2~deb7u1 [mips], 6b27-1.12.6-1~deb7u1 [s390, sparc]) [security]
+    Java runtime based on OpenJDK (debugging symbols)
+openjdk-6-demo (6b34-1.13.6-1~deb7u1 [amd64, armel, armhf, i386, ia64, mipsel, powerpc, s390x], 6b33-1.13.5-2~deb7u1 [mips], 6b27-1.12.6-1~deb7u1 [s390, sparc]) [security]
+    Java runtime based on OpenJDK (demos and examples)
+openjdk-6-jdk (6b34-1.13.6-1~deb7u1 [amd64, armel, armhf, i386, ia64, mipsel, powerpc, s390x], 6b33-1.13.5-2~deb7u1 [mips], 6b27-1.12.6-1~deb7u1 [s390, sparc]) [security]
+    OpenJDK Development Kit (JDK)
+openjdk-6-source (6b34-1.13.6-1~deb7u1) [security]
+    OpenJDK Development Kit (JDK) source files
+openscenegraph (3.0.1-4)
+    3D scene graph, utilities and examples (binaries)
+openscenegraph-examples (3.0.1-4)
+    3D scene graph, examples (sources)
+openscenegraph-plugin-citygml-shared (0.14+svn128-1+3p0p1+4)
+    libcitygml OpenSceneGraph plugin (shared version)
+openscenegraph-plugin-citygml-static (0.14+svn128-1+3p0p1+4)
+    libcitygml OpenSceneGraph plugin (static version)
+opt (3.19-1.1)
+    Options Parsing Tool library
+orbit2 (1:2.14.19-0.1)
+    a CORBA ORB
+orbit2-nameserver (1:2.14.19-0.1)
+    a CORBA name server
+osc (0.134.1-2)
+    OpenSUSE (buildsystem) commander
+osgearth (2.0+dfsg-4+b3 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 2.0+dfsg-4+b2 [s390x])
+    Dynamic 3D terrain rendering toolkit for OpenSceneGraph (binaries)
+osgearth-data (2.0+dfsg-4)
+    Dynamic 3D terrain rendering toolkit for OpenSceneGraph (data)
+oss4-dev (4.2-build2006-2+deb7u1)
+    Open Sound System - development files
+pacemaker-dev (1.1.7-1)
+    HA cluster resource manager (development files)
+pandora-build (0.98-1.1)
+    Build macros for libdrizzle, libmemcached, drizzle and gearmand
+parrot-devel (4.0.0-3)
+    Parrot development tools
+parser3-dev (3.4.2-2)
+    Files for Parser 3 module development
+pasmo (0.5.3-6)
+    easy to use Z80 cross-assembler
+paxtest (1:0.9.9-1)
+    Test suite for the PaX kernel patch
+pbbuttonsd-dev (0.7.9-2)
+    Development files for PBButtons
+pbuilder (0.213)
+    personal package builder for Debian packages
+pbuilder-uml (0.213)
+    user-mode-linux version of pbuilder
+pccts (1.33MR33-6)
+    The Purdue Compiler Construction Tool Set (PCCTS).
+pdebuild-cross (2.2.19)
+    cross-building support for pbuilder
+pentium-builder (0.19)
+    force pentium optimized compilation
+perl-byacc (2.0-7)
+    Berkeley LALR parser generator, Perl version
+perl-depends (2011.0324+git74d587e-1)
+    roughly find out module depends from a perl file
+perlconsole (0.4-4)
+    small program that lets you evaluate Perl code interactively
+perltidy (20101217-1)
+    Perl script indenter and reformatter
+php5-dbg (5.4.39-0+deb7u2) [security]
+    Debug symbols for PHP5
+php5-dev (5.4.39-0+deb7u2) [security]
+    Files for PHP5 module development
+pida (0.5.1-6)
+    Python Integrated Development Application, a Python IDE
+pidgin-dev (2.10.10-1~deb7u1)
+    multi-protocol instant messaging client - development files
+piuparts (0.45)
+    .deb package installation, upgrading, and removal testing tool
+piuparts-common (0.45)
+    common piuparts components
+piuparts-master (0.45)
+    piuparts master components
+piuparts-slave (0.45)
+    piuparts slave components
+pkg-components (0.4)
+    debhelper tool to help maintain bundles
+pkg-config (0.26-1+b1 [armhf, s390x], 0.26-1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc])
+    manage compile and link flags for libraries
+pkg-kde-tools (0.15.3)
+    various packaging tools and scripts for KDE Applications
+pkglab (1.4.2-13+b2 [ia64, mips, mipsel, s390], 1.4.2-13+b1 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, s390x, sparc])
+    interactive environment to explore package repositories
+pleiades (1.3.4~I20120531-dfsg-2+deb7u1)
+    Japanese Language package for Eclipse using Dynamic AOP, Pleiades
+plptools-dev (1.0.9-2.4)
+    plptools (development files)
+pmake (1.111-3.2)
+    NetBSD make
+pmccabe (2.6)
+    McCabe-style function complexity and line counting for C and C++
+pmk (0.10.4-1)
+    utility to configure software sources
+po-debconf (1.0.16+nmu2)
+    tool for managing templates file translations with gettext
+portaudio19-dev (19+svn20111121-1)
+    Portable audio I/O - development files
+posixtestsuite (1.5.2-4)
+    POSIX conformance test suite report log
+postfix-dev (2.9.6-2)
+    Loadable modules development environment for Postfix
+poxml (4:4.8.4+dfsg-1)
+    tools for translating DocBook XML files with Gettext
+ppl-dev (0.11.2-8)
+    Parma Polyhedra Library (development binaries)
+ppp-dev (2.4.5-5.1+deb7u1)
+    Point-to-Point Protocol (PPP) - development files
+pps-tools (0.20120406+g0deb9c7e-2)
+    LinuxPPS support tools and headers
+prctl (1.5-1)
+    Process control operations
+premake (3.7-1)
+    A build script generator
+preprocess (1.1.0+ds-1)
+    portable multi-language file preprocessor
+pretzel (2.0n-2-0.3)
+    Prettyprinter generator for noweb
+proguard (4.4-2)
+    java class file shrinker, optimizer, and obfuscator
+protobuf-c-compiler (0.14-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.14-1 [armhf, s390x])
+    protocol buffers C compiler
+protobuf-compiler (2.4.1-3)
+    compiler for protocol buffer definition files
+protoize (1:4.4.7-2)
+    Create/remove ANSI prototypes from C code
+pstack (1.3.1-1)
+    Display stack trace of a running process
+pvm (3.4.5-12.5)
+    Parallel Virtual Machine - binaries
+pvm-dev (3.4.5-12.5)
+    Parallel Virtual Machine - development files
+pvm-examples (3.4.5-12.5)
+    Parallel Virtual Machine - examples
+pxsl-tools (1.0-5)
+    Parsimonious XML Shorthand Language
+pychecker (0.8.19-5)
+    tool to find common bugs in Python source code
+pydb (1.26-1)
+    An enhanced Python command-line debugger
+pythia8-examples (8.1.65-1)
+    Example source files of PYTHIA8
+pythia8-root-interface (8.1.65-1)
+    Interfaces to call ROOT functions in PYTHIA8 code
+python-debian (0.1.21)
+    Python modules to work with Debian-related data formats
+python-plwm (2.6a+20080530-1.1)
+    Pointless Window Manager - Python libraries for creating Window Managers
+python-rope (0.9.2-1)
+    Python refactoring library
+python-ropemacs (0.6c2-4)
+    Emacs mode for Python refactoring
+python-sigmask (2.4.1-1+b3 [amd64, armel], 2.4.1-1+b2 [i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 2.4.1-1 [armhf, s390x])
+    module for saving and restoring the signal mask.
+pythoncard (0.8.2-2)
+    wxPython-based GUI construction framework (meta-package)
+pythoncard-tools (0.8.2-2)
+    wxPython-based GUI construction framework (optional development tools)
+q-tools (0.4-1) [contrib]
+    quick and easy performance analysis tools (ia64, 2.6 kernel only)
+qconf (1.4-3)
+    Nice configure script for your qmake-based project
+qmtest (2.4.1-1)
+    A Testing Framework (part of the Quality Management Toolset (QM))
+qt-assistant-compat (4.6.3-4)
+    Qt Assistant compatibility binary (legacy)
+qt-sdk (2)
+    Complete Qt Software Development Kit
+qt4-designer (4:4.8.2+dfsg-11)
+    graphical designer for Qt 4 applications
+qt4-dev-tools (4:4.8.2+dfsg-11)
+    Qt 4 development tools
+qt4-linguist-tools (4:4.8.2+dfsg-11)
+    Qt 4 Linguist tools
+qt4-qmake (4:4.8.2+dfsg-11)
+    Qt 4 qmake Makefile generator tool
+qt4-qmlviewer (4:4.8.2+dfsg-11)
+    Qt 4 QML viewer
+qtcreator (2.5.0-2)
+    lightweight integrated development environment (IDE) for Qt
+qtscript-tools (0.2.0-1)
+    tools for QtScript developers
+quantlib-examples (1.2-2+b1)
+    Quantitative Finance Library -- example binaries
+quantlib-refman-html (1.2-1)
+    Quantitative Finance Library -- reference manual in html
+rabbitsign (2.1+dmca1-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 2.1+dmca1-1 [armhf, s390x])
+    application signing system for the TI-73/83+/84+ calculators
+radare2 (0.9-3)
+    free and advanced command line hexadecimal editor
+radare2-vala (0.9-1)
+    Vala bindings for radare2
+ragel (6.7-1.1)
+    compiles finite state machines into code in various languages
+ratfor (1.0-15+b1 [armel, ia64], 1.0-15 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Rational Fortran preprocessor for Fortran 77
+rcs-blame (1.3.1-2)
+    display the last modification for each line in an RCS file
+re2c (0.13.5-1)
+    tool for generating fast C-based recognizers
+rebuildd (0.4.1.1)
+    build daemon aiming at rebuilding Debian packages
+regexxer (0.9-2.1)
+    A visual search and replace tool
+remake (3.81+dbg0.2~dfsg.1-1)
+    GNU make fork with improved error reporting and debugging
+root-macro-fastjet (3.0.2+dfsg-2)
+    FastJet macro for CERN ROOT
+rtai (3.8.1-4)
+    Real Time Application Interface
+ruby-dev (1:1.9.3)
+    Header files for compiling extension modules for Ruby (default version)
+ruby-dev
+    virtual package provided by ruby1.8-dev
+ruby1.8-dev (1.8.7.358-7.1+deb7u2) [security]
+    Header files for compiling extension modules for the Ruby 1.8
+runsnakerun (2.0.2a1-2)
+    GUI utility for (Python) cProfile or Profile profiler dumps
+rygel-1.0-dev (0.14.3-2+deb7u1)
+    GNOME UPnP/DLNA services - plugin development files
+samba-dbg (2:3.6.6-6+deb7u5) [security]
+    Samba debugging symbols
+samba4-dev (4.0.0~beta2+dfsg1-3.2+deb7u2)
+    tools for extending Samba
+sbuild (0.63.2-1.1)
+    Tool for building Debian binary packages from Debian sources
+scala (2.9.2+dfsg-1)
+    Scala programming language
+scala-library (2.9.2+dfsg-1)
+    Scala standard library
+scalapack-test-common (1.8.0-9)
+    Test data for ScaLAPACK testers
+scim-dev (1.4.13-5)
+    development files for SCIM platform
+scons (2.1.0-1)
+    replacement for make
+sdlbasic (0.0.20070714-4)
+    BASIC interpreter for game development
+seivot (1.17-1)
+    benchmark program for backup software
+sfc (1.0.0.dfsg-1)
+    SyFi Form Compiler
+sfftw-dev (2.1.5-1+b1 [armel, armhf, mips, mipsel, s390, s390x, sparc], 2.1.5-1 [amd64, i386, ia64, kfreebsd-amd64, kfreebsd-i386, powerpc])
+    library for computing Fast Fourier Transforms
+shake (1.0.1-7)
+    Testing engine for the Lua language version 5.1
+shapetools (1.4pl6-11)
+    Configuration and Release management using AtFS
+shiboken (1.1.1-1)
+    CPython bindings generator for C++ libraries
+shrinksafe (1.7.2-1)
+    JavaScript "compression" system
+shtool (2.0.8-6)
+    portable shell tool from the GNU project
+shunit2 (2.1.6-1)
+    unit test framework for Bourne based shell scripts
+similarity-tester (2.62-1)
+    Find lexical similarities between files
+siscone-examples (2.0.5-1)
+    Seedless Infrared Safe Cone jet finder - example files
+slimit (0.7.4-1)
+    JavaScript minifier/parser in Python
+sloccount (2.26-5)
+    programs for counting physical source lines of code (SLOC)
+sludge-compiler (2.2-1)
+    Compiler for SLUDGE adventure games
+sludge-devkit (2.2-1)
+    Development tools for creating SLUDGE adventure games
+slurm-llnl-basic-plugins-dev (2.3.4-2+b1)
+    SLURM basic plugins development files
+smlnj (110.74-2)
+    Standard ML of New Jersey interactive compiler
+smlnj-runtime (110.74-2)
+    Standard ML of New Jersey runtime system
+smoke-dev-tools (4:4.8.4-1)
+    SMOKE development tools
+snacc (1.3.1-1)
+    ASN.1 to C or C++ or IDL compiler
+source-highlight (3.1.6-1.1)
+    convert source code to syntax highlighted document
+spark (2011.0.deb-5)
+    SPARK programming language toolset
+sparse (0.4.3+20110419-1) [non-free]
+    semantic parser of source files
+spectacle (0.22-1)
+    RPM Spec file generator and management tool
+spl-core (1.0~pre6-3.1+b1)
+    SPL Programming Language
+spl-dev (1.0~pre6-3.1+b1)
+    SPL Programming Language -- development files
+spl-sdl (1.0~pre6-3.1+b1)
+    SPL Programming Language -- SDL adapter
+spl-xml (1.0~pre6-3.1+b1)
+    SPL Programming Language -- XML adapter
+splint (3.1.2.dfsg1-2)
+    tool for statically checking C programs for bugs
+splint-data (3.1.2.dfsg1-2)
+    tool for statically checking C programs for bugs - data files
+spyder (2.1.10-2)
+    python IDE for scientists
+squeak-plugins-scratch (1.4.0.2~svn.r83-1)
+    Squeak plugins for the Scratch programming environment
+stress (1.0.1-1+b1 [armel], 1.0.1-1 [amd64, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    A tool to impose load on and stress test a computer system
+styx (1.8.0-1.1)
+    combined parser/scanner generator for C/C++
+styx-dev (1.8.0-1.1)
+    combined parser/scanner generator development files
+subunit (0.0.8+bzr176-1)
+    command line tools for processing Subunit streams
+sup (20100519-1)
+    Software Upgrade Protocol implementation
+svn-all-fast-export (1.0.5-1)
+    fast-import based converter to convert repos from svn to git
+sweep-dev (0.9.3-6)
+    Audio editor and live playback tool (development)
+synopsis (0.12-8)
+    source-code Introspection Tool
+synopsis-idl (0.12-8)
+    IDL parser for synopsis
+sysconftool (0.16-1)
+    development tool to install and update configuration files
+sysprof (1.1.8-2)
+    system-wide Linux profiler
+system-tools-backends-dev (2.10.2-1)
+    System Tools to manage computer configuration -- development files
+systemtap (1.7-1+deb7u1)
+    instrumentation system for Linux
+systemtap-client (1.7-1+deb7u1)
+    instrumentation system for Linux (client for compile server)
+systemtap-common (1.7-1+deb7u1)
+    instrumentation system for Linux (common component)
+systemtap-grapher (1.7-1+deb7u1)
+    instrumentation system for Linux (grapher)
+systemtap-runtime (1.7-1+deb7u1)
+    instrumentation system for Linux (runtime component)
+systemtap-sdt-dev (1.7-1+deb7u1)
+    statically defined probes development files
+systemtap-server (1.7-1+deb7u1)
+    instrumentation system for Linux (compile server)
+tads2-dev (1:0.13-2) [non-free]
+    TADS version 2 development tools
+tads3-dev (1:0.13-2) [non-free]
+    TADS version 3 development tools
+tau (2.16.4-1.4+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 2.16.4-1.4 [armhf, s390x])
+    Tuning and Analysis Utilities - base profiling toolkit
+tau-examples (2.16.4-1.4)
+    Tuning and Analysis Utilities - examples
+tau-racy (2.16.4-1.4)
+    Tuning and Analysis Utilities - Tcl/tk profiler GUI
+tcc (0.9.26~git20120612.ad5f375-6)
+    small ANSI C compiler
+tcl8.4-dev (8.4.19-5)
+    Tcl (the Tool Command Language) v8.4 - development files
+tcl8.5-dev (8.5.11-2)
+    Tcl (the Tool Command Language) v8.5 - development files
+tclx8.4-dev (8.4.0-3)
+    Extended Tcl (TclX) - development package
+teseq (1.0.0-2.1)
+    utility for rendering terminal typescripts human-readable
+tfdocgen (1.0-1)
+    TiLP framework documentation generator
+ticgit (1.0.2.11-2)
+    ticketing system built on Git
+ticgitweb (1.0.2.11-2)
+    web interface to ticgit
+tix-dev (8.4.3-4)
+    The Tix library for Tk -- development package
+tk-dev (8.5.0-2.1)
+    The Tk toolkit for Tcl and X11 (default version) - development files
+tk8.4-dev (8.4.19-5)
+    Tk toolkit for Tcl and X11, v8.4 - development files
+tk8.5-dev (8.5.11-2)
+    Tk toolkit for Tcl and X11, v8.5 - development files
+tkpng (0.9-1)
+    PNG photo image support to Tcl/Tk
+tktreectrl (2.2.8-1)
+    flexible listbox widget for Tcl/Tk
+tmake (1.8-1.1)
+    a cross-platform makefile tool
+tuxpaint-dev (1:0.9.21-1.1)
+    Development files for Tux Paint
+ubuntu-dev-tools (0.143)
+    useful tools for Ubuntu developers
+ucblogo (5.5-2.1)
+    a dialect of lisp using turtle graphics famous for teaching kids
+uclibc-source (0.9.32-1)
+    Small C library implementation - source
+ufc (2.0.5-3)
+    unified code generation interface for form-compilers
+umbrello (4:4.8.4+dfsg-1)
+    UML modelling tool and code generator
+umlet (11.3-5)
+    simple, text driven UML drawing tool
+uncrustify (0.59-2)
+    C, C++, C#, D, Java and Pawn source code beautifier
+undertaker (1.3b-1)
+    static code analysis tool checking preprocessor directives
+undertaker-el (1.3b-1)
+    emacs integration for undertaker
+unifdef (2.6-1)
+    Remove cpp '#ifdef' lines from files
+universalindentgui (1.2.0-1)
+    GUI frontend for several code beautifiers
+unixodbc-dev (2.2.14p2-5)
+    ODBC libraries for UNIX (development files)
+ure-dbg (3.5.4+dfsg2-0+deb7u3 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 3.5.4+dfsg2-0+deb7u2 [ia64]) [security]
+    LibreOffice UNO runtime environment -- debug symbols
+uthash-dev (1.9.5-1)
+    Hash table and linked list for C structures
+uuagc (0.9.40.3-2)
+    compiler for the Utrecht University Attribute Grammar system
+uuidcdef (0.3.13-3)
+    Universally Unique Identifier (UUID) generator
+vala-dbus-binding-tool (0.3.3~git20110523-2)
+    Vala binding-generator for xml introspection files
+vala-gen-project (0.12.1-3)
+    Vala project generator
+valabind (0.6.4-1)
+    convert vapi files to SWIG, C++, GIR or GEAR files
+valac (0.16.1-2)
+    C# like language for the GObject system
+valac-0.14 (0.14.2-2)
+    C# like language for the GObject system
+valac-0.16 (0.16.1-2)
+    C# like language for the GObject system
+valac-0.16-vapi (0.16.1-2)
+    C# like language for the GObject system - vapi files
+valadoc (0.3.2~git20120227-1)
+    API documentation generator for vala
+valgrind (1:3.7.0-6)
+    instrumentation framework for building dynamic analysis tools
+valgrind-mpi (1:3.7.0-6)
+    instrumentation framework for building dynamic analysis tools (MPI module)
+valkyrie (2.0.0-1)
+    open-source graphical user interface for the Valgrind
+vdkbuilder2 (2.4.0-4.3)
+    RAD for VDK
+vflib3-bin (3.6.14.dfsg-3+b1)
+    Sample programs using VFlib3
+vim-syntax-go (2:1.0.2-1.1)
+    Go programming language - Vim highlighting syntax files
+virtualbox-ose-dbg (4.1.18-dfsg-2+deb7u4) [security]
+    transitional package for virtualbox-dbg
+visual-regexp (3.1-3)
+    Interactively debug regular expressions
+vite (1.2+svn1347-3)
+    Efficient visual trace explorer
+websvn (2.3.3-1.1+deb7u1) [security]
+    interface for Subversion repositories written in PHP
+weechat-dev (0.3.8-1+deb7u1)
+    Fast, light and extensible chat client - developement headers
+wireshark-dev (1.8.2-5wheezy15) [security]
+    network traffic analyzer - development tools
+witty-dev (3.2.1-2+deb7u1)
+    C++ library for webapps [devel] (transition package)
+witty-dev
+    virtual package provided by libwtdbopostgres-dev, libwtdbofirebird32, libwttest-dev, libwthttp-dev, libwtext-dev, libwtdbofirebird-dev, libwtdbosqlite32, libwt-dev, libwtdbo32, libwtdbopostgres32, libwtdbo-dev, libwtdbosqlite-dev, libwtfcgi-dev
+wordnet-dev (1:3.0-29)
+    electronic lexical database of English language (development library)
+wx-common (2.8.12.1-12)
+    wxWidgets Cross-platform C++ GUI toolkit (common support files)
+wx2.8-examples (2.8.12.1-12)
+    wxWidgets Cross-platform C++ GUI toolkit (examples)
+wx2.8-headers (2.8.12.1-12)
+    wxWidgets Cross-platform C++ GUI toolkit (header files)
+wyg (1.1.3.0.debian.1-5)
+    (Where's Your Grammar?) command line parser generator
+xa65 (2.3.5-1+b1 [armel, ia64, powerpc], 2.3.5-1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390, s390x, sparc])
+    cross-assembler and utility suite for 65xx/65816 processors
+xapt (2.2.19)
+    retrieve, build and install libraries for cross-compiling
+xaw3dg-dev (1.5+E-18.2)
+    Xaw3d widget set development package
+xdeb (0.6.6)
+    Cross-build tool for Debian packages
+xenomai-runtime (2.6.0-2)
+    Xenomai runtime utilities
+xmhtml1-dev (1.1.7-18)
+    Motif widget for display HTML 3.2 (development files)
+xmlcopyeditor (1.2.0.6-2+b1)
+    fast, free, validating XML editor
+xmlindent (0.2.17-2)
+    XML stream reformatter
+xmlrpc-api-utils (1.16.33-3.2)
+    Generate C++ wrapper classes for XML-RPC servers
+xmltoman (0.4-3)
+    simple XML to man converter
+xmpi (2.2.3b8-13)
+    Graphical user interface for MPI program development
+xsdcxx (3.3.0.1-1.3)
+    XML Data Binding for C++
+xul-ext-webdeveloper (1.1.9-5)
+    web developer extension for the Iceweasel/Firefox web browser
+xviewg-dev (3.2p1.4-28.1)
+    XView development tools
+xxgdb (1.12-17)
+    An X front-end to the GNU debugger gdb
+yap (5.1.3-6)
+    High-performance Prolog System
+yasm (1.1.0-1)
+    modular assembler with multiple syntaxes support
+z80asm (1.8-1)
+    assembler for the Zilog Z80 microprocessor
+z80dasm (1.1.3-1)
+    disassembler for the Zilog Z80 microprocessor
+z88dk (1.8.ds1-10)
+    Z80 processor assembler and SmallC+ cross compiler
+z88dk-bin (1.8.ds1-10)
+    executable files for z88dk
+z88dk-data (1.8.ds1-10)
+    data files for z88dk
+zeroc-ice34 (3.4.2-8.2)
+    Internet Communications Engine
+zeroc-icee (1.2.0-6.1)
+    Embedded edition of the ZeroC Ice
+zshdb (0.05+git20101031-2)
+    debugger for Z-Shell scripts
+zzuf (0.13.svn20100215-4)
+    transparent application fuzzer 

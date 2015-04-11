@@ -1,0 +1,846 @@
+abook (0.6.0~pre2-3)
+    text-based ncurses address book application
+addresses-goodies-for-gnustep (0.4.7-1+b5 [amd64, i386], 0.4.7-1+b4 [armel, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.4.7-1 [armhf, s390x])
+    Personal Address Manager for GNUstep (Goodies)
+alpine (2.02+dfsg-2)
+    Text-based email client, friendly for novices but powerful
+altermime (0.3.10-7)
+    utility used to alter mime-encoded mailpacks
+amavisd-milter (1.5.0-5)
+    amavisd-new interface for milter-capable MTAs
+amavisd-new (1:2.7.1-2)
+    Interface between MTA and virus scanner/content filters
+archivemail (0.9.0-1)
+    archive and compress or delete your old email
+archmbox (4.10.0-2)
+    a simple email archiver written in perl
+asmail (2.1-3)
+    AfterStep mail monitor
+bbdb (2.36-3)
+    The Insidious Big Brother Database (email rolodex) for Emacs
+bbmail (0.8.3-6)
+    Mail notifier for Blackbox/Fluxbox
+biabam (0.9.7-7)
+    bash attachment mailer
+biff (1:0.17.pre20000412-5)
+    a mail notification tool
+bley (0.1.5-2)
+    intelligent greylisting daemon for Postfix
+bmf (0.9.4-9)
+    e-mail filter for spam that learns
+bogofilter (1.2.2+dfsg1-2)
+    fast Bayesian spam filter (dummy package)
+bogofilter-bdb (1.2.2+dfsg1-2)
+    fast Bayesian spam filter (Berkeley DB)
+bogofilter-common (1.2.2+dfsg1-2)
+    fast Bayesian spam filter (common files)
+bogofilter-sqlite (1.2.2+dfsg1-2)
+    fast Bayesian spam filter (sqlite)
+bogofilter-tokyocabinet (1.2.2+dfsg1-2)
+    fast Bayesian spam filter (tokyocabinet)
+bsd-mailx (8.1.2-0.20111106cvs-1+deb7u1)
+    simple mail user agent
+bsfilter (1:1.0.17-3)
+    Bayesian spam filter
+buffy (1.5-1)
+    Heavy duty browser for mail folders
+buffycli (0.7-1)
+    Text mode alternative to Buffy
+c-sig (3.8-17)
+    signature tool for GNU Emacs
+calendar-timezones (17.0.10-1~deb7u1)
+    Timezone Extension for Lightning/Iceowl (mandatory)
+calendar-timezones
+    virtual package provided by iceowl-extension
+checkgmail (1.13+svn43-3)
+    alternative Gmail Notifier for Linux via Atom feeds
+checkpw (1.02-1+deb7u1) [security]
+    checks password which is stored in ~/Maildir/.password
+chewmail (1.2-1)
+    mail archiver for various mailbox formats
+citadel-client (8.14-2)
+    complete and feature-rich groupware server (command line client)
+citadel-mta (8.14-2)
+    complete and feature-rich groupware server (mail transport agent)
+citadel-server (8.14-2)
+    complete and feature-rich groupware server
+citadel-suite (8.14-dfsg-1)
+    complete and feature-rich groupware server; metapackage for full installation
+clamassassin (1.2.4-1)
+    email virus filter wrapper for ClamAV
+clamsmtp (1.10-10)
+    virus-scanning SMTP proxy
+claws-mail (3.8.1-2)
+    Fast, lightweight and user-friendly GTK2 based email client
+claws-mail-acpi-notifier (3.8.1-2)
+    Laptop's Mail LED control for Claws Mail
+claws-mail-address-keeper (3.8.1-2)
+    Address keeper plugin for Claws Mail
+claws-mail-archiver-plugin (3.8.1-2)
+    Archiver plugin for Claws Mail
+claws-mail-attach-remover (3.8.1-2)
+    Mail attachment remover for Claws Mail
+claws-mail-attach-warner (3.8.1-2)
+    Missing attachment warnings for Claws Mail
+claws-mail-bogofilter (3.8.1-2)
+    Bogofilter plugin for Claws Mail
+claws-mail-bsfilter-plugin (3.8.1-2)
+    Spam filtering using bsfilter for Claws Mail
+claws-mail-clamd-plugin (3.8.1-2)
+    ClamAV socket-based plugin for Claws Mail
+claws-mail-fancy-plugin (3.8.1-2)
+    HTML mail viewer using GTK+ WebKit
+claws-mail-feeds-reader (3.8.1-2)
+    Feeds (RSS/Atom) reader plugin for Claws Mail
+claws-mail-fetchinfo-plugin (3.8.1-2)
+    Add X-FETCH headers plugin for Claws Mail
+claws-mail-gdata-plugin (3.8.1-2)
+    Access to GData (Google services) for Claws Mail
+claws-mail-html2-viewer (3.8.1-2)
+    HTML mail or attachment viewer for Claws Mail
+claws-mail-mailmbox-plugin (3.8.1-2)
+    mbox format mailboxes handler for Claws Mail
+claws-mail-multi-notifier (3.8.1-2)
+    Various new mail notifiers for Claws Mail
+claws-mail-newmail-plugin (3.8.1-2)
+    New mail logger plugin for Claws Mail
+claws-mail-perl-filter (3.8.1-2)
+    Message filtering plugin using perl for Claws Mail
+claws-mail-pgpinline (3.8.1-2)
+    PGP/inline plugin for Claws Mail
+claws-mail-pgpmime (3.8.1-2)
+    PGP/MIME plugin for Claws Mail
+claws-mail-python-plugin (3.8.1-2)
+    Python plugin and console for Claws Mail
+claws-mail-smime-plugin (3.8.1-2)
+    S/MIME signature/encryption handling for Claws Mail
+claws-mail-spam-report (3.8.1-2)
+    Spam reporting plugin for Claws Mail
+claws-mail-spamassassin (3.8.1-2)
+    SpamAssassin plugin for Claws Mail
+claws-mail-themes (20120129.dfsg-1)
+    Pixmap icon themes for the Claws Mail mailer
+claws-mail-tnef-parser (3.8.1-2)
+    TNEF attachment handler for Claws Mail
+claws-mail-tools (3.8.1-2)
+    Helper and utility scripts for Claws Mail mailer
+claws-mail-trayicon (3.8.1-2)
+    Notification area plugin for Claws Mail
+claws-mail-vcalendar-plugin (3.8.1-2)
+    vCalendar message handling plugin for Claws Mail
+clawsker (0.7.8-1)
+    Configuration tweaker for Claws Mail
+compface (1:1.5.2-5)
+    Compress/decompress images for mailheaders, user tools
+cone (0.89-1)
+    COnsole Newsreader and Emailer
+coolmail (1.3-11)
+    Mail notifier with 3d graphics
+courier-authdaemon (0.63.0-6+b1)
+    Courier authentication daemon
+courier-authlib (0.63.0-6+b1)
+    Courier authentication library
+courier-authlib-dev (0.63.0-6+b1)
+    Development libraries for the Courier authentication library
+courier-authlib-ldap (0.63.0-6+b1)
+    LDAP support for the Courier authentication library
+courier-authlib-mysql (0.63.0-6+b1)
+    MySQL support for the Courier authentication library
+courier-authlib-pipe (0.63.0-6+b1)
+    External authentication support for the Courier authentication library
+courier-authlib-postgresql (0.63.0-6+b1)
+    PostgreSQL support for the Courier authentication library
+courier-authlib-userdb (0.63.0-6+b1)
+    userdb support for the Courier authentication library
+courier-base (0.68.2-1)
+    Courier mail server - base system
+courier-faxmail (0.68.2-1)
+    Courier mail server - Fax<->mail gateway
+courier-filter-perl (0.200+ds-1)
+    purely Perl-based mail filter framework for the Courier MTA
+courier-imap (4.10.0-20120615-1)
+    Courier mail server - IMAP server
+courier-imap-ssl (4.10.0-20120615-1)
+    Courier mail server - IMAP over SSL
+courier-ldap (0.68.2-1)
+    Courier mail server - LDAP support
+courier-maildrop (0.68.2-1)
+    Courier mail server - mail delivery agent
+courier-mlm (0.68.2-1)
+    Courier mail server - mailing list manager
+courier-mta (0.68.2-1)
+    Courier mail server - ESMTP daemon
+courier-mta-ssl (0.68.2-1)
+    Courier mail server - ESMTP over SSL
+courier-pcp (0.68.2-1)
+    Courier mail server - PCP server
+courier-pop (0.68.2-1)
+    Courier mail server - POP3 server
+courier-pop-ssl (0.68.2-1)
+    Courier mail server - POP3 over SSL
+courier-ssl (0.68.2-1)
+    Courier mail server - SSL/TLS Support
+courier-webadmin (0.68.2-1)
+    Courier mail server - web-based administration frontend
+couriergrey (0.3.2-1)
+    Mail filter interface of Courier-MTA to support greylisting
+courierpassd (1.1.2-2)
+    Change courier user passwords using poppassd interface
+crashmail (0.71-4)
+    JAM and *.MSG capable Fidonet tosser
+crm114 (20100106-3)
+    versatile classifier for e-mail and other data
+cron-deja-vu (0.4-5)
+    filter for recurring cron mails
+cyrus-admin (2.4.16-4+deb7u2)
+    Cyrus mail system - administration tools (metapackage)
+cyrus-admin
+    virtual package provided by cyrus-admin-2.4
+cyrus-admin-2.2 (2.4.16-4+deb7u2)
+    Transitional package for cyrus-admin-2.4
+cyrus-admin-2.2
+    virtual package provided by cyrus-admin-2.4
+cyrus-admin-2.4 (2.4.16-4+deb7u2)
+    Cyrus mail system - administration tools
+cyrus-clients (2.4.16-4+deb7u2)
+    Cyrus mail system - test clients (metapackage)
+cyrus-clients
+    virtual package provided by cyrus-clients-2.4
+cyrus-clients-2.2 (2.4.16-4+deb7u2)
+    Transitional package for cyrus-clients-2.4
+cyrus-clients-2.2
+    virtual package provided by cyrus-clients-2.4
+cyrus-clients-2.4 (2.4.16-4+deb7u2)
+    Cyrus mail system - test clients
+cyrus-common (2.4.16-4+deb7u2)
+    Cyrus mail system - common files
+cyrus-common-2.2 (2.4.16-4+deb7u2)
+    Transitional package for cyrus-common-2.4
+cyrus-common-2.2
+    virtual package provided by cyrus-common-2.4
+cyrus-common-2.4 (2.4.16-4+deb7u2)
+    Cyrus mail system - common files
+cyrus-dev (2.4.16-4+deb7u2)
+    Cyrus mail system - developer files (metapackage)
+cyrus-dev
+    virtual package provided by cyrus-dev-2.4
+cyrus-doc (2.4.16-4+deb7u2)
+    Cyrus mail system - documentation files (metapackage)
+cyrus-doc
+    virtual package provided by cyrus-doc-2.4
+cyrus-imapd (2.4.16-4+deb7u2)
+    Cyrus mail system - IMAP support (metapackage)
+cyrus-imapd
+    virtual package provided by cyrus-imapd-2.4
+cyrus-imapd-2.2 (2.4.16-4+deb7u2)
+    Transitional package for cyrus-imapd-2.4
+cyrus-imapd-2.2
+    virtual package provided by cyrus-imapd-2.4
+cyrus-imapd-2.4 (2.4.16-4+deb7u2)
+    Cyrus mail system - IMAP support
+cyrus-imspd (1.8-3)
+    Internet Message Support Protocol daemon
+cyrus-murder (2.4.16-4+deb7u2)
+    Cyrus mail system - proxies and aggregator (metapackage)
+cyrus-murder
+    virtual package provided by cyrus-murder-2.4
+cyrus-murder-2.2 (2.4.16-4+deb7u2)
+    Transitional package for cyrus-murder-2.4
+cyrus-murder-2.2
+    virtual package provided by cyrus-murder-2.4
+cyrus-murder-2.4 (2.4.16-4+deb7u2)
+    Cyrus mail system - proxies and aggregator
+cyrus-nntpd (2.4.16-4+deb7u2)
+    Cyrus mail system - NNTP support (metapackage)
+cyrus-nntpd
+    virtual package provided by cyrus-nntpd-2.4
+cyrus-nntpd-2.2 (2.4.16-4+deb7u2)
+    Transitional package for cyrus-nntpd-2.4
+cyrus-nntpd-2.2
+    virtual package provided by cyrus-nntpd-2.4
+cyrus-nntpd-2.4 (2.4.16-4+deb7u2)
+    Cyrus mail system - NNTP support
+cyrus-pop3d (2.4.16-4+deb7u2)
+    Cyrus mail system - POP3 support (metapackage)
+cyrus-pop3d
+    virtual package provided by cyrus-pop3d-2.4
+cyrus-pop3d-2.2 (2.4.16-4+deb7u2)
+    Transitional package for cyrus-pop3d-2.4
+cyrus-pop3d-2.2
+    virtual package provided by cyrus-pop3d-2.4
+cyrus-pop3d-2.4 (2.4.16-4+deb7u2)
+    Cyrus mail system - POP3 support
+cyrus-replication (2.4.16-4+deb7u2)
+    Cyrus mail system - replication (metapackage)
+cyrus-replication
+    virtual package provided by cyrus-replication-2.4
+cyrus-replication-2.4 (2.4.16-4+deb7u2)
+    Cyrus mail system - replication
+dkimproxy (1.4.1-3)
+    an SMTP-proxy that signs and/or verifies emails, using the Mail::DKIM module
+dot-forward (1:0.71-2)
+    reads sendmail's .forward files under qmail
+dovecot-antispam (2.0+20120225-3+b1 [kfreebsd-amd64, kfreebsd-i386], 2.0+20120225-3 [amd64, armel, armhf, i386, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    Dovecot plugins for training spam filters
+dovecot-core (1:2.1.7-7+deb7u1)
+    secure mail server that supports mbox, maildir, dbox and mdbox mailboxes
+dovecot-dev (1:2.1.7-7+deb7u1)
+    header files for the dovecot mail server
+dovecot-gssapi (1:2.1.7-7+deb7u1)
+    GSSAPI authentication support for Dovecot
+dovecot-imapd (1:2.1.7-7+deb7u1)
+    secure IMAP server that supports mbox, maildir, dbox and mdbox mailboxes
+dovecot-ldap (1:2.1.7-7+deb7u1)
+    LDAP support for Dovecot
+dovecot-lmtpd (1:2.1.7-7+deb7u1)
+    secure LMTP server for Dovecot
+dovecot-managesieved (1:2.1.7-7+deb7u1)
+    secure ManageSieve server for Dovecot
+dovecot-mysql (1:2.1.7-7+deb7u1)
+    MySQL support for Dovecot
+dovecot-pgsql (1:2.1.7-7+deb7u1)
+    PostgreSQL support for Dovecot
+dovecot-pop3d (1:2.1.7-7+deb7u1)
+    secure POP3 server that supports mbox, maildir, dbox and mdbox mailboxes
+dovecot-sieve (1:2.1.7-7+deb7u1)
+    sieve filters support for Dovecot
+dovecot-solr (1:2.1.7-7+deb7u1)
+    Solr full text search support for Dovecot
+dovecot-sqlite (1:2.1.7-7+deb7u1)
+    SQLite support for Dovecot
+dspam (3.10.1+dfsg-11)
+    Scalable, fast and statistical anti-spam filter
+dspam-webfrontend (3.10.1+dfsg-11)
+    Webfrontend for DSPAM anti-spam filter
+echolot (2.1.8-8)
+    Pinger for anonymous remailers such as Mixmaster
+email-reminder (0.7.6-5)
+    Send event reminders by email
+enemies-of-carlotta (1.2.6-4)
+    mailing list manager
+enigmail (2:1.7.2-1~deb7u1)
+    GPG support for Thunderbird and Debian Icedove
+esmtp (1.2-10)
+    user configurable relay-only MTA
+esmtp-run (1.2-10)
+    user configurable relay-only MTA - the regular MTA
+eweouz (0.7+b1)
+    Emacs interface to Evolution Data Server
+exim4 (4.80-7+deb7u1)
+    metapackage to ease Exim MTA (v4) installation
+exim4-base (4.80-7+deb7u1)
+    support files for all Exim MTA (v4) packages
+exim4-config (4.80-7+deb7u1)
+    configuration for the Exim MTA (v4)
+exim4-daemon-heavy (4.80-7+deb7u1)
+    Exim MTA (v4) daemon with extended features, including exiscan-acl
+exim4-daemon-light (4.80-7+deb7u1)
+    lightweight Exim MTA (v4) daemon
+exim4-dev (4.80-7+deb7u1)
+    header files for the Exim MTA (v4) packages
+eximon4 (4.80-7+deb7u1)
+    monitor application for the Exim MTA (v4) (X11 interface)
+exmh (1:2.8.0~rc1-2)
+    extensible X user interface for MH mail
+extsmail (1.4-1)
+    enables the robust sending of e-mail to external commands
+fakepop (11)
+    fake pop3 daemon. delivers same messages to all users
+fastforward (1:0.51-3)
+    handles qmail forwarding according to a cdb database
+fdm (1.6+cvs20111013-2)
+    fetching, filtering and delivering emails
+fetchmail (6.3.21-4)
+    SSL enabled POP3, APOP, IMAP mail gatherer/forwarder
+fetchmailconf (6.3.21-4)
+    fetchmail configurator
+fetchyahoo (2.14.7-1)
+    Retrieve mail from Yahoo!'s webmail service
+filter (2.6.3-1)
+    A program that filters local email via forward/pipe
+flim (1:1.14.9+0.20110516-1)
+    library about internet message for emacsen
+freepops (0.2.9-7)
+    POP3 interface to several webmail sites
+freepops-updater-fltk (0.2.9-7)
+    Graphical interface for the freepops updater engine
+freepops-updater-gnome (0.2.9-7)
+    GNOME interface for the freepops updater engine
+fullquottel (0.1.2-2)
+    tool for recognizing top-posted e-mail and usenet replies
+fuzzyocr (3.6.0-7)
+    spamassassin plugin to check image attachments
+getmail4 (4.46.0-1~deb7u1)
+    mail retriever with support for POP3, IMAP4 and SDPS
+geximon (0.7.7-2)
+    a monitor for the exim MTA
+gkrellm-mailwatch (2.4.3-1+b1 [mips, mipsel], 2.4.3-1 [amd64, armel, armhf, i386, ia64, powerpc, s390, s390x, sparc])
+    GKrellM plugin to watch mailboxes in multiple panels
+gmail-notify (1.6.1.1-2)
+    Notify the arrival of new mail on Gmail
+gnarwl (3.6.dfsg-6.2)
+    Email autoresponder based on LDAP
+gnubiff (2.2.15-1+b1 [armel, armhf, mips, mipsel, powerpc, s390, sparc], 2.2.15-1 [amd64, i386, ia64, kfreebsd-amd64, kfreebsd-i386, s390x])
+    mail notification program for GNOME (and others)
+gotmail (0.9.0-1)
+    utility to download email from a Hotmail or MSN account
+graphdefang (2.71-3)
+    grapher for MIMEDefang spam and virus logs
+grepmail (5.3033-5)
+    search mailboxes for mail matching an expression
+greylistd (0.8.8)
+    Greylisting daemon for use with Exim 4
+gross (1.0.2-3)
+    fast and efficient greylist server with DNSBL support
+gurgitate-mail (1.10.0-1)
+    E-mail processor and filter with configuration files in ruby
+gyrus (0.3.10-1.1)
+    GNOME tool for Cyrus-IMAP servers administration
+hapolicy (1.32-2)
+    Balancing and fallback postfix policy delegation service
+hashcash (1.21-1.1)
+    postage payment scheme for email based on hash calculations
+heirloom-mailx (12.5-2+deb7u1)
+    feature-rich BSD mail(1)
+htag (0.0.24-1)
+    A tagline/.signature adder for email, news and FidoNet messages
+icedove (31.6.0-1~deb7u1 [amd64, armel, armhf, i386, s390, s390x], 31.5.0-1~deb7u1 [powerpc, sparc], 17.0.10-1~deb7u1 [ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel]) [security]
+    mail/news client with RSS and integrated spam filter support
+icedove-bidiui (0.9.6-1)
+    BiDirectional support for Icedove
+icedove-dbg (31.6.0-1~deb7u1 [amd64, armel, armhf, i386, s390, s390x], 31.5.0-1~deb7u1 [powerpc, sparc], 17.0.10-1~deb7u1 [ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel]) [security]
+    Debug Symbols for Icedove
+icedove-dev (31.6.0-1~deb7u1 [amd64, armel, armhf, i386, s390, s390x], 31.5.0-1~deb7u1 [powerpc, sparc], 17.0.10-1~deb7u1 [ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel]) [security]
+    Development files for Icedove
+icedove-gcontactsync (0.3.5-1)
+    synchronize contacts from Gmail into IceDove - dummy package
+icedove-gcontactsync
+    virtual package provided by xul-ext-gcontactsync
+ifile (1.3.9-6)
+    spam filter capable of learning
+im (1:151-2)
+    mail/news handling commands and Perl modules
+imapcopy (1.04-1)
+    IMAP backup, copy and migration tool
+imapfilter (1:2.5.2-2)
+    filter mail in your IMAP account
+imapproxy (1.2.7-1.1)
+    IMAP protocol proxy
+imaprowl (1.2.1-1)
+    IMAP new mail notification utility for iPhone using Prowl Public API
+isoqlog (2.2.1-8)
+    Mail Transport Agent log analysis program
+isync (1.0.4-2.2)
+    Synchronize a local maildir with a remote IMAP4 mailbox
+junkfilter (20030115-4)
+    A junk-email filtering program for procmail
+kmail (4:4.4.11.1+l10n-3+b1)
+    full featured graphical email client
+kuvert (2.0.6)
+    wrapper that encrypts or signs outgoing mail
+lbdb (0.38)
+    Little Brother's DataBase for the mutt mail reader
+libcyrus-imap-perl (2.4.16-4+deb7u2)
+    Interface to Cyrus imap client imclient library (metapackage)
+libcyrus-imap-perl
+    virtual package provided by libcyrus-imap-perl24
+libdspam7-drv-hash (3.10.1+dfsg-11)
+    Hash backend for DSPAM anti-spam filter
+libdspam7-drv-mysql (3.10.1+dfsg-11)
+    MySQL backend for DSPAM anti-spam filter
+libdspam7-drv-pgsql (3.10.1+dfsg-11)
+    PostgreSQL backend for DSPAM anti-spam filter
+libdspam7-drv-sqlite3 (3.10.1+dfsg-11)
+    sqlite3 backend for DSPAM anti-spam filter
+lsdb (0.11-10)
+    The Lovely Sister Database (email rolodex) for Emacs
+lsmbox (2.1.2-1)
+    List number of total/unread messages for mailboxes
+lurker (2.3-3)
+    archive tool for mailing lists with search engine
+mailagent (1:3.1-74-0.2)
+    An automatic mail-processing tool and filter.
+mailavenger (0.8.3rc1-1)
+    Highly configurable, MTA-independent SMTP filter server
+mailcheck (1.91.2-2)
+    Check multiple mailboxes/maildirs for mail
+mailcrypt (3.5.9-5)
+    Emacs interface to GPG and PGP
+maildir-filter (1.20-3)
+    Simple program to filter messages into Maildir folders from dot-qmail
+maildir-utils (0.9.8.4-3+deb7u1)
+    Set of utilities to deal with Maildirs (upstream name mu)
+maildir-utils-extra (0.9.8.4-3+deb7u1)
+    Extra utilities for maildir-utils
+maildirsync (1.2-1)
+    simple and efficient Maildir synchronisation utility
+maildrop (2.5.5-2)
+    mail delivery agent with filtering abilities
+mailfilter (0.8.2-4)
+    Program that filters your incoming e-mail to help remove spam
+mailfront (1.16-1)
+    mail server network protocol front-ends
+mailman (1:2.1.15-1)
+    Powerful, web-based mailing list manager
+mailping (0.0.4-2)
+    monitor email service availability and functioning
+mailplate (0.2-1)
+    reformat mail drafts according to templates
+mailsync (5.2.2-3)
+    Synchronize IMAP mailboxes
+mailtextbody (0.1.2-1)
+    Tool to return the body of an email message
+mailutils (1:2.99.97-3)
+    GNU mailutils utilities for handling mail
+mailutils-common (1:2.99.97-3)
+    Common files for GNU mailutils
+mailutils-guile (1:2.99.97-3)
+    GNU mailutils Guile interpreter and modules
+mailutils-mh (1:2.99.97-3)
+    GNU mailutils-based MH utilities
+mairix (0.22-1)
+    indexes and searches email in locally stored email
+masqmail (0.2.30-1)
+    mail transport agent for intermittently connected hosts
+mb2md (3.20-4)
+    Converting Mbox mailboxes to Maildir format
+mbot (0.3-7)
+    A multi purpose mail robot
+mboxgrep (0.7.9-1)
+    Grep through mailboxes
+mew (1:6.4-2)
+    mail reader supporting PGP/MIME for Emacs
+mew
+    virtual package provided by mew-beta
+mew-beta (7.0.50~6.5~rc2+0.20120405-1)
+    mail reader supporting PGP/MIME for Emacs (development version)
+mew-beta-bin (7.0.50~6.5~rc2+0.20120405-1)
+    external commands for Mew (development version)
+mew-bin (1:6.4-2)
+    external commands for Mew
+mew-bin
+    virtual package provided by mew-beta-bin
+mh-e (8.3-1.1)
+    Emacs interface to the MH mail system
+mhonarc (2.6.18-2)
+    Mail to HTML converter
+milter-greylist (4.3.9-1)
+    Greylist milter for sendmail
+mime-construct (1.11)
+    construct/send MIME messages from the command line
+mimedefang (2.71-3)
+    e-mail filter program for sendmail
+mimefilter (1.7+nmu1)
+    Strips some unwanted MIME parts out of a MIME message.
+mixmaster (3.0.0-6)
+    Anonymous remailer client and server
+mlmmj (1.2.18.0-2)
+    mail server independent mailing list manager
+mlmmj-php-web (1.2.18.0-2)
+    web interface for mlmmj, written in php
+mlmmj-php-web-admin (1.2.18.0-2)
+    administrative web interface for mlmmj, written in php
+mlock (8:2007f~dfsg-2)
+    mailbox locking program
+mpack (1.6-8)
+    tools for encoding/decoding MIME messages
+msmtp (1.4.28-1)
+    light SMTP client with support for server profiles
+msmtp-gnome (1.4.28-1)
+    light SMTP client with support for server profiles - with GNOME keyring support
+msmtp-mta (1.4.28-1)
+    light SMTP client with support for server profiles - the regular MTA
+mswatch (1.2.0-2.1)
+    watch mailstores for changes and initiate mailbox syncs - client tools
+mu-cite (8.1+0.20120227-1)
+    message citation utility for emacsen
+multimail (0.49-2)
+    Offline reader for Blue Wave, QWK, OMEN and SOUP
+mutt (1.5.21-6.2+deb7u3)
+    text-based mailreader supporting MIME, GPG, PGP and threading
+mutt-patched (1.5.21-6.2+deb7u3)
+    Mutt Mail User Agent with extra patches
+muttprint (0.73-4)
+    Pretty printing of mails
+muttprofile (1.0.1-4)
+    utility to choose profiles in Mutt
+mxallowd (1.9-1)
+    Anti-Spam-Daemon using nolisting/iptables
+mysqmail (0.4.9-10)
+    real-time logging system in MySQL
+mysqmail-courier-logger (0.4.9-10)
+    real-time logging system in MySQL - Courier traffic-logger
+mysqmail-dovecot-logger (0.4.9-10)
+    real-time logging system in MySQL - Dovecot traffic-logger
+mysqmail-postfix-logger (0.4.9-10)
+    real-time logging system in MySQL - Postfix traffic-logger
+mysqmail-pure-ftpd-logger (0.4.9-10)
+    real-time logging system in MySQL - Pure-FTPd traffic-logger
+newmail (0.5-2)
+    Notificator for incoming mail
+nmh (1.5-release-0.2)
+    set of electronic mail handling programs
+nmzmail (1.1-1)
+    indexes and searches email in maildir folders
+notmuch (0.13.2-1)
+    thread-based email index, search and tagging
+notmuch-emacs (0.13.2-1)
+    thread-based email index, search and tagging (emacs interface)
+notmuch-mutt (0.13.2-1)
+    thread-based email index, search and tagging (Mutt interface)
+notmuch-vim (0.13.2-1)
+    thread-based email index, search and tagging (vim interface)
+nullmailer (1:1.11-2)
+    simple relay-only mail transport agent
+offlineimap (6.3.4-1)
+    IMAP/Maildir synchronization and reader support
+opendkim (2.6.8-4)
+    Milter implementation of DomainKeys Identified Mail
+opendkim-tools (2.6.8-4)
+    Set of command line tools for OpenDKIM
+p3scan (2:2.3.2-8)
+    transparent POP3-proxy with virus- and spam-scanning
+perdition (1.19~rc5-1+b1)
+    POP3 and IMAP4 Proxy server
+perdition-ldap (1.19~rc5-1+b1)
+    Library to allow perdition to access LDAP based popmaps
+perdition-mysql (1.19~rc5-1+b1)
+    Library to allow perdition to access MySQL based popmaps
+perdition-odbc (1.19~rc5-1+b1)
+    Library to allow perdition to access ODBC based popmaps
+perdition-postgresql (1.19~rc5-1+b1)
+    Library to allow perdition to access PostgreSQL based popmaps
+pfqueue (0.5.6-8)
+    interactive console-based tool to control MTA queues
+policyd-weight (0.1.15.2-5+wheezy1)
+    Perl policy daemon for the Postfix MTA
+pop3browser (0.4.1-4)
+    Allows to check a pop3 mailbox before downloading any mail
+popa3d (1.0.2-7)
+    A tiny POP3 daemon, designed with security as the primary goal
+poppassd (1.8.5-4)
+    password change server for Eudora and NUPOP
+post-el (1:2.5-2)
+    emacs major mode for editing mail
+postfix (2.9.6-2)
+    High-performance mail transport agent
+postfix-cdb (2.9.6-2)
+    CDB map support for Postfix
+postfix-cluebringer (2.0.10-1)
+    anti-spam plugin for Postfix
+postfix-cluebringer-mysql (2.0.10-1)
+    metapackage for mysql support in postfix-cluebringer
+postfix-cluebringer-pgsql (2.0.10-1)
+    metapackage for postgresql support in postfix-cluebringer
+postfix-cluebringer-sqlite3 (2.0.10-1)
+    metapackage for sqlite3 support in postfix-cluebringer
+postfix-cluebringer-webui (2.0.10-1)
+    anti-spam plugin for Postfix
+postfix-gld (1.7-3+b1)
+    greylisting daemon for postfix, written in C, uses MySQL
+postfix-ldap (2.9.6-2)
+    LDAP map support for Postfix
+postfix-mysql (2.9.6-2)
+    MySQL map support for Postfix
+postfix-pcre (2.9.6-2)
+    PCRE map support for Postfix
+postfix-pgsql (2.9.6-2)
+    PostgreSQL map support for Postfix
+postfix-policyd-spf-perl (2.010-1)
+    Simple Postfix policy server for RFC 4408 SPF checking
+postfix-policyd-spf-python (1.0-2)
+    Postfix policy server for SPF checking
+postfwd (1.32-2)
+    Postfix policyd to combine complex restrictions in a ruleset
+postgrey (1.34-1.1)
+    greylisting implementation for Postfix
+prayer (1.3.4-dfsg1-1)
+    standalone IMAP-based webmail server
+prayer-accountd (1.3.4-dfsg1-1)
+    account management daemon for Prayer
+prayer-templates (1.3.4-dfsg1-1)
+    dummy package depending on prayer-templates-src
+prayer-templates-dev (1.3.4-dfsg1-1)
+    tools for compiling Prayer templates
+prayer-templates-src (1.3.4-dfsg1-1)
+    templates for customizing Prayer Webmail
+premail (0.46-9) [contrib]
+    An e-mail privacy package.
+procmail (3.22-20+deb7u1)
+    Versatile e-mail processor
+procmail-lib (1:2009.1202-2)
+    procmail library of plug-in recipes
+proxsmtp (1.10-1)
+    multi purpose SMTP Proxy
+pycmail (0.1.4)
+    mail sorter written in Python
+pycocuma (0.4.5-6-7)
+    Pythonic Contact and Customer Management
+pysieved (1.1-0.2)
+    managesieve server
+pyzor (1:0.5.0-2)
+    spam-catcher using a collaborative filtering network
+qmail (1.06-5)
+    a secure, reliable, efficient, simple message transfer agent
+qmail-run (2.0.2)
+    sets up qmail as mail-transfer-agent
+qmail-uids-gids (1.06-5)
+    user ids and group ids for qmail
+qmhandle (1.3.2-1) [contrib]
+    tool to manage the qmail message queue
+qpsmtpd (0.84-9)
+    Flexible SMTP daemon for network-level spam detection
+qsf (1.2.7-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.2.7-1+b1 [armhf, s390x])
+    small and fast Bayesian spam filter
+quickml (0.7-4)
+    Very-easy-to-use mailing list system
+razor (1:2.85-4+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1:2.85-4 [armhf, s390x])
+    spam-catcher using a collaborative filtering network
+rdeliver (0.12-2)
+    A fully functioning mail filter with RubyFilter
+renattach (1.2.4-3)
+    Rename attachments on the fly
+rmail (8.14.4-4)
+    MTA->UUCP remote mail handler
+rss2email (1:2.71-1)
+    receive RSS feeds by email
+sa-exim (4.2.1-14)
+    SpamAssassin filter for Exim
+sanitizer (1.76-3)
+    The Anomy Mail Sanitizer - an email virus scanner
+sauce (0.9.0+nmu2)
+    SMTP defence software against spam
+schleuder (2.2.1-2+deb7u1)
+    GnuPG enabled mailing list manager with remailer-capabilities
+scmail (1.3-4)
+    a mail filter written in Scheme
+select-xface (0.15-6)
+    utility for selecting X-Face on emacsen
+semi (1.14.6+0.20101114-1)
+    library to provide MIME feature for emacsen
+sendemail (1.56-2)
+    lightweight, command line SMTP email client
+sendmail (8.14.4-4)
+    powerful, efficient, and scalable Mail Transport Agent
+sendmail-base (8.14.4-4)
+    powerful, efficient, and scalable Mail Transport Agent
+sendmail-bin (8.14.4-4)
+    powerful, efficient, and scalable Mail Transport Agent
+sendmail-cf (8.14.4-4)
+    powerful, efficient, and scalable Mail Transport Agent
+sensible-mda (8.14.4-4)
+    Mail Delivery Agent wrapper
+signify (1.14-1)
+    Automatic, semi-random ".signature" rotator/generator
+sm-archive (1.7-1)
+    A milter for archiving email
+sma (1.4-2)
+    Sendmail log analyser
+smartlist (3.15-22)
+    Versatile and Intelligent List Processor
+sogo (1.3.16-1)
+    Scalable groupware server
+sogo-common (1.3.16-1)
+    Scalable groupware server - common files
+solid-pop3d (0.15-26)
+    POP3 server supporting Maildir, PAM, vhosting
+sortmail (1:2.4-1+b1 [mips, mipsel], 1:2.4-1 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, powerpc, s390, s390x, sparc])
+    a simple mail sorter
+spamass-milter (0.3.2-1)
+    milter for filtering mail through spamassassin
+spamassassin (3.3.2-5+deb7u2)
+    Perl-based spam filter using text analysis
+spamassassin-heatu (3.02+20101108-2)
+    Heuristic Email Address Tracker Utility for Spamassassin
+spambayes (1.1a6-1)
+    Python-based spam filter using statistical analysis
+spamc (3.3.2-5+deb7u2)
+    Client for SpamAssassin spam filtering daemon
+spampd (2.30-22)
+    spamassassin based SMTP/LMTP proxy daemon
+spamprobe (1.4d-11)
+    Bayesian spam filter
+spf-milter-python (0.8.13-6)
+    RFC 4408 compliant SPF Milter for Sendmail and Postfix
+spf-tools-perl (2.8.0-1)
+    SPF tools (spfquery, spfd) based on the Mail::SPF Perl module
+spfquery (1.2.9-7)
+    query SPF (Sender Policy Framework) to validate mail senders
+sqlgrey (1:1.8.0-1)
+    Postfix Greylisting Policy Server
+sqwebmail (0.68.2-1)
+    Courier mail server - webmail server
+sqwebmail-de (5.5.1-1)
+    German translations for the SqWebMail webmail service
+srs (0.31-5)
+    command-line Sender Rewriting Scheme client
+ssmtp (2.64-7)
+    extremely simple MTA to get mail off the system to a mail hub
+sup-mail (0.12.1+git20120407.aaa852f-1+deb7u1)
+    thread-centric mailer with tagging and fast search
+swaks (20120320.0-1)
+    SMTP command-line test tool
+sylph-searcher (1.2.0-7)
+    Full-text search program for Sylpheed or MH folders
+sylpheed (3.2.0-1)
+    Light weight e-mail client with GTK+
+sylpheed-plugins (3.2.0-1)
+    Loadable modules for extending Sylpheed features
+sympa (6.1.11~dfsg-5+deb7u2) [security]
+    Modern mailing list manager
+syncmaildir (1.2.5-1)
+    Sync Mail Dir is a set of tools to synchronize Maildirs
+syncmaildir-applet (1.2.5-1)
+    Sync Mail Dir GNOME applet
+t-prot (2.101-2)
+    display filter for RFC822 messages
+tart (3.09-1)
+    versatile and feature-rich email signature generator
+topal (75-1)
+    Links Pine and GnuPG together
+tumgreyspf (1.36-4)
+    external policy checker for the postfix mail server
+urlscan (0.5.6-0.1)
+    Extract and browse the URLs contained in an email (urlview replacement)
+uw-mailutils (8:2007f~dfsg-2)
+    c-client support programs
+vacation (3.3.0-0.4)
+    email autoresponder
+vm (8.1.0-1)
+    A mail user agent for Emacs.
+vmm (0.6.0-2)
+    manage mail domains/accounts/aliases for Dovecot and Postfix
+vrfy (990522-8)
+    verify electronic mail addresses
+watch-maildirs (1.2.0-2.1)
+    mswatch helper tools to watch maildirs and trigger on-demand syncs
+wl (2.14.0-12)
+    mail/news reader supporting IMAP for emacsen
+wl
+    virtual package provided by wl-beta
+wl-beta (2.15.9+0.20120411-1)
+    mail/news reader supporting IMAP for emacsen (development version)
+xbuffy (3.3.bl.3.dfsg-8+deb7u1)
+    monitor mailboxes and/or newsgroups
+xcite (1.60-1)
+    exciting cite utility for Emacsen
+xfaces (3.3-28)
+    Displays an image for each piece of mail in your mailbox
+xlbiff (4.1-7)
+    X Literate Biff. Displays From and Subject lines of your new mail
+xmail (1.27-1.1+b2 [kfreebsd-amd64, kfreebsd-i386], 1.27-1.1+b1 [amd64, armel, i386, ia64, mips, mipsel, powerpc, s390, sparc], 1.27-1.1 [armhf, s390x])
+    advanced, fast and reliable ESMTP/POP3 mail server
+xul-ext-compactheader (2.0.5-1)
+    Icedove extension to reduce header size to one or two lines
+xul-ext-dispmua (1.6.8-1)
+    display Mail User Agent extension for Icedove
+xul-ext-gcontactsync (0.3.5-1)
+    synchronize contacts from Gmail into IceDove
+xul-ext-imap-acl (0.2.2-1)
+    Extension to manage ACLs on IMAP folders
+xul-ext-nostalgy (0.2.32+4real-1~deb7u1)
+    keyboard shortcut extension for Icedove
+xul-ext-quotecolors (0.3-3)
+    Colorize different quoting levels in e-mail messages
+yample (0.30-2)
+    Yet Another Mail Processing Language 

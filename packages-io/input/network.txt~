@@ -1,0 +1,3123 @@
+
+2ping (2.0-1)
+    Ping utility to determine directional packet loss
+3270-common (3.3.10ga4-2+b1 [amd64, armel, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 3.3.10ga4-2 [armhf, s390x]) [non-free]
+    Common files for IBM 3270 emulators and pr3287
+4g8 (1.0-3)
+    Packet Capture and Interception for Switched Networks
+6tunnel (0.11rc2-7)
+    TCP proxy for non-IPv6 applications
+adns-tools (1.4-2)
+    Asynchronous-capable DNS client library and utilities
+aggregate (1.6-7)
+    ipv4 cidr prefix aggregator
+ahcpd (0.53-1)
+    Ad-Hoc Configuration Protocol
+aiccu (20070115-15.1)
+    SixXS Automatic IPv6 Connectivity Client Utility
+airport-utils (2-2)
+    configuration and management utilities for Apple AirPort base stations
+akonadi-kde-resource-googledata (1.2.0-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.2.0-1+b1 [armhf, s390x])
+    Google calendar and contacts resource for Akonadi
+akonadi-server (1.7.2-3)
+    Akonadi PIM storage service
+alevtd (3.102-3)
+    HTTP daemon for teletext pages
+am-utils (6.2+rc20110530-3)
+    automounter utilities from 4.4BSD (includes amd)
+amispammer (3.3-1)
+    Powerful Mail Server checker on blacklists
+amqp-tools (0.0.1.hg216-1)
+    Command-line utilities for interacting with AMQP servers
+amtterm (1.3-1)
+    Serial-over-lan (sol) client for Intel AMT, console version
+amule (2.3.1-9)
+    client for the eD2k and Kad networks, like eMule
+amule-common (2.3.1-9)
+    common files for the rest of aMule packages
+amule-daemon (2.3.1-9)
+    non-graphic version of aMule, a client for the eD2k and Kad networks
+amule-gnome-support (2.3.1-9)
+    ed2k links handling support for GNOME web browsers
+amule-utils (2.3.1-9)
+    utilities for aMule (command-line version)
+amule-utils-gui (2.3.1-9)
+    graphic utilities for aMule
+ant-phone (0.2.1-2)
+    An interactive ISDN telephone application
+anubis (4.1.1+dfsg1-3.1)
+    an SMTP message submission daemon
+anytun (0.3.4-2)
+    secure anycast tunneling protocol
+aolserver4-nssqlite3 (0.9-2+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.9-2 [armhf, s390x])
+    AOLserver 4 module: module for accessing SQLite 3 databases
+ap-utils (1.5-2)
+    Access Point SNMP Utils for Linux
+apf-client (0.8.4-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.8.4-1 [armhf, s390x])
+    Client for Active Port Forwarding
+apf-firewall (9.7+rev1-3)
+    easy iptables based firewall system
+apf-server (0.8.4-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.8.4-1 [armhf, s390x])
+    Server for Active Port Forwarding
+apt-cacher (1.7.6)
+    Caching proxy for Debian package and source files
+apt-cacher-ng (0.7.11-2)
+    caching proxy server for software repositories
+apt-mirror (0.4.8-5)
+    APT sources mirroring tool
+apt-p2p (0.1.6+nmu1)
+    apt helper for peer-to-peer downloads of Debian packages
+argus-client (2.0.6.fixes.1-3)
+    IP network transaction auditing tool
+argus-server (1:2.0.6.fixes.1-16.3)
+    IP network transaction auditing tool
+aria2 (1.15.1-1)
+    High speed download utility
+arno-iptables-firewall (2.0.1.c-1)
+    single- and multi-homed firewall script with DSL/ADSL support
+arpalert (2.0.11-7.1)
+    monitor ARP changes in ethernet networks
+arping (2.11-1)
+    sends IP and/or ARP pings (to the MAC address)
+arpon (2.0-2.1)
+    versatile anti ARP poisoning daemon
+arptables (0.0.3.4-1)
+    ARP table administration
+asp (1.8-8)
+    Discovers present ip-address of dynamically connected hosts
+atftp (0.7.dfsg-11)
+    advanced TFTP client
+atftpd (0.7.dfsg-11)
+    advanced TFTP server
+atm-tools (1:2.5.1-1.5)
+    Base programs for ATM in Linux, the net-tools for ATM
+auth2db (0.2.5-2+dfsg-4)
+    Powerful and eye-candy IDS logger, log viewer and alert generator
+auth2db-common (0.2.5-2+dfsg-4)
+    Common configuration files for Auth2db backend and web frontend
+auth2db-filters (0.2.5-2+dfsg-4)
+    Auth2db defaults filters pack
+auth2db-frontend (0.2.5-2+dfsg-4)
+    Web frontend view for auth2DB log engine
+autodns-dhcp (0.8)
+    Automatic DNS updates for DHCP
+autossh (1.4c-1)
+    Automatically restart SSH sessions and tunnels
+avahi-autoipd (0.6.31-2)
+    Avahi IPv4LL network address configuration daemon
+avahi-daemon (0.6.31-2)
+    Avahi mDNS/DNS-SD daemon
+avahi-discover (0.6.31-2)
+    Service discover user interface for avahi
+avahi-dnsconfd (0.6.31-2)
+    Avahi DNS configuration tool
+avahi-utils (0.6.31-2)
+    Avahi browsing, publishing and discovery utilities
+ayttm (0.6.3-3)
+    Universal instant messaging client
+azureus (4.3.0.6-5)
+    BitTorrent client
+babeld (1.3.1-1)
+    loop-free distance-vector routing protocol
+bandwidthd (2.0.1+cvs20090917-5)
+    Tracks usage of TCP/IP and builds html files with graphs
+bandwidthd-pgsql (2.0.1+cvs20090917-5)
+    Tracks usage of TCP/IP and builds html files with graphs
+barnowl (1.6.2-1.1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.6.2-1.1 [armhf, s390x])
+    A curses-based tty Jabber, IRC, AIM and Zephyr client
+batctl (2012.1.0-1)
+    B.A.T.M.A.N. advanced control and management tool
+batmand (0.3.2-12)
+    better approach to mobile adhoc networking
+bcrelay (1.3.4-5.2)
+    Broadcast relay daemon
+beanstalkd (1.4.6-5)
+    simple, in-memory, workqueue service
+belier (1.2-2)
+    SSH connection generation tool
+bidentd (1.1.4-1.1)
+    Bisqwit's identd for NAT proxying
+bind9 (1:9.8.4.dfsg.P1-6+nmu2+deb7u4) [security]
+    Internet Domain Name Server
+bind9-host (1:9.8.4.dfsg.P1-6+nmu2+deb7u4) [security]
+    Version of 'host' bundled with BIND 9.X
+bind9utils (1:9.8.4.dfsg.P1-6+nmu2+deb7u4) [security]
+    Utilities for BIND
+bing (1.1.3-2)
+    Empirical stochastic bandwidth tester
+bip (0.8.8-2)
+    multiuser irc proxy with conversation replay and more
+bird (1.3.7-1)
+    Internet Routing Daemon
+bird6 (1.3.7-1)
+    Internet Routing Daemon
+bitlbee (3.0.5-1.2)
+    An IRC to other chat networks gateway (default version)
+bitlbee-common (3.0.5-1.2)
+    An IRC to other chat networks gateway (common files/docs)
+bitlbee-dev (3.0.5-1.2)
+    An IRC to other chat networks gateway (dev files)
+bitlbee-libpurple (3.0.5-1.2)
+    An IRC to other chat networks gateway (using libpurple)
+bitlbee-plugin-otr (3.0.5-1.2)
+    An IRC to other chat networks gateway (OTR plugin)
+bitstormlite (0.2q-3)
+    BitTorrent Client based on C++/Gtk+2.0
+bittornado (0.3.18-10)
+    bittorrent client (and tracker) with console and curses interfaces
+bittornado-gui (0.3.18-10)
+    bittorrent client with GUI interface
+bittorrent (3.4.2-11.4)
+    Original BitTorent client - console tools
+bittorrent-gui (3.4.2-11.4)
+    Original BitTorrent client - GUI tools
+bluedevil (1.2.3-1)
+    KDE Bluetooth stack
+bluemon (1.4-6)
+    Activate or deactivate programs based on Bluetooth link quality
+bmon (2.0.1-3)
+    portable bandwidth monitor and rate estimator
+bobot++ (1:1.97-10.4)
+    IRC bot with scripting features
+boinc (7.0.27+dfsg-5)
+    metapackage for the BOINC client and the manager
+boinc-app-examples (7.0.27+dfsg-5)
+    example binaries for BOINC servers
+boinc-client (7.0.27+dfsg-5)
+    core client for the BOINC distributed computing infrastructure
+boinc-nvidia-cuda (7.0.27+dfsg-5) [contrib]
+    metapackage for CUDA-savvy BOINC client and manager
+boinc-server-maker (7.0.27+dfsg-5)
+    BOINC server applications and data files
+bootp (2.4.3-18)
+    server for the bootp protocol with DHCP support
+bootparamd (0.17-9)
+    Boot parameter server
+bootpc (0.64-7)
+    bootp client
+bopm (3.1.3-3)
+    Blitzed Open Proxy Monitor
+br2684ctl (1:2.5.1-1.5)
+    Utility for configuring RFC 2684 ATM/Ethernet bridging
+bridge-utils (1.5-6)
+    Utilities for configuring the Linux Ethernet bridge
+bti (032-1)
+    command line micro-blogging tool
+btscanner (2.1-5.1)
+    ncurses-based scanner for Bluetooth devices
+buildtorrent (0.8-4)
+    command line torrent creation program
+bwbar (1.2.3-2)
+    generates text and graphical readout of current bandwidth use
+bwm-ng (0.6-3.1)
+    small and simple console-based bandwidth monitor
+c-icap (1:0.1.6-1.1+deb7u1)
+    ICAP server implementation
+c3270 (3.3.10ga4-2+b1 [amd64, armel, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 3.3.10ga4-2 [armhf, s390x]) [non-free]
+    Curses program for telnet sessions to IBM mainframes
+calendarserver (3.2+dfsg-4+deb7u1)
+    Apple's Calendar and Contacts Server
+canto (0.7.10-4)
+    flexible ncurses Atom/RSS newsreader for the console
+capiutils (1:3.25+dfsg1-3.3~deb7u1)
+    ISDN utilities - tools for CAPI-capable cards
+cdpr (2.4-1)
+    Cisco Discovery Protocol Reporter
+centerim (4.22.10-2+b1 [amd64], 4.22.10-2 [armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    A text-mode multi-protocol instant messenger client
+centerim-common (4.22.10-2)
+    A text-mode multi-protocol instant messenger client (data files)
+centerim-fribidi (4.22.10-2+b1 [amd64], 4.22.10-2 [armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    A text-mode multi-protocol instant messenger client (Hebrew)
+centerim-utf8 (4.22.10-2+b1 [amd64], 4.22.10-2 [armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    A text-mode multi-protocol instant messenger client
+cfingerd (1.4.3-3.1)
+    configurable finger daemon
+chaosreader (0.94-3)
+    trace network sessions and export it to html format
+charybdis (3.3.0-7.1)
+    fast, scalable irc server
+chirashi (1.4.0+dfsg-1)
+    D-Bus-based IRC suite (clients plugins)
+cia-clients (20120903)
+    clients scripts for CIA commit notification on IRC
+cliofetion (2.2.0-1)
+    open source command line implementation of Fetion protocol
+clustershell (1.6-1)
+    Distributed shell that provides an efficient python interface
+cntlm (0.92.3-1)
+    Fast NTLM authentication proxy with tunneling
+coccinella (0.96.20-6)
+    Communication tool (XMPP/Jabber) with a built-in whiteboard
+comgt (0.32-2)
+    Option GlobeTrotter and Vodafone datacard control tool
+connect-proxy (1.101-1)
+    Establish TCP connection using SOCKS4/5 or HTTP tunnel
+connman (1.0-1.1+wheezy1+b1)
+    Intel Connection Manager daemon
+conntrack (1:1.2.1-1)
+    Program to modify the conntrack tables
+conntrackd (1:1.2.1-1)
+    Connection tracking daemon
+corkscrew (2.0-9)
+    tunnel TCP connections through HTTP proxies
+crda (1.1.2-1)
+    wireless Central Regulatory Domain Agent
+cricket (1.0.5-19)
+    Program for collection and display of time-series data
+crossroads (2.65-1.1)
+    open source load balance and fail over utility for TCP based services
+cryptcat (20031202-4)
+    A lightweight version netcat extended with twofish encryption
+ctdb (1.12+git20120201-4)
+    clustered database to store temporary data
+ctorrent (1.3.4.dnh3.3.2-4)
+    BitTorrent Client written in C++
+cups (1.5.3-5+deb7u5) [security]
+    Common UNIX Printing System(tm) - server
+cups-bsd (1.5.3-5+deb7u5) [security]
+    Common UNIX Printing System(tm) - BSD commands
+cups-client (1.5.3-5+deb7u5) [security]
+    Common UNIX Printing System(tm) - client programs (SysV)
+cups-common (1.5.3-5+deb7u5) [security]
+    Common UNIX Printing System(tm) - common files
+cups-filters (1.0.18-2.1+deb7u1)
+    OpenPrinting CUPS Filters
+cutter (1.03-2)
+    disconnect routed IP connections
+d-itg (2.8.1~rc1-1)
+    Distributed Internet Traffic Generator
+daemonlogger (1.2.1-7)
+    simple network packet logger and soft tap daemon
+dailystrips (1.0.28-11)
+    view web comic strips more conveniently
+dancer-ircd (1.0.36-8.1)
+    an IRC server designed for centrally maintained network
+dante-client (1.1.19.dfsg-3+b5 [armel, powerpc], 1.1.19.dfsg-3+b3 [amd64, i386, ia64, mips, mipsel, s390, sparc], 1.1.19.dfsg-3 [armhf, s390x])
+    SOCKS wrapper for users behind a firewall
+dante-server (1.1.19.dfsg-3+b5 [armel, powerpc], 1.1.19.dfsg-3+b3 [amd64, i386, ia64, mips, mipsel, s390, sparc], 1.1.19.dfsg-3 [armhf, s390x])
+    SOCKS (v4 and v5) proxy daemon (danted)
+dapl2-utils (2.0.19-1.1)
+    Utilities for use with the DAPL libraries
+darkstat (3.0.715-1)
+    network traffic analyzer
+dbeacon (0.3.9.3-2)
+    Multicast beacon
+dcap (2.47.6-2)
+    Client Tools for dCache
+ddclient (3.8.0-11.5)
+    address updating utility for dynamic DNS services
+ddns3-client (1.8-12)
+    Issues dynamic DNS v3 requests
+debmirror (1:2.14)
+    Debian partial mirror script, with ftp and package pool support
+debpartial-mirror (0.3.1)
+    tools to create partial Debian mirrors
+debtorrent (0.1.10)
+    bittorrent proxy for downloading Debian packages
+deluge (1.3.3-2+nmu1)
+    bittorrent client written in Python/PyGTK
+deluge-common (1.3.3-2+nmu1)
+    bittorrent client written in Python/PyGTK (common files)
+deluge-console (1.3.3-2+nmu1)
+    bittorrent client written in Python/PyGTK (console ui)
+deluge-gtk (1.3.3-2+nmu1)
+    bittorrent client written in Python/PyGTK (GTK+ ui)
+deluge-torrent (1.3.3-2+nmu1)
+    bittorrent client (gtk ui transitional package)
+deluge-web (1.3.3-2+nmu1)
+    bittorrent client written in Python/PyGTK (web ui)
+deluge-webui (1.3.3-2+nmu1)
+    bittorrent client (web ui transitional package)
+deluged (1.3.3-2+nmu1)
+    bittorrent client written in Python/PyGTK (daemon)
+denyhosts (2.6-10+deb7u3)
+    Utility to help sys admins thwart SSH crackers
+desproxy (0.1.0~pre3-8)
+    tunnel TCP traffic through a HTTP proxy
+dhcp-helper (1.1-1)
+    A DHCP relay agent
+dhcp-probe (1.3.0-10)
+    network DHCP or BootP server discover
+dhcpcd (1:3.2.3-11)
+    DHCP client for automatically configuring IPv4 networking
+dhcpcd-dbus (0.6.0-1)
+    DBus bindings for dhcpcd
+dhcpcd-gtk (0.6.0-1)
+    GTK+ frontend for dhcpcd and wpa_supplicant
+dhcpcd5 (5.5.6-1+deb7u1)
+    RFC2131 compliant DHCP client with IPv4LL support
+dhis-client (5.5-4)
+    Dynamic Host Information System - client
+dhis-dns-engine (5.3-1)
+    Dynamic Host Information System - DNS engine
+dhis-mx-sendmail-engine (5.0-2+b1 [mips, mipsel], 5.0-2 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, powerpc, s390, s390x, sparc])
+    Dynamic Host Information System - sendmail MX engine
+dhis-server (5.3-2.1)
+    Dynamic Host Information System - server
+dhis-tools-dns (5.0-6.1)
+    Dynamic Host Information System - DNS configuration tools
+dhis-tools-genkeys (5.0-6.1)
+    Dynamic Host Information System - key generation tools
+dircproxy (1.0.5-5.1)
+    IRC proxy for people who use IRC from different workstations
+directoryassistant (2.0-1.1)
+    small LDAP address book manager
+djmount (0.71-5+b1)
+    file system client for mounting network media servers
+dlint (1.4.0-7)
+    Checks dns zone information using nameserver lookups
+dmitry (1.3a-1)
+    Deepmagic Information Gathering Tool
+dnet-common (2.60)
+    Base package for Linux DECnet
+dnet-progs (2.60)
+    DECnet user programs and daemons
+dns-browse (1.9-7)
+    Front-ends to DNS search
+dns-flood-detector (1.12-7)
+    detect abusive usage levels on high traffic nameservers
+dns2tcp (0.5.2-1)
+    TCP over DNS tunnel client and server
+dnsmasq (2.62-3+deb7u1)
+    Small caching DNS proxy and DHCP/TFTP server
+dnsmasq-base (2.62-3+deb7u1)
+    Small caching DNS proxy and DHCP/TFTP server
+dnsmasq-utils (2.62-3+deb7u1)
+    Utilities for manipulating DHCP leases
+dnsproxy (1.16-0.1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.16-0.1 [armhf])
+    proxy for DNS queries
+dnssec-tools (1.13-1)
+    DNSSEC tools, applications and wrappers
+dnstop (20120611-2)
+    console tool to analyze DNS traffic
+dnstracer (1.9-4)
+    trace DNS queries to the source
+dnsutils (1:9.8.4.dfsg.P1-6+nmu2+deb7u4) [security]
+    Clients provided with BIND
+dnswalk (2.0.2.dfsg.1-0.1)
+    Checks dns zone information using nameserver lookups
+docsis (0.9.6+git16-g61ee500+dfsg-2)
+    generates configuration files for DOCSIS-compliant cable modems
+donkey (0.5-19)
+    One Time Password calculator
+dosage (1.6.0-1)
+    powerful webcomic downloader / archiver
+doscan (0.3.1-3)
+    port scanner for discovering services on large networks
+dotmcp (0.2.2-8)
+    mcp for s3d
+dpm (1.8.2-1+b2)
+    Disk Pool Manager (DPM) client
+dpm-copy-server-mysql (1.8.2-1+b2)
+    DPM copy server with MySQL database backend
+dpm-copy-server-postgres (1.8.2-1+b2)
+    DPM copy server with postgres database backend
+dpm-name-server-mysql (1.8.2-1+b2)
+    DPM nameserver server with MySQL database backend
+dpm-name-server-postgres (1.8.2-1+b2)
+    DPM nameserver server with postgres database backend
+dpm-rfio-server (1.8.2-1+b2)
+    DPM RFIO server
+dpm-server-mysql (1.8.2-1+b2)
+    Disk Pool Manager (DPM) server with MySQL database backend
+dpm-server-postgres (1.8.2-1+b2)
+    Disk Pool Manager (DPM) server with postgres database backend
+dpm-srm-server-mysql (1.8.2-1+b2)
+    DPM SRM server with MySQL database backend
+dpm-srm-server-postgres (1.8.2-1+b2)
+    DPM SRM server with postgres database backend
+drac (1.12-7.2)
+    Dynamic Relay Authorization Control (pop-before-smtp)
+drivel (3.0.3-1)
+    Blogging client for the GNOME desktop
+dropbear (2012.55-1.3)
+    lightweight SSH2 server and client
+dsbltesters (0.9.5-4)
+    open proxy/relay testing utilities
+dsh (0.25.10-1)
+    dancer's shell, or distributed shell
+dsniff (2.4b1+debian-22)
+    Various tools to sniff network traffic for cleartext insecurities
+dynagen (0.11.0-6) [contrib]
+    Cisco 7200 Router Emulator Command Line Interface
+dynamips (0.2.7-0.2.8RC2-5.1) [non-free]
+    Cisco 7200/3600/3725/3745/2600/1700 Router Emulator
+ebtables (2.0.10.4-1)
+    Ethernet bridge frame table administration
+echoping (6.0.2-6)
+    Small test tool for TCP servers
+efingerd (1.6.2.7+nmu1)
+    Another finger daemon for unix capable of fine-tuning your output.
+eggdrop (1.6.20-1)
+    Advanced IRC Robot
+eggdrop-data (1.6.20-1)
+    Architecture independent files for eggdrop
+eiskaltdcpp (2.2.6-4)
+    EiskaltDC++ meta-package
+eiskaltdcpp-common (2.2.6-4)
+    common files for EiskaltDC++
+eiskaltdcpp-daemon (2.2.6-4)
+    EiskaltDC++ daemon
+eiskaltdcpp-emoticons (2.2.6-4)
+    emoticons for EiskaltDC++
+eiskaltdcpp-gtk (2.2.6-4)
+    EiskaltDC++ GUI on Gtk
+eiskaltdcpp-gtk-data (2.2.6-4)
+    data files for EiskaltDC++ Gtk
+eiskaltdcpp-qt (2.2.6-4)
+    EiskaltDC++ GUI on Qt
+eiskaltdcpp-qt-data (2.2.6-4)
+    data files for EiskaltDC++ Qt
+eiskaltdcpp-scripts (2.2.6-4)
+    scripts examples for EiskaltDC++
+eiskaltdcpp-sounds (2.2.6-4)
+    sound files for EiskaltDC++
+ejabberd (2.1.10-4+deb7u1)
+    distributed, fault-tolerant Jabber/XMPP server written in Erlang
+ekg (1:1.9~pre+r2854-1)
+    console Gadu Gadu client for UNIX systems - ncurses UI
+ekg-gtk (1:1.9~pre+r2854-1)
+    Gadu Gadu client for UNIX systems - GTK+ UI
+ekg2 (1:0.3.1-3)
+    instant messenger and IRC client for UNIX systems
+ekg2-core (1:0.3.1-3)
+    instant messenger and IRC client for UNIX systems - main program
+ekg2-gnupg (1:0.3.1-3)
+    instant messenger and IRC client for UNIX systems - GnuPG
+ekg2-jabber (1:0.3.1-3)
+    instant messenger and IRC client for UNIX systems - Jabber/XMPP
+ekg2-remote (1:0.3.1-3)
+    instant messenger and IRC client for UNIX systems - remote interface
+ekg2-scripting-perl (1:0.3.1-3)
+    instant messenger and IRC client for UNIX systems - Perl scripting
+ekg2-scripting-python (1:0.3.1-3)
+    instant messenger and IRC client for UNIX systems - Python scripting
+ekg2-ui-gtk (1:0.3.1-3)
+    instant messenger and IRC client for UNIX systems - GTK+ interface
+ekg2-ui-ncurses (1:0.3.1-3)
+    instant messenger and IRC client for UNIX systems - ncurses interface
+ekg2-xosd (1:0.3.1-3)
+    instant messenger and IRC client for UNIX systems - X OSD
+eldav (0.8.1-5)
+    interface to the WebDAV servers for Emacs.
+emacs-jabber (0.8.0-3)
+    Jabber client for Emacsen
+emesene (2.12.5+dfsg-1)
+    instant messaging client
+epic4 (1:2.10.1-1+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1:2.10.1-1 [armhf, s390x])
+    epic irc client, version 4
+epic4-help (1:2.0+20050315-2)
+    help files for epic4 IRC client
+epic4-script-lice (1:4.2.5i-1)
+    Very functional script for epic
+epic5 (1.1.2-2+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.1.2-2 [armhf, s390x])
+    epic irc client, version 5
+epic5-script-lice (1:5.2.3-1)
+    Very functional script for epic
+erc (5.3-1)
+    an IRC client for Emacs
+etherpuppet (0.3-2)
+    create a virtual interface from a remote Ethernet interface
+etherwake (1.09-3)
+    A little tool to send magic Wake-on-LAN packets
+ethstats (1.0-5)
+    script that quickly measures network device throughput
+ethstatus (0.4.3)
+    console-based ethernet statistics monitor
+ethtool (1:3.4.2-1)
+    display or change Ethernet device settings
+eurephia (1.0.1-3+b1 [amd64, armel, i386, ia64, mips, mipsel, powerpc, s390, sparc], 1.0.1-3 [armhf, s390x])
+    flexible OpenVPN authentication module
+exabgp (2.0.7-1)
+    BGP route injector
+ez-ipupdate (3.0.11b8-13.4)
+    client for most dynamic DNS services
+faifa (0.2~svn82-1)
+    manage HomePlug 1.0/AV devices via ethernet frames
+fail2ban (0.8.6-3wheezy3)
+    ban hosts that cause multiple authentication errors
+fair (0.5.3-1)
+    high availability load balancer for TCP connections
+farpd (0.2-11)
+    Fake ARP user space daemon
+fatrat (1.1.3-5)
+    multi-protocol download manager, feature rich and extensible via plugin
+fatrat-czshare (1.1.3-1)
+    fatrat plugin allowing download and upload to czshare
+fatrat-data (1.1.3-5)
+    data files for fatrat
+fatrat-opensubtitles (1.1.3-1)
+    fatrat plugin allowing easy subtitle download
+fatrat-unpack (1.1.3-2) [non-free]
+    non-free fatrat plugin for unpacking archives inside the application
+feed2imap (1.0-2)
+    feed aggregator (RSS/Atom) which puts items on a IMAP mail server
+feed2omb (0.9.2-1)
+    Announces new articles in a feed to an open microblogging service
+ferm (2.1-5)
+    maintain and setup complicated firewall rules
+fetch-crl (3.0.8-1)
+    Downloads Certificate Revocation Lists
+ffproxy (1.6-10)
+    Light and customizable http(s) proxy server with ipv6 support
+fiaif (1.22.1-1)
+    An easy to use, yet complex firewall
+filetea (0.1.12+dfsg1-3)
+    Web-based file sharing system
+filezilla (3.5.3-2)
+    Full-featured graphical FTP/FTPS/SFTP client
+filezilla-common (3.5.3-2)
+    Architecture independent files for filezilla
+filtergen (0.12.4-5.1)
+    packet filter generator for various firewall systems
+finch (2.10.10-1~deb7u1)
+    text-based multi-protocol instant messaging client
+finger (0.17-15)
+    user information lookup program
+fingerd (0.17-15)
+    remote user information server
+firedns (0.9.12+dfsg-3)
+    Runtime binaries for firedns, an asynch. dns resolver library
+firehol (1.273-1)
+    An easy to use but powerful iptables stateful firewall
+fishpoke (0.1.6-4)
+    client for the Fishpoll server
+fishpolld (0.1.6-4)
+    daemon that allows remote script's execution when triggered from the network
+flow-tools (1:0.68-12.1+b1)
+    collects and processes NetFlow data
+flowscan (1.006-13.2)
+    flow-based IP traffic analysis and visualization tool
+flowscan-cuflow (1.7-6)
+    Flowscan module combining CampusIO and SubNetIO
+flowscan-cugrapher (1.7-6)
+    CGI interface for flowscan-cuflow
+flumotion (0.10.0-3)
+    Fluendo Streaming Server - manager, worker and admin
+flush (0.9.12-3)
+    GTK-based BitTorrent client
+forg (0.5.1-7)
+    Graphical Gopher Browser
+fpdns (0.9.3-4)
+    remotely determine DNS server version
+fping (3.2-1)
+    sends ICMP ECHO_REQUEST packets to network hosts
+fprobe (1.1-7.3)
+    export captured traffic to remote NetFlow Collector
+fprobe-ng (1.1-7.3)
+    export captured traffic to remote NetFlow Collector (meta)
+fprobe-ng
+    virtual package provided by fprobe
+fprobe-ulog (1.1-7.3)
+    export captured traffic to remote NetFlow Collector (ULOG version)
+freebsd-net-tools (9.0+ds1-11~deb7u1)
+    FreeBSD networking tools
+freebsd-nfs-common (9.0+ds1-11~deb7u1)
+    NFS support files common to client and server
+freebsd-nfs-server (9.0+ds1-11~deb7u1)
+    FreeBSD server utilities needed for NFS on GNU/kFreeBSD
+freebsd-ppp (9.0+ds1-11~deb7u1)
+    FreeBSD Point-to-Point Protocol (PPP) userland daemon
+freeradius (2.1.12+dfsg-1.2)
+    high-performance and highly configurable RADIUS server
+freeradius-common (2.1.12+dfsg-1.2)
+    FreeRADIUS common files
+freeradius-dialupadmin (2.1.12+dfsg-1.2)
+    set of PHP scripts for administering a FreeRADIUS server
+freeradius-iodbc (2.1.12+dfsg-1.2)
+    iODBC module for FreeRADIUS server
+freeradius-krb5 (2.1.12+dfsg-1.2)
+    kerberos module for FreeRADIUS server
+freeradius-ldap (2.1.12+dfsg-1.2)
+    LDAP module for FreeRADIUS server
+freeradius-mysql (2.1.12+dfsg-1.2)
+    MySQL module for FreeRADIUS server
+freeradius-postgresql (2.1.12+dfsg-1.2)
+    PostgreSQL module for FreeRADIUS server
+freeradius-utils (2.1.12+dfsg-1.2)
+    FreeRADIUS client utilities
+freetalk (3.2-11)
+    console based Jabber client
+ftp (0.17-27)
+    classical file transfer client
+ftp
+    virtual package provided by ftp-ssl, heimdal-clients
+ftp-proxy (1.9.2.4-8)
+    application level proxy for the FTP protocol
+ftp-ssl (0.17.23+0.2-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.17.23+0.2-1 [armhf, s390x])
+    The FTP client with SSL or TLS encryption support
+ftp-upload (1.5)
+    put files with FTP from a script
+ftpd (0.17-34)
+    File Transfer Protocol (FTP) server
+ftpd-ssl (0.17.33+0.3-1)
+    FTP server with SSL encryption support
+ftpgrab (0.1.5-3)
+    file mirroring utility
+ftpmirror (1.96+dfsg-13)
+    Mirroring directory hierarchy using FTP protocol
+ftpwatch (1.21)
+    Notifies you of changes on remote ftp servers
+fusioninventory-agent (2.2.3-8)
+    Hardware and software inventory tool (client)
+fwanalog (0.6.9-6.2)
+    firewall log-file report generator (using analog)
+fwbuilder (5.1.0-3)
+    Firewall administration tool GUI
+fwbuilder-common (5.1.0-3)
+    Firewall administration tool GUI (common files)
+fwlogwatch (1.2-2)
+    Firewall log analyzer
+gaim-extendedprefs (0.7-2)
+    plugin for the instant messenger pidgin (transitional package)
+gaim-hotkeys (0.2.4-1.2)
+    Configurable global hotkeys for pidgin
+gaim-librvp (0.9.5-3)
+    MS Exchange RVP instant messaging plugin for GAIM - transitional
+gaim-librvp
+    virtual package provided by pidgin-librvp
+gaim-themes (0.2-1)
+    Transitional dummy package
+gaim-thinklight (0.11.1-1)
+    Transitional package to pidgin-thinklight
+gajim (0.15.1-4.1)
+    Jabber client written in PyGTK
+galaxd (1.1-10+b3 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, sparc], 1.1-10+b1 [armhf, ia64, mips, mipsel, s390], 1.1-10 [s390x])
+    XQuery implementation with static typing - network servers
+gamt (1.3-1)
+    Serial-over-lan (sol) client for Intel AMT, gtk version
+ganglia-monitor (3.3.8-1+nmu1)
+    cluster monitoring toolkit - node daemon
+ganglia-monitor-python (3.3.8-1+nmu1)
+    cluster monitoring toolkit - python modules
+ganglia-webfrontend (3.3.8-1+nmu1)
+    cluster monitoring toolkit - web front-end
+gatling (0.12cvs20120114-4)
+    high performance web server and file server
+gcom (0.32-2)
+    datacard control tool - transitional package
+gemanx-gtk2 (0.1.0.3-2)
+    Term BBS Client beyond PCMan X
+geoip-bin (1.4.8+dfsg-3)
+    IP lookup command line tools that use the GeoIP library
+geoip-database (20130213-1)
+    IP lookup command line tools that use the GeoIP library (country database)
+geoip-database
+    virtual package provided by geoip-database-contrib
+geoip-database-contrib (1.8) [contrib]
+    GeoLite binary database (downloader)
+gerstensaft (0.3-4)
+    Frontend for Simple Asynchronous File Transfer
+getstream (20081204-1.1)
+    DVB streaming application
+gfarm2fs (1.2.2-1.1)
+    FUSE program to mount the Gfarm file system
+gfmd (2.4.1-1.1)
+    Gfarm file system metadata server
+gfsd (2.4.1-1.1)
+    Gfarm file system daemon
+gftp (2.0.19-4)
+    X/GTK+ and console FTP client (metapackage)
+gftp-common (2.0.19-4)
+    shared files for other gFTP packages
+gftp-gtk (2.0.19-4)
+    X/GTK+ FTP client
+gftp-text (2.0.19-4)
+    colored FTP client using GLib
+gkrellm-snmp (1.0-1.2+b1 [amd64, armel, i386, ia64, mips, mipsel, powerpc, s390, sparc], 1.0-1.2 [armhf, s390x])
+    snmp plug-in for GKrellM
+globus-common-progs (14.7-2)
+    Globus Toolkit - Common Library Programs
+globus-core (8.8-2)
+    Globus Toolkit - Globus Core
+globus-gass-cache-program (5.1-1)
+    Globus Toolkit - Tools to manipulate local and remote GASS caches
+globus-gass-copy-progs (8.4-1)
+    Globus Toolkit - Globus Gass Copy Programs
+globus-gass-server-ez-progs (4.3-1)
+    Globus Toolkit - Globus Gass Server_ez Programs
+globus-gatekeeper (9.11-1)
+    Globus Toolkit - Globus Gatekeeper
+globus-gfork-progs (3.2-1)
+    Globus Toolkit - GFork Programs
+globus-gram-audit (3.1-3)
+    Globus Toolkit - GRAM Jobmanager Auditing
+globus-gram-client-tools (10.3-1)
+    Globus Toolkit - Job Management Tools (globusrun)
+globus-gram-job-manager (13.33-1)
+    Globus Toolkit - GRAM Jobmanager
+globus-gram-job-manager-condor (1.3-1)
+    Globus Toolkit - Condor Job Manager Support
+globus-gram-job-manager-fork (1.5-1)
+    Globus Toolkit - Fork Job Manager Support
+globus-gram-job-manager-fork-setup-poll (1.5-1)
+    Globus Toolkit - Fork Job Manager Support using polling
+globus-gram-job-manager-fork-setup-seg (1.5-1)
+    Globus Toolkit - Fork Job Manager Support using SEG
+globus-gram-job-manager-pbs (1.5-1)
+    Globus Toolkit - PBS Job Manager Support
+globus-gram-job-manager-pbs-setup-poll (1.5-1)
+    Globus Toolkit - PBS Job Manager Support using polling
+globus-gram-job-manager-pbs-setup-seg (1.5-1)
+    Globus Toolkit - PBS Job Manager Support using SEG
+globus-gram-job-manager-scripts (4.2-2)
+    Globus Toolkit - GRAM Job ManagerScripts
+globus-gram-job-manager-sge (1.5-1)
+    Globus Toolkit - Grid Engine Job Manager Support
+globus-gram-job-manager-sge-setup-poll (1.5-1)
+    Globus Toolkit - Grid Engine Job Manager Support using polling
+globus-gram-job-manager-sge-setup-seg (1.5-1)
+    Globus Toolkit - Grid Engine Job Manager Support using SEG
+globus-gridftp-server-progs (6.10-2)
+    Globus Toolkit - Globus GridFTP Server Programs
+globus-gsi-cert-utils-progs (8.3-1)
+    Globus Toolkit - Globus GSI Cert Utils Library Programs
+globus-gss-assist-progs (8.5-1)
+    Globus Toolkit - GSSAPI Assist library Programs
+globus-openssl-module-progs (3.2-1)
+    Globus Toolkit - Globus OpenSSL Module Wrapper Programs
+globus-proxy-utils (5.0-2)
+    Globus Toolkit - Globus GSI Proxy Utility Programs
+globus-rls-client-progs (5.2-8)
+    Globus Toolkit - Replica Location Service Client Programs
+globus-rls-server (4.9-11)
+    Globus Toolkit - Replica Location Service Server
+globus-scheduler-event-generator-progs (4.6-1)
+    Globus Toolkit - Scheduler Event Generator Programs
+globus-simple-ca (3.0-2)
+    Globus Toolkit - Simple CA Utility
+globus-xioperf (3.1-1)
+    Globus Toolkit - XIO Performance Tool
+glue-schema (2.0.8-1)
+    LDAP schema files for the GLUE Schema
+gmediaserver (0.13.0-8)
+    UPnP Mediaserver
+gmetad (3.3.8-1+nmu1)
+    cluster monitoring toolkit - Ganglia Meta-Daemon
+gnome-btdownload (0.0.32-4)
+    GNOME interface for 'executing' BitTorrent files
+gnome-ppp (0.3.23-1.2)
+    modem internet connection tool for the GNOME Desktop
+gns3 (0.7.4-1) [contrib]
+    graphical network simulator
+gnunet (0.9.3-7)
+    secure, trust-based peer-to-peer framework (meta)
+gnunet-client (0.9.3-7)
+    secure, trust-based peer-to-peer framework (client)
+gnunet-common (0.9.3-7)
+    secure, trust-based peer-to-peer framework (common)
+gnunet-fuse (0.9.3-2)
+    secure, trust-based peer-to-peer framework (fuse filesystem client)
+gnunet-gtk (0.9.3-1)
+    secure, trust-based peer-to-peer framework (GTK+ client)
+gnunet-server (0.9.3-7)
+    secure, trust-based peer-to-peer framework (server)
+gnutls-bin (3.0.22-3+really2.12.20-8+deb7u3) [security]
+    GNU TLS library - commandline utilities
+gobby-0.4 (0.4.13-2)
+    collaborative text editor
+gobby-0.5 (0.4.94-5)
+    infinote-based collaborative text editor
+gobby-infinote (0.4.94-5)
+    infinote-based collaborative text editor (current)
+gogoc (1:1.2-4)
+    Client to connect to IPv6 tunnel brokers
+gopher (3.0.13)
+    Distributed Hypertext Client, Gopher protocol
+gozerbot (0.99.1-2)
+    IRC and Jabber bot written in Python
+gozerbot-plugins (0.9.1.2-4)
+    Plugins for the gozerbot IRC and Jabber bot
+grepcidr (1.3-5)
+    Filter IP addresses matching IPv4 CIDR/network specification
+gresolver (0.0.5-5)
+    graphical tool for performing DNS queries
+gridsite (1.7.16-1)
+    Grid Security for the Web, Web platforms for Grids
+gridsite-clients (1.7.16-1)
+    Clients to gridsite: htcp, htrm, htmv
+gridsite-gsexec (1.7.16-1)
+    Setuid gsexec tools for gridsite
+gssdp-tools (0.12.2.1-2)
+    GObject-based library for SSDP (tools)
+gstreamer0.10-nice (0.1.2-1)
+    ICE library (GStreamer plugin)
+gtk-gnutella (0.98.3-1)
+    shares files in a peer to peer network
+guacamole (0.6.0-1)
+    HTML5 web application for accessing remote desktops
+guacamole-tomcat (0.6.0-1)
+    Tomcat-based Guacamole install with VNC support
+guacd (0.6.0-1)
+    Guacamole proxy daemon
+guessnet (0.55)
+    Guess which LAN a network device is connected to
+gupnp-dlna-tools (0.6.6-1)
+    GObject-based library for GUPnP DLNA (tools)
+gupnp-tools (0.8.4-1+b1 [armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.8.4-1 [amd64, armhf, s390x])
+    tools for testing UPnP devices and control points
+gurlchecker (0.13.1-2.1)
+    graphical websites checker
+gvpe (2.24-2)
+    creates a virtual ethernet between multiple endpoints
+gw6c (1:1.2-4)
+    Transitional dummy package
+gwakeonlan (0.5.1-1)
+    wakes up your machines using Wake on LAN
+gwhois (20120626)
+    generic Whois Client / Server
+heimdal-clients (1.6~git20120403+dfsg1-2)
+    Heimdal Kerberos - clients
+heimdal-clients-x (1.6~git20120403+dfsg1-2)
+    Heimdal Kerberos - X11 client programs
+heimdal-kcm (1.6~git20120403+dfsg1-2)
+    Heimdal Kerberos - KCM daemon
+heimdal-kdc (1.6~git20120403+dfsg1-2)
+    Heimdal Kerberos - key distribution center (KDC)
+heimdal-servers (1.6~git20120403+dfsg1-2)
+    Heimdal Kerberos - server programs
+heimdal-servers-x (1.6~git20120403+dfsg1-2)
+    Heimdal Kerberos - X11 server programs
+hitchhiker (0.01~20091129+bzr41-4)
+    access locations using Bazaar transports
+hobbit-plugins (20120532)
+    plugins for the Xymon network monitor
+host (1:9.8.4.dfsg.P1-6+nmu2+deb7u4) [security]
+    Transitional package
+host
+    virtual package provided by bind9-host
+hostap-utils (1:0.4.7-1)
+    Utility programs for Host AP driver for Intersil Prism2/2.5/3
+hostapd (1:1.0-3+deb7u1)
+    user space IEEE 802.11 AP and IEEE 802.1X/WPA/WPA2/EAP Authenticator
+hotot (1:0.9.7.32+git20111213.1d89daf-1.1)
+    lightweight microblogging client
+hping3 (3.a2.ds2-6)
+    Active Network Smashing Tool
+hpsockd (0.17+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.17 [armhf, s390x])
+    HP SOCKS server
+httping (1.5.3-1)
+    ping-like program for http-requests
+httptunnel (3.3+dfsg-3)
+    Tunnels a data stream in HTTP requests
+hunt (1.5-6)
+    Advanced packet sniffer and connection intrusion
+ibid (0.1.1+dfsg-4)
+    easily extensible Python IM bot for IRC, Jabber, SILC, campfire, etc.
+ibod (1.5.0-6)
+    ISDN MPPP bandwidth on demand daemon
+ibsim-utils (0.5-1.1)
+    InfiniBand fabric simulator utilities
+ibutils (1.2-OFED-1.4.2-1.3)
+    InfiniBand network utilities
+ibverbs-utils (1.1.6-1)
+    Examples for the libibverbs library
+icecream (1.3-4)
+    lightweight stream download utility
+icinga (1.7.1-7)
+    host and network monitoring system - metapackage
+icinga-cgi (1.7.1-7)
+    host and network monitoring system - CGI scripts
+icinga-common (1.7.1-7)
+    host and network monitoring system - support files
+icinga-core (1.7.1-7)
+    host and network monitoring system - core files
+icinga-idoutils (1.7.1-7)
+    host and network monitoring system - icinga-dataobjects support
+icli (0.42-1)
+    command line interface for the icinga monitoring system
+icmpinfo (1.11-7)
+    Interpret ICMP messages
+icmptx (0.2-1)
+    Tunnel IP over ICMP
+icmpush (2.2-6+b1 [mips, mipsel], 2.2-6 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, powerpc, s390, s390x, sparc])
+    ICMP packet builder
+ident2 (1.07-1.1)
+    An advanced ident daemon
+identicurse (0.9+dfsg0-1)
+    simple Identi.ca client with a curses-based UI
+ifenslave-2.6 (1.1.0-20)
+    Attach and detach slave interfaces to a bonding device
+ifhp (3.5.20-12.1)
+    Printer filter for HP LaserJet printers
+ifmetric (0.3-2+deb7u1)
+    Set routing metrics for a network interface
+ifplugd (0.28-19)
+    configuration daemon for ethernet devices
+ifrename (30~pre9-8)
+    Rename network interfaces based on various static criteria
+ifscheme (1.7-3)
+    scheme control for network interfaces
+ifstat (1.1-8)
+    InterFace STATistics Monitoring
+iftop (1.0~pre2-4~deb7u2)
+    displays bandwidth usage information on an network interface
+ifupdown-scripts-zg2 (0.6-1)
+    Zugschlus' interface scripts for ifupdown's manual method
+ii (1.6-1)
+    minimalist FIFO and filesystem-based IRC client
+ike-scan (1.9-4+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.9-4 [armhf, s390x])
+    discover and fingerprint IKE hosts (IPsec VPN Servers)
+imsniff (0.04-6)
+    Simple program to log Instant Messaging activity on the network
+imspector (0.9-1)
+    instant messenger proxy
+inadyn (1.96.2-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, mipsel], 1.96.2-1 [armhf, kfreebsd-i386, mips, powerpc, s390, s390x, sparc])
+    client to alleviate the requirements for an Internet name
+inetutils-ftp (2:1.9-2)
+    File Transfer Protocol client
+inetutils-ftpd (2:1.9-2)
+    File Transfer Protocol server
+inetutils-inetd (2:1.9-2)
+    internet super server
+inetutils-ping (2:1.9-2)
+    ICMP echo tool
+inetutils-syslogd (2:1.9-2)
+    system logging daemon
+inetutils-talk (2:1.9-2)
+    talk to another user
+inetutils-talkd (2:1.9-2)
+    remote user communication server
+inetutils-telnet (2:1.9-2)
+    telnet client
+inetutils-telnetd (2:1.9-2)
+    telnet server
+inetutils-tools (2:1.9-2)
+    base networking utilities (experimental package)
+inetutils-traceroute (2:1.9-2)
+    trace the IPv4 route to another host
+infiniband-diags (1.4.4-20090314-1.2)
+    InfiniBand diagnostic programs
+infinoted (0.5.2-6.1)
+    dedicated server for infinote-based collaborative editing
+inspircd (2.0.5-1+b1)
+    Modular IRCd written in C++
+iodine (0.6.0~rc1-12+deb7u1)
+    tool for tunneling IPv4 data through a DNS server
+iog (1.03-3.6)
+    network I/O grapher
+ion (3.0.1~dfsg1-1)
+    NASA implementation of Delay-Tolerant Networking (DTN)
+ipband (0.8.1-3)
+    daemon for subnet bandwidth monitoring with reporting via email
+ipcalc (0.41-2.1)
+    parameter calculator for IPv4 addresses
+ipcheck (0.233-1.1)
+    Dyndns.org client to register your dynamic IP address
+iperf (2.0.5-3)
+    Internet Protocol bandwidth measuring tool
+ipfm (0.11.5-4.1)
+    a bandwidth analysis tool
+ipgrab (0.9.10-1)
+    tcpdump-like utility that prints detailed header information
+ipheth-utils (1.0-3+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.0-3 [armhf, s390x])
+    USB tethering driver support utilities for the iPhone
+ipip (1.1.9)
+    IP over IP Encapsulation Daemon
+ipkungfu (0.6.1-6)
+    iptables-based Linux firewall
+ippl (1.4.14-12.1)
+    IP protocols logger
+ipppd (1:3.25+dfsg1-3.3~deb7u1)
+    ISDN utilities - PPP daemon
+iprelay (0.71-4)
+    User-space bandwidth shaping TCP proxy daemon
+iproute (20120521-3+b3)
+    networking and traffic control tools
+ipsec-tools (1:0.8.0-14)
+    IPsec utilities
+ipset (6.12.1-1)
+    administration tool for kernel IP sets
+ipsvd (1.0.0-2)
+    Internet protocol service daemons
+iptables (1.4.14-3.1)
+    administration tools for packet filtering and NAT
+iptraf (3.0.0-8.1)
+    Interactive Colorful IP LAN Monitor
+iptux (0.5.3-1)
+    intranet communication tool for Linux
+iputils-arping (3:20101006-1+b2 [armhf], 3:20101006-1+b1 [amd64, armel, i386, ia64, mips, mipsel, powerpc, s390, sparc], 3:20101006-1 [s390x])
+    Tool to send ICMP echo requests to an ARP address
+iputils-clockdiff (3:20101006-1+b2 [armhf], 3:20101006-1+b1 [amd64, armel, i386, ia64, mips, mipsel, powerpc, s390, sparc], 3:20101006-1 [s390x])
+    Measure the time difference between networked computers
+iputils-ping (3:20101006-1+b2 [armhf], 3:20101006-1+b1 [amd64, armel, i386, ia64, mips, mipsel, powerpc, s390, sparc], 3:20101006-1 [s390x])
+    Tools to test the reachability of network hosts
+iputils-tracepath (3:20101006-1+b2 [armhf], 3:20101006-1+b1 [amd64, armel, i386, ia64, mips, mipsel, powerpc, s390, sparc], 3:20101006-1 [s390x])
+    Tools to trace the network path to a remote host
+ipv6calc (0.93.1-2)
+    small utility for manipulating IPv6 addresses
+ipvsadm (1:1.26-1)
+    Linux Virtual Server support programs
+ipwatchd (1.2.1-1)
+    IP conflict detection tool
+ipx (2.2.6-9)
+    utilities to configure the kernel ipx interface
+ircd-hybrid (1:7.2.2.dfsg.2-10)
+    high-performance secure IRC server
+ircd-irc2 (2.11.2p2+dfsg-2)
+    The original IRC server daemon
+ircd-ircu (2.10.12.10.dfsg1-1.1)
+    Undernet IRC Server daemon
+ircd-ratbox (3.0.7.dfsg-3)
+    advanced, stable and fast ircd
+ircii (20060725-1)
+    Internet Relay Chat client
+iroffer (1.4.b03-3)
+    IRC file distribution bot
+irpas (0.10-4.1) [non-free]
+    Internetwork Routing Protocol Attack Suite
+irssi (0.8.15-5)
+    terminal based IRC client
+irssi-dev (0.8.15-5)
+    terminal based IRC client - development files
+irssi-plugin-xmpp (0.52-1)
+    XMPP plugin for irssi
+irssi-scripts (20120326)
+    collection of scripts for irssi
+isakmpd (20041012-7.2)
+    The Internet Key Exchange protocol openbsd implementation
+isatapd (0.9.6-2)
+    creates and maintains an ISATAP client tunnel (RFC 5214)
+isc-dhcp-client (4.2.2.dfsg.1-5+deb70u6)
+    ISC DHCP client
+isc-dhcp-common (4.2.2.dfsg.1-5+deb70u6)
+    common files used by all the isc-dhcp* packages
+isc-dhcp-relay (4.2.2.dfsg.1-5+deb70u6)
+    ISC DHCP relay daemon
+isc-dhcp-server (4.2.2.dfsg.1-5+deb70u6)
+    ISC DHCP server for automatic IP address assignment
+isc-dhcp-server-ldap (4.2.2.dfsg.1-5+deb70u6)
+    DHCP server able to use LDAP as backend
+iscsitarget (1.4.20.2-10.1)
+    iSCSI Enterprise Target userland tools
+isns (2.1-01+dfsg-3)
+    Internet Storage Naming Service
+isns-client (2.1-01+dfsg-3)
+    Internet Storage Naming Service - cli-client
+iw (3.4-1)
+    tool for configuring Linux wireless devices
+jabber-irc (0.4cvs20080505-1.1)
+    IRC transport for jabber
+jabber-querybot (0.1.0-1)
+    Modular xmpp/jabber bot
+jd (1:2.8.5~beta120206-3)
+    simple browser for "2ch-style" web forum sites
+jets3t (0.8.1+dfsg-1)
+    graphical and command-line tools for Amazon S3 and CloudFront
+jftp (1.52+dfsg-2)
+    Java GUI client for FTP, SMB, SFTP and NFS
+jmeter (2.5.1-1)
+    Load testing and performance measurement application (main application)
+jmeter-ftp (2.5.1-1)
+    Load testing and performance measurement application (ftp module)
+jmeter-http (2.5.1-1)
+    Load testing and performance measurement application (http module)
+jmeter-java (2.5.1-1)
+    Load testing and performance measurement application (java module)
+jmeter-jms (2.5.1-1)
+    Load testing and performance measurement application (jms module)
+jmeter-junit (2.5.1-1)
+    Load testing and performance measurement application (junit module)
+jmeter-ldap (2.5.1-1)
+    Load testing and performance measurement application (ldap module)
+jmeter-mail (2.5.1-1)
+    Load testing and performance measurement application (mail module)
+jmeter-tcp (2.5.1-1)
+    Load testing and performance measurement application (tcp module)
+jnettop (0.13.0-1)
+    View hosts/ports taking up the most network traffic
+jsonbot (0.84.4-1)
+    Framework for building bots for IRC, XMPP and the Web
+jta (2.6+dfsg-5)
+    Java telnet/ssh applet
+junior-internet (1.20)
+    Debian Jr. Internet tools
+jwhois (4.0-2.1)
+    Improved Caching Whois client
+kadu (0.11.2-1)
+    Gadu-Gadu/XMPP client for X11
+kadu-common (0.11.2-1)
+    Gadu-Gadu/XMPP client for X11
+kadu-dev (0.11.2-1)
+    Development files needed to compile plugins for kadu
+kadu-external-modules (0.11.2-1)
+    Additional plugins for Kadu
+kadu-themes (0.11.2-1)
+    Additional icons and emoticons for Kadu
+kanif (1.2.2-1)
+    cluster management and administration swiss army knife
+kannel (1.4.3-2+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.4.3-2+b1 [armhf, s390x])
+    WAP and SMS gateway
+kannel-docs (1.4.3-2)
+    WAP and SMS gateway documentation
+kannel-extras (1.4.3-2+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.4.3-2+b1 [armhf, s390x])
+    WAP and SMS gateway extras
+kannel-sqlbox (0.7.2-3+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.7.2-3+b1 [armhf, s390x])
+    SQL helper application for Kannel WAP and SMS gateway
+kdenetwork-filesharing (4:4.8.4-1+b1)
+    network filesharing configuration module
+keychain (2.7.1-1)
+    key manager for OpenSSH
+kget (4:4.8.4-1+b1)
+    download manager
+kism3d (0.2.2-8)
+    802.11 visualizer for s3d
+kleopatra (4:4.4.11.1+l10n-3+b1)
+    certificate Manager
+kmess (2.0.6.1-3)
+    MSN messenger for KDE
+kmldonkey (2.0.5+kde4.3.3-2)
+    KDE GUI for MLDonkey
+knockd (0.5-3)
+    small port-knock daemon
+knocker (0.7.1-4)
+    Simple and easy to use TCP security port scanner
+konversation (1.4-1+deb7u1)
+    user friendly Internet Relay Chat (IRC) client for KDE
+konversation-data (1.4-1+deb7u1)
+    data files for Konversation
+kopete (4:4.8.4-1+b1)
+    instant messaging and chat application
+kppp (4:4.8.4-1+b1)
+    modem dialer for KDE
+krb5-admin-server (1.10.1+dfsg-5+deb7u3) [security]
+    MIT Kerberos master server (kadmind)
+krb5-clients (1:1.0.1-4)
+    Secure replacements for ftp, telnet and rsh using MIT Kerberos
+krb5-config (2.3)
+    Configuration files for Kerberos Version 5
+krb5-ftpd (1:1.0.1-4)
+    Secure FTP server supporting MIT Kerberos
+krb5-gss-samples (1.10.1+dfsg-5+deb7u3) [security]
+    MIT Kerberos GSS Sample applications
+krb5-kdc (1.10.1+dfsg-5+deb7u3) [security]
+    MIT Kerberos key server (KDC)
+krb5-kdc-ldap (1.10.1+dfsg-5+deb7u3) [security]
+    MIT Kerberos key server (KDC) LDAP plugin
+krb5-pkinit (1.10.1+dfsg-5+deb7u3) [security]
+    PKINIT plugin for MIT Kerberos
+krb5-rsh-server (1:1.0.1-4)
+    Secure replacements for rshd and rlogind using MIT Kerberos
+krb5-sync-plugin (2.2-3)
+    MIT Kerberos Active Directory synchronization plugin
+krb5-sync-tools (2.2-3)
+    Kerberos Active Directory synchronization tools
+krb5-telnetd (1:1.0.1-4)
+    Secure telnet server supporting MIT Kerberos
+krb5-user (1.10.1+dfsg-5+deb7u3) [security]
+    Basic programs to authenticate using MIT Kerberos
+krdc (4:4.8.4-1+b1)
+    Remote Desktop Connection client
+kredentials (2.0~pre3-1.1)
+    KDE taskbar applet to update kerberos/AFS credentials
+krfb (4:4.8.4-1+b1)
+    Desktop Sharing utility
+kstart (4.1-2)
+    Kerberos kinit supporting AFS and ticket refreshing
+ktorrent (4.2.1-1)
+    BitTorrent client based on the KDE platform
+ktorrent-data (4.2.1-1)
+    KTorrent data and other architecture independent files
+kup-client (0.3.2-1)
+    kernel.org upload tool
+kup-server (0.3.2-1)
+    kernel.org upload server
+kvirc (4:4.1.3+20111124.svn5988-2)
+    KDE-based next generation IRC client with module support
+kvirc-data (4:4.1.3+20111124.svn5988-2)
+    Data files for KVIrc
+l2tp-ipsec-vpn (1.0.9-1)
+    control your L2TP IPsec VPN connections
+l2tp-ipsec-vpn-daemon (0.9.9-1)
+    daemon for L2tpIPsecVpn GUI
+l2tpns (2.1.21-1.1)
+    layer 2 tunnelling protocol network server (LNS)
+l7-filter-userspace (0.12-beta1-1)
+    Userspace layer 7 packet classifier
+l7-protocols (20090528-4)
+    protocol definitions for the Linux layer 7 packet classifier
+labrea (2.5-stable-3)
+    a "sticky" honeypot and IDS
+ladvd (0.9.2-2)
+    minimal LLDP/CDP sender
+lambdabot (4.2.3.2-4)
+    Development tool and advanced IRC bot
+lat (1.2.3-10)
+    LDAP Administration Tool
+latd (1.32)
+    LAT (Local Area Transport) Daemon
+lbcd (3.3.0-1)
+    Return system load via UDP for remote load balancers
+lcrt (1.1.2-1)
+    graphic Linux remote login tool
+ldap-utils (2.4.31-2) [security]
+    OpenLDAP utilities
+ldnsutils (1.6.13-1+deb7u1)
+    ldns library for DNS programming
+lekhonee-gnome (0.11-3)
+    desktop client for wordpress blogs
+lfc (1.8.2-1+b2)
+    LCG File Catalog (LFC) client
+lfc-dli (1.8.2-1+b2)
+    LCG File Catalog (LFC) data location interface (dli) server
+lfc-server-mysql (1.8.2-1+b2)
+    LCG File Catalog (LFC) server with MySQL database backend
+lfc-server-postgres (1.8.2-1+b2)
+    LCG File Catalog (LFC) server with postgres database backend
+lft (2.2-4)
+    layer-four traceroute
+lftp (4.3.6-1+deb7u2)
+    Sophisticated command-line FTP/HTTP client programs
+libapache2-mod-php5 (5.4.39-0+deb7u2) [security]
+    server-side, HTML-embedded scripting language (Apache 2 module)
+libc-icap-mod-clamav (1:0.1.6-1)
+    C-ICAP Antivirus Service for c-icap (libclamav)
+libc-icap-mod-urlcheck (1:0.1.6-1)
+    C-ICAP URL Check Service for c-icap
+libiscsi-bin (1.4.0-3)
+    iSCSI client shared library - utilities
+libnss-winbind (2:3.6.6-6+deb7u5) [security]
+    Samba nameservice integration plugins
+libpam-winbind (2:3.6.6-6+deb7u5) [security]
+    Windows domain authentication integration plugin
+libpurple-bin (2.10.10-1~deb7u1)
+    multi-protocol instant messaging library - extra utilities
+libstrongswan (4.5.2-1.5+deb7u6) [security]
+    strongSwan utility and crypto library
+libtango-tools (7.2.6+dfsg-14)
+    TANGO distributed control system - common executable files
+libtelnet-utils (0.21-1)
+    Small library for parsing the TELNET protocol - utilities
+libtrace-tools (3.0.14-1)
+    helper utilities for use with the libtrace process library
+licq (1.6.1-3)
+    multi-protocol instant messaging client (base files)
+licq-plugin-autoreply (1.6.1-3)
+    autoreply plug-in for Licq
+licq-plugin-console (1.6.1-3)
+    console user interface plug-in for Licq
+licq-plugin-forwarder (1.6.1-3)
+    forwarder plug-in for Licq
+licq-plugin-jabber (1.6.1-3)
+    Jabber plug-in for Licq
+licq-plugin-kde4 (1.6.1-3)
+    graphical user interface plug-in for Licq using KDE4
+licq-plugin-msn (1.6.1-3)
+    MSN plug-in for Licq
+licq-plugin-osd (1.6.1-3)
+    on-screen display plug-in for Licq
+licq-plugin-qt4 (1.6.1-3)
+    graphical user interface plug-in for Licq using Qt4
+licq-plugin-qt4-common (1.6.1-3)
+    common data files for the Qt4 and KDE4 Licq plugins
+licq-plugin-rms (1.6.1-3)
+    remote management server plug-in for telnet Licq access
+liece (2.0+0.20030527cvs-11)
+    IRC (Internet Relay Chat) client for Emacs
+liece-dcc (2.0+0.20030527cvs-11+b1 [kfreebsd-i386], 2.0+0.20030527cvs-11 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, mips, mipsel, powerpc, s390, s390x, sparc])
+    DCC program for liece
+linux-igd (1.0+cvs20070630-4)
+    Linux UPnP Internet Gateway Device
+linuxdcpp (1.1.0-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.1.0-1+b1 [armhf, s390x])
+    Port of the Windows file-sharing program, DC++
+linuxvnc (0.9.9+dfsg-1+deb7u1)
+    VNC server to allow remote access to a tty
+listadmin (2.40-4)
+    command line mailman moderator queue manipulation
+livemedia-utils (2012.05.17-1+wheezy1) [security]
+    multimedia RTSP streaming tools
+lksctp-tools (1.0.11+dfsg-2)
+    user-space access to Linux Kernel SCTP - commandline tools
+lldpad (0.9.44-1)
+    Link Layer Discovery Protocol Implementation (Runtime)
+lldpd (0.5.7-2)
+    implementation of IEEE 802.1ab (LLDP)
+logjam (4.6.2-1)
+    Client for LiveJournal-based sites
+loqui (0.5.3-3)
+    GTK+ based multipane IRC/Chat Client
+lostirc (0.4.6-4)
+    simple gtk-based IRC client
+lottanzb (0.6-1)
+    simple and automated Usenet downloader for Newzbin (NZB) files
+lowpan-test-tools (0.2.2-2.1)
+    Testing programs for LoWPAN stack in Linux
+lowpan-tools (0.2.2-2.1)
+    Base programs for LoWPAN in Linux, the net-tools for LoWPAN
+lpr (1:2008.05.17+nmu1)
+    BSD lpr/lpd line printer spooling system
+lpr
+    virtual package provided by lprng, cups-bsd
+lprng (3.8.B-2)
+    lpr/lpd printer spooling system
+lsh-client (2.0.4-dfsg-11)
+    Secure Shell v2 (SSH2) protocol client
+lsh-server (2.0.4-dfsg-11)
+    Secure Shell v2 (SSH2) protocol server
+lsh-utils (2.0.4-dfsg-11)
+    Secure Shell v2 (SSH2) protocol utilities
+ltspfs (1.1-2)
+    Fuse based remote filesystem for LTSP thin clients
+ltspfsd (1.1-2)
+    Fuse based remote filesystem hooks for LTSP thin clients
+ltspfsd-core (1.1-2)
+    Fuse based remote filesystem daemon for LTSP thin clients
+lwresd (1:9.8.4.dfsg.P1-6+nmu2+deb7u4) [security]
+    Lightweight Resolver Daemon
+lyskom-elisp-client (0.48+cvs20100715-3)
+    emacs client for LysKOM
+lyskom-server (2.1.2-13)
+    Server for the LysKOM conference system
+macchanger (1.5.0-9)
+    utility for manipulating the MAC address of network interfaces
+mactelnet-client (0.3.4-1)
+    Console tools for telneting and pinging via MAC addresses
+mactelnet-server (0.3.4-1)
+    Telnet daemon for accepting connections via MAC addresses
+mailutils-comsatd (1:2.99.97-3)
+    GNU mailutils-based comsatd daemon
+mailutils-imap4d (1:2.99.97-3)
+    GNU mailutils-based IMAP4 Daemon
+mailutils-pop3d (1:2.99.97-3)
+    GNU mailutils-based POP3 Daemon
+maki (1.4.0+dfsg-1)
+    D-Bus-based IRC suite (daemon)
+maki-plugins (1.4.0+dfsg-1)
+    D-Bus-based IRC suite (daemon plugins)
+manderlbot (0.9.2-17)
+    An IRC bot, written in Erlang
+mangler (1.2.4-1)
+    Ventrilo compatible client for Linux
+mango-lassi (001+dfsg-5)
+    Share mouse and pointer with other computers
+maradns (1.4.12-5)
+    simple security-focused Domain Name Service server
+maradns-zoneserver (1.4.12-5)
+    complementary server process to TCP functions for MaraDNS
+martian-modem (20080625-2) [non-free]
+    ltmodem alternative driver providing support for Agere WinModem
+martian-modem-source (20080625-2) [non-free]
+    Source for the martian-modem driver
+mason (1.0.0-12.3)
+    Interactively creates a Linux packet filtering firewall
+mcabber (0.10.1-3)
+    small Jabber (XMPP) console client
+mediatomb (0.12.1-4)
+    UPnP MediaServer (main package)
+mediatomb-common (0.12.1-4+b1)
+    UPnP MediaServer (base package)
+mediatomb-daemon (0.12.1-4)
+    UPnP MediaServer (daemon package)
+melange (1:2012.1-3)
+    IPAM management service for Openstack - Daemons
+meshs3d (0.2.2-8)
+    OLSR/B.A.T.M.A.N. topology visualizer for s3d
+metalink (0.3.6-2+b1)
+    Generator for Metalink files
+mgen (5.02+dfsg2-3)
+    packet generator for IP network performance tests
+micro-inetd (20050629-5)
+    simple network service spawner
+microdc2 (0.15.6-2)
+    command-line based Direct Connect client
+migrationtools (47-8)
+    Migration scripts for LDAP
+mii-diag (2.11-3+b1)
+    A little tool to manipulate network cards
+mime-support (3.52-1+deb7u1)
+    MIME files 'mime.types' & 'mailcap', and support programs
+mimms (3.2.2-1)
+    mms (e.g. mms://) stream downloader
+minbif (1:1.0.5+git20120508-2.1)
+    IRC-to-other-IM-networks gateway using Pidgin library
+minbif-common (1:1.0.5+git20120508-2.1)
+    IRC-to-other-IM-networks gateway using Pidgin library (common files)
+minidlna (1.0.24+dfsg-1)
+    lightweight DLNA/UPnP-AV server targeted at embedded systems
+minisapserver (0.3.6-1)
+    Mini SAP Server
+minissdpd (1.1.20120121-1)
+    keep memory of all UPnP devices that announced themselves
+miniupnpc (1.5-2)
+    UPnP IGD client lightweight library client
+miredo (1.2.3-1.1)
+    Teredo IPv6 tunneling through NATs
+miredo-server (1.2.3-1.1)
+    Teredo IPv6 tunneling server
+miro (4.0.4-1)
+    GTK+ based RSS video aggregator
+miro-data (4.0.4-1)
+    GTK+ based RSS video aggregator data files
+mitmproxy (0.8-2)
+    SSL-capable man-in-the-middle HTTP proxy
+mktorrent (1.0-4)
+    simple command line utility to create BitTorrent metainfo files
+mldonkey-gui (3.1.2-1)
+    Graphical frontend for mldonkey based on GTK+
+mldonkey-server (3.1.2-1)
+    Door to the 'donkey' network
+mod-gearman-module (1.3.6-1)
+    Nagios/Icinga event broker module for Mod-Gearman
+mod-gearman-tools (1.3.6-1)
+    Tools for mod-gearman
+mod-gearman-worker (1.3.6-1)
+    Worker agent for Mod-Gearman
+monkeysphere (0.35-2)
+    leverage the OpenPGP web of trust for SSH and TLS authentication
+mooproxy (1.0.0-1)
+    A buffering proxy for MOO connections
+mopd (1:2.5.3-21)
+    Maintenance Operations Protocol loader daemon
+mosh (1.2.3-1)
+    Mobile shell that supports roaming and intelligent local echo
+mosquitto (0.15-2)
+    MQTT version 3.1 compatible message broker
+mosquitto-clients (0.15-2)
+    Mosquitto command line MQTT clients
+mpop (1.0.27-1)
+    POP3 mail retriever
+mrd6 (0.9.6-10)
+    IPv6 Multicast Routing Daemon
+mrtg (2.17.4-2)
+    multi router traffic grapher
+mrtg-contrib (2.17.4-2)
+    multi router traffic grapher (contributed files)
+mrtg-ping-probe (2.2.0-1)
+    Ping module for Multi Router Traffic Grapher
+mrtgutils (0.8.1)
+    Utilities to generate statistics for mrtg
+mrtgutils-sensors (0.8.1)
+    Utilities to generate statistics for mrtg (from lm-sensors)
+msn-pecan (0.1.3-1)
+    alternative MSN protocol plug-in for libpurple
+mstflint (1.4-OFED-1.4.2-1)
+    Mellanox firmware burning application
+msva-perl (0.8.1-2)
+    Cryptographic identity validation agent (Perl implementation)
+mtr (0.82-3)
+    Full screen ncurses and X11 traceroute tool
+mtr-tiny (0.82-3)
+    Full screen ncurses traceroute tool
+mucous (1:0.2+svn20100315.r1208-2)
+    Python/curses client for museekd
+muddleftpd (1.3.13.1-4.3)
+    A flexible and efficient FTP daemon
+multiget (1.2.0-3)
+    graphical download manager
+munin (2.0.6-4+deb7u2)
+    network-wide graphing framework (grapher/gatherer)
+munin-async (2.0.6-4+deb7u2)
+    network-wide graphing framework (async master/client)
+munin-common (2.0.6-4+deb7u2)
+    network-wide graphing framework (common)
+munin-libvirt-plugins (0.0.6-1)
+    Munin plugins using libvirt
+munin-node (2.0.6-4+deb7u2)
+    network-wide graphing framework (node)
+munin-plugins-core (2.0.6-4+deb7u2)
+    network-wide graphing framework (plugins for node)
+munin-plugins-extra (2.0.6-4+deb7u2)
+    network-wide graphing framework (user contributed plugins for node)
+munin-plugins-java (2.0.6-4+deb7u2)
+    network-wide graphing framework (java plugins for node)
+munin-plugins-openstack (1.20120627-1)
+    Plugins for Munin compatible monitoring OpenStack based systems
+murmur (1:0.2+svn20100315.r1208-2)
+    PyGTK2 client for Museekd, the P2P Soulseek Daemon
+museekd (1:0.2+svn20100315.r1208-2)
+    Client for the SoulSeek peer-to-peer network (server daemon)
+museekd-tools (1:0.2+svn20100315.r1208-2)
+    Tools to manage a museekd daemon
+museeq (1:0.2+svn20100315.r1208-2)
+    Qt client for museekd
+musetup-gtk (1:0.2+svn20100315.r1208-2)
+    Gtk based museekd configuration utility
+myproxy (5.6-1)
+    Credential Management Service Client
+myproxy-admin (5.6-1)
+    Credential Management Service Administration Tools
+myproxy-server (5.6-1)
+    Credential Management Service Server
+mz (0.40-1)
+    versatile packet creation and network traffic generation tool
+mzclient (0.9.0-4)
+    CLI library for multicast DNS service discovery (commandline tool)
+n2n (1.3.1~svn3789-1)
+    Peer-to-Peer VPN network daemon
+nadoka (0.7.6-1)
+    IRC logger, monitor and proxy program ("bot") in Ruby
+nagios-images (0.7)
+    Collection of images and icons for the nagios system
+nagios-nrpe-plugin (2.13-3)
+    Nagios Remote Plugin Executor Plugin
+nagios-nrpe-server (2.13-3)
+    Nagios Remote Plugin Executor Server
+nagios-plugin-check-multi (0.26-1)
+    run nagios checks as a group
+nagios-plugins (1.4.16-1)
+    Plugins for nagios compatible monitoring systems (metapackage)
+nagios-plugins-basic (1.4.16-1)
+    Plugins for nagios compatible monitoring systems
+nagios-plugins-common (1.4.16-1)
+    Common files for plugins for nagios compatible monitoring
+nagios-plugins-contrib (4.20120702)
+    Plugins for nagios compatible monitoring systems
+nagios-plugins-openstack (1.20120627-2)
+    Plugins for nagios compatible monitoring OpenStack based systems
+nagios-plugins-standard (1.4.16-1)
+    Plugins for nagios compatible monitoring systems
+nagios-snmp-plugins (1.1.1-8)
+    SNMP Plugins for nagios
+nagios3 (3.4.1-3+deb7u1)
+    A host/service/network monitoring and management system
+nagios3-cgi (3.4.1-3+deb7u1)
+    cgi files for nagios3
+nagios3-common (3.4.1-3+deb7u1)
+    support files for nagios3
+nagios3-core (3.4.1-3+deb7u1)
+    A host/service/network monitoring and management system core files
+nagircbot (0.0.33-2)
+    IRC bot that announces Nagios status
+nagvis (1:1.6.6+dfsg.1-3)
+    visualization addon for Nagios or Icinga
+nagvis-demos (1:1.6.6+dfsg.1-3)
+    visualization addon for Nagios or Icinga - demo maps
+nam (1.15-1)
+    Network Animator for network simulation
+nam-examples (1.15-1)
+    examples of nam
+namebench (1.3.1+dfsg-2)
+    DNS benchmark utility
+nap (1.5.4-7.1)
+    napster console client
+nast (0.2.0-6)
+    packet sniffer and lan analyzer
+natpmp-utils (20110808-3)
+    portable and fully compliant implementation of NAT-PMP (userland tool)
+nbtscan (1.5.1-6)
+    A program for scanning networks for NetBIOS name information
+ncaptool (1.9.2-1+b2 [amd64, armel, i386, ia64, mips, mipsel, powerpc, s390, sparc], 1.9.2-1 [armhf, s390x])
+    network capture tool
+ncftp (2:3.2.5-1.1)
+    User-friendly and well-featured FTP client
+ncpfs (2.2.6-9)
+    utilities to use resources from NetWare servers
+nd (0.8.2-6)
+    small command line interface to WebDAV servers
+ndisc6 (1.0.1-1+b1)
+    IPv6 diagnostic tools
+ndisgtk (0.8.5-1)
+    graphical frontend for ndiswrapper (installation of Windows WiFi drivers)
+ndoutils-common (1.4b9-1.1+b1)
+    NDOUtils common files
+ndoutils-nagios3-mysql (1.4b9-1.1+b1)
+    This provides the NDOUtils for Nagios with MySQL support
+ndpmon (1.4.0-2)
+    IPv6 Neighbor Discovery Protocol Monitor
+net-acct (0.71-9)
+    User-mode IP accounting daemon
+net-tools (1.60-24.2)
+    The NET-3 networking toolkit
+net-tools
+    virtual package provided by freebsd-net-tools
+netanim (3.100-1)
+    network animator based on Qt4 working with ns-3
+netatalk (2.2.2-1)
+    AppleTalk user binaries
+netcat (1.10-40)
+    TCP/IP swiss army knife -- transitional package
+netcat
+    virtual package provided by netcat-traditional, netcat-openbsd
+netcat-openbsd (1.105-7)
+    TCP/IP swiss army knife
+netcat-traditional (1.10-40)
+    TCP/IP swiss army knife
+netcat6 (1.0-8)
+    TCP/IP swiss army knife with IPv6 support
+netdiag (1.1-1)
+    Net-Diagnostics (trafshow,netwatch,statnet,tcpspray,tcpblast)
+netdisco-backend (1.0-2)
+    Gather data about network devices and connected nodes
+netdisco-common (1.0-2)
+    Gather and report data about network devices and nodes
+netdisco-frontend (1.0-2)
+    Web front-end for the NetDisco network manager
+netdisco-mibs-installer (1.7.1) [contrib]
+    Netdisco MIB bundle installer package
+netdiscover (0.3beta6+20080409-5)
+    active/passive network address scanner using arp requests
+netemul (1.0.0-2)
+    program for simulating computer networks
+netexpect (0.20-3)
+    Network Expect, a framework for manipulating network packets
+nethogs (0.8.0-1)
+    Net top tool grouping bandwidth per process
+netmask (2.3.12)
+    helps determine network masks
+netmrg (0.20-6.1)
+    network monitoring tool
+netperf (2.4.4-6.1) [non-free]
+    Network performance benchmark
+netperfmeter (1.1.7-1.1)
+    Network Performance Meter
+netpipe-lam (3.7.2-7)
+    Network performance tool using LAM MPI
+netpipe-mpich2 (3.7.2-7)
+    Network performance tool using MPICH2 MPI
+netpipe-openmpi (3.7.2-7)
+    Network performance tool using OpenMPI
+netpipe-pvm (3.7.2-7)
+    Network performance tool using PVM
+netpipe-tcp (3.7.2-7)
+    Network performance tool using the TCP protocol
+netpipes (4.2-6)
+    manipulate BSD TCP/IP stream sockets
+netplug (1.2.9.2-1)
+    network link monitor daemon
+netrw (1.3.2-2)
+    netcat like tool with nice features to transport files over network
+netscript-2.4 (5.2.12)
+    Linux 2.4/2.6 router/firewall/VM host network config. system.
+netsed (1.00b-2.1)
+    network packet-altering stream editor
+netselect (0.3.ds1-25)
+    speed tester for choosing a fast network server
+netselect-apt (0.3.ds1-25)
+    speed tester for choosing a fast Debian mirror
+netsend (0.0~svnr250-1.1+b1 [armel, ia64], 0.0~svnr250-1.1 [amd64, armhf, i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    a speedy filetransfer and network diagnostic program
+netsniff-ng (0.5.7-1)
+    packet sniffing beast
+netstat-nat (1.4.10-2)
+    tool that display NAT connections
+netwag (5.36.0-1.2)
+    graphical frontend for netwox
+network-manager (0.9.4.0-10)
+    network management framework (daemon and userspace tools)
+network-manager-iodine (0.0.3-1)
+    network management framework (iodine plugin core)
+network-manager-iodine-gnome (0.0.3-1)
+    network management framework (iodine plugin GNOME GUI)
+network-manager-openconnect (0.9.4.0-8)
+    network management framework (OpenConnect plugin)
+network-manager-openconnect-gnome (0.9.4.0-8)
+    network management framework (OpenConnect plugin GNOME GUI)
+network-manager-openvpn (0.9.4.0-1)
+    network management framework (OpenVPN plugin core)
+network-manager-openvpn-gnome (0.9.4.0-1)
+    network management framework (OpenVPN plugin GNOME GUI)
+network-manager-pptp (0.9.4.0-2)
+    network management framework (PPTP plugin core)
+network-manager-pptp-gnome (0.9.4.0-2)
+    network management framework (PPTP plugin GNOME GUI)
+network-manager-strongswan (1.3.0-1)
+    network management framework (strongSwan plugin)
+network-manager-vpnc (0.9.4.0-1)
+    network management framework (VPNC plugin core)
+network-manager-vpnc-gnome (0.9.4.0-1)
+    network management framework (VPNC plugin GNOME GUI)
+netwox (5.36.0-1.2)
+    networking utilities
+newsbeuter (2.5-2+deb7u1)
+    text mode rss feed reader with podcast support
+nfdump (1.6.6-1)
+    netflow capture daemon
+nfdump-flow-tools (1.6.6-1)
+    import from flow-tools
+nfdump-sflow (1.6.6-1)
+    sflow collector daemon
+nfs-common (1:1.2.6-4)
+    NFS support files common to client and server
+nfs-common
+    virtual package provided by freebsd-nfs-common
+nfs-kernel-server (1:1.2.6-4)
+    support for NFS kernel server
+nfs-kernel-server
+    virtual package provided by freebsd-nfs-server
+ngircd (19.2-2)
+    lightweight Internet Relay Chat server
+ngrep (1.45.ds2-12)
+    grep for network traffic
+nicotine (1.2.16+dfsg-1)
+    graphical client for the SoulSeek peer-to-peer system
+nictools-pci (1.3.8-1.2)
+    Diagnostic tools for many PCI ethernet cards
+nigiri (1.4.0+dfsg-1)
+    D-Bus-based IRC suite (terminal client)
+nikto (1:2.1.4-2) [non-free]
+    web server security scanner
+nis (3.17-32)
+    clients and daemons for the Network Information Service (NIS)
+nload (0.7.4-1)
+    realtime console network usage monitor
+nmap (6.00-0.3+deb7u1)
+    The Network Mapper
+nmapsi4 (0.3.1-1)
+    graphical interface to nmap, the network scanner
+nova-api (2012.1.1-18)
+    OpenStack Compute - compute API frontend
+nova-api-ec2 (2012.1.1-18)
+    OpenStack Compute - EC2 API frontend
+nova-api-metadata (2012.1.1-18)
+    OpenStack Compute - metadata API frontend
+nova-api-os-compute (2012.1.1-18)
+    OpenStack Compute - compute API frontend
+nova-api-os-volume (2012.1.1-18)
+    OpenStack Compute - Volume API frontend
+nova-cert (2012.1.1-18)
+    OpenStack Compute - certificate manager
+nova-common (2012.1.1-18)
+    OpenStack Compute - common files
+nova-compute (2012.1.1-18)
+    OpenStack Compute - compute node
+nova-compute-kvm (2012.1.1-18)
+    OpenStack Compute - compute node (KVM)
+nova-compute-lxc (2012.1.1-18)
+    OpenStack Compute - compute node (LXC)
+nova-compute-qemu (2012.1.1-18)
+    OpenStack Compute - compute node (QEmu)
+nova-compute-uml (2012.1.1-18)
+    OpenStack Compute - compute node (UserModeLinux)
+nova-compute-xen (2012.1.1-18)
+    OpenStack Compute - compute node (Xen)
+nova-console (2012.1.1-18)
+    OpenStack Compute - console
+nova-network (2012.1.1-18)
+    OpenStack Compute - network manager
+nova-objectstore (2012.1.1-18)
+    OpenStack Compute - object store
+nova-scheduler (2012.1.1-18)
+    OpenStack Compute - virtual machine scheduler
+nova-volume (2012.1.1-18)
+    OpenStack Compute - storage
+nova-xcp-network (2012.1.1-18)
+    OpenStack Compute network plugin for the Xen Cloud Platform
+nova-xcp-plugins (2012.1.1-18)
+    OpenStack Compute plugin for the Xen Cloud Platform
+nova-xvpvncproxy (2012.1.1-18)
+    OpenStack Compute - XVP VNC proxy
+nrss (0.3.9-1)
+    A ncurses-based RSS reader
+ns2 (2.35+dfsg-1)
+    Discrete event simulator targeted at networking research
+ns2-examples (2.35+dfsg-1)
+    examples of ns2
+nsca (2.9.1-2)
+    Nagios service monitor agent
+nsca-client (2.9.1-2)
+    Nagios service monitor agent - client package
+nsd3 (3.2.12-3+deb7u1)
+    authoritative domain name server (3.x series)
+nslint (3.0a2-1.1)
+    Lint for DNS files, checks integrity
+nss-updatedb (10-2+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 10-2 [armhf, s390x])
+    Cache name service directories in DB format
+nstreams (1.0.3-2+b1 [amd64, armel, i386, ia64, mips, mipsel, powerpc, s390, sparc], 1.0.3-2 [armhf, kfreebsd-amd64, kfreebsd-i386, s390x])
+    network streams - a tcpdump output analyzer
+ntop (3:4.99.3+ndpi5517+dfsg3-1)
+    display network usage in web browser
+ntop-data (3:4.99.3+ndpi5517+dfsg3-1)
+    display network usage in a web browser (data files)
+ntp (1:4.2.6.p5+dfsg-2+deb7u3) [security]
+    Network Time Protocol daemon and utility programs
+ntpdate (1:4.2.6.p5+dfsg-2+deb7u3) [security]
+    client for setting system time from NTP servers
+nttcp (1.47-13) [non-free]
+    New test TCP program
+nuapplet (2.3.0-2)
+    Graphical client for NuFW
+nuauth (2.4.3-2.2)
+    The authenticating firewall [authentication daemon]
+nuauth-extra (2.4.3-2.2)
+    The authenticating firewall [extra modules]
+nuauth-log-mysql (2.4.3-2.2)
+    The authenticating firewall [MySQL log module]
+nuauth-log-pgsql (2.4.3-2.2)
+    The authenticating firewall [PostgreSQL log module]
+nuauth-utils (2.4.3-2.2)
+    The authenticating firewall [tools for admin]
+nufw (2.4.3-2.2)
+    The authenticating firewall [NFQUEUE daemon]
+nullidentd (1.0-5)
+    small, fast identd daemon
+nulog (2.0.dfsg.1-2)
+    Graphical firewall log analysis interface
+nutcpc (2.4.3-2.2)
+    The authenticating firewall [client]
+nuttcp (6.1.2-4)
+    network performance measurement tool
+nzb (0.2-1)
+    Usenet binary grabber
+nzbget (0.7.0-2)
+    command-line based binary newsgrabber for nzb files
+obfsproxy (0.1.4-2)
+    pluggable transport proxy for Tor
+ocsinventory-agent (2:2.0.5-1)
+    Hardware and software inventory tool (client)
+oidentd (2.0.8-5)
+    replacement ident daemon
+olive (1.3-4)
+    console RSS reader
+olsrd (0.6.2-2.1)
+    optimized link-state routing daemon (unik-olsrd)
+olsrd-gui (0.6.2-2.1)
+    GTK GUI to control and get info about olsrd
+olsrd-plugins (0.6.2-2.1)
+    various plugins to enhance olsrd
+omnievents (1:2.6.2-2)
+    omniORB event service
+onak (0.4.1-1)
+    OpenPGP Key Server
+onesixtyone (0.3.2-1)
+    fast and simple SNMP scanner
+open-iscsi (2.0.873-3)
+    High performance, transport independent iSCSI implementation
+openafs-client (1.6.1-3+deb7u2)
+    AFS distributed filesystem client support
+openafs-dbserver (1.6.1-3+deb7u2)
+    AFS distributed filesystem database server
+openafs-fileserver (1.6.1-3+deb7u2)
+    AFS distributed filesystem file server
+openafs-fuse (1.6.1-3+deb7u2)
+    AFS distributed file system experimental FUSE client
+openafs-kpasswd (1.6.1-3+deb7u2)
+    AFS distributed filesystem old password changing
+openafs-krb5 (1.6.1-3+deb7u2)
+    AFS distributed filesystem Kerberos 5 integration
+openbgpd (4.6-3)
+    OpenBSD BGP routing daemon
+openbsd-inetd (0.20091229-2)
+    OpenBSD Internet Superserver
+openchangeclient (1:1.0-3+deb7u1)
+    Command-line client for the MAPI (Exchange/Outlook) protocol
+openconnect (3.20-4)
+    Open client for Cisco AnyConnect VPN
+openfetion (2.2.1-3.2)
+    open source client implementation of Fetion protocol
+openmpi-bin (1.4.5-1)
+    high performance message passing library -- binaries
+openmpi-checkpoint (1.4.5-1)
+    high performance message passing library -- checkpoint support
+openmpi-common (1.4.5-1)
+    high performance message passing library -- common files
+openntpd (20080406p-4)
+    OpenBSD NTP daemon
+openresolv (3.5.2-1)
+    management framework for resolv.conf
+opensm (3.2.6-20090317-2.1)
+    An Infiniband subnet manager
+openssh-blacklist (0.4.1+nmu1)
+    list of default blacklisted OpenSSH RSA and DSA keys
+openssh-blacklist-extra (0.4.1+nmu1)
+    list of non-default blacklisted OpenSSH RSA and DSA keys
+openssh-client (1:6.0p1-4+deb7u2)
+    secure shell (SSH) client, for secure access to remote machines
+openssh-server (1:6.0p1-4+deb7u2)
+    secure shell (SSH) server, for secure access from remote machines
+openssl-blacklist (0.5-3)
+    Blacklists for OpenSSL RSA keys and tools
+openssl-blacklist-extra (0.5-3)
+    Non-default blacklists of OpenSSL RSA keys
+openswan (1:2.6.37-3+deb7u1) [security]
+    Internet Key Exchange daemon
+openswan-modules-source (1:2.6.37-3+deb7u1) [security]
+    Internet Key Exchange daemon - kernel module source
+openvpn (2.2.1-8+deb7u3)
+    virtual private network daemon
+openvpn-auth-ldap (2.0.3-5.1)
+    OpenVPN LDAP authentication module
+openvpn-auth-radius (2.1-4)
+    OpenVPN RADIUS authentication module
+openvpn-blacklist (0.5)
+    list of blacklisted OpenVPN RSA shared keys
+openvswitch-brcompat (1.4.2+git20120612-9.1~deb7u1)
+    Open vSwitch bridge compatibility support
+openvswitch-common (1.4.2+git20120612-9.1~deb7u1)
+    Open vSwitch common components
+openvswitch-controller (1.4.2+git20120612-9.1~deb7u1)
+    Open vSwitch controller implementation
+openvswitch-datapath-source (1.4.2+git20120612-9.1~deb7u1)
+    Open vSwitch datapath module source - module-assistant version
+openvswitch-ipsec (1.4.2+git20120612-9.1~deb7u1)
+    Open vSwitch GRE-over-IPsec support
+openvswitch-pki (1.4.2+git20120612-9.1~deb7u1)
+    Open vSwitch public key infrastructure dependency package
+openvswitch-switch (1.4.2+git20120612-9.1~deb7u1)
+    Open vSwitch switch implementations
+openvswitch-test (1.4.2+git20120612-9.1~deb7u1)
+    Open vSwitch test package
+oping (1.6.2-1)
+    sends ICMP_ECHO requests to network hosts
+owl (2.2.2-1.1+b4 [armel, ia64], 2.2.2-1.1+b3 [amd64, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 2.2.2-1.1 [armhf, s390x])
+    A curses-based tty Zephyr client
+p0f (2.0.8-2)
+    Passive OS fingerprinting tool
+p910nd (0.95-1)
+    small printer daemon intended for diskless workstations
+packeth (1.6.5-2)
+    Ethernet packet generator
+packit (1.0-2)
+    Network Injection and Capture
+pads (1.2-11)
+    Passive Asset Detection System
+paris-traceroute (0.92-dev-2)
+    New version of well known tool traceroute
+parprouted (0.70-1)
+    transparent IP (Layer 3) proxy ARP bridging tool
+pawserv (20061220+dfsg3-2)
+    CERNLIB data analysis suite - distributed PAW and file transfer servers
+pbnj (2.04-4)
+    a suite of tools to monitor changes on a network
+pcaputils (0.8-1)
+    specialized libpcap utilities
+pchar (1.5-1)
+    Characterize the bandwidth, latency and loss on network links
+pdns-backend-geo (3.1-4.1)
+    geo backend for PowerDNS
+pdns-backend-ldap (3.1-4.1)
+    LDAP backend for PowerDNS
+pdns-backend-lua (3.1-4.1)
+    lua backend for PowerDNS
+pdns-backend-mysql (3.1-4.1)
+    generic MySQL backend for PowerDNS
+pdns-backend-pgsql (3.1-4.1)
+    generic PostgreSQL backend for PowerDNS
+pdns-backend-pipe (3.1-4.1)
+    pipe/coprocess backend for PowerDNS
+pdns-backend-sqlite (3.1-4.1)
+    sqlite backend for PowerDNS
+pdns-backend-sqlite3 (3.1-4.1)
+    sqlite backend for PowerDNS
+pdns-recursor (3.3-3+deb7u1)
+    PowerDNS recursor
+pdns-server (3.1-4.1)
+    extremely powerful and versatile nameserver
+pdnsd (1.2.8-par-3)
+    Proxy DNS Server
+pdsh (2.27-2)
+    Efficient rsh-like utility, for using hosts in parallel
+pen (0.18.0-1)
+    Load balancer for "simple" tcp based protocols
+perftest (1.2-OFED-1.4.2-2)
+    Infiniband verbs performance tests
+pf (9.0+ds1-11~deb7u1)
+    The OpenBSD Packet Filter
+pidentd (3.0.19.ds1-7)
+    TCP/IP IDENT protocol server with DES support
+pidgin (2.10.10-1~deb7u1)
+    graphical multi-protocol instant messaging client for X
+pidgin-audacious (2.0.0-3)
+    pidgin integration with Audacious
+pidgin-awayonlock (0.5.2-1)
+    pidgin plugin to set as away on screensaver activation
+pidgin-blinklight (0.11.1-1)
+    Blinks your ThinkPad's ThinkLight upon new messages
+pidgin-data (2.10.10-1~deb7u1)
+    multi-protocol instant messaging client - data files
+pidgin-encryption (3.1-1)
+    pidgin plugin that provides transparent encryption
+pidgin-extprefs (0.7-2)
+    extended preferences plugin for the instant messenger pidgin
+pidgin-festival (2.4-2)
+    pidgin plugin to hear incoming messages using voice synthesis
+pidgin-gmchess (0.02-1)
+    pidgin integration with gmchess
+pidgin-guifications (2.16-2)
+    toaster popups for pidgin
+pidgin-hotkeys (0.2.4-1.2)
+    Configurable global hotkeys for pidgin
+pidgin-lastfm (0.4a-2)
+    Last.fm plugin for Pidgin
+pidgin-latex (1.4.4-2)
+    Pidgin plugin to display LaTeX formulas
+pidgin-librvp (0.9.7-2)
+    MS Exchange RVP instant messaging plugin for Pidgin
+pidgin-microblog (0.3.0-3)
+    Microblogging plugins for Pidgin
+pidgin-mpris (0.2.3-2)
+    sets your available message to your currently playing track
+pidgin-mra (20100304-1)
+    Mail.ru Agent protocol plugin for Pidgin IM
+pidgin-musictracker (0.4.22-2)
+    Plugin for Pidgin which displays the current music track in your status
+pidgin-nateon (0.0.0.svn147-1)
+    Pidgin plugin for NateOn instant messaging service
+pidgin-openfetion (0.3-1)
+    Fetion protocol plugin for libpurple
+pidgin-openpgp (0.1-2)
+    OpenPGP plugin for Pidgin
+pidgin-otr (3.2.1-3+deb7u1)
+    Off-the-Record Messaging plugin for pidgin
+pidgin-plugin-pack (2.6.3-2+b1 [armel, armhf, mips, mipsel, powerpc, s390, sparc], 2.6.3-2 [amd64, i386, ia64, kfreebsd-amd64, kfreebsd-i386, s390x])
+    Collection of Pidgin plugins
+pidgin-privacy-please (0.7.1-1)
+    plugin for enhanced privacy in pidgin
+pidgin-sipe (1.13.1-2)
+    Pidgin protocol plugin to connect to MS Office Communicator
+pidgin-skype (20110407+svn628+dfsg-1) [contrib]
+    Skype plugin for libpurple messengers
+pidgin-themes (0.2-1)
+    Smiley themes collection for pidgin
+pidgin-twitter (0.9.2.1-3)
+    Pidgin plugin for Twitter
+piespy (0.4.0-2.2)
+    An IRC bot to visualize social networks
+pimd (2.1.8-2)
+    multicast routing daemon (PIMv2)
+pisg (0.72-1)
+    Perl IRC Statistics Generator
+pktstat (1.8.5-3)
+    top-like utility for network connections usage
+plasma-widget-amule (2.3.1-9)
+    kde plasmoid to control amule
+plum (2.33.1-10)
+    IRC proxy, stationing, logging, and bot program (pirc)
+pmacct (0.14.0-1.1)
+    promiscuous mode traffic accountant
+pnp4nagios (0.6.16-2)
+    Nagios addon to create graphs from performance data
+pnp4nagios-bin (0.6.16-2)
+    Nagios addon to create graphs from performance data (binaries)
+pnp4nagios-web (0.6.16-2)
+    Nagios addon to create graphs from performance data (web interface)
+pnscan (1.11-6)
+    Multi threaded port scanner
+polygraph (4.3.2-1.1)
+    performance testing tool for caching proxies and more
+polyorb-servers (2.8~20110207-5.1)
+    Multiple-personality middleware for Ada (servers)
+pork (0.99.8.1-2.1)
+    Console-based AOL Instant Messenger & IRC client
+portsentry (1.2-13)
+    Portscan detection daemon
+postnews (0.5.3-3)
+    Post Usenet articles via NNTP from the command line
+pound (2.6-2)
+    reverse proxy, load balancer and HTTPS front-end for Web servers
+pppdcapiplugin (1:3.25+dfsg1-3.3~deb7u1)
+    ISDN utilities - pppd plug-in for CAPI support
+pppoe (3.8-3)
+    PPP over Ethernet driver
+pppoeconf (1.20)
+    configures PPPoE/ADSL connections
+pptp-linux (1.7.2-7)
+    Point-to-Point Tunneling Protocol (PPTP) Client
+pptpd (1.3.4-5.2)
+    PoPToP Point to Point Tunneling Server
+pr3287 (3.3.10ga4-2+b1 [amd64, armel, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 3.3.10ga4-2 [armhf, s390x]) [non-free]
+    IBM 3287 printer emulation for telnet sessions to IBM mainframes
+prips (0.9.9-1)
+    tool that prints the IP addresses in a given range
+proftpd-basic (1.3.4a-5+deb7u2)
+    Versatile, virtual-hosting FTP daemon - binaries
+proftpd-dev (1.3.4a-5+deb7u2)
+    Versatile, virtual-hosting FTP daemon - development files
+proftpd-mod-autohost (0.4-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.4-1 [armhf])
+    ProFTPD module mod_autohost
+proftpd-mod-case (0.7-1)
+    ProFTPD module mod_case
+proftpd-mod-clamav (0.10-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.10-1 [armhf])
+    ProFTPD module mod_clamav
+proftpd-mod-dnsbl (0.1.5-3+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.1.5-3+b1 [s390x], 0.1.5-3 [armhf])
+    ProFTPD module mod_dnsbl
+proftpd-mod-fsync (0.2-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.2-1 [armhf])
+    ProFTPD module mod_fsync
+proftpd-mod-geoip (0.3-1+deb7u1)
+    ProFTPD mod_geoip
+proftpd-mod-ldap (1.3.4a-5+deb7u2)
+    Versatile, virtual-hosting FTP daemon - LDAP module
+proftpd-mod-msg (0.4.1-1.1)
+    ProFTPD module mod_msg
+proftpd-mod-mysql (1.3.4a-5+deb7u2)
+    Versatile, virtual-hosting FTP daemon - MySQL module
+proftpd-mod-odbc (1.3.4a-5+deb7u2)
+    Versatile, virtual-hosting FTP daemon - ODBC module
+proftpd-mod-pgsql (1.3.4a-5+deb7u2)
+    Versatile, virtual-hosting FTP daemon - PostgreSQL module
+proftpd-mod-sqlite (1.3.4a-5+deb7u2)
+    Versatile, virtual-hosting FTP daemon - SQLite3 module
+proftpd-mod-tar (0.3.3-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.3.3-1 [armhf])
+    ProFTPD module mod_tar
+proftpd-mod-vroot (0.9.2-2+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.9.2-2+b1 [s390x], 0.9.2-2 [armhf])
+    ProFTPD module mod_vroot
+prosody (0.8.2-4+deb7u2)
+    Lightweight Jabber/XMPP server written in Lua
+proxychains (3.1-3)
+    proxy chains - redirect connections through proxy servers
+proxycheck (0.49a-4)
+    checks existence of open proxy
+proxytunnel (1.9.0-5)
+    Create tcp tunnels trough HTTPS proxies, for using with SSH
+psi (0.14-3)
+    Jabber client using Qt
+psi-plus (0.15.5338-1)
+    Qt-based XMPP/Jabber client (basic version)
+psi-plus-common (0.15.5338-1)
+    common files for Psi+
+psi-plus-content-downloader (0.15.5338-1)
+    content downloader plugin for Psi+
+psi-plus-plugin-psimedia (1.0.3-git20120506-fb54b6e-1)
+    Plugin for Psi/Psi+ for audio and video calls
+psi-plus-plugins (0.15.5338-1)
+    plugins for Psi+
+psi-plus-skins (0.15.5338-1)
+    skins for Psi+
+psi-plus-sounds (0.15.5338-1)
+    sound files for Psi+
+psi-plus-webkit (0.15.5338-1)
+    Qt-based XMPP/Jabber client (WebKit version)
+psi-translations (1.11)
+    Translations for psi
+pssh (2.2.2-1)
+    Parallel versions of SSH-based tools
+ptpd (2.1.0-debian1-2)
+    Precision Time Protocol daemon
+ptunnel (0.71-2)
+    Tunnel TCP connections over ICMP packets
+pure-ftpd (1.0.36-1.1)
+    Secure and efficient FTP server
+pure-ftpd
+    virtual package provided by pure-ftpd-mysql, pure-ftpd-ldap, pure-ftpd-postgresql
+pure-ftpd-common (1.0.36-1.1)
+    Pure-FTPd FTP server (Common Files)
+pure-ftpd-ldap (1.0.36-1.1)
+    Secure and efficient FTP server with LDAP user authentication
+pure-ftpd-mysql (1.0.36-1.1)
+    Secure and efficient FTP server with MySQL user authentication
+pure-ftpd-postgresql (1.0.36-1.1)
+    Secure and efficient FTP server with PostgreSQL user authentication
+putty (0.62-9+deb7u2) [security]
+    Telnet/SSH client for X
+putty-tools (0.62-9+deb7u2) [security]
+    command-line tools for SSH, SCP, and SFTP
+pvpgn (1.8.1-2.1+b1) [contrib]
+    Gaming server that emulates Battle.net(R)
+pxe (1.4.2-7)
+    free PXE daemon
+pyaimt (0.8.0.1-3)
+    AIM transport for Jabber
+pyca (20031119-0)
+    Certification Authority written in Python
+pyftpd (0.8.5)
+    ftp daemon with advanced features
+pygfarm (2.0.18.3+nmu2)
+    Collection of add-on modules for Pygopherd
+pygopherd (2.0.18.3+nmu2)
+    Modular Multiprotocol Gopher/HTTP/WAP Server in Python
+pyicqt (0.8.1.5-5)
+    ICQ transport for Jabber
+pymsnt (0.11.3-5)
+    MSN transport for Jabber
+pyneighborhood (0.5.1-2)
+    PyGTK2 SAMBA browser
+pyrit (0.4.0-2)
+    GPGPU-driven WPA/WPA2-PSK key cracker
+python-cdd (0.0.11)
+    library to make easier to build CDD related applications
+python-museek (1:0.2+svn20100315.r1208-2)
+    Python bindings for museek+
+python-pcs (0.5+debian-1.1)
+    Packet Construction Set for Python
+python-pypcap (1.1.2+debian-2.2)
+    object-oriented Python interface for libpcap
+python-scapy (2.2.0-1)
+    Packet generator/sniffer and network scanner/discovery
+qbittorrent (2.9.8-1)
+    bittorrent client based on libtorrent-rasterbar with a Qt4 GUI
+qbittorrent-nox (2.9.8-1)
+    bittorrent client based on libtorrent-rasterbar (without X support)
+qlvnictools (0.0.1-1)
+    Tools for QLogic Virtual NICs
+qmail-tools (0.1.0)
+    collection of tools for qmail
+qnapi (0.1.5-9)
+    application that downloads Polish subtitles from www.napiprojekt.pl
+qnapi-gnome (0.1.5-9)
+    application that downloads Polish subtitles from www.napiprojekt.pl
+qtsmbstatus-client (2.2.1-2)
+    GUI (graphical user interface) for smbstatus (client)
+qtsmbstatus-language (2.2.1-2)
+    QtSmbstatus languages package
+qtsmbstatus-light (2.2.1-2)
+    GUI (graphical user interface) for smbstatus
+qtsmbstatus-server (2.2.1-2)
+    GUI (graphical user interface) for smbstatus (server)
+quagga (0.99.22.4-1+wheezy1)
+    BGP/OSPF/RIP routing daemon
+quantum-plugin-cisco (2012.1-5+deb70u1)
+    OpenStack Virtual network service - cisco plugin
+quantum-plugin-linuxbridge (2012.1-5+deb70u1)
+    OpenStack Virtual network service - linux bridge plugin
+quantum-plugin-linuxbridge-agent (2012.1-5+deb70u1)
+    OpenStack Virtual network service - linuxbridge agent
+quantum-plugin-nicira (2012.1-5+deb70u1)
+    OpenStack Virtual network service - nicira NVP plugin
+quantum-plugin-openvswitch (2012.1-5+deb70u1)
+    OpenStack Virtual network service - openvswitch plugin
+quantum-plugin-openvswitch-agent (2012.1-5+deb70u1)
+    OpenStack Virtual network service - openvswitch agent
+quantum-plugin-sample (2012.1-5+deb70u1)
+    OpenStack Virtual network service - sample plugin
+quantum-server (2012.1-5+deb70u1)
+    OpenStack Virtual network service - server
+quassel (0.8.0-1+deb7u3)
+    distributed IRC client - Qt-based monolithic core+client
+quassel-client (0.8.0-1+deb7u3)
+    distributed IRC client - Qt-based client component
+quassel-client-kde4 (0.8.0-1+deb7u3)
+    distributed IRC client - KDE-based client
+quassel-core (0.8.0-1+deb7u3)
+    distributed IRC client - core component
+quassel-data (0.8.0-1+deb7u3)
+    distributed IRC client - shared data (Qt version)
+quassel-data-kde4 (0.8.0-1+deb7u3)
+    distributed IRC client - shared data (KDE4 version)
+quassel-kde4 (0.8.0-1+deb7u3)
+    distributed IRC client - KDE-based monolithic core+client
+quicksynergy (0.9-1)
+    GUI for easy configuration of Synergy
+qutecom (2.2.1+dfsg1-3+b1)
+    SIP-based software telephone with video and chat features
+qutecom-data (2.2.1+dfsg1-3)
+    SIP-based software telephone with video and chat features (data files)
+rabbitmq-server (2.8.4-1)
+    An AMQP server written in Erlang
+racoon (1:0.8.0-14)
+    IPsec Internet Key Exchange daemon
+radioclk (1.0.ds1-12)
+    simple ntp refclock daemon for MSF/WWVB/DCF77 time signals
+radiusd-livingston (2.1-20)
+    Remote Authentication Dial-In User Service (RADIUS) server
+radsecproxy (1.6.2-1)
+    RADIUS protocol proxy supporting RadSec
+radvd (1:1.8.5-1)
+    Router Advertisement Daemon
+ramond (0.5-4)
+    IPv6 Router Advertisement MONitoring Daemon
+rancid (2.3.8-3)
+    Really Awesome New Cisco confIg Differ
+rancid-cgi (2.3.8-3)
+    looking glass CGI for rancid
+rarpd (0.981107-8)
+    Reverse Address Resolution Protocol daemon
+rat (4.2.22-2.1)
+    Unicast and multicast voice-over-IP application
+ratbox-services-common (1.2.4-2+b1)
+    IRC services for use with ircd-ratbox
+ratbox-services-mysql (1.2.4-2+b1)
+    IRC services for use with ircd-ratbox with the mysql backend
+ratbox-services-pgsql (1.2.4-2+b1)
+    IRC services for use with ircd-ratbox with the PostgreSQL backend
+ratbox-services-sqlite (1.2.4-2+b1)
+    IRC services for use with ircd-ratbox with the sqlite backend
+rblcheck (20020316-7)
+    Tool to Query RBL Servers
+rbldnsd (0.996b+b1 [armel, ia64], 0.996b [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    small nameserver daemon designed for DNSBLs
+rbootd (2.0-10)
+    Remote Boot Daemon
+rbot (0.9.15+post20100705+gitb3aa806-3)
+    IRC bot written in ruby
+rdate (1:1.2-5)
+    sets the system's date from a remote host
+rdist (6.1.5-18)
+    remote file distribution client and server
+rdmacm-utils (1.0.15-1+deb7u1)
+    Examples for the librdmacm library
+rdnssd (1.0.1-1+b1)
+    IPv6 recursive DNS server discovery daemon
+rds-tools (1.4.1-OFED-1.4.2-1)
+    Tools for the Infiniband RDS protocol
+reaver (1.4-2)
+    brute force attack tool against Wifi Protected Setup PIN number
+reconf-inetd (1.120603)
+    maintainer script for programmatic updates of inetd.conf
+redir (2.2.1-10)
+    Redirect TCP connections
+redsocks (0.4+dfsg-1)
+    Redirect any TCP connection to a SOCKS or HTTPS proxy server
+registry-tools (4.0.0~beta2+dfsg1-3.2+deb7u2)
+    tools for viewing and manipulating the Windows registry
+remctl-client (3.2-4)
+    Client for Kerberos-authenticated command execution
+remctl-server (3.2-4)
+    Server for Kerberos-authenticated command execution
+repro (1.8.5-4)
+    reSIProcate SIP stack - lightweight SIP proxy daemon
+resiprocate-turn-server (1.8.5-4)
+    reSIProcate SIP stack - ICE/TURN server
+resolvconf (1.67)
+    name server information handler
+resolvconf
+    virtual package provided by openresolv
+riece (8.0.0-1)
+    an IRC client for Emacs
+rinetd (0.62-5.1)
+    Internet TCP redirection server
+rlinetd (0.8.2-2)
+    gruesomely over-featured inetd replacement
+rlpr (2.05-4+b1 [armel, ia64], 2.05-4 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    A utility for lpd printing without using /etc/printcap
+rpcbind (0.2.0-8)
+    converts RPC program numbers into universal addresses
+rsh-client (0.17-15)
+    client programs for remote shell connections
+rsh-client
+    virtual package provided by heimdal-clients, openssh-client
+rsh-redone-client (85-1)
+    Reimplementation of rsh and rlogin
+rsh-redone-server (85-1)
+    Reimplementation of rshd and rlogind
+rsh-server (0.17-15)
+    server program for remote shell connections
+rsh-server
+    virtual package provided by rsh-redone-server, krb5-rsh-server, heimdal-servers
+rss2irc (0.4.2-4)
+    IRC bot that watches an RSS/Atom feed and relays it to a channel
+rssh (2.3.3-6)
+    Restricted shell allowing scp, sftp, cvs, svn, rsync or rdist
+rstat-client (4.0.1-8)
+    client for rstatd
+rstatd (4.0.1-8)
+    displays uptime information for remote machines
+rsync (3.0.9-4)
+    fast, versatile, remote (and local) file-copying tool
+rtorrent (0.9.2-1)
+    ncurses BitTorrent client based on LibTorrent from rakshasa
+rtpproxy (1.2.1-1.1)
+    Relay for Real-time Transport Protocol (RTP) media streams
+rusers (0.17-8)
+    Displays who is logged in to machines on local network
+rusersd (0.17-8)
+    Logged in users server
+rwall (0.17-7)
+    Send a message to users logged on a host
+rwalld (0.17-7)
+    Write messages to users currently logged in server
+rwho (0.17-12)
+    Clients to query the rwho server
+rwhod (0.17-12)
+    System status server
+rygel (0.14.3-2+deb7u1)
+    GNOME UPnP/DLNA services
+rygel-gst-launch (0.14.3-2+deb7u1)
+    GNOME UPnP/DLNA services - gst-launch plugin
+rygel-mediathek (0.14.3-2+deb7u1)
+    GNOME UPnP/DLNA services - Mediathek plugin
+rygel-playbin (0.14.3-2+deb7u1)
+    GNOME UPnP/DLNA services - GStreamer Media Renderer plugin
+rygel-preferences (0.14.3-2+deb7u1)
+    GNOME UPnP/DLNA services - preferences tool
+rygel-tracker (0.14.3-2+deb7u1)
+    GNOME UPnP/DLNA services - Tracker plugin
+s3270 (3.3.10ga4-2+b1 [amd64, armel, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 3.3.10ga4-2 [armhf, s390x]) [non-free]
+    Program for scripted telnet sessions to IBM mainframes
+s3d (0.2.2-8)
+    3d network display server
+s3d-data (0.2.2-8)
+    3d network display server data files
+sabnzbdplus (0.6.15-1) [contrib]
+    web-based binary newsgrabber with nzb support
+sabnzbdplus-theme-classic (0.6.15-1) [contrib]
+    classic interface templates for the SABnzbd+ binary newsgrabber
+sabnzbdplus-theme-mobile (0.6.15-1) [contrib]
+    mobile interface templates for the SABnzbd+ binary newsgrabber
+sabnzbdplus-theme-plush (0.6.15-1) [contrib]
+    plush interface templates for the SABnzbd+ binary newsgrabber
+sabnzbdplus-theme-smpl (0.6.15-1) [contrib]
+    smpl interface templates for the SABnzbd+ binary newsgrabber
+samba (2:3.6.6-6+deb7u5) [security]
+    SMB/CIFS file, print, and login server for Unix
+samba-common (2:3.6.6-6+deb7u5) [security]
+    common files used by both the Samba server and client
+samba-common-bin (2:3.6.6-6+deb7u5) [security]
+    common files used by both the Samba server and client
+samba-tools (2:3.6.6-6+deb7u5) [security]
+    Samba testing utilities
+samba4-clients (4.0.0~beta2+dfsg1-3.2+deb7u2)
+    client utilities from Samba 4
+samba4-common-bin (4.0.0~beta2+dfsg1-3.2+deb7u2)
+    Samba 4 common files used by both the server and the client
+samba4-testsuite (4.0.0~beta2+dfsg1-3.2+deb7u2)
+    test suite from Samba 4
+sbnc (1.2-26)
+    IRC proxy for multiple users
+sbnc-mysql (1.2-26)
+    IRC proxy for multiple users (MySQL extension)
+sbnc-php-dev (1.2-26)
+    IRC proxy for multiple users (PHP classes)
+sbnc-tcl (1.2-26)
+    IRC proxy for multiple users (Tcl extension)
+sbrsh (7.6.1)
+    Scratchbox Remote Shell client
+sbrshd (7.6.1)
+    Scratchbox Remote Shell daemon
+scanlogd (2.2.5-3.1)
+    A portscan detecting tool
+scanssh (2.0-4+b3 [amd64, armel, i386, ia64, mips, mipsel, powerpc, s390, sparc], 2.0-4+b1 [kfreebsd-amd64, kfreebsd-i386], 2.0-4 [armhf, s390x])
+    get SSH server versions for an entire network
+scli (0.4.0-2+b1 [armel, armhf, mips, mipsel, powerpc, s390, sparc], 0.4.0-2 [amd64, i386, ia64, kfreebsd-amd64, kfreebsd-i386, s390x])
+    a collection of SNMP command line management tools
+scrollz (2.1-1.1)
+    An advanced ircII-based IRC client
+sdpnetstat (1.60-1)
+    InfiniBand aware netstat like program
+secpanel (1:0.6.1-1)
+    graphical user interface for SSH and SCP
+secvpn (2.24)
+    Secure Virtual Private Network
+sendfile (2.1b.20080616-5.2)
+    Simple Asynchronous File Transfer
+sendip (2.5-5)
+    Commandline tool to allow sending arbitrary IP packets
+sendxmpp (1.22-1)
+    commandline XMPP (jabber) utility
+servefile (0.4.2-1)
+    serve or receive files from shell via a small HTTP server
+shinken (0.6.5-2)
+    Flexible monitoring tool - Meta-package
+shinken-arbiter (0.6.5-2)
+    Flexible monitoring - Arbiter module
+shinken-broker (0.6.5-2)
+    Flexible monitoring - Broker module
+shinken-core (0.6.5-2)
+    Flexible monitoring - Core component
+shinken-discovery (0.6.5-2)
+    Flexible monitoring - Discovery module
+shinken-poller (0.6.5-2)
+    Flexible monitoring - Poller module
+shinken-reactionner (0.6.5-2)
+    Flexible monitoring - Reactionner module
+shinken-receiver (0.6.5-2)
+    Flexible monitoring - Receiver module
+shinken-scheduler (0.6.5-2)
+    Flexible monitoring - Scheduler module
+shisa (1.0.1-2)
+    Administration utility for the Shishi Kerberos v5 KDC database
+shishi (1.0.1-2)
+    Command line client for the Shishi Kerberos v5 implementation
+shishi-kdc (1.0.1-2)
+    Kerberos v5 Key Distribution Center (KDC) Shishi server daemon
+shorewall (4.5.5.3-3)
+    Shoreline Firewall, netfilter configurator
+shorewall-core (4.5.5.3-3)
+    Shorewall core components
+shorewall-init (4.5.5.3-1)
+    Shorewall initialization
+shorewall-lite (4.5.5.3-1)
+    Shorewall (lite version), a high-level tool for configuring Netfilter
+shorewall6 (4.5.5.3-2)
+    Shoreline Firewall (IPv6 version), netfilter configurator
+shorewall6-lite (4.5.5.3-1)
+    Shorewall (lite version with IPv6 support)
+sic (1.1-5)
+    simple irc client (sic)
+sieve-connect (0.83-1)
+    MANAGESIEVE protocol client
+simpleproxy (3.4-5)
+    Simple TCP proxy
+sinfo (0.0.46-2)
+    tool for monitoring computer clusters using broadcasts
+sipcalc (1.1.5-1)
+    Advanced console-based ip subnet calculator
+sipcrack (0.2-2+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.2-2 [armhf, s390x])
+    SIP login dumper/cracker
+sipdialer (1.8.5-4)
+    reSIProcate SIP stack - click-to-call utility
+siproxd (1:0.8.1-3+b1)
+    SIP proxy/redirect/registrar
+sipsak (0.9.6-2.1+b2 [armhf, sparc], 0.9.6-2.1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x])
+    SIP Swiss army knife
+sipwitch (1.2.4-1)
+    secure peer-to-peer VoIP server for the SIP protocol
+sipwitch-cgi (1.2.4-1)
+    secure peer-to-peer SIP VoIP server - CGI XML-RPC interface
+sks (1.1.3-2+deb7u1)
+    Synchronizing OpenPGP Key Server
+slapd (2.4.31-2) [security]
+    OpenLDAP server (slapd)
+slapd-dbg (2.4.31-2) [security]
+    Debugging information for the OpenLDAP server (slapd)
+slapd-smbk5pwd (2.4.31-2) [security]
+    Keeps Samba and Kerberos passwords in sync within slapd.
+slimrat (1.0-1)
+    GUI application for automated downloading from file hosters
+slimrat-nox (1.0-1)
+    CLI application for automated downloading from file hosters
+slirp (1:1.0.17-6)
+    SLIP/PPP emulator using a dial up shell account
+slpd (1.2.1-9)
+    OpenSLP Server (slpd)
+slurm (0.4.0-1)
+    Realtime network interface monitor
+smb2www (980804-40)
+    SMB/CIFS network client with a web interface
+smbc (1.2.2-3)
+    samba-commander - curses based samba network browser
+smbclient (2:3.6.6-6+deb7u5) [security]
+    command-line SMB/CIFS clients for Unix
+smbnetfs (0.5.3a-1)
+    User-space filesystem for SMB/NMB (Windows) network servers and shares
+smcroute (0.95-1+deb7u1)
+    static multicast router daemon
+smokeping (2.6.8-2)
+    latency logging and graphing system
+snarf (7.0-5)
+    A command-line URL grabber
+sniffit (0.3.7.beta-16.1)
+    packet sniffer and monitoring tool
+snmp (5.4.3~dfsg-2.8+deb7u1)
+    SNMP (Simple Network Management Protocol) applications
+snmp-mibs-downloader (1.1) [non-free]
+    Install and manage Management Information Base (MIB) files
+snmpd (5.4.3~dfsg-2.8+deb7u1)
+    SNMP (Simple Network Management Protocol) agents
+snmptrapfmt (1.14+nmu1)
+    A configurable snmp trap handler daemon for snmpd
+snmptt (1.3-2)
+    SNMP trap handler for use with snmptrapd
+snort (2.9.2.2-3)
+    flexible Network Intrusion Detection System
+snort
+    virtual package provided by snort-pgsql, snort-mysql
+snort-common (2.9.2.2-3)
+    flexible Network Intrusion Detection System [common files]
+snort-common-libraries (2.9.2.2-3)
+    flexible Network Intrusion Detection System ruleset
+snort-mysql (2.9.2.2-3)
+    flexible Network Intrusion Detection System [MySQL]
+snort-pgsql (2.9.2.2-3)
+    flexible Network Intrusion Detection System [PostgreSQL]
+snort-rules-default (2.9.2.2-3)
+    flexible Network Intrusion Detection System ruleset
+sntop (1.4.3-4)
+    A curses-based utility that polls hosts to determine connectivity
+sobby (0.4.8-1)
+    a dedicated server for collaborative editing
+socat (1.7.1.3-1.4)
+    multipurpose relay for bidirectional data transfer
+socket (1.1-10)
+    Multi purpose socket tool
+socks4-clients (4.3.beta2-18)
+    Socks4 enabled clients as rtelnet and rftp
+socks4-server (4.3.beta2-18)
+    SOCKS4 server for proxying IP-based services over a firewall
+sofia-sip-bin (1.12.11+20110422-1)
+    Sofia-SIP library utilities
+softflowd (0.9.9-1)
+    Flow-based network traffic analyser
+spamoracle (1.4-14+b3 [ia64, mips, mipsel, s390], 1.4-14+b2 [armel], 1.4-14 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, s390x, sparc])
+    A statistical analysis spam filter based on Bayes' formula
+spikeproxy (1.4.8-4.1)
+    Web application security testing proxy
+spl-curl (1.0~pre6-3.1+b1)
+    SPL Programming Language -- curl adapter
+srptools (0.0.4-1.2)
+    Tools for Infiniband attached storage (SRP)
+ssh (1:6.0p1-4+deb7u2)
+    secure shell client and server (metapackage)
+ssh-askpass (1:1.2.4.1-9)
+    under X, asks user for a passphrase for ssh-add
+ssh-askpass
+    virtual package provided by ksshaskpass, ssh-askpass-fullscreen, ssh-askpass-gnome, kwalletcli
+ssh-contact (0.7-1)
+    establish SSH connections to your IM contacts using Telepathy (metapackage)
+ssh-contact-client (0.7-1)
+    establish SSH connections to your IM contacts using Telepathy (client)
+ssh-contact-service (0.7-1)
+    establish SSH connections to your IM contacts using Telepathy (server)
+sshfp (1.2.2-4)
+    DNS SSHFP records generator
+sshguard (1.5-5)
+    Protects from brute force attacks against ssh
+sshuttle (0.54-2)
+    Transparent proxy server for VPN over SSH
+ssl-cert-check (3.22-1)
+    proactively handling X.509 certificate expiration
+ssldump (0.9b3-4.1)
+    An SSLv3/TLS network protocol analyzer
+sslh (1.13b-3.2)
+    ssl/ssh multiplexer
+sslstrip (0.9-1)
+    SSL/TLS man-in-the-middle attack tool
+ssmping (0.9.1-3)
+    check your multicast connectivity
+ssvnc (1.0.29-2)
+    Enhanced TightVNC viewer with SSL/SSH tunnel helper
+steadyflow (0.2.0-1)
+    Simple download manager for GNOME
+stone (2.3.e-2+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 2.3.e-2 [armhf, s390x])
+    TCP/IP packet repeater in the application layer
+strongswan (4.5.2-1.5+deb7u6) [security]
+    IPsec VPN solution metapackage
+strongswan-ikev1 (4.5.2-1.5+deb7u6) [security]
+    strongSwan Internet Key Exchange (v1) daemon
+strongswan-ikev2 (4.5.2-1.5+deb7u6) [security]
+    strongSwan Internet Key Exchange (v2) daemon
+strongswan-nm (4.5.2-1.5+deb7u6) [security]
+    strongSwan plugin to interact with NetworkManager
+strongswan-starter (4.5.2-1.5+deb7u6) [security]
+    strongSwan daemon starter and configuration file parser
+stud (0.3-3)
+    scalable TLS unwrapping daemon
+stun (0.96.dfsg-6)
+    Server daemon and test client for STUN
+stunnel4 (3:4.53-1.1)
+    Universal SSL tunnel for network daemons
+subnetcalc (2.1.3-1)
+    IPv4/IPv6 Subnet Calculator
+supybot (0.83.4.1.ds-2)
+    robust and user friendly Python IRC bot
+suricata (1.2.1-2)
+    Next Generation Intrusion Detection and Prevention Tool
+sushi (1.4.0+dfsg-1)
+    D-Bus-based IRC suite (suite)
+swat (2:3.6.6-6+deb7u5) [security]
+    Samba Web Administration Tool
+swift (1.4.8-2+deb7u1)
+    OpenStack Object Storage - common files
+swift-account (1.4.8-2+deb7u1)
+    OpenStack Object Storage - account server
+swift-container (1.4.8-2+deb7u1)
+    OpenStack Object Storage - container server
+swift-im (2.0~beta1+dev47-1)
+    easy to use Jabber/XMPP chat client
+swift-object (1.4.8-2+deb7u1)
+    OpenStack Object Storage - object server
+swift-proxy (1.4.8-2+deb7u1)
+    OpenStack Object Storage - proxy server
+tacacs+ (4.0.4.19-11)
+    TACACS+ authentication daemon
+taktuk (3.7.4-1)
+    efficient, large scale, parallel remote execution of commands
+talk (0.17-15)
+    Chat with another user
+talk
+    virtual package provided by inetutils-talk
+talkd (0.17-15)
+    Remote user communication server
+talkd
+    virtual package provided by inetutils-talkd
+tango-accesscontrol (7.2.6+dfsg-14)
+    TANGO distributed control system - accesscontrol server
+tango-common (7.2.6+dfsg-14)
+    TANGO distributed control system - common files
+tango-db (7.2.6+dfsg-14)
+    TANGO distributed control system - database server
+tango-starter (7.2.6+dfsg-14)
+    TANGO distributed control system - control server
+tango-test (7.2.6+dfsg-14)
+    TANGO distributed control system - test device
+tayga (0.9.2-4)
+    userspace stateless NAT64
+tcng (10b-4)
+    Linux traffic control language interpreter
+tcpd (7.6.q-24)
+    Wietse Venema's TCP wrapper utilities
+tcpdump (4.3.0-1+deb7u2) [security]
+    command-line network traffic analyzer
+tcpflow (0.21.ds1-7)
+    TCP flow recorder
+tcpick (0.2.1-6)
+    TCP stream sniffer and connection tracker
+tcpreen (1.4.4-2)
+    Simple TCP re-engineering tool
+tcpreplay (3.4.3-2+wheezy1)
+    Tool to replay saved tcpdump files at arbitrary speeds
+tcpser (1.0rc12-1)
+    emulate a Hayes compatible modem
+tcpslice (1.2a3-4)
+    extract pieces of and/or glue together tcpdump files
+tcpspy (1.7d-4)
+    Incoming and Outgoing TCP/IP connections logger
+tcpstat (1.5-7)
+    network interface statistics reporting tool
+tcptrace (6.6.7-4.1)
+    Tool for analyzing tcpdump output
+tcptraceroute (1.5beta7+debian-4)
+    traceroute implementation using TCP packets
+tcptrack (1.4.2-1)
+    TCP connection tracker, with states and speeds
+tcputils (0.6.2-9)
+    Utilities for TCP programming in shell-scripts
+tcpwatch-httpproxy (1.3b-3)
+    TCP monitoring and logging tool with support for HTTP 1.1
+tcpxtract (1.0.1-8)
+    extracts files from network traffic based on file signatures
+teamspeak-client (2.0.32-3.1) [non-free]
+    VoIP chat for online gaming
+teamspeak-server (2.0.24.1+debian-1.1) [non-free]
+    VoIP chat for online gaming (server)
+tekka (1.4.0+dfsg-1)
+    D-Bus-based IRC suite (graphical client)
+telepathy-gabble (0.16.7-0+deb7u1)
+    Jabber/XMPP connection manager
+telepathy-haze (0.6.0-1)
+    Telepathy connection manager that uses libpurple
+telepathy-idle (0.1.11-2+deb7u1)
+    IRC connection manager for Telepathy
+telepathy-mission-control-5 (1:5.12.3-1)
+    management daemon for Telepathy real-time communication framework
+telepathy-rakia (0.7.4-1)
+    SIP connection manager for the Telepathy framework
+telepathy-salut (0.8.1-1)
+    Link-local XMPP connection manager for the Telepathy framework
+telnet (0.17-36+b1 [sparc], 0.17-36 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x])
+    The telnet client
+telnet-ssl (0.17.24+0.1-23)
+    telnet client with SSL encryption support
+telnetd (0.17-36+b1 [sparc], 0.17-36 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x])
+    The telnet server
+telnetd-ssl (0.17.24+0.1-23)
+    telnet server with SSL encryption support
+tf5 (5.0beta8-4+b1)
+    text-based MU* and chatserver client
+tftp (0.17-18)
+    Trivial file transfer protocol client
+tftp-hpa (5.2-4)
+    HPA's tftp client
+tftpd (0.17-18)
+    Trivial file transfer protocol server
+tftpd-hpa (5.2-4)
+    HPA's tftp server
+tgn (0.20-3)
+    A command-line based network traffic generator
+tgt (1:1.0.17-1)
+    Linux SCSI target user-space tools
+tickr (0.6.1-1)
+    GTK-based highly graphically-customizable Feed Ticker
+tidy-proxy (0.97-4)
+    small http proxy which tidies html
+timps (0.25-4)
+    Transparent Instant Messaging Proxy Server
+tinc (1.0.19-3)
+    Virtual Private Network daemon
+tinydyndns (0.4.2.debian1-1)
+    pop-before-dyndns service using djbdns
+tinyirc (1:1.1.dfsg.1-2)
+    a tiny IRC client
+tkabber (0.11.1-3)
+    GUI client for XMPP (Jabber) instant messaging protocol
+tkabber-plugins (0.11.1-1)
+    standard plugins for Tkabber, an XMPP (Jabber) client
+tkmib (5.4.3~dfsg-2.8+deb7u1)
+    SNMP (Simple Network Management Protocol) MIB browser
+tnat64 (0.05-1)
+    IPv4 to NAT64 redirector
+tnftp (20100108-3)
+    enhanced ftp client
+torque-scheduler (2.4.16+dfsg-1+deb7u4)
+    scheduler part of Torque
+torrus-apache2 (2.03-2+deb7u1)
+    Universal front-end for Round-Robin Databases (for apache 2.x) (deprecated)
+torrus-common (2.03-2+deb7u1)
+    Universal front-end for Round-Robin Databases (common files)
+torsocks (1.2-3)
+    use SOCKS-friendly applications with Tor
+traceroute (1:2.0.18-3)
+    Traces the route taken by packets over an IPv4/IPv6 network
+traceroute
+    virtual package provided by inetutils-traceroute
+transgui (4.0.3-2)
+    Front-end to remotely control Transmission
+transmission (2.52-3+nmu2)
+    lightweight BitTorrent client
+transmission-cli (2.52-3+nmu2)
+    lightweight BitTorrent client (command line programs)
+transmission-common (2.52-3+nmu2)
+    lightweight BitTorrent client (common files)
+transmission-daemon (2.52-3+nmu2)
+    lightweight BitTorrent client (daemon)
+transmission-gtk (2.52-3+nmu2)
+    lightweight BitTorrent client (GTK interface)
+transmission-qt (2.52-3+nmu2)
+    lightweight BitTorrent client (Qt interface)
+transmission-remote-cli (1.3.1-1)
+    ncurses interface for the Transmission BitTorrent daemon
+trickle (1.07-9+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.07-9 [armhf])
+    user-space bandwidth shaper
+tshark (1.8.2-5wheezy15) [security]
+    network traffic analyzer - console version
+tsocks (1.8beta5-9.2)
+    transparent network access through a SOCKS 4 or 5 proxy
+tsung (1.4.2-1.1)
+    distributed multi-protocol load testing tool
+ttt (1.7-3.3)
+    Standalone program for local traffic-monitoring
+tttprobe (1.7-3.3)
+    Probe to collect traffic-data and send it to a viewer
+tttview (1.7-3.3)
+    Graphical viewer for remote captured traffic-data
+ttytter (2.1.0-1~deb7u1) [non-free]
+    console Twitter client
+tunapie (2.1.17-2.2)
+    Lists audio and video streams from Shoutcast and Icecast
+tvflash (0.9.0-1)
+    Mellanox firmware update utility
+twatch (0.0.7-1)
+    watch torrent trackers and automatically download new torrents
+twoftpd (1.41-1)
+    a simple secure efficient FTP server (programs)
+tzc (2.6.15-5.2)
+    Trivial Zephyr Client
+uanytun (0.3.3-1)
+    tiny implementation of the secure anycast tunneling protocol
+uapevent (1.4-2)
+    event monitoring tool for Marvell uAP wireless driver
+uaputl (1.12-2)
+    admin utility for Marvell uAP wireless driver
+ucarp (1.5.2-1+nmu1)
+    user-space replacement to VRRP -- automatic IP fail-over
+ucspi-proxy (0.98-1)
+    Connection proxy for UCSPI tools
+ucspi-tcp (1:0.88-3)
+    command-line tools for building TCP client-server applications
+ucspi-tcp
+    virtual package provided by ucspi-tcp-ipv6
+ucspi-tcp-ipv6 (1:0.88-3)
+    command-line tools for building TCP client-server applications (IPv6)
+ucspi-unix (0.36-4)
+    UNIX-domain socket client-server command-line tools
+udhcpc (1:1.20.0-7)
+    Provides the busybox DHCP client implementation
+udhcpd (1:1.20.0-7)
+    Provides the busybox DHCP server implementation
+udptunnel (1.1-4)
+    tunnel UDP packets over a TCP connection
+uget (1.8.2-1)
+    easy-to-use download manager written in GTK+
+uhub (0.3.2-1)
+    High performance Advanced Direct Connect p2p hub
+uif (1.0.6-1.1)
+    Advanced iptables-firewall script
+ulogd (1.24-3.3)
+    The Netfilter Userspace Logging Daemon
+ulogd-mysql (1.24-3.3)
+    MySQL extension to ulogd
+ulogd-pcap (1.24-3.3)
+    pcap extension to ulogd
+ulogd-pgsql (1.24-3.3)
+    PostgreSQL extension to ulogd
+ulogd-sqlite3 (1.24-3.3)
+    SQLite 3 extension to ulogd
+unbound (1.4.17-3+deb7u2)
+    validating, recursive, caching DNS resolver
+unbound-anchor (1.4.17-3+deb7u2)
+    utility to securely fetch the root DNS trust anchor
+unbound-host (1.4.17-3+deb7u2)
+    reimplementation of the 'host' command
+unworkable (0.53-3)
+    efficient, simple and secure bittorrent client
+upnp-inspector (0.2.2+dfsg-3)
+    Python UPnP framework analyser
+urfkill (0.3.0-1)
+    wireless killswitch management daemon for laptops
+uruk (20120608.1-1)
+    Very small firewall script, for configuring iptables
+utalk (1.0.1.beta-7+b1 [mips, mipsel], 1.0.1.beta-7 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, powerpc, s390, s390x, sparc])
+    talk-like program with additional features
+valknut (0.4.9-2)
+    graphical client for Direct Connect
+valknut-translations (0.4.9-2)
+    graphical client for Direct Connect - translation files
+vde2 (2.3.2-4)
+    Virtual Distributed Ethernet
+vde2-cryptcab (2.3.2-4)
+    Virtual Distributed Ethernet - CryptCab
+vdetelweb (1.2.1-1)
+    Telnet and Web interface for VDE 2.x
+vidalia (0.2.20-2)
+    controller GUI for Tor
+vlc-nox (2.0.3-5+deb7u2+b1) [security]
+    multimedia player and streamer (without X support)
+vnstat (1.11-1)
+    console-based network traffic monitor
+vnstati (1.11-1)
+    image output support for vnStat
+voms-clients (2.0.8-1)
+    Virtual Organization Membership Service Clients
+voms-server (2.0.8-1)
+    Virtual Organization Membership Service Server
+vpnc (0.5.3r512-2)
+    Cisco-compatible VPN client
+vpnc-scripts (0.1~git20120602-2)
+    Network configuration scripts for VPNC and OpenConnect
+vrrpd (1.0-2)
+    Virtual Router Redundancy Protocol user-space implementation
+vsftpd (2.3.5-3)
+    lightweight, efficient FTP server written for security
+vtun (3.0.2-4+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 3.0.2-4 [armhf, s390x])
+    virtual tunnel over TCP/IP networks
+vuze (4.3.0.6-5)
+    Multimedia BitTorrent client
+w3af (1.0-rc3svn3489-1)
+    framework to find and exploit web application vulnerabilities
+w3af-console (1.0-rc3svn3489-1)
+    framework to find and exploit web application vulnerabilities (CLI only)
+wader-core (0.5.10-1)
+    alternative D-Bus service for managing modems
+wakeonlan (0.41-11)
+    Sends 'magic packets' to wake-on-LAN enabled ethernet adapters
+wavemon (0.7.5-3)
+    Wireless Device Monitoring Application
+weathermap4rrd (1.1.999+1.2rc3-2)
+    script that generates picture network links utilization
+webcam (3.102-3)
+    image grabber and uploader
+webcamd (0.7.6-5)
+    Capture images from video devices
+weechat (0.3.8-1+deb7u1)
+    Fast, light and extensible chat client
+weechat-core (0.3.8-1+deb7u1)
+    Fast, light and extensible chat client - core files
+weechat-curses (0.3.8-1+deb7u1)
+    Fast, light and extensible chat client - console client
+weechat-plugins (0.3.8-1+deb7u1)
+    Fast, light and extensible chat client - plugins
+weechat-scripts (20120603-1)
+    script collection for the WeeChat IRC client
+weex (2.6.1-8)
+    Non-interactive FTP client for updating web pages
+weplab (0.1.5-2)
+    tool designed to break WEP keys
+whereami (0.3.34-0.3)
+    Automatically reconfigure your (laptop) system for a new location
+whois (5.1.1~deb7u1)
+    intelligent WHOIS client
+wicd (1.7.2.4-4)
+    wired and wireless network manager - metapackage
+wicd-cli (1.7.2.4-4)
+    wired and wireless network manager - scriptable console client
+wicd-curses (1.7.2.4-4)
+    wired and wireless network manager - Curses client
+wicd-daemon (1.7.2.4-4)
+    wired and wireless network manager - daemon
+wicd-gtk (1.7.2.4-4)
+    wired and wireless network manager - GTK+ client
+wide-dhcpv6-client (20080615-11.1)
+    DHCPv6 client for automatic IPv6 hosts configuration
+wide-dhcpv6-relay (20080615-11.1)
+    DHCPv6 relay for automatic IPv6 hosts configuration
+wide-dhcpv6-server (20080615-11.1)
+    DHCPv6 server for automatic IPv6 hosts configuration
+wifi-radar (2.0.s08+dfsg-1.1)
+    graphical utility for managing Wi-Fi profiles
+winbind (2:3.6.6-6+deb7u5) [security]
+    Samba nameservice integration server
+wireless-regdb (2014.10.07-1~deb7u1)
+    wireless regulatory database
+wireless-tools (30~pre9-8)
+    Tools for manipulating Linux Wireless Extensions
+wireshark (1.8.2-5wheezy15) [security]
+    network traffic analyzer - GTK+ version
+wireshark-common (1.8.2-5wheezy15) [security]
+    network traffic analyzer - common files
+wmaloader (0.1-5.1+b1)
+    firmware downloader for Linksys WMA11B media adapter
+wmnd (0.4.16-1.1)
+    Dockapp monitoring network interfaces
+wmnd-snmp (0.4.16-1.1)
+    Dockapp monitoring network interfaces with SNMP support
+wondershaper (1.1a-6)
+    Easy to use traffic shaping script
+woof (20091227-2)
+    share files through HTTP protocol
+wpagui (1.0-3+deb7u1)
+    graphical user interface for wpa_supplicant
+wpasupplicant (1.0-3+deb7u1)
+    client support for WPA and WPA2 (IEEE 802.11i)
+wrapsrv (0.2-1)
+    DNS SRV record command line wrapper
+wzdftpd (0.8.3-6.2)
+    modular, small and efficient ftp server - binaries
+wzdftpd-back-mysql (0.8.3-6.2)
+    modular, small and efficient ftp server - MySQL backend
+wzdftpd-back-pgsql (0.8.3-6.2)
+    modular, small and efficient ftp server - PostgreSQL backend
+wzdftpd-mod-avahi (0.8.3-6.2)
+    modular, small and efficient ftp server - zeroconf module
+wzdftpd-mod-perl (0.8.3-6.2)
+    modular, small and efficient ftp server - Perl module
+wzdftpd-mod-tcl (0.8.3-6.2)
+    modular, small and efficient ftp server - Tcl module
+x3270 (3.3.10ga4-2+b1 [amd64, armel, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 3.3.10ga4-2 [armhf, s390x]) [non-free]
+    X11 program for telnet sessions to IBM mainframes
+xavante (2.2.1-1)
+    Lua HTTP 1.1 Web server
+xchat (2.8.8-7.1)
+    IRC client for X similar to AmIRC
+xchat-common (2.8.8-7.1)
+    Common files for X-Chat
+xchat-guile (0.3-2)
+    Guile scripting plugin for XChat
+xfingerd (0.6-5.1)
+    BSD-like finger daemon with qmail support
+xinetd (1:2.3.14-7.1+deb7u1)
+    replacement for inetd with many enhancements
+xl2tpd (1.3.1+dfsg-1)
+    layer 2 tunneling protocol implementation
+xorp (1.8.5-1.1)
+    eXtensible Open Router Platform
+xprobe (0.3-1.1)
+    Remote OS identification
+xrdp (0.5.0-2)
+    Remote Desktop Protocol (RDP) server
+xtalk (1.3-15.1)
+    BSD talk compatible X Window System client
+xtell (2.10.7)
+    Simple messaging client and server, sort of networked write
+xvnc4viewer (4.1.1+X4.3.0-37.1)
+    Virtual network computing client software for X
+xymon (4.3.0~beta2.dfsg-9.1)
+    monitoring system for systems, networks and applications
+xymon-client (4.3.0~beta2.dfsg-9.1)
+    client for the Xymon network monitor
+yafc (1.1.3-2)
+    yet another FTP client
+yapra (0.1.2-7)
+    Yet Another Pragger implementation
+yardradius (1.1.2-4)
+    YARD Radius Authorization and Accounting Server
+yarssr (0.2.2-8)
+    RSS reader for the notification area
+ytalk (3.3.0-5)
+    enhanced talk program
+zenmap (6.00-0.3+deb7u1)
+    The Network Mapper Front End
+zephyr-clients (3.0.2-2)
+    Project Athena's notification service - client programs
+zephyr-server (3.0.2-2)
+    Project Athena's notification service - non-Kerberos server
+zephyr-server
+    virtual package provided by zephyr-server-krb5
+zephyr-server-krb5 (3.0.2-2)
+    The original "Instant Message" system-server with Kerberos 5
+zftp (20061220+dfsg3-2)
+    CERNLIB data analysis suite - file transfer program
+ziproxy (3.2.0-2)
+    compressing HTTP proxy server
+znc (0.206-2)
+    advanced modular IRC bouncer
+znc-dev (0.206-2)
+    advanced modular IRC bouncer (development headers)
+znc-extra (0.206-2)
+    extra modules for znc
+znc-perl (0.206-2)
+    advanced modular IRC bouncer (Perl extension)
+znc-python (0.206-2)
+    advanced modular IRC bouncer (Python extension)
+zonecheck (3.0.3-2)
+    DNS configuration checker
+zonecheck-cgi (3.0.3-2)
+    DNS configuration checker (web interface)
+zoneminder (1.25.0-4)
+    Linux video camera security and surveillance solution
+zorp (3.9.5-4)
+    Advanced protocol analyzing firewall
+zorp-modules (3.9.5-4)
+    Default proxy modules for Zorp
+zssh (1.5c.debian.1-3.1)
+    interactive file transfers over ssh
+zsync (0.6.2-1)
+    client-side implementation of the rsync algorithm 

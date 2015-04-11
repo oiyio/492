@@ -1,0 +1,2212 @@
+0ad (0~r11863-2)
+    Real-time strategy game of ancient warfare
+0ad-data (0~r11863-1)
+    Real-time strategy game of ancient warfare (data)
+3dchess (0.8.1-17)
+    Play chess across 3 boards!
+4digits (1.1.2-1)
+    guess-the-number game, aka Bulls and Cows
+7kaa (2.14.3-1)
+    Seven Kingdoms Ancient Adversaries: real-time strategy game
+7kaa-data (2.13-1)
+    Seven Kingdoms Ancient Adversaries - game data
+a7xpg (0.11.dfsg1-7)
+    chase action game
+a7xpg-data (0.11.dfsg1-7)
+    chase action game - game data
+aajm (0.4-6)
+    ASCII art version of jugglemaster
+abe (1.1+dfsg-1)
+    Side-scrolling game named "Abe's Amazing Adventure"
+abe-data (1.1+dfsg-1)
+    Side-scrolling game named "Abe's Amazing Adventure"
+ace-of-penguins (1.3-8)
+    penguin-themed solitaire games
+acm (5.0-28)
+    Multi-player classic aerial combat simulation
+adonthell (0.3.5-7.1)
+    2D graphical roleplaying game
+adonthell-data (0.3.4.cvs.20080529+dfsg-3)
+    Data files needed by Adonthell
+airstrike (0.99+1.0pre6a-5)
+    2d dogfight game in the tradition of 'Biplanes' and 'BIP'
+airstrike-common (0.99+1.0pre6a-5)
+    2d dogfight game in the tradition of 'Biplanes' and 'BIP'
+aisleriot (1:3.4.1-1)
+    GNOME solitaire card game collection
+alex4 (1.1-5+b1)
+    Alex the Allegator 4 - a retro platform game
+alex4-data (1.1-5)
+    Alex the Allegator 4 - game data
+alien-arena (7.53+dfsg-3) [contrib]
+    Standalone 3D first person online deathmatch shooter
+alien-arena-data (7.53-1) [non-free]
+    Game data files for Alien Arena
+alien-arena-server (7.53+dfsg-3) [contrib]
+    Dedicated server for Alien Arena
+alienblaster (1.1.0-7)
+    Classic 2D shoot 'em up
+alienblaster-data (1.1.0-7)
+    Game data for Alien Blaster
+amoebax (0.2.1+dfsg-1)
+    Puyo Puyo-style puzzle game for up to two players
+amoebax-data (0.2.1+dfsg-1)
+    Data files for amoebax
+amor (4:4.8.4-1)
+    desktop companion
+amphetamine (0.8.10-18)
+    jump'n run game with unique visual effects
+amphetamine-data (0.8.7-14)
+    data files for the game "Amphetamine"
+an (1.0-2)
+    very fast anagram generator
+angband (1:3.3.2-2.1)
+    Single-player, text-based, dungeon simulation game
+angband-data (1:3.3.2-2.1)
+    Game data for angband
+angrydd (1.0.1-8)
+    Angry Drunken Dwarves - falling blocks puzzle game
+animals (201007161925-8)
+    Traditional AI animal guessing engine using a binary tree DB
+antigravitaattori (0.0.3-5)
+    Multiplayer flying saucer racing game
+ardentryst (1.71-4)
+    Action/RPG sidescoller, focused on story and character development
+armagetronad (0.2.8.3.2-1)
+    3D Tron-like high speed game
+armagetronad-common (0.2.8.3.2-1)
+    Common files for the Armagetron Advanced packages
+armagetronad-dedicated (0.2.8.3.2-1)
+    dedicated game server for Armagetron Advanced
+asc (2.4.0.0-3)
+    turn-based strategy game
+asc-data (2.4.0.0-3)
+    data files for the Advanced Strategic Command game
+asc-music (1.3-2)
+    music pack for ASC
+asciijump (1.0.2~beta-6)
+    Small and funny ASCII-art game about ski jumping
+assaultcube (1.1.0.4+dfsg2-1) [contrib]
+    realistic first-person-shooter
+assaultcube-data (1.1.0.4+repack1-2.1~deb7u1) [non-free]
+    data files and documentation for AssaultCube
+asylum (0.3.2-1)
+    surreal platform shooting game
+asylum-data (0.3.2-1)
+    surreal platform shooting game - data files
+atanks (5.5+dfsg-0.1)
+    tank-battling game
+atanks-data (5.5+dfsg-0.1)
+    data files for Atomic tanks
+atom4 (4.1-5.1)
+    An original two-player color puzzle game
+atomix (2.14.0-2)
+    puzzle game for building molecules out of separate atoms
+atomix-data (2.14.0-2)
+    architecture independent files for atomix
+atris (1.0.7.dfsg.1-8)
+    tetris-like game with a twist for Unix
+attal (1.0~rc2-2)
+    turn-based strategy game
+attal-themes-medieval (1.0~rc2.dfsg1-1)
+    medieval theme for attal
+auralquiz (0.8.1-1)
+    simple music quiz game using your own music files
+balazar3 (0.1-10)
+    dungeon adventure game with multiplayer support
+balazar3-2d (0.1-10)
+    dungeon adventure game with multiplayer support - 2D version
+balazar3-3d (0.1-10)
+    dungeon adventure game with multiplayer support - 3D version
+balazar3-common (0.1-10)
+    dungeon adventure game with multiplayer support - common files
+balazarbrothers (1.0~rc1-4.1)
+    3D puzzle game
+balder2d (1.0-1.1+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.0-1.1 [armhf, s390x])
+    A 2D shooter in zero gravity
+balder2d-data (1.0-1.1)
+    data files for balder2d
+ballz (1.0.2-1+b1)
+    B.A.L.L.Z. - platform/puzzle game where you control a rolling ball
+ballz-data (1.0.2-1)
+    B.A.L.L.Z. - game data
+barrage (1.0.3-1)
+    Rather destructive action game
+bastet (0.43-2.1+b1)
+    ncurses Tetris clone with a bastard algorithm
+battleball (2.0-17)
+    soccer game played with tanks or helicopters
+bb (1.3rc1-8.1)
+    ASCII-art demo based on AAlib
+beneath-a-steel-sky (0.0372-4)
+    a science fiction adventure game
+berusky (1.4-1)
+    Logic game based on Sokoban
+berusky-data (1.4-1)
+    Data files for Berusky
+between (6+dfsg1-2)
+    game about consciousness and isolation
+billard-gl (1.75-11)
+    3D billiards game
+billard-gl-data (1.75-11)
+    3D billiards game - data files
+biloba (0.9.3-4)
+    turn based strategy board game for up to 4 players
+biloba-data (0.9.3-4)
+    data package for biloba turn based strategy board game
+biniax2 (1.30-1)
+    logic game with arcade and tactics modes
+biniax2-data (1.30-1)
+    logic game with arcade and tactics modes - game data
+black-box (1.4.8-2)
+    Find the crystals
+blinken (4:4.8.4-1)
+    KDE version of the Simon electronic memory game
+blobandconquer (1.11-dfsg+20-1)
+    3D platform shooting game
+blobandconquer-data (1.11-dfsg+20-1)
+    3D platform shooting game -- data files
+blobby (1.0~rc1-2)
+    Volleyball game with blobs
+blobby-data (1.0~rc1-2)
+    Volleyball game with blobs (data files)
+blobby-server (1.0~rc1-2)
+    Volleyball game with blobs (server)
+bloboats (1.0.1.dsfg-3)
+    a boat racing game
+blobwars (1.19-2)
+    platform shooting game
+blobwars-data (1.19-2)
+    platform shooting game
+blockattack (1.4.1+ds1-2.1)
+    puzzle game inspired by Tetris
+blockout2 (2.4+dfsg1-6)
+    Tetris like game (3D-tetris)
+blocks-of-the-undead (1.0-5)
+    Tetris Attack clone with spooky undertones
+blocks-of-the-undead-data (1.0-5)
+    Tetris Attack clone with spooky undertones - data files
+bombardier (0.8.3+nmu1)
+    The GNU Bombing utility
+bomber (4:4.8.4-3)
+    arcade spaceship game
+bomberclone (0.11.9-4)
+    free Bomberman clone
+bomberclone-data (0.11.9-4)
+    Data files for bomberclone game
+boswars (2.6.1-2)
+    futuristic real-time strategy game
+boswars-data (2.6.1-2)
+    Images, data, and music files for Bos Wars
+bouncy (0.6.20071104-3)
+    eat the yummy veggies in the garden - game for small kids
+bovo (4:4.8.4-3)
+    gomoku (five in line) board game
+briquolo (0.5.7-4)
+    Fast paced 3d Breakout
+briquolo-data (0.5.7-4)
+    Fast paced 3d Breakout data files
+brutalchess (0.5.2+dfsg-4)
+    3D chess game with reflection of the chessmen
+bsdgames (2.17-21)
+    collection of classic textual unix games
+bsdgames-nonfree (2.17-5) [non-free]
+    rogue, the classic dungeon exploration game
+bsnes (0.088-5)
+    Accurate SNES/SuperFamicom emulator
+btanks (0.9.8083-4)
+    fast 2D tank arcade game with multiplayer and split-screen modes
+btanks-data (0.9.8083-4)
+    fast 2D tank arcade game -- data
+bubbros (1.6-2)
+    multiplayer clone of the famous Bubble Bobble game
+bugsquish (0.0.6-7)
+    Bugs are trying to suck blood out of your arm!
+bumprace (1.5.4-1)
+    1 or 2 players race through a multi-level maze
+bumprace-data (1.5.4-1)
+    data files for bumprace
+burgerspace (1.9.0-4)
+    Avoid evil foodstuffs and make burgers
+bygfoot (2.3.2-1)
+    football (a.k.a soccer) management game
+bygfoot-data (2.3.2-1)
+    data of football (a.k.a soccer) management game
+bzflag (2.0.16.20100405+nmu1)
+    a 3D first person tank battle game
+bzflag-client (2.0.16.20100405+nmu1)
+    BZFlag client
+bzflag-data (2.0.16.20100405+nmu1)
+    BZFlag data file
+bzflag-server (2.0.16.20100405+nmu1)
+    bzfs - BZFlag game server
+cappuccino (0.5.1-2.1)
+    an utility to let your boss think that you're working hard
+cardstories (1.0.6-1.2)
+    multiplayer online card guessing game
+castle-combat (0.8.1.dfsg.1-3)
+    game where the player builds one castle and destroys others
+cavezofphear (0.5.1-1)
+    ASCII Boulder Dash clone
+ceferino (0.97.8-3.1)
+    action game similar to Super Pang
+ceferino-data (0.97.8-3.1)
+    action game similar to Super Pang
+cgoban (1.9.14-17)
+    complete Go board
+childsplay (1.6-1)
+    Suite of educational games for young children
+childsplay-alphabet-sounds-bg (0.9.1-2)
+    Bulgarian sound files for childsplay
+childsplay-alphabet-sounds-el (0.9-2)
+    Greek sound files for childsplay
+childsplay-alphabet-sounds-en-gb (0.9.1-2)
+    British sound files for childsplay
+childsplay-alphabet-sounds-nb (0.9.1-1)
+    Bokmål sound files for childsplay
+childsplay-alphabet-sounds-ro (0.9.1-1)
+    Romanian sound files for childsplay
+childsplay-alphabet-sounds-sl (0.9.1-1)
+    Slovenian sound files for childsplay
+chipw (2.0.6-1.1)
+    custom level editor for TileWorld / Chip's Challenge™
+chocolate-doom (1.7.0-3+b1 [amd64], 1.7.0-3 [armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc]) [contrib]
+    Doom engine closely-compatible with vanilla doom
+chromium-bsu (0.9.15-1)
+    fast paced, arcade-style, scrolling space shooter
+chromium-bsu-data (0.9.15-1)
+    data pack for the Chromium B.S.U. game
+circuslinux (1.0.3-28)
+    Clowns are trying to pop balloons to score points!
+circuslinux-data (1.0.3-28)
+    data files for circuslinux
+colorcode (0.7.2-1)
+    advanced clone of the MasterMind code-breaking game
+connectagram (1.0.1-1)
+    word unscrambling game
+cookietool (2.5-5)
+    suite of programs to help maintain a fortune database
+cowsay (3.03+dfsg1-4)
+    configurable talking cow
+crack-attack (1.1.14-9.1)
+    multiplayer OpenGL puzzle game like "Tetris Attack"
+crafty (23.4-6) [non-free]
+    state-of-the-art chess engine, compatible with xboard
+crafty-bitmaps (1.0-1) [contrib]
+    bitmap images for crafty chess game annotation mode
+crafty-books-medium (1.0.debian1-2) [contrib]
+    Medium size opening books for the crafty chess engine
+crafty-books-medtosmall (1.0.debian1-2) [contrib]
+    Medium-to-small size opening books for crafty chess engine
+crafty-books-small (1.0.debian1-2) [contrib]
+    Small-size opening books for crafty chess engine
+crawl (2:0.10.3-3)
+    Dungeon Crawl, a text-based roguelike game
+crawl-common (2:0.10.3-3)
+    Dungeon Crawl, a text-based roguelike game (data files)
+crawl-tiles (2:0.10.3-3)
+    Dungeon Crawl, a roguelike game, tiles version
+crimson (0.5.2-1)
+    A hex-based tactical game
+criticalmass (1:1.0.0-1.5)
+    Shoot-em-up a la galaxian
+criticalmass-data (1:1.0.0-1.5)
+    Shoot-em-up a la galaxian (data files)
+crossfire-client (1.70.0-1)
+    Client for the multiplayer roguelike Crossfire
+crossfire-client-images (1.70.0-1)
+    Base crossfire-client images
+crossfire-client-sounds (1.9.1-1)
+    sound files for playing crossfire
+crossfire-common (1.70.0-1)
+    Architecture independent common files for Crossfire server
+crossfire-maps (1.70.0-1)
+    Standard set of maps for crossfire
+crossfire-maps
+    virtual package provided by crossfire-maps-small
+crossfire-maps-small (1.5.0-3)
+    Small set of maps for crossfire
+crossfire-server (1.70.0-1)
+    Server for Crossfire Games
+csmash (0.6.6-6.6)
+    CannonSmash, a table tennis simulation game
+csmash-data (0.6.6-6.6)
+    data files for the CannonSmash game
+csmash-demosong (1.4)
+    Demo song for CannonSmash
+cultivation (9+dfsg1-1)
+    game about the interactions within a gardening community
+cuyo (2.0.0brl1-1)
+    Tetris-like game with very impressive effects
+cuyo-data (2.0.0brl1-1)
+    data files for the game cuyo
+cytadela (1.0.1-2) [contrib]
+    old-school first person shooter game
+cytadela-data (1.0.1-2) [contrib]
+    game data for cytadela
+dangen (0.5-2)
+    shoot 'em up game where accurate shooting matters
+darkplaces (0~20110628+svn11619-3)
+    Game engine for Quake and similar 3D first person shooter games
+darkplaces-server (0~20110628+svn11619-3)
+    Standalone server for Quake-based games
+dds (2.1.2+ddd105-1)
+    bridge double dummy solver - frontend
+deal (3.1.9-3)
+    bridge hand generator
+dealer (0.20040530-4)
+    bridge hand generator
+defendguin (0.0.12-4)
+    defender clone with penguins
+defendguin-data (0.0.12-4)
+    Data files for defendguin
+desmume (0.9.8-1)
+    Nintendo DS emulator
+deutex (4.4.902-13)
+    composition tool for doom-style WAD files
+dizzy (0.3-1)
+    Graphics demo that makes you dizzy using rotating textures
+dodgindiamond2 (0.2.2-1)
+    Little shoot-'em-up arcade game for one or two players
+doom-wad-shareware (1.9.fixed-2) [non-free]
+    Shareware game files for the 3D game Doom
+doomsday (1.9.0-beta6.9+dfsg1-2.1)
+    enhanced version of the legendary DOOM game
+dopewars (1.5.12-13)
+    drug-dealing game set in streets of New York City
+dopewars-data (1.5.12-13)
+    drug-dealing game set in streets of New York City - data files
+dossizola (1.0-8.3)
+    An Isola board game with nice graphics
+dossizola-data (1.0-8.3)
+    Data files for Do'SSi Zo'la game
+dreamchess (0.2.0-3)
+    3D chess game
+dreamchess-data (0.2.0-3)
+    data files for dreamchess
+dvorak7min (1.6.1-13.1)
+    typing tutor for Dvorak keyboards
+eboard (1.1.1-5)
+    GTK+ chessboard program
+eboard-extras-pack1 (2-3)
+    additional piece sets and sounds for eboard (pack 1)
+efp (1.4-2)
+    Escape from Pong NES game
+einstein (2.0.dfsg.2-9)
+    Puzzle game inspired on Einstein's puzzle
+eleeye (0.29.6-2)
+    Chinese chess (Xiangqi) engine
+emacs-chess (2.0b6-1.1)
+    a client and library for playing Chess from Emacs
+ember (0.6.2+dfsg-2)
+    3D client framework for the WorldForge project
+ember-media (0.6.2.1-1)
+    3D client framework for the WorldForge project -- media files
+empire (1.7-3)
+    the war game of the century
+empire-hub (1.0.2.1+b1 [mips, mipsel], 1.0.2.1 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, powerpc, s390, s390x, sparc])
+    Empire protocol multiplexer
+empire-lafe (1.1-1)
+    Fast line-mode Empire client
+enemylines3 (1.2-7)
+    semi-abstract first person 3d-shooter game
+enemylines7 (0.6-3)
+    first person 3d-shooter game
+enigma (1.10~~pre-alpha+r2236-1)
+    A game where you control a marble with the mouse
+enigma-data (1.10~~pre-alpha+r2236-1)
+    Data file for the game enigma
+epiphany (0.7.0-6)
+    clone of Boulder Dash game
+epiphany-data (0.7.0-6)
+    required data files for epiphany game
+etoys (4.0.2340-1) [non-free]
+    A media-rich model, simulation construction kit and authoring tool
+etw (3.6+svn140-4)
+    arcade-style soccer game
+etw-data (3.6+svn140-4)
+    graphics and audio data for etw
+excellent-bifurcation (0.0.20071015-5)
+    abstract vertical shooter with two sides to play on
+extremetuxracer (0.4-5)
+    3D racing game featuring Tux, the Linux penguin
+extremetuxracer-data (0.4-5)
+    data files for the game Extreme Tux Racer
+extremetuxracer-extras (0.6-1)
+    Additional courses for Extreme Tux Racer
+extremetuxracer-gimp-dev (0.4-5)
+    plugins for GIMP for easy development of etracer courses
+exult (1.2-15.2) [contrib]
+    engine for Ultima VII (BG, FOV, SI, SS)
+exult-studio (1.2-15.2) [contrib]
+    tools for editing and viewing exult games
+fairymax (4.8q-2)
+    xboard compatible chess and chess-variant engine
+fb-music-high (0.1.2)
+    High quality, large music files for Frozen-Bubble
+fceu (0.98.12-4.1)
+    FCE Ultra - a nintendo (8-bit) emulator
+fcmp (1.18.20030311-3)
+    Free media files for FreeCraft
+ffrenzy (1.0.2~svn20070530-4)
+    multiplayer platform game with dwarfs fighting with/for food
+fgo (1.3.1-2)
+    simple graphical launcher for FlightGear
+filler (1.02-6.1)
+    simple game where two players try to capture half the board
+fillets-ng (1.0.1-2)
+    puzzle game about witty fish saving the world sokoban-style
+fillets-ng-data (1.0.0-1)
+    docs, graphics, music and international sounds for fillets-ng
+fillets-ng-data-cs (1.0.0-1)
+    add-on sounds for Czech language spoken dialogs for fillets-ng
+fillets-ng-data-nl (1.0.0-1)
+    add-on sounds for Dutch language spoken dialogs for fillets-ng
+filters (2.48)
+    a collection of filters, including B1FF and the Swedish Chef
+fizmo-common (0.7.2-2)
+    Provides localization data from all default fizmo-related
+fizmo-console (0.7.2-2)
+    Console-based Z-machine interpreter for Infocom/Inform games
+fizmo-ncursesw (0.7.2-2)
+    Ncurses-based Z-machine interpreter for Infocom/Inform games
+flare (0.15.1-1)
+    single-player 2D action role-playing game, binary
+flare-data (0.15.1-1)
+    single-player 2D action role-playing game, data files
+flight-of-the-amazon-queen (1.0.0-7)
+    a fantasy adventure game
+flobopuyo (0.20-5)
+    Clone of the PuyoPuyo game
+fltk1.1-games (1.1.10-14)
+    Fast Light Toolkit - example games: checkers, sudoku
+fltk1.3-games (1.3.0-8)
+    Fast Light Toolkit - example games: checkers, sudoku
+fofix (3.121-3)
+    rhythm game in the style of Rock Band(tm) and Guitar Hero(tm)
+foobillard (3.0a-5)
+    3D billiards game using OpenGL
+fortune-mod (1:1.99.1-4)
+    provides fortune cookies on demand
+fortune-zh (1.9)
+    Chinese Data files for fortune
+fortunes (1:1.99.1-4)
+    Data files containing fortune cookies
+fortunes-bg (1.1)
+    Bulgarian data files for fortune
+fortunes-bofh-excuses (1.2-2)
+    BOFH excuses for fortune
+fortunes-br (20080530)
+    Data files with fortune cookies in Portuguese
+fortunes-cs (2.0-1)
+    Czech and Slovak data files for fortune
+fortunes-de (0.30-1)
+    German data files for fortune
+fortunes-debian-hints (1.99)
+    Debian Hints for fortune
+fortunes-eo (20020729-4)
+    Collection of esperanto fortunes.
+fortunes-eo-ascii (20020729-4)
+    Collection of esperanto fortunes (ascii encoding).
+fortunes-eo-iso3 (20020729-4)
+    Collection of esperanto fortunes (ISO3 encoding).
+fortunes-es (1.32)
+    Spanish fortune database
+fortunes-es-off (1.32)
+    Spanish fortune cookies (Offensive section)
+fortunes-fr (0.65+nmu2)
+    French fortunes cookies
+fortunes-ga (0.8)
+    Irish (Gaelige) data files for fortune
+fortunes-it (1.99-3)
+    Data files containing Italian fortune cookies
+fortunes-it-off (1.99-3)
+    Data files containing Italian fortune cookies, offensive section
+fortunes-mario (0.20-7)
+    Fortunes files from Mario
+fortunes-min (1:1.99.1-4)
+    Data files containing fortune cookies
+fortunes-off (1:1.99.1-4)
+    Data files containing offensive fortune cookies
+fortunes-pl (0.0.20100311-1)
+    Polish data files for fortune
+fortunes-ru (1.52-2)
+    Russian data files for fortune
+freealchemist (0.5-1)
+    simpler figure block game
+freecell-solver-bin (3.12.0-1)
+    Library for solving Freecell games
+freeciv-client-extras (2.3.2-1+deb7u1)
+    Civilization turn based strategy game (miscellaneous extras)
+freeciv-client-gtk (2.3.2-1+deb7u1)
+    Civilization turn based strategy game (GTK+ client)
+freeciv-client-sdl (2.3.2-1+deb7u1)
+    Civilization turn based strategy game (SDL client)
+freeciv-client-xaw3d (2.3.2-1+deb7u1)
+    Civilization turn based strategy game (Xaw3D client)
+freeciv-data (2.3.2-1+deb7u1)
+    Civilization turn based strategy game (game data)
+freeciv-server (2.3.2-1+deb7u1)
+    Civilization turn based strategy game (server files)
+freeciv-sound-standard (2.3.2-1+deb7u1)
+    Civilization turn based strategy game (standard sound pack)
+freecol (0.10.5+dfsg-1+deb7u1)
+    open source remake of the old Colonization
+freecraft (1:1.20-1.1)
+    Realtime fantasy strategy game for Unix and X
+freedink (1.08.20120427-2.1)
+    adventure and role-playing game
+freedink-data (1.08.20111016-1)
+    adventure and role-playing game (game data)
+freedink-dfarc (3.10-1.1)
+    frontend and .dmod installer for GNU FreeDink
+freedink-engine (1.08.20120427-2.1)
+    adventure and role-playing game (engine)
+freedm (0.7-1)
+    multiplayer-oriented maps for Doom
+freedoom (0.7-1)
+    free game files for the 3D game DOOM
+freedroid (1.0.2+cvs040112-4)
+    Clone of Paradroid - a strategic shoot-em up
+freedroid-data (1.0.2+cvs040112-4)
+    Data files for freedroid - a strategic shoot-em up
+freedroidrpg (0.15.1-1)
+    Isometric RPG influenced by Paradroid
+freedroidrpg-data (0.15.1-1)
+    Data files for freedroidrpg
+freegish (1.53+git20101011+dfsg-2)
+    physics based arcade game
+freegish-data (1.53+git20101011+dfsg-2)
+    data for the FreeGish arcade game
+freesci (0.6.4-7)
+    a portable interpreter for SCI games like Space Quest 3
+freesweep (0.90-2)
+    text-based minesweeper
+freetennis (0.4.8-9+b1 [armhf, ia64, mips, mipsel, s390, s390x], 0.4.8-9 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, sparc])
+    Free Tennis - simulation game
+freetennis-common (0.4.8-9)
+    Free Tennis - simulation game
+freevial (1.3-2)
+    trivia platform for community events
+fretsonfire (1.3.110.dfsg-3)
+    game of musical skill and fast fingers
+fretsonfire-game (1.3.110.dfsg-3)
+    game of musical skill and fast fingers - Game files
+fretsonfire-songs-muldjord (2.dfsg-1)
+    game of musical skill and fast fingers - Songs Package
+fretsonfire-songs-sectoid (1.dfsg-2)
+    game of musical skill and fast fingers - Songs Package
+frobtads (1:0.13-2) [non-free]
+    Text mode interpreter for TADS version 2 and 3 game files
+frogatto (1.2+dfsg-1+b1 [amd64], 1.2+dfsg-1 [armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc]) [contrib]
+    2D platformer game starring a quixotic frog
+frogatto-data (1.2+dfsg-1) [non-free]
+    2D platformer game starring a quixotic frog
+frotz (2.43-4)
+    interpreter of Z-code story-files
+frozen-bubble (2.212-3)
+    cool game where you pop out the bubbles!
+frozen-bubble-data (2.212-3)
+    Data files for Frozen-Bubble game
+fruit (2.1.dfsg-6)
+    chess engine, to calculate chess moves
+funnyboat (1.5-8)
+    a side scrolling arcade shooter game on a steamboat
+gamazons (0.83-4)
+    Amazons boardgame for GNOME
+game-data-packager (30) [contrib]
+    Installer for game data files
+gameclock (4.0-3)
+    simple chess clock to track time in real life games
+gamine (1.1-2)
+    an interactive game for young children
+gamine-data (1.1-2)
+    data files for gamine game
+garden-of-coloured-lights (1.0.8-1+b1)
+    abstract vertical shooter with music elements
+garden-of-coloured-lights-data (1.0.8-1)
+    abstract vertical shooter with music elements (data)
+gargoyle-free (2011.1-2)
+    graphical player for Interactive Fiction games
+gav (0.9.0-3)
+    GPL Arcade Volleyball
+gav-themes (0.7.3-2)
+    Extra themes for GPL Arcade Volleyball
+gbatnav (1.0.4cvs20051004-5)
+    networked BattleShip game
+gbrainy (1:2.1.2-1)
+    brain teaser game and trainer to have fun and to keep your brain trained
+gcompris (12.01-1)
+    Educational games for small children
+gcompris-data (12.01-1)
+    Data files for GCompris
+gcompris-sound-af (12.01-1)
+    Afrikaans sound files for GCompris
+gcompris-sound-ar (12.01-1)
+    Arabic (Tunisia) sound files for GCompris
+gcompris-sound-ast (12.01-1)
+    Asturian sound files for GCompris
+gcompris-sound-bg (12.01-1)
+    Bulgarian sound files for GCompris
+gcompris-sound-br (12.01-1)
+    Breton sound files for GCompris
+gcompris-sound-cs (12.01-1)
+    Czech sound files for GCompris
+gcompris-sound-da (12.01-1)
+    Danish sound files for GCompris
+gcompris-sound-de (12.01-1)
+    German sound files for GCompris
+gcompris-sound-el (12.01-1)
+    Greek sound files for GCompris
+gcompris-sound-en (12.01-1)
+    English sound files for GCompris
+gcompris-sound-eo (12.01-1)
+    Esperanto sound files for GCompris
+gcompris-sound-es (12.01-1)
+    Spanish sound files for GCompris
+gcompris-sound-eu (12.01-1)
+    Basque sound files for GCompris
+gcompris-sound-fi (12.01-1)
+    Finnish sound files for GCompris
+gcompris-sound-fr (12.01-1)
+    French sound files for GCompris
+gcompris-sound-he (12.01-1)
+    Hebrew sound files for GCompris
+gcompris-sound-hi (12.01-1)
+    Indian Hindi sound files for GCompris
+gcompris-sound-hu (12.01-1)
+    Hungarian sound files for GCompris
+gcompris-sound-id (12.01-1)
+    Indonesian sound files for GCompris
+gcompris-sound-it (12.01-1)
+    Italian sound files for GCompris
+gcompris-sound-mr (12.01-1)
+    Indian Marathi sound files for GCompris
+gcompris-sound-nb (12.01-1)
+    Norwegian (Bokmal) sound files for GCompris
+gcompris-sound-nl (12.01-1)
+    Dutch sound files for GCompris
+gcompris-sound-nn (12.01-1)
+    Norwegian (Nynorsk) sound files for GCompris
+gcompris-sound-pa (12.01-1)
+    Punjabi sound files for GCompris
+gcompris-sound-pt (12.01-1)
+    Portuguese sound files for GCompris
+gcompris-sound-ptbr (12.01-1)
+    Portuguese sound files for GCompris
+gcompris-sound-ru (12.01-1)
+    Russian sound files for GCompris
+gcompris-sound-sl (12.01-1)
+    Slovenian sound files for GCompris
+gcompris-sound-so (12.01-1)
+    Somali sound files for GCompris
+gcompris-sound-sr (12.01-1)
+    Serbian sound files for GCompris
+gcompris-sound-sv (12.01-1)
+    Swedish sound files for GCompris
+gcompris-sound-th (12.01-1)
+    Thai sound files for GCompris
+gcompris-sound-tr (12.01-1)
+    Turkish sound files for GCompris
+gcompris-sound-ur (12.01-1)
+    Urdu sound files for GCompris
+gcompris-sound-zhcn (12.01-1)
+    Chinese sound files for GCompris
+gearhead (1.100-2)
+    roguelike mecha role playing game
+gearhead-data (1.100-2)
+    data files for gearhead
+gearhead2 (0.628-1)
+    roguelike mecha role playing game in space
+gearhead2-data (0.628-1)
+    data files for gearhead2
+geekcode (1.7.3-5)
+    Program for generating geekcode
+geki2 (2.0.3-8)
+    Xenon-like vertical shoot'em-up
+geki3 (1.0.3-7)
+    R-Type-like horizontal shoot'em-up
+gemdropx (0.9-6)
+    Gem Drop X is an interesting one-player puzzle game for X11
+gfpoken (0.32-2)
+    Recreate a grid of mirrors from clues given by tests
+ghextris (0.9.0-3)
+    A Tetris-like game on a hexagonal grid
+gl-117 (1.3.2-2.1)
+    An action flight simulator
+gl-117-data (1.3.2-2.1)
+    Data files for gl-117
+glaurung (2.2-2)
+    free UCI chess engine, to calculate chess moves
+glchess (1:3.4.2-3)
+    chess game with 3D graphics
+glhack (1.2-1)
+    Fullscreen SDL/OpenGL version of NetHack
+glines (1:3.4.2-3)
+    make color lines of five or more length
+glob2 (0.9.4.4-2.1+b1)
+    innovative state-of-the-art Real Time Strategy (RTS) game
+glob2-data (0.9.4.4-2.1)
+    dataset for Globulation2 (glob2)
+glpeces (5.0-2)
+    Tangram (puzzle) game clone
+glpeces-data (5.0-2)
+    Data files for glpeces (Tangram puzzle)
+gltron (0.70final-10)
+    3D lightcycle game
+gmchess (0.29.6-2)
+    Chinese chess game (Xiangqi)
+gmult (8.0-1)
+    figure out which letters are which numbers
+gnect (1:3.4.2-3)
+    four-in-a-row game for GNOME
+gnibbles (1:3.4.2-3)
+    snake game, up to four players
+gnobots2 (1:3.4.2-3)
+    improved old BSD robots game
+gnome-breakout (0.5.3-4)
+    Clone of the classic game Breakout, written for GNOME
+gnome-hearts (0.3-2.1)
+    The classic hearts card game for the GNOME desktop
+gnome-mastermind (0.3.1-2)
+    Mastermind (TM) clone for GNOME Desktop
+gnome-sudoku (1:3.4.2-3)
+    Sudoku puzzle game for GNOME
+gnomine (1:3.4.2-3)
+    popular minesweeper puzzle game for GNOME
+gnotravex (1:3.4.2-3)
+    put tiles on a board and match their edges together
+gnotski (1:3.4.2-3)
+    Klotski puzzle game for GNOME
+gnubg (0.90+20120429-1+deb7u1)
+    graphical or console backgammon program with analysis
+gnubg-data (0.90+20120429-1+deb7u1)
+    data files for GNU Backgammon
+gnubik (2.4-3)
+    3D Rubik's cube game
+gnuboy-sdl (1.0.3-6.1) [contrib]
+    SDL binaries for gnuboy - Game Boy Emulator
+gnuboy-svga (1.0.3-6.1) [contrib]
+    SVGALIB binaries for gnuboy - Game Boy Emulator
+gnuboy-x (1.0.3-6.1) [contrib]
+    X binaries for gnuboy - Game Boy Emulator
+gnuchess (6.0.2-1)
+    Plays a game of chess, either against the user or against itself
+gnuchess-book (1.02-1)
+    Opening book for gnuchess
+gnudoq (0.94-2.1)
+    An open source, graphical Su Doku generator and solver with printer support
+gnugo (3.8-5)
+    play the game of Go
+gnujump (1.0.6-4)
+    platform game where you have to jump up to survive
+gnujump-data (1.0.6-4)
+    platform game where you have to jump up to survive - data files
+gnuminishogi (1.3.2-9)
+    program to play minishogi, a shogi variant on a 5x5 board
+gnurobbo (0.66+dfsg-2)
+    logic game ported from ATARI XE/XL
+gnurobots (2:1.2.0-4+b2 [amd64, armel, i386, ia64, mips, mipsel, powerpc, s390, sparc], 2:1.2.0-4+b1 [kfreebsd-amd64, kfreebsd-i386], 2:1.2.0-4 [armhf, s390x])
+    Program a robot to explore a world
+gnushogi (1.3.2-9)
+    program to play shogi, the Japanese version of chess
+golly (2.3-1)
+    Game of Life simulator using hashlife algorithm
+gpe-go (0.05-5)
+    two player board game for GPE
+gpe-lights (0.13-4)
+    Lights Out game clone for GPE
+gpe-othello (0.2-4)
+    othello board game for GPE
+gplanarity (17906-3)
+    simple puzzle game involving untangling planar graphs
+granatier (4:4.8.4-3)
+    Bomberman clone
+granule (1.4.0-7-1)
+    flashcard program for learning new words
+gravitation (3+dfsg1-3)
+    game about mania, melancholia, and the creative process
+gravitywars (1.102-32)
+    clone of Gravity Force
+greed (3.7-1)
+    curses-based clone of the DOS free-ware game Greed
+grhino (0.16.1-2)
+    othello/reversi boardgame
+grhino-data (0.16.1-2)
+    othello/reversi boardgame - data-files
+groundhog (1.4-9)
+    A simple logic game
+gsalliere (0.10-1)
+    Bridge duplicate scorer (GUI frontend)
+gsoko (0.4.2-gpe6-3)
+    sokoban game for GPE
+gtali (1:3.4.2-3)
+    sort of poker with dice and less money
+gtans (1.99.0-2)
+    Tangram (puzzle) game using GTK+
+gtkatlantic (0.4.2-3)
+    Game like Monopoly
+gtkballs (3.1.5-9)
+    A simple logic game
+gtkboard (0.11pre0+cvs.2003.11.02-5)
+    many board games in one program
+gtkpool (0.5.0-9)
+    simple pool billiard game written with GTK+
+gunroar (0.15.dfsg1-5)
+    360-degree gunboat shooter
+gunroar-data (0.15.dfsg1-5)
+    360-degree gunboat shooter - game data
+gvrng (4.4-1)
+    Interactive, introductory programming language
+gweled (0.9.1-2)
+    A "Diamond Mine" puzzle game
+hannah (1.0-2)
+    pacman-like game, child oriented
+hannah-data (1.0-2)
+    pacman-like game, child oriented - data files
+hearse (1.5-8.1)
+    exchange Nethack bones files with other players
+hedgewars (0.9.17-1)
+    Worms style game
+hedgewars-data (0.9.17-1)
+    Data files for hedgewars
+heroes-common (0.21-8.4)
+    Collect powerups and avoid your opponents' trails
+heroes-data (1.5-2)
+    Required data files for heroes
+heroes-sdl (0.21-8.4)
+    Collect powerups and avoid your opponents' trails
+heroes-sound-effects (1.0-4)
+    Optional sound files for heroes
+heroes-sound-tracks (1.0-4)
+    Optional sound files for heroes
+hex-a-hop (0.0.20070315-8)
+    puzzle game based on hexagonal tiles
+hexalate (1.0.1-3)
+    Color matching puzzle
+hexxagon (1.0pl1-3.1)
+    Hexagonal Ataxx clone
+hitori (0.3.2-1)
+    logic puzzle game similar to sudoku
+hoichess (0.10.3-6.1)
+    xboard compatible chess engine to play chess with
+holdingnuts (0.0.5-4)
+    poker client
+holdingnuts-server (0.0.5-4)
+    poker server
+holotz-castle (1.3.14-5)
+    platform game with high doses of mystery
+holotz-castle-data (1.3.14-5)
+    platform game with high doses of mystery - data files
+holotz-castle-editor (1.3.14-5)
+    platform game with high doses of mystery - level editor
+iagno (1:3.4.2-3)
+    popular Othello game for GNOME
+icebreaker (1.21-11)
+    Break the iceberg
+ii-esu (1.0a.dfsg1-4)
+    shooter game
+infon-devel (0~r218-1)
+    Develop bots for the infon game
+infon-server (0~r198-8)
+    Program bugs to compete for food and survival - Server
+infon-viewer (0~r198-8)
+    Program bugs to compete for food and survival - GUI
+instead (1.6.0-1)
+    simple text adventures/visual novels engine
+instead-data (1.6.0-1)
+    data files for INSTEAD
+ioquake3 (1.36+svn2287-1)
+    Game engine for 3D first person shooter games
+ioquake3-server (1.36+svn2287-1)
+    Standalone server for ioQuake3 based games
+jester (1.0-9)
+    board game similar to Othello
+jigzo (0.6.1-6)
+    Photo puzzle game for children
+jigzo-data (0.6.1-6)
+    data of Photo puzzle game for children
+jmdlx (0.4-6)
+    jugglemaster deluxe using wxWidgets
+jumpnbump (1.50+dfsg1-3)
+    cute multiplayer platform game with bunnies
+jumpnbump-levels (20091107)
+    cute multiplayer platform game with bunnies (extra levels)
+junior-toys (1.20)
+    Debian Jr. desktop toys
+jzip (210r20001005d-2)
+    Text mode interpreter for Z-Code adventures
+kajongg (4:4.8.4-3)
+    classical Mah Jongg game
+kanagram (4:4.8.4-1)
+    jumble word puzzle
+kapman (4:4.8.4-3)
+    Pac-Man clone
+katomic (4:4.8.4-3)
+    atomix puzzle game
+kawari8 (8.2.8-7)
+    Pseudo AI Shiori module used to create ghosts for Ukagaka
+kball (0.0.20041216-8+b1)
+    game of skill and reflexes for all the family
+kball-data (0.0.20041216-8)
+    game of skill and reflexes for all the family - data files
+kbattleship (4:4.8.4-3)
+    battleship board game
+kblackbox (4:4.8.4-3)
+    Black Box puzzle game
+kblocks (4:4.8.4-3)
+    falling blocks game
+kbounce (4:4.8.4-3)
+    Jezzball arcade game
+kbreakout (4:4.8.4-3)
+    ball and paddle game
+kcheckers (0.8.1-3)
+    Checkers boardgame
+kdegames-card-data (4:4.8.4-3)
+    card decks for KDE games
+kdegames-mahjongg-data (4:4.8.4-3)
+    tilesets and backgrounds for Mahjongg games
+kdiamond (4:4.8.4-3)
+    three-in-a-row game
+ketm (0.0.6-22)
+    old school 2D-scrolling shooter
+ketm-data (0.0.6-22)
+    graphics and audio data for ketm
+kfourinline (4:4.8.4-3)
+    Connect Four game
+kgoldrunner (4:4.8.4-3)
+    Lode Runner arcade game
+khangman (4:4.8.4-1)
+    Hangman word puzzle
+kigo (4:4.8.4-3)
+    go game
+kiki-the-nano-bot (1.0.2+dfsg1-4+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.0.2+dfsg1-4 [armhf, s390x])
+    3D puzzle game, mixing Sokoban and Kula-World
+kiki-the-nano-bot-data (1.0.2+dfsg1-4)
+    Kiki the nano bot - game data
+kildclient (2.11.1-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 2.11.1-1 [armhf, s390x])
+    powerful MUD client with a built-in Perl interpreter
+killbots (4:4.8.4-3)
+    port of the classic BSD console game robots
+kiriki (4:4.8.4-3)
+    Yahtzee dice game
+kjumpingcube (4:4.8.4-3)
+    simple tactical game
+klickety (4:4.8.4-3)
+    SameGame puzzle game
+klines (4:4.8.4-3)
+    color lines game
+kmahjongg (4:4.8.4-3)
+    mahjongg solitaire game
+kmines (4:4.8.4-3)
+    minesweeper game
+knetwalk (4:4.8.4-3)
+    wire puzzle game
+knights (2.3.2-1+b1 [armel, ia64], 2.3.2-1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    chess interface for the KDE Platform
+kobodeluxe (0.5.1-6)
+    game of space battle
+kobodeluxe-data (0.5.1-6)
+    game of space battle -- shared data
+kolf (4:4.8.4-3)
+    miniature golf game
+kollision (4:4.8.4-3)
+    simple ball dodging game
+komi (1.04-5)
+    Single player arcade game with Komi the Space Frog!
+konquest (4:4.8.4-3)
+    simple turn-based strategy game
+koules (1.4-19)
+    abstract space action game
+kpat (4:4.8.4-3)
+    solitaire card games
+krank (0.7+dfsg2-2)
+    is a game of dexterity where you match stones together
+kraptor (0.0.20040403-6+b1)
+    Classic shoot 'em up scroller game
+kraptor-data (0.0.20040403-6)
+    Classic shoot 'em up scroller game - data files
+kreversi (4:4.8.4-3)
+    reversi board game
+ksame (4:4.8.4-3)
+    transitional dummy package for Klickety
+kshisen (4:4.8.4-3)
+    Shisen-Sho solitaire game
+ksirk (4:4.8.4-3)
+    Risk strategy game
+kspaceduel (4:4.8.4-3)
+    SpaceWar! arcade game
+ksquares (4:4.8.4-3)
+    Dots and Boxes game
+ksudoku (4:4.8.4-3)
+    Sudoku puzzle game and solver
+ktron (4:4.8.4-3)
+    Tron-like snakerace game
+ktuberling (4:4.8.4-3)
+    stamp drawing toy
+kubrick (4:4.8.4-3)
+    game based on Rubik's Cube
+laby (0.6.3-1+b1 [ia64, mips, mipsel, s390], 0.6.3-1 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, s390x, sparc])
+    Learn how to program with ants and spider webs
+laevateinn (0.088-5)
+    bsnes SNES/SuperFamicom debugger
+late (0.1.0-12)
+    simple game of capturing balls
+late-data (0.1.0-12)
+    data files for late game
+lbreakout2 (2.6.3-1)
+    ball-and-paddle game with nice graphics
+lbreakout2-data (2.6.3-1)
+    ball-and-paddle game with nice graphics (DATA FILES)
+lightsoff (1:3.4.2-3)
+    Light puzzle game
+lightyears (1.4-1)
+    single player real-time strategy game with steampunk sci-fi
+lincity (1.13.1-11)
+    build & maintain a city/country
+lincity-ng (2.0-2+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 2.0-2 [armhf, s390x])
+    City simulator game with polished graphics
+lincity-ng-data (2.0-2)
+    Media files for the city simulator game LinCity-NG
+linthesia (0.4.2-3)
+    Fork of Synthesia to GNU/Linux
+liquidwar (5.6.4-3+b1)
+    truly original multiplayer wargame
+liquidwar-data (5.6.4-3)
+    data files for Liquid War
+liquidwar-server (5.6.4-3+b1)
+    Liquid War server
+littlewizard (1.2.2-1)
+    development environment for children
+littlewizard-data (1.2.2-1)
+    littlewizard data files
+lmarbles (1.0.7-1.1)
+    A game where you build figures out of colored marbles
+lmemory (0.6c-6)
+    Children's game based on the "memory" card game
+londonlaw (0.2.1-15.1)
+    Scotland Yard board game with network support
+lordsawar (0.2.0-2.1)
+    Clone of the popular SSG game Warlords II
+lordsawar-data (0.2.0-2.1)
+    Clone of the popular SSG game Warlords II - data files
+love (0.8.0-1+deb7u1)
+    2D game development framework based on Lua and OpenGL
+lskat (4:4.8.4-3)
+    Lieutnant Skat card game
+ltris (1.0.18-1)
+    very polished Tetris clone with CPU opponents
+lugaru (0~20110520.1+hge4354+dfsg-3) [contrib]
+    third-person action game
+lugaru-data (0~20110520.1+hge4354-1) [non-free]
+    data for the third-person action game lugaru
+luola (1.3.2-9)
+    multiplayer cave-flying game
+luola-data (1.3.2-9)
+    data files for luola
+luola-levels (6.0-5)
+    level files for luola
+luola-nostalgy (1.2-3)
+    nostalgy level files for luola
+macopix-gtk2 (1.7.4-4)
+    Mascot Constructive Pilot for X based on GTK+ 2
+madbomber (0.2.5-5)
+    Kaboom! clone
+madbomber-data (0.2.5-5)
+    Datafiles for madbomber
+maelstrom (1.4.3-L3.0.6+main-2)
+    An arcade-style game resembling Asteroids.
+magicmaze (1.4.3.2.dfsg-1.1)
+    rescue the maiden while avoiding the monsters
+magicor (1.1-4)
+    puzzle game in the spirit of solomon's key
+magicor-data (1.1-4)
+    data files for the magicor puzzle game
+mah-jong (1.11-2)
+    Original Mah-Jong game
+mahjongg (1:3.4.2-3)
+    classic Eastern tile game for GNOME
+mame (0.146-5) [non-free]
+    Multiple Arcade Machine Emulator (MAME)
+mana (0.6.1-2)
+    opensource 2D MMORPG platform client
+mana-data (0.6.1-2)
+    opensource 2D MMORPG platform client (data files)
+mancala (1.0.1-4)
+    Implementation of the simple board game called Mancala
+matanza (0.13+ds1-1)
+    Space ascii war game
+mathwar (0.2.5-2+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.2.5-2 [armhf, s390x])
+    A flash card game designed to teach simple maths
+mazeofgalious (0.62.dfsg2-3)
+    The Maze of Galious
+mazeofgalious-data (0.62.dfsg2-3)
+    The Maze of Galious
+mednafen (0.8.D.3-6)
+    multi-platform emulator, including NES, GB/A, Lynx, PC Engine
+megaglest (3.6.0.3-1.2)
+    3D multi-player real time strategy game
+megaglest-data (3.6.0.3-1)
+    data files for MegaGlest
+mess (0.146-4) [non-free]
+    Multi Emulator Super System (MESS)
+mess-data (0.146-4) [non-free]
+    Data files for the Multi Emulator Super System (MESS)
+mgt (2.31-6)
+    a game record display/editor for the oriental game of go
+micropolis (0.0.20071228-5)
+    real-time city management simulator
+micropolis-data (0.0.20071228-5)
+    real-time city management simulator - data
+minetest (0.3.1+dfsg-4)
+    InfiniMiner/Minecraft-inspired open game world
+minetest-common (0.3.1+dfsg-4)
+    InfiniMiner/Minecraft-inspired open game world common files
+minetest-server (0.3.1+dfsg-4)
+    InfiniMiner/Minecraft-inspired open game world server
+mirrormagic (2.0.2.0deb1-11)
+    Shoot around obstacles to collect energy using your beam.
+mirrormagic-data (2.0.2.0deb1-11)
+    Data files for mirrormagic
+mmpong-caca (0.9.1-2.1)
+    massively multiplayer pong game client (caca version)
+mmpong-gl (0.9.1-2.1)
+    massively multiplayer pong game client (OpenGL version)
+mmpong-gl-data (0.9.1-2.1)
+    massively multiplayer pong game client data (OpenGL version)
+mmpongd (0.9.1-2.1)
+    massively multiplayer pong game server
+mokomaze (0.5.5+git8+dfsg0-3)
+    Ball in labyrinth game for the OpenMoko FreeRunner
+monopd (0.9.3-6)
+    Monopoly game network server
+monster-masher (1.8.1-6)
+    GPL'ed mash'em-up action game for GNOME
+monsterz (0.7.1-4+b1 [armel, ia64], 0.7.1-4 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    arcade puzzle game
+monsterz-data (0.7.1-4)
+    graphics and audio data for monsterz
+moon-buggy (1.0.51-9.1)
+    Drive a car across the moon
+moon-buggy-esd (1.0.51-9.1)
+    Drive a car across the moon (version with sound)
+moon-lander (1:1.0-4.1)
+    An SDL game based on the classic moon lander
+moon-lander-data (1:1.0-4.1)
+    Data files (sound, images) for moon-lander
+moria (5.6-2)
+    Rogue-like game with an infinite dungeon
+mousetrap (0.9-2.2)
+    A simple game of ball chasing
+mu-cade (0.11.dfsg1-6)
+    the physics centipede invasion, smashup waggly shmup
+mu-cade-data (0.11.dfsg1-6)
+    the physics centipede invasion - game data
+mudlet (2.0-rc12-3)
+    Graphical MUD client with fast lua scripting support
+mupen64plus-audio-sdl (1.99.5-2)
+    sdl audio output plugin for mupen64plus
+mupen64plus-data (1.99.5-6)
+    plugin-based Nintendo 64 emulator, data files
+mupen64plus-input-sdl (1.99.5-2)
+    sdl input device plugin for mupen64plus
+mupen64plus-rsp-hle (1.99.5-3)
+    high-level rsp emulation for mupen64plus
+mupen64plus-rsp-z64 (1.99.4+31+1374ffc147ad-4)
+    low-level rsp emulation for mupen64plus
+mupen64plus-ui-console (1.99.5-3)
+    console frontend for mupen64plus
+mupen64plus-video-arachnoid (1.99.4+39+ada2d63714fd-3)
+    Arachnoid high-level graphics emulation for mupen64plus
+mupen64plus-video-glide64 (1.99.4+37+a1c35b79de0d-3)
+    Glide64 high-level graphics emulation for mupen64plus
+mupen64plus-video-rice (1.99.5-3)
+    Rice's high-level graphics emulation for mupen64plus
+mupen64plus-video-z64 (1.99.4+30+daa3f1b2fe76-3)
+    low-level rdp emulation for mupen64plus
+nethack-common (3.4.3-14)
+    dungeon crawl game - common files
+nethack-console (3.4.3-14)
+    dungeon crawl game - text-based interface
+nethack-lisp (3.4.3-14)
+    dungeon crawl game - Lisp interface
+nethack-x11 (3.4.3-14)
+    dungeon crawl game - X11 interface
+netmaze (0.81+jpg0.82-14)
+    3-D Multiplayer Combat Game
+netpanzer (0.8.4.debian.1-1.1)
+    online multiplayer tactical warfare game
+netpanzer-data (0.8.4.debian.1-1.1)
+    data files for the netPanzer game
+netrek-client-cow (3.3.0-3)
+    client for netrek online game
+netris (0.52-9)
+    free, networked version of T*tris
+nettoe (1.3.2-1)
+    networked version of Tic Tac Toe (3x3 Grid) for the console
+neverball (1.5.4-5)
+    3D floor-tilting game
+neverball-common (1.5.4-5)
+    data files for Neverball and Neverputt
+neverball-data (1.5.4-5)
+    data files for Neverball
+neverputt (1.5.4-5)
+    3D miniature golf game
+neverputt-data (1.5.4-5)
+    data files for Neverputt
+nexuiz (2.5.2+dp-2)
+    Fast-paced 3D first-person shooter
+nexuiz-data (2.5.2-6)
+    Nexuiz game data files
+nexuiz-music (2.5.2-6)
+    Nexuiz music files
+nexuiz-server (2.5.2+dp-2)
+    Standalone server for Classic Nexuiz
+nexuiz-textures (2.5.2-6)
+    Textures for Nexuiz
+nikwi (0.0.20060823-2)
+    platform game where your goal is to collect candies
+nikwi-data (0.0.20060823-2)
+    platform game where your goal is to collect candies - game data
+ninix-aya (4.3.9-1)
+    Interactive fake-AI Ukagaka-compatible desktop mascot program
+ninvaders (0.1.1-3)
+    A space invaders-like game using ncurses
+njam (1.25-5.2)
+    pacman-like game with multiplayer support
+noiz2sa (0.51a-9+b1)
+    abstract arcade shooter
+noiz2sa-data (0.51a-9)
+    abstract arcade shooter, data files
+numptyphysics (0.2+svn156-1.1)
+    crayon based physics puzzle game
+ogamesim (1.17-1)
+    Console Ogame Simulator
+ogamesim-www (0.33-1)
+    WWW GUI for ogamesim
+omega-rpg (1:0.90-pa9-15)
+    A text-based roguelike game
+oneisenough (0.40-2)
+    2D platform game about the epic struggle of balls
+oneko (1.2.sakura.6-8)
+    cat chases the cursor (now a mouse) around the screen
+onscripter (20120531-2)
+    Visual novel games engine compatible to NScripter
+oolite (1.76.1-2)
+    space sim game, inspired by Elite
+oolite-data (1.76.1-2)
+    space sim game, inspired by Elite (data files)
+oolite-data-sounds (1.76.1-2)
+    space sim game, inspired by Elite (sounds)
+open-invaders (0.3-3.2)
+    Space Invaders clone
+open-invaders-data (0.3-3.2)
+    Space Invaders clone (data package)
+openarena (0.8.8-5+deb7u2)
+    fast-paced 3D first-person shooter
+openarena-081-maps (0.8.5split-2)
+    OpenArena game data - maps from 0.8.1
+openarena-081-misc (0.8.5split-2)
+    OpenArena game data - miscellaneous files from 0.8.1
+openarena-081-players (0.8.5split-2)
+    OpenArena game data - player graphics from 0.8.1
+openarena-081-players-mature (0.8.5split-2)
+    OpenArena game data - "mature" player graphics from 0.8.1
+openarena-081-textures (0.8.5split-2)
+    OpenArena game data - textures from 0.8.1
+openarena-085-data (0.8.5split-2)
+    OpenArena game data - 0.8.5 update
+openarena-088-data (0.8.8-1)
+    OpenArena game data
+openarena-data (0.8.5split-2)
+    OpenArena game data
+openarena-server (0.8.8-5+deb7u2)
+    server and game logic for the game OpenArena
+openbve (1.4.0.9-1)
+    realistic 3D train/railway simulator (main program)
+openbve-data (1.4.0.5+dfsg-3)
+    realistic 3D train/railway simulator (GUI icons and data)
+opencity (0.0.6.4stable-1.1)
+    3D city simulator game
+opencity-data (0.0.6.4stable-1.1)
+    data for opencity, a 3D city simulator game
+openpref (0.1.3-1)
+    card game against two virtual players
+openssn (1.3-1)
+    modern submarine tactical simulator
+openssn-data (1.3-1)
+    modern submarine tactical simulator (data)
+openttd (1.2.1-3)
+    reimplementation of Transport Tycoon Deluxe with enhancements
+openttd-data (1.2.1-3)
+    common data files for the OpenTTD game
+openttd-opengfx (0.4.4-1)
+    free graphics set for use with the OpenTTD game
+openttd-openmsx (0.3.1-2)
+    free music set for use with the OpenTTD game
+openttd-opensfx (0.2.3-3) [non-free]
+    sound set for use with the OpenTTD game
+openyahtzee (1.9.1-1+b1)
+    classic dice game of Yahtzee
+orbital-eunuchs-sniper (1.30+svn20070601-2)
+    An anti-terrorist, pro-Eunuchs, satellite sniping game
+orbital-eunuchs-sniper-data (1.30+svn20070601-2)
+    game data files for the game Orbital Eunuchs Sniper
+out-of-order (1.0-2) [non-free]
+    comedy science fiction adventure game
+overgod (1.0-1.1+b1)
+    bi-directional scrolling arcade game
+overgod-data (1.0-1.1)
+    graphics and audio data for overgod
+pachi (1:1.0-6)
+    Platform game featuring Pachi el marciano
+pachi-data (1:1.0-6)
+    Platform game featuring Pachi el marciano (data files)
+pacman (10-17)
+    Chase Monsters in a Labyrinth
+pacman4console (1.2-2)
+    a console based pacman game
+palapeli (4:4.8.4-3)
+    jigsaw puzzle game
+palapeli-data (4:4.8.4-3)
+    data files for palapeli jigsaw puzzle game
+pangzero (1.4-1)
+    action game that involves popping balloons with a harpoon
+parsec47 (0.2.dfsg1-4)
+    retromodern hispeed shmup
+parsec47-data (0.2.dfsg1-4)
+    retromodern hispeed shmup - game data
+passage (4+dfsg1-1)
+    game about the passage through life
+pathogen (1.1.1-3)
+    Puzzle game about matching 3D model structures
+pathological (1.1.3-10)
+    puzzle game involving paths and marbles
+pathological-music (1:1.1.3-1)
+    puzzle game involving paths and marbles [music]
+pcsxr (1.9.92-4)
+    Sony PlayStation emulator
+peg-e (1.1.0-1+b1 [kfreebsd-amd64], 1.1.0-1 [amd64, armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    peg elimination solitaire game
+peg-solitaire (1.2-1)
+    Board game for one player with pegs
+pegsolitaire (0.0.4-1)
+    An education game similar to Hi-Q
+penguin-command (1.6.11-1)
+    a missile command clone
+pennmush (1.8.2p8-1.1+b1)
+    text-based multi-user virtual world server
+pennmush-common (1.8.2p8-1.1)
+    common files for the PennMUSH virtual world server
+pennmush-mysql (1.8.2p8-1.1+b1)
+    text-based multi-user virtual world server with MySQL support
+pente (2.2.5-7)
+    five in a row game for X and the console
+pentobi (1.1-1+b1)
+    clone of Blokus, a strategy board game based on the concept of polyominoes
+performous (0.6.1-6)
+    karaoke game that allows user supplied songs
+performous-tools (0.6.1-6)
+    karaoke game that allows user supplied songs - tools
+pescetti (0.5-1)
+    Bridge Pseudo-duplimate generator
+petris (1.0.1-8)
+    Peter's Tetris - a Tetris(TM) clone
+pgn-extract (16.7-2)
+    Portable Game Notation (PGN) extractor
+phalanx (22+d051004-13.1)
+    Chess playing program
+phlipple (0.8.2-1+b1)
+    reduce 3D shapes to a single square
+phlipple-data (0.8.2-1)
+    reduce 3D shapes to a single square - game data
+pianobooster (0.6.4-3.1)
+    learn the piano just by playing a game
+pinball (0.3.1-13.1)
+    Emilia Pinball Emulator
+pinball-data (0.3.1-13.1)
+    Data files for the Emilia Pinball Emulator
+pinball-dev (0.3.1-13.1)
+    Development files for the Emilia Pinball Emulator
+pingus (0.7.6-1.1)
+    Free Lemmings(TM) clone
+pingus-data (0.7.6-1.1)
+    Data files for pingus, a free Lemmings(TM) clone
+pioneers (14.1-1)
+    Settlers of Catan board game
+pioneers-console (14.1-1)
+    Settlers of Catan board game - console parts
+pioneers-console-data (14.1-1)
+    Settlers of Catan board game - data files for console parts
+pioneers-data (14.1-1)
+    Settlers of Catan board game - data files
+pioneers-meta-server (14.1-1)
+    Settlers of Catan board game - meta-server
+pipenightdreams (0.10.0-13)
+    connect pipes to get the water flowing from inlet to outlet
+pipenightdreams-data (0.10.0-13)
+    connect pipes to get the water flowing from inlet to outlet (data files)
+pipewalker (0.9.4-1)
+    Puzzle game - connect all computers to the net
+pixbros (0.6.3-1)
+    2D game inspired in Bubble Bobble, Snow Bros and Tumble Pop
+pixfrogger (1.0-2)
+    help the frog cross the street
+planetpenguin-racer (0.4-5)
+    Dummy transition package for extremetuxracer
+planetpenguin-racer-extras (0.6-1)
+    transitional dummy package
+planetpenguin-racer-gimp-dev (0.4-5)
+    Dummy transition package for extremetuxracer
+planetpenguin-racer-gimp-dev
+    virtual package provided by extremetuxracer-gimp-dev
+plee-the-bear (0.6.0-1+b1)
+    2D platform game
+plee-the-bear-data (0.6.0-1)
+    data for Plee the Bear
+pokerth (0.9.5-1)
+    Texas hold'em game
+pokerth-data (0.9.5-1)
+    Texas hold'em game - common data files
+pokerth-server (0.9.5-1)
+    Texas hold'em game - server
+polygen (1.0.6.ds2-12)
+    generator of random sentences from grammar definitions
+polygen-data (1.0.6.ds2-12)
+    grammar definitions for PolyGen
+polyglot (1.4.67b-1)
+    chess engine protocol adaptor, connects UCI engines to xboard
+pong2 (0.1.3-1+b1 [amd64, armel, ia64], 0.1.3-1 [armhf, i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Remake of old arcade classic in OpenGL
+powder (117-1) [non-free]
+    Graphical dungeon crawling game
+powermanga (0.90-dfsg-2)
+    vertical shoot 'em up with colourful 3D graphics
+powermanga-data (0.90-dfsg-2)
+    graphics and audio data for powermanga
+prboom (2:2.5.0+dfsg1-6)
+    clone of the legendary first person shooter Doom
+primrose (6+dfsg1-2)
+    compelling tile-placement puzzle game
+projectl (1.001.dfsg1-4)
+    sword action shooting
+purity (1-18)
+    automated purity testing software
+purity-ng (0.2.0-2)
+    Reimplementation of the classic "purity" game in Python
+purity-off (0-3)
+    Sex related purity tests
+pybik (0.5-1)
+    3D Rubik's cube game
+pybridge (0.3.0-7.1)
+    An online contract bridge game. Gtk client
+pybridge-common (0.3.0-7.1)
+    Common files for pybridge
+pybridge-server (0.3.0-7.1)
+    Server files for pybridge
+pychess (0.10.1-1)
+    chess graphical user interface for several chess engines
+pykaraoke (0.7.5-1)
+    free CDG/MIDI/MPEG karaoke player
+pykaraoke-bin (0.7.5-1)
+    free CDG/MIDI/MPEG karaoke player
+pynagram (1.0.1-1)
+    anagram word game
+pyracerz (0.2-5)
+    multiplayer top view 2D racing game
+pyscrabble (1.6.2-9)
+    multiplayer scrabble implementation written in Python - client part
+pyscrabble-common (1.6.2-9)
+    multiplayer scrabble implementation - common files
+pyscrabble-server (1.6.2-9)
+    scrabble implementation written in Python - server part
+pysolfc (2.0-2)
+    collection of more than 1000 solitaire card games
+pysolfc-cardsets (2.0+dfsg2-1)
+    additional card graphics for PysolFC
+pysycache (3.1-3)
+    Educational game to teach children to use the mouse
+pysycache-buttons-beerabbit (3.1-3)
+    Bee-rabbit images for buttons activities for PySyCache
+pysycache-buttons-crapaud (3.1-3)
+    Crapaud images for buttons activities for PySyCache
+pysycache-buttons-ice (3.1-3)
+    Ice images for buttons activities for PySyCache
+pysycache-buttons-wolf (3.1-3)
+    Wolf images for buttons activities for PySyCache
+pysycache-click-dinosaurs (3.1-3)
+    Dinosaurs images for click activities for PySyCache
+pysycache-click-sea (3.1-3)
+    Sea images for click activities for PySyCache
+pysycache-dblclick-appleandpear (3.1-3)
+    Apple and pear images for double click activities for PySyCache
+pysycache-dblclick-butterfly (3.1-3)
+    Butterfly images for double click activities for PySyCache
+pysycache-images (3.1-3)
+    Images for PySyCache
+pysycache-move-animals (3.1-3)
+    Animals images for mouse move activities for PySyCache
+pysycache-move-food (3.1-3)
+    Food images for mouse move activities for PySyCache
+pysycache-move-plants (3.1-3)
+    Plants images for mouse move activities for PySyCache
+pysycache-move-sky (3.1-3)
+    Sky images for mouse move activities for PySyCache
+pysycache-move-sports (3.1-3)
+    Sports images for mouse move activities for PySyCache
+pysycache-puzzle-cartoons (3.1-3)
+    Cartoons images for puzzle activities for PySyCache
+pysycache-puzzle-photos (3.1-3)
+    Photos for puzzle activities for PySyCache
+pysycache-sounds (3.1-3)
+    A collection of sounds to be used with PySyCache
+python-pykaraoke (0.7.5-1)
+    free CDG/MIDI/MPEG karaoke player
+python-renpy (6.13.12-1)
+    framework for developing visual-novel type games - Python module
+qgo (2~svn764-1)
+    Go client and full featured SGF editor
+qonk (0.3.1-3.1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.3.1-3.1 [armhf, s390x])
+    Small build-and-conquer strategy game with very simple rules
+qstat (2.11-3)
+    Command-line tool for querying quake (and other) servers
+qtads (2.1.3-1)
+    Qt HTML interpreter for TADS
+quadrapassel (1:3.4.2-3)
+    popular Russian game, similar to Tetris
+quake (2) [contrib]
+    classic first person shooter
+quake-server (2) [contrib]
+    classic first person shooter - server and init script
+quake3 (1.4) [contrib]
+    Quake III Arena menu entry and launcher scripts
+quake3-server (1.4) [contrib]
+    Quake III Arena dedicated server launcher scripts
+quakespasm (0.85.7-1)
+    engine for iD software's Quake
+quarry (0.2.0.dfsg.1-4)
+    Board games Go, Amazons, and Reversi (a.k.a. Othello)
+qxw (20110923-1)
+    advanced interactive crossword construction tool
+rafkill (1.2.2-3.3+b1)
+    vertical shoot'em-up similar to Raptor: Call of the Shadows
+rafkill-data (1.2.2-3.3)
+    graphics and audio data for rafkill
+raincat (1.1-3)
+    2D puzzle game featuring a fuzzy little cat
+raincat-data (1.1-3)
+    2D puzzle game featuring a fuzzy little cat - data files
+randtype (1.13-10)
+    semi-random text typer
+rapid-spring (0.6.0-1)
+    content download tool for spring RTS
+realtimebattle (1.0.8-13)
+    Programming game
+realtimebattle-common (1.0.8-13)
+    Programming game
+redeclipse (1.2-3) [contrib]
+    single-player and multi-player first-person ego-shooter
+redeclipse-data (1.2-1) [non-free]
+    data for the Red Eclipse FPS game
+redeclipse-server (1.2-3) [contrib]
+    server for the Red Eclipse FPS game
+reminiscence (0.2.1-1) [contrib]
+    free implementation of Flashback game engine
+renpy (6.13.12-1)
+    framework for developing visual-novel type games
+renpy-demo (6.13.12-1)
+    framework for developing visual-novel type games - demo
+renpy-thequestion (6.13.12-1)
+    simple and complete Ren'Py game
+ri-li (2.0.1-2)
+    a toy train simulation game
+ri-li-data (2.0.1-2)
+    data files for Ri-li, a toy train simulation game
+ricochet (0.3)
+    multi-user networked version of the Ricochet Robots game
+rlvm (0.12-4)
+    RealLive virtual machine clone
+robocode (1.6.2+dfsg-3.1)
+    Java programming game based on battle tanks
+robotfindskitten (1.7320508.406-3)
+    Zen Simulation of robot finding kitten
+rockdodger (0.6.0a-7)
+    Dodge and blow up rocks with your spaceship
+rocksndiamonds (3.3.0.1+dfsg1-2.2) [contrib]
+    arcade-style game
+rolldice (1.10-5)
+    A virtual dice roller
+rott (1.1.2-1) [contrib]
+    SDL-Port of Rise of the Triad
+rrootage (0.23a-9)
+    arcade-style space shooting game
+rrootage-data (0.23a-9)
+    space shooting game - data files
+salliere (0.10-1)
+    Bridge duplicate scorer
+sandboxgamemaker (2.7.1+dfsg-2) [contrib]
+    3D game maker and 3D game design program
+sauerbraten (0.0.20100728.dfsg+repack-3) [contrib]
+    3D first-person game engine
+sauerbraten-data (0.0.20100728+repack-1) [non-free]
+    Game content for the Sauerbraten game
+sauerbraten-server (0.0.20100728.dfsg+repack-3) [contrib]
+    Standalone server for the Sauerbraten game
+sauerbraten-wake6 (1.0-1.1) [contrib]
+    Small but dodgy deathmatch/instagib map for the Sauerbraten game
+scid (1:4.3.0.cvs20120311-1)
+    chess database with play and training functionality
+scid-data (1:4.3.0.cvs20120311-1)
+    data files for scid, the chess database application
+scid-rating-data (200901-2)
+    contains spelling corrections and ELO ratings for scid chess databases
+scid-spell-data (200901-2)
+    contains spelling corrections for scid chess databases
+scorched3d (43.2a.dfsg-6.1)
+    3D artillery game similar to Scorched Earth
+scorched3d-data (43.2a.dfsg-6.1)
+    data files for Scorched3D game
+scottfree (1.14-9)
+    Interpreter for Adventure International games
+scribble (1.11-1)
+    Popular crossword game, similar to Scrabble(R)
+scummvm (1.4.1-1)
+    engine for several graphical adventure games
+scummvm-data (1.4.1-1)
+    engine for several graphical adventure games (data files)
+sdl-ball (1.01-3)
+    brick-breaking game like DX-Ball/Arkanoid
+sdl-ball-data (1.01-3)
+    brick-breaking game like DX-Ball/Arkanoid - data files
+sdlmame-tools (0.146-4) [non-free]
+    Transitional package for sdlmame-tools
+searchandrescue (1.4.0-2)
+    fly aircraft to search (for) and rescue people in distress
+searchandrescue-common (1.4.0-2)
+    common files and documentation for searchandrescue
+searchandrescue-data (1.3.0-1)
+    common data files for searchandrescue
+sgt-puzzles (9411-1)
+    Simon Tatham's Portable Puzzle Collection - 1-player puzzle games
+simutrans (111.2.2-1)
+    transportation simulator
+simutrans-data (111.2.2-1)
+    transportation simulator (base data)
+simutrans-makeobj (111.2.2-1)
+    data file compiler for Simutrans
+simutrans-pak128.britain (1.09-1)
+    transportation simulator (data files)
+simutrans-pak64 (111.2-1)
+    transportation simulator (data files)
+singularity (0.30c-1)
+    game where one becomes the singularity
+singularity-music (006-2)
+    Music for Endgame: Singularity game
+sjeng (11.2-8)
+    chess program that plays many variants
+sl (3.03-17)
+    Correct you if you type `sl' by mistake
+slashem (0.0.7E7F3-6)
+    variant of Nethack
+slashem-common (0.0.7E7F3-6)
+    files common to all slashem-packages
+slashem-gtk (0.0.7E7F3-6)
+    variant of Nethack (Gtk window port)
+slashem-sdl (0.0.7E7F3-6)
+    variant of Nethack (SDL window port)
+slashem-x11 (0.0.7E7F3-6)
+    variant of Nethack (X11 window port)
+slimevolley (2.4.2+dfsg-1)
+    unrealistic 2D volleyball simulation
+slimevolley-data (2.4.2+dfsg-1)
+    unrealistic 2D volleyball simulation - data files
+slingshot (0.9-1)
+    simple 2D shooting strategy game set in space, with gravity
+sludge-engine (2.2-1)
+    Runtime engine for playing SLUDGE adventure games
+sm (0.19-1)
+    Displays a short text fullscreen
+smc (1.9+git20120222-1+b1)
+    Jump and Run game like Super Mario World
+smc-data (1.9+git20120222-1)
+    levels and game data for Secret Maryo Chronicles
+smc-music (1.9+git20120222-1)
+    music files for Secret Maryo Chronicles
+snake4 (1.0.12-14)
+    Snake game
+snowballz (0.9.5.1-4)
+    fun RTS game featuring snowball fights with penguins
+solarwolf (1.5-2)
+    Collect the boxes and don't become mad
+sopwith (1.7.4-6)
+    port of the 1980's side-scrolling WWI dogfighting game
+spacearyarya (1.0.2-7)
+    third person shooter in pseudo-3D
+spacezero (0.80.06-1)
+    Real Time Strategy 2D space combat, multiplayer net game.
+spellcast (1.0-21) [non-free]
+    The classic hand-waving multi-player X game of spellcasting:
+spout (1.3-2)
+    Tiny abstract black and white 2D cave-shooter
+spring (88.0+dfsg1-1.1)
+    modern full-3D RTS game engine
+spring-common (88.0+dfsg1-1.1)
+    modern full-3D RTS game engine (common files)
+spring-javaai (88.0+dfsg1-1.1)
+    modern full-3D RTS game engine (Java AIs)
+springlobby (0.147-1)
+    single/multiplayer lobby for the Spring RTS engine
+starfighter (1.2-2)
+    2D scrolling shooter game
+starfighter-data (1.2-2)
+    2D scrolling shooter game -- data files
+starvoyager (0.4.4-5.1)
+    2D space arcade game, themed around 'Star Trek' - binary
+starvoyager-data (0.4.4-5.1)
+    2D space arcade game, themed around 'Star Trek' - data files
+stax (1.0-13+b1)
+    collection of puzzle games similar to Tetris Attack
+stockfish (2.1.1+git20111006-2)
+    strong chess engine, to play chess against
+stormbaancoureur (2.1.6-1)
+    simulated obstacle course for automobiles
+stormbaancoureur-data (2.1.6-1)
+    game data for Stormbaan Coureur
+sudoku (1.0.1-4)
+    console based sudoku
+supertransball2 (1.5-4)
+    Thrust type of game
+supertransball2-data (1.5-4)
+    Data files for a thrust type of game
+supertux (0.1.3-3)
+    Classic 2D jump 'n run sidescroller with Tux
+supertux-data (0.1.3-3)
+    Classic 2D jump 'n run sidescroller with Tux (data files)
+supertuxkart (0.7.3-2+b1)
+    3D kart racing game
+supertuxkart-data (0.7.3-2)
+    3D kart racing game (data)
+swell-foop (1:3.4.2-3)
+    Colored ball puzzle game
+tads3-common (1:0.13-2) [non-free]
+    TADS version 3 runtime support files
+tagua (1.0~alpha2-10)
+    Board-game frontend for playing chess variants and other games
+tagua-data (1.0~alpha2-10)
+    Theme data for the tagua board-game frontend
+tanglet (1.1.1-1.1)
+    single player word finding game based on Boggle
+tatan (1.0.dfsg1-3)
+    pointing STG shooter game
+tdfsb (0.0.10-1.1)
+    3D filesystem browser
+tecnoballz (0.92-5)
+    breaking block game ported from the Amiga platform
+tecnoballz-data (0.92-5)
+    graphic, sound and music files for the game tecnoballz
+teeworlds (0.6.1+dfsg-1)
+    online multi-player platform 2D shooter
+teeworlds-data (0.6.1+dfsg-1)
+    data for Teeworlds; an online multi-player platform 2D shooter
+teeworlds-server (0.6.1+dfsg-1)
+    server for Teeworlds; an online multi-player platform 2D shooter
+tenace (0.12-1)
+    Bridge hand viewer and editor
+tenmado (0.10-1)
+    hard-core shoot 'em up game in blue-or-red world
+tennix (1.1-2)
+    2D tennis game
+tetrinet-client (0.11+CVS20070911-1)
+    textmode client for tetrinet, a multiplayer tetris-like game
+tetrinet-server (0.11+CVS20070911-1)
+    server for tetrinet, a multiplayer tetris-like game
+tetrinetx (1.13.16-14)
+    game server for Tetrinet
+tetzle (2.0.1-1)
+    Jigsaw puzzle game
+tf (1:4.0s1-17)
+    Tinyfugue MUD client for TinyMUDs, DikuMUDs, and LPMUDs
+thrust (0.89c-3.5)
+    a port of the classic Commodore 64 game
+tictactoe-ng (0.3.2.1-1)
+    fun, simple, tic tac toe game
+tint (0.04+nmu1)
+    TINT Is Not Tetris(tm) ...at least the name isn't
+tintin++ (2.00.8-1)
+    classic text-based MUD client
+tinymux (2.6.5.28-1)
+    text-based multi-user virtual world server
+titanion (0.3.dfsg1-4)
+    strike down super high-velocity swooping insects
+titanion-data (0.3.dfsg1-4)
+    strike down super high-velocity swooping insects - game data
+tmw (20110911-3)
+    The Mana World is a 2D MMORPG
+tmw-music (0.3-3)
+    The Mana World is a 2D MMORPG (music files)
+toga2 (1.4.1.1SE1-4)
+    computer chess engine, calculates chess moves
+tomatoes (1.55-5)
+    I Have No Tomatoes - tomato smashing game
+tomatoes-data (1.55-5)
+    I Have No Tomatoes - tomato smashing game
+tome (2.3.5-2) [non-free]
+    A single-player, text-based, dungeon simulation game.
+toppler (1.1.5-2)
+    clone of the "Nebulus" game on old 8 and 16 bit machines
+torcs (1.3.3+dfsg-0.1)
+    3D racing cars simulator game using OpenGL
+torcs-data (1.3.3+dfsg-0.1)
+    base data files for TORCS game
+torcs-data-cars (1.3.3+dfsg-0.1)
+    data files for TORCS game - Cars set
+torcs-data-tracks (1.3.3+dfsg-0.1)
+    data files for TORCS game - Tracks set
+torus-trooper (0.22.dfsg1-8)
+    speeding ship sailing through barrage
+torus-trooper-data (0.22.dfsg1-8)
+    speeding ship sailing through barrage - game data
+torus-trooper-pure (0.22.dfsg1-8)
+    variant of torus-trooper
+tourney-manager (20070820-4)
+    perl interface to run chess engine tournaments
+tpclient-pywx (0.3.1.1-3.1)
+    Thousand Parsec Python client
+trackballs (1.1.4-4.1)
+    An OpenGL-based game of marbles through a labyrinth
+trackballs-data (1.1.4-4.1)
+    Data files for trackballs
+trackballs-music (1.3-1)
+    Soundtrack for Trackballs
+transcend (0.3.dfsg2-2)
+    retro-style, abstract 2D shooter
+trigger-rally (0.6.0-1+b2 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, powerpc, s390, s390x, sparc], 0.6.0-1+b1 [mipsel])
+    free 3D rally racing car game
+trigger-rally-data (0.6.0-1)
+    free 3D rally racing car game - data files
+triplane (1.0.7-1)
+    side-scrolling dogfighting game
+triplea (1.5.2.1-1)
+    Turn based strategy game
+trophy (2.0.2-2)
+    2D car racing action game
+trophy-data (2.0.2-2)
+    data files for trophy
+tumiki-fighters (0.2.dfsg1-5)
+    sticky 2D shooter
+tumiki-fighters-data (0.2.dfsg1-5)
+    sticky 2D shooter - game data
+tuxfootball (0.3.1-2)
+    great 2D soccer (sometimes called football) game
+tuxmath (1.8.0-4)
+    math game for kids with Tux
+tuxpuck (0.8.2-2.2)
+    "Shufflepuck Cafe" Clone
+tuxtype (1.8.1-5)
+    Educational Typing Tutor Game Starring Tux
+tuxtype-data (1.8.1-5)
+    Data files for the Educational Typing Tutor Game Starring Tux
+tworld (1.3.0-6)
+    Chip's Challenge Game Engine Emulation
+tworld-data (1.3.0-6)
+    Chip's Challenge Game Engine Emulation - level data files
+typespeed (0.6.5-1.1)
+    Zap words flying across the screen by typing them correctly
+uligo (0.3-6)
+    tsumego (go problems) practice tool
+unknown-horizons (2012.1+dfsg1-1)
+    2D realtime strategy simulation
+uqm (0.6.2.dfsg-9) [contrib]
+    The Ur-Quan Masters - An inter-galatic adventure game
+uqm-content (0.6.0+deb1-6) [non-free]
+    The Ur-Quan Masters - Game data files
+uqm-music (0.6.0+deb1-6) [non-free]
+    The Ur-Quan Masters - Game music files
+uqm-russian (1.0.2-5) [contrib]
+    Russian addon for 'The Ur-Quan Masters' game
+uqm-voice (0.6.0+deb1-6) [non-free]
+    The Ur-Quan Masters - Voice files
+val-and-rick (0.1a.dfsg1-3)
+    shooter game
+val-and-rick-data (0.1a.dfsg1-3)
+    shooter game - game data
+vavoom (1.33-4)
+    Advanced Doom/Heretic/Hexen/Strife engine
+vectoroids (1.1.0-11)
+    vector-based rock-shooting
+viruskiller (1.03-1+dfsg1-1)
+    Game about viruses invading your computer
+vodovod (1.10-2)
+    puzzle game, you must lead the water to the storage tank
+vor (0.5.5-2) [contrib]
+    fast-pace, difficult and addictive rocks dodging game
+warmux (1:11.04.1+repack-4)
+    turn-based artillery game on 2D maps
+warmux-data (1:11.04.1+repack-4)
+    data files for the WarMUX game
+warmux-servers (1:11.04.1+repack-4)
+    stand alone server and game index server for WarMUX
+wesnoth (1:1.10.3-3)
+    fantasy turn-based strategy game - complete suite (metapackage)
+wesnoth-1.10 (1:1.10.3-3)
+    fantasy turn-based strategy game - complete suite (branch 1.10)
+wesnoth-1.10-aoi (1:1.10.3-3)
+    "An Orcish Incursion" official campaign for Wesnoth (branch 1.10)
+wesnoth-1.10-core (1:1.10.3-3)
+    fantasy turn-based strategy game (branch 1.10)
+wesnoth-1.10-data (1:1.10.3-3)
+    data files for Wesnoth (branch 1.10)
+wesnoth-1.10-did (1:1.10.3-3)
+    "Descent Into Darkness" official campaign for Wesnoth (branch 1.10)
+wesnoth-1.10-dm (1:1.10.3-3)
+    "Delfador's Memoirs" official campaign for Wesnoth (branch 1.10)
+wesnoth-1.10-dw (1:1.10.3-3)
+    "Dead Water" official campaign for Wesnoth (branch 1.10)
+wesnoth-1.10-ei (1:1.10.3-3)
+    "The Eastern Invasion" official campaign for Wesnoth (branch 1.10)
+wesnoth-1.10-httt (1:1.10.3-3)
+    "Heir to the Throne" official campaign for Wesnoth (branch 1.10)
+wesnoth-1.10-l (1:1.10.3-3)
+    "Liberty" official campaign for Wesnoth (branch 1.10)
+wesnoth-1.10-low (1:1.10.3-3)
+    "Legend of Wesmere" official campaign for Wesnoth (branch 1.10)
+wesnoth-1.10-music (1:1.10.3-3)
+    music files for Wesnoth (branch 1.10)
+wesnoth-1.10-nr (1:1.10.3-3)
+    "Northern Rebirth" official campaign for Wesnoth (branch 1.10)
+wesnoth-1.10-server (1:1.10.3-3)
+    multiplayer network server for Wesnoth (branch 1.10)
+wesnoth-1.10-sof (1:1.10.3-3)
+    "The Sceptre of Fire" official campaign for Wesnoth (branch 1.10)
+wesnoth-1.10-sotbe (1:1.10.3-3)
+    "Son of the Black-Eye" official campaign for Wesnoth (branch 1.10)
+wesnoth-1.10-thot (1:1.10.3-3)
+    "The Hammer of Thursagan" official campaign for Wesnoth (branch 1.10)
+wesnoth-1.10-tools (1:1.10.3-3)
+    tools for campaign developers for Wesnoth (branch 1.10)
+wesnoth-1.10-trow (1:1.10.3-3)
+    "The Rise of Wesnoth" official campaign for Wesnoth (branch 1.10)
+wesnoth-1.10-tsg (1:1.10.3-3)
+    "The South Guard" official campaign for Wesnoth (branch 1.10)
+wesnoth-1.10-ttb (1:1.10.3-3)
+    "A Tale of Two Brothers" official campaign for Wesnoth (branch 1.10)
+wesnoth-1.10-utbs (1:1.10.3-3)
+    "Under the Burning Suns" official campaign for Wesnoth (branch 1.10)
+wesnoth-core (1:1.10.3-3)
+    fantasy turn-based strategy game (metapackage)
+wesnoth-music (1:1.10.3-3)
+    music files for Wesnoth (metapackage)
+whichwayisup (0.7.9-2)
+    2D platform game with a slight rotational twist
+widelands (1:17-3)
+    fantasy real-time strategy game
+widelands-data (1:17-3)
+    fantasy real-time strategy game (data files)
+wing (0.7-27.1+b1)
+    Galaga-like arcade game
+wing-data (0.7-27.1)
+    graphics and audio data for wing
+wizznic (0.9.2-preview2+dfsg-1.1)
+    Implementation of the arcade classic Puzznic
+wizznic-data (0.9.2-preview2+dfsg-1.1)
+    Implementation of the arcade classic Puzznic (data)
+wmpuzzle (0.5.1-1)
+    WindowMaker dock app 4x4 puzzle
+wolf4sdl (1.7+svn262+dfsg1-1) [contrib]
+    SDL-Port of Wolfenstein 3-D and Spear of Destiny
+wordplay (7.22-17)
+    anagram generator
+xabacus (7.6.8-3)
+    simulation of the ancient calculator (plain X version)
+xabacus
+    virtual package provided by xabacus, xmabacus
+xball (3.0.1-1.1)
+    Simulate bouncing balls in a window
+xbattle (5.4.1-15)
+    Concurrent multi-player battle strategy game
+xbill (2.1-8)
+    Get rid of those Wingdows Viruses!
+xblast (1:2.10.4-3)
+    game inspired by Dynablaster (dummy upgrade package)
+xblast
+    virtual package provided by xblast-tnt
+xblast-tnt (2.10.4-3)
+    multiplayer blast-the-others game inspired by Dynablaster
+xblast-tnt-images (20050106-2)
+    image files for xblast-tnt
+xblast-tnt-levels (20050106-2)
+    level files for xblast-tnt
+xblast-tnt-mini (2.10.4-3)
+    game inspired by Dynablaster (dummy upgrade package)
+xblast-tnt-mini
+    virtual package provided by xblast-tnt
+xblast-tnt-models (20050106-3)
+    player models for xblast-tnt
+xblast-tnt-musics (20050106-2)
+    music files for xblast-tnt
+xblast-tnt-sounds (20040429-2)
+    sound files for xblast-tnt
+xboard (4.6.2-1)
+    X Window System Chess Board
+xboing (2.4-31)
+    blockout game for X
+xbomb (2.2a-1)
+    'minesweeper' game with squares, hexagons or triangles
+xbubble (0.5.11.2-3.2)
+    A nice Puzzle Bubble clone
+xbubble-data (0.5.11.2-3.2)
+    Data files for XBubble, a nice Puzzle Bubble clone
+xchain (1.0.1-6)
+    strategy game for 2-4 players
+xcowsay (1.2-1)
+    Graphical configurable talking cow
+xdemineur (2.1.1-17)
+    Yet another minesweeper for X
+xdesktopwaves (1.3-3)
+    Simulation of water waves on the X Window System
+xevil (2.02r2-10)
+    A violent side-scrolling game for X
+xfireworks (1.3-8)
+    Fireworks in your root window
+xfishtank (2.2-26)
+    turns your X root into an aquarium
+xflip (1.01-25)
+    programs to mirror-image or melt your display
+xfrisk (1.2-3)
+    Server and X11 client for playing risk with humans or AIs
+xgalaga (2.1.1.0-4)
+    X version of the famous Galaga game
+xgalaga++ (0.8.3-1)
+    classic single screen vertical shooter, inspired by xgalaga
+xgammon (0.99.1128-3)
+    Implementation of backgammon under X
+xinv3d (1.3.6-6)
+    3D space invaders for X
+xjig (2.4-13+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 2.4-13 [armhf, s390x])
+    An X11 jigsaw puzzle
+xjokes (1.0-13)
+    X11 jokes
+xjump (2.7.5-6.1)
+    jumping game for X
+xletters (1.1.1-4.1)
+    Type falling words before they land
+xmabacus (7.6.8-3)
+    simulation of the ancient calculator (Motif version)
+xmahjongg (3.7-3)
+    tile-based solitaire game
+xmame-tools (0.146-4) [non-free]
+    Transitional package for mame-tools
+xmess-sdl (0.146-4) [non-free]
+    Transitional package for xmess-sdl
+xmess-sdl
+    virtual package provided by mess
+xmess-x (0.146-4) [non-free]
+    Transitional package for xmess-x
+xmess-x
+    virtual package provided by mess
+xmille (2.0-13)
+    The classic game of Mille Bournes
+xmoto (0.5.10+dfsg-1)
+    2D motocross platform game
+xmoto-data (0.5.10+dfsg-1)
+    2D motocross platform game - data files
+xmountains (2.9-2)
+    Fractal landscape generator for X
+xmpuzzles (7.6.3-1+b1)
+    collection of puzzles for X (Motif version)
+xonix (1.4-29)
+    game to carve up the screen whilst dodging monsters
+xpat2 (1.07-18)
+    Generic patience game for X11
+xpenguins (2.2-8)
+    little penguins walk on your windows
+xphoon (20000613+0-1)
+    sets the root window to a picture of the moon
+xpilot-extra (4.7.2)
+    Maps, utilities and configs for XPilot
+xpilot-ng (1:4.7.3-1.4)
+    Multi-player tactical game for X (NG version)
+xpilot-ng-client-sdl (1:4.7.3-1.4)
+    Client for XPilot NG
+xpilot-ng-client-x11 (1:4.7.3-1.4)
+    Client for XPilot NG
+xpilot-ng-common (1:4.7.3-1.4)
+    Common files for XPilot NG
+xpilot-ng-server (1:4.7.3-1.4)
+    Server for hosting XPilot NG games
+xpilot-ng-utils (1:4.7.3-1.4)
+    Utilities for XPilot NG
+xpuzzles (7.6.3-1+b1)
+    collection of puzzles for X (plain X version)
+xqf (1.0.5-2)
+    X-based Quake Server Browser
+xracer (0.96.9.1-6)
+    Futuristic racing game
+xracer-tools (0.96.9.1-6)
+    Futuristic racing game - developer tools
+xscavenger (1.4.4-8)
+    A lode-runner-like platform game for X
+xscorch (0.2.1-1)
+    Clone of Scorched Earth
+xscreensaver-screensaver-dizzy (0.3-1)
+    Graphics demo that makes you dizzy (XScreenSaver hack)
+xshisen (1:1.51-3.3)
+    Shisen-sho puzzle game for X11
+xshogi (1.3.2-9)
+    X11 frontend to gnushogi
+xskat (4.0-5)
+    3-player card game "Skat"
+xsnow (1:1.42-9) [non-free]
+    brings Christmas to your desktop
+xsok (1.02-17)
+    generic Sokoban game for X11
+xsol (0.31-9)
+    Solitaire game for the X Window system
+xsoldier (1:1.8-2)
+    shoot 'em up game with the "not shooting" bonus
+xsystem35 (1.7.3-pre5-5)
+    System 3.5 games engine for X Window System
+xteddy (2.2-2)
+    a cuddly teddy bear (or other image) for your X desktop
+xtron (1.1a-14)
+    Tron game for X11
+xtux (0.2.030306-12+b1 [armel, ia64], 0.2.030306-12 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    legacy package that you should remove
+xtux-client (0.2.030306-12+b1 [armel, ia64], 0.2.030306-12 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    arcade game featuring Free Software mascots
+xtux-common (0.2.030306-12)
+    shared files for the arcade game X-Tux
+xtux-levels (0.2.030306-12)
+    shared files for the arcade game X-Tux
+xtux-server (0.2.030306-12+b1 [armel, ia64], 0.2.030306-12 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    server for the arcade game X-Tux
+xvier (1.0-7.5)
+    a "Four in a row" game
+xwelltris (1.0.1-14)
+    3D Tetris like popular game similar to Welltris
+xword (2.0.0~rc2-1)
+    Reads and writes crossword puzzles in the Across Lite file format
+xye (0.12.1+dfsg-4)
+    puzzle game - get all the gems in the room
+xye-data (0.12.1+dfsg-4)
+    puzzle game - get all the gems in the room
+xzip (1:1.8.2-3+b1 [mips, mipsel], 1:1.8.2-3 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, powerpc, s390, s390x, sparc])
+    Interpreter of Infocom-format story-files
+yahtzeesharp (1.1-5)
+    game similar to poker with dice and less money
+yics (0.1.2-3)
+    Yahoo! Chess client for use with FICS interfaces
+zangband (1:2.7.5pre1-8) [non-free]
+    A single-player, text-based, roguelike game
+zangband-data (1:2.7.5pre1-8) [non-free]
+    A single-player, text-based, roguelike game (datafiles)
+zatacka (0.1.8-2)
+    Arcade multiplayer game like nibbles
+zaz (1.0.0~dfsg1-1)
+    arcade action puzzle game
+zaz-data (1.0.0~dfsg1-1)
+    arcade action puzzle game - game data
+zec (0.12-2)
+    Z-Shell Empire client
+zivot (20013101-3+b1 [amd64, armel, i386, ia64, mips, mipsel, powerpc, s390, sparc], 20013101-3 [armhf, kfreebsd-amd64, kfreebsd-i386, s390x])
+    the game of life, simple console version 

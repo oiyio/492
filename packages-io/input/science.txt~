@@ -1,0 +1,1438 @@
+3depict (0.0.10-1+b1 [amd64], 0.0.10-1 [armel, armhf, i386, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    visualisation and analysis for single valued point data
+abacas (1.3.1-1)
+    Algorithm Based Automatic Contiguation of Assembled Sequences
+abinit (5.3.4.dfsg-3+b1 [mips, mipsel], 5.3.4.dfsg-3 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, powerpc, s390, s390x, sparc])
+    A package for electronic structure calculations
+abyss (1.3.4-3) [non-free]
+    de novo, parallel, sequence assembler for short reads
+acedb-other (4.9.39+dfsg.01-5)
+    retrieval of DNA or protein sequences
+acedb-other-belvu (4.9.39+dfsg.01-5)
+    multiple sequence alignment editor
+acedb-other-dotter (4.9.39+dfsg.01-5)
+    visualisation of sequence similarity
+aces3 (3.0.6-7)
+    Advanced Concepts in Electronic Structure III
+achilles (2-8)
+    An artificial life and evolution simulator
+aeskulap (0.2.2b1-11)
+    medical image viewer and DICOM network client
+aghermann (0.6.0.1-1)
+    Sleep-research experiment manager
+algotutor (0.8.6-1)
+    program for observing the intermediate steps of algorithm
+alien-hunter (1.7-1)
+    Interpolated Variable Order Motifs to identify horizontally acquired DNA
+altree (1.2.1-1)
+    program to perform phylogeny-based association and localization analysis
+altree-examples (1.2.1-1)
+    example files for ALTree
+amap-align (2.2-3)
+    Protein multiple alignment by sequence annealing
+ampliconnoise (1.25-1)
+    Programs for the removal of noise from 454 sequenced PCR amplicons
+ants (1.9.2+svn680.dfsg-4)
+    advanced normalization tools for brain and image analysis
+apbs (1.3.0-2)
+    Adaptive Poisson Boltzmann Solver
+astronomical-almanac (5.6-4)
+    astronomical almanac - calculate planet and star positions
+autodock (4.2.3-2)
+    analysis of ligand binding to protein structure
+autodock-getdata (4.2.3-2)
+    instructions for getData to collect compounds
+autodock-test (4.2.3-2)
+    test files for AutoDock
+autodock-vina (1.1.2-2+b1)
+    docking of small molecules to proteins
+autodocktools (1.5.6~rc3~cvs.20120206-1) [non-free]
+    GUI to help set up, launch and analyze AutoDock dockings
+autogrid (4.2.3-2)
+    pre-calculate binding of ligands to their receptor
+autogrid-test (4.2.3-2)
+    test files for AutoGrid
+avce00 (2.0.0-2)
+    Tools for conversion of ESRI Arcinfo (binary) Vector Coverage in E00 format.
+avogadro (1.0.3-5)
+    Molecular Graphics and Modelling System
+avogadro-data (1.0.3-5)
+    Molecular Graphics and Modelling System (Data Files)
+aweather (0.7-1)
+    Advanced Weather Monitoring Program
+ballview (1.4.1+20111206-4)
+    free molecular modeling and molecular graphics tool
+bauble (0.9.7-2)
+    biodiversity collection manager software application
+bedtools (2.16.1-1)
+    suite of utilities for comparing genomic features
+bibus (1.5.2-1)
+    bibliographic database
+biogenesis (0.8-1)
+    artificial life program that simulates evolution of organisms
+biomaj (1.2.1-1)
+    biological data-bank updater
+biomaj-properties (1.2.1-1)
+    biological data-bank updater - example properties files
+biomaj-watcher (1.2.1-1) [contrib]
+    biological data-bank updater - web interface
+bioperl (1.6.901-3)
+    Perl tools for computational molecular biology
+bioperl-run (1.6.9-1)
+    BioPerl wrappers: scripts
+biosig-tools (1.3.0-2)
+    format conversion tools for biomedical data formats
+biosquid (1.9g+cvs20050121-2)
+    utilities for biological sequence analysis
+bist (0.5.2-1)
+    chemical drawing tool
+bkchem (0.13.0-4)
+    Chemical structures editor
+blast2 (1:2.2.26.20120620-2)
+    Basic Local Alignment Search Tool
+blimps-utils (3.9-1) [non-free]
+    blocks database improved searcher
+bodr (9-1)
+    Blue Obelisk Data Repository
+boolector (1.4.ffc2089.100608-1)
+    SMT solver for bit-vectors and arrays
+bowtie (0.12.7-3)
+    ultrafast memory-efficient short read aligner
+bowtie-examples (0.12.7-3)
+    Examples for bowtie, the ultrafast memory-efficient short read aligner
+bowtie2 (2.0.0-beta6-3)
+    ultrafast memory-efficient short read aligner
+bowtie2-examples (2.0.0-beta6-3)
+    Examples for bowtie2,
+boxshade (3.3.1-7+wheezy1)
+    Pretty-printing of multiple sequence alignments
+bppphyview (0.2.1-1)
+    Bio++ Phylogenetic Viewer
+bppsuite (0.7.0-1)
+    Bio++ program suite
+bwa (0.6.2-1)
+    Burrows-Wheeler Aligner
+cain (1.9-4)
+    simulations of chemical reactions
+cain-examples (1.9-4)
+    simulations of chemical reactions
+cain-solvers (1.9-4)
+    simulations of chemical reactions
+caret (5.6.4~dfsg.1-3)
+    Computerized Anatomical Reconstruction and Editing Toolkit
+cba (0.3.6-4)
+    Continuous Beam Analysis
+cbflib-bin (0.7.9.1-3)
+    utilities to manipulate CBF files
+cbmc (4.1-1.2)
+    bounded model checker for C and C++ programs
+cclib (1.0.1-2)
+    Parsers and algorithms for computational chemistry
+cclib-data (1.0.1-3) [non-free]
+    Parsers and algorithms for computational chemistry (data files)
+cd-hit (4.6-2012-04-25-1)
+    suite of programs designed to quickly group sequences
+celestia (1.6.1+dfsg-2)
+    real-time visual space simulation
+celestia-common (1.6.1+dfsg-2)
+    datafiles for Celestia, a real-time visual space simulation
+celestia-common-nonfree (1.6.1-1) [non-free]
+    Non-free datafiles for Celestia, a real-time visual space simulation
+celestia-glut (1.6.1+dfsg-2)
+    real-time visual space simulation (GLUT frontend)
+cernlib (20061220+dfsg3-2)
+    CERNLIB data analysis suite - general use metapackage
+cernlib-core (20061220+dfsg3-2)
+    CERNLIB data analysis suite - main libraries and programs
+cernlib-extras (20061220+dfsg3-2)
+    CERNLIB data analysis suite - extra programs
+cernlib-montecarlo (20061220+dfsg3-2)
+    CERNLIB Monte Carlo libraries
+cgns-convert (3.1.3.4-1+b1)
+    CFD General Notation System - Conversion tools
+chemical-structures (2.2.dfsg.0-8)
+    set of molecular structures in open formats
+chemtool (1.6.13-1)
+    chemical structures drawing program
+circos (0.61-3)
+    plotter for visualizing data
+circos-tools (0.16-2)
+    Helper tools for Circos
+clinica (0.2.1~dfsg-1)
+    Simple medical records manager
+clinica-common (0.2.1~dfsg-1)
+    Simple medical records manager (architecture independent files)
+clinica-dev (0.2.1~dfsg-1)
+    Simple medical records manager (development files)
+clinica-plugins (0.2.1~dfsg-1)
+    Simple medical records manager (plugins)
+clonalframe (1.2-3)
+    inference of bacterial microevolution using multilocus sequence data
+clustalo (1.1.0-1)
+    General purpose multiple sequence alignment program for proteins
+clustalw (2.1+lgpl-2)
+    global multiple nucleotide or peptide sequence alignment
+clustalw-mpi (0.15-2) [non-free]
+    MPI-distributed global sequence alignment with ClustalW
+clustalx (2.1+lgpl-2)
+    Multiple alignment of nucleic acid and protein sequences (graphical interface)
+cmtk (2.2.2-2)
+    Computational Morphometry Toolkit
+code-saturne (2.1.7-1)
+    General purpose Computational Fluid Dynamics (CFD) software
+code-saturne-bin (2.1.7-1)
+    General purpose Computational Fluid Dynamics (CFD) software - binaries
+code-saturne-data (2.1.7-1)
+    General purpose Computational Fluid Dynamics (CFD) software - data
+code-saturne-doc (2.1.7-1)
+    General purpose Computational Fluid Dynamics (CFD) software - Documentation
+code-saturne-include (2.1.7-1)
+    General purpose Computational Fluid Dynamics (CFD) software - includes
+coinor-csdp (6.1.1-1)
+    A software package for semidefinite programming
+coinor-libflopc++0 (1.0.6-3.1)
+    Formulation of Linear Optimization Problems in C++
+condor (7.8.2~dfsg.1-1+deb7u3) [security]
+    distributed workload management system
+cp2k (2.2.426-8)
+    Ab Initio Molecular Dynamics
+cp2k-data (2.2.426-8)
+    Ab Initio Molecular Dynamics (data files)
+critterding (1.0-beta12.1-1.2)
+    Evolving Artificial Life
+cufflinks (1.3.0-2) [non-free]
+    Transcript assembly, differential expression and regulation for RNA-Seq
+dans-gdal-scripts (0.18-1.1+b2)
+    GDAL contributed tools by Geographic Information Network of Alaska
+dcmtk (3.6.0-12)
+    OFFIS DICOM toolkit command line utilities
+dialign (2.2.1-5)
+    Segment-based multiple sequence alignment
+dialign-tx (1.0.2-2)
+    Segment-based multiple sequence alignment
+dialign-tx-data (1.0.2-2)
+    Common data files for dialign-tx
+dicompyler (0.4.1-1-1)
+    radiation therapy research platform
+diet-agent (2.8.0-1+b1)
+    DIET grid middleware - agent
+dimbl (0.11-1)
+    Distributed Memory Based Learner
+disulfinder (1.2.11-2+b1)
+    cysteines disulfide bonding state and connectivity predictor
+disulfinder-data (1.2.11-2)
+    data files for predictor of disulfide bonds in proteins
+dotur (1.53-2)
+    distance based OTU and richness estimation
+dozzaqueux (3.21-4)
+    simulator for chemical mixtures
+dozzaqueux-data (3.21-4)
+    databases for chemical mixtures
+drawmap (2.5-3)
+    draws customized maps, using raw USGS data files
+drawxtl (5.5-3)
+    crystal structure viewer
+drslib (0.3.0a3-3)
+    Command-line tools for the Data Reference Syntax library
+dsdp (5.8-9.1)
+    Software for Semidefinite Programming
+dssp (2.0.4-2)
+    protein secondary structure assignment based on 3D structure
+dx (1:4.4.4-4+b2)
+    OpenDX (IBM Visualization Data Explorer) - main package
+dxsamples (4.2.0-1)
+    Sample programs for the OpenDX Data Explorer
+e00compr (1.0.1-2)
+    A program to read/write Arcinfo compressed E00 files
+easychem (0.6-7)
+    Draw high-quality molecules and 2D chemical formulas
+ecaccess (4.0.0-3)
+    clients to access ECMWF facilities
+edfbrowser (1.48-1)
+    viewer for biosignal storage files such as bdf and edf
+eficas (6.4.0-1-1.1)
+    Graphical editor for Code Aster command files
+elastix (4.5-2)
+    toolbox for rigid and nonrigid registration of images
+elki (0.5.0-1)
+    Data mining algorithm development framework
+elmer (6.1.0.svn.5396.dfsg2-2)
+    finite element multiphysics suite - binaries
+elmer-common (6.1.0.svn.5396.dfsg2-2)
+    finite element multiphysics suite - architecture-independent files
+embassy-domainatrix (0.1.0+20110714-1)
+    Extra EMBOSS commands to handle domain classification file
+embassy-domalign (0.1.0+20110714-1)
+    Extra EMBOSS commands for protein domain alignment
+embassy-domsearch (1:0.1.0+20110714-1)
+    Extra EMBOSS commands to search for protein domains
+embassy-phylip (3.69+20110714-1) [non-free]
+    EMBOSS conversions of the programs in the phylip package
+emboss (6.4.0-2)
+    european molecular biology open software suite
+emboss-data (6.4.0-2)
+    data files for the EMBOSS package
+emboss-explorer (2.2.0-7+deb7u1)
+    web-based GUI to EMBOSS
+emboss-lib (6.4.0-2)
+    EMBOSS Libraries
+engauge-digitizer (5.0-3)
+    interactively extracts numbers from bitmap graphs or maps
+ent (1.1debian-2)
+    pseudorandom number sequence test program
+epigrass (2.0.4-3)
+    scientific tool for simulations and scenario analysis in network epidemiology
+epsilon-bin (0.9.1-2)
+    A library for wavelet image compression - tools
+esorex (3.9.6-1)
+    Execution Tool for European Southern Observatory pipelines
+esys-particle (2.1-4)
+    Software for particle-based numerical modelling. MPI version.
+etsf-io (1.0.3-4+b1)
+    Binary tools to check, merge and read ETSF files
+exonerate (2.2.0-6)
+    generic tool for pairwise sequence comparison
+expeyes (2.0.0-3)
+    hardware & software framework for developing science experiments
+extrema (4.4.5.dfsg-3)
+    powerful visualization and data analysis tool
+fastdnaml (1.2.2-10)
+    Tool for construction of phylogenetic trees of DNA sequences
+fastlink (4.1P-fix95-3)
+    faster version of pedigree programs of Linkage
+fasttree (2.1.4-1)
+    phylogenetic trees from alignments of nucleotide or protein sequences
+fastx-toolkit (0.0.13.2-1)
+    FASTQ/A short nucleotide reads pre-processing tools
+fcc (2.7-1)
+    Script to compile C/C++ programs and link to Fortran libraries
+ffindex (0.9.6.1-1)
+    simple index/database for huge amounts of small files
+figtree (1.3.1-1)
+    graphical phylogenetic tree viewer
+filo (1.1+2011020401.2)
+    FILe and stream Operations
+fityk (0.9.8-3+b1)
+    general-purpose nonlinear curve fitting and data analysis
+freeaccount (0.7.6-1)
+    medical accountancy manager
+freediams (0.7.6-1)
+    pharmaceutical drug prescription and interaction manager
+freemedforms-common-resources (0.7.6-1)
+    common data for the FreeMedForms project applications
+freemedforms-emr (0.7.6-1)
+    electronic medical record manager
+freemedforms-emr-resources (0.7.6-1)
+    data for the FreeMedForms EMR
+freemedforms-freedata (0.7.6-1)
+    free extra-data for the FreeMedForms project
+freemedforms-libs (0.7.6-1)
+    common libs for the FreeMedForms project
+freemedforms-project (0.7.6-1)
+    FreeMedForms project
+freemedforms-theme (0.7.6-1)
+    theme for the FreeMedForms project
+frog (0.12.15-3)
+    tagger and parser for Dutch language
+frogdata (0.3-2)
+    Data files for Frog
+fsl (4.1.9-7) [non-free]
+    Metapackage for the latest version of FSL
+fsl-4.1 (4.1.9-7) [non-free]
+    analysis tools for FMRI, MRI and DTI brain imaging
+funtools (1.4.4-3)
+    Minimal buy-in FITS utility package
+fxt-tools (0.2.6-2)
+    Multithreaded tracing library
+g3data (1:1.5.3-2)
+    extract data from scanned graphs
+gabedit (2.4.2-2)
+    graphical user interface to Ab Initio packages
+gamgi (0.15.8-1)
+    General Atomistic Modelling Graphic Interface (GAMGI)
+gamgi-data (0.15.8-1)
+    General Atomistic Modelling Graphic Interface (data)
+garlic (1.6-1.1)
+    A visualization program for biomolecules
+gausssum (2.2.5-2)
+    parse and display Gaussian, GAMESS, and etc's output
+gbrowse (2.48~dfsg-1)
+    GMOD Generic Genome Browser
+gbrowse-calign (2.48~dfsg-1)
+    CAlign helper
+gbrowse-data (2.48~dfsg-1)
+    Sample data to use GBrowse
+gchempaint (0.12.12-1)
+    2D chemical structures editor for the GNOME2 desktop
+gcrystal (0.12.12-1)
+    lightweight crystal structures visualizer
+gcu-bin (0.12.12-1)
+    GNOME chemistry utils (helper applications)
+gcu-plugin (0.12.12-1)
+    GNOME chemistry utils (browser plugin)
+gcx (1.3-1.1)
+    astronomical image processing and photometry gtk+ application
+gdal-bin (1.9.0-3.1)
+    Geospatial Data Abstraction Library - Utility programs
+gdis (0.90-4)
+    molecular and crystal model viewer
+gdis-data (0.90-4)
+    molecular and crystal model viewer (data files)
+gdpc (2.2.5-2)
+    visualiser of molecular dynamic simulations
+gdpc-examples (2.2.5-2)
+    example files for the gdpc program
+geant321 (1:3.21.14.dfsg-10)
+    [Physics] Particle detector description and simulation tool
+geant321-data (1:3.21.14.dfsg-10)
+    [Physics] Data for GEANT 3.21 detector simulator
+gelemental (1.2.0-8)
+    Periodic Table viewer
+gentle (1.9+cvs20100605+dfsg1-1)
+    suite to plan genetic cloning
+geographiclib-tools (1.21-1)
+    A C++ library to solve some geodesic problems -- tools
+geotiff-bin (1.3.0+dfsg-3)
+    the GeoTIFF library -- tools
+getdata (0.1-1)
+    management of external databases
+gff2aplot (2.0-7)
+    pair-wise alignment-plots for genomic sequences in PostScript
+gff2ps (0.98d-4)
+    produces PostScript graphical output from GFF-files
+ghkl (4.0.3-4)
+    diffractometer computation control application
+ginkgocadx (2.12.0.4889-1)
+    Medical Imaging Software and complete DICOM Viewer
+glam2 (1064-1)
+    gapped protein motifs from unaligned sequences
+gliese (3.0.95-2) [non-free]
+    stellar data set from the Third Catalogue of Nearby Stars
+gmap (2012-06-12-1) [non-free]
+    spliced and SNP-tolerant alignment for mRNA and short reads
+gmt (4.5.7-2)
+    Generic Mapping Tools
+gofigure2 (0.9.0-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.9.0-1+b1 [armhf, s390x])
+    Tool for visualizing, processing and analysing of bioimages
+gperiodic (2.0.10-7)
+    periodic table application
+gpiv (0.6.1-2+b1 [armel, mips, mipsel, s390, sparc], 0.6.1-2 [amd64, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, powerpc, s390x])
+    GUI program for Particle Image Velocimetry
+gpiv-mpi (0.6.1-2+b1 [armel, mips, mipsel, s390, sparc], 0.6.1-2 [amd64, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, powerpc, s390x])
+    GUI program for Particle Image Velocimetry - MPI version
+gpivtools (0.6.0-3)
+    command line programs for Particle Image Velocimetry
+gpivtools-mpi (0.6.0-3)
+    command line programs for Particle Image Velocimetry - MPI version
+gpx2shp (0.69-3.1)
+    convert GPS or GPX file to ESRI Shape file
+grass (6.4.2-2)
+    Geographic Resources Analysis Support System (GRASS GIS)
+grass-core (6.4.2-2)
+    GRASS GIS core components
+grass-gui (6.4.2-2)
+    GRASS GIS graphical user interfaces
+gri (2.12.23-2.2)
+    a language for scientific illustration
+grinder (0.4.5-1)
+    Versatile omics shotgun and amplicon sequencing read simulator
+gromacs (4.5.5-2)
+    Molecular dynamics simulator, with building and analysis tools
+gromacs-data (4.5.5-2)
+    GROMACS molecular dynamics sim, data and documentation
+gromacs-mpich (4.5.5-2)
+    Molecular dynamics sim, binaries for MPICH parallelization
+gromacs-openmpi (4.5.5-2)
+    Molecular dynamics sim, binaries for OpenMPI parallelization
+gvb (1.2.1-1)
+    visual simulator of 1 and 2-dimensional vibrations
+gwyddion (2.28-2)
+    Scanning Probe Microscopy visualization and analysis tool
+gwyddion-common (2.28-2)
+    architecture-independent files for Gwyddion SPM analysis tool
+gwyddion-plugins (2.28-2)
+    plugins for Gwyddion SPM analysis tool
+gyoto (0.0.3-5)
+    General relativistic ray-tracing
+h5utils (1.12.1-2)
+    HDF5 files visualization tools
+harminv (1.3.1-9)
+    extraction of complex frequencies and amplitudes from time series
+hdf5-helpers (1.8.8-9+b1 [amd64, i386, kfreebsd-amd64, kfreebsd-i386], 1.8.8-9 [armel, armhf, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    Hierarchical Data Format 5 (HDF5) - Helper tools
+hdf5-tools (1.8.8-9+b1 [amd64, i386, kfreebsd-amd64, kfreebsd-i386], 1.8.8-9 [armel, armhf, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    Hierarchical Data Format 5 (HDF5) - Runtime tools
+hhsuite (2.0.15-1)
+    sensitive protein sequence searching based on HMM-HMM alignment
+hhsuite-data (2.0.15-1)
+    sensitive protein sequence searching based on HMM-HMM alignment (data)
+hmmer (3.0-4)
+    profile hidden Markov models for protein sequence analysis
+hodie (1.5-1)
+    prints the date in latin
+horae (071~svn536-1) [contrib]
+    interactive graphical processing and analysis of EXAFS data
+hpcc (1.4.1-2+b1 [armel, mips, mipsel, s390, sparc], 1.4.1-2 [amd64, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, powerpc, s390x])
+    HPC Challenge benchmark
+ifeffit (2:1.2.11d-8+b1 [sparc], 2:1.2.11d-8 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x]) [contrib]
+    Interactive XAFS analysis program
+ifrit (3.3.4-3)
+    powerful tool for visualizing 3-dimensional data sets
+igv (2.0.30-1) [non-free]
+    Integrative Genomics Viewer
+imagej (1.46a-1)
+    Image processing program inspired by NIH Image for the Macintosh
+imagevis3d (2.0.1-5)
+    desktop volume rendering application for large data
+indigo-utils (1.0.0-2)
+    Organic Chemistry Toolkit Utilities
+infernal (1.0.2-2)
+    inference of RNA secondary structural alignments
+itksnap (2.2.0-1.1)
+    semi-automatic segmentation of structures in 3D images
+jalview (2.7.dfsg-2)
+    multiple alignment editor
+jblas (1.2.0-4)
+    fast linear algebra library for Java
+jellyfish (1.1.5-1)
+    count k-mers in DNA sequences
+jemboss (6.4.0-2)
+    graphical user interface to EMBOSS
+jmol (12.2.32+dfsg2-1)
+    Molecular Viewer
+kalign (1:2.03+20110620-2)
+    Global and progressive multiple sequence alignment
+kalzium (4:4.8.4-1)
+    periodic table and chemistry tools
+kalzium-data (4:4.8.4-1)
+    data files for Kalzium
+klustakwik (2.0.1-1)
+    automatic sorting of the samples (spikes) into clusters
+kst (2.0.3-1.3)
+    scientific data plotting tool
+kst-data (2.0.3-1.3)
+    set of data files for kst
+kstars (4:4.8.4-1)
+    desktop planetarium for KDE
+kstars-data (4:4.8.4-1)
+    data files for KStars desktop planetarium
+kstars-data-extra-tycho2 (1.1r1-9) [non-free]
+    Tycho-2 star catalog for KStars
+kxterm (20061220+dfsg3-2)
+    CERNLIB data analysis suite - KUIP terminal emulator
+lammps (0~20120615.gite442279-1)
+    Molecular Dynamics Simulator.
+last-align (199-1)
+    genome-scale comparison of biological sequences
+lbt (1.2.2-5)
+    converts from LTL formulas to Büchi automata
+lhapdf-pdfsets-minimal (5.8.7+repack-1)
+    Minimal PDF Sets of LHAPDF
+libball1.4-data (1.4.1+20111206-4)
+    Biochemical Algorithms Library
+libclassad3 (7.8.2~dfsg.1-1+deb7u3) [security]
+    Condor classads expression language - runtime library
+libgeotiff-epsg (1.3.0-1) [non-free]
+    the GeoTIFF library -- EPSG Geodetic Parameter Dataset
+libghemical-data (3.0.0-2)
+    Molecular Modelling Library (data files)
+liblas-bin (1.2.1-5+b1)
+    ASPRS LiDAR data translation toolset
+liblinear-tools (1.8+dfsg-1)
+    Standalone applications for LIBLINEAR
+libocas-tools (0.93-1)
+    Standalone applications implementing the OCAS solver
+libsilo-bin (4.8-13)
+    Utilities to manipulate libsilo files
+libxy-bin (0.8-1+b1)
+    xylib - utilities
+liggghts (1.5.3-1)
+    Open Source DEM Particle Simulation Software.
+logcentral (2.7-1)
+    Logging service for distributed applications
+logcentral-tools (2.7-1)
+    Logging service for distributed applications
+loki (2.4.7.4-4)
+    MCMC linkage analysis on general pedigrees
+looptools (2.7-1)
+    Integral Evaluator of One-loop Feynman Diagram
+lutefisk (1.0.5a.cleaned-1)
+    de novo interpretation of peptide CID spectra
+mafft (6.864-1)
+    Multiple alignment program for amino acid or nucleotide sequences
+maq (0.7.1-5)
+    maps short fixed-length polymorphic DNA sequence reads to reference sequences
+maqview (0.2.5-4)
+    graphical read alignment viewer for short gene sequences
+massxpert (3.2.3-1)
+    linear polymer mass spectrometry software
+massxpert-data (3.2.3-1)
+    linear polymer mass spectrometry software - arch-indep data
+matlab-gdf (0.1.2-2) [contrib]
+    IO library for the GDF -- Matlab interface
+maude (2.6-2)
+    high-performance logical framework
+mayavi2 (4.1.0-1)
+    scientific visualization package for 2-D and 3-D data
+mbt (3.2.8-1)
+    memory-based tagger-generator and tagger
+mbtserver (0.5-2)
+    Server extensions for the MBT tagger
+meep (1.1.1-8+deb7u1)
+    software package for FDTD simulation
+meep-lam4 (1.1.1-10~deb7u1)
+    software package for FDTD simulation, parallel (OpenMPI) version
+meep-mpi-default (1.1.1-10~deb7u1)
+    software package for FDTD simulation, parallel (OpenMPI) version
+meep-mpich2 (1.1.1-10~deb7u1)
+    software package for FDTD simulation, parallel (OpenMPI) version
+meep-openmpi (1.1.1-9~deb7u2)
+    software package for FDTD simulation, parallel (OpenMPI) version
+melting (4.3c-2)
+    compute the melting temperature of nucleic acid duplex
+melting-gui (4.3c-2)
+    graphical interface to compute the melting temperature of nucleic acid duplex
+merkaartor (0.18.1-3)
+    map editor for OpenStreetMap.org
+mgltools-bhtree (1.5.6~rc3~cvs.20120206-1) [non-free]
+    Bhtree library extension module
+mgltools-cadd (1.5.6~rc3~cvs.20120206-1) [non-free]
+    Computer Aided Drug Discovery (CADD) Pipeline
+mgltools-dejavu (1.5.6~rc3~cvs.20120206-1) [non-free]
+    visualization of 3D geometry using the OpenGL with Python
+mgltools-geomutils (1.5.6~rc3~cvs.20120601-1) [non-free]
+    Python library for geometric analyses
+mgltools-mglutil (1.5.6~rc3~cvs.20120206-1) [non-free]
+    Molecular Graphics Laboratory utility collection
+mgltools-molkit (1.5.6~rc3~cvs.20120206-1) [non-free]
+    Python classes to read and manipulate molecules
+mgltools-networkeditor (1.5.6~rc3~cvs.20120206-1) [non-free]
+    Python GUI library for the editing of networks
+mgltools-opengltk (1.5.6~rc3~cvs.20120601-2) [non-free]
+    Opengltk Python extension
+mgltools-pmv (1.5.6~rc3~cvs.20120206-1) [non-free]
+    Python-based Molecular Viewer
+mgltools-pmv-test (1.5.6~rc3~cvs.20120206-1) [non-free]
+    Python-based Molecular Viewer (functionality tests)
+mgltools-pyautodock (1.5.6~rc3~cvs.20120206-1) [non-free]
+    Python implementation of autodock
+mgltools-pybabel (1.5.6~rc3~cvs.20120206-1) [non-free]
+    molecular structure file access and interpretation
+mgltools-pyglf (1.5.6~rc3~cvs.20120601-1) [non-free]
+    GLF library Python extension to write text in OpenGL
+mgltools-scenario2 (1.5.6~rc3~cvs.20120206-1) [non-free]
+    Python-based viewer of molecular structures
+mgltools-sff (1.5.6~rc3~cvs.20120206-1) [non-free]
+    Simple Force Field for Python
+mgltools-support (1.5.6~rc3~cvs.20120206-1) [non-free]
+    Update mechanism of MGLTools
+mgltools-symserv (1.5.6~rc3~cvs.20120206-1) [non-free]
+    Symetry server
+mgltools-utpackages (1.5.6~rc3~cvs.20120601-1) [non-free]
+    UT Austin software Python extensions
+mgltools-viewerframework (1.5.6~rc3~cvs.20120206-2) [non-free]
+    ViewerFramework supports building visualization applications
+mgltools-vision (1.5.6~rc3~cvs.20120601-1) [non-free]
+    Python-based Visual Programming Environment
+mgltools-visionlibraries (1.5.6~rc3~cvs.20120601-1) [non-free]
+    Extensions for Python-based Visual Programming Environment
+mgltools-volume (1.5.6~rc3~cvs.20120206-1) [non-free]
+    Volume rendering Python package
+mgltools-webservices (1.5.6~rc3~cvs.20120206-1) [non-free]
+    webservices for components of autodocktools
+minc-tools (2.1.10-1+b1)
+    MNI medical image format tools
+minisat (1:2.2.1-3)
+    Fast and lightweight SAT solver
+minisat+ (1.0-2)
+    solver for pseudo-Boolean constraints
+minisat2 (1:2.2.1-3)
+    Transitional package for minisat
+minisat2
+    virtual package provided by minisat
+mipe (1.1-4)
+    Tools to store PCR-derived data
+mira-assembler (3.4.0.1-3)
+    Whole Genome Shotgun and EST Sequence Assembler
+mira-examples (3.4.0.1-3)
+    files to experiment with the mira assembler
+mitools (1.8.5-2)
+    view, convert and perform basic maths with medical image datasets
+mlv-smile (1.47-3)
+    Find statistically significant patterns in sequences
+mmass (5.1.0-2)
+    Mass spectrometry tool for proteomics
+mmass-modules (5.1.0-2)
+    Mass spectrometry tool for proteomics - extension modules
+mobyle (1.0.6~dfsg-1)
+    Web portal that provides web forms for command-line software
+mobyle-programs (4.0-1)
+    Program descriptions for the mobyle portal
+mobyle-utils (1.0.6~dfsg-1)
+    binary tools used by Mobyle
+mona (1.4-13-3)
+    theorem prover based on automata
+montecarlo-base (20061220+dfsg3-2)
+    [Physics] Common files for CERNLIB Monte Carlo libraries
+montecarlo-data (20061220+dfsg3-2)
+    [Physics] data for CERNLIB Monte Carlo libraries
+mopac7-bin (1.15-5)
+    Semi-empirical Quantum Chemistry Library (binaries)
+morse-simulator (0.5.2-1)
+    Multi-OpenRobot Simulation Engine
+morse-simulator-data (0.5.2-1)
+    Multi-OpenRobot Simulation Engine
+mothur (1.24.1-1)
+    sequence analysis suite for research on microbiota
+mozilla-biofox (1.6-1)
+    extension of bioinformatics tools to Iceape and Iceweasel browsers
+mpb (1.4.2-18)
+    MIT Photonic-Bands
+mpb-mpi (1.4.2-18)
+    MIT Photonic-Bands, parallel (mpich) version
+mpqc (2.3.1-14)
+    Massively Parallel Quantum Chemistry Program
+mpqc-openmpi (2.3.1-14)
+    Massively Parallel Quantum Chemistry Program (OpenMPI transitional package)
+mpqc-support (2.3.1-14)
+    Massively Parallel Quantum Chemistry Program (support tools)
+mrbayes (3.2.1+dfsg-1)
+    Bayesian Inference of Phylogeny
+mrbayes-mpi (3.2.1+dfsg-1)
+    Bayesian Inference of Phylogeny - mpi version
+mriconvert (2.0.235-1)
+    medical image file conversion utility
+mricron (0.20120505.1~dfsg.1-1)
+    magnetic resonance image conversion, viewing and analysis
+mricron-data (0.20120505.1~dfsg.1-1)
+    data files for MRIcron
+mrtrix (0.2.10-2)
+    diffusion-weighted MRI white matter tractography
+mssstest (3.0-3) [non-free]
+    Normalisation of disease scores for patients with Multiple Sclerosis
+mummer (3.23~dfsg-2)
+    Efficient sequence alignment of full genomes
+muscle (1:3.8.31-1)
+    Multiple alignment program of protein sequences
+music-bin (1.0.7-1.2)
+    Multi-Simulation Coordinator for MPI -- Utilities
+mustang (3.2.1-3)
+    multiple structural alignment of proteins
+mustang-testdata (3.2.1-3)
+    multiple structural alignment of proteins, test data
+ncbi-blast+ (2.2.26-3)
+    next generation suite of BLAST sequence search tools
+ncbi-blast+-legacy (2.2.26-3)
+    NCBI Blast legacy call script
+ncbi-epcr (2.3.12-1-1)
+    Tool to test a DNA sequence for the presence of sequence tagged sites
+ncbi-rrna-data (6.1.20120620-2)
+    large rRNA BLAST databases distributed with the NCBI toolkit
+ncbi-tools-bin (6.1.20120620-2)
+    NCBI libraries for biology applications (text-based utilities)
+ncbi-tools-x11 (6.1.20120620-2)
+    NCBI libraries for biology applications (X-based utilities)
+nco (4.0.9-1+b1)
+    command-line operators to analyze netCDF files
+ncoils (2002-3)
+    coiled coil secondary structure prediction
+ncview (1.93g-1+b3 [armel, i386, ia64], 1.93g-1+b2 [amd64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.93g-1+b1 [armhf, s390x])
+    A X11 visual browser for NetCDF format files
+necpp (1.5.0+cvs20101003-2.1)
+    NEC2 Evolution Antenna Modelling System
+neobio (0.0.20030929-1)
+    pairwise sequence alignments
+netcdf-bin (1:4.1.3-6+b1 [amd64, i386, kfreebsd-amd64, kfreebsd-i386], 1:4.1.3-6 [armel, armhf, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    Programs for reading and writing NetCDF files
+nexus-tools (4.2.1-svn1614-1+b2 [amd64, armel, armhf, i386, ia64, mipsel, powerpc, s390, sparc], 4.2.1-svn1614-1+b1 [s390x])
+    NeXus scientific data file format - applications
+njplot (2.4-1)
+    phylogenetic tree drawing program
+numdiff (5.6.0-1)
+    Compare similar files with numeric fields.
+nwchem (6.1-6)
+    High-performance computational chemistry software
+nwchem-data (6.1-6)
+    High-performance computational chemistry software (data files)
+oar-admin (2.5.2-3)
+    OAR batch scheduler administration tools package
+oar-api (2.5.2-3)
+    transitional dummy package
+oar-common (2.5.2-3)
+    OAR batch scheduler common package
+oar-node (2.5.2-3)
+    OAR batch scheduler node package
+oar-restful-api (2.5.2-3)
+    OAR RESTful API
+oar-server (2.5.2-3)
+    OAR batch scheduler server package
+oar-server-mysql (2.5.2-3)
+    OAR batch scheduler MySQL server backend package
+oar-server-pgsql (2.5.2-3)
+    OAR batch scheduler PostgreSQL server backend package
+oar-user (2.5.2-3)
+    OAR batch scheduler user package
+oar-user-mysql (2.5.2-3)
+    OAR batch scheduler MySQL user backend package
+oar-user-pgsql (2.5.2-3)
+    OAR batch scheduler PostgreSQL user backend package
+oar-web-status (2.5.2-3)
+    OAR batch scheduler visualization tool package
+oasis3 (3.3.beta.dfsg.1-8+b1)
+    Coupler for exchanging fields between components of Earth system models
+oasis3-examples (3.3.beta.dfsg.1-8+b1)
+    Example models for the OASIS climate model coupler
+obdgpslogger (0.16-1.2)
+    suite of tools to log OBDII and GPS data
+objcryst-fox (1.9.6.0-2)
+    Free Objects for Xtallography
+oce-draw (0.9.1-3)
+    OpenCASCADE Community Edition CAE platform shared library
+octave-biosig (1.3.0-2)
+    Octave bindings for BioSig library
+octave-gdf (0.1.2-2)
+    IO library for the GDF -- Octave interface
+octave-lhapdf (5.8.7+repack-1)
+    Octave Bindings for LHAPDF
+octave-psychtoolbox-3 (3.0.9+svn2579.dfsg1-1)
+    toolbox for vision research -- Octave bindings
+odin (1.8.5-2)
+    develop, simulate and run magnetic resonance sequences
+ogdi-bin (3.2.0~beta2-7)
+    Open Geographic Datastore Interface Library -- utilities
+openbabel (2.3.1+dfsg-4)
+    Chemical toolbox utilities (cli)
+openbabel-gui (2.3.1+dfsg-4)
+    Chemical toolbox utilities (graphical user interface)
+openmeeg-tools (2.0.0.dfsg-5)
+    openmeeg library -- command line tools
+openmx (3.5-1)
+    Package for nano-scale material simulations
+openrocket (12.03-1)
+    Model Rocket Simulator
+openturns-examples (1.0-4)
+    examples of OpenTURNS functionalities
+openturns-validation (1.0-4)
+    validation files for OpenTURNS
+openuniverse (1.0beta3.1+dfsg-3)
+    3D Universe Simulator
+openuniverse-common (1.0beta3.1+dfsg-3)
+    3D Universe Simulator data files
+openwalnut-modules (1.2.5-1.1+b1 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x], 1.2.5-1.1 [sparc])
+    Multi-modal medical and brain data visualization tool.
+openwalnut-qt4 (1.2.5-1.1+b1 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x], 1.2.5-1.1 [sparc])
+    Multi-modal medical and brain data visualization tool.
+opj2dat (20080225-2.1)
+    OriginLab Origin project files to data files converter
+optgeo (2.11-3)
+    simulator for geometrical optics
+opticalraytracer (3.2-1.1)
+    Virtual lens design workshop
+origami (0.7.4-1)
+    command-line management tool for Folding @ Home clients
+ossim-core (1.7.21-4)
+    The OSSIM core utilities
+otf-trace (1.10.2+dfsg-2)
+    Open Trace Format support library - development files
+ovito (0.9.5-2)
+    visualization and analysis tool for atomistic simulation data
+paje.app (1.98-1+b1 [amd64, i386, kfreebsd-amd64, kfreebsd-i386], 1.98-1 [armel, armhf, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    generic visualization tool (Gantt chart and more)
+paml (4.5-1) [non-free]
+    Phylogenetic Analysis by Maximum Likelihood (PAML)
+paraview (3.14.1-6)
+    Parallel Visualization Application
+paw (1:2.14.04.dfsg.2-8)
+    Physics Analysis Workstation - a graphical analysis program
+paw++ (1:2.14.04.dfsg.2-8)
+    Physics Analysis Workstation (Lesstif-enhanced version)
+paw-common (1:2.14.04.dfsg.2-8)
+    Physics Analysis Workstation (common files)
+paw-demos (1:2.14.04.dfsg.2-8)
+    Physics Analysis Workstation examples and tests
+pdb2pqr (1.8-1)
+    Preparation of protein structures for electrostatics calculations
+pegasus-wms (4.0.1+dfsg-8)
+    Scientific workflow management system for Condor
+perlprimer (1.1.21-1)
+    Graphical design of primers for PCR
+phy-spread (1.0.3-1) [non-free]
+    analyze and visualize phylogeographic reconstructions
+phylip (1:3.69-1) [non-free]
+    package of programs for inferring phylogenies
+phyml (2:20110919-1)
+    Phylogenetic estimation using Maximum Likelihood
+picard-tools (1.46-1)
+    Command line tools to manipulate SAM and BAM files
+picosat (936-4)
+    SAT solver with proof and core support
+planets (0.1.13-13)
+    Gravitation simulation of planetary bodies
+plastimatch (1.5.11+dfsg0-1)
+    medical image reconstruction and registration
+plink (1.07-3)
+    whole-genome association analysis toolset
+poa (2.0+20060928-3)
+    Partial Order Alignment for multiple sequence alignment
+populations (1.2.33+svn0120106-2.1)
+    population genetic software
+pp-popularity-contest (1.0.5-1)
+    PredictProtein popularity contest
+praat (5.3.16-1)
+    program for speech analysis and synthesis
+primer3 (2.2.3-1)
+    Tool to design flanking oligo nucleotides for DNA amplification
+probalign (1.4-2)
+    multiple sequence alignment using partition function posterior probabilities
+probcons (1.12-9)
+    PROBabilistic CONSistency-based multiple sequence alignment
+probcons-extra (1.12-9)
+    Extra programs from the probcons package
+proda (1.0-8)
+    multiple alignment of protein sequences
+profnet-bval (1.0.21-1+wheezy1)
+    neural network architecture for profbval
+profnet-chop (1.0.21-1+wheezy1)
+    neural network architecture for profchop
+profnet-con (1.0.21-1+wheezy1)
+    neural network architecture for profcon
+profnet-isis (1.0.21-1+wheezy1)
+    neural network architecture for profisis
+profnet-md (1.0.21-1+wheezy1)
+    neural network architecture for metadisorder
+profnet-norsnet (1.0.21-1+wheezy1)
+    neural network architecture for norsnet
+profnet-prof (1.0.21-1+wheezy1)
+    neural network architecture for profacc
+profnet-snapfun (1.0.21-1+wheezy1)
+    neural network architecture for snapfun
+profphd (1.0.39-1)
+    secondary structure and solvent accessibility predictor
+profphd-net (1.0.21-1+wheezy1)
+    neural network architecture for profphd
+profphd-utils (1.0.9-1)
+    profphd helper utilities convert_seq and filter_hssp
+proftmb (1.1.10-1)
+    per-residue prediction of bacterial transmembrane beta barrels
+proj-bin (4.7.0-2)
+    Cartographic projection library (tools)
+psi3 (3.4.0-4)
+    Quantum Chemical Program Suite
+psychopy (1.73.06.dfsg-1)
+    environment for creating psychology stimuli in Python
+psychtoolbox-3-common (3.0.9+svn2579.dfsg1-1)
+    toolbox for vision research -- arch/interpreter independent part
+psychtoolbox-3-lib (3.0.9+svn2579.dfsg1-1)
+    toolbox for vision research -- arch-specific parts
+pyfai (0.3.5-1)
+    python library for Fast Azimuthal Integration
+pyformex (0.8.6-4)
+    program to create 3D geometry from Python scripts.
+pyformex-lib (0.8.6-4)
+    program to create 3D geometry from Python scripts.
+pymca (4.6.0-2)
+    Python applications and toolkit for X-ray fluorescence analysis
+pymca-data (4.6.0-2)
+    Architecture independent data files for PyMca
+pymol (1.5.0.1-2)
+    Molecular Graphics System
+pythia8-data (8.1.65-1)
+    PYTHIA8 data files
+qfits-tools (6.2.0-5)
+    FITS manipulation tools
+qgis (1.7.4+1.7.5~20120320-1.1+b1)
+    Geographic Information System (GIS)
+qgis-api-doc (1.7.4+1.7.5~20120320-1.1)
+    Quantum GIS API documentation
+qgis-common (1.7.4+1.7.5~20120320-1.1)
+    Quantum GIS - architecture-independent data
+qgis-mapserver (1.7.4+1.7.5~20120320-1.1+b1)
+    Quantum GIS mapserver
+qgis-plugin-grass (1.7.4+1.7.5~20120320-1.1+b1)
+    GRASS plugin for Quantum GIS
+qgis-plugin-grass-common (1.7.4+1.7.5~20120320-1.1)
+    GRASS plugin for Quantum GIS - architecture-independent data
+qgis-providers (1.7.4+1.7.5~20120320-1.1+b1)
+    collection of data providers to Quantum GIS
+qgis-providers-common (1.7.4+1.7.5~20120320-1.1)
+    collection of data providers to Quantum GIS - architecture-independent files
+qgis-sqlanywhere1.7.5 (1.7.4+1.7.5~20120320-1.1+b1)
+    Quantum GIS sql anywhere plugin and provider
+qiime (1.4.0-2)
+    Quantitative Insights Into Microbial Ecology
+qmc (0.94-3+b1 [i386, ia64, mips, mipsel, powerpc, s390, sparc], 0.94-3 [amd64, armel, armhf, kfreebsd-amd64, kfreebsd-i386, s390x])
+    Quine McClusky Simplification Tool
+qthid-fcd-controller (3.1-5)
+    Funcube Dongle controller
+quantum-espresso (5.0-1)
+    Electronic-Structure and Ab-Initio Molecular Dynamics Suite
+quantum-espresso-data (5.0-1)
+    Electronic-Structure and Ab-Initio Molecular Dynamics Suite (Documentation)
+qutemol (0.4.1~cvs20081111-2+b2 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, powerpc, s390, s390x, sparc], 0.4.1~cvs20081111-2+b1 [mipsel])
+    interactive visualization of macromolecules
+raccoon (1.0-1) [contrib]
+    preparation of in silico drug screening projects
+rasmol (2.7.5.2-1)
+    Visualize biological macromolecules
+raster3d (3.0-2-4)
+    tools for generating images of proteins or other molecules
+raxml (7.2.8-2)
+    Randomized Axelerated Maximum Likelihood of phylogenetic trees
+rdkit-data (201203-3)
+    Collection of cheminformatics and machine-learning software (data files)
+readseq (1-9)
+    Conversion between sequence formats
+reprof (1.0.1-1)
+    protein secondary structure and accessibility predictor
+rivet (1.8.0-1)
+    Robust Independent Validation of Experiment and Theory
+rivet-plugins (1.8.0-1)
+    Analysis plugins of Rivet
+rivet-plugins-data (1.8.0-1)
+    Data files of Rivet analysis plugins
+rivet-plugins-dev (1.8.0-1)
+    Template generator of Rivet analysis plugin
+rivet-root-converter (1.8.0-1)
+    Rivet and ROOT file format converter
+rnahybrid (2.1.1-1)
+    Fast and effective prediction of microRNA/target duplexes
+robot-player (3.0.2+dfsg-4+b1)
+    Networked server for robots and sensors
+robot-player-dev (3.0.2+dfsg-4)
+    Networked server for robots and sensors - development package
+root-plugin-geom-gdml (5.34.00-2)
+    GDML import/export module for ROOT geometries
+root-plugin-geom-geombuilder (5.34.00-2)
+    Geometry builder plugin for ROOT
+root-plugin-geom-geompainter (5.34.00-2)
+    Geometry painter plugin for ROOT
+root-plugin-graf2d-asimage (5.34.00-2)
+    AfterImage plugin for ROOT
+root-plugin-graf2d-qt (5.34.00-2)
+    Graf2d Qt plugin for ROOT
+root-plugin-graf2d-x11 (5.34.00-2)
+    X window system plugin for ROOT
+root-plugin-graf3d-x3d (5.34.00-2)
+    X 3D plugin for ROOT
+root-plugin-gui-fitpanel (5.34.00-2)
+    GUI element for fits plugin for ROOT
+root-plugin-gui-guibuilder (5.34.00-2)
+    GUI editor plug-in for ROOT
+root-plugin-gui-qt (5.34.00-2)
+    Qt plugin for ROOT
+root-plugin-gui-sessionviewer (5.34.00-2)
+    GUI to browse an interactive PROOF session
+root-plugin-hist-hbook (5.34.00-2)
+    Hbook plugin for ROOT
+root-plugin-hist-histpainter (5.34.00-2)
+    Histogram painter plugin for ROOT
+root-plugin-hist-spectrumpainter (5.34.00-2)
+    Spectrum painter plugin for ROOT
+root-plugin-io-sql (5.34.00-2)
+    SQL plugin for ROOT
+root-plugin-io-xml (5.34.00-2)
+    XML reader plugin for ROOT
+root-plugin-math-fftw3 (5.34.00-2)
+    FFTw plugin for ROOT
+root-plugin-math-fumili (5.34.00-2)
+    Fumili plugin for ROOT
+root-plugin-math-minuit2 (5.34.00-2)
+    Minuit version 2 plugin for ROOT
+root-plugin-montecarlo-pythia8 (5.34.00-2)
+    Pythia version 8 plugin for ROOT
+root-plugin-net-globus (5.34.00-2)
+    Globus plugin for ROOT
+root-plugin-net-krb5 (5.34.00-2)
+    Kerberos (version 5) plugin for ROOT
+root-plugin-proof-peac (5.34.00-2)
+    PEAC plugin for ROOT - run-time libraries
+root-plugin-sql-mysql (5.34.00-2)
+    MySQL client plugin for ROOT
+root-plugin-sql-odbc (5.34.00-2)
+    ODBC plugin for ROOT
+root-plugin-sql-pgsql (5.34.00-2)
+    PostgreSQL client plugin for ROOT
+root-plugin-tree-treeviewer (5.34.00-2)
+    GUI to browse a ROOT tree
+root-system (5.34.00-2)
+    metapackage to install all ROOT packages
+root-system-bin (5.34.00-2)
+    Numerical data analysis framework - general applications
+root-system-common (5.34.00-2)
+    Common files for ROOT
+root-system-proofd (5.34.00-2)
+    Parallel ROOt Facility - distributed, parallel computing
+root-system-rootd (5.34.00-2)
+    ROOT remote file server
+saint (2.3.3-1)
+    Significance Analysis of INTeractome
+samtools (0.1.18-1)
+    processing sequence alignments in SAM and BAM formats
+saods9 (7.0.1+dfsg-1)
+    Image display tool for astronomy
+saods9-blt (7.0.1+dfsg-1)
+    BLT subpackage for saods9
+saods9-data (7.0.1+dfsg-1)
+    Image display tool for astronomy (shared data)
+sat4j (2.3.1-1)
+    Efficient library of SAT solvers in Java
+savi (1.4.5-4)
+    satellite constellation visualisation
+science-astronomy (1.0)
+    Debian Science Astronomy packages
+science-astronomy-dev (1.0)
+    Debian Science Astronomy-dev packages
+science-biology (1.0)
+    Debian Science Biology packages
+science-chemistry (1.0)
+    Debian Science Chemistry packages
+science-config (1.0)
+    Debian Science Project config package
+science-dataacquisition (1.0)
+    Debian Science data acquisition packages
+science-dataacquisition-dev (1.0)
+    Debian Science data acquisition development packages
+science-distributedcomputing (1.0)
+    Debian Science Distributed Computing packages
+science-electronics (1.0)
+    Debian Science Electronics packages
+science-electrophysiology (1.0)
+    Debian Science packages for Electrophysiology
+science-engineering (1.0)
+    Debian Science Engineering packages
+science-engineering-dev (1.0)
+    Debian Science Engineering-dev packages
+science-geography (1.0)
+    Debian Science Geography packages
+science-highenergy-physics (1.0)
+    Debian Science High Energy Physics packages
+science-highenergy-physics-dev (1.0)
+    Debian Science High Energy Physics development packages
+science-imageanalysis (1.0)
+    Debian Science image analysis packages
+science-linguistics (1.0)
+    Debian Science Linguistics packages
+science-machine-learning (1.0)
+    Debian Science Machine Learning packages
+science-mathematics (1.0)
+    Debian Science Mathematics packages
+science-mathematics-dev (1.0)
+    Debian Science Mathematics-dev packages
+science-meteorology (1.0)
+    Debian Science Meteorology packages
+science-meteorology-dev (1.0)
+    Debian Science Meteorology-dev packages
+science-nanoscale-physics (1.0)
+    Debian Science Nanoscale Physics packages
+science-nanoscale-physics-dev (1.0)
+    Debian Science Nanoscale Physics development packages
+science-neuroscience-cognitive (1.0)
+    Debian Science packages for Cognitive Neuroscience
+science-neuroscience-modeling (1.0)
+    Debian Science packages for modeling of neural systems
+science-numericalcomputation (1.0)
+    Debian Science Numerical Computation packages
+science-physics (1.0)
+    Debian Science Physics packages
+science-physics-dev (1.0)
+    Debian Science Physics-dev packages
+science-psychophysics (1.0)
+    Debian Science packages for Psychophysics
+science-robotics (1.0)
+    Debian Robotics packages
+science-simulations (1.0)
+    Debian Science Simulation packages
+science-statistics (1.0)
+    Debian Science Statistics packages
+science-tasks (1.0)
+    Debian Science tasks for tasksel
+science-typesetting (1.0)
+    Debian Science typesetting packages
+science-viewing (1.0)
+    Debian Science data visualisation packages
+seaview (1:4.3.3-3) [non-free]
+    Multiplatform interface for sequence alignment and phylogeny
+seesat5 (0.90.10-1.1)
+    a satellite location program
+seq-gen (1.3.3-1) [non-free]
+    simulate the evolution of nucleotide or amino acid sequences
+seqan-apps (1.3.1-1)
+    C++ library for the analysis of biological sequences
+sextractor (2.8.6+dfsg-1)
+    Source extractor for astronomical images
+shelxle (1.0.564-1)
+    graphical user interface for SHELXL
+sibsim4 (0.20-1)
+    align expressed RNA sequences on a DNA template
+sift (4.0.3b-3) [non-free]
+    predicts if a substitution in a protein has a phenotypic effect
+sigma-align (1.1.3-3)
+    Simple greedy multiple alignment of non-coding DNA sequences
+sigviewer (0.5.1+svn556-1+b2 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x], 0.5.1+svn556-1 [sparc])
+    GUI viewer for biosignals such as EEG, EMG, and ECG
+sim4 (0.0.20030921-3)
+    tool for aligning cDNA and genomic DNA
+simgrid (3.7.1-1)
+    Toolkit for scalable simulation of distributed applications
+sixpack (1:0.68-1) [contrib]
+    full-featured package for XAS analysis
+slang-xfig (0.2.0~.35-1.1)
+    produce plots and drawings through Xfig's fig2dev in S-Lang
+spass (3.7-3)
+    An automated theorem prover for first-order logic with equality
+spatialite-bin (3.0.0~beta20110817-3+deb7u1)
+    Geospatial extension for SQLite - tools
+spd (1.3.0-1)
+    Synchrotron image corrections and azimuthal integration
+squizz (0.99a-2)
+    Converter for genetic sequences and alignments
+sra-toolkit (2.1.7a-1)
+    utilities for the NCBI Sequence Read Archive
+sra-toolkit-libs-dev (2.1.7a-1)
+    Development files for the NCBI SRA Toolkit's libraries
+sra-toolkit-libs0 (2.1.7a-1)
+    Libraries for the SRA Toolkit
+ssake (3.8-2)
+    genomics application for assembling millions of very short DNA sequences
+ssake-examples (3.8-2)
+    example data for SSAKE, a genomic assembler of short reads
+staden-io-lib-utils (1.12.4-1)
+    programs for maniuplating DNA sequencing files
+stardata-common (0.8)
+    Common framework to manage astronomy packages
+starplot (0.95.5-4)
+    3-dimensional perspective star map viewer
+starpu-contrib-examples (1.0.1+dfsg-1) [contrib]
+    Task scheduler for heterogeneous multicore machines - exs
+starpu-examples (1.0.1+dfsg-1)
+    Task scheduler for heterogeneous multicore machines - exs
+starpu-examples
+    virtual package provided by starpu-contrib-examples
+stellarium (0.11.3-1+deb7u1+b1 [amd64], 0.11.3-1+deb7u1 [armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    real-time photo-realistic sky generator
+stellarium-data (0.11.3-1+deb7u1)
+    Stellarium data files
+step (4:4.8.4-1)
+    interactive physical simulator for KDE
+stimfit (0.10.18-1.1+b1)
+    A program for viewing and analyzing electrophysiological data
+sumo (0.15.0~dfsg-2)
+    Simulation of Urban MObility (SUMO)
+survex (1.2.6-4)
+    cave surveying and mapping software
+survex-aven (1.2.6-4)
+    sophisticated cave survey viewer for Survex
+survex-svxedit (1.2.6-4)
+    survey data editor for Survex
+swe-basic-data (1.77.00.0005-2)
+    basic data files for the libswe package
+swe-standard-data (00004-1)
+    standard data for the Swiss Ephemeris
+syrthes (3.4.3-dfsg1-6)
+    Transient thermal simulations in complex solid geometries
+t-coffee (9.02.r1228-2)
+    Multiple Sequence Alignment
+t-coffee-examples (9.02.r1228-2)
+    annotated examples for the use of T-Coffee
+tabix (0.2.6-1)
+    generic indexer for TAB-delimited genome position files
+tcd-utils (20061127-2)
+    convert Tide Constituent Database (TCD) files
+terraintool (1.12a-1)
+    Generates survex format terrain models from SRTM and ASTER data
+tessa (0.3.1-6+b1 [amd64, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.3.1-6 [armel])
+    simulation of 3D optical systems with the FDTD method
+tessa-mpi (0.3.1-6+b1 [amd64, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.3.1-6 [armel])
+    simulation of 3D optical systems using FDTD on MPI clusters
+thepeg (1.8.0-1)
+    Toolkit for High Energy Physics Event Generation
+thepeg-gui (1.8.0-1)
+    Java GUI of ThePEG
+thepeg-reference (1.8.0-1)
+    Code reference of ThePEG
+therion (5.3.9-4)
+    Cave surveying - 2D and 3D drawing software
+therion-viewer (5.3.9-4)
+    Cave surveying - 3D viewer for therion models
+theseus (1.6.2-2)
+    superimpose macromolecules using maximum likelihood
+tigr-glimmer (3.02-2)
+    Gene detection in archea and bacteria
+timbl (6.4.2-1)
+    Tilburg Memory Based Learner
+timblserver (1.4-2)
+    Server extensions for Timbl
+tm-align (20120507-1)
+    structual alignment of proteins
+transcalc (0.14-5)
+    microwave and RF transmission line calculator
+transtermhp (2.09-1)
+    find rho-independent transcription terminators in bacterial genomes
+tree-ppuzzle (5.2-7)
+    Parallelized reconstruction of phylogenetic trees by maximum likelihood
+tree-puzzle (5.2-7)
+    Reconstruction of phylogenetic trees by maximum likelihood
+treeviewx (0.5.1+20100823-1)
+    Displays and prints phylogenetic trees
+triangle-bin (1.6-2) [non-free]
+    High-quality 2-D mesh generator binary programs
+tunnelx (20110801-2.1)
+    Cave Survey drawing software
+twms (0.03e-2)
+    tiny web map service
+ucto (0.5.2-2)
+    Unicode Tokenizer
+udav (0.7.1.2-3+b1)
+    application for data visualization based on MathGL
+uhd-host (3.4.2-1)
+    universal hardware driver for Ettus Research products
+units-filter (3.5-2)
+    Parser for expressions concerning physical values
+urg-utils (0.8.12-4)
+    utilities for Hokuyo URG/UTM laser range scanners
+v-sim (3.6.0-2+b3 [armel, ia64, kfreebsd-amd64, kfreebsd-i386, powerpc, s390], 3.6.0-2+b2 [amd64, i386, mips, mipsel, sparc], 3.6.0-2+b1 [armhf], 3.6.0-2 [s390x])
+    Visualize atomic structures
+v-sim-common (3.6.0-2)
+    Visualize atomic structures (support files)
+v-sim-plugins (3.6.0-2+b3 [armel, ia64, kfreebsd-amd64, kfreebsd-i386, powerpc, s390], 3.6.0-2+b2 [amd64, i386, mips, mipsel, sparc], 3.6.0-2+b1 [armhf], 3.6.0-2 [s390x])
+    Plugins for V_Sim (a 3D visualization package)
+vcftools (0.1.9-1)
+    designed for working with VCF files
+velvet (1.2.03~nozlibcopy-1)
+    Nucleic acid sequence assembler for very short reads
+velvet-example (1.2.03~nozlibcopy-1)
+    Example data for the Velvet sequence assembler
+veusz (1.15-1)
+    2D scientific plotting application with graphical interface
+veusz-helpers (1.15-1+b1 [amd64], 1.15-1 [armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Architecture-specific helper module for Veusz
+via-bin (2.0.4-2)
+    tools for volumetric image analysis
+viewmol (2.4.1-18)
+    A graphical front end for computational chemistry programs.
+vistrails (2.0.alpha~1-3)
+    Science visualisation workflow toolkit
+vmtk (1.0.1-1) [non-free]
+    the Vascular Modeling Toolkit
+volview (3.4-3)
+    Advanced volume visualization tool
+vowpal-wabbit (6.1-1)
+    fast and scalable online machine learning algorithm
+voxbo (1.8.5~svn1246-1+b1)
+    processing, statistical analysis, and display of brain imaging data
+wcslib-tools (4.13.4-1)
+    Command line tools utilizing wcslib
+wcstools (3.8.5-1)
+    Handle the WCS of a FITS image
+weka (3.6.6-1)
+    Machine learning algorithms for data mining tasks
+wise (2.4.1-10)
+    comparison of biopolymers, commonly DNA and protein sequences
+worldwind (0.5.0-10) [non-free]
+    3D Virtual Globe
+xbs (0-8)
+    3-d models and movies of molecules
+xcrysden (1.5.53-1)
+    Crystalline and Molecular Structure Visualizer
+xcrysden-data (1.5.53-1)
+    Crystalline and Molecular Structure Visualizer (Data Files)
+xdrawchem (2.0-2)
+    Chemical structures and reactions editor
+xflr5 (6.07+svn513-1)
+    analysis tool for airfoils
+xfoil (6.97.dfsg-5)
+    program for the design and analysis of subsonic airfoils
+xmakemol (5.16-6)
+    program for visualizing atomic and molecular systems
+xmakemol-gl (5.16-6)
+    program for visualizing atomic and molecular systems (OpenGL)
+xmds (1.6.6-7)
+    eXtensible Multi-Dimensional Simulator
+xpa-tools (2.1.14-2)
+    Tools for seamless communication between Unix programs
+xplot (1.19-9+b1 [powerpc, s390], 1.19-9 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x, sparc])
+    simple on-screen x-y column data plotter
+xplot-xplot.org (0.90.7.1-2)
+    fast tool to graph and visualize lots of data
+xppaut (6.11b+1.dfsg-1)
+    Phase Plane Plus Auto: Solves many kinds of equations
+xtide (2.11-1)
+    provides tide and current predictions
+xtide-coastline (20020202-1)
+    coastline data for xtide
+xtide-data (20100529-1)
+    Harmonics data for xtide
+xtide-data-nonfree (20100529-1) [non-free]
+    Harmonics data for xtide (Canada, Netherlands, Germany and UK)
+xyscan (3.31-3)
+    data thief for scientists
+yade (0.80.1-2)
+    Platform for discrete element modeling
+yale (5.0.95-2) [non-free]
+    stellar data set from the Yale Bright Star Catalog
+ygraph (0.16~cvs20090218-1.1+b1)
+    plot and animate data sets
+yorick (2.2.02+dfsg-6)
+    interpreted language and scientific graphics
+yorick-av (0.0.1-2)
+    write movies from Yorick in various formats
+yorick-cubeview (1.6-2)
+    3D FITS data viewer specialized in spectro-imaging
+yorick-curses (0.1-6)
+    interface to the (n)curses library for the Yorick language
+yorick-data (2.2.02+dfsg-6)
+    interpreted library for the Yorick language
+yorick-dev (2.2.02+dfsg-6)
+    development files for the Yorick interpreted language
+yorick-full (2.2.02+dfsg-6)
+    full installation of the Yorick interpreter and add-ons
+yorick-gl (1.1+cvs20070922+dfsg-6)
+    OpenGL 3D graphics support for the Yorick language
+yorick-gyoto (0.0.3-5)
+    General relativistic geodesic integration for the Yorick language
+yorick-hdf5 (0.8.0-4)
+    Hierarchical Data Format 5 interface for the Yorick language
+yorick-imutil (0.5.7-3)
+    fast image manipulation routines for the Yorick language
+yorick-mira (0.9.10+dfsg-1)
+    optical interferometry image reconstruction within Yorick
+yorick-ml4 (0.6.0-3)
+    Matlab file format support for the Yorick language
+yorick-mpeg (0.1-2)
+    MPEG output support for the Yorick language
+yorick-mpy-common (2.2.02+dfsg-6)
+    Message Passing Yorick (common files)
+yorick-mpy-mpich2 (2.2.02+dfsg-6)
+    Message Passing Yorick (MPICH2 build)
+yorick-mpy-openmpi (2.2.02+dfsg-6)
+    Message Passing Yorick (OpenMPI build)
+yorick-optimpack (1.3.2+dfsg-1)
+    optimization of large scale problems for the Yorick language
+yorick-soy (1.4.0-3)
+    sparse matrix operations for the Yorick language
+yorick-spydr (0.8.2-3)
+    FITS image display and simple analysis
+yorick-svipc (0.14-2)
+    interprocess communication (shared memory...) for Yorick
+yorick-yao (4.9.1-2)
+    Yorick-based adaptive optics system simulator
+yorick-yeti (6.3.2-3)
+    utility plugin for the Yorick language
+yorick-yeti-fftw (6.3.2-3)
+    FFT plugin for the Yorick language
+yorick-yeti-gsl (6.3.2-3)
+    GSL special functions plugin for the Yorick language
+yorick-yeti-regex (6.3.2-3)
+    POSIX regular expressions for the Yorick language
+yorick-yeti-tiff (6.3.2-3)
+    TIFF image format input for the Yorick language
+yorick-yutils (1.5.2-1)
+    various utilities for the Yorick language
+yorick-z (1.2.0+cvs20080115-5)
+    zlib, jpeg and png support for the Yorick language
+z88 (13.0.0+dfsg2-3)
+    Finite Element Analysis Program - runtime
+z88-data (13.0.0+dfsg2-3)
+    Finite Element Analysis Program - data
+zimpl (3.2.0+dfsg-2)
+    mathematical modeling language for optimization problems 

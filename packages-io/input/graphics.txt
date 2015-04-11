@@ -1,0 +1,1016 @@
+aa3d (1.0-8)
+    ASCII art stereogram generator
+aaphoto (0.41-1.1)
+    Auto Adjust Photo, automatic color correction of photos
+abr2gbr (1:1.0.2-2)
+    Converts PhotoShop brushes to GIMP
+activiz.net-examples (1:1.0~git20111123-6)
+    ActiViz.NET examples
+aes2501-wy (0.1-5)
+    userspace software for usb aes2501 fingerprint scanner
+ale (0.9.0.3-1.1)
+    synthetic capture engine and renderer
+amide (1.0.1-1)
+    software for Medical Imaging
+apng2gif (1.5-1)
+    convert APNG animated images to GIF files
+aqsis (1.8.1-3)
+    3D rendering solution adhering to the RenderMan(R) standard, binaries
+aqsis-examples (1.8.1-3)
+    3D rendering solution adhering to the RenderMan(R) standard, examples
+ardesia (1.0-2)
+    free digital sketchpad software
+argyll (1.4.0-8)
+    Color Management System, calibrator and profiler
+autotrace (0.31.1-16+b1)
+    bitmap to vector graphics converter
+barcode (0.98+debian-9)
+    Utility and library for barcode generation
+blender (2.63a-1+deb7u1)
+    Very fast and versatile 3D modeller/renderer
+blender-ogrexml (1.7.4+dfsg1-7)
+    Blender Exporter for OGRE
+blender-ogrexml-1.8 (1.8.0+dfsg1-3)
+    Blender Exporter for OGRE
+byzanz (0.2.2+git22.10.2011-1.3)
+    Small screencast creator
+cadubi (1.3-2)
+    Creative ASCII Drawing Utility By Ian
+calligraflow (1:2.4.4-3)
+    flowcharting program for the Calligra Suite
+calligraflow-data (1:2.4.4-3)
+    data files for Flow flowcharting program
+cbrpager (0.9.22-1)
+    viewer for CBR, CBZ and CB7 (comic book archive) files
+cdlabelgen (4.1.0-2)
+    generates front cards and tray cards for CDs and DVDs
+charactermanaj (0.98+svn20120311.r42-1)
+    avatar editor application
+colord (0.1.21-1)
+    system service to manage device colour profiles -- system daemon
+colorhug-client (0.1.10-1)
+    Tools for the Hughski Colorimeter
+contextfree (2.2+dfsg1-2.1)
+    image generator based on context-free grammars
+create-resources (0.1.3-4)
+    shared resources for use by creative applications
+ctioga2 (0.2-4)
+    polymorphic plotting program
+cube2font (1.2-2)
+    utility program for creating font bitmaps for Cube Engine games
+cuneiform (1.1.0+dfsg-4) [non-free]
+    multi-language OCR system
+cuneiform-common (1.1.0+dfsg-4) [non-free]
+    multi-language OCR system (common)
+cups-pdf (2.6.1-6)
+    PDF writer backend for CUPS
+darktable (1.0.4-1+deb7u2)
+    virtual lighttable and darkroom for photographers
+dcraw (8.99-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 8.99-1 [armhf, s390x])
+    decode raw digital camera images
+debian-edu-artwork (0.45-1+deb7u1)
+    Debian Edu themes and artwork
+dia (0.97.2-8)
+    Diagram editor
+dia-common (0.97.2-8)
+    Diagram editor (common files)
+dia-libs (0.97.2-8)
+    Diagram editor (library files)
+dia-shapes (0.3.0-1)
+    Diagram editor
+dicom3tools (1.0~20120505-1)
+    DICOM medical image files manipulation and conversion tools
+dicomscope (3.6.0-10)
+    OFFIS DICOM Viewer
+didjvu (0.2.3-2)
+    DjVu encoder with foreground/background separation
+digikam (4:2.6.0-1+deb7u1)
+    digital photo management application for KDE
+digikam-data (4:2.6.0-1+deb7u1)
+    digiKam architecture-independant data
+dime (0.20030921-2)
+    DXF Import, Manipulation, and Export programs
+ditaa (0.9+ds1-3)
+    convert ASCII diagrams into proper bitmap graphics
+djview (3.5.25.3-1)
+    Transition package, djview3 to djview4
+djview3 (3.5.25.3-1)
+    Transition package, djview3 to djview4
+djview4 (4.9-2)
+    Viewer for the DjVu image format
+djvulibre-bin (3.5.25.3-1)
+    Utilities for the DjVu image format
+dot2tex (2.8.7+repack-1)
+    Graphviz to LaTeX converter
+dv4l (1.0-5)
+    Redirect V4L API to access a camcorder from a V4L program
+dvbcut (0.5.4+svn178-2)
+    Qt application for cutting parts out of DVB streams
+edisplay (0.8.5-5+deb7u3)
+    fast image manipulation programs (image viewer)
+enblend (4.0+dfsg-4+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 4.0+dfsg-4+b2 [armhf, s390x])
+    image blending tool
+enfuse (4.0+dfsg-4+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 4.0+dfsg-4+b2 [armhf, s390x])
+    image exposure blending tool
+epstool (3.08+repack-3)
+    edit preview images and fix bounding boxes in EPS files
+epub-utils (0.2.1-2+b1)
+    tools to work with the EPub file format
+evolvotron (0.6.1-1+wheezy1)
+    Generator of textures through interactive evolution
+exactimage (0.8.5-5+deb7u3)
+    fast image manipulation programs
+exif (0.6.20-2)
+    command-line utility to show EXIF information in JPEG files
+exifprobe (2.0.1-1)
+    Read metadata from digital pictures
+exiftags (1.01-5)
+    utility to read Exif tags from a digital camera JPEG file
+exiftran (2.07-10+b1 [amd64], 2.07-10 [armel, armhf, i386, ia64, mips, mipsel, powerpc, s390x, sparc])
+    transform digital camera jpeg images
+exiv2 (0.23-1)
+    EXIF/IPTC metadata manipulation tool
+exrtools (0.4-1.2)
+    A collection of utilities for manipulating OpenEXR images
+fbcat (0.3-1)
+    framebuffer grabber
+fbi (2.07-10+b1 [amd64], 2.07-10 [armel, armhf, i386, ia64, mips, mipsel, powerpc, s390x, sparc])
+    Linux frame buffer image viewer
+feh (2.3-2)
+    imlib2 based image viewer
+ffdiaporama (1.3-1)
+    Movie creator from photos and video clips
+ffdiaporama-data (1.3-1)
+    Data files for ffDiaporama
+ffmpeg (6:0.8.17-1) [security]
+    Multimedia player, server, encoder and transcoder (transitional package)
+fig2sxd (0.20-1)
+    convert XFig files to OpenOffice.org format
+figtoipe (20080517-1)
+    convert FIG files to XML files for ipe
+fim (0.3-beta-prerelease-1.3+b1)
+    a scriptable frame buffer and ascii art image viewer
+findimagedupes (2.18-4+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 2.18-4 [armhf, s390x])
+    Finds visually similar or duplicate images
+flam3 (3.0.1-2.1)
+    render and animate FLAM3s and manipulate their genomes
+flpsed (0.5.2-1+b1 [kfreebsd-i386], 0.5.2-1 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, mips, mipsel, powerpc, s390, s390x, sparc])
+    a WYSIWYG pseudo PostScript editor
+font-manager (0.5.7-4)
+    font management application for the GNOME desktop
+fotoxx (11.11.1-1.1)
+    easy-to-use digital photo editor
+fracplanet (0.4.0-3)
+    Fractal planet generator
+frogr (0.7-2)
+    Flickr Remote Organizer for GNOME
+frogr-data (0.7-2)
+    Flickr Remote Organizer for GNOME - data files
+fswebcam (20110717-1)
+    Tiny and flexible webcam program
+fyre (1.0.1-4)
+    interactively renders Peter de Jong maps (chaotic functions)
+g3dviewer (0.2.99.5~svn130-1)
+    3D model viewer for GTK+
+gallery-uploader (2.4-1)
+    graphical tool to upload pictures and videos to Gallery
+gdmap (0.8.1-2)
+    Tool to visualize diskspace
+geeqie (1:1.0-10.1)
+    image viewer using GTK+
+geeqie-common (1:1.0-10.1)
+    data files for Geeqie
+gem (1:0.93.3-5)
+    Graphics Environment for Multimedia - Pure Data library
+gem-extra (1:0.93.3-5)
+    Graphics Environment for Multimedia - extra objects
+gem-plugin-dc1394 (1:0.93.3-5)
+    Graphics Environment for Multimedia - DC1394 support
+gem-plugin-dv4l (1:0.93.3-5)
+    Graphics Environment for Multimedia - DV support
+gem-plugin-gmerlin (1:0.93.3-5)
+    Graphics Environment for Multimedia - GMERLIN support
+gem-plugin-jpeg (1:0.93.3-5)
+    Graphics Environment for Multimedia - JPEG support
+gem-plugin-lqt (1:0.93.3-5)
+    Graphics Environment for Multimedia - LQT support
+gem-plugin-magick (1:0.93.3-5)
+    Graphics Environment for Multimedia - ImageMagick support
+gem-plugin-mpeg3 (1:0.93.3-5)
+    Graphics Environment for Multimedia - MPEG support
+gem-plugin-sgi (1:0.93.3-5)
+    Graphics Environment for Multimedia - SGI support
+gem-plugin-tiff (1:0.93.3-5)
+    Graphics Environment for Multimedia - TIFF support
+gem-plugin-unicap (1:0.93.3-5)
+    Graphics Environment for Multimedia - unicap support
+gem-plugin-v4l2 (1:0.93.3-5)
+    Graphics Environment for Multimedia - V4L2 output support
+gextractwinicons (0.3.1-1)
+    extracts cursors and icons from MS Windows compatible resource files
+gif2apng (1.7-3)
+    tool for converting animated GIF images to APNG format
+gif2png (2.5.8-1)
+    GIF -> PNG conversions
+gifsicle (1.67-1)
+    Tool for manipulating GIF images
+giftrans (1.12.2-16)
+    Convert any GIF file into a GIF89a
+gimp (2.8.2-2+deb7u1)
+    The GNU Image Manipulation Program
+gimp-cbmplugs (1.2.2-1)
+    plugins for The GIMP to import/export Commodore 64 files
+gimp-data (2.8.2-2+deb7u1)
+    Data files for GIMP
+gimp-data-extras (1:2.0.1-3)
+    An extra set of brushes, palettes, and gradients for The GIMP
+gimp-dcraw (1.31-1.1)
+    GIMP plug-in for loading RAW digital photos
+gimp-dds (2.0.9-3)
+    DDS (DirectDraw Surface) plugin for the gimp
+gimp-dimage-color (1.1.0-3.1)
+    GIMP plugin to convert Minolta DiMAGE pictures to sRGB colour space
+gimp-gap (2.6.0+dfsg-3)
+    animation package for the GIMP
+gimp-gluas (0.1.20-1)
+    Lua environment plug-in for GIMP
+gimp-gmic (1.5.1.6+dfsg-4)
+    GIMP plugin for GREYC's Magic Image Converter
+gimp-gutenprint (5.2.9-1)
+    print plugin for the GIMP
+gimp-lensfun (0.2.1-1+b1)
+    Gimp plugin to correct lens distortion using the lensfun library
+gimp-plugin-registry (5.20120621)
+    repository of optional extensions for GIMP
+gimp-resynthesizer (0.16-3)
+    Transitional package for gimp-plugin-registry
+gimp-resynthesizer
+    virtual package provided by gimp-plugin-registry
+gimp-texturize (2.1-2)
+    generates large textures from a small sample
+gimp-ufraw (0.18-2)
+    gimp importer for raw camera images
+gle-graphics (4.2.4c-5)
+    Graphics Layout Engine
+glide2-bin (2002.04.10ds1-7)
+    graphics library for 3Dfx Voodoo based cards - support programs
+gliv (1.9.7-2)
+    image viewer using gdk-pixbuf and OpenGL
+glue-sprite (0.2.5-3)
+    Simple command line tool to generate CSS sprites
+gmic (1.5.1.6+dfsg-4)
+    GREYC's Magic Image Converter
+gmic-zart (1.5.1.6+dfsg-4)
+    GREYC's Magic Image Converter - ZArt
+gmotionlive (1.0-3)
+    Simple multipart/x-mixed-replace viewer
+gnome-paint (0.4.0-3)
+    simple, easy to use paint program for GNOME
+gnuift (0.1.14-12)
+    GNU Image Finding Tool - index and search images by content
+gocr (0.49-1)
+    Command line OCR
+gocr-tk (0.49-1)
+    tcl/tk wrapper around gocr
+gozer (0.7.nofont.1-5)
+    text renderer
+gpac (0.5.0~dfsg0-1)
+    GPAC Project on Advanced Content - utilities
+gpac-modules-base (0.5.0~dfsg0-1)
+    GPAC Project on Advanced Content - modules
+gpe-julia (0.0.6-7)
+    Julia/Mandelbrot set generator for GPE
+gpick (0.2.4-1+b1 [amd64, armel, armhf, i386, ia64, mips, mipsel, powerpc, s390, s390x, sparc], 0.2.4-1 [kfreebsd-amd64, kfreebsd-i386])
+    advanced GTK+ color picker
+gpicview (0.2.3-2)
+    lightweight image viewer
+gpscorrelate (1.6.1-4)
+    correlates digital photos with GPS data filling EXIF fields (command line)
+gpscorrelate-gui (1.6.1-4)
+    correlates digital photos with GPS data filling EXIF fields (GUI)
+graphicsmagick (1.3.16-1.1)
+    collection of image processing tools
+graphicsmagick-imagemagick-compat (1.3.16-1.1)
+    image processing tools providing ImageMagick interface
+graphicsmagick-libmagick-dev-compat (1.3.16-1.1)
+    image processing libraries providing ImageMagick interface
+graphviz (2.26.3-14+deb7u2)
+    rich set of graph drawing tools
+gtk2-engines-cleanice (2.4.1-3)
+    CleanIce themes for GTK+ 2.x
+gtk2-engines-magicchicken (1.1.1-9)
+    Magic Chicken themes for GTK+ 2.x
+gtk2-engines-pixbuf (2.24.10-2)
+    pixbuf-based theme for GTK+ 2.x
+gtkam (0.1.18-1)
+    application for retrieving media from digital cameras
+gtkam-gimp (0.1.18-1)
+    gtkam gimp plugin to open digital camera pictures
+gtkmorph (1:20090926)
+    Digital image warp and morph (gtk)
+gtkmorph-example (1:20090926)
+    digital image warp and morph, examples
+guvcview (1.5.3-1)
+    GTK+ base UVC Viewer
+gwenview (4:4.8.4-2)
+    image viewer
+hdf4-tools (4.2r4-13)
+    Hierarchical Data Format 4 library -- runtime package
+hocr-gtk (0.10.17-1)
+    GTK+ frontend for Hebrew OCR
+hp2xx (3.4.4-8+b1)
+    HPGL converter into some vector- and raster formats
+hugin (2011.4.0+dfsg-5)
+    panorama photo stitcher - GUI tools
+hugin-data (2011.4.0+dfsg-5)
+    panorama photo stitcher - common data files
+hugin-tools (2011.4.0+dfsg-5)
+    panorama photo stitcher - commandline tools
+icc-profiles (2.0.1-1) [non-free]
+    ICC color profiles for use with color profile aware software
+icc-profiles-free (2.0.1+dfsg-1)
+    ICC color profiles for use with color profile aware software
+icc-utils (1.4.0-8)
+    ICC profile I/O library
+icnsutils (0.8.1-1)
+    utilities for manipulating Mac OS icns files
+icon-slicer (0.3-6)
+    utility for generating icon themes and libXcursor cursor themes
+icoutils (0.29.1-5)
+    Create and extract MS Windows icons and cursors
+iec16022 (0.2.4-1)
+    Generates 2d ISO/IEC 16022 barcodes (data matrix/semacode)
+igstk-examples (4.4.0-2)
+    Toolkit for image-guided surgery applications - examples
+imagemagick (8:6.7.7.10-5+deb7u3)
+    image manipulation programs
+imagemagick
+    virtual package provided by graphicsmagick-imagemagick-compat
+imagemagick-common (8:6.7.7.10-5+deb7u3)
+    image manipulation programs -- infrastructure
+ink-generator (0.4-2)
+    Inkscape extension to automatically generate files from a template
+inkscape (0.48.3.1-1.3)
+    vector-based drawing program
+inventor-clients (2.1.5-10-16)
+    Open Inventor client programs
+inventor-data (2.1.5-10-16)
+    Open Inventor sample data files
+inventor-demo (2.1.5-10-16)
+    Open Inventor demonstration programs and example code
+ipe (7.1.2-1)
+    drawing editor for creating figures in PDF or PS formats
+ipe5toxml (20051114-1)
+    converts Ipe5 figures to an XML file readable by Ipe
+ircmarkers (0.14-2)
+    place markers on maps at given coordinates
+isight-firmware-tools (1.6-1) [contrib]
+    tools for dealing with Apple iSight firmware
+ivtools-bin (1.2.10a1-1)
+    Drawing Editors evolved from idraw
+javamorph (0.0.20100201-1.3)
+    Java morphing film-make program for pixel picture-input
+jbig2dec (0.11+20120125-1)
+    JBIG2 decoder library - tools
+jbigkit-bin (2.0-2+deb7u1)
+    JBIGkit binaries
+jhead (1:2.95-1)
+    manipulate the non-image part of Exif compliant JPEG files
+jiipview (2.05-1)
+    Java Internet Imaging Protocol (IIP v1.05) client
+jp2a (1.0.6-3.2)
+    converts jpg images to ascii
+jpeginfo (1.6.0-5+b1 [i386], 1.6.0-5 [amd64, armel, armhf, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Prints information and tests integrity of JPEG/JFIF files
+jpegjudge (0.0.2-2)
+    determine which of two given jpegs (same size) is the original
+jpegoptim (1.2.3-2+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.2.3-2 [armhf, s390x])
+    utility to optimize jpeg files
+jpegpixi (1.1.1-4.1)
+    Remove hot spots from JPEG images with minimal quality loss
+k3d (0.8.0.2-18)
+    3D modeling and animation system, binary files
+k3d-data (0.8.0.2-18)
+    3D modeling and animation system, data files
+kamera (4:4.8.4-2)
+    digital camera support for KDE applications
+karbon (1:2.4.4-3)
+    vector graphics application for the Calligra Suite
+kcolorchooser (4:4.8.4-1)
+    color chooser and palette editor
+kgamma (4:4.8.4-2)
+    monitor calibration panel for KDE
+kipi-plugins-common (4:2.6.0-1+deb7u1)
+    kipi-plugins architecture-independent data
+kolourpaint4 (4:4.8.4-1)
+    simple image editor and drawing application
+kover (1:4-7+b2 [kfreebsd-amd64, kfreebsd-i386], 1:4-7+b1 [amd64, armel, armhf, i386, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    WYSIWYG CD cover printer
+kphotoalbum (4.2-1+b1)
+    tool for indexing, searching and viewing images by keywords for KDE
+krita (1:2.4.4-3)
+    pixel-based image manipulation program for the Calligra Suite
+krita-data (1:2.4.4-3)
+    data files for Krita painting program
+kruler (4:4.8.4-1)
+    screen ruler
+ksnapshot (4:4.8.4-1)
+    screen capture tool
+ktikz (0.10-3)
+    editor for the TikZ drawing language - KDE version
+kwwidgets-examples (1.0.0~cvs20100930-8)
+    Cross-Platform GUI Toolkit - examples
+latexdraw (2.0.8+1-3)
+    vector drawing program for LaTeX using PSTricks
+lazygal (0.7.4-1)
+    static web gallery generator
+lebiniou (3.18-1)
+    displays images that evolve with sound
+lebiniou-data (3.10-1)
+    Datafiles for Le Biniou
+leptonica-progs (1.69-3.1)
+    sample programs for Leptonica image processing library
+libcgal-ipelets (4.0-5)
+    C++ library for computational geometry (ipelets)
+libcolorhug1 (0.1.10-1)
+    Library for the Hughski Colorimeter
+libgd-tools (2.0.36~rc1~dfsg-6.1)
+    GD command line tools and example code
+libiptcdata-bin (1.0.4-3)
+    Library to parse IPTC metadata (programs)
+libjasper-runtime (1.900.1-13+deb7u3) [security]
+    Programs for manipulating JPEG-2000 files
+libjpeg-progs (8d-1+deb7u1)
+    Programs for manipulating JPEG files
+libpano13-bin (2.9.18+dfsg-5)
+    panorama tools utilities
+libphat-tools (0.4.1-5)
+    collection of tools for libphat
+libpuzzle-bin (0.9-5)
+    quick similar image finder - runtime tool
+libraw-bin (0.14.6-2)
+    raw image decoder library (tools)
+librecad (1.0.2+nolibs-1)
+    Computer-aided design (CAD) system
+librecad-data (1.0.2+nolibs-1)
+    Computer-aided design (CAD) system -- shared files
+libreoffice-ogltrans (1:3.5.4+dfsg2-0+deb7u3 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, s390, s390x, sparc], 1:3.5.4+dfsg2-0+deb7u2 [ia64]) [security]
+    LibreOffice Impress extension for transitions using OpenGL
+librsvg2-bin (2.36.1-2)
+    command-line and graphical viewers for SVG files
+libtesseract3 (3.02.01-6)
+    Command line OCR tool
+libtiff-opengl (4.0.2-6+deb7u3)
+    TIFF manipulation and conversion tools
+libtiff-tools (4.0.2-6+deb7u3)
+    TIFF manipulation and conversion tools
+libvips-tools (7.28.5-1+deb7u1)
+    image processing system good for very large images (tools)
+libwmf-bin (0.2.8.4-10.3)
+    Windows metafile conversion tools
+longomatch (0.16.8+git20110626-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, powerpc, sparc], 0.16.8+git20110626-1 [s390x])
+    video analysis tool for coaches
+luminance-hdr (2.2.1-3)
+    graphical user interface providing a workflow for HDR imaging
+makexvpics (1.0.1-2)
+    updates .xvpics thumbnails from the command line
+mathtex (1.03-1)
+    Generate image from LaTeX command
+medcon (0.10.7-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.10.7-1 [armhf, s390x])
+    Medical Image (DICOM, ECAT, ...) conversion tool
+meshlab (1.3.0a+dfsg1-3)
+    System for processing and editing triangular meshes
+metacam (1.2-5)
+    extract EXIF information from digital camera files
+metapixel (1.0.2-7.1)
+    generator for photomosaics
+minidjvu (0.8.svn.2010.05.06+dfsg-0.2)
+    Monochrome DjVu multipage encoder, single page encoder/decoder
+mirage (0.9.5.1-1.1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.9.5.1-1.1 [armhf, s390x])
+    fast and simple GTK+ image viewer
+mistelix (0.33-3+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, powerpc, sparc], 0.33-3 [s390x])
+    DVD authoring and slideshow creation application
+mm3d (1.3.7-1.4)
+    OpenGL based 3D model editor
+mplayer (2:1.0~rc4.dfsg1+svn34540-1+deb7u1) [security]
+    movie player for Unix-like systems
+mplayer
+    virtual package provided by mplayer2
+mplayer-dbg (2:1.0~rc4.dfsg1+svn34540-1+deb7u1) [security]
+    debugging symbols for MPlayer
+mplayer-dbg
+    virtual package provided by mplayer2-dbg
+mplayer-doc (2:1.0~rc4.dfsg1+svn34540-1+deb7u1) [security]
+    documentation for MPlayer
+mtpaint (3.40-1+b1)
+    painting program to create pixel art and manipulate digital photos
+mypaint (1.0.0-1)
+    Paint program to be used with Wacom tablets
+mypaint-data (1.0.0-1)
+    Brushes and backgrounds for the mypaint program
+netpbm (2:10.0-15+b1)
+    Graphics conversion tools between image formats
+ngraph-gtk (6.06.06-1)
+    create scientific 2-dimensional graphs
+ngraph-gtk-addin-import-ps (6.06.06-1)
+    import-ps addin of Ngraph-gtk
+ngraph-gtk-addin-tex-equation (6.06.06-1)
+    tex-equation addin of Ngraph-gtk
+ngraph-gtk-addins (6.06.06-1)
+    addin collection of Ngraph-gtk
+ngraph-gtk-addins-base (6.06.06-1)
+    addins of Ngraph-gtk - base programs
+nip2 (7.28.4-1)
+    spreadsheet-like graphical image manipulation tool
+ocamlgraph-editor (1.8.2-2)
+    graphical graph editor based on hyperbolic geometry
+ocrad (0.22~rc1-2)
+    Optical character recognition program
+ocrfeeder (0.7.9-1)
+    Document layout analysis and optical character recognition system
+ogmtools (1:1.5-3+b1 [amd64, armel, i386, ia64, mips, mipsel, powerpc, s390, sparc], 1:1.5-3 [armhf, kfreebsd-amd64, kfreebsd-i386, s390x])
+    Tools for manipulating Ogg multimedia streams
+okular (4:4.8.4-3+b1 [amd64], 4:4.8.4-3 [armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    universal document viewer
+okular-backend-odp (1:2.4.4-3)
+    Okular backend for ODP documents
+openclipart (1:0.18+dfsg-14)
+    Open Clip Art Library
+openclipart-libreoffice (1:0.18+dfsg-14)
+    clip art for OpenOffice.org/LibreOffice gallery
+openclipart-openoffice.org (1:3.4.0~ooo340m1-7)
+    clip art for OpenOffice.org/LibreOffice gallery
+openclipart-png (1:0.18+dfsg-14)
+    clip art in PNG format
+openclipart-svg (1:0.18+dfsg-14)
+    clip art in SVG format
+openclipart2 (2.0+dfsg-1)
+    Open Clip Art Library
+openclipart2-libreoffice (2.0+dfsg-1)
+    clip art for OpenOffice.org/LibreOffice gallery
+openclipart2-png (2.0+dfsg-1)
+    clip art in PNG format
+openclipart2-svg (2.0+dfsg-1)
+    clip art in SVG format
+openexr (1.6.1-6)
+    command-line tools and docs for the OpenEXR image format
+openexr-viewers (1.0.1-6)
+    viewer for images in the OpenEXR format
+openimageio-tools (1.0.5+dfsg0-1)
+    Library for reading and writing images - command line tools
+openjpeg-tools (1.3+dfsg-4.8)
+    command-line tools using the JPEG 2000 library
+openoffice.org-ogltrans (1:3.4.0~ooo340m1-7)
+    LibreOffice Impress extension for transitions using OpenGL
+openscad (2011.12-3)
+    script file based graphical CAD environment
+openscad-testing (2011.12-3)
+    script file based graphical CAD environment (test suite)
+openscad-testing-data (2011.12-3)
+    script file based graphical CAD environment (test suite data)
+openslide-tools (3.2.6-2)
+    Manipulation and conversion tools for OpenSlide
+optipng (0.6.4-1)
+    advanced PNG (Portable Network Graphics) optimizer
+ospics (0.73-4)
+    Some images of operating system logos/mascots
+paprass (2.06-1)
+    Manager of electronic documents
+pd-pdp (1:0.12.5-2)
+    Graphics system for Pd
+pdf-presenter-console (3.1-1)
+    multi-monitor presentation tool (ala Keynote) for PDF files
+pdf2svg (0.2.1-2+b3 [amd64, armel, i386, ia64, mips, mipsel, powerpc, s390, sparc], 0.2.1-2+b2 [kfreebsd-amd64, kfreebsd-i386], 0.2.1-2+b1 [armhf, s390x])
+    converts PDF documents to SVG files (one per page)
+pdftoipe (20110916-3+b1)
+    converts arbitrary PDF file to XML file readable by Ipe
+pfsglview (1.8.5-1)
+    command line HDR manipulation programs (OpenGL/GLUT viewer)
+pfstmo (1.4-1)
+    set of tone mapping operators
+pfstools (1.8.5-1)
+    command line HDR manipulation programs
+pfsview (1.8.5-1)
+    command line HDR manipulation programs (Qt viewer)
+phatch (0.2.7.1-1)
+    simple to use Photo Batch Processor - GUI
+phatch-cli (0.2.7.1-1)
+    simple to use Photo Batch Processor - command line interface
+photon (0.4.6-3)
+    a static HTML gallery generator
+photopc (3.05-6)
+    Interface to digital still cameras
+photoprint (0.4.2~pre2-2+b1 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.4.2~pre2-2 [s390x])
+    Image printing utility
+picon-domains (2012.05.09-1) [non-free]
+    Picon (Personal Images) database of Internet domain logos
+picon-misc (2010.01.02-1) [non-free]
+    Picon (Personal Images) database of common accounts and misc.
+picon-news (2010.01.02-1) [non-free]
+    Picon (Personal Images) db of Usenet newsgroups and hierarchies
+picon-unknown (2010.01.02-1) [non-free]
+    Picon (Personal Images) database for very high-level domains
+picon-usenix (1995.04.13-8) [non-free]
+    Picon (Personal Images) db of Usenix conference attendees
+picon-users (2012.05.14-1) [non-free]
+    Picon (Personal Images) database of individual Internet accounts
+picon-weather (2010.01.02-1) [non-free]
+    Picon (Personal Images) database for displaying weather forecasts.
+pinta (1.3-2)
+    Simple drawing/painting program
+pixelize (1.0.0-1)
+    Create an image consisting of many small images
+pixmap (2.6pl4-18)
+    A pixmap editor
+plotmm-examples (0.1.2-2)
+    GTKmm plot widgets - sample applications
+png23d (1.10-1)
+    Converts PNG images into three dimensional representations.
+png2html (1.1-5)
+    transforms a PNG image to a web page
+pngcheck (2.3.0-5)
+    print info and check PNG, JNG and MNG files
+pngcrush (1.7.9-1)
+    optimizes PNG (Portable Network Graphics) files
+pngmeta (1.11-6)
+    Display metadata information from PNG images
+pngnq (1.0-2)
+    tool for optimizing PNG (Portable Network Graphics) images
+pngquant (1.0-4.1)
+    PNG (Portable Network Graphics) image optimising utility
+pngtools (0.4-1)
+    series of tools for PNG (Portable Network Graphics) images
+posterazor (1.5.1-2)
+    splits an image across multiple pages for assembly into a poster
+postr (0.12.4-2.1)
+    upload photos to Flickr
+potrace (1.10-1)
+    utility to transform bitmaps into vector graphics
+pqiv (0.12-1)
+    Lightweight image viewer
+printer-driver-gutenprint (5.2.9-1)
+    printer drivers for CUPS
+propaganda-debian (13.5.10)
+    Propaganda background image volume for Debian
+pstoedit (3.60-2+b1)
+    PostScript and PDF files to editable vector graphics converter
+pvrg-jpeg (1.2.1+dfsg1-2)
+    Stanford PVRG JPEG tool
+pythoncad (0.1.37.0-3)
+    Computer Aided Drafting (CAD) program
+qcad (2.0.5.0-1+090318.1-2)
+    Transitional package for QCad to LibreCAD
+qcomicbook (0.8.2-1)
+    qt viewer for comic book archives (cbr/cbz/cba/cbg/cbb)
+qiv (2.2.4-1)
+    Quick image viewer for X
+qliss3d (1.4-1)
+    demonstration tool for Lissajous figures
+qpdfview (0.3.1-1)
+    tabbed PDF viewer
+qtikz (0.10-3)
+    editor for the TikZ drawing language - Qt version
+radiance (4R1+20120125-1+b1)
+    Lighting Simulation and Rendering System
+radiance-materials (4R1+20120125-1)
+    Lighting Simulation and Rendering System - Materials
+radiance-sse3 (4R1+20120125-1+b1)
+    Lighting Simulation and Rendering System - SSE3 optimizations
+rapid-photo-downloader (0.4.5-3)
+    Photo downloader (importer) from cameras, memory cards other devices
+rasterlite-bin (1.1~svn11-2)
+    command line tools for librasterlite
+rawstudio (2.0-1.1)
+    RAW image converter
+rawtherapee (4.0.9-4)
+    Free RAW converter and digital photo processing software
+rawtherapee-data (4.0.9-4)
+    Free RAW converter and digital photo processing software (data files)
+recoverjpeg (2.0-3.1)
+    tool to recover JPEG images from a filesystem image
+renrot (1.1-2)
+    Rename and rotate files according to EXIF tags
+rgbpaint (0.8.7-3)
+    simple pixel-based painting program
+robocut (1.0.8-1)
+    Control program for Graphtec cutting plotters
+sailcut (1.3.5-2)
+    A sail design and plotting software
+sam2p (0.49.1-1)
+    convert raster images to EPS, PDF, and other formats
+sane (1.0.14-9)
+    scanner graphical frontends
+sane-utils (1.0.22-7.4)
+    API library for scanners -- utilities
+scidavis (0.2.4-3.3)
+    application for scientific data analysis and visualization
+scribus (1.4.0.dfsg+r17300-1.1)
+    Open Source Desktop Page Layout - stable branch
+scribus-ng (1.4.0.dfsg+r17300-1)
+    Transitional dummy package for the 1.4.0 Scribus release
+scribus-template (1.2.4.1-2)
+    additional scribus templates
+scrot (0.8-13)
+    command line screen capture utility
+setpwc (1.2-3.1)
+    program to set and query settings of (mainly) Philips WebCams
+sfact (2011.12.18-1)
+    toolchain to generate G-Code instructions from 3D models
+sfftobmp (3.1.3-1+b1)
+    SFF (Structured Fax File) Converter
+sffview (0.4.1-2+b1)
+    Structured Fax File (SFF) Viewer
+shanty (3-4)
+    Makes a whopping great postscript file from an image and a text
+shapelib (1.2.10-7)
+    Library for reading and writing ArcView Shapefiles - tools
+showfoto (4:2.6.0-1+deb7u1)
+    image viewer/editor for KDE
+shutter (0.88.3-1)
+    feature-rich screenshot program
+simple-image-reducer (1.0.2-1)
+    GTK application to easily reduce and rotate images
+skanlite (0.8-2)
+    image scanner for KDE 4 based on the KSane backend
+skeinforge (2011.12.18-1)
+    transitional dummy package
+sketch (1:0.3.7-1)
+    3D diagrams for TeX from scene description language
+sng (1.0.2-7)
+    a specialized markup language for representing PNG contents
+sofa-apps (1.0~beta4-7)
+    GUI for the Simulation Open Framework Architecture (SOFA)
+sofa-data (1.0~beta4-7)
+    Simulation Open Framework Architecture - data
+sofa-tutorials (1.0~beta4-7)
+    Simulation Open Framework Architecture - tutorials
+sozi (12.05-1)
+    inkscape extension for creating animated presentations
+structure-synth (1.5.0-1.1)
+    application for creating 3D structures
+sunflow (0.07.2.svn396+dfsg-9)
+    rendering system for photo-realistic image synthesis (GUI)
+svgalib-bin (1:1.4.3-33)
+    console SVGA display utilities
+svgpart (4:4.8.4-1)
+    KDE SVG KPart
+svgtoipe (20100608-1)
+    converts SVG figures to an XML file readable by Ipe
+sxiv (1.0-1)
+    simple X image viewer
+synfig (0.63.05-1)
+    vector-based 2D animation renderer
+synfig-examples (0.63.05-1)
+    synfig animation examples
+synfigstudio (0.63.05-1)
+    vector-based 2D animation package (graphical user interface)
+tcm (2.20+TSQD-4.2)
+    Toolkit for Conceptual Modeling (TCM)
+tesseract-ocr (3.02.01-6)
+    Command line OCR tool
+tesseract-ocr-afr (3.02-2)
+    tesseract-ocr language files for Afrikaans
+tesseract-ocr-ara (3.02-2)
+    tesseract-ocr language files for Arabic
+tesseract-ocr-aze (3.02-2)
+    tesseract-ocr language files for Azerbaijani
+tesseract-ocr-bel (3.02-2)
+    tesseract-ocr language files for Belarusian
+tesseract-ocr-ben (3.02-2)
+    tesseract-ocr language files for Bengali
+tesseract-ocr-bul (3.02-2)
+    tesseract-ocr language files for Bulgarian
+tesseract-ocr-cat (3.02-2)
+    tesseract-ocr language files for Catalan
+tesseract-ocr-ces (3.02-2)
+    tesseract-ocr language files for Czech
+tesseract-ocr-chi-sim (3.02-1)
+    tesseract-ocr language files for Simplified Chinese
+tesseract-ocr-chi-tra (3.02-1)
+    tesseract-ocr language files for Traditional Chinese
+tesseract-ocr-chr (3.02-2)
+    tesseract-ocr language files for Cherokee
+tesseract-ocr-dan (3.02-2)
+    tesseract-ocr language files for Danish
+tesseract-ocr-deu (3.02-2)
+    tesseract-ocr language files for German
+tesseract-ocr-deu-frak (3.02-4)
+    tesseract-ocr language files for German Fraktur
+tesseract-ocr-ell (3.02-2)
+    tesseract-ocr language files for Greek
+tesseract-ocr-eng (3.02-2)
+    tesseract-ocr language files for English
+tesseract-ocr-enm (3.02-2)
+    tesseract-ocr language files for Middle English
+tesseract-ocr-epo (3.02-2)
+    tesseract-ocr language files for Esperanto
+tesseract-ocr-equ (3.02-2)
+    tesseract-ocr language files for equations
+tesseract-ocr-est (3.02-2)
+    tesseract-ocr language files for Estonian
+tesseract-ocr-eus (3.02-2)
+    tesseract-ocr language files for Basque
+tesseract-ocr-fin (3.02-2)
+    tesseract-ocr language files for Finnish
+tesseract-ocr-fra (3.02-2)
+    tesseract-ocr language files for French
+tesseract-ocr-frk (3.02-2)
+    tesseract-ocr language files for Frankish
+tesseract-ocr-frm (3.02-2)
+    tesseract-ocr language files for Middle French
+tesseract-ocr-glg (3.02-2)
+    tesseract-ocr language files for Galician
+tesseract-ocr-heb (3.02-2)
+    tesseract-ocr language files for Hebrew
+tesseract-ocr-hin (3.02-2)
+    tesseract-ocr language files for Hindi
+tesseract-ocr-hrv (3.02-2)
+    tesseract-ocr language files for Croatian
+tesseract-ocr-hun (3.02-2)
+    tesseract-ocr language files for Hungarian
+tesseract-ocr-ind (3.02-2)
+    tesseract-ocr language files for Indonesian
+tesseract-ocr-isl (3.02-2)
+    tesseract-ocr language files for Icelandic
+tesseract-ocr-ita (3.02-2)
+    tesseract-ocr language files for Italian
+tesseract-ocr-ita-old (3.02-1)
+    tesseract-ocr language files for Old Italian
+tesseract-ocr-jpn (3.02-2)
+    tesseract-ocr language files for Japanese
+tesseract-ocr-kan (3.02-2)
+    tesseract-ocr language files for Kannada
+tesseract-ocr-kor (3.02-2)
+    tesseract-ocr language files for Korean
+tesseract-ocr-lav (3.02-2)
+    tesseract-ocr language files for Latvian
+tesseract-ocr-lit (3.02-2)
+    tesseract-ocr language files for Lithuanian
+tesseract-ocr-mal (3.02-2)
+    tesseract-ocr language files for Malayalam
+tesseract-ocr-mkd (3.02-2)
+    tesseract-ocr language files for Macedonian
+tesseract-ocr-mlt (3.02-2)
+    tesseract-ocr language files for Maltese
+tesseract-ocr-msa (3.02-2)
+    tesseract-ocr language files for Malay
+tesseract-ocr-nld (3.02-2)
+    tesseract-ocr language files for Dutch
+tesseract-ocr-nor (3.02-2)
+    tesseract-ocr language files for Norwegian
+tesseract-ocr-osd (3.02-2)
+    tesseract-ocr language files for script and orientation
+tesseract-ocr-pol (3.02-2)
+    tesseract-ocr language files for Polish
+tesseract-ocr-por (3.02-2)
+    tesseract-ocr language files for Portuguese
+tesseract-ocr-ron (3.02-2)
+    tesseract-ocr language files for Romanain
+tesseract-ocr-rus (3.02-2)
+    tesseract-ocr language files for Russian
+tesseract-ocr-slk (3.02-2)
+    tesseract-ocr language files for Slovak
+tesseract-ocr-slk-frak (3.02-2)
+    tesseract-ocr language files for Slovak Fractur
+tesseract-ocr-slv (3.02-2)
+    tesseract-ocr language files for Slovenian
+tesseract-ocr-spa (3.02-2)
+    tesseract-ocr language files for Spanish
+tesseract-ocr-spa-old (3.02-1)
+    tesseract-ocr language files for Old Spanish
+tesseract-ocr-sqi (3.02-2)
+    tesseract-ocr language files for Albanian
+tesseract-ocr-srp (3.02-2)
+    tesseract-ocr language files for Serbian
+tesseract-ocr-swa (3.02-2)
+    tesseract-ocr language files for Swahili
+tesseract-ocr-swe (3.02-2)
+    tesseract-ocr language files for Swedish
+tesseract-ocr-tam (3.02-2)
+    tesseract-ocr language files for Tamil
+tesseract-ocr-tel (3.02-2)
+    tesseract-ocr language files for Telugu
+tesseract-ocr-tgl (3.02-2)
+    tesseract-ocr language files for Tagalog
+tesseract-ocr-tha (3.02-2)
+    tesseract-ocr language files for Thai
+tesseract-ocr-tur (3.02-2)
+    tesseract-ocr language files for Turkish
+tesseract-ocr-ukr (3.02-2)
+    tesseract-ocr language files for Ukranian
+tesseract-ocr-vie (3.02-2)
+    tesseract-ocr language files for Vietnamese
+textdraw (0.2-2)
+    Tool to draw/modify/move geometric figures & text for ASCII art
+tgif (1:4.2.5-1.2)
+    2D vector graphic drawing tool using Xlib
+themonospot (0.7.3.1-6)
+    application to scan video files
+thuban (1.2.2-3+b1)
+    An interactive geographic data viewer
+tintii (2.6.1-1)
+    Turns colour photos into b/w and highlights regions in colour
+tioga (1.14-3)
+    Ruby library for scientific graphs [transition package]
+transfig (1:3.2.5.d-3)
+    Utilities for converting XFig figure files
+trimage (1.0.5-1)
+    GUI and command-line interface to optimize image files
+ttv (3.102-3)
+    television viewer - console application
+tulip (3.7.0dfsg-4)
+    System dedicated to the visualization of huge graphs
+tupi (0.1+git12-6)
+    2D Animation design and authoring tool
+tupi-data (0.1+git12-6)
+    Data files for tupi (2D Animation design and authoring tool)
+tuxpaint (1:0.9.21-1.1)
+    A paint program for young children
+tuxpaint-config (0.0.12-3)
+    Configuration tool for Tux Paint
+tuxpaint-data (1:0.9.21-1.1)
+    Data files for Tux Paint, a paint program for children
+tuxpaint-plugins-default (1:0.9.21-1.1)
+    Magic tool plugins for Tux Paint
+tuxpaint-stamps-default (2009.06.28-1)
+    Stamp files for Tux Paint, a paint program for children
+ufraw (0.18-2)
+    standalone importer for raw camera images
+ufraw-batch (0.18-2)
+    batch importer for raw camera images
+unpaper (0.4.2-1)
+    post-processing tool for scanned pages
+uvccapture (0.5-2)
+    USB UVC Video Class snapshot software
+v4l2loopback-source (0.6.1-1)
+    Source for the v4l2loopback driver
+v4l2loopback-utils (0.6.1-1)
+    Commandline utilities for the for the v4l2-loopback module
+vgrabbj (0.9.6-5.1)
+    grabs an image from a camera and puts it in jpg/png format
+vlc (2.0.3-5+deb7u2+b1) [security]
+    multimedia player and streamer
+vlc-data (2.0.3-5+deb7u2) [security]
+    Common data for VLC
+vlc-dbg (2.0.3-5+deb7u2+b1) [security]
+    debugging symbols for vlc
+vlc-plugin-jack (2.0.3-5+deb7u2+b1) [security]
+    Jack audio plugins for VLC
+vlc-plugin-pulse (2.0.3-5+deb7u2+b1) [security]
+    PulseAudio plugin for VLC
+vlc-plugin-sdl (2.0.3-5+deb7u2+b1) [security]
+    SDL video and audio output plugin for VLC
+vtk-examples (5.8.0-13)
+    C++, Tcl and Python example programs/scripts for VTK
+vtkdata (5.8.0-1)
+    Example data for VTK
+webp (0.1.3-3+nmu1)
+    Lossy compression of digital photographic images.
+whitedune (0.30.10-1.1)
+    graphical VRML97/X3D viewer, editor, 3D modeller and animation tool
+wings3d (1.4.1-4)
+    Nendo-inspired 3D polygon mesh modeller
+x264 (2:0.123.2189+git35cf912-1)
+    video encoder for the H.264/MPEG-4 AVC standard
+xaos (3.5+ds1-1)
+    real-time interactive fractal zoomer
+xcftools (1.0.7-4)
+    command-line tools for extracting data for XCF files
+xfig (1:3.2.5.b-3)
+    Facility for Interactive Generation of figures under X11
+xfig-libs (1:3.2.5.b-3)
+    XFig image libraries and examples
+xfractint (20.4.10-2) [non-free]
+    UNIX-based fractal generator
+xli (1.17.0+20061110-4)
+    command line tool for viewing images in X11
+xloadimage (4.1-19)
+    Graphics file viewer under X11
+xmedcon (0.10.7-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.10.7-1 [armhf, s390x])
+    Medical Image (DICOM, ECAT, ...) conversion tool
+xmorph (1:20090926)
+    digital image warp and morph (x11)
+xpaint (2.9.1.4-3+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 2.9.1.4-3+b1 [armhf, s390x])
+    simple paint program for X
+xplanet (1.2.1-4.1+b1)
+    planetary body renderer
+xplanet-images (1.2.1-4.1)
+    imagery for xplanet
+xsane (0.998-3+b1 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.998-3 [s390x])
+    featureful graphical frontend for SANE (Scanner Access Now Easy)
+xsane-common (0.998-3)
+    featureful graphical frontend for SANE (Scanner Access Now Easy)
+xzgv (0.9+svn40-1+b1 [mips, s390, sparc], 0.9+svn40-1 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mipsel, powerpc, s390x])
+    Picture viewer for X with a thumbnail-based selector
+yafaray (0.1.2+really0.1.2~beta5-2)
+    modern, xml-speaking raytracing-based rendering system
+yafaray-exporter (0.1.2+really0.1.2~beta5-1)
+    modern, xml-speaking raytracing-based rendering system
+yagf (0.9.1-3)
+    graphical interface for cuneiform and tesseract
+zbar-tools (0.10+doc-8+b1 [s390x], 0.10+doc-8 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc])
+    bar code scanner and decoder (utilities)
+zgv (5.9-4+b1)
+    SVGAlib graphics viewer
+zoomer (0.1-1)
+    generate a video from a picture by zooming from one point to another 

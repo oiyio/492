@@ -1,0 +1,2034 @@
+389-console (1.1.7-1)
+    389 Management Console
+accessodf (0.1-2)
+    Libreoffice extension to check accessibility of ODF documents
+activemq (5.6.0+dfsg-1)
+    Java message broker - server
+ant (1.8.2-4)
+    Java based build tool like make
+ant-contrib (1.0~b3+svn177-5)
+    collection of tasks, types and other tools for Apache Ant
+ant-contrib-cpptasks (1.0~b5-2)
+    C/C++ compilation tasks for Ant.
+ant-gcj (1.8.2-4+b1 [armhf], 1.8.2-4 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Java based build tool like make (GCJ)
+ant-optional (1.8.2-4)
+    Java based build tool like make - optional libraries
+ant-optional-gcj (1.8.2-4+b1 [armhf], 1.8.2-4 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Java based build tool like make - optional libraries (GCJ)
+antlr3-gunit-maven-plugin (3.2-7)
+    Maven plugin for gUnit, a unit test framework for ANTLR grammars
+antlr3-maven-plugin (3.2-7)
+    Maven plugin for ANTLR 3
+aspectj (1.6.12+dfsg-3)
+    aspect-oriented extension for Java - tools
+bnd (1.50.0-5)
+    tool to create and diagnose OSGi R4 bundles
+bsh-gcj (2.0b4-12)
+    Java scripting environment (BeanShell) Version 2 (native code)
+bsh-src (2.0b4-12)
+    Java scripting environment (BeanShell) Version 2 (source code)
+ca-certificates-java (20121112+nmu2)
+    Common CA certificates (JKS keystore)
+checkstyle (5.4-2)
+    checks Java source against a coding standard
+clirr (0.6-3)
+    Checks Java libraries for compatibility with older releases
+cobertura (1.9.4.1+dfsg-3)
+    java tool that calculates the percentage of code accessed by tests
+coco-java (20110419-3)
+    Coco/R Compiler Generator (Java Version)
+cronometer (0.9.9-2)
+    Exercise and nutrient intake tracker
+cup (0.11a+20060608-3)
+    LALR parser generator for Java(tm)
+default-jdk (1:1.6-47 [amd64, armel, armhf, i386, ia64, mips, mipsel, powerpc, s390, s390x, sparc], 1:1.5-47 [kfreebsd-amd64, kfreebsd-i386])
+    Standard Java or Java compatible Development Kit
+default-jre (1:1.6-47 [amd64, armel, armhf, i386, ia64, mips, mipsel, powerpc, s390, s390x, sparc], 1:1.5-47 [kfreebsd-amd64, kfreebsd-i386])
+    Standard Java or Java compatible Runtime
+default-jre-headless (1:1.6-47 [amd64, armel, armhf, i386, ia64, mips, mipsel, powerpc, s390, s390x, sparc], 1:1.5-47 [kfreebsd-amd64, kfreebsd-i386])
+    Standard Java or Java compatible Runtime (headless)
+dita-ot (1.5.3-1)
+    transforms DITA content (maps and topics) into deliverable formats
+docbook-xsl-saxon-gcj (1.00.dfsg.1-5)
+    Java extensions for use with DocBook XML stylesheets (native code)
+ecj (3.5.1-3+b1 [armhf, s390x], 3.5.1-3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc])
+    standalone version of the Eclipse Java compiler
+ecj-gcj (3.5.1-3+b1 [armhf, s390x], 3.5.1-3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc])
+    standalone version of the Eclipse Java compiler (native version)
+ecj1 (3.5.1-3+b1 [armhf], 3.5.1-3 [armel])
+    java byte code compiler used by gcj
+eclipse-cdt-jni (8.1.0+dfsg-2)
+    C/C++ Development Tools for Eclipse (JNI)
+eclipse-emf (2.5.0-2)
+    Eclipse Modeling Framework (EMF)
+eclipse-emf-examples (2.5.0-2)
+    Eclipse EMF/XSD examples
+eclipse-emf-sdk (2.5.0-2)
+    Eclipse Modeling Framework (EMF) - (Source/Documentation)
+eclipse-rse (3.1.2-1)
+    Eclipse Remote System Explorer (RSE)
+eclipse-xsd (2.5.0-2)
+    XML Schema Definition (XSD) for Eclipse
+eclipse-xsd-sdk (2.5.0-2)
+    XML Schema Definition (XSD) for Eclipse - (Source/Documentation)
+f2j (0.8.1-2) [non-free]
+    Fortran to Java compiler
+fastjar (2:0.98-3+b1 [armhf], 2:0.98-3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Jar creation utility
+felix-main (4.0.1-2)
+    Execution environment for OSGi Felix Framework
+freetts (1.2.2-3)
+    speech synthesis system
+gcj-4.6-jdk (4.6.3-1)
+    gcj and classpath development tools for Java(TM)
+gcj-4.6-jre (4.6.3-1)
+    Java runtime environment using GIJ/classpath
+gcj-4.6-jre-headless (4.6.3-1)
+    Java runtime environment using GIJ/classpath (headless version)
+gcj-4.6-jre-lib (4.6.3-1)
+    Java runtime library for use with gcj (jar files)
+gcj-4.6-source (4.6.3-1)
+    GCJ java sources for use in IDEs like eclipse and netbeans
+gcj-4.7-jdk (4.7.2-3)
+    gcj and classpath development tools for Java(TM)
+gcj-4.7-jre (4.7.2-3)
+    Java runtime environment using GIJ/classpath
+gcj-4.7-jre-headless (4.7.2-3)
+    Java runtime environment using GIJ/classpath (headless version)
+gcj-4.7-jre-lib (4.7.2-3)
+    Java runtime library for use with gcj (jar files)
+gcj-4.7-source (4.7.2-3)
+    GCJ java sources for use in IDEs like eclipse and netbeans
+gcj-jdk (4:4.7.2-1 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 4:4.6.3-8 [ia64])
+    gcj and classpath development tools for Java(TM)
+gcj-jre (4:4.7.2-1 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 4:4.6.3-8 [ia64])
+    Java runtime environment using GIJ/classpath
+gcj-jre-headless (4:4.7.2-1 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 4:4.6.3-8 [ia64])
+    Java runtime environment using GIJ/classpath (headless version)
+gcj-native-helper (1:1.6-47 [amd64, armel, armhf, i386, ia64, mips, mipsel, powerpc, s390, s390x, sparc], 1:1.5-47 [kfreebsd-amd64, kfreebsd-i386])
+    Standard helper tools for creating gcj native packages
+glassfish-activation (1:2.1.1-b31g-3)
+    Open source Java EE 5 Application Server
+glassfish-appserv (1:2.1.1-b31g-3)
+    Open source Java EE 5 Application Server
+glassfish-javaee (1:2.1.1-b31g-3)
+    Open source Java EE 5 Application Server
+glassfish-jmac-api (1:2.1.1-b31g-3)
+    Open source Java EE 5 Application Server
+glassfish-mail (1:2.1.1-b31g-3)
+    Open source Java EE 5 Application Server
+glassfish-toplink-essentials (1:2.1.1-b31g-3)
+    Open source Java EE 5 Application Server
+groovy (1.8.6-1)
+    Agile dynamic language for the Java Virtual Machine
+icedtea-6-jre-jamvm (6b34-1.13.6-1~deb7u1 [amd64, armel, armhf, i386, mipsel, powerpc], 6b33-1.13.5-2~deb7u1 [mips]) [security]
+    Alternative JVM for OpenJDK, using JamVM
+icedtea-7-jre-cacao (7u75-2.5.4-1~deb7u1 [amd64, armel, armhf, i386, mipsel, powerpc], 7u71-2.5.3-2~deb7u1 [mips], 7u3-2.1.7-1 [s390]) [security]
+    Transitional package for obsolete Cacao JVM for OpenJDK
+icedtea-7-jre-jamvm (7u75-2.5.4-1~deb7u1 [amd64, armel, armhf, i386, mipsel, powerpc], 7u71-2.5.3-2~deb7u1 [mips]) [security]
+    Alternative JVM for OpenJDK, using JamVM
+icedtea-netx (1.4-3~deb7u2 [amd64, armel, armhf, i386, powerpc, s390x, sparc], 1.3.2-1 [ia64, s390]) [security]
+    NetX - implementation of the Java Network Launching Protocol (JNLP)
+icedtea-netx-common (1.4-3~deb7u2) [security]
+    NetX - implementation of the Java Network Launching Protocol (JNLP)
+ikvm (7.0.4335.0+ds-1)
+    Java virtual machine for the CLI
+ivy (2.2.0-2)
+    The agile dependency manager
+jabref-plugin-oo (0.9+ds-2)
+    LibreOffice plugin for JabRef
+jaminid (0.99a-1.1)
+    Small and fast daemon for Java applications
+jarwrapper (0.43)
+    Run executable Java .jar files
+java-common (0.47)
+    Base of all Java packages
+java-propose-classpath (0.43)
+    Helper script to suggest a classpath for jar files
+java-wrappers (0.1.25)
+    wrappers for java executables
+java2html (0.9.2-4)
+    Highlight Java and C++ sources for WWW presentation
+java3ds-fileloader (1.2+dfsg-1)
+    Java3D 3DS File Loader
+javacc (5.0-4)
+    A parser generator for use with Java
+javahelp2 (2.0.05.ds1-6)
+    Java based help system
+javahelper (0.43)
+    Helper scripts for packaging Java programs
+jbossas4 (4.2.3.GA-7)
+    JBoss Application Server
+jclassinfo (0.19.1-6)
+    extracts information from Java class files
+jenkins-crypto-util (1.1-2)
+    Jenkins Utility around Java Crypto API
+jenkins-executable-war (1.27-1)
+    Library for building executable .war files
+jenkins-memory-monitor (1.7-2)
+    Jenkins native integration for monitoring memory usage.
+jenkins-task-reactor (1.3-1)
+    Task execution and control framework used in Jenkins
+jenkins-test-annotations (1.0-1)
+    Annotation library for tracking testing in Jenkins
+jetty (6.1.26-1)
+    Java servlet engine and webserver
+jetty8 (8.1.3-4)
+    Java servlet engine and webserver
+jflex (1.4.3-2)
+    lexical analyzer generator for Java
+jfugue (4.0.3-3)
+    Java API for music programming - transitional package
+jfugue
+    virtual package provided by libjfugue-java
+jlex (1.2.6-6)
+    A Lex-style lexical analyser generator for Java
+jlint (3.0-4.5)
+    A Java Program Checker
+jmol-applet (12.2.32+dfsg2-1)
+    Jmol Java applet
+jodreports-cli (2.4.0-3)
+    Merge OpenDocument text with data - command line tool
+jtreg (4.1-2)
+    Regression Test Harness for the OpenJDK platform
+junit (3.8.2-8)
+    Automated testing framework for Java
+junit4 (4.10-3)
+    JUnit regression test framework for Java
+king (2.21.120420-2)
+    interactive system for three-dimensional vector graphics
+leiningen (1.7.1-1)
+    simple build system for Clojure
+libaccess-bridge-java (1.26.2-9)
+    Java Access Bridge for GNOME
+libaccess-bridge-java-jni (1.26.2-9)
+    Java Access Bridge for GNOME (jni bindings)
+libaccess-modifier-checker-java (1.0-4)
+    Maven plugin for custom access modifier checking
+libacegi-security-java (1.0.7-3)
+    Acegi Security System for Spring
+libactivemq-activeio-java (3.1.1-1)
+    ActiveMQ ActiveIO protocol implementation framework
+libactivemq-java (5.6.0+dfsg-1)
+    Java message broker core libraries
+libactivemq-protobuf-java (1.1-3)
+    ActiveMQ Protocol Buffers Maven plugin
+libaether-java (1.13.1-2)
+    Library to handle Java artifact repositories
+libajaxtags-java (1.5.1-1)
+    Java based library supporting AJAX in Java Server Pages
+libakuma-java (1.8-1)
+    Embeddable daemonization library for Java
+libanimal-sniffer-java (1.7-2)
+    JDK/API verification tools
+libannotation-indexer-java (1.3-1)
+    Indexing and validation of Java annotations
+libantelope-java (3.5.1-2)
+    graphical user interface for Ant
+libantlr-java (2.7.7+dfsg-4)
+    language tool for constructing recognizers, compilers etc (java library)
+libantlr-maven-plugin-java (2.1-2)
+    Maven ANTLR Plugin
+libantlr3-gunit-java (3.2-7)
+    Unit Test framework for ANTLR grammars
+libaopalliance-java (20070526-5)
+    library for interoperability for Java AOP implementations
+libapache-mime4j-java (0.6.1-2)
+    MIME and RFC822 parser for Java
+libapache-poi-java (3.6+dfsg-2)
+    Poor Obfuscation Implementation
+libapache-pom-java (10-2)
+    Maven metadata for all Apache Software projects
+libargs4j-java (2.0.16-2)
+    Java command line arguments parser
+libasm-java (1.5.3-7)
+    Java bytecode manipulation framework
+libasm2-java (2.2.3-6)
+    Java bytecode manipulation framework
+libasm3-java (3.3.2-1)
+    Java bytecode manipulation framework
+libaspectj-java (1.6.12+dfsg-3)
+    aspect-oriented extension for Java - library
+libasync-http-client-java (1.6.5-1)
+    Java Asynchronous HTTP Client
+libatinject-jsr330-api-java (1.0-2)
+    Java API for JSR-330 Dependency Injection
+libatk-wrapper-java (0.30.4-3)
+    ATK implementation for Java using JNI
+libatk-wrapper-java-jni (0.30.4-3)
+    ATK implementation for Java using JNI (JNI bindings)
+libautomaton-java (1.11-8-1)
+    Finite-State Automaton for Regular Expressions
+libavalon-framework-java (4.2.0-8)
+    Common framework for Java server applications
+libaxiom-java (1.2.8-1)
+    Apache AXIOM Java library (AXIs Object Model)
+libaxis-java (1.4-16.2+deb7u1)
+    SOAP implementation in Java
+libbackport-util-concurrent-java (3.1-3)
+    backport of java.util.concurrent to Java 1.4
+libbase-java (1.1.6-2)
+    A general purpose base service library (OOo 3.1 branch)
+libbasicplayer-java (3.0-6)
+    threaded simple player class based on JavaSound API
+libbcel-java (5.2-9)
+    Analyze, create, and manipulate (binary) Java class files
+libbcmail-java (1.44+dfsg-3.1)
+    Bouncy Castle generators/processors for S/MIME and CMS
+libbcmail-java-gcj (1.44+dfsg-3.1)
+    Bouncy Castle generators/processors for S/MIME and CMS
+libbcpg-java (1.44+dfsg-3.1)
+    Bouncy Castle generators/processors for OpenPGP
+libbcpg-java-gcj (1.44+dfsg-3.1)
+    Bouncy Castle generators/processors for OpenPGP
+libbcprov-java (1.44+dfsg-3.1)
+    Bouncy Castle Java Cryptographic Service Provider
+libbcprov-java-gcj (1.44+dfsg-3.1)
+    Bouncy Castle Java Cryptographic Service Provider
+libbctsp-java (1.44+dfsg-3.1)
+    Bouncy Castle generators/processors for TSP
+libbctsp-java-gcj (1.44+dfsg-3.1)
+    Bouncy Castle generators/processors for TSP
+libbeansbinding-java (1.2.1-1)
+    Beans Binding API (library)
+libbetter-appframework-java (1.9-3)
+    Java Better Swing Application Framework (library)
+libbindex-java (2.2+svn101-1)
+    OSGi BIndex reader
+libbiojava-java (1:1.7.1-2)
+    Java API to biological data and applications (default version)
+libbiojava-java-demos (1:1.7.1-2)
+    Example programs for BioJava
+libbiojava1.7-java (1:1.7.1-2)
+    Java API to biological data and applications (version 1.7)
+libbiojava3-java (3.0.4-1)
+    Java API to biological data and applications (default version)
+libbiojava3-java
+    virtual package provided by libbiojava3-java
+libbiojava3.0-java (3.0.4-1)
+    Java API to biological data and applications (version 3)
+libbrailleutils-java (1.2~b-2)
+    cross platform library for embossing/converting PEF-files
+libbridge-method-injector-java (1.4-3)
+    Evolve Java classes without breaking compatibility
+libbrlapi-java (4.4-10+deb7u1)
+    Java bindings for BrlAPI
+libbrlapi-jni (4.4-10+deb7u1)
+    Java bindings for BrlAPI (native library)
+libbsf-java (1:2.4.0-5)
+    Bean Scripting Framework to support scripting languages in Java
+libbtm-java (2.1.2-1)
+    Bitronix JTA Transaction Manager
+libbuild-helper-maven-plugin-java (1.5-2)
+    Build Helper Maven Plugin
+libbytecode-java (0.92.svn.20090106-1)
+    Java bytecode manipulation library
+libbytelist-java (1.0.6-1)
+    helper library for packaging JRuby
+libc3p0-java (0.9.1.2-7)
+    library for JDBC connection pooling
+libcastor-anttasks-java (1.3.2-1)
+    Data binding framework for Java (XML, Objects, DB) - Ant Tasks
+libcastor-codegen-java (1.3.2-1)
+    Data binding framework for Java (XML, Objects, DB) - Codegen
+libcastor-core-java (1.3.2-1)
+    Data binding framework for Java (XML, Objects, DB) - Core
+libcastor-ddlgen-java (1.3.2-1)
+    Data binding framework for Java (XML, Objects, DB) - DDL generator
+libcastor-jdo-java (1.3.2-1)
+    Data binding framework for Java (XML, Objects, DB) - JDO
+libcastor-xml-java (1.3.2-1)
+    Data binding framework for Java (XML, Objects, DB) - XML module
+libcastor-xml-schema-java (1.3.2-1)
+    Data binding framework for Java (XML, Objects, DB) - XML Schema
+libcdi-api-java (1.0-1)
+    Contexts and Dependency Injection for Java EE
+libcdk-java (1:1.2.10-3)
+    Chemistry Development Kit (CDK) Java libraries
+libcgi-java (0.7.3-1)
+    CGI library for Java
+libcglib-java (2.2.2+dfsg-5)
+    code generation library for Java
+libclassworlds-java (1.1-final-5)
+    framework for container developers requiring manipulation of ClassLoaders
+libclean-crypto-java (1-1)
+    Simplified and unrestricted javax.crypto bootstrap library
+libclirr-maven-plugin-java (2.3-1)
+    Clirr Maven Plugin
+libclojure-maven-plugin-java (1.3.3-3)
+    Clojure plugin for Maven
+libclucy-clojure (0.3.0-1)
+    Clojure interface to the Lucene search engine
+libcobertura-java (1.9.4.1+dfsg-3)
+    java library that calculates the percentage of code accessed by tests
+libcobra-java (0.98.4-4)
+    Java HTML Renderer & Parser
+libcodemodel-java (2.1-1)
+    Java library for code generators
+libcodenarc-groovy-java (0.13-2)
+    Groovy library that provides static analysis features for Groovy code
+libcollections15-java (4.01+ds1-1)
+    Apache Commons Collections with generics support
+libcolorchooser-java (1.0+dfsg-1)
+    A Swing widget for selecting colors
+libcolorpicker-java (1.0.0-2)
+    Java control to allow color selection
+libcolt-java (1.2.0~nojar-2) [non-free]
+    scalable scientific and technical computing in Java
+libcommons-attributes-java (2.2-8)
+    adds C#/.Net-style attributes to Java code
+libcommons-beanutils-java (1.8.3-3)
+    utility for manipulating JavaBeans
+libcommons-cli-java (1.2-3)
+    API for working with the command line arguments and options
+libcommons-codec-java (1.6-1)
+    encoder and decoders such as Base64 and hexadecimal codec
+libcommons-collections-java (2.1.1-10)
+    set of abstract data type interfaces and implementations
+libcommons-collections3-java (3.2.1-5)
+    A set of abstract data type interfaces and implementations
+libcommons-compress-java (1.4.1-2)
+    Java API for working with tar, zip and bzip2 files
+libcommons-configuration-java (1.7-1)
+    Java based library providing a generic configuration interface
+libcommons-csv-java (0.1-SNAPSHOT+svn678580-3)
+    a Java library for working with csv (comma separated values) files
+libcommons-daemon-java (1.0.10-3)
+    library to launch Java applications as daemons
+libcommons-dbcp-java (1.4-3)
+    Database Connection Pooling Services
+libcommons-digester-java (1.8.1-3)
+    Rule based XML Java object mapping tool
+libcommons-discovery-java (0.5-3)
+    locates classes that implement a given Java interface
+libcommons-el-java (1.0-7)
+    Implementation of the JSP2.0 Expression Language interpreter
+libcommons-exec-java (1.0.1-1)
+    a library to reliably execute external processes from within the JVM
+libcommons-fileupload-java (1.2.2-1+deb7u2)
+    File upload capability to your servlets and web applications
+libcommons-httpclient-java (3.1-10.2)
+    A Java(TM) library for creating HTTP clients
+libcommons-io-java (1.4-4)
+    Common useful IO related classes
+libcommons-javaflow-java (0.0~svn20060411-5)
+    Java implementation of Continuations concept
+libcommons-jci-eclipse-java (1.0-5)
+    common Java interface for various compilers - Eclipse JDT
+libcommons-jci-groovy-java (1.0-5)
+    common Java interface for various compilers - Groovy
+libcommons-jci-janino-java (1.0-5)
+    common Java interface for various compilers - Janino
+libcommons-jci-java (1.0-5)
+    common Java interface for various compilers - Core and FAM
+libcommons-jci-rhino-java (1.0-5)
+    common Java interface for various compilers - Javascript
+libcommons-jexl-java (1.1-3)
+    expression language engine
+libcommons-jxpath-java (1.3-5)
+    manipulate javabean using XPath syntax
+libcommons-lang-java (2.6-3)
+    Commons Lang - an extension of the java.lang package
+libcommons-lang3-java (3.1-1)
+    Extension of the java.lang package (for Java 5+)
+libcommons-launcher-java (1.1-6)
+    cross platform java application launcher
+libcommons-logging-java (1.1.1-9)
+    commmon wrapper interface for several logging APIs
+libcommons-math-java (2.2-2)
+    Java lightweight mathematics and statistics components
+libcommons-modeler-java (2.0.1-6)
+    convenience library to use Java Management Extensions (JMX)
+libcommons-net-java (1.4.1-5)
+    dummy package for upgrading to libcommons-net-java
+libcommons-net1-java (1.4.1-5)
+    internet protocol suite Java library
+libcommons-net2-java (2.2-2)
+    internet protocol suite Java library
+libcommons-openpgp-java (0+svn533492-3)
+    a common and simple interface for generating and verifying OpenPGP signatures
+libcommons-parent-java (22-2)
+    Maven metadata for Apache Commons project
+libcommons-pool-java (1.5.6-1)
+    pooling implementation for Java objects
+libcommons-validator-java (1:1.3.1-9)
+    ease and speed development and maintenance of validation rules
+libcommons-vfs-java (2.0-3)
+    Java API for accessing various filesystems
+libconcurrent-java (1.3.4-4)
+    utility classes for concurrent java programming
+libconcurrentlinkedhashmap-java (1.1~jdk5-1)
+    Implementation of java.util.LinkedHashMap with concurrency support
+libconstantine-java (0.7-3)
+    platform constants for Java
+libcore-renderer-java (0.0~R8-1)
+    Java library that provides an XML/XHTML/CSS 2.1 Renderer
+libcortado-java (0.6.0-1)
+    streaming applet for Ogg formats
+libcrimson-java (1:1.1.3-11)
+    XML parser which support the Java API for XML Processing (JAXP)
+libcsnd-java (1:5.17.11~dfsg-3)
+    Java bindings for the Csound API
+libcssparser-java (0.9.5-1)
+    Java CSS2 Parser
+libcsv-java (2.0-12)
+    CSV IO library for Java
+libcvc3-5-java (2.4.1-4)
+    Java bindings for CVC3 (bytecode library)
+libcvc3-5-jni (2.4.1-4)
+    Java bindings for CVC3 (native library)
+libdb-java (5.1.6)
+    Berkeley Database Libraries for Java
+libdb-je-java (3.3.98-1)
+    Oracle Berkeley Database Java Edition
+libdb5.1-java (5.1.29-5)
+    Berkeley v5.1 Database Libraries for Java
+libdb5.1-java-gcj (5.1.29-5)
+    Berkeley v5.1 Database Libraries for Java (native code)
+libdb5.1-java-jni (5.1.29-5)
+    Berkeley v5.1 Database Libraries for Java
+libdbus-java (2.8-4)
+    simple interprocess messaging system (Java implementation)
+libdnsjava-java (2.0.8-1)
+    Implementation of DNS in Java
+libdom4j-java (1.6.1+dfsg.2-6)
+    flexible XML framework for Java
+libdoxia-java (1.1.4-2)
+    powerful content generation framework
+libdoxia-maven-plugin-java (1.1.4-1)
+    Maven plugin for Doxia
+libdoxia-sitetools-java (1.1.4-1)
+    Extension package of the content generation framework Doxia
+libdrmaa-java (6.2u5-7.1)
+    Distributed resource management Application API library - Java bindings
+libdtdinst-java (20091111-5)
+    XML DTD to XML instance format converter - Java library
+libdtdparser-java (1.21a-5)
+    Java DTD parser library
+libdumbster-java (1.6+debian-2)
+    very simple fake SMTP Server for testing purposes
+libdynalang-java (0.4-1)
+    The JVM Dynamic Languages Metaobject Protocol Library
+libeasyconf-java (0.9.5-3)
+    library to access configuration of software components
+libeasymock-java (2.4+ds1-7)
+    Java library to generate Mock Objects for given interfaces
+libecj-java (3.5.1-3)
+    Eclipse Java compiler (library)
+libecj-java-gcj (3.5.1-3+b1 [armhf, s390x], 3.5.1-3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc])
+    Eclipse Java compiler (native library)
+libecj-java-gcj
+    virtual package provided by ecj-gcj
+libeclipselink-java (2.1.3-2)
+    Eclipse Persistence Services Project
+libehcache-java (2.5.0-1)
+    distributed cache library
+libeigenbase-farrago-java (0.9.0-1)
+    Java framework for constructing RDBMS services
+libeigenbase-resgen-java (1.3.0.13768-1)
+    Java i18n code generator from XML files
+libemma-java (2.0.5312+dfsg-4)
+    Java code coverage tool
+libequinox-osgi-java (3.8.0~rc4-1)
+    Equinox OSGi framework
+libesd-java (0.0.7-4)
+    Implementation of EsounD in pure Java
+libexcalibur-logger-java (2.1-4)
+    Excalibur project's log management system
+libexcalibur-logkit-java (2.0-9)
+    Lightweight and fast designed logging toolkit for Java
+libexml-java (0.0.20080703-4)
+    e-xml parsing library for java
+libezmorph-java (1.0.6-3)
+    Java library for transforming an Object to another Object
+libf2j-java (0.8.1-2) [non-free]
+    Java library port of Fortran numerical libraries
+libfannj-java (0.3-1)
+    FannJ a Java binding to the Fast Artificial Neural Network (FANN) C library
+libfelix-bundlerepository-java (1.6.6-1)
+    Felix OSGi bundle repository service
+libfelix-framework-java (4.0.1-2)
+    The Felix Framework subproject
+libfelix-gogo-command-java (0.12.0-2)
+    Apache Felix Gogo Command bundle
+libfelix-gogo-runtime-java (0.10.0-2)
+    Apache Felix Gogo Runtime bundle
+libfelix-gogo-shell-java (0.10.0-2)
+    Apache Felix Gogo Shell bundle
+libfelix-main-java (4.0.1-2)
+    Librairies to instantiate and execute the Felix Framework
+libfelix-osgi-obr-java (1.0.2-3)
+    OSGi OBR Service API
+libfelix-shell-java (1.4.2-3)
+    Felix OSGi shell to issue commands to the framework
+libfelix-shell-tui-java (1.4.1-3)
+    Apache Felix Shell TUI
+libfelix-utils-java (1.1.0-3)
+    collection of utility classes for Apache Felix
+libflamingo-java (5.0-1)
+    A Swing ribbon container for Java applications
+libflexdock-java (1.1.1-3)
+    Swing Java docking framework
+libflexdock-java-demo (1.1.1-3)
+    Swing Java docking framework - demos and examples
+libflute-java (1:1.1.6-3)
+    Java CSS parser using SAC (JFree version)
+libfontbox-java (1:1.7.0+dfsg-4)
+    Java font library
+libfontchooser-java (1.0.0-1)
+    A Java control to allow font selection
+libfonts-java (1.1.6.dfsg-3)
+    Java fonts layouting library
+libfop-java (1:1.0.dfsg2-6)
+    XML formatter driven by XSL Formatting Objects (XSL-FO.)
+libformula-java (1.1.7.dfsg-2)
+    Excel(tm) style formula expressions library
+libfreehep-chartableconverter-plugin-java (2.0-6)
+    FreeHEP Character Table Converter
+libfreehep-export-java (2.1.1-2)
+    FreeHEP Export and Save As Library
+libfreehep-graphics2d-java (2.1.1-3)
+    FreeHEP 2D Graphics Library
+libfreehep-graphicsio-emf-java (2.1.1-emfplus+dfsg1-2)
+    FreeHEP Enhanced Metafile Format Driver
+libfreehep-graphicsio-java (2.1.1-3)
+    FreeHEP GraphicsIO Base Library
+libfreehep-graphicsio-java-java (2.1.1-1)
+    FreeHEP Java Driver
+libfreehep-graphicsio-pdf-java (2.1.1+dfsg-1)
+    FreeHEP Portable Document Format Driver
+libfreehep-graphicsio-ps-java (2.1.1-1)
+    FreeHEP (Encapsulated) PostScript Driver
+libfreehep-graphicsio-svg-java (2.1.1-3)
+    FreeHEP Scalable Vector Graphics Driver
+libfreehep-graphicsio-swf-java (2.1.1+dfsg-1)
+    FreeHEP SWF (Flash) Driver
+libfreehep-graphicsio-tests-java (2.1.1+dfsg1-3)
+    FreeHEP GraphicsIO Test Library
+libfreehep-io-java (2.0.2-4)
+    FreeHEP I/O library
+libfreehep-swing-java (2.0.3-3)
+    FreeHEP swing extensions
+libfreehep-util-java (2.0.2-5)
+    FreeHEP utility library
+libfreehep-xml-java (2.1.2+dfsg1-3)
+    FreeHEP XML Library
+libfreemarker-java (2.3.18-1)
+    template engine written in Java
+libganymed-ssh2-java (250-2)
+    pure Java implementation of the SSH-2 protocol
+libgcj-bc (4.7.2-1 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 4.6.3-8 [ia64])
+    Link time only library for use with gcj
+libgcj-common (1:4.6.3-8)
+    Java runtime library (common files)
+libgdcm-java (2.2.0-14.1)
+    Grassroots DICOM Java bindings
+libgentlyweb-utils-java (1.5-1)
+    java utility library used by josql
+libgeronimo-activation-1.1-spec-java (1.0.2-2)
+    Java Activation Framework implementation from Apache Geronimo
+libgeronimo-commonj-spec-java (1.1.1-1)
+    Java API for concurrent programming of EJBs and Servlets
+libgeronimo-ejb-3.0-spec-java (1.0.1-1)
+    Geronimo API implementation of the EJB 3.0 spec
+libgeronimo-interceptor-3.0-spec-java (1.0.1-1)
+    Geronimo API implementation of the Interceptor 3.0 spec
+libgeronimo-j2ee-connector-1.5-spec-java (2.0.0-1)
+    Geronimo API implementation of the J2EE connector 1.5 spec
+libgeronimo-jacc-1.1-spec-java (1.0.1-1.1)
+    Geronimo API implementation of the JACC 1.1 spec
+libgeronimo-javamail-1.4-provider-java (1.8.3-1)
+    Geronimo implementation of the JavaMail 1.4 provider
+libgeronimo-javamail-1.4-spec-java (1.7.1-2)
+    Geronimo API implementation of the JavaMail 1.4 spec
+libgeronimo-jms-1.1-spec-java (1.1-1.2)
+    Geronimo API implementation of the JMS 1.1 spec
+libgeronimo-jpa-2.0-spec-java (1.1-2)
+    Geronimo JSR-317 Java Persistence (JPA) 2.0 Spec API
+libgeronimo-jpa-3.0-spec-java (1.1.1-1)
+    Geronimo API implementation of the JPA 3.0 spec
+libgeronimo-jta-1.1-spec-java (1.1.1-2)
+    Geronimo API implementation of the JTA 1.1 spec
+libgeronimo-osgi-support-java (1.0-2)
+    Java libraries providing OSGi lookup support for Geronimo projects
+libgeronimo-stax-1.2-spec-java (1.1-1)
+    Geronimo API implementation of the StAX 1.2 spec
+libgeronimo-validation-1.0-spec-java (1.1-2)
+    Geronimo JSR-303 Bean Validation Spec API
+libgetopt-java (1.0.13-4)
+    GNU getopt - Java port
+libgettext-ant-tasks-java (0.9.7~svn203-2)
+    Java classes for internationalization (i18n) - Ant tasks
+libgettext-commons-java (0.9.6-2)
+    Java classes for internationalization (i18n)
+libglazedlists-java (1.8.0.dfsg-4)
+    java list transformation library
+libglpk-java (1.0.18-1)
+    Java binding to the GNU Linear Programming Kit
+libgluegen2-build-java (2.0-rc5-4)
+    Tool to automatically generate the Java and JNI code.
+libgluegen2-jni (2.0-rc5-4)
+    Tool to automatically generate the Java and JNI code.
+libgluegen2-rt-java (2.0-rc5-4)
+    Tool to automatically generate the Java and JNI code.
+libgmetrics-groovy-java (0.5-1)
+    Groovy library that provides reports and metrics for Groovy code
+libgnu-regexp-java (1.1.4-4)
+    Regular Expressions for Java
+libgnuinet-java (1.1.2-2)
+    extension library to provide extra network protocol support
+libgnujaf-java (1.1.1-8)
+    free implementation of the javabeans activation framework
+libgnumail-java (1.1.2-7)
+    free implementation of the javamail API
+libgoogle-collections-java (1.0-2)
+    suite of collections and related goodies for Java 5.0
+libgoogle-gson-java (2.1-2)
+    Converts Java objects into their JSON representation
+libgpars-groovy-java (0.10-1)
+    open-source concurrency library for Groovy
+libgroboutils-java (5-2)
+    Java-based testing tools and JUnit extensions
+libgroovy1.7.2-java (1.7.2-1)
+    Agile dynamic language for the Java Virtual Machine
+libguava-java (11.0.2-1)
+    suite of Google Common Libraries for Java 5.0
+libguestfs-java (1:1.18.1-1+deb7u3)
+    guest disk image management system - Java bindings
+libguice-java (3.0-1)
+    lightweight dependency injection framework for Java 5 and above
+libha-jdbc-java (2.0.16+rc1-2)
+    JDBC proxy that provides clustering capability to any JDBC driver
+libhamcrest-java (1.2-2)
+    library of matchers for building test expressions
+libhawtjni-runtime-java (1.0~+git0c502e20c4-3+deb7u1)
+    Java library that provide JNI code generation
+libhessian-java (4.0.6-1)
+    Java implementation of a binary protocol for web services
+libhibernate-commons-annotations-java (3.2.0.Final-2)
+    Hibernate Commons Annotations
+libhibernate-jbosscache-java (3.6.8-2)
+    Java library for integration of Hibernate with JBossCache
+libhibernate-validator-java (4.0.2.GA-7)
+    Hibernate Validator
+libhibernate3-java (3.6.9.Final-2)
+    Relational Persistence for Idiomatic Java
+libhmsbeagle-java (1.0-6)
+    High-performance lib for Bayesian and Maximum Likelihood phylogenetics
+libhsqldb-java (1.8.0.10+dfsg-0+deb7u1)
+    Java SQL database engine
+libhsqldb-java-gcj (1.8.0.10+dfsg-0+deb7u1)
+    Java SQL database engine (native code)
+libhtmlparser-java (1.6.20060610.dfsg0-3)
+    java library to parse html
+libhtmlunit-core-js-java (2.8-1)
+    GUI-Less browser for Java programs - JavaScript engine
+libhtmlunit-java (2.8-1)
+    GUI-Less browser for Java programs
+libhttpclient-java (4.1.1-2)
+    HTTP/1.1 compliant HTTP agent implementation
+libhttpcore-java (4.1.4-2.1)
+    set of low level HTTP transport components for Java
+libhttpmime-java (4.1.1-2)
+    HTTP/1.1 compliant HTTP agent implementation - mime4j extension
+libhttpunit-java (1.7+dfsg-9)
+    automated web site testing toolkit
+libibatis-java (2.3.4.726-3)
+    iBATIS Data Mapper framework
+libicee-java (1.2.0-3)
+    Ice-E for Java libraries
+libicu4j-4.4-java (4.4.2.2-1)
+    Library for Unicode support and internalisation
+libicu4j-java (4.2.1.1-1)
+    Library for unicode support and internalisation
+libidm-console-framework-java (1.1.7-1)
+    IDM Console Framework for the 389 Directory Server Console
+libidn11-java (1.25-2)
+    Java port of the GNU Libidn library, an IDN implementation
+libindigo-java (1.0.0-2)
+    Organic Chemistry Toolkit (Java package)
+libini4j-java (0.5.2-SNAPSHOT-2)
+    Java API for handling Windows ini file format (library)
+libirclib-java (1.10-2)
+    Java implementation of the IRC protocol
+libiscwt-java (5.3.20100629-2)
+    abstractions and Java implementations for rendering PDF
+libisfreetype-java (5.3.20100629-3)
+    Java wrapper for FreeType font handling library
+libisnativec-java (5.3.20100629+fix-1)
+    helper routines to access native code from Java
+libisorelax-java (20041111-6)
+    Interface for applications to support RELAX Core
+libisrt-java (4.8.20100629-2)
+    common runtime library by intarsys
+libitext-java (2.1.7-3+deb7u1)
+    Java Library to create and manipulate PDF on the fly
+libitext-java-gcj (2.1.7-3+deb7u1)
+    Java Library to create and manipulate PDF on the fly
+libitext-rtf-java (2.1.7-3+deb7u1)
+    Java Library to create and manipulate RTF files on the fly
+libitext-rups-java (2.1.7-3+deb7u1)
+    graphical tool for Reading and Updating PDF Syntax (RUPS)
+libitext1-java (1.4-5)
+    Java Library to generate PDF on the Fly
+libitext5-java (5.0.6+svn4804-1)
+    Java Library to create and manipulate PDF on the fly
+libj2ssh-java (0.2.9-3)
+    Java library for the SSH protocol
+libjaba-client-java (0+dfsg-1)
+    minimal client for the JABAWS server
+libjabsorb-java (1.3-2) [non-free]
+    Java to Javascript object request broker
+libjackrabbit-java (2.3.6-1)
+    content repository implementation (JCR API)
+libjackson-json-java (1.9.2-1)
+    streaming fast powerful standard conformant json processor in java
+libjaffl-java (0.5.4-1.1)
+    Java Abstracted Foreign Function Layer
+libjai-core-java (1.1.4-3) [non-free]
+    Java Advanced Imaging API reference implementation
+libjai-imageio-core-java (1.2-3) [non-free]
+    Java Advanced Imaging Image I/O Tools API core
+libjakarta-ecs-java (1.4.2-2)
+    Element construction set for various markup languages
+libjakarta-taglibs-standard-java (1.1.2-2)
+    Implementation of JSP Standard Tag Library (JSTL)
+libjam-java (0.0.r297-1)
+    Java applications look and behave like native applications
+libjama-java (1.0.2-4)
+    a basic linear algebra library for Java
+libjamon-java (2.7-3)
+    Java API for easy monitoring production applications
+libjansi-java (1.4-3)
+    Java library for generating and interpreting ANSI escape sequences
+libjansi-native-java (1.0-3)
+    Java library that allows to use ANSI escape sequences - Native
+libjargs-java (1.0.0-3)
+    Command-line argument parsing for Java
+libjarjar-java (1.1-3)
+    repackage third-party jars
+libjarjar-maven-plugin-java (1.5-1)
+    Maven plugin to repackage third-party jars
+libjas-java (2.4.3938-2)
+    Java object-oriented type-safe Algebra System
+libjas-plotter-java (2.2.6+dfsg1-2)
+    JAS(2) Plotter graphic library
+libjasperreports-java (4.1.3+dfsg-1)
+    Java reporting generator library
+libjasperreports3.7-java (3.7.4+dfsg-2)
+    Java reporting generator library
+libjasypt-java (1.8-1)
+    java library for simple high-level encryption
+libjaudiotagger-java (2.0.3-1)
+    library for editing tags like ID3 in audio files such as MP3s
+libjava-gnome-java (4.1.1-4)
+    Java-gnome language bindings project
+libjava-gnome-jni (4.1.1-4)
+    Java-gnome language bindings project
+libjava-jdbc-clojure (0.2.2-1)
+    Clojure interface to sql databases via jdbc
+libjava-xmlbuilder-java (0.4-2)
+    XML Builder Java library for creating XML documents
+libjava3d-java (1.5.2+dfsg-8)
+    Java 3D API (java library)
+libjava3d-jni (1.5.2+dfsg-8)
+    Java3D API (java jni library)
+libjavacc-maven-plugin-java (2.6-2)
+    maven plugin which uses JavaCC to process JavaCC grammar files
+libjavassist-java (1:3.12.1.ga-2)
+    library for editing bytecodes in Java
+libjaxe-java (3.5-2)
+    JAva Xml Editor - library
+libjaxen-java (1.1.3-1)
+    Java XPath engine
+libjaxme-java (0.5.2+dfsg-6)
+    implementation of the JAXB specification for Java/XML binding
+libjaxp1.3-java (1.3.05-2)
+    Java XML parser and transformer APIs (DOM, SAX, JAXP, TrAX)
+libjaxp1.3-java-gcj (1.3.05-2)
+    Java XML parser and transformer APIs (DOM, SAX, JAXP, TrAX) - GCJ
+libjazzy-java (0.5.2-1)
+    spell checker java library
+libjbcrypt-java (0.3-3)
+    Java implementation of OpenBSD's Blowfish hashing
+libjboss-aop-java (2.0.1.GA-3)
+    JBoss Aspect Oriented Programming (AOP) framework
+libjboss-aspects-java (4.2.3.GA-7)
+    JBoss Aspects
+libjboss-cache1-java (1.4.1.SP14-1)
+    cache frequently accessed Java objects
+libjboss-cache2-java (2.2.2.GA+ds1-1)
+    cache frequently accessed Java objects
+libjboss-cache3-java (3.2.8.GA-1)
+    cache frequently accessed Java objects
+libjboss-classloader-java (2.0.6.GA-2)
+    JBoss Classloader
+libjboss-cluster-java (4.2.3.GA-7)
+    JBoss Cluster
+libjboss-common-java (0.0+svn2938-3)
+    The JBoss Common Project
+libjboss-connector-java (4.2.3.GA-7)
+    JBoss Connector
+libjboss-deployers-java (2.0.4.GA-2)
+    JBoss Deployment Framework
+libjboss-deployment-java (4.2.3.GA-7)
+    JBoss Deployment
+libjboss-ejb3-java (4.2.3.GA-7)
+    JBoss Enterprise Java Beans (EJB) 3.0
+libjboss-ejb3x-java (4.2.3.GA-7)
+    JBoss Enterprise Java Beans (EJB3X)
+libjboss-integration-java (5.0.3.GA-2)
+    JBoss Integration
+libjboss-j2ee-java (4.2.3.GA-7)
+    JBoss J2EE core libraries
+libjboss-jms-java (4.2.3.GA-7)
+    JBoss Java Message Service (JMS)
+libjboss-jmx-java (4.2.3.GA-7)
+    JBoss Java Management Extensions
+libjboss-managed-java (2.0.0.CR4+dak1-2)
+    JBoss Managed
+libjboss-management-java (4.2.3.GA-7)
+    JBoss Management
+libjboss-marshalling-java (1.1.3.GA-3)
+    alternative serialization API
+libjboss-messaging-java (4.2.3.GA-7)
+    JBoss Messaging
+libjboss-metadata-java (2.0.3.GA-1)
+    JBoss MetaData Repository
+libjboss-microcontainer-java (2.0.10.GA-2)
+    JBoss Microcontainer
+libjboss-naming-java (4.2.3.GA-7)
+    JBoss Naming
+libjboss-profiler-java (1.0.CR4-2)
+    JBoss Profiler
+libjboss-reflect-java (2.0.3.GA-1)
+    JBoss Reflection api for ClassInfo and BeanInfo abstractions
+libjboss-remoting-java (2.5.3.SP1-1)
+    JBoss Remoting
+libjboss-security-java (4.2.3.GA-7)
+    JBoss Security
+libjboss-serialization-java (1.0.3.GA+dak1-3)
+    JBoss Serialization
+libjboss-server-java (4.2.3.GA-7)
+    JBoss Server
+libjboss-system-java (4.2.3.GA-7)
+    JBoss System
+libjboss-test-java (4.2.3.GA-7)
+    JBoss Test Suite
+libjboss-transaction-java (4.2.3.GA-7)
+    JBoss Transaction
+libjboss-vfs-java (2.0.1.GA-2)
+    JBoss Virtual File System
+libjboss-web-services-java (0.0+svn5660+dak2-3)
+    JBoss Web Services (JBossWS)
+libjboss-webservices-java (4.2.3.GA-7)
+    JBoss Web Services
+libjboss-xml-binding-java (2.0.3.GA-2)
+    JBoss XML Binding
+libjbzip2-java (0.9.1-3)
+    bzip2 compression/decompression library
+libjcalendar-java (1.3.3-3)
+    Java date chooser bean for graphically picking a date
+libjcharts-java (0.7.5-3)
+    java based charts library
+libjcifs-java (1.3.16-1)
+    java library for the CIFS/SMB networking protocol
+libjcip-annotations-java (20060626-3)
+    Java Concurrency In Practice annotations library
+libjcm-java (1.0-1)
+    Java Components for Mathematics
+libjcodings-java (1.0.4-1)
+    Java-based codings helper classes for Joni and JRuby
+libjcommander-java (1.26-1)
+    Java framework for parsing command line parameters
+libjcommon-java (1.0.16-2)
+    General Purpose library for Java
+libjcsp-java (1.1-rc4-1)
+    Java library providing Communicating Sequential Processes (CSP) features
+libjdbm-java (1.0-2)
+    transactional persistence engine for Java
+libjdepend-java (2.9-5)
+    tool to measure design quality of java class and source
+libjdo-api-java (2.2-1)
+    implementation of JSR 243: Java Data Objects 2.0
+libjdom1-java (1.1.2+dfsg-2)
+    lightweight and fast library using XML
+libjebl2-java (0.0.r6-1)
+    Java Evolutionary Biology Library
+libjellydoc-java (1.5-2)
+    Library for helping generate Jelly taglib documentation
+libjemmy2-java (2.3.1.1-2)
+    Java library for automated Java GUI testing
+libjempbox-java (1:1.7.0+dfsg-4)
+    XMP Compatible Java Library
+libjena-iri-java (0.8-1)
+    Java implementation of the RFC 3987 (IRI) norm
+libjenkins-commons-jelly-java (1.1-jenkins-20110627-3)
+    Jenkins fork of Apache Commons Jelly
+libjenkins-commons-jexl-java (1.1-jenkins-20111212-1)
+    Jenkins fork of the JSTL Expression Language with extensions
+libjenkins-dom4j-java (1.6.1-hudson-3-1)
+    Jenkins variant of the flexible XML framework for Java
+libjenkins-htmlunit-core-js-java (2.6-hudson-1-1)
+    Jenkins branch of the HtmlUnit Core JS Interpreter
+libjenkins-htmlunit-java (2.6-jenkins-6-1)
+    Jenkins branch of HtmlUnit browser testing for web apps
+libjenkins-json-java (2.1-rev7-2)
+    Library for transforming Java objects between XML and JSON
+libjenkins-remoting-java (2.11+dfsg-1)
+    Bridge separate JVMs into a single semi-shared space
+libjenkins-trilead-ssh2-java (212-hudson-6+dfsg-1)
+    Trilead SSH2 implementation for Java (Jenkins variant)
+libjenkins-winstone-java (0.9.10-jenkins-37+dfsg-2)
+    Jenkins branch of Winstone servlet container
+libjenkins-xstream-java (1.3.1-jenkins-9-3)
+    Java library to serialize objects to XML and back again
+libjericho-html-java (3.1-2)
+    Java based library for HTML Parsing
+libjets3t-java (0.8.1+dfsg-1)
+    Java interface to Amazon S3 and CloudFront services
+libjettison-java (1.2-3)
+    collection of StAX parsers and writers for JSON
+libjetty-extra-java (6.1.26-1)
+    Java servlet engine and webserver -- extra libraries
+libjetty-java (6.1.26-1)
+    Java servlet engine and webserver -- core libraries
+libjetty8-extra-java (8.1.3-4)
+    Java servlet engine and webserver -- extra libraries
+libjetty8-java (8.1.3-4)
+    Java servlet engine and webserver -- core libraries
+libjeuclid-core-java (3.1.9-2)
+    Complete MathML rendering solution (java classes)
+libjeuclid-fop-java (3.1.9-2)
+    Complete MathML rendering solution (fop plugin)
+libjexcelapi-java (2.6.12-2)
+    Java API to read, write and modify Excel spreadsheets
+libjffi-java (1.0.2-9)
+    Java Foreign Function Interface
+libjffi-jni (1.0.2-9)
+    Java Foreign Function Interface (JNI library)
+libjfreechart-java (1.0.13-4)
+    Chart library for Java
+libjfugue-java (4.0.3-3)
+    Java API for music programming
+libjgit-java (2.0.0-2)
+    Java implementation of GIT version control
+libjgoodies-animation-java (1.2.0-5)
+    Time-based real-time animations in Java
+libjgoodies-binding-java (2.1.0-1)
+    Swing Data Binding Framework
+libjgoodies-common-java (1.3.0-2)
+    JGoodies Common library
+libjgoodies-forms-java (1.3.0-2)
+    Framework to lay out and implement elegant Swing panels
+libjgoodies-looks-java (2.5.0-2)
+    library with Swing look&feel implementations
+libjgraph-java (5.12.4.2+dfsg-2)
+    JFC/Swing graph component for Java
+libjgrapht0.6-java (0.6.0-11)
+    mathematical graph theory library for Java
+libjgrapht0.8-java (0.8.3-1)
+    mathematical graph theory library for Java
+libjgraphx-java (1.4.1.0-3)
+    Java Swing Diagramming Library
+libjgromacs-java (1.0-1)
+    library for molecular dynamics trajectory analysis
+libjgroups-java (2.12.2.Final-2)
+    Toolkit for Reliable Multicast Communication
+libjgroups2.6-java (2.6.15.GA-2)
+    Toolkit for Reliable Multicast Communication
+libjhdf4-java (2.8.0-5)
+    Java HDF4 Object Package
+libjhdf4-jni (2.8.0-5)
+    Java HDF4 Object Package (Java JNI library)
+libjhdf5-java (2.8.0-5)
+    Java HDF5 Object Package
+libjhdf5-jni (2.8.0-5)
+    Java HDF5 Object Package (Java JNI library)
+libjhlabs-filters-java (2.0.235-3)
+    Java Image Processing Filters
+libjibx-java (1.2.3-2)
+    Framework for binding XML data to Java objects
+libjibx1.1-java (1.1.6a-3)
+    Framework for binding XML data to Java objects
+libjibx1.2-java (1.2.3-2)
+    Framework for binding XML data to Java objects
+libjing-java (20091111-5)
+    RELAX NG validator - library
+libjinput-java (20100502+dfsg-7)
+    Java Game Controller API
+libjinput-jni (20100502+dfsg-7)
+    Java Game Controller API (jni)
+libjiu-java (0.14.2+3-4)
+    library to load, analyze, process and save pixel images
+libjlapack-java (0.8~dfsg-1) [contrib]
+    LAPACK numerical subroutines translated from their Fortran 77 source
+libjlatexmath-fop-java (0.9.7-1)
+    Implementation of LaTeX math mode wrote in Java (fop plugin)
+libjlatexmath-java (0.9.7-1)
+    Implementation of LaTeX math mode wrote in Java
+libjlayer-java (1.0.1-2)
+    library to decode, convert and play MP3 files
+libjlha-java (0.0.20050504-8)
+    LHA compress/decompress library for Java
+libjlibeps-java (0.1+2-2)
+    Java library to create EPS images
+libjline-java (1.0-2)
+    Java library for handling console input
+libjmac-java (1.74-6)
+    Open Source Java Monkey's Audio Decoder/Encoder/JavaSound SPI
+libjmagick6-java (6.2.6-0-8)
+    java interface to ImageMagick - java classes
+libjmagick6-jni (6.2.6-0-8+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 6.2.6-0-8+b1 [armhf, s390x])
+    java interface to ImageMagick - native library
+libjmdns-java (3.4.1-2)
+    Java implementation of multi-cast DNS (Apple Rendezvous)
+libjmock-java (1.2.0-1)
+    Java library for testing code with mock objects
+libjmock2-java (2.5.1+dfsg-2)
+    Java library for testing code with mock objects
+libjmol-java (12.2.32+dfsg2-1)
+    Java library for molecular structures
+libjna-java (3.2.7-4)
+    Dynamic access of native libraries from Java without JNI
+libjna-posix-java (1.0.1-1)
+    basic POSIX-like functions for Java
+libjnr-netdb-java (1.0.3-2)
+    Lookup TCP and UDP services from java
+libjnr-posix-java (1.1.4~git1.8aa26268b-1)
+    basic POSIX-like functions for Java
+libjnr-x86asm-java (0.1-1)
+    Pure java x86 and x86_64 assembler
+libjoda-convert-java (1.2-2)
+    Joda convert
+libjoda-time-java (2.1-2)
+    Java date and time API
+libjodconverter-java (2.2.2-7)
+    Office formats converter - Library
+libjodreports-java (2.4.0-3)
+    Merge OpenDocument text with data - Library
+libjogl-java (1.1.1+dak1-12)
+    Java bindings for OpenGL API (java library)
+libjogl-jni (1.1.1+dak1-12)
+    Java bindings for OpenGL API (java jni library)
+libjogl2-java (2.0-rc5-2)
+    Java bindings for OpenGL API
+libjogl2-jni (2.0-rc5-2)
+    Java bindings for OpenGL API (JNI lib)
+libjoptsimple-java (3.1-4)
+    Command line parsing java library
+libjorbis-java (0.0.17-2)
+    Pure Java Ogg Vorbis Decoder
+libjortho-freeplane-java (1.1.3-2)
+    Java spell-checking library.
+libjosql-java (2.2-1)
+    library to apply SQL-like syntax to Java objects
+libjpedal-jbig2-java (20100117-1)
+    library for accession of large images
+libjpf-java (1.5.1+dfsg-4)
+    Java Plugin Framework: plug-in infrastructure library for Java projects
+libjpfcodegen-java (0.4+dfsg-4)
+    tool for generating classes from JPF plug-ins
+libjrosetta-java (1.0.4-4)
+    JRosetta - Advanced graphical console engine
+libjruby-joni-java (1.1.4-2)
+    Java port of Oniguruma regexp library
+libjsch-java (0.1.42-2)
+    pure Java implementation of the SSH2 protocol
+libjsf-api-java (2.0.3-2)
+    JavaServer Faces 2.0 Java EE web framework - API
+libjsf-impl-java (2.0.3-2)
+    JavaServer Faces 2.0 Java EE web framework - Implementation
+libjsilver-java (1.0.0.dfsg-1)
+    Clearsilver templates in pure Java
+libjson-java (2.3-2)
+    library for transforming Java objects and XML to JSON and back again
+libjson-simple-java (1.1-dfsg1-1)
+    Simple, lightweight and efficient JSON toolkit for Java
+libjsoup-java (1.6.2-1)
+    Java HTML parser that makes sense of real-world HTML soup
+libjspeex-java (0.9.7-3)
+    Java Implementation of Speex
+libjsr107cache-java (1.0.dfsg.1-4)
+    Java API for caching
+libjsr166y-java (0.1.20080107-2)
+    Parallel computation framework for Java
+libjsr305-java (0.1~+svn49-4)
+    Java library that provides annotations for software defect detection
+libjsr311-api-java (1.1.1-1)
+    JSR 311, JAX-RS, Java API for RESTful Web Services
+libjss-java (4.3.1-4)
+    Network Security Services for Java
+libjstl1.1-java (1.1.2-2)
+    JSP Standard Tag Library API v1.1 Reference Implementation
+libjswingreader-java (0.3-1)
+    RSS NewsFeed reader for Java
+libjsyntaxpane-java (0.9.5~r148-2)
+    Java EditorPane with support for Syntax Highlighting
+libjtds-java (1.2.5+dfsg-2)
+    JDBC 3.0 driver for Microsoft SQL Server(tm) and Sybase(tm)
+libjtharness-java (4.4.0-MR1-Rel-b19-1)
+    jtharness
+libjtidy-java (7+svn20110807-4)
+    JTidy
+libjts-java (1.11-1)
+    JTS Topology Suite
+libjtype-java (0.1.1-1)
+    Helper library for the Java 5 Type
+libjug-java (2.0.0-2)
+    Pure java UUID generator
+libjunitperf-java (1.9.1-8)
+    JUnit extensions for performance and scalability testing
+libjutils-java (20100502+dfsg-2)
+    Common utilities for Java Game Technology Group projects
+libjvyamlb-java (0.2.5-2)
+    pure Java YAML loader and dumper
+libjxgrabkey-java (0.3.2-6)
+    X11 hotkey API for java
+libjxgrabkey-jni (0.3.2-6)
+    X11 hotkey API for java (jni backend)
+libjxp-java (1.6.1-3)
+    Java template engine/script processor
+libjzlib-java (1.1.0-1)
+    reimplementation of zlib in pure Java
+libkml-java (1.3.0~r863-4.1)
+    A library to manipulate KML 2.2 OGC standard files - Java package
+libkmlframework-java (0.0.20090718-1)
+    library/framework for generating Google Earth KML
+libknopflerfish-osgi-framework-java (2.3.3-2)
+    Java framework implementing the OSGi R4 version
+libkxml2-java (2.3.0+ds1-2)
+    small XML parser, designed for small environments
+liblaf-plugin-java (1.0-2)
+    support for third-party components in Java look-and-feel libraries
+liblaf-widget-java (4.3-2)
+    Java widget toolbox for other look-and-feel libraries
+liblastfm-java (1:0.1.0-2)
+    last.fm API bindings for Java
+liblayout-java (0.2.10-2)
+    Java layouting framework
+libldap-java (4.18-5)
+    Netscape Directory SDK for Java
+liblein-clojars-clojure (0.8.0-1)
+    Leiningen Plugin
+liblink-grammar4-java (4.7.4-2)
+    Carnegie Mellon University's link grammar parser (JNI library)
+liblivetribe-jsr223-java (2.0.6-1)
+    Implementation of JSR 223: Scripting for Java
+libloader-java (1.1.6.dfsg-4)
+    Java general purpose resource loading framework
+liblocalizer-java (1.13-2)
+    type-safe access to message resources
+liblog4j1.2-java (1.2.16-3)
+    Logging library for java
+liblogback-java (1:1.0.4-1)
+    flexible logging library for Java
+liblouisutdml-java (2.2.0-1)
+    Braille UTDML translation library - java bindings
+liblucene2-java (2.9.4+ds1-4)
+    Full-text search engine library for Java(TM)
+liblucene3-contrib-java (3.6.0+dfsg-1+deb7u1)
+    Full-text search engine library for Java(TM)
+liblucene3-java (3.6.0+dfsg-1+deb7u1)
+    Full-text search engine library for Java(TM)
+liblwjgl-java (2.7.1+dfsg-3)
+    Lightweight Java Game Library
+liblwjgl-java-jni (2.7.1+dfsg-3)
+    Lightweight Java Game Library (jni)
+libmac-widgets-java (0.9.5+svn369-dfsg1-3)
+    collection of Mac style widgets written in Java
+libmatthew-debug-java (0.7.3-1)
+    Debugging library for Java
+libmatthew-io-java (0.7.3-1)
+    Extra IO library for Java
+libmaven-ant-tasks-java (2.1.3-2)
+    use Maven's artifact handling features from Ant
+libmaven-antrun-extended-plugin-java (1.42-1)
+    Extended integration between Maven and Ant
+libmaven-antrun-plugin-java (1.6-2)
+    Maven AntRun Plugin
+libmaven-archiver-java (2.4-4)
+    Archiver component for Maven
+libmaven-assembly-plugin-java (2.2~beta5-2)
+    Maven Assembly Plugin
+libmaven-bundle-plugin-java (2.3.5-1)
+    Maven plugin to handle artifact OSGi metadata
+libmaven-clean-plugin-java (2.3-5)
+    Maven clean plugin
+libmaven-cobertura-plugin-java (2.3+dfsg-2)
+    Maven Cobertura Plugin
+libmaven-common-artifact-filters-java (1.2-1)
+    Maven Common Artifact Filters
+libmaven-compiler-plugin-java (2.0.2-6)
+    Maven Compiler plugin
+libmaven-dependency-analyzer-java (1.2-1)
+    Maven Dependency Analyzer
+libmaven-dependency-plugin-java (2.1-4)
+    Maven Dependency Plugin
+libmaven-dependency-tree-java (1.2-4)
+    Maven Dependency Tree
+libmaven-docck-plugin-java (1.0-4)
+    Maven Documentation Checker Plugin
+libmaven-doxia-tools-java (1.2.1-2)
+    utilities for integrating Doxia in Maven
+libmaven-ear-plugin-java (2.3.2-3)
+    Maven EAR Plugin
+libmaven-ejb-plugin-java (2.2-2)
+    Maven EJB Plugin
+libmaven-embedder-java (2.0.4-3)
+    Maven Embedder
+libmaven-enforcer-plugin-java (1.0-1)
+    Maven build rule execution framework
+libmaven-exec-plugin-java (1.1.1+dfsg-3)
+    Maven Exec Plugin
+libmaven-file-management-java (1.2.1-3)
+    Maven File Management API
+libmaven-filtering-java (1.0~beta-2-5)
+    Maven Filtering
+libmaven-hpi-plugin-java (1.79-3)
+    Maven2 plugin for building Jenkins plugins
+libmaven-install-plugin-java (2.3-4)
+    Maven install plugin
+libmaven-invoker-java (2.0.11-1)
+    Maven Invoker
+libmaven-invoker-plugin-java (1.5-2)
+    Maven Invoker Plugin
+libmaven-jar-plugin-java (2.2-6)
+    Maven Jar Plugin
+libmaven-javadoc-plugin-java (2.6.1-2)
+    Maven Javadoc Plugin
+libmaven-parent-java (21-2)
+    Maven metadata for Apache Maven itself
+libmaven-plugin-testing-java (1.2-3)
+    Maven Plugin Testing
+libmaven-plugin-tools-java (2.8-2)
+    Maven Plugin Tools Base POM
+libmaven-project-info-reports-plugin-java (2.4-1)
+    Maven Project Info Reports Plugin
+libmaven-reporting-impl-java (2.1-1)
+    Maven Reporting API Implementation
+libmaven-repository-builder-java (1.0~alpha2-3)
+    Maven Repository Builder
+libmaven-resources-plugin-java (2.3-7)
+    Maven resources plugin
+libmaven-scm-java (1.3-4)
+    Maven SCM provides a common API for doing SCM operations
+libmaven-shade-plugin-java (1.2.1-4)
+    Maven shade plugin
+libmaven-shared-io-java (1.1-4)
+    Maven API for I/O support
+libmaven-shared-jar-java (1.1-1)
+    Maven JAR Utilities
+libmaven-site-plugin-java (2.1-2)
+    Maven Site Plugin for generating a site
+libmaven-stapler-plugin-java (1.16-4)
+    Maven plugin for developing stapler applications
+libmaven-verifier-java (1.2-1)
+    Maven Verifier Component
+libmaven-war-plugin-java (2.1.1-1)
+    Maven WAR Plugin
+libmaven2-core-java (2.2.1-8)
+    Core libraries for Maven2
+libmecab-java (0.99.3-1)
+    mecab binding for Java - java classes
+libmecab-jni (0.99.3-1)
+    mecab binding for Java - native interface
+libmetadata-extractor-java (2.3.1+dfsg-2)
+    JPEG metadata extraction framework
+libmetainf-services-java (1.4-1)
+    META-INF/services generator
+libmicroba-java (1:0.4.4.3-4)
+    set of JFC (Swing) components
+libmiglayout-java (3.7.4-2)
+    Java Layout Manager
+libmina-java (1.1.7.dfsg-10)
+    Java network application framework
+libmina2-java (2.0.4+dfsg-2)
+    Java network application framework
+libmockito-java (1.9.0+ds1-2)
+    mocking framework for Java
+libmockobjects-java (0.09-4)
+    Framework for developing and using mock objects
+libmodello-java (1.1-2)
+    a Data Model toolkit in use by the Maven 2 Project
+libmodello-maven-plugin-java (1.1-2)
+    Modello Maven Plugin enables the use of Modello in Maven builds
+libmodello-maven-plugin1.4-java (1.4.1-1)
+    Modello Maven Plugin enables the use of Modello in Maven builds
+libmodello1.4-java (1.4.1-1)
+    a Data Model toolkit in use by the Maven 2 Project
+libmondrian-java (1:3.4.1-1)
+    OLAP server written in Java
+libmorfologik-stemming-java (1.2.2-1.1)
+    Finite state automaton and stemming engine library
+libmp3spi-java (1.9.5-1)
+    interface to support MP3 (MPEG 1/2/2.5 Layer 1/2/3) audio format
+libmpj-java (0.38~dfsg-1)
+    Java library for parallel applications for multicore processors and clusters
+libmsv-java (2009.1+dfsg1-3)
+    Sun multi-schema XML validator
+libmtj-java (0.9.14~dfsg-2) [contrib]
+    Java library for developing numerical applications
+libmule-java-2.0 (2.0.1-5)
+    Mule Enterprise Service Bus Java libraries
+libmunge-maven-plugin-java (1.0-1)
+    Maven plugin to pre-process Java code
+libmvel-java (2.0.18-2)
+    expression language for Java-based applications - Library
+libmx4j-java (3.0.2-12)
+    Open Source implementation of the JMX(TM) technology
+libmysql-java (5.1.16-2)
+    Java database (JDBC) driver for MySQL
+libnaga-java (2.1-3)
+    Simplified Java NIO asynchronous sockets
+libnanoxml2-java (2.2.3.dfsg-4)
+    small XML parser for Java
+libnb-absolutelayout-java (7.0.1+dfsg1-5)
+    Java LayoutManager to allow placement in absolute positions
+libnb-apisupport3-java (7.0.1+dfsg1-5)
+    Common NetBeans Platform Development Related Libraries for NetBeans
+libnb-ide14-java (7.0.1+dfsg1-5)
+    Common Integrated Development Environment Libraries for NetBeans
+libnb-java5-java (7.0.1+dfsg1-5)
+    Common Java Related Libraries for NetBeans
+libnb-javaparser-java (7.0.1-1)
+    Parser for the Java language which is good for use in tools
+libnb-org-openide-modules-java (7.0.1+dfsg1-5)
+    Utility classes for modules from the NetBeans Platform
+libnb-org-openide-util-java (7.0.1+dfsg1-5)
+    Utility classes from the NetBeans Platform
+libnb-org-openide-util-lookup-java (7.0.1+dfsg1-5)
+    Utility lookup classes from the NetBeans Platform
+libnb-platform-devel-java (7.0.1+dfsg1-5)
+    Build harness for NetBeans Platform
+libnb-platform13-java (7.0.1+dfsg1-5)
+    NetBeans Platform for building rich desktop applications in Java
+libnekohtml-java (1.9.15-1)
+    HTML parser for Java
+libnet-luminis-build-plugin-java (0.2.0-1)
+    Wrapper around Bnd to allow easy bundle creation from ant builds.
+libnetbeans-cvsclient-java (6.5-2)
+    NetBeans CVS Client library
+libnetlib-java (0.9.3-1) [contrib]
+    collection of mission-critical software components for linear algebra systems
+libnetty-java (1:3.2.6.Final-2)
+    Java NIO client/server socket framework
+libnetty3.1-java (3.1.0.CR1-1)
+    Java NIO client/server socket framework
+libnetx-java (0.5-2)
+    An open-source JNLP client
+libnexus0-java (4.2.1-svn1614-1+b2 [amd64, armel, armhf, i386, ia64, mipsel, powerpc, s390, sparc], 4.2.1-svn1614-1+b1 [s390x])
+    NeXus scientific data file format - java libraries
+liboauth-signpost-java (1.2.1.2-1)
+    simple OAuth message signing for Java
+libobjenesis-java (1.2+full-3)
+    Java library to instantiate a new object of a particular class
+libognl-java (2.7.3-4)
+    Java expression language
+libolap4j-java (1.0.1.500-1)
+    unified Java API to access an OLAP server
+libonemind-commons-invoke-java (1.1.0+cvs20090227-4)
+    Java invocation framework library
+libonemind-commons-java-java (1.5.5-4)
+    common java library used to support other developments
+libopendap-java (2.2-1)
+    Project for a Network Data Access Protocol
+libopenid4java-java (0.9.6.662-1)
+    This library allows you to OpenID-enable your Java webapp
+libopenjpa-java (2.0.1-1)
+    Java Persistence 2.0 API (JPA) implementation library
+libopennebula-java (3.4.1-3.1)
+    Java bindings for OpenNebula Cloud API (OCA)
+libopsin-java (1.2.0-1)
+    Chemical name to structure converter
+liboptions-java (0.0.20120113-1)
+    command line option parsing library for Java
+liboro-java (2.0.8a-8)
+    Regular expression library for Java
+liboscache-java (2.4.1+ds1-3)
+    caching solution for java server pages (JSP)
+libosgi-compendium-java (4.3.0-1)
+    Java OSGi API - Compendium module
+libosgi-core-java (4.3.0-3)
+    Java OSGi API - Core module
+libosgi-foundation-ee-java (4.2.0-1)
+    Java OSGi API - Foundation Execution Environment
+libosmpbf-java (1.2.1-3)
+    Java access library for OpenStreetMap PBF file format
+libow-util-ant-tasks-java (1.3.2-4)
+    ObjectWeb utility Ant tasks library
+libowasp-java-html-sanitizer-java (0.1+r88-1)
+    OWASP Java HTML Sanitizer
+libpal-java (1.5.1-2)
+    Phylogenetic Analysis Library
+libpam4j-java (1.4-2)
+    Java binding for libpam.so
+libpaperclips-java (1.0.4-1)
+    Simplified Java Printing Support for SWT
+libpdfbox-java (1:1.7.0+dfsg-4)
+    PDF library for Java
+libpdfrenderer-java (0.9.0-1)
+    Java PDF renderer and viewer
+libpentaho-reporting-flow-engine-java (0.9.4-4)
+    report library for java
+libpixels-java (2.1.3+svn.42-2)
+    manipulation and filtering of images in Java
+libpixie-java (1:1.1.6-3)
+    Java Vector Format Viewer Library
+libplexus-active-collections-java (1.0~beta2-3)
+    Plexus Container-Backed Active Collections
+libplexus-ant-factory-java (1.0~alpha2.1-3)
+    Plexus Ant Factory
+libplexus-archiver-java (1.0~alpha12-3)
+    The archiver plugin for the Plexus compiler system
+libplexus-bsh-factory-java (1.0~alpha7-3)
+    Plexus Beanshell Factory
+libplexus-build-api-java (0.0.4-5)
+    Incremental build API for Plexus components.
+libplexus-cdc-java (1.0~alpha14-6)
+    Plexus Component Descriptor Creator
+libplexus-cipher-java (1.5-4)
+    Plexus Cipher Component used by Maven
+libplexus-classworlds-java (1.5.0-4)
+    Class loading utilities for the Plexus framework
+libplexus-classworlds2-java (2.4-1)
+    Class loading utilities for the Plexus framework
+libplexus-cli-java (1.2-3)
+    Easily create CLIs with Plexus components
+libplexus-compiler-api-java (1.6-2)
+    API for the Plexus compiler system (dummy package)
+libplexus-compiler-java (1.6-2)
+    API for the Plexus compiler system
+libplexus-compiler-javac-java (1.6-2)
+    javac plugin for the Plexus compiler system (dummy package)
+libplexus-compiler-manager-java (1.6-2)
+    manager for the Plexus compiler system (dummy package)
+libplexus-component-api-java (1.0.0~alpha22-3)
+    utilities for the Plexus framework
+libplexus-component-metadata-java (1.0~beta3.0.7-5)
+    Component Metadata Maven plugin for Plexus
+libplexus-container-default-java (1.0-alpha-9-stable-1-6)
+    utilities for the Plexus framework
+libplexus-containers-java (1.0~beta3.0.7-5)
+    utilities for the Plexus framework
+libplexus-containers1.5-java (1.5.5-2)
+    Plexus' inversion-of-control (IoC) container
+libplexus-digest-java (1.1-3)
+    Digest utilities for the Plexus system
+libplexus-i18n-java (1.0-beta-10-3)
+    a component to support internationalization of applications using Plexus
+libplexus-interactivity-api-java (1.0-alpha-6-7)
+    interactivity API for the Plexus framework
+libplexus-interpolation-java (1.11-3)
+    Plexus Interpolation API
+libplexus-io-java (1.0~alpha5-2)
+    Plexus IO Components
+libplexus-maven-plugin-java (1.3.8-7)
+    Maven plugin for the Plexus Component Descriptor Creator
+libplexus-sec-dispatcher-java (1.3.1-6)
+    Plexus Security Dispatcher Component used by Maven
+libplexus-utils-java (1:1.5.15-4)
+    utilities for the Plexus framework
+libplexus-utils2-java (2.0.5-1)
+    utilities for the Plexus framework
+libplexus-velocity-java (1.1.7-5)
+    Plexus component interface to velocity
+libplplot-java (5.9.9-5)
+    Scientific plotting library (Java bindings)
+libpng-sixlegs-java (2.0-1)
+    Sixlegs Java PNG Decoder
+libportlet-api-2.0-spec-java (1.0-2)
+    Java Portlet Specification V2.0
+libpostgis-java (1.5.3-2)
+    Geographic objects support for PostgreSQL -- JDBC support
+libpostgresql-jdbc-java (9.1-901-2)
+    Java database (JDBC) driver for PostgreSQL
+libprocessing-core-java (1.2.1-1)
+    Java animation and interaction library
+libprotobuf-java (2.4.1-3)
+    Java bindings for protocol buffers
+libproxool-java (0.9.1-6)
+    Java JDBC connection pool
+libqdbm-java (1.8.78-2)
+    QDBM Database Libraries for Java
+libqdox-java (1.12-1)
+    Quickly parses declarations and Javadoc from Java source
+libquartz-java (1:1.7.3-3)
+    open source job scheduling system
+libreadline-java (0.8.0.1+dfsg-2+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.8.0.1+dfsg-2 [armhf, s390x])
+    GNU readline and BSD editline wrappers for Java
+libred5-java (1.0~svn4374-1)
+    remote API for Red5 flash streaming server
+libregexp-java (1.5-3)
+    Regular expression library for Java
+librelaxng-datatype-java (1.0+ds1-1)
+    Java datatype interface for RELAX NG
+libreoffice-officebean (1:3.5.4+dfsg2-0+deb7u3 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1:3.5.4+dfsg2-0+deb7u2 [ia64]) [security]
+    office productivity suite -- Java bean
+libreoffice-script-provider-bsh (1:3.5.4+dfsg2-0+deb7u3) [security]
+    BeanShell script support provider for LibreOffice scripting framework
+librepository-java (1.1.6-2)
+    abstraction library for accessing hierachic bulk content
+librhash-java (1.2.9-8+deb7u1)
+    Java interface for LibRHash hash sums calculation library
+librhino-java (1.7R3-5)
+    Libraries for rhino Java Script Engine
+librobert-hooke-clojure (1.1.2-1)
+    Function wrapper library for Clojure
+librobust-http-client-java (1.2-2)
+    robust HTTP client library for Java
+librome-java (1.0-3)
+    Java library to handle Atom and RSS feeds
+librsyntaxtextarea-java (1.5.1-2)
+    Java library for syntax highlighting text component
+librxtx-java (2.2pre2-11)
+    Full Java CommAPI implementation
+libsac-java (1.3-6)
+    Simple API for CSS Java library
+libsac-java-gcj (1.3-6)
+    Simple API for CSS Java library (native code)
+libsam-java (1.46-1)
+    Java library to manipulate SAM and BAM files
+libsaxon-java (1:6.5.5-8)
+    Saxon XSLT Processor
+libsaxon-java-gcj (1:6.5.5-8)
+    Saxon XSLT Processor (native code)
+libsaxonb-java (9.1.0.8-1)
+    The Saxon-B XSLT Processor
+libscilab-java (5.3.3-10)
+    Scientific software package for numerical computations (Java API)
+libscilab2-java (5.3.3-10)
+    Scientific software package for numerical computations (Java v2 API)
+libscirenderer-java (0.4.9-1)
+    Java rendering library based on JOGL
+libsdo-api-java (1.1.1-1)
+    Service Data Objects 2.1 Java API spec
+libsegment-java (1.3.5~svn57+dfsg-1.1)
+    Rule based text splitting library
+libserializer-java (1.1.6-4)
+    general serializaton framework
+libserp-java (1.14.1-1)
+    Java Virtual Machine bytecode manipulation framework
+libservice-wrapper-java (3.5.3+repack-0+nmu1)
+    Jar daemon wrapper java libraries
+libservice-wrapper-jni (3.5.3+repack-0+nmu1)
+    Jar daemon wrapper JNI libraries
+libservlet2.5-java (6.0.35-6+deb7u1)
+    Servlet 2.5 and JSP 2.1 Java API classes
+libservlet3.0-java (7.0.28-4+deb7u1)
+    Servlet 3.0 and JSP 2.2 Java API classes
+libsetools-java (3.3.7-3)
+    SETools Java bindings (architecture-independent)
+libsetools-jni (3.3.7-3)
+    SETools Java bindings (architecture-dependent)
+libsezpoz-java (1.9-2)
+    Lightweight library for modular service lookups
+libsidl1.4.0-java (1.4.0.dfsg-8.1)
+    Scientific Interface Definition Language (SIDL) Java runtime
+libsikuli-script-java (1.0~x~rc3.tesseract3-dfsg1-5)
+    Visual scripting API for jython
+libsikuli-script-jni (1.0~x~rc3.tesseract3-dfsg1-5)
+    Native libs for libsikuli-java
+libsimple-validation-java (0.4-3)
+    library for quickly adding validation code to Swing user-interfaces
+libsimple-xml-java (2.3.2-1)
+    A XML serialization and configuration framework for Java
+libsisu-guice-java (3.1.1-1)
+    Patched build of Google Guice for Sisu-IoC
+libsisu-ioc-java (2.3.0-3)
+    JSR 330 container and OSGi/Plexus adapter
+libsitemesh-java (2.4.1+dfsg-2)
+    web-page layout and decoration framework
+libskinlf-java (6.7-8)
+    Skin Look and Feel - Skinning Engine for the Swing toolkit
+libslf4j-java (1.6.5-1)
+    Simple Logging Facade for Java
+libsnappy-java (1.0.4.1~dfsg-1)
+    Snappy for Java, a fast compressor/decompresser
+libsolr-java (3.6.0+dfsg-1+deb7u1)
+    Enterprise search server based on Lucene - Java libraries
+libspark-java (1.2-2)
+    Java package to draw sparklines
+libspin-java (1.5+dfsg-5)
+    transparent threading solution for non-freezing Swing applications
+libspring-aop-java (3.0.6.RELEASE-6+deb7u3)
+    modular Java/J2EE application framework - AOP
+libspring-beans-java (3.0.6.RELEASE-6+deb7u3)
+    modular Java/J2EE application framework - Beans
+libspring-build-java (2.7.0-2)
+    Ant tasks for Spring Build module
+libspring-context-java (3.0.6.RELEASE-6+deb7u3)
+    modular Java/J2EE application framework - Context
+libspring-context-support-java (3.0.6.RELEASE-6+deb7u3)
+    modular Java/J2EE application framework - Context Support
+libspring-core-java (3.0.6.RELEASE-6+deb7u3)
+    modular Java/J2EE application framework - Core
+libspring-expression-java (3.0.6.RELEASE-6+deb7u3)
+    modular Java/J2EE application framework - Expression language
+libspring-instrument-java (3.0.6.RELEASE-6+deb7u3)
+    modular Java/J2EE application framework - Instrumentation
+libspring-jdbc-java (3.0.6.RELEASE-6+deb7u3)
+    modular Java/J2EE application framework - JDBC tools
+libspring-jms-java (3.0.6.RELEASE-6+deb7u3)
+    modular Java/J2EE application framework - JMS tools
+libspring-js-2.0-java (2.0.9.RELEASE-4)
+    server-side Javascript abstraction framework
+libspring-ldap-java (1.3.1.RELEASE-4)
+    Java library for simpler LDAP programming
+libspring-orm-java (3.0.6.RELEASE-6+deb7u3)
+    modular Java/J2EE application framework - ORM tools
+libspring-oxm-java (3.0.6.RELEASE-6+deb7u3)
+    modular Java/J2EE application framework - Object/XML Mapping
+libspring-security-acl-2.0-java (2.0.7.RELEASE-1)
+    modular Java/J2EE application security framework - ACL
+libspring-security-core-2.0-java (2.0.7.RELEASE-1)
+    modular Java/J2EE application security framework - Core
+libspring-security-ntlm-2.0-java (2.0.7.RELEASE-1)
+    modular Java/J2EE application security framework - NTLM
+libspring-security-portlet-2.0-java (2.0.7.RELEASE-1)
+    modular Java/J2EE application security framework - Portlet
+libspring-security-taglibs-2.0-java (2.0.7.RELEASE-1)
+    modular Java/J2EE application security framework - Taglibs
+libspring-test-java (3.0.6.RELEASE-6+deb7u3)
+    modular Java/J2EE application framework - Test helpers
+libspring-transaction-java (3.0.6.RELEASE-6+deb7u3)
+    modular Java/J2EE application framework - transaction
+libspring-web-java (3.0.6.RELEASE-6+deb7u3)
+    modular Java/J2EE application framework - Web
+libspring-web-portlet-java (3.0.6.RELEASE-6+deb7u3)
+    modular Java/J2EE application framework - Portlet MVC
+libspring-web-servlet-java (3.0.6.RELEASE-6+deb7u3)
+    modular Java/J2EE application framework - Web Portlet
+libspring-web-struts-java (3.0.6.RELEASE-6+deb7u3)
+    modular Java/J2EE application framework - Struts MVC
+libspring-webflow-2.0-java (2.0.9.RELEASE-4)
+    Java MVC framework focused in View and Controller layers
+libstapler-adjunct-codemirror-java (1.1-1)
+    Codemirror JS library for use with stapler
+libstapler-adjunct-timeline-java (1.3+dfsg-1)
+    Timeline visualisation library for use with stapler
+libstapler-java (1.182-1)
+    Stapler HTTP request handling engine
+libstax-java (1.2.0-3)
+    StAX Reference Implementation (RI)
+libstax2-api-java (3.1.1-1)
+    Extension to StAX API for parsing XML documents
+libstaxutils-java (20110309+svn238-1)
+    A set of utility classes to integrate StAX into existing XML
+libstringtemplate-java (3.2.1-1)
+    StringTemplate templating engine for Java
+libstruts1.2-java (1.2.9-5+deb7u1)
+    Java Framework for MVC web applications
+libstylebook-java (1.0~b3~svn20061109-6)
+    XML application for authoring web site content
+libsunflow-java (0.07.2.svn396+dfsg-9)
+    rendering system for photo-realistic image synthesis
+libsurefire-java (2.10-4)
+    Surefire test framework for Java
+libsvgsalamander-java (0~svn95-1)
+    SVG engine for Java
+libsvm-java (3.12-1)
+    Java API to support vector machine library (libsvm.jar)
+libsvm3-java (3.12-1)
+    Java API to support vector machine library (libsvm3.jar)
+libsvn-java (1.6.17dfsg-4+deb7u8)
+    Java bindings for Subversion
+libsvnclientadapter-java (0.9.100-2)
+    High-level Java API for Subversion (library)
+libsvnkit-java (1.3.5+dfsg-4)
+    pure Java Subversion client library
+libswarmcache-java (1.0RC2+cvs20071027-6)
+    simple, yet powerful distributed caching mechanism for Java
+libswing-layout-java (1.0.4-2)
+    Extensions to Swing layout
+libswingx-java (1:1.6.2-1)
+    extensions to the Swing GUI toolkit
+libswingx1-java (1:1.0-1)
+    extensions to the Swing GUI toolkit, version 1
+libswt-cairo-gtk-3-jni (3.8.0~rc4-1)
+    Standard Widget Toolkit for GTK+ Cairo JNI library
+libswt-glx-gtk-3-jni (3.8.0~rc4-1)
+    Standard Widget Toolkit for GTK+ GLX JNI library
+libswt-gnome-gtk-3-jni (3.8.0~rc4-1)
+    Standard Widget Toolkit for GTK+ GNOME JNI library
+libswt-gtk-3-java (3.8.0~rc4-1)
+    Standard Widget Toolkit for GTK+ Java library
+libswt-gtk-3-java-gcj (3.8.0~rc4-1)
+    Standard Widget Toolkit for GTK+ native library
+libswt-gtk-3-jni (3.8.0~rc4-1)
+    Standard Widget Toolkit for GTK+ JNI library
+libswt-webkit-gtk-3-jni (3.8.0~rc4-1)
+    Standard Widget Toolkit for GTK+ WebKit JNI library
+libswtcalendar-java (0.5-1)
+    GUI date picker for Java using SWT
+libswtchart-java (0.8.0-1)
+    Chart drawing SWT component
+libtablelayout-java (20090826-2)
+    Java layout manager for creating user interfaces fast and easy
+libtggraphlayout-java (122-2)
+    Graph visualization library for Java
+libtiger-types-java (1.4-1)
+    Type arithmetic library for Java5
+libtiles-java (2.2.2-3)
+    Java templating framework for web application user interfaces
+libtimingframework-java (1.0-1)
+    A Java framework for timing and animations
+libtomcat-maven-plugin-java (1.1-2)
+    Tomcat Maven plugin
+libtomcat6-java (6.0.35-6+deb7u1)
+    Servlet and JSP engine -- core libraries
+libtomcat7-java (7.0.28-4+deb7u1)
+    Servlet and JSP engine -- core libraries
+libtomcatjss-java (6.0.1-1)
+    JSSE implementation using JSS for Tomcat
+libtools-logging-clojure (0.2.3-3)
+    Logging macros for Clojure
+libtrang-java (20091111-5)
+    XML schema converter - Java library
+libtrident-java (1.3+dfsg-5)
+    Animation library for Java applications
+libtrilead-putty-extension-java (1.1-2)
+    PuTTY key support for Trilead SSH2 library
+libtrilead-ssh2-java (6401-1)
+    Java SSH libarary
+libtritonus-java (20070428-9)
+    implementation of the Java Sound API
+libtritonus-jni (20070428-9)
+    implementation of the Java Sound API (jni shared libraries)
+libtrove-java (2.1.0-2)
+    high performance collections for java
+libtrove3-java (3.0.2-1)
+    high performance collections for java
+libtxw2-java (0.1+20070624-1)
+    Typed XML Writer for Java
+libuddi4j-java (2.0.5-2)
+    UDDI implementation in Java
+libuima-adapter-soap-java (2.4.0-2)
+    Library to provide SOAP web services within UIMA
+libuima-adapter-vinci-java (2.4.0-2)
+    Library to provide Vinci web services within UIMA
+libuima-addons-java (2.3.1-2)
+    Apache UIMA Addons
+libuima-as-java (2.3.1-3)
+    Apache UIMA Asynch Scaleout framework
+libuima-core-java (2.4.0-2)
+    Core library for the UIMA framework
+libuima-cpe-java (2.4.0-2)
+    Library for the UIMA Collection Processing Engine
+libuima-document-annotation-java (2.4.0-2)
+    Library for the UIMA document annotation
+libuima-tools-java (2.4.0-2)
+    UIMA library for the UIMA tools
+libuima-vinci-java (2.4.0-2)
+    Library to handle Vinci web service protocol
+libunixsocket-java (0.7.3-1)
+    Unix socket API and bindings for Java
+libvamsas-client-java (0.2~git2011.10.17+1b42648-1)
+    library for phylogenetic tasks
+libvecmath-java (1.5.2-3)
+    javax.vecmath vector math package
+libvelocity-tools-java (2.0-2)
+    collection of useful tools for Velocity template engine
+libvldocking-java (2.1.4-4)
+    Java components for building applications with Docking capabilities
+libvoms-api-java-java (2.0.8-2)
+    Virtual Organization Membership Service Java API
+libvorbisspi-java (1.0.3-3)
+    Java Service Provider Interface for the OGG Vorbis audio format
+libvtk-java (5.8.0-13+b1)
+    Visualization Toolkit - A high level 3D visualization library - java
+libvtkgdcm-java (2.2.0-14.1)
+    Grassroots DICOM VTK Java bindings
+libwagon-java (1.0.0-2)
+    tools to manage Maven artifacts and deployment
+libwagon2-java (2.2-3+nmu1)
+    resources' transport abstraction that is used in Maven
+libwerken.xpath-java (0.9.4-14)
+    JDOM XPath Engine
+libwoodstox-java (1:4.1.3-1)
+    High-performance XML processor
+libworldwind-java (0.5.0-10) [non-free]
+    3D Virtual Globe
+libwriter2latex-java (1.0.2-8)
+    OpenOffice.org Writer/Calc to LaTeX/XHTML converter -- library
+libws-commons-util-java (1.0.1-7)
+    Common utilities from the Apache Web Services Project
+libwsdl2c-java (0.1-1)
+    stripped down axis2 source bundle suitable for running WSDL2C
+libwsdl4j-java (1.6.2-4)
+    Webservice description language for Java
+libwsil4j-java (1.0.0-1)
+    Web Services Inspection Language for Java
+libwss4j-java (1.5.8+svntag-2)
+    Apache WSS4J WS-Security implementation
+libxalan2-java (2.7.1-7+deb7u1)
+    XSL Transformations (XSLT) processor in Java
+libxapool-java (1.5.0-3)
+    connection pooling for JDBC
+libxbean-java (3.7-5)
+    plugin based Java application server
+libxerces2-java (2.11.0-6)
+    Validating XML parser for Java with DOM level 3 support
+libxerces2-java-gcj (2.11.0-6)
+    Validating XML parser for Java with DOM level 3 support (native code)
+libxml-commons-external-java (1.4.01-2)
+    XML Commons external code - DOM, SAX, and JAXP, etc
+libxml-commons-resolver1.1-java (1.2-7)
+    XML entity and URI resolver library
+libxml-commons-resolver1.1-java-gcj (1.2-7)
+    XML entity and URI resolver library -- native library
+libxml-java (1.1.6.dfsg-3)
+    namespace aware SAX-Parser utility library
+libxml-security-java (1.4.5-1+deb7u1)
+    Apache Santuario
+libxmlbeans-java (2.5.0-4)
+    Java library for accessing XML by binding it to Java types
+libxmlbeans-maven-plugin-java (2.3.3-3)
+    Maven XMLBeans Plugin
+libxmlgraphics-commons-java (1.4.dfsg-4)
+    reusable components used by Batik and FOP
+libxmlrpc3-client-java (3.1.3-5)
+    XML-RPC implementation in Java (client side)
+libxmlrpc3-common-java (3.1.3-5)
+    XML-RPC implementation in Java
+libxmlrpc3-server-java (3.1.3-5)
+    XML-RPC implementation in Java (server side)
+libxmlunit-java (1.3-2)
+    Unit testing for XML documents
+libxom-java (1.2.1-3)
+    A new XML object model for Java
+libxpp2-java (2.1.10-7)
+    XML pull parser library for java V2
+libxpp3-java (1.1.4c-2)
+    XML pull parser library for java
+libxsltc-java (2.7.1-7+deb7u1)
+    XSL Transformations (XSLT) compiler from Xalan-Java
+libxslthl-java (2.0.2-4)
+    XSLT syntax highlighting
+libxstream-java (1.4.2-1)
+    Java library to serialize objects to XML and back again
+libxz-java (1.0-2)
+    Java library with a complete implementation of XZ data compression
+libyanfs-java (0.0+cvs20070825-4)
+    Yet Another NFS - a Java NFS library
+libyecht-java (0.0.2-2)
+    Syck port, a YAML 1.0 processor for Ruby
+libzemberek-java (2.1.1-8.1)
+    Spell checker library for Turkic languages
+libzemberek-tk-java (2.1.1-8.1)
+    Turkmen spellchecker
+libzemberek-tr-java (2.1.1-8.1)
+    Turkish spellchecker
+libzeroc-ice3.4-java (3.4.2-8.2)
+    Ice for Java libraries
+libzookeeper-java (3.3.5+dfsg1-2)
+    Core Java libraries for zookeeper
+logisim (2.7.1~dfsg-1)
+    graphical tool for designing and simulating logic circuits
+maven (3.0.4-3)
+    Java software project management and comprehension tool
+maven-ant-helper (7.7)
+    helper scripts for building Maven components with ant
+maven-debian-helper (1.5.1)
+    Helper tools for building Debian packages with Maven
+maven-repo-helper (1.7.1)
+    Helper tools for including Maven metadata in Debian packages
+maven2 (2.2.1-12)
+    Java software project management and comprehension tool
+nailgun (0.7.1-3)
+    client, protocol, and server for running Java programs from CLI
+netbeans (7.0.1+dfsg1-5)
+    Extensible Java IDE
+openjdk-6-jre-zero (6b34-1.13.6-1~deb7u1) [security]
+    Alternative JVM for OpenJDK, using Zero/Shark
+openjdk-6-jre-zero
+    virtual package provided by openjdk-6-jre-headless
+openjdk-7-demo (7u75-2.5.4-1~deb7u1 [amd64, armel, armhf, i386, mipsel, powerpc, s390x], 7u71-2.5.3-2~deb7u1 [mips], 7u25-2.3.10-1~deb7u1 [sparc], 7u3-2.1.7-1 [ia64, s390]) [security]
+    Java runtime based on OpenJDK (demos and examples)
+openjdk-7-jdk (7u75-2.5.4-1~deb7u1 [amd64, armel, armhf, i386, mipsel, powerpc, s390x], 7u71-2.5.3-2~deb7u1 [mips], 7u25-2.3.10-1~deb7u1 [sparc], 7u3-2.1.7-1 [ia64, s390]) [security]
+    OpenJDK Development Kit (JDK)
+openjdk-7-jre (7u75-2.5.4-1~deb7u1 [amd64, armel, armhf, i386, mipsel, powerpc, s390x], 7u71-2.5.3-2~deb7u1 [mips], 7u25-2.3.10-1~deb7u1 [sparc], 7u3-2.1.7-1 [ia64, s390]) [security]
+    OpenJDK Java runtime, using Hotspot JIT
+openjdk-7-jre-headless (7u75-2.5.4-1~deb7u1 [amd64, armel, armhf, i386, mipsel, powerpc, s390x], 7u71-2.5.3-2~deb7u1 [mips], 7u25-2.3.10-1~deb7u1 [sparc], 7u3-2.1.7-1 [ia64, s390]) [security]
+    OpenJDK Java runtime, using Hotspot JIT (headless)
+openjdk-7-jre-lib (7u75-2.5.4-1~deb7u1) [security]
+    OpenJDK Java runtime (architecture independent libraries)
+openjdk-7-jre-zero (7u75-2.5.4-1~deb7u1) [security]
+    Alternative JVM for OpenJDK, using Zero/Shark
+openjdk-7-jre-zero
+    virtual package provided by openjdk-7-jre-headless
+openjdk-7-source (7u75-2.5.4-1~deb7u1) [security]
+    OpenJDK Development Kit (JDK) source files
+openoffice.org-officebean (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Java bean
+pixelmed-java (20120508-1)
+    DICOM implementation containing Image Viewer and a ECG Viewer
+red5-server (1.0~svn4374-1)
+    flash streaming server
+remotetea (1.0.7-2)
+    Sun ONC/RPC support for Java
+sablecc (3.2-1)
+    Object-oriented fully featured parser generator
+service-wrapper (3.5.3+repack-0+nmu1)
+    Jar daemon wrapper
+sikuli-ide (1.0~x~rc3.tesseract3-dfsg1-5)
+    IDE to develop sikuli scripts and use them a junit test cases
+solr-jetty (3.6.0+dfsg-1+deb7u1)
+    Enterprise search server based on Lucene3 - Jetty integration
+solr-tomcat (3.6.0+dfsg-1+deb7u1)
+    Enterprise search server based on Lucene3 - Tomcat integration
+spring-build-scripts (2.7.0-2)
+    Ant scripts snippets for Spring Build module
+substance (5.3-2)
+    cross-platform look & feel for Swing applications
+sweethome3d (3.5+dfsg-1)
+    Interior 2D design application with 3D preview
+testng (5.11+dfsg-3)
+    testing framework for Java
+tightvnc-java (1.2.7-8) [contrib]
+    TightVNC java applet and command line program
+tomcat6 (6.0.35-6+deb7u1)
+    Servlet and JSP engine
+tomcat6-admin (6.0.35-6+deb7u1)
+    Servlet and JSP engine -- admin web applications
+tomcat6-common (6.0.35-6+deb7u1)
+    Servlet and JSP engine -- common files
+tomcat6-examples (6.0.35-6+deb7u1)
+    Servlet and JSP engine -- example web applications
+tomcat6-extras (6.0.35-6+deb7u1)
+    Servlet and JSP engine -- additional components
+tomcat6-user (6.0.35-6+deb7u1)
+    Servlet and JSP engine -- tools to create user instances
+tomcat7 (7.0.28-4+deb7u1)
+    Servlet and JSP engine
+tomcat7-admin (7.0.28-4+deb7u1)
+    Servlet and JSP engine -- admin web applications
+tomcat7-common (7.0.28-4+deb7u1)
+    Servlet and JSP engine -- common files
+tomcat7-examples (7.0.28-4+deb7u1)
+    Servlet and JSP engine -- example web applications
+tomcat7-user (7.0.28-4+deb7u1)
+    Servlet and JSP engine -- tools to create user instances
+tzdata-java (2014j-0wheezy1)
+    time zone and daylight-saving time data for use by java runtimes
+uima-examples (2.4.0-2)
+    Examples of UIMA components
+uima-utils (2.4.0-2)
+    UIMA tools
+velocity (1.7-4)
+    Java-based template engine for web application
+vnc-java (3.3.3r2-8) [contrib]
+    VNC java applet and command line program
+xmlbeans (2.5.0-4)
+    Java library for accessing XML by binding it to Java types - tools
+yui-compressor (2.4.7-1)
+    JavaScript/CSS minifier
+yydebug (1.1.0-2)
+    support library for the Java-based parser generator jay
+zemberek-java-demo (2.1.1-8.1)
+    Zemberek demo application
+zookeeper (3.3.5+dfsg1-2)
+    High-performance coordination service for distributed applications
+zookeeperd (3.3.5+dfsg1-2)
+    Init control scripts for zookeeper 

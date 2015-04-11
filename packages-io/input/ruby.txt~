@@ -1,0 +1,1061 @@
+
+bundler (1.1.4-6)
+    Manage Ruby application dependencies
+capistrano (2.12.0-1)
+    Executes commands in parallel on multiple servers
+chef (10.12.0-3)
+    A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.
+chef-expander (10.12.0-1)
+    systems integration framework - index bridge
+chef-server-api (10.12.0-1)
+    Chef configuration management system - server API
+chef-solr (10.12.0+dfsg-2)
+    manager for search indexes of Chef node attributes using Solr
+coderay (1.0.6-2)
+    Helper programs for CodeRay Ruby lib for syntax highlighting
+compass-fancy-buttons-plugin (1.1.1~20120313-1)
+    Compass plugin implementing fancy CSS3 buttons
+compass-h5bp-plugin (0.0.5-1)
+    Compass extension for Html5 Boilerplate
+compass-layoutgala-plugin (0.2-1)
+    Compass plugin implementing the Layout-gala CSS styles
+compass-slickmap-plugin (0.5.1.1-2)
+    Compass plugin implementing SlickMapCSS sitemap
+compass-susy-plugin (0.9-2)
+    Compass plugin providing an elastic grid system
+compass-yui-plugin (0~20100724-2)
+    Compass plugin implementing the YUI CSS Foundation
+cucumber (1.0.2-2)
+    acceptance testing framework
+dpkg-ruby (0.3.8)
+    Transitional package for ruby-debian
+dpkg-ruby
+    virtual package provided by ruby-debian
+eruby (1.0.5-2.1)
+    Embedded Ruby Language
+gem2deb (0.3.0)
+    Debian Ruby packaging suite
+imagetooth (2.0.1-1.1)
+    This library generates images of teeth for odontograms.
+jekyll (0.11.2-1)
+    Simple, blog aware, static site generator
+jruby (1.5.6-5)
+    100% pure-Java implementation of Ruby
+korundum (4:4.8.4-1)
+    Ruby bindings for the KDE Development Platform
+libabstract-ruby (1.0.0-2.1)
+    A library which enables you to define abstract method in Ruby
+libabstract-ruby1.8 (1.0.0-2.1)
+    A library which enables you to define abstract method in Ruby 1.8
+libamazon-ruby (0.9.2-1)
+    a Ruby library for programmatic access to the Amazon website
+libamrita2-ruby (2.0.2+dfsg.1-2)
+    a xml/xhtml template library for Ruby
+libapache-ruby1.8 (1.2.6-2)
+    Ruby libraries for mod_ruby
+libaugeas-ruby (0.4.1-1.1)
+    Augeas bindings for the Ruby language
+libaugeas-ruby1.8 (0.4.1-1.1)
+    Augeas bindings for the Ruby language
+libaugeas-ruby1.9.1 (0.4.1-1.1)
+    Augeas bindings for the Ruby language
+libbz2-ruby1.8 (0.2.2-2+b2 [armel], 0.2.2-2 [amd64, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    libbz2 bindings for Ruby 1.8
+libdns-ruby (1.53-1)
+    Ruby DNS client library (dummy package)
+libdns-ruby
+    virtual package provided by ruby-dnsruby
+libdns-ruby1.8 (1.53-1)
+    Ruby DNS client library (dummy package)
+libdns-ruby1.8
+    virtual package provided by ruby-dnsruby
+libdpkg-ruby (0.3.8)
+    Transitional package for ruby-debian
+libdpkg-ruby
+    virtual package provided by ruby-debian
+libdpkg-ruby1.8 (0.3.8)
+    Transitional package for ruby-debian
+libdpkg-ruby1.8
+    virtual package provided by ruby-debian
+libdpkg-ruby1.9.1 (0.3.8)
+    Transitional package for ruby-debian
+libdpkg-ruby1.9.1
+    virtual package provided by ruby-debian
+liberuby (1.0.5-2.1)
+    Library for eruby
+liberuby-dev (1.0.5-2.1)
+    Development files for liberuby
+libescape-ruby (0.2-1)
+    HTML/URI/shell escaping utilities for Ruby
+libfam-ruby (0.2.0-2.1)
+    Ruby Extension for the FAM C library
+libfcgi-ruby1.8 (0.8.8-1)
+    FastCGI library for Ruby
+libfcgi-ruby1.9.1 (0.8.8-1)
+    FastCGI library for Ruby
+libgdal-ruby (1.9.0-3.1)
+    Ruby bindings to the Geospatial Data Abstraction Library
+libgdal-ruby1.8 (1.9.0-3.1)
+    Ruby 1.8 bindings to the Geospatial Data Abstraction Library
+libgeos-ruby1.8 (3.3.3-1.1)
+    GEOS bindings for Ruby
+libgettext-activerecord-ruby-common (2.1.0-5)
+    Transitional package for ruby-gettext-activerecord
+libgettext-activerecord-ruby-common
+    virtual package provided by ruby-gettext-activerecord
+libgv-ruby (2.26.3-14+deb7u2)
+    Ruby bindings for graphviz
+libhdfeos5-ruby (1.0-2)
+    Ruby interface to the HDF-EOS5 library
+libhdfeos5-ruby1.8 (1.0-2+b1)
+    Ruby interface to the HDF-EOS5 library
+libhdfeos5-ruby1.9.1 (1.0-2+b1)
+    Ruby interface to the HDF-EOS5 library
+libhtml-htmltokenizer-ruby (1.0-3)
+    simple HTML tokenizer/parser for Ruby
+libhtml-template-ruby (0.16-2.1)
+    A Ruby Class to use HTML Templates
+libhtree-ruby1.8 (0.7-5)
+    HTML/XML tree library for Ruby 1.8
+libhtree-ruby1.9.1 (0.7-5)
+    HTML/XML tree library for Ruby 1.9.1
+libimlib2-ruby (0.5.2-2.1)
+    Ruby Extension for the Imlib2 C library
+liblangscan-ruby (1.2+cvs20070125-1.1)
+    Ruby module of scanners for programming languages
+libluabridge-ruby (0.7.0-1.1)
+    access Lua from Ruby
+libluabridge-ruby1.8 (0.7.0-1.1)
+    access Lua from Ruby (Ruby 1.8)
+libmapscript-ruby (6.0.1-3.2+deb7u2)
+    Ruby MapServer library
+libmapscript-ruby1.8 (6.0.1-3.2+deb7u2)
+    Ruby MapServer library
+libmapscript-ruby1.9.1 (6.0.1-3.2+deb7u2)
+    Ruby MapServer library
+libmp3info-ruby1.8 (0.5-2)
+    a pure ruby library for access to mp3 files
+libnarray-miss-ruby (1.2.7-2)
+    Transitional package for ruby-narray-miss
+libnarray-miss-ruby
+    virtual package provided by ruby-narray-miss
+libnarray-miss-ruby1.8 (1.2.7-2)
+    Transitional package for ruby-narray-miss
+libnarray-miss-ruby1.8
+    virtual package provided by ruby-narray-miss
+libnarray-miss-ruby1.9.1 (1.2.7-2)
+    Transitional package for ruby-narray-miss
+libnarray-miss-ruby1.9.1
+    virtual package provided by ruby-narray-miss
+libneedle-extras-ruby1.8 (1.0.0-2)
+    extra libraries for needle
+libneedle-ruby1.8 (1.3.0-1)
+    dependency injector for ruby
+libnet-irc-ruby (0.14-5.1)
+    a Ruby library for IRC (Internet Relay Chat)
+libnet-netrc-ruby1.9.1 (0.2.2-1)
+    Pure Ruby library to parse .netrc file
+libposixlock-ruby (0.0.1-2)
+    posix locking for ruby
+libposixlock-ruby1.8 (0.0.1-2)
+    posix locking for ruby
+libprawn-ruby-common (1.0.0~rc1+dfsg1-3)
+    Transitional package for ruby-prawn
+libprawn-ruby-common
+    virtual package provided by ruby-prawn
+libqdbm-ruby1.8 (1.8.78-2)
+    QDBM Database Libraries for Ruby 1.8 (transitional package)
+libqdbm-ruby1.8
+    virtual package provided by ruby-qdbm
+libqdbm-ruby1.9.1 (1.8.78-2)
+    QDBM Database Libraries for Ruby 1.9.1 (transitional package)
+libqdbm-ruby1.9.1
+    virtual package provided by ruby-qdbm
+libramaze-ruby (2010.06.18-2)
+    A simple, light and modular web application framework
+libramaze-ruby1.8 (2010.06.18-2)
+    A simple, light and modular web application framework (ruby1.8)
+libramaze-ruby1.9.1 (2010.06.18-2)
+    A simple, light and modular web application framework (ruby1.9)
+libraspell-ruby (1.2-2)
+    An interface binding for the Aspell spelling checker.
+libraspell-ruby1.8 (1.2-2)
+    An interface binding for the Aspell spelling checker.
+libraspell-ruby1.9.1 (1.2-2)
+    An interface binding for the Aspell spelling checker.
+librdf-ruby (1.0.14.1-1)
+    Ruby 1.8 language bindings for the Redland RDF library
+libredcloth-ruby1.9.1 (4.2.9-2+deb7u2) [security]
+    Transitional package for ruby-redcloth
+libredcloth-ruby1.9.1
+    virtual package provided by ruby-redcloth
+librfilter-ruby1.8 (0.12-2)
+    A mail filtering library for Ruby 1.8
+librhash-ruby (1.2.9-8+deb7u1)
+    transitional package for ruby-rhash
+librhash-ruby
+    virtual package provided by ruby-rhash
+librhash-ruby1.8 (1.2.9-8+deb7u1)
+    transitional package for ruby-rhash, ruby 1.8 specific
+librhash-ruby1.8
+    virtual package provided by ruby-rhash
+librrd-ruby (1.4.7-2)
+    time-series data storage and display system (Ruby interface)
+librrd-ruby1.8 (1.4.7-2)
+    time-series data storage and display system (Ruby 1.8 interface)
+librrd-ruby1.9.1 (1.4.7-2)
+    time-series data storage and display system (Ruby 1.9.1 interface)
+libsary-ruby1.8 (1.2.0-3.1)
+    A ruby binding of sary
+libsetup-ruby1.8 (3.4.1-5)
+    the setup.rb install tool for Ruby - transition package
+libstfl-ruby (0.22-1)
+    Ruby bindings for the structured terminal forms language/library
+libstfl-ruby1.8 (0.22-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.22-1 [armhf, s390x])
+    Ruby 1.8 bindings for the structured terminal forms language/library
+libstfl-ruby1.9.1 (0.22-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.22-1 [armhf, s390x])
+    Ruby 1.9.1 bindings for the structured terminal forms language/library
+libsuikyo-ruby1.8 (2.1.0-3)
+    Romaji Hiragana conversion library (ruby-binding)
+libtcltk-ruby (1:1.9.3)
+    Tcl/Tk interface for Ruby
+libtcltk-ruby1.9.1 (1.9.3.194-8.1+deb7u3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, s390, s390x], 1.9.3.194-8.1+deb7u2 [armhf, mips, mipsel, powerpc, sparc]) [security]
+    Tcl/Tk interface for Ruby 1.9.1
+libtext-format-ruby (1.0.0-3)
+    Transitional package for ruby-text-format
+libtext-format-ruby
+    virtual package provided by ruby-text-format
+libtext-format-ruby1.8 (1.0.0-3)
+    Transitional package for ruby-text-format
+libtioga-ruby (1.14-3)
+    Ruby library for scientific graphs [transition package]
+libvorbisfile-ruby (0.2-8.1+b2 [armel], 0.2-8.1 [amd64, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Ogg Vorbis support library for Ruby
+libvorbisfile-ruby
+    virtual package provided by libvorbisfile-ruby1.8
+libvorbisfile-ruby1.8 (0.2-8.1+b2 [armel], 0.2-8.1 [amd64, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Ogg Vorbis support library for Ruby
+libwebapp-ruby1.8 (0.4-2.1)
+    easy-to-use CGI/FastCGI/mod_ruby/WEBrick interface
+libwrap-ruby1.8 (0.6-3+b2 [armel], 0.6-3+b1 [mips], 0.6-3 [amd64, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mipsel, powerpc, s390, s390x, sparc])
+    TCP wrappers library for Ruby
+libxapian-ruby1.8 (1.2.12-2)
+    Xapian search engine interface for Ruby 1.8
+libxapian-ruby1.9.1 (1.2.12-2)
+    Xapian search engine interface for Ruby 1.9.1
+libxml-simple-ruby (1.1.1-1)
+    Transitional package for ruby-xml-simple
+libxml-simple-ruby
+    virtual package provided by ruby-xml-simple
+libzeroc-ice-ruby1.8 (3.4.2-8.2)
+    Ice for Ruby modules
+libzip-ruby1.8 (0.9.4-1)
+    a ruby module for reading and writing zip files
+libzip-ruby1.9.1 (0.9.4-1)
+    a ruby module for reading and writing zip files
+merb-core (1.1.3+dfsg-2)
+    Transitional package for ruby-merb-core
+merb-core
+    virtual package provided by ruby-merb-core
+netcdf-ruby (0.6.6-1)
+    Transitional package for ruby-netcdf
+netcdf-ruby
+    virtual package provided by ruby-netcdf, ruby-netcdf-dbg
+netcdf-ruby1.8 (0.6.6-1)
+    Transitional package for ruby-netcdf
+netcdf-ruby1.8
+    virtual package provided by ruby-netcdf, ruby-netcdf-dbg
+netcdf-ruby1.9.1 (0.6.6-1)
+    Transitional package for ruby-netcdf
+netcdf-ruby1.9.1
+    virtual package provided by ruby-netcdf, ruby-netcdf-dbg
+puppet-lint (0.1.13-2)
+    check puppet manifests for style guide conformity
+racc (1.4.8-4)
+    Ruby LALR parser generator
+rails (2:2.3.14.2)
+    MVC ruby based framework geared for web application development
+rails3 (3.2.6-1)
+    MVC ruby based framework geared for web application development
+rake (0.9.2.2-4)
+    ruby make-like utility
+rake-compiler (0.8.1-1)
+    Rake-based Ruby Extension (C, Java) task generator
+rant (0.5.8-8)
+    Flexible, Ruby based make
+rbenv (0.3.0-1)
+    simple per-user Ruby version manager
+rcov (1.0-2)
+    Code coverage analysis tool for Ruby
+ri (1:1.9.3)
+    Ruby Interactive reference
+ri
+    virtual package provided by ri1.8
+ri1.9.1 (1.9.3.194-8.1+deb7u3) [security]
+    Ruby Interactive reference (for Ruby 1.9.1)
+ruby (1:1.9.3)
+    Interpreter of object-oriented scripting language Ruby (default version)
+ruby
+    virtual package provided by ruby1.8
+ruby-actionmailer (2:2.3.14.2)
+    Framework for generation of customized email messages
+ruby-actionmailer-2.3 (2.3.14-3)
+    Framework for generation of customized email messages
+ruby-actionmailer-3.2 (3.2.6-2+deb7u1)
+    email composition, delivery, and receiving framework (part of Rails)
+ruby-actionpack (2:2.3.14.2)
+    Controller and View framework used by Rails
+ruby-actionpack-2.3 (2.3.14-5)
+    Controller and View framework used by Rails
+ruby-actionpack-3.2 (3.2.6-6+deb7u2)
+    web-flow and rendering framework putting the VC in MVC (part of Rails)
+ruby-activeldap (1.2.4-3)
+    ActiveLdap is a object-oriented API to LDAP
+ruby-activemodel-3.2 (3.2.6-3)
+    toolkit for building modeling frameworks (part of Rails)
+ruby-activerecord (2:2.3.14.2)
+    ORD database interface for ruby
+ruby-activerecord-2.3 (2.3.14-6)
+    ORD database interface for ruby
+ruby-activerecord-3.2 (3.2.6-5+deb7u1)
+    object-relational mapper framework (part of Rails)
+ruby-activeresource (2:2.3.14.2)
+    Connects objects and REST web services
+ruby-activeresource-2.3 (2.3.14-3)
+    Connects objects and REST web services
+ruby-activeresource-3.2 (3.2.6-2)
+    REST modeling framework (part of Rails)
+ruby-activesupport (2:2.3.14.2)
+    Support and utility classes used by the Rails framework
+ruby-activesupport-2.3 (2.3.14-7)
+    Support and utility classes used by the Rails 2.3 framework
+ruby-activesupport-3.2 (3.2.6-6+deb7u1)
+    Support and utility classes used by the Rails 3.2 framework
+ruby-addressable (2.2.8-1)
+    alternative URI implementation for Ruby
+ruby-aggregate (0.2.2-1)
+    Ruby class for accumulating aggregate statistics
+ruby-akonadi (4:4.8.4-1)
+    Akonadi Ruby bindings
+ruby-albino (1.3.3-1)
+    Ruby wrapper for pygmentize
+ruby-algorithm-diff (0.4-14)
+    Ruby conversion of the Perl's Algorithm::Diff
+ruby-amazon-ec2 (0.9.17-2)
+    Ruby library for accessing Amazon EC2
+ruby-amq-client (0.9.3-1)
+    fully-featured, low-level AMQP 0.9.1 client
+ruby-amq-protocol (0.9.2-1)
+    AMQP 0.9.1 encoder & decoder
+ruby-amqp (0.9.5-2)
+    feature-rich, asynchronous AMQP 0.9.1 client
+ruby-amrita (1.0.2-10)
+    HTML/XML template library for Ruby 1.8
+ruby-amrita2 (2.0.2+dfsg.1-3)
+    XML/XHTML template library for Ruby
+ruby-archive-tar-minitar (0.5.2-2)
+    Provides POSIX tarchive management from Ruby programs.
+ruby-arel (3.0.2-2)
+    SQL AST manager for Ruby
+ruby-ascii85 (1.0.1-2)
+    Ruby library to encode/decode the Ascii85 format
+ruby-atk (1.1.3-2+b1)
+    ATK bindings for the Ruby language
+ruby-bacon (1.1.0-2)
+    Small RSpec clone
+ruby-barby (0.5.0-1)
+    Ruby library for barcode generation
+ruby-bcrypt (3.0.1-2)
+    Ruby binding for the bcrypt() password hashing algorithm
+ruby-bdb (0.6.5-7)
+    Interface to Berkeley DB for Ruby 1.8
+ruby-bio (1.4.2-3)
+    Ruby tools for computational molecular biology
+ruby-blankslate (2.1.2.4-4)
+    Ruby library providing a class with no predefined methods
+ruby-bluecloth (2.2.0-3)
+    Ruby implementation of Markdown
+ruby-bsearch (1.5-9)
+    binary search library for Ruby
+ruby-build (20120524-1)
+    tool to compile and install different versions of Ruby
+ruby-builder (3.0.0-3)
+    Ruby library to facilitate programatic generation of XML markup
+ruby-bunny (0.7.8-1)
+    Synchronous Ruby AMQP client
+ruby-cairo (1.12.2-2)
+    Cairo bindings for the Ruby language
+ruby-capistrano-colors (0.5.5-1)
+    Capistrano helper for colorizing its output
+ruby-cassiopee (0.1.9-1)
+    Library to index strings and to search with exact or approximate match
+ruby-childprocess (0.3.3-1)
+    Ruby library for controlling external programs running in the background
+ruby-chronic (0.6.7-2)
+    natural language date parser
+ruby-chunky-png (1.2.5-2)
+    pure ruby library for read/write, chunk-level access to PNG files
+ruby-classifier (1.3.3-1)
+    Ruby module to allow Bayesian and other types of classifications
+ruby-cmdparse (2.0.5-1)
+    Advanced command line parsing Ruby module supporting sub-commands
+ruby-coderay (1.0.6-2)
+    Ruby library for syntax highlighting
+ruby-color-tools (1.4.1-2)
+    Ruby library to provide RGB, CMYK and other colorspace support
+ruby-commandline (0.7.10-12)
+    Ruby library to write command-line applications
+ruby-contest (0.1.3-2)
+    Ruby library to write declarative tests using nested contexts
+ruby-daemons (1.1.5-2)
+    Ruby daemons library
+ruby-dataobjects (0.10.8-4)
+    Unified interface to various databases for Ruby
+ruby-dataobjects-mysql (0.10.8-4)
+    MySQL adapter for ruby-dataobjects
+ruby-dataobjects-postgres (0.10.8-2)
+    PostgreSQL adapter for ruby-dataobjects
+ruby-dataobjects-sqlite3 (0.10.8-3)
+    SQLite adapter for ruby-dataobjects
+ruby-dbd-mysql (0.4.4+gem2deb-1)
+    Ruby/DBI MySQL driver
+ruby-dbd-odbc (0.2.5+gem2deb-1)
+    Ruby/DBI ODBC driver
+ruby-dbd-pg (0.3.9+gem2deb-1)
+    Ruby/DBI PostgreSQL driver
+ruby-dbd-sqlite3 (1.2.5+gem2deb-1)
+    Ruby/DBI SQLite3 driver
+ruby-dbi (0.4.5-1)
+    Database Independent Interface for Ruby
+ruby-dbus (0.7.2-1)
+    Ruby binding for D-Bus
+ruby-debian (0.3.8+b1)
+    ruby interface for dpkg
+ruby-dep-selector (0.0.8-1)
+    Given packages, versions, and a dependency graph, find a valid assignment of package versions
+ruby-deprecated (3.0.0-1)
+    Library for handling deprecated code in Ruby
+ruby-diff-lcs (1.1.3-1)
+    McIlroy-Hunt longest common subsequence algorithm implementation
+ruby-directory-watcher (1.4.1-1)
+    Watch directory/files and Generate events by file change
+ruby-dnsruby (1.53-1)
+    Ruby DNS and DNSSEC client library
+ruby-domain-name (0.5.3-1)
+    Domain Name manipulation library for Ruby
+ruby-dust (0.1.7-2)
+    Dust allows an alternative test definition syntax
+ruby-eb (2.6-2)
+    EB library interface for the Ruby
+ruby-ecasound (2.9.0-1)
+    multitrack-capable audio recorder and effect processor (ruby bindings)
+ruby-echoe (4.6.3-1)
+    Rubygems packaging tool that provides common Rake tasks
+ruby-eim-xml (0.0.4-3)
+    Easy IMplemented XML by Ruby
+ruby-em-http-request (0.3.0-1)
+    EventMachine based, async HTTP Request client
+ruby-erubis (2.7.0-2)
+    fast and extensible eRuby implementation which supports multi-language
+ruby-escape-utils (0.2.4-3)
+    Faster string escaping routines for your web apps
+ruby-event-loop (0.3-5)
+    simple signal system and an event loop for Ruby
+ruby-eventmachine (0.12.10-3)
+    Ruby/EventMachine library
+ruby-excon (0.13.4-1)
+    Ruby library for creating fast, persistent, HTTP(S) connections
+ruby-exif (0.1.2-20)
+    Ruby library for EXIF tag parsing
+ruby-extlib (0.9.15-3)
+    general Ruby class extensions for DataMapper and Merb
+ruby-facets (2.9.2-1)
+    extensive additions and extensions library for Ruby
+ruby-fakefs (0.4.0-1)
+    Fake file system to be used in unit tests
+ruby-fast-gettext (0.6.8-1)
+    Fast GetText implementation for Ruby
+ruby-fast-stemmer (1.0.1-1)
+    Fast Porter stemmer based on a C version of algorithm for Ruby
+ruby-fast-xs (0.8.0-3)
+    ruby extension for escaping text
+ruby-fastercsv (1.5.5-1)
+    Complete replacement to the CSV standard library for Ruby
+ruby-feedparser (0.7-2)
+    Ruby library to parse ATOM/RSS feeds
+ruby-feedtools (0.2.29+dfsg1-5)
+    Parsing, generation, and caching system for xml news feeds.
+ruby-ferret (0.11.8.4+debian-2)
+    full text search engine library for Ruby
+ruby-ffi (1.0.11debian-5)
+    load dynamic libraries, bind functions from within ruby code
+ruby-fftw3 (0.4-4)
+    Ruby interface to the FFTW Ver.3 library
+ruby-file-tail (1.0.10-1)
+    Ruby library for following still-growing files
+ruby-flexmock (0.9.0-1)
+    simple and flexible mock objects for testing
+ruby-fog (1.3.1-2)
+    Ruby cloud services library
+ruby-formatador (0.2.1-1)
+    Ruby STDOUT text formatting library
+ruby-fssm (0.2.9-2)
+    Ruby library firing events when the state of monitored paths change
+ruby-full (1:1.9.3)
+    Ruby full installation (default version)
+ruby-full
+    virtual package provided by ruby1.8-full
+ruby-fusefs (0.7.0-3)
+    library to easily define a filesystem in Ruby using fuse
+ruby-gd (0.8.0-3)
+    Extension library to use GD graphics library from Ruby
+ruby-gdk-pixbuf2 (1.1.3-2+b1)
+    Gdk-Pixbuf 2 bindings for the Ruby language
+ruby-gelf (1.3.2-2)
+    Ruby GELF library - Graylog2 Extended Log Format library for Ruby
+ruby-gettext (2.2.1-3)
+    gettext for Ruby
+ruby-gettext-activerecord (2.1.0-5)
+    GetText localization for Ruby programs using ActiveRecord
+ruby-gettext-rails (2.1.0-3)
+    Gettext support for Rails >= 2.3
+ruby-gherkin (2.4.6-1)
+    lexer and parser for the Gherkin language in Ruby
+ruby-gio2 (1.1.3-2+b1)
+    GIO bindings for the Ruby language
+ruby-gir-ffi (0.3.1-2)
+    FFI-based GObject binding using the GObject Introspection Repository
+ruby-git (1.2.5-2)
+    Ruby interface to the Git revision control system
+ruby-glib2 (1.1.3-2+b1)
+    Glib 2 bindings for the Ruby language
+ruby-globalhotkeys (0.3.2-3)
+    Ruby binding to define global hotkeys
+ruby-gnome2 (1.1.3-2)
+    GNOME-related bindings for the Ruby language
+ruby-gnuplot (2.4.1-2)
+    Ruby library to interact with gnuplot
+ruby-god (0.12.1-1)
+    Fully configurable process monitoring
+ruby-goocanvas (1.1.3-2+b1)
+    GooCanvas bindings for the Ruby language
+ruby-googlecharts (1.6.8-2) [contrib]
+    Ruby library to generate charts using Google Chart API
+ruby-gpgme (2.0.0-2)
+    Ruby GPGME binding
+ruby-graffiti (2.2-1)
+    Relational RDF store for Ruby
+ruby-grib (0.2.2-3)
+    Ruby interface to the ECMWF GRIB API
+ruby-gruff (0.3.6-6)
+    Beautiful graphs for one or multiple datasets.
+ruby-gsl (1.14.7+dfsg-1)
+    Ruby bindings for the GNU Scientific Library (GSL)
+ruby-gstreamer (1.1.3-2+b1)
+    GStreamer bindings for the Ruby language
+ruby-gtk2 (1.1.3-2+b1)
+    GTK+ bindings for the Ruby language
+ruby-gtksourceview2 (1.1.3-2+b1)
+    GtkSourceView2 bindings for the Ruby language
+ruby-guestfs (1:1.18.1-1+deb7u3)
+    guest disk image management system - Ruby bindings
+ruby-haml (3.1.6-1)
+    Elegant, structured XHTML/XML templating engine
+ruby-heckle (1.4.3-4)
+    Mutation tester (unit test sadism(tm)/test pentester) for Ruby
+ruby-hiera (1.0.0~rc3-1)
+    Light weight hierarcical data store
+ruby-hiera-puppet (1.0.0~rc1-2)
+    data backend for ruby-hiera and puppet query function interface
+ruby-highline (1.6.13-2)
+    High-level interactive IO Ruby library
+ruby-hike (1.2.1-2)
+    Ruby library to find files in a set of paths
+ruby-hikidoc (0.0.6-1)
+    'HikiDoc' is a text-to-HTML conversion tool for web writers.
+ruby-hivex (1.3.6-2)
+    Ruby bindings for hivex
+ruby-hmac (0.4.0-3)
+    Ruby interface for HMAC algorithm
+ruby-hoe (3.0.3-2)
+    rake/rubygems helper for project Rakefiles
+ruby-hpricot (0.8.6-3)
+    fast, enjoyable HTML parser
+ruby-htmlentities (4.3.1-1)
+    Ruby library for handling HTML entities
+ruby-httpclient (2.2.4-2)
+    HTTP client library for ruby (ruby 1.8 version)
+ruby-i18n (0.6.0-3+deb7u1)
+    I18n and localization solution for Ruby
+ruby-ihelp (0.4.5-3)
+    Ruby console contextual help
+ruby-image-science (1.2.2-1.1)
+    Clean Ruby library to provide simple transformations on images
+ruby-imagesize (1:0.1.1-5)
+    ruby extension to measure image (GIF, PNG, JPEG ,,, etc) size
+ruby-indentation (0.0.6-1)
+    Ruby extensions for Array and String classes
+ruby-inline (3.11.2-2)
+    Ruby library for embedding C/++ external module code
+ruby-innate (2012.03-2)
+    core web-framework part of Ramaze
+ruby-inotify (0.0.2-6)
+    Ruby interface to Linux's inotify system
+ruby-instantiator (0.0.6+git9cbbe70-2)
+    Ruby library to instantiate an arbitrary class
+ruby-introspection (0.0.2-2)
+    Ruby library for the inspection of method definitions on objects
+ruby-ipaddress (0.8.0-1)
+    Ruby library to manipulate IPv4/IPv6 addresses
+ruby-journey (1.0.3-2)
+    Journey is a router for Ruby on Rails
+ruby-jquery-rails (2.0.2-1)
+    jQuery for Rails 3
+ruby-json (1.7.3-3)
+    JSON library for Ruby
+ruby-kakasi (2002.09.28-3)
+    KAKASI interface for Ruby 1.8
+ruby-kde4 (4:4.8.4-1)
+    KDE bindings for the Ruby language
+ruby-kgio (2.7.3-1)
+    Kinder, gentler I/O for Ruby
+ruby-kramdown (0.13.7-2)
+    Fast, pure-Ruby Markdown-superset converter
+ruby-krb5-auth (0.7-4)
+    Kerberos binding for Ruby
+ruby-lapack (1.5-1)
+    Ruby wrapper of LAPACK
+ruby-ldap (0.9.12-2)
+    OpenLDAP library binding for Ruby
+ruby-libvirt (0.4.0-1)
+    Ruby bindings for libvirt
+ruby-libxml (2.3.2-1)
+    Ruby Bindings for LibXML2
+ruby-liquid (2.3.0-2)
+    Ruby library for rendering safe HTML and email templates
+ruby-locale (2.0.5-6)
+    Locale library for Ruby
+ruby-locale-rails (2.0.5-6)
+    Pure ruby library with basic functions for Rails localization
+ruby-lockfile (2.1.0-2)
+    create NFS-safe lockfiles
+ruby-log4r (1.1.10-2)
+    Logging library for Ruby
+ruby-mab (0.0.1+git20120515.30414e4-2)
+    templating engine for writing HTML in pure Ruby
+ruby-magic (0.2.6-1)
+    Ruby FFI bindings to libmagic
+ruby-mail (2.4.4-2)
+    Ruby library to handle email generation, parsing and sending.
+ruby-maruku (0.6.0-2)
+    Markdown-superset interpreter written in Ruby.
+ruby-mathml (0.12.2-2)
+    TeX formula to MathML conversion library for Ruby
+ruby-mecab (0.99.3-2)
+    mecab binding for Ruby language
+ruby-mechanize (2.3-2)
+    Library used for automating interaction with websites
+ruby-memcache-client (1.8.5-2)
+    Ruby client library for memcached
+ruby-merb-assets (1.1.3-1)
+    Plugin library for Merb that provides helpers for assets
+ruby-merb-core (1.1.3+dfsg-2)
+    Core libraries for the Merb MVC framework
+ruby-merb-haml (1.1.3-2)
+    Plugin library for Merb that provides access to ruby-haml
+ruby-merb-helpers (1.1.3-1)
+    Plugin library for Merb that provides view helpers
+ruby-merb-param-protection (1.1.3-1)
+    Merb plugin with controller methods to filter parameters
+ruby-metaclass (0.0.1-2)
+    Ruby library adding a metaclass method to all Ruby objects
+ruby-metaid (1.0-7)
+    Some additional methods to make metaprogramming easier
+ruby-method-source (0.7.1-1)
+    Retrieve the sourcecode for a method as a Ruby string
+ruby-mime-types (1.19-1)
+    guess MIME type of files
+ruby-minitest (3.2.0-1)
+    Ruby test tools supporting TDD, BDD, mocking, and benchmarking
+ruby-mixlib-authentication (1.1.4-2)
+    Simple Ruby mixin for creating a logger object
+ruby-mixlib-cli (1.2.2-2)
+    Ruby mixin for creating command line applications
+ruby-mixlib-config (1.1.2-3)
+    Simple class based config mechanism for Ruby
+ruby-mixlib-log (1.4.1-1)
+    Simple Ruby mixin for creating a logger object
+ruby-mixlib-shellout (1.0.0-2)
+    mixin library for subprocess management, output collection
+ruby-mkrf (0.2.3+dfsg-2)
+    Ruby library generating Rakefiles to build C extensions to Ruby
+ruby-mocha (0.11.3-3)
+    Mocking and stubbing library for Ruby
+ruby-moneta (0.6.0-4)
+    Ruby interface to multiple key/value stores
+ruby-mp3tag (1.0-11)
+    Ruby library for manipulating ID3V1.1 tags in MP3
+ruby-msgpack (0.4.6-4)
+    Ruby library for MessagePack
+ruby-multi-json (1.3.6-1)
+    Ruby library to provide easy switching between different JSON backends
+ruby-multibitnums (0.1.4-1)
+    extension library for integers with arbitrary bit lengths
+ruby-mustache (0.99.4-3)
+    Mustache is a framework-agnostic way to render logic-free views
+ruby-mysql (2.8.2+gem2deb-3)
+    MySQL module for Ruby
+ruby-narray (0.6.0.1-1)
+    Numerical N-dimensional Array library for Ruby
+ruby-narray-miss (1.2.7-2)
+    Additional class with processing of missing value to NArray
+ruby-ncurses (1.3.1-2)
+    ruby extension for the ncurses C library
+ruby-net-http-digest-auth (1.2-2)
+    RFC 2617 Digest Access Authentication implementation
+ruby-net-http-persistent (2.7-2)
+    Manages persistent connections using Net::HTTP
+ruby-net-irc (0.0.9-2)
+    Ruby IRC library (Client, Server and many IRC gateways to webservice)
+ruby-net-ldap (0.3.1-2)
+    LDAP client library for Ruby
+ruby-net-netrc (0.2.2-2)
+    Pure Ruby library to parse .netrc file
+ruby-net-scp (1.0.4-2)
+    pure ruby implementation of the SCP protocol
+ruby-net-sftp (1:2.0.5-3)
+    Ruby implementation of the SFTP protocol
+ruby-net-ssh (1:2.5.2-2)
+    Ruby implementation of the SSH protocol
+ruby-net-ssh-gateway (1.1.0-2)
+    Ruby library for tunneling connections to servers with ssh
+ruby-net-ssh-multi (1.1-2)
+    Ruby library for making multiple SSH connections to remote systems
+ruby-netcdf (0.6.6-1)
+    Ruby interface of netCDF library
+ruby-nokogiri (1.5.5-1)
+    HTML, XML, SAX, and Reader parser for Ruby
+ruby-nora (1:0.0.20041021-5.1)
+    Web Application Library for ruby
+ruby-ntlm (0.1.1-1)
+    Ruby/NTLM library.
+ruby-oauth (0.4.6-2)
+    Ruby library for OAuth core
+ruby-odbc (0.99994-4)
+    ODBC Binding for Ruby
+ruby-ogginfo (0.6.10-1)
+    Ruby library for accessing low-level information on ogg files
+ruby-oily-png (1.0.2-2)
+    native mixin to speed up ChunkyPNG
+ruby-okular (4:4.8.4-1)
+    Okular Ruby bindings
+ruby-ole (1.2.11.3-1)
+    Ruby library for read/write access for OLE compound documents
+ruby-open4 (1.3.0-1)
+    library for managing child processes in Ruby
+ruby-opengl (0.60.1+dfsg2-1~wheezy1)
+    OpenGL Interface for Ruby
+ruby-openid (2.1.8debian-6)
+    Ruby library for verifying and serving OpenID identities
+ruby-opennebula (3.4.1-3.1)
+    Ruby bindings for OpenNebula Cloud API (OCA)
+ruby-packet (0.1.15-5)
+    Ruby library for Event driven network programming (dependency package)
+ruby-pango (1.1.3-2+b1)
+    Pango bindings for the Ruby language
+ruby-parser (2.3.1-2)
+    Ruby parser written in pure Ruby
+ruby-parsetree (3.0.8-3)
+    Extract a class or method's parse tree, return it as a s-expression (ruby1.8)
+ruby-passenger (3.0.13debian-1+deb7u2)
+    Rails and Rack support for Apache2 and Nginx
+ruby-password (0.5.3-3)
+    Ruby library for handling passwords
+ruby-pcap (0.7.0-2)
+    Interface to LBL Packet Capture library (libpcap)
+ruby-pdf-inspector (1.0.1-2)
+    Ruby library for analyzing PDF output
+ruby-pdf-reader (1.1.1-2)
+    Ruby library for accessing the content of PDF files
+ruby-peach (0.4-2)
+    parallel execution of each and map in Ruby
+ruby-pg (0.13.2-2)
+    PostgreSQL interface for Ruby
+ruby-pgplot (0.1.3-6) [contrib]
+    Ruby interface to the PGPLOT graphics library
+ruby-phonon (4:4.8.4-1)
+    Phonon bindings for the Ruby language
+ruby-pkg-config (1.1.2-1)
+    pkg-config implementation for Ruby
+ruby-pkg-tools (0.18)
+    Tools for building Debian Ruby packages
+ruby-plasma (4:4.8.4-1)
+    Plasma Ruby bindings
+ruby-platform (0.4.0-2)
+    Hopefully robust platform sensing for ruby
+ruby-playerc (3.0.2+dfsg-4+b1)
+    Networked server for robots and sensors - Ruby wrapper
+ruby-polyglot (0.3.3-3)
+    Custom language loaders for specified file extensions
+ruby-popen4 (0.1.4-1)
+    ruby open4 cross-platform library
+ruby-poppler (1.1.3-2+b1)
+    Ruby bindinds for the libpoppler-glib library
+ruby-posix-spawn (0.3.6-1)
+    Ruby Implementation of posix_spawn(2) for faster process spawning
+ruby-prawn (1.0.0~rc1+dfsg1-3)
+    Fast, nimble PDF generation library for Ruby
+ruby-prof (0.7.3-1.1)
+    A fast code profiler for Ruby
+ruby-progressbar (0.11.0-2)
+    Text progress bar library for Ruby
+ruby-qdbm (1.8.78-2)
+    QDBM Database Libraries for Ruby
+ruby-qpid (0.16-6+deb7u1)
+    enterprise messaging system - Ruby bindings
+ruby-qscintilla2 (4:4.8.4-1)
+    QScintilla2 bindings for the Ruby language
+ruby-qt4 (4:4.8.4-1)
+    Qt 4 bindings for the Ruby language
+ruby-qt4-declarative (4:4.8.4-1)
+    QtDeclarative bindings for the Ruby language
+ruby-qt4-script (4:4.8.4-1)
+    QtScript bindings for the Ruby language
+ruby-qt4-test (4:4.8.4-1)
+    QtTest bindings for the Ruby language
+ruby-qt4-uitools (4:4.8.4-1)
+    QtUiTools bindings for the Ruby language
+ruby-qt4-webkit (4:4.8.4-1)
+    QtWebKit bindings for the Ruby language
+ruby-rack (1.4.1-2.1)
+    Modular Ruby webserver interface
+ruby-rack-cache (1.2-2)
+    HTTP Caching for Rack
+ruby-rack-protection (1.2.0-1)
+    Protects against typical web attacks for Rack apps
+ruby-rack-ssl (1.3.2-2)
+    SSL/TLS extension for Ruby Rack
+ruby-rack-test (0.6.1-3)
+    Simple testing API built on Rack
+ruby-rails-2.3 (2.3.14-4)
+    MVC ruby based framework geared for web application development
+ruby-rails-3.2 (3.2.6-1)
+    MVC ruby based framework geared for web application development
+ruby-railties-3.2 (3.2.6-3)
+    MVC ruby based framework geared for web application development
+ruby-raindrops (0.9.0-1)
+    Real-time stats for preforking Rack servers
+ruby-rb-inotify (0.8.8-2)
+    Ruby wrapper for Linux's inotify
+ruby-rc4 (0.1.5-2)
+    Ruby library implementing the RC4 algorithm
+ruby-rchardet (1.3-3)
+    Character encoding auto-detection for Ruby
+ruby-rd (0.6.34-4)
+    RDTool library for Ruby
+ruby-rdiscount (1.6.8-3)
+    Discount Markdown Processor for Ruby
+ruby-redcarpet (2.1.1-3)
+    Fast, safe and extensible Markdown to (X)HTML parser for Ruby
+ruby-redcloth (4.2.9-2+deb7u2) [security]
+    Textile module for Ruby
+ruby-remctl (3.2-4)
+    Ruby extension for Kerberos-authenticated command execution
+ruby-rest-client (1.6.7-3)
+    simple REST client for Ruby
+ruby-revolution (0.5-8)
+    Ruby binding for the Evolution mail client
+ruby-rhash (1.2.9-8+deb7u1)
+    Ruby interface for LibRHash hash sums calculation library
+ruby-rmagick (2.13.1-6)
+    ImageMagick API for Ruby (documentation)
+ruby-romkan (0.4-9)
+    Romaji <-> Kana conversion library for Ruby
+ruby-ronn (0.7.3-2)
+    Builds manuals from Markdown
+ruby-rqrcode (0.4.2-1)
+    Ruby library for encoding QRCode (2D barcodes)
+ruby-rr (1.0.4-1)
+    test double framework for Ruby
+ruby-rspec (2.10.0-2)
+    Behaviour Driven Development framework for Ruby - metapackage
+ruby-rspec-core (2.10.1-2)
+    Behaviour Driven Development framework for Ruby - core
+ruby-rspec-expectations (2.10.0-2)
+    Behaviour Driven Development framework for Ruby - expectations
+ruby-rspec-mocks (2.10.1-2)
+    Behaviour Driven Development framework for Ruby - mocks
+ruby-rsvg2 (1.1.3-2+b1)
+    RSVG renderer bindings for the Ruby language
+ruby-ruby2ruby (1.3.1-1.1)
+    Generate pure ruby code easily from ParseTree's Sexps (ruby1.8)
+ruby-rubyforge (2.0.4-1)
+    automation of some Rubyforge operations
+ruby-rubymail (1.0.0-1)
+    lightweight mail library for Ruby
+ruby-rubytorrent (0.3-4)
+    BitTorrent library in Ruby
+ruby-sass-rails (3.2.5-1)
+    Sass adapter for the Rails asset pipeline
+ruby-sdl (2.1.2-3)
+    Ruby/SDL interface for Ruby
+ruby-selinux (2.1.9-5)
+    Ruby bindings to SELinux shared libraries
+ruby-semanage (2.1.6-6)
+    Ruby bindings to for SELinux policy management
+ruby-sequel (3.36.1-1)
+    Simple, flexible, and powerful SQL database access toolkit for Ruby
+ruby-sequel-pg (1.4.0-1)
+    Faster SELECTs when using Sequel with pg
+ruby-serialport (1.1.0-1)
+    Library for using RS-232 serial ports from Ruby programs
+ruby-session (3.1.0-1)
+    offers a set of classes for driving external programs via pipes
+ruby-setup (3.4.1-5)
+    the setup.rb install tool for Ruby
+ruby-sexp-processor (3.0.7-1)
+    brings all the generic sexp processing tools to ruby
+ruby-shadow (2.1.4-2)
+    Interface of shadow password for Ruby
+ruby-shoulda (3.0.0~beta2-1)
+    additional features for the Test::Unit testing framework
+ruby-shoulda-context (1.0.0~beta1-1)
+    context framework for Test::Unit
+ruby-shoulda-matchers (1.0.0~beta2-1)
+    Test helpers for Rails applications, compatible with Test::Unit and RSpec
+ruby-sigar (0.7.2-1)
+    System Information Gatherer And Reporter
+ruby-sinatra (1.3.2-2)
+    Ruby web-development dressed in a DSL
+ruby-slop (2.4.4-1)
+    Simple DSL for gathering options and parsing the command lineOption
+ruby-soprano (4:4.8.4-1)
+    Soprano Ruby bindings
+ruby-sourcify (0.5.0-2)
+    Extract a Ruby class or method's parse tree
+ruby-spreadsheet (0.7.3-1)
+    Ruby library for manipulating MS Excel (.xls) spreadsheets
+ruby-sprockets (2.4.3-1)
+    Rack-based asset packaging system
+ruby-sqlite3 (1.3.6-2)
+    SQLite3 interface for Ruby
+ruby-stomp (1.2.2-2)
+    Ruby client for the stomp messaging protocol
+ruby-svg-graph (1.0.5-1)
+    Pure Ruby library for generating charts in SVG format
+ruby-switch (0.1.0)
+    switch between different Ruby interpreters
+ruby-systemtimer (1.2.3-1)
+    System Timer provides consistent timeout based on signals
+ruby-systemu (2.5.1-1)
+    universal child process handling Ruby library
+ruby-taglib2 (0.1.3-1)
+    Ruby interface to TagLib, the audio meta-data library.
+ruby-term-ansicolor (1.0.7-1)
+    Ruby library that colors strings using ANSI escape sequences
+ruby-termios (0.9.6-2)
+    termios simple wrapper for ruby
+ruby-test-declarative (0.0.5-1)
+    adds a declarative test method syntax to test/unit
+ruby-test-spec (0.10.0-2)
+    Ruby library providing behaviour driven development interface for Test::Unit
+ruby-test-unit (2.5.0-2)
+    Improved version of Test::Unit library initially bundled in Ruby 1.8
+ruby-text (1.0.3-1)
+    Collection of text algorithms for Ruby
+ruby-text-format (1.0.0-3)
+    Ruby library for text formatting
+ruby-thor (0.15.3-1)
+    Ruby scripting framework
+ruby-tidy (1.1.2+gem2deb-1)
+    Ruby interface to HTML Tidy Library
+ruby-tilt (1.3.3-2)
+    Generic interface to multiple Ruby template engines
+ruby-tioga (1.14-3)
+    Ruby library for scientific graphs
+ruby-tmail (1.2.7.1-3+deb7u1)
+    Mail class library for Ruby
+ruby-tokyocabinet (1.31-2+b1 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, powerpc, s390, s390x, sparc], 1.31-2 [mipsel])
+    Ruby Binding of Tokyo Cabinet Database
+ruby-tomoe (0.6.0-1.3)
+    Handwriting recognition engine (ruby binding)
+ruby-transaction-simple (1.4.0-2)
+    A generic way to add active transaction support to objects
+ruby-treetop (1.4.10-5)
+    Ruby-based text parsing and interpretation DSL
+ruby-trollop (1.16.2-3)
+    command-line argument processing library
+ruby-ttfunk (1.0.3+dfsg-1)
+    Ruby library to parse TrueType font metrics
+ruby-twitter4r (0.7.0-3)
+    Ruby library for accessing Twitter
+ruby-tzinfo (0.3.33-3)
+    Daylight-savings aware timezone library
+ruby-uconv (0.5.3-2)
+    Unicode/EUC-JP translation module for Ruby
+ruby-unf (0.0.5-1)
+    Wrapper library to bring Unicode Normalization Form support to Ruby
+ruby-unf-ext (0.0.5-2)
+    Unicode Normalization Form support library for CRuby
+ruby-usb (0.2.1-2)
+    Ruby library providing bindings for libusb-0.1
+ruby-uuidtools (2.1.2-2)
+    UUIDs generation library for Ruby
+ruby-validatable (1.6.7-9)
+    Ruby library for adding validations
+ruby-vte (1.1.3-2+b1)
+    VTE widget bindings for the Ruby language
+ruby-webrobots (0.0.13-3)
+    Library for creating robots.txt-aware web robots
+ruby-whitewash (2.0-1)
+    Whitelist-based HTML filter for Ruby
+ruby-will-paginate (3.0.3-1)
+    Pagination for Rails
+ruby-wirble (0.1.3-4)
+    Extensions for the Ruby irb command line shell
+ruby-xml-simple (1.1.1-1)
+    Simple Ruby API for reading and writing XML
+ruby-xmlparser (0.7.2-2)
+    Ruby interface for the expat XML parser toolkit
+ruby-xmmsclient (0.8+dfsg-4+deb7u1)
+    XMMS2 - Ruby bindings
+ruby-yajl (1.1.0-2)
+    Ruby interface to Yajl, a JSON stream-based parser library
+ruby-yard-sinatra (1.0.0-1)
+    YARD plugin to include Sinatra routes
+ruby-zoom (0.4.1-5)
+    Ruby/ZOOM provides a Ruby binding to the Z40.50 Object-Orientation Model
+ruby1.8-full (1.8.7.358-7.1+deb7u2) [security]
+    Ruby 1.8 full installation
+ruby1.9.1 (1.9.3.194-8.1+deb7u3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, s390, s390x], 1.9.3.194-8.1+deb7u2 [armhf, mips, mipsel, powerpc, sparc]) [security]
+    Interpreter of object-oriented scripting language Ruby
+ruby1.9.1-dev (1.9.3.194-8.1+deb7u3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, s390, s390x], 1.9.3.194-8.1+deb7u2 [armhf, mips, mipsel, powerpc, sparc]) [security]
+    Header files for compiling extension modules for the Ruby 1.9.1
+ruby1.9.1-examples (1.9.3.194-8.1+deb7u3) [security]
+    Examples for Ruby 1.9
+ruby1.9.1-full (1.9.3.194-8.1+deb7u3) [security]
+    Ruby 1.9.1 full installation
+ruby1.9.3 (1.9.3.194-8.1+deb7u3) [security]
+    Interpreter of object-oriented scripting language Ruby, version 1.9.3
+rubygems (1.8.24-1)
+    package management framework for Ruby libraries/applications
+rubygems-integration (1.1)
+    integrates Debian Ruby packages with Rubygems
+rubygems1.8 (1.8.24-1)
+    Transitional package for rubygems
+rubygems1.8
+    virtual package provided by rubygems
+shelr (0.16.2-1)
+    Utility for plain text screencasting
+stompserver (0.9.9gem-2)
+    stomp messaging server implemented in Ruby
+syncache (1.2-1)
+    Thread-safe time-limited cache for Ruby
+treetop (1.4.10-5)
+    Ruby-based text parsing and interpretation (command-line utility)
+unicorn (4.3.1-4)
+    Rack HTTP server for fast clients
+whatweb (0.4.8~git20120606-1)
+    Next generation web scanner
+yard (0.8.2.1-2)
+    Ruby documentation tool 

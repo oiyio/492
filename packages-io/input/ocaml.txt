@@ -1,0 +1,661 @@
+
+cameleon (1.9.21-2+b1)
+    integrated development environment for OCaml
+caml2html (1.4.1-3)
+    HTML and LaTeX colored syntax from OCaml source files
+camlidl (1.05-14)
+    Stub code generator for Objective Caml
+camlmix (1.3.0-3)
+    preprocessor which converts text with embedded OCaml
+camlp4 (3.12.1-4)
+    Pre Processor Pretty Printer for OCaml
+camlp4-extra (3.12.1-4)
+    Pre Processor Pretty Printer for OCaml - extras
+camlp5 (6.06-1)
+    Pre Processor Pretty Printer for OCaml - classical version
+cmigrep (1.5-9)
+    search in OCaml compiled interface files
+cppo (0.9.2-1)
+    cpp for OCaml
+dh-ocaml (1.0.7)
+    helper tools for maintaining OCaml-related Debian packages
+jocaml (3.12.1-1)
+    OCaml extended for concurrent and distributed programming
+jocaml-base (3.12.1-1)
+    Runtime system for JOCaml bytecode executables
+js-of-ocaml (1.2-2)
+    OCaml bytecode to JavaScript compiler (compiler)
+libaac-tactics-ocaml (0.2.pl2-7)
+    Coq tactics for reasoning modulo AC (plugin)
+libaac-tactics-ocaml-dev (0.2.pl2-7)
+    Coq tactics for reasoning modulo AC (devt files)
+libagrep-ocaml (1.0-11+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.0-11 [armhf, s390x])
+    Wu-Manber algorithm for string searching with errors
+libagrep-ocaml-dev (1.0-11+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.0-11 [armhf, s390x])
+    Wu-Manber algorithm for string searching with errors
+libalsa-ocaml (0.2.1-1+b1 [amd64, armel, i386, ia64, mips, mipsel, powerpc, s390, sparc], 0.2.1-1 [armhf, s390x])
+    OCaml bindings for the ALSA library
+libalsa-ocaml-dev (0.2.1-1+b1 [amd64, armel, i386, ia64, mips, mipsel, powerpc, s390, sparc], 0.2.1-1 [armhf, s390x])
+    OCaml bindings for the ALSA library
+libao-ocaml (0.2.0-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.2.0-1 [armhf, s390x])
+    OCaml bindings for libao -- runtime files
+libao-ocaml-dev (0.2.0-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.2.0-1 [armhf, s390x])
+    OCaml bindings for libao -- development files
+libapron-ocaml (0.9.10-5.2+b3 [amd64, armel, i386], 0.9.10-5.2+b2 [ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.9.10-5.2 [armhf, s390x])
+    runtime libraries for APRON (OCaml interface)
+libapron-ocaml-dev (0.9.10-5.2+b3 [amd64, armel, i386], 0.9.10-5.2+b2 [ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.9.10-5.2 [armhf, s390x])
+    an abstract interpretation library (OCaml interface)
+libatd-ocaml (1.0.1-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.0.1-1 [armhf, s390x])
+    syntax for cross-language data types in OCaml
+libatd-ocaml-dev (1.0.1-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.0.1-1 [armhf, s390x])
+    syntax for cross-language data types in OCaml
+libatdgen-ocaml (1.2.2-1+b1)
+    code generator for biniou and JSON serialization in OCaml
+libatdgen-ocaml-dev (1.2.2-1+b1)
+    code generator for biniou and JSON serialization in OCaml
+libbatteries-ocaml-dev (1.4.3-1)
+    Batteries included: OCaml development platform - development files
+libbenchmark-ocaml-dev (0.9-2+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.9-2 [armhf, s390x])
+    OCaml benchmarking library
+libbin-prot-camlp4-dev (2.0.7-1)
+    type-safe binary serialization for OCaml values
+libbiniou-ocaml (1.0.0-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.0.0-1 [armhf, s390x])
+    flexible binary data format in OCaml
+libbiniou-ocaml-dev (1.0.0-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.0.0-1 [armhf, s390x])
+    flexible binary data format in OCaml
+libbitstring-ocaml (2.0.2-3+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 2.0.2-3 [armhf, s390x])
+    Erlang-style bitstrings for OCaml (runtime)
+libbitstring-ocaml-dev (2.0.2-3+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 2.0.2-3 [armhf, s390x])
+    Erlang-style bitstrings for OCaml (development files)
+libbjack-ocaml (0.1.3-5+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.1.3-5 [armhf, s390x])
+    OCaml blocking interface to jack audio connection kit
+libbjack-ocaml-dev (0.1.3-5+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.1.3-5 [armhf, s390x])
+    OCaml blocking interface to jack audio connection kit
+libbz2-ocaml (0.6.0-6+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.6.0-6 [armhf, s390x])
+    OCaml bindings for the bzip2 compression library
+libbz2-ocaml-dev (0.6.0-6+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.6.0-6 [armhf, s390x])
+    OCaml bindings for the bzip2 compression library
+libcairo-ocaml (1:1.2.0-2+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1:1.2.0-2 [armhf, s390x])
+    OCaml bindings for Cairo (runtime)
+libcairo-ocaml-dev (1:1.2.0-2+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1:1.2.0-2 [armhf, s390x])
+    OCaml bindings for Cairo
+libcalendar-ocaml (2.03-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 2.03-1 [armhf, s390x])
+    OCaml library providing operations over dates and times
+libcalendar-ocaml-dev (2.03-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 2.03-1 [armhf, s390x])
+    OCaml library providing operations over dates and times
+libcameleon-ocaml-dev (1.9.21-2+b1)
+    libraries from Cameleon
+libcaml2html-ocaml (1.4.1-3)
+    HTML and LaTeX colored syntax from OCaml source files
+libcaml2html-ocaml-dev (1.4.1-3)
+    HTML and LaTeX colored syntax from OCaml source files
+libcamlimages-ocaml (1:4.0.1-4+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1:4.0.1-4+b1 [armhf], 1:4.0.1-4 [s390x])
+    OCaml image processing library (Runtime library)
+libcamlimages-ocaml-dev (1:4.0.1-4+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1:4.0.1-4+b1 [armhf], 1:4.0.1-4 [s390x])
+    OCaml image processing library (Development package)
+libcamljava-ocaml-dev (0.3-1+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.3-1 [armhf, s390x])
+    interface between OCaml and Java via Caml/C interface and JNI
+libcamlpdf-ocaml-dev (0.5-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.5-1 [armhf, s390x]) [non-free]
+    library for reading, writing and manipulating PDF files and data
+libcamltemplate-ocaml (1.0.2-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.0.2-1 [armhf, s390x])
+    configurable library for generating text from templates in OCaml
+libcamltemplate-ocaml-dev (1.0.2-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.0.2-1 [armhf, s390x])
+    configurable library for generating text from templates in OCaml
+libcamomile-ocaml-data (0.8.4-2)
+    Unicode data for OCaml
+libcamomile-ocaml-dev (0.8.4-2)
+    Unicode library for OCaml
+libcf-ocaml (0.10-3+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.10-3 [armhf, s390x])
+    OCaml library with miscellaneous utility functions
+libcf-ocaml-dev (0.10-3+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.10-3 [armhf, s390x])
+    OCaml library with miscellaneous utility functions
+libconfig-file-ocaml-dev (1.1-1)
+    OCaml library for managing configuration files (dev files)
+libcoq-ocaml (8.3.pl4+dfsg-2)
+    runtime libraries for Coq
+libcoq-ocaml-dev (8.3.pl4+dfsg-2)
+    development libraries and tools for Coq
+libcore-ocaml (107.01-5)
+    Jane Street's standard library for OCaml (runtime)
+libcore-ocaml-dev (107.01-5)
+    Jane Street's standard library for OCaml
+libcothreads-ocaml-dev (0.10-3+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.10-3 [armhf, s390x])
+    concurrent programming library for OCaml
+libcreal-ocaml-dev (0.7-6+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.7-6 [armhf, s390x])
+    O'Caml library that implements exact real arithmetic
+libcry-ocaml-dev (0.2.2-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.2.2-1 [armhf, s390x])
+    MP3/Ogg Vorbis broadcast OCaml module
+libcryptgps-ocaml-dev (0.2.1-7+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.2.1-7 [armhf, s390x])
+    OCaml implementation of symmetric cryptographic algorithms: Blowfish, DES, 3DES
+libcryptokit-ocaml (1.5-1)
+    cryptographic algorithm library for OCaml - runtime
+libcryptokit-ocaml-dev (1.5-1)
+    cryptographic algorithm library for OCaml - development
+libcsv-ocaml-dev (1.2.2-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.2.2-1 [armhf, s390x])
+    library to read and write CSV files in OCaml
+libcudf-ocaml-dev (0.6.2-1)
+    OCaml library to access descriptions of package upgrade problems
+libcurl-ocaml (0.5.3-2+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.5.3-2 [armhf, s390x])
+    OCaml curl bindings (Runtime Library)
+libcurl-ocaml-dev (0.5.3-2+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.5.3-2 [armhf, s390x])
+    OCaml libcurl bindings (Development package)
+libcurses-ocaml (1.0.3-2)
+    OCaml bindings for the ncurses library (runtime)
+libcurses-ocaml-dev (1.0.3-2)
+    OCaml bindings for the ncurses library
+libdbus-ocaml (0.29-1+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.29-1 [armhf, s390x])
+    OCaml bindings for the D-Bus API
+libdbus-ocaml-dev (0.29-1+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.29-1 [armhf, s390x])
+    OCaml bindings for the D-Bus API
+libderiving-ocaml (0.1.1a-3+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.1.1a-3 [armhf, s390x])
+    deriving functions from type declarations in OCaml (runtime)
+libderiving-ocaml-dev (0.1.1a-3+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.1.1a-3 [armhf, s390x])
+    deriving functions from type declarations in OCaml (devt files)
+libderiving-ocsigen-ocaml (0.3c-1)
+    deriving functions from type declarations in OCaml (runtime)
+libderiving-ocsigen-ocaml-dev (0.3c-1)
+    deriving functions from type declarations in OCaml (devt files)
+libdose2-ocaml (1.4.2-4+b3 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, sparc], 1.4.2-4+b2 [ia64, mips, mipsel, s390], 1.4.2-4+b1 [armhf, s390x])
+    OCaml libraries for managing packages and their dependencies
+libdose2-ocaml-dev (1.4.2-4+b3 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, sparc], 1.4.2-4+b2 [ia64, mips, mipsel, s390], 1.4.2-4+b1 [armhf, s390x])
+    OCaml libraries for package dependencies (development files)
+libdose3-ocaml (3.0.2-3)
+    OCaml libraries for package dependencies (runtime files)
+libdose3-ocaml-dev (3.0.2-3)
+    OCaml libraries for package dependencies (development files)
+libdssi-ocaml (0.1.0-1+b2 [kfreebsd-amd64], 0.1.0-1+b1 [amd64, armel, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.1.0-1 [armhf, s390x])
+    OCaml interface to DSSI plugins -- runtime files
+libdssi-ocaml-dev (0.1.0-1+b2 [kfreebsd-amd64], 0.1.0-1+b1 [amd64, armel, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.1.0-1 [armhf, s390x])
+    OCaml interface to DSSI plugins -- developpement files
+libdtools-ocaml-dev (0.3.0-1)
+    library for writing daemons in OCaml
+libduppy-ocaml (0.4.2-1+b2 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, sparc], 0.4.2-1+b1 [ia64, mips, mipsel, s390], 0.4.2-1 [armhf, s390x])
+    Advanced scheduler for OCaml (Runtime library)
+libduppy-ocaml-dev (0.4.2-1+b2 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, sparc], 0.4.2-1+b1 [ia64, mips, mipsel, s390], 0.4.2-1 [armhf, s390x])
+    Advanced scheduler for OCaml (Development package)
+libeasy-format-ocaml (1.0.0-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.0.0-1 [armhf, s390x])
+    text generation with indentation made easy(ier) for OCaml
+libeasy-format-ocaml-dev (1.0.0-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.0.0-1 [armhf, s390x])
+    text generation with indentation made easy(ier) for OCaml
+libeliom-ocaml (2.2.2-1)
+    web framework for ocsigenserver (runtime libraries)
+libeliom-ocaml-dev (2.2.2-1)
+    web framework for ocsigenserver (dev libraries)
+libexpat-ocaml (0.9.1+debian1-7+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.9.1+debian1-7 [armhf, s390x])
+    OCaml expat bindings
+libexpat-ocaml-dev (0.9.1+debian1-7+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.9.1+debian1-7 [armhf, s390x])
+    OCaml expat bindings
+libexpect-ocaml (0.0.2-1+b6 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, sparc], 0.0.2-1+b5 [ia64, mips, mipsel, s390], 0.0.2-1 [armhf, s390x])
+    Expect-like framework
+libexpect-ocaml-dev (0.0.2-1+b6 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, sparc], 0.0.2-1+b5 [ia64, mips, mipsel, s390], 0.0.2-1 [armhf, s390x])
+    Expect-like framework
+libextlib-ocaml (1.5.2-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.5.2-1 [armhf, s390x])
+    extended standard library for OCaml (plugins)
+libextlib-ocaml-dev (1.5.2-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.5.2-1 [armhf, s390x])
+    extended standard library for OCaml
+libextunix-ocaml (0.0.5-2)
+    Extended functions for OCaml Unix module (runtime package)
+libextunix-ocaml-dev (0.0.5-2)
+    Extended functions for OCaml Unix module (development package)
+libfaad-ocaml (0.3.0-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.3.0-1 [armhf, s390x])
+    OCaml interface to the faad library -- runtime files
+libfaad-ocaml-dev (0.3.0-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.3.0-1 [armhf, s390x])
+    OCaml interface to the faad library -- developpement files
+libfacile-ocaml-dev (1.1-8+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.1-8 [armhf, s390x])
+    functional constraint library implemented in Objective Caml
+libfields-camlp4-dev (107.01-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 107.01-1 [armhf, s390x])
+    OCaml syntax extension that enables folding over record fields
+libfileutils-ocaml-dev (0.4.2-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.4.2-1 [armhf, s390x])
+    File manipulation for OCaml
+libfindlib-ocaml (1.3.1-1)
+    library for managing OCaml libraries (runtime)
+libfindlib-ocaml-dev (1.3.1-1)
+    library for managing OCaml libraries (development files)
+libflac-ocaml (0.1.1-1)
+    OCaml interface to the flac library -- runtime files
+libflac-ocaml-dev (0.1.1-1)
+    OCaml interface to the flac library -- developpement files
+libgalax-ocaml-dev (1.1-10+b3 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, sparc], 1.1-10+b1 [armhf, ia64, mips, mipsel, s390], 1.1-10 [s390x])
+    XQuery implementation with static typing - OCaml libraries
+libgavl-ocaml (0.1.4-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.1.4-1 [armhf, s390x])
+    OCaml interface to the gavl library
+libgavl-ocaml-dev (0.1.4-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.1.4-1 [armhf, s390x])
+    OCaml interface to the gavl library
+libgd-gd2-noxpm-ocaml (1.0~alpha5-5)
+    OCaml interface to the GD library -- runtime files
+libgd-gd2-noxpm-ocaml-dev (1.0~alpha5-5)
+    OCaml interface to the GD library -- developpement files
+libgdome2-ocaml (0.2.6-6+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.2.6-6 [armhf, s390x])
+    OCaml bindings for GDome2 DOM implementation
+libgdome2-ocaml-dev (0.2.6-6+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.2.6-6 [armhf, s390x])
+    OCaml bindings for GDome2 DOM implementation
+libgetopt-ocaml-dev (0.0.20040811-10+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.0.20040811-10 [armhf, s390x])
+    command line parsing library for OCaml
+libgettext-ocaml (0.3.4-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.3.4-1+b1 [armhf, s390x])
+    OCaml internationalization shared library
+libgettext-ocaml-dev (0.3.4-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.3.4-1+b1 [armhf, s390x])
+    OCaml internationalization library
+libgmp-ocaml (20021123-17+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 20021123-17 [armhf, s390x])
+    OCaml bindings for the GNU multiprecision arithmetic library
+libgmp-ocaml-dev (20021123-17+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 20021123-17 [armhf, s390x])
+    OCaml bindings for the GNU multiprecision arithmetic library
+libgnuplot-ocaml-dev (0.8.3-3)
+    OCaml interface to the gnuplot utility
+libgstreamer-ocaml (0.1.0-3+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.1.0-3 [armhf, s390x])
+    OCaml interface to the gstreamer library -- runtime files
+libgstreamer-ocaml-dev (0.1.0-3+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.1.0-3 [armhf, s390x])
+    OCaml interface to the gstreamer library -- development files
+libguestfs-ocaml (1:1.18.1-1+deb7u3)
+    guest disk image management system - OCaml bindings
+libguestfs-ocaml-dev (1:1.18.1-1+deb7u3)
+    guest disk image management system - OCaml development files
+libhivex-ocaml (1.3.6-2)
+    OCaml bindings for hivex -- runtime files
+libhivex-ocaml-dev (1.3.6-2)
+    OCaml bindings for hivex -- development files
+libhttp-ocaml-dev (0.1.5-1+b2 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, sparc], 0.1.5-1+b1 [armhf, ia64, mips, mipsel, s390], 0.1.5-1 [s390x])
+    OCaml library for writing HTTP servers
+libinifiles-ocaml (1.2-2+b1 [amd64], 1.2-2 [armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    read and write .ini files for OCaml (runtime)
+libinifiles-ocaml-dev (1.2-2+b1 [amd64], 1.2-2 [armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    read and write .ini files for OCaml
+libinotify-ocaml (1.0-1+b3 [amd64, armel, i386, ia64, mips, mipsel, powerpc, s390, sparc], 1.0-1 [armhf, s390x])
+    OCaml bindings for the inotify API
+libinotify-ocaml-dev (1.0-1+b3 [amd64, armel, i386, ia64, mips, mipsel, powerpc, s390, sparc], 1.0-1 [armhf, s390x])
+    OCaml bindings for the inotify API
+libjs-obrowser (1.1.1+dfsg-1)
+    OCaml virtual machine written in Javascript (runtime)
+libjs-of-ocaml (1.2-2)
+    OCaml bytecode to JavaScript compiler (runtime)
+libjs-of-ocaml-dev (1.2-2)
+    OCaml bytecode to JavaScript compiler (development files)
+libjson-static-camlp4-dev (0.9.8-1+b5 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.9.8-1+b1 [armhf], 0.9.8-1 [s390x])
+    JSON validator and converter for OCaml
+libjson-wheel-ocaml-dev (1.0.6-2+b8 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, sparc], 1.0.6-2+b7 [ia64, mips, mipsel, s390], 1.0.6-2+b1 [armhf], 1.0.6-2 [s390x])
+    OCaml API to JSON data format
+liblablgl-ocaml (1.04-5+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.04-5 [armhf, s390x])
+    Runtime libraries for lablgl
+liblablgl-ocaml-dev (1.04-5+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.04-5 [armhf, s390x])
+    an OpenGL interface for Objective Caml
+liblablgtk-extras-ocaml-dev (1.0-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.0-1+b1 [armhf, s390x])
+    collection of modules for OCaml/LablGtk2 applications
+liblablgtk2-gl-ocaml (2.14.2+dfsg-3)
+    runtime libraries for OCaml bindings to GtkGL
+liblablgtk2-gl-ocaml-dev (2.14.2+dfsg-3)
+    OCaml bindings to GtkGL
+liblablgtk2-gnome-ocaml (2.14.2+dfsg-3)
+    runtime libraries for OCaml bindings to GNOME
+liblablgtk2-gnome-ocaml-dev (2.14.2+dfsg-3)
+    OCaml bindings to GNOME
+liblablgtk2-ocaml (2.14.2+dfsg-3)
+    runtime libraries for OCaml bindings for GTK+ version 2
+liblablgtk2-ocaml-dev (2.14.2+dfsg-3)
+    OCaml bindings to Gtk+ version 2
+liblablgtkmathview-ocaml (0.7.8-6+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.7.8-6 [armhf, s390x])
+    OCaml bindings for libgtkmathview (runtime)
+liblablgtkmathview-ocaml-dev (0.7.8-6+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.7.8-6 [armhf, s390x])
+    OCaml bindings for libgtkmathview, a GTK widget to render MathML
+liblablgtksourceview2-ocaml (2.14.2+dfsg-3)
+    OCaml bindings for libgtksourceview2 (runtime)
+liblablgtksourceview2-ocaml-dev (2.14.2+dfsg-3)
+    OCaml bindings for libgtksourceview2, a source editor GTK+ widget
+libladspa-ocaml (0.1.4-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.1.4-1 [armhf, s390x])
+    OCaml bindings for LADSPA -- runtime files
+libladspa-ocaml-dev (0.1.4-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.1.4-1 [armhf, s390x])
+    OCaml bindings for LADSPA -- developpement files
+liblastfm-ocaml-dev (0.3.0-2+b6 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, sparc], 0.3.0-2+b4 [ia64, mips, mipsel, s390], 0.3.0-2+b1 [armhf], 0.3.0-2 [s390x])
+    OCaml interface to audioscrobbler and lastfm radios
+libldap-ocaml-dev (2.1.8-8+b9 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, sparc], 2.1.8-8+b8 [ia64, mips, mipsel, s390], 2.1.8-8+b1 [armhf], 2.1.8-8 [s390x])
+    LDAP bindings for OCaml
+libledit-ocaml-dev (2.03-1+b2)
+    OCaml line editor library
+libllvm-2.9-ocaml-dev (2.9+dfsg-7)
+    Low-Level Virtual Machine (LLVM), bindings for OCaml
+libllvm-3.0-ocaml-dev (3.0-10)
+    Low-Level Virtual Machine (LLVM), bindings for OCaml
+libllvm-3.1-ocaml-dev (3.1-1)
+    Low-Level Virtual Machine (LLVM), bindings for OCaml
+libllvm-ocaml-dev (1:3.0-14+nmu2)
+    Low-Level Virtual Machine (LLVM), bindings for OCaml
+liblo-ocaml (0.1.0-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.1.0-1 [armhf, s390x])
+    OCaml interface to the lo library -- runtime files
+liblo-ocaml-dev (0.1.0-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.1.0-1 [armhf, s390x])
+    OCaml interface to the lo library -- developpement files
+liblwt-glib-ocaml (2.3.2-1+b3 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, sparc], 2.3.2-1+b2 [armhf, ia64, mips, mipsel, s390], 2.3.2-1+b1 [s390x])
+    cooperative GLib bindings for OCaml (runtime)
+liblwt-glib-ocaml-dev (2.3.2-1+b3 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, sparc], 2.3.2-1+b2 [armhf, ia64, mips, mipsel, s390], 2.3.2-1+b1 [s390x])
+    cooperative GLib bindings for OCaml
+liblwt-ocaml (2.3.2-1+b3 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, sparc], 2.3.2-1+b2 [armhf, ia64, mips, mipsel, s390], 2.3.2-1+b1 [s390x])
+    cooperative light-weight thread library for OCaml (runtime)
+liblwt-ocaml-dev (2.3.2-1+b3 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, sparc], 2.3.2-1+b2 [armhf, ia64, mips, mipsel, s390], 2.3.2-1+b1 [s390x])
+    cooperative light-weight thread library for OCaml
+liblwt-ssl-ocaml (2.3.2-1+b3 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, sparc], 2.3.2-1+b2 [armhf, ia64, mips, mipsel, s390], 2.3.2-1+b1 [s390x])
+    cooperative OpenSSL bindings for OCaml (runtime)
+liblwt-ssl-ocaml-dev (2.3.2-1+b3 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, sparc], 2.3.2-1+b2 [armhf, ia64, mips, mipsel, s390], 2.3.2-1+b1 [s390x])
+    cooperative OpenSSL bindings for OCaml
+libmad-ocaml (0.4.4-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.4.4-1 [armhf, s390x])
+    OCaml bindings for the MAD library (Runtime library)
+libmad-ocaml-dev (0.4.4-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.4.4-1 [armhf, s390x])
+    OCaml bindings for the MAD library (Development package)
+libmagic-ocaml (0.7.3-5+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.7.3-5 [armhf, s390x])
+    OCaml bindings for the File type determination library
+libmagic-ocaml-dev (0.7.3-5+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.7.3-5 [armhf, s390x])
+    OCaml bindings for the File type determination library
+libmelt-ocaml-dev (1.4.0-1)
+    LaTeX with OCaml (libraries)
+libmenhir-ocaml-dev (20120123.dfsg-1)
+    Menhir library for OCaml
+libmikmatch-ocaml (1.0.4-1+b1 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, sparc], 1.0.4-1 [armhf, ia64, mips, mipsel, s390, s390x])
+    camlp4 extension for pattern matching with regexps
+libmikmatch-ocaml-dev (1.0.4-1+b1 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, sparc], 1.0.4-1 [armhf, ia64, mips, mipsel, s390, s390x])
+    camlp4 extension for pattern matching with regexps
+libmlpcap-ocaml (0.9-16)
+    binding of libpcap for OCaml (runtime package)
+libmlpcap-ocaml-dev (0.9-16)
+    binding of libpcap for OCaml
+libmlpost-ocaml-dev (0.8.1-3)
+    Objective Caml interface to Metapost (library)
+libmm-ocaml (0.2.0-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.2.0-1 [armhf, s390x])
+    OCaml multimedia library -- runtime files
+libmm-ocaml-dev (0.2.0-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.2.0-1 [armhf, s390x])
+    OCaml multimedia library -- developpement files
+libmp3lame-ocaml (0.3.1-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.3.1-1 [armhf, s390x])
+    OCaml interface to the lame library -- runtime files
+libmp3lame-ocaml-dev (0.3.1-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.3.1-1 [armhf, s390x])
+    OCaml interface to the lame library -- developpement files
+libmysql-ocaml (1.1.1-1+b1 [amd64, armel, armhf, mips], 1.1.1-1 [i386, ia64, kfreebsd-amd64, kfreebsd-i386, mipsel, powerpc, s390, s390x, sparc])
+    OCaml bindings for MySql (runtime package)
+libmysql-ocaml-dev (1.1.1-1+b1 [amd64, armel, armhf, mips], 1.1.1-1 [i386, ia64, kfreebsd-amd64, kfreebsd-i386, mipsel, powerpc, s390, s390x, sparc])
+    OCaml bindings for MySql (development package)
+libnethttpd-ocaml-dev (3.5.1-1)
+    OCaml application-level Internet libraries - HTTP daemon development libraries
+liboasis-ocaml (0.2.0-6)
+    Architecture for building OCaml libraries and applications
+liboasis-ocaml-dev (0.2.0-6)
+    Architecture for building OCaml libraries and applications
+libobrowser-ocaml-dev (1.1.1+dfsg-1+b9 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, sparc], 1.1.1+dfsg-1+b6 [ia64, mips, mipsel, s390], 1.1.1+dfsg-1+b3 [armhf], 1.1.1+dfsg-1 [s390x])
+    O'Browser support libraries (development files)
+libobus-ocaml (1.1.3-1+b8 [amd64, armel, i386, powerpc], 1.1.3-1+b7 [kfreebsd-amd64, kfreebsd-i386, sparc], 1.1.3-1+b5 [ia64, mips, mipsel, s390], 1.1.3-1+b3 [armhf], 1.1.3-1+b1 [s390x])
+    pure OCaml implementation of D-Bus (runtime)
+libobus-ocaml-bin (1.1.3-1+b8 [amd64, armel, i386, powerpc], 1.1.3-1+b7 [kfreebsd-amd64, kfreebsd-i386, sparc], 1.1.3-1+b5 [ia64, mips, mipsel, s390], 1.1.3-1+b3 [armhf], 1.1.3-1+b1 [s390x])
+    pure OCaml implementation of D-Bus (command-line tools)
+libobus-ocaml-dev (1.1.3-1+b8 [amd64, armel, i386, powerpc], 1.1.3-1+b7 [kfreebsd-amd64, kfreebsd-i386, sparc], 1.1.3-1+b5 [ia64, mips, mipsel, s390], 1.1.3-1+b3 [armhf], 1.1.3-1+b1 [s390x])
+    pure OCaml implementation of D-Bus (development files)
+libocamlbricks-ocaml-dev (0.50.1-4+b5 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.50.1-4 [armhf, s390x])
+    Miscellaneous utility functions in OCaml for Marionnet
+libocamlgraph-ocaml-dev (1.8.2-2)
+    graph library for OCaml
+libocamlgraph-viewer-ocaml-dev (1.8.2-2)
+    graph library for OCaml
+libocamlgsl-ocaml (0.6.0-7+b2 [amd64, i386, ia64, kfreebsd-amd64, kfreebsd-i386, powerpc, s390], 0.6.0-7 [s390x])
+    GNU scientific library for OCaml
+libocamlgsl-ocaml-dev (0.6.0-7+b2 [amd64, i386, ia64, kfreebsd-amd64, kfreebsd-i386, powerpc, s390], 0.6.0-7 [s390x])
+    GNU scientific library for OCaml
+libocamlnet-gtk2-ocaml-dev (3.5.1-1)
+    OCaml application-level Internet libraries - GTK2 development libraries
+libocamlnet-ocaml (3.5.1-1)
+    OCaml application-level Internet libraries - core runtime libraries
+libocamlnet-ocaml-bin (3.5.1-1)
+    OCaml application-level Internet libraries - binaries
+libocamlnet-ocaml-dev (3.5.1-1)
+    OCaml application-level Internet libraries - core development libraries
+libocamlnet-ssl-ocaml (3.5.1-1)
+    OCaml application-level Internet libraries - SSL runtime libraries
+libocamlnet-ssl-ocaml-dev (3.5.1-1)
+    OCaml application-level Internet libraries - SSL development libraries
+libocamlodbc-ocaml-dev (2.15-5+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 2.15-5 [armhf, s390x])
+    UnixODBC database bindings for OCaml
+libocamlviz-ocaml-dev (1.01-2+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.01-2 [armhf, s390x])
+    real-time profiling tools for Objective Caml (library)
+libocsigen-ocaml (1.3.4-2+b12 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, sparc], 1.3.4-2+b9 [ia64, mips, mipsel, s390], 1.3.4-2+b3 [armhf], 1.3.4-2+b1 [s390x])
+    runtime librairies for Ocsigen
+libocsigen-ocaml-dev (1.3.4-2+b12 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, sparc], 1.3.4-2+b9 [ia64, mips, mipsel, s390], 1.3.4-2+b3 [armhf], 1.3.4-2+b1 [s390x])
+    development librairies for Ocsigen
+libocsigen-xhtml-ocaml-dev (1.3.4-2+b12 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, sparc], 1.3.4-2+b9 [ia64, mips, mipsel, s390], 1.3.4-2+b3 [armhf], 1.3.4-2+b1 [s390x])
+    Ocsigen XHTML generation library
+libocsigenserver-ocaml (2.1-1)
+    web server of the Ocsigen project (runtime libraries)
+libocsigenserver-ocaml-dev (2.1-1)
+    web server of the Ocsigen project (dev libraries)
+libodn-ocaml (0.0.8-1)
+    Store data using OCaml notation
+libodn-ocaml-dev (0.0.8-1)
+    Store data using OCaml notation
+libogg-ocaml (0.4.3-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.4.3-1 [armhf, s390x])
+    OCaml bindings for the Ogg bitstream library
+libogg-ocaml-dev (0.4.3-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.4.3-1 [armhf, s390x])
+    OCaml bindings for the Ogg bitstream library
+libounit-ocaml-dev (1.1.1-1)
+    Unit testing framework for OCaml
+libpam-ocaml (1.1-4+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.1-4 [armhf, s390x])
+    OCaml bindings for the PAM library (runtime)
+libpam-ocaml-dev (1.1-4+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.1-4 [armhf, s390x])
+    OCaml bindings for the PAM library (development files)
+libpcre-ocaml (6.2.5-1)
+    OCaml bindings for PCRE (runtime)
+libpcre-ocaml-dev (6.2.5-1)
+    OCaml bindings for PCRE (Perl Compatible Regular Expression)
+libperl4caml-ocaml (0.9.5-4+b4 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.9.5-4 [armhf, s390x])
+    Use Perl code in OCaml programs, runtime library
+libperl4caml-ocaml-dev (0.9.5-4+b4 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.9.5-4 [armhf, s390x])
+    Use Perl code in OCaml programs, development files
+libpgocaml-ocaml (1.5-2+b1 [ia64, powerpc], 1.5-2 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390, s390x, sparc])
+    OCaml type-safe bindings for PostgreSQL (runtime)
+libpgocaml-ocaml-dev (1.5-2+b1 [ia64, powerpc], 1.5-2 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390, s390x, sparc])
+    OCaml type-safe bindings for PostgreSQL (development)
+libplplot-ocaml (5.9.9-5)
+    Scientific plotting library (OCaml bindings)
+libportaudio-ocaml (0.2.0-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.2.0-1 [armhf, s390x])
+    OCaml bindings for the portaudio library
+libportaudio-ocaml-dev (0.2.0-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.2.0-1 [armhf, s390x])
+    OCaml bindings for the portaudio library
+libpostgresql-ocaml (1.18.0-1)
+    OCaml bindings to PostgreSQL's libpq (runtime)
+libpostgresql-ocaml-dev (1.18.0-1)
+    OCaml bindings to PostgreSQL's libpq
+libpulse-ocaml (0.1.2-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.1.2-1 [armhf, s390x])
+    OCaml interface to the PulseAudio sound server
+libpulse-ocaml-dev (0.1.2-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.1.2-1 [armhf, s390x])
+    OCaml interface to the pulseaudio library
+libpxp-ocaml-dev (1.2.2-1+b4 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, sparc], 1.2.2-1+b3 [ia64, mips, mipsel, s390], 1.2.2-1+b1 [armhf], 1.2.2-1 [s390x])
+    OCaml library that implements an XML-1.0 validating parser
+libpycaml-ocaml (0.82-14+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.82-14 [armhf, s390x])
+    OCaml bindings to embed Python interpreter (runtime)
+libpycaml-ocaml-dev (0.82-14+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.82-14 [armhf, s390x])
+    OCaml bindings to embed Python interpreter (development files)
+libreact-ocaml (0.9.3-1)
+    functional reactive programming in OCaml (plugins)
+libreact-ocaml-dev (0.9.3-1)
+    functional reactive programming in OCaml
+libreins-ocaml-dev (0.1a-4+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.1a-4 [armhf, s390x])
+    data structure library for OCaml
+libres-ocaml-dev (3.2.0-2+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 3.2.0-2 [armhf, s390x])
+    OCaml library for automatically resizing contiguous data structure
+libsamplerate-ocaml (0.1.1-1+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.1.1-1 [armhf, s390x])
+    OCaml interface to the samplerate library
+libsamplerate-ocaml-dev (0.1.1-1+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.1.1-1 [armhf, s390x])
+    OCaml interface to the samplerate library
+libschroedinger-ocaml (0.1.0-1+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.1.0-1 [armhf, s390x])
+    OCaml interface to the schroedinger library -- runtime files
+libschroedinger-ocaml-dev (0.1.0-1+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.1.0-1 [armhf, s390x])
+    OCaml interface to the schroedinger library -- developpement files
+libsdl-ocaml (0.9.0-1)
+    OCaml bindings for SDL - runtime files
+libsdl-ocaml-dev (0.9.0-1)
+    OCaml bindings for SDL - development files
+libsexplib-camlp4-dev (7.0.4-2)
+    automated conversions between OCaml-values and S-expressions
+libsha-ocaml (1.7-2+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.7-2 [armhf, s390x])
+    SHA cryptographic hash functions for OCaml (runtime)
+libsha-ocaml-dev (1.7-2+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.7-2 [armhf, s390x])
+    SHA cryptographic hash functions for OCaml (development files)
+libshout-ocaml (0.2.7-1+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.2.7-1 [armhf, s390x])
+    OCaml bindings for the shout library
+libshout-ocaml-dev (0.2.7-1+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.2.7-1 [armhf, s390x])
+    OCaml bindings for the shout library
+libsoundtouch-ocaml (0.1.7-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.1.7-1 [armhf, s390x])
+    OCaml bindings for the sound stretching library -- runtime files
+libsoundtouch-ocaml-dev (0.1.7-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.1.7-1 [armhf, s390x])
+    OCaml bindings for the sound stretching library -- runtime files
+libspeex-ocaml (0.2.0-1+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.2.0-1 [armhf, s390x])
+    OCaml interface to the speex library
+libspeex-ocaml-dev (0.2.0-1+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.2.0-1 [armhf, s390x])
+    OCaml interface to the speex library
+libsqlexpr-ocaml (0.4.1-1+b5 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, sparc], 0.4.1-1+b3 [armhf, ia64, mips, mipsel, s390], 0.4.1-1+b1 [s390x])
+    type-safe, convenient SQLite database access (runtime)
+libsqlexpr-ocaml-dev (0.4.1-1+b5 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, sparc], 0.4.1-1+b3 [armhf, ia64, mips, mipsel, s390], 0.4.1-1+b1 [s390x])
+    type-safe, convenient SQLite database access (development)
+libsqlite3-ocaml (1.6.1-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.6.1-1 [armhf, s390x])
+    Embeddable SQL Database for OCaml Programs
+libsqlite3-ocaml-dev (1.6.1-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.6.1-1 [armhf, s390x])
+    Embeddable SQL Database for OCaml Programs
+libssl-ocaml (0.4.6-1)
+    OCaml bindings for OpenSSL (runtime)
+libssl-ocaml-dev (0.4.6-1)
+    OCaml bindings for OpenSSL
+libssreflect-ocaml (1.3pl4-1)
+    small scale reflection extension for Coq (plugin)
+libssreflect-ocaml-dev (1.3pl4-1)
+    small scale reflection extension for Coq (devt files)
+libsyslog-ocaml (1.4-6+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.4-6 [armhf, s390x])
+    syslog routines for OCaml (runtime)
+libsyslog-ocaml-dev (1.4-6+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.4-6 [armhf, s390x])
+    syslog routines for OCaml (development files)
+libtaglib-ocaml (0.2.0-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.2.0-1 [armhf, s390x])
+    OCaml bindings for the TagLib Audio Meta-Data Library
+libtaglib-ocaml-dev (0.2.0-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.2.0-1 [armhf, s390x])
+    OCaml bindings for the TagLib Audio Meta-Data Library -- devel
+libtext-ocaml (0.5-1+b2 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, sparc], 0.5-1+b1 [ia64, mips, mipsel, s390], 0.5-1 [armhf, s390x])
+    runtime libraries of OCaml-Text
+libtext-ocaml-dev (0.5-1+b2 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, sparc], 0.5-1+b1 [ia64, mips, mipsel, s390], 0.5-1 [armhf, s390x])
+    library for dealing with sequences of Unicode characters
+libtheora-ocaml (0.3.0-1+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.3.0-1 [armhf, s390x])
+    OCaml interface to the theora library
+libtheora-ocaml-dev (0.3.0-1+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.3.0-1 [armhf, s390x])
+    OCaml interface to the theora library
+libtophide-ocaml-dev (1.0.0-3)
+    hide values that start with '_' in OCaml toplevel
+libtype-conv-camlp4-dev (3.0.4-1)
+    support library for OCaml preprocessor type conversions
+libtyxml-ocaml (2.1-1)
+    typed XML in OCaml (plugins)
+libtyxml-ocaml-dev (2.1-1)
+    typed XML in OCaml (development files)
+libusb-ocaml (1.2.0-2+b8 [kfreebsd-amd64, kfreebsd-i386], 1.2.0-2+b7 [amd64, armel, i386, powerpc, sparc], 1.2.0-2+b4 [ia64, mips, mipsel, s390], 1.2.0-2+b2 [armhf], 1.2.0-2 [s390x])
+    OCaml bindings to libusb-1.0 (runtime)
+libusb-ocaml-dev (1.2.0-2+b8 [kfreebsd-amd64, kfreebsd-i386], 1.2.0-2+b7 [amd64, armel, i386, powerpc, sparc], 1.2.0-2+b4 [ia64, mips, mipsel, s390], 1.2.0-2+b2 [armhf], 1.2.0-2 [s390x])
+    OCaml bindings to libusb-1.0
+libuuidm-ocaml-dev (0.9.4-1)
+    Universally unique identifiers for OCaml
+libvirt-ocaml (0.6.1.2-1)
+    OCaml bindings for libvirt
+libvirt-ocaml-dev (0.6.1.2-1)
+    OCaml bindings for libvirt
+libvoaacenc-ocaml (0.1.0-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.1.0-1 [armhf, s390x])
+    OCaml interface to the vo-aacenc library -- runtime files
+libvoaacenc-ocaml-dev (0.1.0-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.1.0-1 [armhf, s390x])
+    OCaml interface to the vo-aacenc library -- developpement files
+libvorbis-ocaml (0.6.1-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.6.1-1 [armhf, s390x])
+    OCaml bindings for vorbis library
+libvorbis-ocaml-dev (0.6.1-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.6.1-1 [armhf, s390x])
+    OCaml bindings for the vorbis library
+libxcp-ocaml (0.5.2-3+b1)
+    Xen Cloud Platform control stack core libraries (runtime)
+libxcp-ocaml-dev (0.5.2-3+b1)
+    Xen Cloud Platform control stack core libraries (devel)
+libxen-ocaml (4.1.4-3+deb7u5) [security]
+    OCaml libraries for controlling Xen
+libxen-ocaml-dev (4.1.4-3+deb7u5) [security]
+    OCaml libraries for controlling Xen (devel package)
+libxenapi-ocaml-dev (1.3.2-15)
+    Xen Cloud Platform - OCaml bindings
+libxml-light-ocaml (2.2-15)
+    mininal XML parser and printer for OCaml (runtime package)
+libxml-light-ocaml-dev (2.2-15)
+    mininal XML parser and printer for OCaml (development package)
+libxmlm-ocaml-dev (1.1.0-1)
+    OCaml xml manipulation module
+libxmlplaylist-ocaml-dev (0.1.3-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.1.3-1+b1 [armhf, s390x])
+    Playlist parser for various xml formats
+libxmlrpc-light-ocaml-dev (0.6.1-3+b5 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, sparc], 0.6.1-3+b4 [ia64, mips, mipsel, s390], 0.6.1-3+b2 [armhf], 0.6.1-3+b1 [s390x])
+    XmlRpc-Light is an XmlRpc library written in OCaml
+libxstr-ocaml-dev (0.2.1-21+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.2.1-21 [armhf, s390x])
+    OCaml library for frequent string operations
+libxstrp4-camlp4-dev (1.8-3)
+    camlp4 extension that expands brace expansions in OCaml string
+libyojson-ocaml (1.0.3-1)
+    JSON library for OCaml
+libyojson-ocaml-dev (1.0.3-1)
+    JSON library for OCaml
+libzarith-ocaml (1.1-2)
+    arithmetic and logical operations over arbitrary-precision integers (runtime)
+libzarith-ocaml-dev (1.1-2)
+    arithmetic and logical operations over arbitrary-precision integers (dev)
+libzip-ocaml (1.04-6+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.04-6 [armhf, s390x])
+    OCaml compression libraries (runtime libraries)
+libzip-ocaml-dev (1.04-6+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.04-6 [armhf, s390x])
+    OCaml compression libraries (development files)
+mingw-ocaml (3.12.1+debian3)
+    OCaml cross-compiler based on mingw
+mingw32-ocaml (3.12.1+debian3)
+    OCaml cross-compiler based on mingw -- dummy transitional package
+oasis (0.2.0-6)
+    Architecture for building OCaml libraries and applications
+ocaml (3.12.1-4)
+    ML language implementation with a class-based object system
+ocaml-base (3.12.1-4)
+    Runtime system for OCaml bytecode executables
+ocaml-base-nox (3.12.1-4)
+    Runtime system for OCaml bytecode executables (no X)
+ocaml-batteries-included (1.4.3-1)
+    Batteries included: OCaml development platform - metapackage
+ocaml-compiler-libs (3.12.1-4)
+    OCaml interpreter and standard libraries
+ocaml-core (3.12.0.1)
+    OCaml core tools (metapackage)
+ocaml-findlib (1.3.1-1)
+    management tool for OCaml libraries
+ocaml-findlib-wizard (1.3.1-1)
+    Makefile and META wizard for OCaml libraries
+ocaml-interp (3.12.1-4)
+    OCaml interactive interpreter and standard libraries
+ocaml-libs (3.12.0.1)
+    OCaml core libraries (metapackage)
+ocaml-mode (3.12.1-4)
+    major mode for editing Objective Caml in Emacs
+ocaml-native-compilers (3.12.1-4)
+    Native code compilers of the OCaml suite (the .opt ones)
+ocaml-nox (3.12.1-4)
+    ML implementation with a class-based object system (no X)
+ocaml-source (3.12.1-4)
+    Sources for Objective Caml
+ocaml-tools (20120103-2)
+    tools for OCaml developers
+ocaml-ulex (1.1-2+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.1-2 [armhf, s390x])
+    OCaml lexer generator with Unicode support
+ocaml-ulex08 (0.8-10+b2)
+    OCaml lexer generator with Unicode support - CamlP5 version
+ocamldsort (0.15.0-2)
+    dependency sorter for OCaml source files
+ocamlduce (3.12.1.0-1)
+    OCaml extended with XML types
+ocamlduce-base (3.12.1.0-1)
+    OCaml extended with XML types (runtime)
+ocamlify (0.0.1-3)
+    include files in OCaml code
+ocamlmakefile (6.36.0-2)
+    general makefile for the Objective Caml programming language
+ocamlmod (0.0.2-3)
+    generate OCaml modules from source files
+ocamlwc (0.3-10)
+    count the lines of code and comments in OCaml sources
+ocamlweb (1.38-1)
+    Literate programming tool for Objective Caml
+ocsigen-dev (1.3.4-2)
+    development metapackage for Ocsigen
+omake (0.9.8.5-3-8)
+    build system with automated dependency analysis
+otags (3.12.5-1)
+    tags file generator for OCaml
+tuareg-mode (1:2.0.6-3)
+    emacs-mode for ocaml programs 

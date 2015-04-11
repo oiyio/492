@@ -1,0 +1,167 @@
+
+exo-utils (0.6.2-5)
+    Utility files for libexo
+gigolo (0.4.1+dfsg-1)
+    frontend to manage connections to remote filesystems using GIO/GVfs
+gtk2-engines-xfce (2.8.1-3)
+    GTK+-2.0 theme engine for Xfce
+libthunar-vfs-1-common (1.2.0-3)
+    Provides thunar-vfs documentation, icons and translations
+libxfce4util-bin (4.8.2-1)
+    tools for libxfce4util
+libxfce4util-common (4.8.2-1)
+    common files for libxfce4util
+libxfce4util-dev (4.8.2-1)
+    Development files for libxfce4util4
+libxfcegui4-dev (4.8.1-5)
+    Development files for libxfcegui4-4
+orage (4.8.3-2)
+    Calendar for Xfce Desktop Environment
+parole (0.2.0.6-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.2.0.6-1 [armhf, s390x])
+    media player based on GStreamer framework
+parole-dev (0.2.0.6-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.2.0.6-1 [armhf, s390x])
+    development files for Parole media player
+shiki-colors-xfwm-theme (4.6-1)
+    Xfwm/Xfce4 theme based on the Shiki-Colors Metacity theme
+thunar (1.2.3-4+b1)
+    File Manager for Xfce
+thunar-archive-plugin (0.3.0-4)
+    Archive plugin for Thunar file manager
+thunar-data (1.2.3-4)
+    Provides thunar documentation, icons and translations
+thunar-media-tags-plugin (0.2.0-1)
+    Media tags plugin for Thunar file manager
+thunar-vcs-plugin (0.1.4-1)
+    VCS plugin for Thunar file manager
+thunar-volman (0.6.1-1)
+    Thunar extension for volumes management
+tumbler (0.1.25-1+b1)
+    D-Bus thumbnailing service
+tumbler-common (0.1.25-1)
+    D-Bus thumbnailing service (common files)
+tumbler-plugins-extra (0.1.25-1+b1)
+    D-Bus thumbnailing service (additional plugins)
+xfburn (0.4.3-5)
+    CD-burner application for Xfce Desktop Environment
+xfce-keyboard-shortcuts (4.8.1-1)
+    xfce keyboard shortcuts configuration
+xfce4 (4.8.0.3)
+    Meta-package for the Xfce Lightweight Desktop Environment
+xfce4-appfinder (4.8.0-3)
+    Application finder for the Xfce4 Desktop Environment
+xfce4-artwork (0.1.1a~git+20110420-1)
+    additional artwork for the Xfce4 Desktop Environment
+xfce4-battery-plugin (1.0.5-1+b1)
+    battery monitor plugin for the Xfce4 panel
+xfce4-cellmodem-plugin (0.0.5-3+b1)
+    cellular modem plugin for the Xfce4 panel
+xfce4-clipman (2:1.2.3-1+b1)
+    clipboard history utility
+xfce4-clipman-plugin (2:1.2.3-1+b1)
+    clipboard history plugin for Xfce panel
+xfce4-cpufreq-plugin (1.0.0-4+b1)
+    cpufreq information plugin for the Xfce4 panel
+xfce4-cpugraph-plugin (1.0.3-1+b1 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390, s390x, sparc], 1.0.3-1 [powerpc])
+    CPU load graph plugin for the Xfce4 panel
+xfce4-datetime-plugin (0.6.1-3+b1)
+    date and time plugin for the Xfce4 panel
+xfce4-dev-tools (4.10.0-2)
+    Script to help building Xfce from git
+xfce4-dict (0.6.0-5+b1)
+    Dictionary plugin for Xfce4 panel
+xfce4-diskperf-plugin (2.5.4-1+b1)
+    disk performance display plugin for the Xfce4 panel
+xfce4-fsguard-plugin (1.0.1-1+b1)
+    filesystem monitor plugin for the Xfce4 panel
+xfce4-genmon-plugin (3.4.0-1+b1)
+    Generic Monitor for the Xfce4 panel
+xfce4-goodies (4.8.2)
+    enhancements for the Xfce4 Desktop Environment
+xfce4-hdaps (0.0.9-1+b1)
+    plugin to indicate the status of HDAPS for the Xfce4 panel
+xfce4-indicator-plugin (0.5.0-1+b2)
+    plugin to display information from applications in the Xfce4 panel
+xfce4-linelight-plugin (0.1.7-2+b1)
+    Search plugin for Xfce panel
+xfce4-mailwatch-plugin (1.1.0-5+b1)
+    mail watcher plugin for the Xfce4 panel
+xfce4-messenger-plugin (0.1.0-5+b1)
+    Dbus messages plugin for xfce4-panel
+xfce4-mixer (4.8.0-3+b1)
+    Xfce mixer application
+xfce4-mount-plugin (0.6.4-1+b1)
+    mount plugin for the Xfce4 panel
+xfce4-mpc-plugin (0.4.4-1+b1)
+    Xfce panel plugin which serves as client for MPD music player
+xfce4-netload-plugin (1.1.0-1+b1)
+    network load monitor plugin for the Xfce4 panel
+xfce4-notes (1.7.7-2+b1)
+    Notes application for the Xfce4 desktop
+xfce4-notes-plugin (1.7.7-2+b1)
+    Notes plugin for the Xfce4 desktop
+xfce4-notifyd (0.2.2-2)
+    simple, visually-appealing notification daemon for Xfce
+xfce4-panel (4.8.6-4)
+    panel for Xfce4 desktop environment
+xfce4-panel-dev (4.8.6-4)
+    Xfce4 panel development files
+xfce4-places-plugin (1.3.0-1+b1)
+    quick access to folders, documents and removable media
+xfce4-power-manager (1.0.11-2+b1)
+    power manager for Xfce desktop
+xfce4-power-manager-data (1.0.11-2)
+    power manager for Xfce desktop, arch-indep files
+xfce4-power-manager-plugins (1.0.11-2+b1)
+    power manager plugins for Xfce panel
+xfce4-quicklauncher-plugin (1.9.4-9+b1)
+    rapid launcher plugin for the Xfce4 panel
+xfce4-radio-plugin (0.5.1-1+b1)
+    v4l radio control plugin for the Xfce4 panel
+xfce4-screenshooter (1.8.1-1+b1)
+    screenshots utility for Xfce
+xfce4-screenshooter-plugin (1.8.1-1)
+    transitional dummy package for xfce4-screenshooter
+xfce4-sensors-plugin (1.2.5-1+b1)
+    hardware sensors plugin for the Xfce4 panel
+xfce4-session (4.8.3-3)
+    Xfce4 Session Manager
+xfce4-settings (4.8.3-2)
+    graphical application for managing Xfce settings
+xfce4-smartbookmark-plugin (0.4.4-1+b1)
+    search the web via the Xfce4 panel
+xfce4-systemload-plugin (1.1.1-1+b1 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390, s390x, sparc], 1.1.1-1 [powerpc])
+    system load monitor plugin for the Xfce4 panel
+xfce4-taskmanager (1.0.0-2)
+    process manager for the Xfce4 Desktop Environment
+xfce4-terminal (0.4.8-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.4.8-1 [armhf, s390x])
+    Xfce terminal emulator
+xfce4-timer-plugin (0.6.3-1+b1)
+    timer plugin for Xfce panel
+xfce4-utils (4.8.3-2)
+    Various tools for Xfce
+xfce4-verve-plugin (1.0.0-1+b1)
+    Verve (command line) plugin for Xfce panel
+xfce4-volumed (0.1.13-3)
+    volume keys daemon
+xfce4-wavelan-plugin (0.5.11-1+b1 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390, s390x, sparc], 0.5.11-1 [powerpc])
+    wavelan status plugin for the Xfce4 panel
+xfce4-weather-plugin (0.7.4-5)
+    weather information plugin for the Xfce4 panel
+xfce4-wmdock-plugin (0.3.4-1+b1)
+    Compatibility layer for running WindowMaker dockapps on Xfce
+xfce4-xkb-plugin (0.5.4.3-1+b1)
+    xkb layout switch plugin for the Xfce4 panel
+xfconf (4.8.1-1)
+    utilities for managing settings in Xfce
+xfdesktop4 (4.8.3-2)
+    xfce desktop background, icons and root menu manager
+xfdesktop4-data (4.8.3-2)
+    xfce desktop background, icons and root menu (common files)
+xfprint4 (4.6.1-3)
+    Printer GUI for Xfce4
+xfswitch-plugin (0.0.1-3+b1)
+    fast user switching plugin for the Xfce panel
+xfwm4 (4.8.3-2)
+    window manager of the Xfce project
+xfwm4-themes (4.6.0-3)
+    Theme files for xfwm4 

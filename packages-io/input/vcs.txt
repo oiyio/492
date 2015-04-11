@@ -1,0 +1,276 @@
+aegis (4.24.3-3)
+    transaction-based software configuration management
+bzr (2.6.0~bzr6526-1)
+    easy to use distributed version control system
+bzr-builddeb (2.8.4)
+    bzr plugin for Debian package management
+bzr-cvsps-import (0.0.1~bzr71-1)
+    CVS to Bazaar importer
+bzr-dbus (0.1~bzr52-2)
+    D-Bus announcements plugin for Bazaar
+bzr-email (0.0.1~bzr57-2)
+    Notification email plugin for Bazaar
+bzr-explorer (1.3.0~bzr556-1)
+    GUI application for using Bazaar
+bzr-fastimport (0.13.0-2)
+    Fast-import/fast-export plugin for Bazaar
+bzr-git (0.6.9-1)
+    Bazaar plugin providing Git integration
+bzr-grep (0.4.0+bzr147-1)
+    Bazaar plugin to grep files and history
+bzr-gtk (0.103.0+bzr792-3)
+    provides graphical interfaces to Bazaar (bzr) version control
+bzr-loom (2.2.0-2)
+    Focused patch plugin support for Bazaar
+bzr-pipeline (1.4-3)
+    Bazaar plugin for managing a pipeline of changes
+bzr-rewrite (0.6.3+bzr256-1)
+    History rewriting plugin for Bazaar
+bzr-search (1.7.0~bzr94-1)
+    search plugin for Bazaar
+bzr-stats (0.1.0+bzr51-1)
+    statistics plugin for Bazaar
+bzr-svn (1.2.1-1)
+    Bazaar plugin providing Subversion integration
+bzr-upload (1.1.0-2)
+    Bazaar plugin for uploading to web servers
+bzr-xmloutput (0.8.8+bzr162-3)
+    XML Communication plugin for Bazaar
+bzrtools (2.5+bzr786-2)
+    Collection of tools for bzr
+codeville (0.8.0-2)
+    a distributed version control system
+commit-patch (2.4-1)
+    utility to commit fine grained patches to source code control repositories
+cssc (1.2.0-2)
+    Clone of the Unix SCCS revision-control system
+curves (0.8.19+b2 [i386, ia64, mips, mipsel, powerpc, s390, sparc], 0.8.19 [amd64, armel, armhf, kfreebsd-amd64, kfreebsd-i386, s390x])
+    colorful console interface for CVS version control
+cvs (2:1.12.13+real-9)
+    Concurrent Versions System
+cvs-autoreleasedeb (0.12-1)
+    Automatically release/upload debian packages from CVS
+cvs-buildpackage (5.23)
+    A set of Debian package scripts for CVS source trees.
+cvs-mailcommit (1.19-2)
+    Send CVS commitments via mail
+cvs-syncmail (2.3-1)
+    Notification program for CVS checkins
+cvs2cl (2.73-1)
+    CVS-log-message-to-ChangeLog conversion script
+cvs2svn (2.3.0-3)
+    Convert a cvs repository to a subversion, bazaar or git repository
+cvschangelogbuilder (2.4-1)
+    perl utility to generate ChangeLogs or html cvs reports
+cvsconnect (0.1.cvs20001202-2)
+    CVS connection minimizer
+cvsd (1.0.24)
+    chroot wrapper to run 'cvs pserver' more securely
+cvsdelta (1.7.0-6)
+    Summarize differences in a CVS repository
+cvsgraph (1.7.0-1)
+    Create a tree of revisions/branches from a CVS/RCS file
+cvsps (2.1-6)
+    Tool to generate CVS patch set information
+cvsservice (4:4.8.4+dfsg-1)
+    D-Bus service for accessing CVS repositories
+cvssuck (0.3.cvs20060124-2)
+    inefficient cvs repository grabber using cvs command
+cvstrac (2.0.1-3)
+    Low-ceremony bug tracker for medium-sized projects under CVS
+cvsutils (0.2.5-1)
+    CVS utilities for use in working directories
+cvsweb (3:3.0.6-7)
+    CGI interface to your CVS repository
+darcs (2.8.1-1+b1 [amd64, i386, powerpc, s390, sparc], 2.8.1-1 [armel, armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x])
+    distributed, interactive, smart revision control system
+darcsweb (1.1-3.1)
+    web interface for browsing darcs repositories
+dpatch (2.0.35)
+    patch maintenance system for Debian source packages
+easygit (0.99-1)
+    git for mere mortals
+flashbake (0.26.2-4)
+    automated snapshots with git
+fossil (1:1.22.1+dfsg-0.1)
+    DSCM with built-in wiki, http interface and server, tickets database
+giggle (0.6.1-2+b1)
+    Gtk+ frontend for the git directory tracker
+giggle-personal-details-plugin (0.6.1-2+b1)
+    Gtk+ frontend for the git directory tracker - personal details plugin
+giggle-terminal-view-plugin (0.6.1-2+b1)
+    Gtk+ frontend for the git directory tracker - terminal plugin
+git (1:1.7.10.4-1+wheezy1)
+    fast, scalable, distributed revision control system
+git-all (1:1.7.10.4-1+wheezy1)
+    fast, scalable, distributed revision control system (all subpackages)
+git-arch (1:1.7.10.4-1+wheezy1)
+    fast, scalable, distributed revision control system (arch interoperability)
+git-buildpackage (0.6.0~git20120601)
+    Suite to help with Debian packages in Git repositories
+git-cola (1.4.3.5-1)
+    highly caffeinated git GUI
+git-core (1:1.7.10.4-1+wheezy1)
+    fast, scalable, distributed revision control system (obsolete)
+git-core
+    virtual package provided by git
+git-cvs (1:1.7.10.4-1+wheezy1)
+    fast, scalable, distributed revision control system (cvs interoperability)
+git-daemon-run (1:1.7.10.4-1+wheezy1)
+    fast, scalable, distributed revision control system (git-daemon service)
+git-daemon-sysvinit (1:1.7.10.4-1+wheezy1)
+    fast, scalable, distributed revision control system (git-daemon service)
+git-dpm (0.8.4-1)
+    git Debian package manager
+git-el (1:1.7.10.4-1+wheezy1)
+    fast, scalable, distributed revision control system (emacs support)
+git-email (1:1.7.10.4-1+wheezy1)
+    fast, scalable, distributed revision control system (email add-on)
+git-extras (1.7.0-1.2)
+    Extra commands for git
+git-flow (0.4.1-2)
+    Git extension to provide a high-level branching model
+git-ftp (0.7.4+git20120528-1)
+    Git powered FTP client written as shell script
+git-gui (1:1.7.10.4-1+wheezy1)
+    fast, scalable, distributed revision control system (GUI)
+git-sh (1.1-1)
+    a git shell
+git-svn (1:1.7.10.4-1+wheezy1)
+    fast, scalable, distributed revision control system (svn interoperability)
+git2cl (2.0+git200808271242-1)
+    Simple tool to convert git logs to GNU ChangeLog format
+gitg (0.2.4-1.1+deb7u1)
+    git repository viewer for gtk+/GNOME
+gitk (1:1.7.10.4-1+wheezy1)
+    fast, scalable, distributed revision control system (revision tree visualizer)
+gitolite (2.3-1)
+    SSH-based gatekeeper for git repositories
+gitpkg (0.23)
+    tools for maintaining Debian packages with git
+gitstats (2012.05.28-1)
+    statistics generator for git repositories
+gitweb (1:1.7.10.4-1+wheezy1)
+    fast, scalable, distributed revision control system (web interface)
+gource (0.38-1)
+    graphical source control visualisation
+gquilt (0.25-2)
+    graphical wrapper for quilt and/or mercurial queues
+hg-fast-export (20120618-1)
+    mercurial to git converter using git-fast-import
+hgsubversion (1.4-1)
+    Subversion client as Mercurial extension
+hgsvn (0.1.8-1)
+    Scripts to work locally on Subversion checkouts using Mercurial
+hgview (1.5.0-4)
+    mercurial interactive history viewer (Qt4 interface)
+hgview-common (1.5.0-4)
+    mercurial interactive history viewer (common files)
+hgview-curses (1.5.0-4)
+    mercurial interactive history viewer (text interface)
+kdesvn (1.5.5-4.1)
+    Subversion client with tight KDE integration
+kdesvn-kio-plugins (1.5.5-4.1)
+    Subversion I/O slaves for KDE
+legit (0.1.1-2)
+    Git extension to assist in manipulating branches
+libsvncpp-dev (0.12.0dfsg-6)
+    Subversion C++ library (development files)
+magit (1.1.1-2)
+    Emacs interface for Git
+mercurial (2.2.2-3)
+    easy-to-use, scalable distributed version control system
+mercurial-common (2.2.2-3)
+    easy-to-use, scalable distributed version control system (common files)
+mercurial-git (0.3.2-2)
+    Git plugin for Mercurial
+mercurial-nested (0.5-3)
+    Mercurial extension to work with nested repositories
+monotone (1.0-6)
+    Distributed version (revision) control system
+monotone-extras (1.0-6)
+    Distributed version (revision) control system - extras
+monotone-server (1.0-6)
+    Distributed version (revision) control system - server scripts
+monotone-viz (1.0.2-2+b4 [ia64, mips, mipsel, s390], 1.0.2-2+b2 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, sparc], 1.0.2-2 [armhf, s390x])
+    visualize a monotone repository
+mr (1.12)
+    Multiple Repository management tool
+nautilus-bzr (0.103.0+bzr792-3)
+    Bazaar (bzr) integration for nautilus
+patch (2.6.1-3)
+    Apply a diff file to an original
+patcher (0.0.20040521-6)
+    perl script useful for managing patches
+python-svn (1.7.5-1.1)
+    A(nother) Python interface to Subversion
+qbzr (0.22.2-1)
+    Graphical interface for Bazaar using the Qt toolkit
+qct (1.7-3)
+    GUI commit tool
+qgit (2.4-1)
+    Qt application for viewing GIT trees
+quilt (0.60-2)
+    Tool to work with series of patches
+rabbitvcs-cli (0.15.0.5-3)
+    Command line interface for RabbitVCS
+rabbitvcs-core (0.15.0.5-3)
+    Easy version control
+rabbitvcs-gedit (0.15.0.5-3)
+    Gedit extension for RabbitVCS
+rabbitvcs-nautilus (0.15.0.5-3)
+    Nautilus extension for RabbitVCS
+rapidsvn (0.12.0dfsg-6)
+    GUI client for Subversion
+rcs (5.8.1-1)
+    The GNU Revision Control System
+statcvs (1:0.7.0.dfsg-5)
+    CVS Repository statistic analysis tool, written in Java
+statsvn (0.7.0.dfsg-6)
+    SVN repository statistics
+stgit (0.15-1.1)
+    manage stacks of patches in a git repository
+stgit-contrib (0.15-1.1)
+    set of contributed script to help working with stgit
+subcommander (2.0.0~b5p2-5)
+    Graphical client for Subversion
+subversion (1.6.17dfsg-4+deb7u8)
+    Advanced version control system
+subversion-tools (1.6.17dfsg-4+deb7u8)
+    Assorted tools related to Subversion
+svn-autoreleasedeb (0.12-1)
+    Automatically release/upload debian packages from SVN
+svn-buildpackage (0.8.5)
+    helper programs to maintain Debian packages with Subversion
+svn-load (1.3-1)
+    An enhanced import facility for Subversion
+svn-workbench (1.6.2-2)
+    A Workbench for Subversion
+svn2cl (0.13-2)
+    Generate a GNU-style ChangeLog from Subversion repository history
+svnkit (1.3.5+dfsg-4)
+    pure Java Subversion client
+svnmailer (1.0.8-12)
+    extensible Subversion commit notification tool
+tailor (0.9.35+darcs20090615-1)
+    migrate changesets between version control systems
+tig (1.0-2)
+    ncurses-based Git repository browser
+tkcvs (8.2.3-1)
+    Graphical front-end to CVS and Subversion
+tla (1.3.5+dfsg-18)
+    GNU Arch revision control system
+topgit (0.8-1.1)
+    a Git patch queue manager
+tortoisehg (2.4-2)
+    Graphical tool for working with Mercurial
+tortoisehg-nautilus (2.4-2)
+    Graphical tool for working with Mercurial (Nautilus extension)
+trac-bzr (0.4.2+bzr125-2)
+    Bazaar version control (bzr) backend for Trac
+viewvc (1.1.5-1.4)
+    web interface for CVS and/or Subversion repositories
+viewvc-query (1.1.5-1.4)
+    utility to query CVS and Subversion commit database
+wiggle (0.8+dfsg1-1)
+    apply patches with conflicting changes 

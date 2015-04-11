@@ -1,0 +1,262 @@
+aolserver4-core (4.5.1-15.1)
+    AOL web server version 4 - core libraries
+aolserver4-dev (4.5.1-15.1)
+    AOL web server version 4 - development files
+aolserver4-nsldap (0.8-4+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.8-4 [armhf, s390x])
+    AOLServer 4 module for LDAP
+aolserver4-nsmysql (0.6-9+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.6-9+b1 [armhf, s390x])
+    AOLserver 4 module: module for accessing MySQL databases
+aolserver4-nsopenssl (3.0beta26-4+b2 [ia64, mipsel], 3.0beta26-4+b1 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, mips, powerpc, s390, sparc], 3.0beta26-4 [armhf, s390x])
+    AOLserver 4 module: module for SSL mode
+aolserver4-nspostgres (4.5-3+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 4.5-3 [armhf, s390x])
+    AOLserver 4 module: Postgres connector
+aolserver4-nssha1 (0.1-3+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.1-3 [armhf, s390x])
+    AOLserver4 module: performs SHA1 hashes Provides a Tcl
+aolserver4-nsxml (1.5-2.1)
+    Module for XML support in aolsever4
+aolserver4-xotcl (1.6.7-2)
+    Extended Object Tcl (XOTcl): Object orientation for AOLServer - module
+apache2 (2.2.22-13+deb7u4)
+    Apache HTTP Server metapackage
+apache2
+    virtual package provided by apache2-mpm-event, apache2-mpm-prefork, apache2-mpm-itk, apache2-mpm-worker
+apache2-mpm-event (2.2.22-13+deb7u4)
+    Apache HTTP Server - event driven model
+apache2-mpm-itk (2.2.22-13+deb7u4)
+    multiuser MPM for Apache 2.2
+apache2-mpm-prefork (2.2.22-13+deb7u4)
+    Apache HTTP Server - traditional non-threaded model
+apache2-mpm-worker (2.2.22-13+deb7u4)
+    Apache HTTP Server - high speed threaded model
+apache2-prefork-dev (2.2.22-13+deb7u4)
+    Apache development headers - non-threaded MPM
+apache2-suexec (2.2.22-13+deb7u4)
+    Standard suexec program for Apache 2 mod_suexec
+apache2-suexec
+    virtual package provided by apache2-suexec-custom
+apache2-suexec-custom (2.2.22-13+deb7u4)
+    Configurable suexec program for Apache 2 mod_suexec
+apache2-threaded-dev (2.2.22-13+deb7u4)
+    Apache development headers - threaded MPM
+apache2-utils (2.2.22-13+deb7u4)
+    utility programs for webservers
+apache2.2-bin (2.2.22-13+deb7u4)
+    Apache HTTP Server common binary files
+apache2.2-common (2.2.22-13+deb7u4)
+    Apache HTTP Server common files
+boa (0.94.14rc21-3.1)
+    Lightweight and high performance web server
+bozohttpd (20111118-1)
+    Bozotic HTTP server
+ebhttpd (1:1.0.dfsg.1-4.3)
+    specialized HTTP server to access CD-ROM books
+erlang-yaws (1.94-1)
+    Erlang application which implements HTTP webserver
+gunicorn (0.14.5-3+deb7u1)
+    Event-based HTTP/WSGI server
+libapache-mod-security (2.6.6-6+deb7u2)
+    Dummy transitional package
+libapache2-mod-apparmor (2.7.103-4)
+    changehat AppArmor library as an Apache module
+libapache2-mod-apreq2 (2.13-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 2.13-1 [armhf, s390x])
+    generic Apache request library - Apache module
+libapache2-mod-auth-cas (1.0.9.1-2)
+    CAS authentication module for Apache2
+libapache2-mod-auth-kerb (5.4-2)
+    apache2 module for Kerberos authentication
+libapache2-mod-auth-memcookie (1.0.2-5)
+    Apache2 authentication and authorization module.
+libapache2-mod-auth-mysql (4.3.9-13.1+b1)
+    Apache 2 module for MySQL authentication
+libapache2-mod-auth-ntlm-winbind (0.0.0.lorikeet+svn+801-1)
+    apache2 module for NTLM authentication against Winbind
+libapache2-mod-auth-openid (0.7-0.1)
+    OpenID authentication module for Apache2
+libapache2-mod-auth-pam (1.1.1-9)
+    module for Apache2 which authenticate using PAM
+libapache2-mod-auth-pgsql (2.0.3-5)
+    Module for Apache2 which provides pgsql authentication
+libapache2-mod-auth-plain (2.0.51)
+    Module for Apache2 which provides plaintext authentication
+libapache2-mod-auth-pubtkt (0.7-1)
+    key-based single-sign-on authentication module for Apache
+libapache2-mod-auth-radius (1.5.8-1.1)
+    Apache 2.x module for RADIUS authentication
+libapache2-mod-auth-sys-group (1.1.1-9)
+    Module for Apache2 which checks user against system group
+libapache2-mod-auth-tkt (2.1.0-6)
+    lightweight single-sign-on authentication module for Apache
+libapache2-mod-authn-sasl (1.2-1)
+    SASL authentication backend provider for Apache
+libapache2-mod-authn-webid (0~20110301-1+b1 [amd64], 0~20110301-1 [armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    WebID FOAF+SSL authentication module for Apache
+libapache2-mod-authn-yubikey (1.0-1)
+    Yubikey authentication provider for Apache
+libapache2-mod-authnz-external (3.2.4-2.1)
+    authenticate Apache against external authentication services
+libapache2-mod-authz-unixgroup (1.0.2-1+b1 [powerpc], 1.0.2-1 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390, s390x, sparc])
+    access control based on on unix group membership for Apache
+libapache2-mod-bw (0.92-6)
+    bandwidth limiting module for apache2
+libapache2-mod-dacs (1.4.27b-2)
+    Distributed Access Control System (DACS) - Apache Module
+libapache2-mod-defensible (1.4-3)
+    module for Apache2 which provides DNSBL usage
+libapache2-mod-dnssd (0.6-3)
+    Zeroconf support for Apache 2 via avahi
+libapache2-mod-encoding (20040616-5.1)
+    Apache2 module for non-ascii filename interoperability
+libapache2-mod-evasive (1.10.1-1)
+    evasive module to minimize HTTP DoS or brute force attacks
+libapache2-mod-fastcgi (2.4.7~0910052141-1) [non-free]
+    Apache 2 FastCGI module for long-running CGI scripts
+libapache2-mod-fcgid (1:2.3.6-1.2+deb7u1)
+    an alternative module compat with mod_fastcgi
+libapache2-mod-geoip (1.2.7-1)
+    GeoIP support for apache2
+libapache2-mod-jk (1:1.2.37-1)
+    Apache 2 connector for the Tomcat Java servlet engine
+libapache2-mod-layout (5.1-1)
+    Apache web page content wrapper
+libapache2-mod-ldap-userdir (1.1.19-1)
+    Apache module that provides UserDir lookups via LDAP
+libapache2-mod-lisp (1.3.1-1.2)
+    An Apache2 module that interfaces with Lisp environments
+libapache2-mod-log-sql (1.100-14.2+b1)
+    Use SQL to store/write your Apache queries logs - Base
+libapache2-mod-log-sql-dbi (1.100-14.2+b1)
+    Use SQL to store/write your Apache queries logs - DBI interface
+libapache2-mod-log-sql-mysql (1.100-14.2+b1)
+    Use SQL to store/write your Apache queries logs - MySQL interface
+libapache2-mod-log-sql-ssl (1.100-14.2+b1)
+    Use SQL to store/write your Apache queries logs - SSL extension
+libapache2-mod-macro (1.1.11-2)
+    Create macros inside Apache config files
+libapache2-mod-mime-xattr (0.4-4)
+    Apache2 module to get MIME info from filesystem extended attributes
+libapache2-mod-mono (2.10-3.2)
+    Apache module for running ASP.NET applications on Mono
+libapache2-mod-musicindex (1.3.7-2+b1)
+    Browse, stream, download and search through MP3/Ogg/FLAC/MP4 files
+libapache2-mod-neko (1.8.1-6)
+    Apache module for running server-side Neko programs
+libapache2-mod-nss (1.0.8-2)
+    NSS-based SSL module for Apache2
+libapache2-mod-ocamlnet (3.5.1-1)
+    OCaml application-level Internet libraries - netcgi2 Apache2 connector
+libapache2-mod-parser3 (3.4.2-2)
+    Parser 3, HTML-embedded scripting language (Apache2 module)
+libapache2-mod-passenger (3.0.13debian-1+deb7u2)
+    Rails and Rack support for Apache2
+libapache2-mod-perl2 (2.0.7-3+b1 [s390x], 2.0.7-3 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc])
+    Integration of perl with the Apache2 web server
+libapache2-mod-proxy-html (3.0.1-1.1)
+    Apache2 filter module for HTML links rewriting
+libapache2-mod-python (3.3.1-9+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 3.3.1-9 [armhf, s390x])
+    Python-embedding module for Apache 2
+libapache2-mod-qos (10.8-1)
+    quality of service module for the apache2
+libapache2-mod-random (2.1-1)
+    Create random ads, quotes and redirects
+libapache2-mod-removeip (1.0b-5)
+    Module to remove IP from apache2's logs
+libapache2-mod-rivet (2.0.5-1)
+    Server-side Tcl programming system combining ease of use and power
+libapache2-mod-rpaf (0.6-7+wheezy1)
+    module for Apache2 which takes the last IP from the 'X-Forwarded-For' header
+libapache2-mod-ruby (1.2.6-2)
+    Embedding Ruby in the Apache2 web server
+libapache2-mod-ruid2 (0.9.7-1)
+    suexec module for Apache 2
+libapache2-mod-ruwsgi (1.2.3+dfsg-5+deb7u1)
+    uwsgi module for Apache2 (mod_Ruwsgi)
+libapache2-mod-scgi (1.13-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.13-1 [armhf, s390x])
+    Apache module implementing the SCGI protocol
+libapache2-mod-spamhaus (0.7-1)
+    Apache DNSBL module that blocks listed IP addresses
+libapache2-mod-speedycgi (2.22-13+b3 [kfreebsd-amd64, kfreebsd-i386], 2.22-13+b2 [amd64, armel, i386, ia64, mips, mipsel, powerpc, s390, sparc], 2.22-13 [armhf, s390x])
+    apache2 module to speed up perl scripts by making them persistent
+libapache2-mod-suphp (0.7.1-3)
+    Apache2 module to run PHP scripts with the owner permissions
+libapache2-mod-upload-progress (0.1+git20110718-1)
+    upload progress support for the Apache web server
+libapache2-mod-uwsgi (1.2.3+dfsg-5+deb7u1)
+    uwsgi module for Apache2 (mod_uwsgi)
+libapache2-mod-vhost-hash-alias (1.0-2)
+    Fast and efficient way to manage virtual hosting
+libapache2-mod-vhost-ldap (2.0.8-1)
+    Apache 2 module for Virtual Hosting from LDAP
+libapache2-mod-wsgi (3.3-4+deb7u1)
+    Python WSGI adapter module for Apache
+libapache2-mod-wsgi-py3 (3.3-4+deb7u1)
+    Python 3 WSGI adapter module for Apache
+libapache2-mod-xsendfile (0.12-1)
+    Serve large static files efficiently from web applications
+libapache2-modsecurity (2.6.6-6+deb7u2)
+    Tighten web applications security for Apache
+libapache2-svn (1.6.17dfsg-4+deb7u8)
+    Subversion server modules for Apache
+libapache2-webauth (4.1.1-2)
+    Apache 2 modules for WebAuth authentication
+libapache2-webkdc (4.1.1-2)
+    Apache 2 modules for a WebAuth authentication KDC
+lighttpd (1.4.31-4+deb7u3)
+    fast webserver with minimal memory footprint
+lighttpd-mod-cml (1.4.31-4+deb7u3)
+    cache meta language module for lighttpd
+lighttpd-mod-magnet (1.4.31-4+deb7u3)
+    control the request handling module for lighttpd
+lighttpd-mod-mysql-vhost (1.4.31-4+deb7u3)
+    MySQL-based virtual host configuration for lighttpd
+lighttpd-mod-trigger-b4-dl (1.4.31-4+deb7u3)
+    anti-deep-linking module for lighttpd
+lighttpd-mod-webdav (1.4.31-4+deb7u3)
+    WebDAV module for lighttpd
+micro-httpd (20051212-15)
+    really small HTTP server
+mini-httpd (1.19-9.3)
+    a small HTTP server
+modsecurity-crs (2.2.5-2)
+    modsecurity's Core Rule Set
+mono-apache-server (2.10-2.4)
+    ASP.NET backend for mod_mono Apache module - default version
+mono-apache-server2 (2.10-2.4)
+    ASP.NET 2.0 backend for mod_mono2 Apache module
+mono-fastcgi-server (2.10-2.4)
+    ASP.NET backend for FastCGI webservers - default version
+mono-fastcgi-server2 (2.10-2.4)
+    ASP.NET 2.0 backend for FastCGI webservers
+nginx (1.2.1-2.2+wheezy3)
+    small, powerful, scalable web/proxy server
+nginx
+    virtual package provided by nginx-full, nginx-light, nginx-naxsi-ui, nginx-naxsi, nginx-extras
+nginx-common (1.2.1-2.2+wheezy3)
+    small, powerful, scalable web/proxy server - common files
+nginx-extras (1.2.1-2.2+wheezy3)
+    nginx web/proxy server (extended version)
+nginx-full (1.2.1-2.2+wheezy3)
+    nginx web/proxy server (standard version)
+nginx-light (1.2.1-2.2+wheezy3)
+    nginx web/proxy server (basic version)
+nginx-naxsi (1.2.1-2.2+wheezy3)
+    nginx web/proxy server (version with naxsi)
+nginx-naxsi-ui (1.2.1-2.2+wheezy3)
+    nginx web/proxy server - naxsi configuration front-end
+ocsigen (1.3.4-2+b12 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, sparc], 1.3.4-2+b9 [ia64, mips, mipsel, s390], 1.3.4-2+b3 [armhf], 1.3.4-2+b1 [s390x])
+    web server and programming framework in OCaml
+ocsigenserver (2.1-1)
+    web server of the Ocsigen project
+qweborf (0.13-3)
+    Shares files using the HTTP protocol
+suphp-common (0.7.1-3)
+    Common files for mod suphp
+tntnet (2.1-2+deb7u1)
+    modular, multithreaded web application server for C++
+webfs (1.21+ds1-8.1)
+    lightweight HTTP server for static content
+weborf (0.13-3)
+    Fast and small webserver meant to be run without root privileges
+weborf-daemon (0.13-3)
+    init script for weborf
+yaws (1.94-1)
+    High performance HTTP 1.1 webserver written in Erlang 

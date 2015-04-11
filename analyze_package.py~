@@ -18,8 +18,8 @@ def installPackage(cache,pkg_name):
 	print "source_name : " + vrs[0].source_name
 	print "section : " + vrs[0].section
 	print "version : " + vrs[0].version
-
-
+	print "recommends : " + vrs[0].recommends
+	print "suggests : " + vrs[0].suggests
 	print "\n"
 
 
@@ -29,6 +29,8 @@ print "before update"
 cache.update()   # error is in this line
 print "after update"
 
-installPackage(cache,"anthy-el")
-installPackage(cache,"anything-el")
-installPackage(cache,"aplus-fsf-el")
+#installPackage(cache,"aboot-base")
+#installPackage(cache,"aboot-cross")
+#installPackage(cache,"0install")
+installPackage(cache,"7kaa-data")
+

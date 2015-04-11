@@ -1,0 +1,206 @@
+alliance (5.0-20120515-1)
+    VLSI CAD Tools
+arduino (1:1.0.1+dfsg-7)
+    AVR development board IDE and built-in libraries
+arduino-core (1:1.0.1+dfsg-7)
+    Code, examples, and libraries for the Arduino platform
+arduino-mk (0.8-5)
+    Program your Arduino from the command line
+atlc (4.6.1-1)
+    Arbitrary Transmission Line Calculator
+atlc-examples (4.6.1-1)
+    Examples for Arbitrary Transmission Line Calculator
+avarice (2.11-1)
+    use GDB with Atmel's JTAG ICE for the AVR
+avra (1.2.3a-1)
+    Assembler for Atmel AVR microcontrollers
+avrdude (5.11.1-1)
+    software for programming Atmel AVR microcontrollers
+avrp (1.0beta3-7)
+    Programmer for Atmel AVR microcontrollers
+avrprog (0.2.2-2)
+    Programmer for Atmel AVR microcontrollers
+bottlerocket (0.05b3-14.1)
+    Utility to control X10 Firecracker devices for home automation
+cc1111 (2.9.0-2)
+    C Compiler for TI/Chipcon 8051-based RF SOCs
+confluence (0.10.6-7+b3 [ia64, s390], 0.10.6-7+b2 [armel, mips, mipsel], 0.10.6-7 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, s390x, sparc])
+    language for synchronous reactive hardware system design
+covered (0.7.10-1)
+    Verilog code coverage analysis tool
+cycfx2prog (0.47-1)
+    Cypress EZ-USB FX2 (LP) programmer
+dfu-programmer (0.5.4-1)
+    device firmware update (DFU) based USB programmer for Atmel chips
+dfu-util (0.5-1+b1 [kfreebsd-amd64, kfreebsd-i386], 0.5-1 [amd64, armel, armhf, i386, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    Device firmware update (DFU 1.0) USB programmer
+digitemp (3.5.0ds1-2)
+    read temperature sensors in a 1-Wire net
+drawtiming (0.7.1-5)
+    tool for documenting hardware designs through timing diagrams
+eagle (5.12.0-3) [non-free]
+    Printed circuit board design tool
+eagle-data (5.12.0-3) [non-free]
+    Data files for Eagle
+easyspice (0.6.8-2) [contrib]
+    A graphical frontend to the Spice simulator
+eep24c (0.1.2-5)
+    read and write serial I2C eeprom devices
+electric (8.10-2)
+    electrical CAD system
+emu8051 (1.1.0-1)
+    Emulator and simulator for 8051 microcontrollers
+flashrom (0.9.5.2+r1546-1)
+    Identify, read, write, erase, and verify BIOS/ROM/flash chips
+flexloader (0.03-2)
+    utility to configure SRAM based ALTERA devices
+fped (0.0+r5986-1)
+    Footprint editor
+freehdl (0.0.7-1.1)
+    VHDL simulator for Linux
+fritzing (0.6.3b+dfsg-3.1)
+    Easy-to-use electronic design software
+fritzing-data (0.6.3b+dfsg-3.1)
+    Easy-to-use electronic design software (data files)
+geda (1:1.6.2-4.3)
+    GPL EDA -- Electronics design software (metapackage)
+geda-examples (1:1.6.2-4.3)
+    GPL EDA -- Electronics design software (example designs)
+geda-gattrib (1:1.6.2-4.3)
+    GPL EDA -- Electronics design software (attribute editor)
+geda-gnetlist (1:1.6.2-4.3)
+    GPL EDA -- Electronics design software (netlister)
+geda-gschem (1:1.6.2-4.3)
+    GPL EDA -- Electronics design software (schematic editor)
+geda-gsymcheck (1:1.6.2-4.3)
+    GPL EDA -- Electronics design software (symbol checker)
+geda-symbols (1:1.6.2-4.3)
+    GPL EDA -- Electronics design software (symbols library)
+geda-utils (1:1.6.2-4.3)
+    GPL EDA -- Electronics design software (utilities)
+geda-xgsch2pcb (0.1.3-2)
+    GPL EDA -- Electronics design software -- gschem -> PCB workflow GUI
+gerbv (2.6.0-1)
+    Gerber file viewer for PCB design
+gnucap (1:0.36~20091207-2)
+    GNU Circuit Analysis package
+gnusim8085 (1.3.7-1)
+    Graphical Intel 8085 simulator, assembler and debugger
+gpsim (0.26.1-2.1)
+    Simulator for Microchip's PIC microcontrollers
+gputils (0.13.7-1)
+    GNU PIC utilities
+gputils-common (0.13.7-1)
+    headers and linker scripts for gputils
+gtkwave (3.3.37-1)
+    VCD (Value Change Dump) file waveform viewer
+irsim (9.7.75-1)
+    switch-level simulator
+iverilog (0.9.5-1)
+    Icarus verilog compiler
+kicad (0.20120526+bzr3261-1)
+    Electronic schematic and PCB design software
+kicad-common (0.20120526+bzr3261-1)
+    Common files used by kicad
+kicad-doc-de (0.20120526+bzr3261-1)
+    Kicad help files (German)
+kicad-doc-en (0.20120526+bzr3261-1)
+    Kicad help files (English)
+kicad-doc-es (0.20120526+bzr3261-1)
+    Kicad help files (Spanish)
+kicad-doc-fr (0.20120526+bzr3261-1)
+    Kicad help files (French)
+kicad-doc-hu (0.20120526+bzr3261-1)
+    Kicad help files (Hungarian)
+kicad-doc-ru (0.20120526+bzr3261-1)
+    Kicad help files (Russian)
+kicad-doc-zh-cn (0.20120526+bzr3261-1)
+    Kicad help files (Simplified Chinese)
+libgeda-common (1:1.6.2-4.3)
+    GPL EDA -- Electronics design software (data files)
+linsmith (0.99.21-1)
+    tool to generate Smith Charts
+m16c-flash (0.1-1.1)
+    Flash programmer for Renesas M16C and R8C microcontrollers
+magic (7.5.220-1)
+    VLSI layout tool
+mcu8051ide (1.3.7-1)
+    Integrated development enviroment for MCS-51 based microcontrollers
+mspdebug (0.19-1)
+    debugging tool for MSP430 microcontrollers
+ngspice (24-1) [non-free]
+    Spice circuit simulator
+nitpic (0.1-13)
+    simulator for the Microchip PIC16C84 microcontroller
+ow-shell (2.8p15-1)
+    shell utilities to talk to an 1-Wire owserver
+owfs (2.8p15-1)
+    Dallas 1-wire support
+owfs-common (2.8p15-1)
+    common files used by any of the OWFS programs
+owfs-fuse (2.8p15-1)
+    1-Wire filesystem
+owftpd (2.8p15-1)
+    FTP daemon providing access to 1-Wire networks
+owhttpd (2.8p15-1)
+    HTTP daemon providing access to 1-Wire networks
+owserver (2.8p15-1)
+    Backend server for 1-Wire control
+pcb (20110918-7)
+    printed circuit board (pcb) design program - meta-package
+pcb-common (20110918-7)
+    printed circuit board (pcb) design program - common files
+pcb-gtk (20110918-7)
+    printed circuit board (pcb) design program - GTK+ interface
+pcb-lesstif (20110918-7)
+    printed circuit board (pcb) design program - LessTif interface
+pcb2gcode (1.1.4-git20110915-1+b1)
+    command-line tool for engraving PCBs using CNCs
+picprog (1.9.1-2)
+    Microchip PIC serial programmer software
+qelectrotech (0.22+svn897-1)
+    Electric schematic editor
+qelectrotech-data (0.22+svn897-1)
+    symbols needed for qelectrotech
+qelectrotech-examples (0.22+svn897-1)
+    examples files for qelectrotech
+qsapecng (2.0.0-5)
+    symbolic analyzer and solver of linear analog circuits
+rfdump (1.6-2)
+    tool to decode RFID tag data
+s51dude (0.2.0-1.1)
+    In-System Programmer for 8051 MCUs using usbtiny
+scantool (1.21+dfsg-3)
+    OBD-II vehicle diagnostic scanner
+sdcc (3.1.0+dfsg-1)
+    Small Device C Compiler
+sdcc-libraries (3.1.0+dfsg-1)
+    Small Device C Compiler (libraries)
+sdcc-ucsim (3.1.0+dfsg-1)
+    Micro-controller simulator for SDCC
+sigrok (0.2-1)
+    Logic analyzer and protocol decoder software suite (metapackage)
+sigrok-cli (0.3.0-2)
+    command-line frontend for the sigrok logic analyzer software
+simulavr (0.1.2.2-6.2)
+    Atmel AVR simulator
+simulpic (1:2005-1-28-8)
+    simulator for Microchip PIC16F84 microcontroller
+spectools (201108r1-2)
+    Utilities for using the Wi-Spy USB spectrum analyzer hardware
+spim (8.0+dfsg-5.1)
+    MIPS R2000/R3000 emulator
+tkgate (1.8.7-4)
+    Event driven digital circuit simulator with Tcl/Tk
+tkgate-data (1.8.7-4)
+    Event driven digital circuit simulator with Tcl/Tk
+uisp (20050207-4.2)
+    Micro In-System Programmer for Atmel's AVR MCUs
+verilator (3.833-1)
+    fast free Verilog simulator
+verilog (0.9.5-1)
+    Icarus verilog compiler (transitional package)
+visolate (2.1.6~svn8+dfsg1-1)
+    tool for engraving PCBs using CNCs
+xcircuit (3.7.40.dfsg-1)
+    Draw circuit schematics or almost anything 

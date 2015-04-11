@@ -1,0 +1,3354 @@
+agtl (0.8.0.3-1)
+    Tool for paperless geocaching
+alembic (0.3.4+ds-3)
+    lightweight database migration tool for SQLAlchemy
+aws-status (0.2.3-1)
+    txaws based graphical application for monitoring AWS service
+bokken (1.6-1)
+    reverse code engineering GUI for pyew and radare
+bookletimposer (0.2-1)
+    PDF imposition toolkit
+bpython (0.11-1)
+    fancy interface to the Python interpreter - Curses frontend
+bpython-gtk (0.11-1)
+    fancy interface to the Python interpreter - GTK+ frontend
+bpython-urwid (0.11-1)
+    fancy interface to the Python interpreter - urwid frontend
+bpython3 (0.11-1)
+    fancy interface to the Python interpreter - Curses frontend
+clearsilver-dev (0.10.5-1.3)
+    headers and static library for clearsilver
+cmdtest (0.3-1)
+    blackbox testing of Unix command line programs
+connectomeviewer (2.1.0-1)
+    Interactive Analysis and Visualization for MR Connectomics
+cpuset (1.5.6-2)
+    Allows manipluation of cpusets and provides higher level fun
+creepy (0.1.94-1)
+    geolocation information aggregator
+cython (0.15.1-2)
+    C-Extensions for Python
+django-ajax-selects (1.2.4-1)
+    Django library for editing fields with autocomplete
+django-filter (0.5.3-3)
+    Django library for filtering Django QuerySets based on user selections
+django-tables (0.10.2-2)
+    Django library for rendering Django QuerySets
+docutils-common (0.8.1-8)
+    text processing system for reStructuredText - common data
+dreampie (1.1.1-2)
+    advanced graphical interactive Python shell
+episoder (0.6.5-1)
+    TV show episode reminder
+epylog (1.0.7-1)
+    New logs analyzer and parser
+fitscheck (1:3.0.8-2)
+    script to detect and fix FITS standards violations
+gamera-gui (3.3.3-2)
+    GUI for the Gamera framework
+gastables (0.3-2)
+    graphical user interface for compressible flow gas table modules
+git-review (1.17-1)
+    git command for submitting branches to Gerrit
+glance (2012.1.1-5)
+    OpenStack Image Service - metapackage
+glance-api (2012.1.1-5)
+    OpenStack Image Service - API server
+glance-common (2012.1.1-5)
+    OpenStack Image Service - common files
+glance-registry (2012.1.1-5)
+    OpenStack Image Service - registry server
+gyp (0.1~svn1395-1)
+    Generate Your Projects
+idle (2.7.3-4+deb7u1)
+    IDE for Python using Tkinter (default version)
+idle-python2.6 (2.6.8-1.1)
+    IDE for Python (v2.6) using Tkinter
+idle-python2.7 (2.7.3-6+deb7u2)
+    IDE for Python (v2.7) using Tkinter
+idle-python3.2 (3.2.3-7)
+    IDE for Python (v3.2) using Tkinter
+idle3 (3.2.3-6)
+    IDE for Python using Tkinter (default version)
+ipython (0.13.1-2+deb7u1)
+    enhanced interactive Python shell
+ipython-notebook (0.13.1-2+deb7u1)
+    interactive Python html notebook
+ipython-notebook-common (0.13.1-2+deb7u1)
+    interactive Python html notebook data package
+ipython-qtconsole (0.13.1-2+deb7u1)
+    enhanced interactive Python shell - Qt console
+ipython3 (0.13.1-2+deb7u1)
+    enhanced interactive Python 3 shell
+ipython3-notebook (0.13.1-2+deb7u1)
+    interactive Python 3 html notebook
+ipython3-qtconsole (0.13.1-2+deb7u1)
+    enhanced interactive Python 3 shell - Qt console
+jcc (2.13-1)
+    code generator producing a Python extension from Java classes
+jython (2.5.2-1)
+    Python seamlessly integrated with Java
+keystone (2012.1.1-13+wheezy1)
+    OpenStack identity service
+kiki (0.5.6-8)
+    tool for python regular expression testing
+krosspython (4:4.8.4-1)
+    Python module for Kross
+libgv-python (2.26.3-14+deb7u2)
+    Python bindings for graphviz
+libhocr-python (0.10.17-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.10.17-1+b1 [armhf, s390x])
+    Hebrew OCR library Python bindings
+libnexus0-python (4.2.1-svn1614-1+b2 [amd64, armel, armhf, i386, ia64, mipsel, powerpc, s390, sparc], 4.2.1-svn1614-1+b1 [s390x])
+    NeXus scientific data file format - python binding
+libpam-python (1.0.2-1)
+    Enables PAM modules to be written in Python
+libpyside-py3-1.1 (1.1.1-3)
+    Python3 bindings for Qt 4 (base files)
+libpyside1.1 (1.1.1-3)
+    Python bindings for Qt 4 (base files)
+libreoffice-script-provider-python (1:3.5.4+dfsg2-0+deb7u3) [security]
+    Python script support provider for LibreOffice scripting framework
+libsnmp-python (5.4.3~dfsg-2.8+deb7u1)
+    SNMP (Simple Network Management Protocol) Python support
+lio-utils (3.1+git2.fd0b34fd-2)
+    configuration tool for LIO core target
+lptools (0.0.1~bzr38-1)
+    Tools for working with Launchpad
+maptransfer (0.3-1)
+    upload/download maps to/from a VALVe game server (Client)
+maptransfer-server (0.3-1)
+    upload/download maps to/from a VALVe game server (Server)
+mat (0.3.2-1)
+    Metadata anonymisation toolkit
+melange-client (0.1-1.2)
+    Melange client
+mpich2python (2.8-4)
+    MPI-enhanced Python interpreter (MPICH2 based version)
+msgpack-python (0.1.10-1)
+    Python implementation of MessagePack format
+mumble-django (2.7-7)
+    Mumble-Server web interface
+netio230a-gui (1.0.1-3)
+    GUI to access the Koukaam NETIO-230A
+nfqueue-bindings-python (0.4-3)
+    Python bindings for nfqueue
+obnam (1.1-1.1)
+    online and disk-based backup application
+omniidl-python (3.6-1)
+    omniidl backend to compile Python stubs from IDL files
+openmpipython (2.8-4)
+    MPI-enhanced Python interpreter (OpenMPI based version)
+openstack-dashboard (2012.1.1-10)
+    OpenStack Dashboard
+openstack-dashboard-apache (2012.1.1-10)
+    OpenStack Dashboard - Apache support
+paraview-python (3.14.1-6)
+    Parallel Visualization Application. python-support
+pdfminer-data (20110515+dfsg-1)
+    PDF parser and analyser (encoding data)
+pdfposter (0.4.4-2)
+    scale and tile PDF images/pages to print on multiple pages
+pep8 (1.2-1)
+    Python PEP 8 code style checker
+phenny (2~hg28-2)
+    extensible IRC bot written in Python
+pius (2.0.7-2)
+    Quick and easy signing of each UID on a PGP keyring
+planet-venus (0~bzr116-1)
+    aggregate feed generator
+pyew (2.0-3)
+    Python tool like radare or *iew for malware analysis
+pyflakes (0.5.0-2)
+    passive checker of Python programs
+pylint (0.25.1-1)
+    python code static checker and UML diagram generator
+pymacs (0.23-1.1)
+    interface between Emacs Lisp and Python
+pymetrics (0.8.1-6)
+    Python code metric reporting tool
+pynast (1.1-3)
+    alignment of short DNA sequences
+pype (2.9.1-4)
+    Python programmers editor
+pyppd (0.4.9-6)
+    CUPS PostScript Printer Driver's compressor and generator
+pyqt4-dev-tools (4.9.3-4)
+    Development tools for PyQt4
+pyrex-mode (0.9.8.5-2)
+    emacs-lisp pyrex-mode for pyrex
+pyro (1:3.14-1.1)
+    distributed object system for Python
+pyro-examples (1:3.14-1.1)
+    examples for Pyro
+pyro-gui (1:3.14-1.1)
+    graphical tool for Pyro
+pyside-tools (0.2.13-3)
+    development tools for PySide (uic, rcc, lupdate)
+pyspread (0.2.2-1)
+    cross-platform Python spreadsheet application
+python (2.7.3-4+deb7u1)
+    interactive high-level object-oriented language (default version)
+python-aafigure (0.5-3)
+    ASCII art to image converter
+python-aalib (0.2-3)
+    Python interface to AAlib, an ASCII art library
+python-acidobasic (2.2-1)
+    simulation tool for acido-basic titrations
+python-acoustid (0.7-1)
+    Acoustid interface implementation and Chromaprint bindings
+python-actdiag (0.3.3-1)
+    generate activity-diagram image file from spec-text file
+python-adns (1.2.1-5+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.2.1-5 [armhf, s390x])
+    Python bindings to the asynchronous DNS resolver library
+python-adodb (2.10-1.1)
+    A database abstraction library for python
+python-aeidon (0.19.2-1)
+    reading, writing and manipulating text-based subtitle files
+python-aiml (0.8.6-2)
+    Artificial Intelligence Markup Language interpreter for Python
+python-all (2.7.3-4+deb7u1)
+    package depending on all supported Python runtime versions
+python-all-dev (2.7.3-4+deb7u1)
+    package depending on all supported Python development packages
+python-alsaaudio (0.5+svn36-1+b3 [kfreebsd-amd64, kfreebsd-i386], 0.5+svn36-1+b2 [amd64, armel, i386, ia64, mips, mipsel, powerpc, s390, sparc], 0.5+svn36-1 [armhf, s390x])
+    Alsa bindings for Python
+python-amqplib (1.0.2-1)
+    simple non-threaded Python AMQP client library
+python-antlr (2.7.7+dfsg-4)
+    language tool for constructing recognizers, compilers etc
+python-anyjson (0.3.1-2)
+    Common interface for the best available JSON implementation
+python-apipkg (1.0-1.1)
+    namespace control and lazy-import mechanism for Python
+python-appindicator (0.4.92-2)
+    Python bindings for libappindicator
+python-application (1.3.0-1)
+    Basic building blocks for Python applications
+python-apptools (4.0.1-1)
+    ETS Application Tools
+python-apsw (3.7.6.3-r1-1)
+    another Python SQLite 3 wrapper
+python-apt (0.8.8.2+b1 [s390x], 0.8.8.2 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc])
+    Python interface to libapt-pkg
+python-apt-common (0.8.8.2)
+    Python interface to libapt-pkg (locales)
+python-apt-dev (0.8.8.2)
+    Python interface to libapt-pkg (development files)
+python-aptdaemon (0.45-2)
+    Python module for the server and client of aptdaemon
+python-aptdaemon-gtk (0.45-2)
+    Transitional dummy package
+python-aptdaemon.gtk3widgets (0.45-2)
+    Python GTK+ 3 widgets to run an aptdaemon client
+python-aptdaemon.gtkwidgets (0.45-2)
+    Python GTK+ 2 widgets to run an aptdaemon client
+python-aptdaemon.pkcompat (0.45-2)
+    PackageKit compatibilty for AptDaemon
+python-aptdaemon.test (0.45-2)
+    Test environment for aptdaemon clients
+python-argparse (1.2.1-2)
+    optparse-inspired command-line parsing library
+python-argparse
+    virtual package provided by python2.7
+python-argvalidate (0.9.0-1)
+    simple argument validator library
+python-ase (3.6.0.2515-1)
+    Atomic Simulation Environment for atomistic simulations
+python-aspects (1.3-5)
+    lightweight aspect oriented programming library for Python
+python-asterisk (0.4-1)
+    Asterisk Manager API interface module for Python
+python-async (0.6.1-1)
+    framework to process interdependent tasks in a pool of workers
+python-at-spi (0.6.1-1.3+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.6.1-1.3 [armhf, s390x])
+    Assistive Technology Service Provider Interface - Python bindings
+python-aubio (0.3.2-4.2+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.3.2-4.2 [armhf, s390x])
+    python interface for aubio, a library for audio segmentation
+python-audioread (0.6-1)
+    Backend-agnostic audio decoding Python package
+python-audit (1:1.7.18-1.1)
+    Python bindings for security auditing
+python-augeas (0.4.0-2.1)
+    Python bindings for Augeas
+python-authkit (0.4.3-1)
+    authentication and authorisation framework for Python WSGI applications
+python-authres (0.402-1)
+    RFC 5451 Authentication Results Header manipulation for Python
+python-avahi (0.6.31-2)
+    Python utility package for Avahi
+python-avc (0.8.3-1)
+    live connection among widgets and application variables
+python-avogadro (1.0.3-5)
+    Molecular Graphics and Modelling System (Python module)
+python-axiom (0.6.0-3)
+    Python object database
+python-babel (0.9.6-1)
+    tools for internationalizing Python applications
+python-ball (1.4.1+20111206-4)
+    Python bindings for the Biochemical Algorithms Library
+python-ballview (1.4.1+20111206-4)
+    Python bindings for VIEW-parts of the Biochemical Algorithms Library
+python-beaker (1.6.3-1.1)
+    cache and session library
+python-beautifulsoup (3.2.1-1)
+    error-tolerant HTML parser for Python
+python-bibtex (1.2.5-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.2.5-1 [armhf, s390x])
+    Python interfaces to BibTeX and the GNU Recode library
+python-biopython (1.59-1)
+    Python library for bioinformatics
+python-biopython-sql (1.59-1)
+    Biopython support for the BioSQL database schema
+python-biosig (1.3.0-2)
+    Python bindings for BioSig library
+python-bitarray (0.8.0-2)
+    Python module for efficient boolean array handling
+python-bitbucket (0.1-1)
+    Python bindings for the bitbucket.org REST API
+python-bjsonrpc (0.2.0-1)
+    asynchronous bidirectional JSON-RPC protocol over TCP/IP
+python-blist (1.3.4-2)
+    List-like type for python with better asymptotic performance
+python-blockdiag (1.1.6-1.1)
+    generate block-diagram image file from spec-text file
+python-bloomfilter (1.0.3-2)
+    Python native implementation of the Bloom filter probabilistic data structure
+python-bluez (0.18-2)
+    Python wrappers around BlueZ for rapid bluetooth development
+python-bobo (0.2.2-3)
+    Web application framework for the impatient
+python-boto (2.3.0-1)
+    Python interface to Amazon's Web Services
+python-bottle (0.10.11-1+deb7u1)
+    fast and simple WSGI-framework for Python
+python-box2d (2.0.2+svn20100109.244-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 2.0.2+svn20100109.244-1 [armhf, s390x])
+    Python Bindings for the 2D Physics Engine Box2D
+python-brian (1.3.1-1)
+    simulator for spiking neural networks
+python-brian-lib (1.3.1-1+b1)
+    simulator for spiking neural networks -- extensions
+python-brlapi (4.4-10+deb7u1)
+    Python bindings for BrlAPI
+python-bs4 (4.1.0-1)
+    error-tolerant HTML parser for Python
+python-bsddb3 (5.2.0-1+b1)
+    Python interface for Berkeley DB
+python-bson (2.2-4+deb7u1)
+    Python implementation of BSON for MongoDB
+python-bson-ext (2.2-4+deb7u1)
+    C-coded extension to the python-bson package
+python-buffy (0.13+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390, sparc], 0.13 [armhf, powerpc, s390x])
+    Python wrapper for the libbuffy library
+python-buzhug (1.6-1)
+    pure-Python database engine, using a Pythonic, no-SQL syntax
+python-byteplay (0.2-2)
+    Python bytecode manipulation library
+python-bzrlib (2.6.0~bzr6526-1)
+    distributed version control system - python library
+python-bzrlib.tests (2.6.0~bzr6526-1)
+    distributed version control system - testsuite
+python-bzutils (0.2-1)
+    Python module to interact with bugzilla servers
+python-cairo (1.8.8-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mipsel, sparc], 1.8.8-1+b1 [mips, powerpc, s390], 1.8.8-1 [armhf, s390x])
+    Python bindings for the Cairo vector graphics library
+python-cairo-dev (1.8.8-1)
+    Python cairo bindings: development files
+python-cairosvg (0.4.3-1)
+    SVG to PDF/PS/PNG converter based on Cairo
+python-calabash (0.0.3-2)
+    Bash-style pipelining syntax for Python generators
+python-cap-ng (0.6.6-2)
+    Python bindings for libcap-ng
+python-captcha (0.4-1)
+    collection of Python modules implementing CAPTCHAs
+python-carquinyol-0.84 (0.84.1-3+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.84.1-3 [armhf, s390x])
+    Sugar graphical shell - datastore
+python-carquinyol-0.88 (0.88.0-3+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.88.0-3 [armhf, s390x])
+    Sugar graphical shell - datastore
+python-carquinyol-0.96 (0.96.0-1)
+    Sugar graphical shell - datastore
+python-carrot (0.10.7-1)
+    AMQP messaging queue framework
+python-catwalk (2.0.2-5)
+    model management interface for the Turbogears web framework
+python-cclib (1.0.1-2)
+    Parsers and algorithms for computational chemistry (Python module)
+python-cddb (1.4-5.1+b3 [amd64, i386, ia64, mips, mipsel, powerpc, s390, sparc], 1.4-5.1+b2 [armel, kfreebsd-amd64, kfreebsd-i386], 1.4-5.1 [armhf, s390x])
+    Python interface to CD-IDs and FreeDB
+python-celery (2.5.3-4)
+    async task/job queue based on message passing
+python-central (0.6.17)
+    register and build utility for Python packages
+python-cerealizer (0.7-4)
+    secure pickle-like module for Python
+python-cfflib (2.0.5-1)
+    Multi-modal connectome and metadata management and integration
+python-chaco (4.1.0-1)
+    interactive plotting application toolkit
+python-chameleon (2.6.1-1)
+    XML-based template compiler
+python-chardet (2.0.1-2)
+    universal character encoding detector
+python-chemfp (1.0-1)
+    Cheminformatics fingerprints file formats and tools
+python-cherrypy (2.3.0-3)
+    Python web development framework
+python-cherrypy3 (3.2.2-2)
+    Python web development framework - version 3
+python-chm (0.8.4-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.8.4-1 [armhf, s390x])
+    Python binding for CHMLIB
+python-cinfony (1.1-1)
+    Python abstraction layer to cheminformatics toolkits
+python-circuits (1.2.1-1)
+    event-driven framework with a component architecture
+python-cjson (1.0.5-4+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.0.5-4 [armhf, s390x])
+    Very fast JSON encoder/decoder for Python
+python-ckanclient (0.9-1)
+    CKAN client Python package
+python-cl (0.0.3-1)
+    Actor framework for Kombu
+python-clearsilver (0.10.5-1.3)
+    Python bindings for clearsilver
+python-cliapp (1.20120630-1)
+    Python framework for Unix command line programs
+python-clientform (1:0.2.5-3)
+    transitional dummy package
+python-clientform
+    virtual package provided by python-mechanize
+python-clint (0.3.1-1)
+    Python Command-line Application Tools
+python-cloudfiles (1.7.9.2-1)
+    Python language bindings for Cloud Files API
+python-cloudservers (1.1-1.2)
+    client library for Rackspace's Cloud Servers API
+python-cluster (1.1.1b3-1)
+    allows grouping a list of arbitrary objects into related groups (clusters)
+python-cmd2 (0.6.4-1)
+    enhanced Python cmd module
+python-cmor (2.8.0-2+b1)
+    python interface to CMOR
+python-cobe (2.0.2-1)
+    Markov chain based text generator library and chatbot
+python-cogent (1.5.1-2)
+    framework for genomic biology
+python-coherence (0.6.6.2-6+deb7u1)
+    Python UPnP framework
+python-colorama (0.2.4-1.1)
+    Cross-platform colored terminal text in Python
+python-comedilib (0.10.0-3)
+    Python wrapper for Comedilib
+python-commando (0.1.2a-3)
+    wrapper for argparse to define declaratively
+python-concurrent.futures (2.1.2-1)
+    backport of concurrent.futures package from Python 3.2
+python-configglue (1.0-1)
+    Glues together optparse.OptionParser and ConfigParser.ConfigParser
+python-configobj (4.7.2+ds-4)
+    simple but powerful config file reader and writer for Python
+python-configshell (1.1-3)
+    framework to create cli interfaces
+python-constraint (0.4.0-5)
+    Transitional dummy package
+python-constraint
+    virtual package provided by python-logilab-constraint
+python-contract (1.4-3)
+    Programming by contract for Python
+python-couchdb (0.8-1)
+    library for working with Apache CouchDB
+python-couchdbkit (0.6.3-1)
+    Trying to improve couchdb experience in Python
+python-coverage (3.4-3)
+    code coverage tool for Python
+python-coverage-test-runner (1.8-1)
+    fail Python program unit tests unless they test everything
+python-cpl (0.3.6-1)
+    Control pipeline recipes from the European Southern Observatory
+python-cqmf2 (0.16-6+deb7u1)
+    enterprise messaging system - Python CQMF2 bindings
+python-cqpid (0.16-6+deb7u1)
+    enterprise messaging system - Python CQPID bindings
+python-cracklib (2.8.19-3)
+    Python bindings for password checker library cracklib2
+python-creoleparser (0.7.4-1)
+    Parser for the Creole common wiki markup language
+python-crypto (2.6-4+deb7u3)
+    cryptographic algorithms and protocols for Python
+python-csa (0.1.0-1.1)
+    Connection-Set Algebra (CSA) implemented in Python
+python-csound (1:5.17.11~dfsg-3)
+    Python bindings for Csound
+python-csoundac (1:5.17.11~dfsg-3)
+    Python bindings for CsoundAC
+python-cssselect (0.6.1-1)
+    cssselect parses CSS3 Selectors and translates them to XPath 1.0
+python-cssutils (0.9.10~b1-1)
+    CSS Cascading Style Sheets parser and builder
+python-ctypeslib (0.0.0+svn20100125-4)
+    code generator to convert header files into ctypes interfaces
+python-cubictemp (2.0-1)
+    small, elegant, Python-specific HTML templating system
+python-cups (1.9.48-1.1)
+    Python bindings for CUPS
+python-cupshelpers (1.3.7-4)
+    Python utility modules around the CUPS printing system
+python-cvxopt (1.1.4-1)
+    Python package for convex optimization
+python-cwiid (0.6.00+svn201-3+b1 [amd64, armel, i386, ia64, mips, mipsel, powerpc, s390, sparc], 0.6.00+svn201-3 [armhf, s390x])
+    library to interface with the wiimote
+python-cxx-dev (6.2.4-3)
+    Set of facilities to extend Python with C++
+python-d2to1 (0.2.7-1)
+    Python support for distutils2-like setup.cfg files as package metadata
+python-daap (0.7.1-3+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.7.1-3 [armhf, s390x])
+    DAAP client implemented in Python
+python-daemon (1.5.5-1)
+    library for making a Unix daemon process
+python-dap (2.2.6.7-1+deb7u1)
+    DAP (Data Access Protocol) client and server
+python-dateutil (1.5+dfsg-0.1)
+    powerful extensions to the standard datetime module
+python-dballe (5.18-1)
+    DB-ALL.e Python library for weather research
+python-dbf (0.88.16-1)
+    Python module for reading and writing dbf files
+python-dbus (1.1.1-1)
+    simple interprocess messaging system (Python interface)
+python-dbus-dev (1.1.1-1)
+    main loop integration development files for python-dbus
+python-deap (0.7.1-1)
+    Distributed Evolutionary Algorithms in Python
+python-debianbts (1.11)
+    Python interface to Debian's Bug Tracking System
+python-debtagshw (1.10.1)
+    Match debtags hardware:: tags against the actual hardware
+python-decorator (3.3.3-1)
+    simplify usage of Python decorators by programmers
+python-decoratortools (1.8-2)
+    transitional dummy package for python-peak.util.decorators
+python-defer (1.0.6-2)
+    Small framework for asynchronous programming (Python 2)
+python-deliciousapi (1.6.7-1)
+    unofficial Python API for retrieving data from delicious.com
+python-demgengeo (0.99~bzr106-1+b1)
+    DEMGenGeo is a library for creating geometry files
+python-demjson (1.6-2)
+    encoder, decoder, and lint/validator for JSON in Python
+python-desktop-agnostic (0.3.92+dfsg-1)
+    Python bindings for libdesktop-agnostic
+python-dev (2.7.3-4+deb7u1)
+    header files and a static library for Python (default)
+python-dexml (0.4.2-2)
+    Dead-simple Object-XML mapper for Python
+python-dhm (0.6-3)
+    collection of Python utilities / helper
+python-dialog (2.7-1)
+    Python module for making simple Text/Console-mode user interfaces
+python-dicoclient (2.1-3)
+    RFC 2229 compliant dictionary client module and shell
+python-dicom (0.9.6-1)
+    DICOM medical file reading and writing
+python-dictclient (1.0.3.1)
+    Python client library for DICT (RFC2229) protocol
+python-dictdlib (2.0.4.1)
+    Python library for generating dictd dictionaries
+python-dingus (0.3.4-1)
+    A record-then-assert mocking library
+python-dipy (0.5.0-3)
+    toolbox for analysis of MR diffusion imaging data
+python-dipy-lib (0.5.0-3)
+    toolbox for analysis of MR diffusion imaging data -- extensions
+python-distro-info (0.10)
+    information about distributions' releases (Python module)
+python-distutils-extra (2.36-1)
+    enhancements to the Python build system
+python-django (1.4.5-1+deb7u11) [security]
+    High-level Python web development framework
+python-django-adminaudit (0.3.2-1)
+    improves the logging capabilities of Django's admin
+python-django-app-plugins (0.1.1-1)
+    plugin system for django
+python-django-auth-ldap (1.0.19-2)
+    Django LDAP authentication backend
+python-django-auth-openid (0.4-1)
+    provides optional OpenID integration for Django
+python-django-authority (0.4-2)
+    more powerful permission system for Django
+python-django-celery (2.5.5-2)
+    Celery integration for Django
+python-django-classy-tags (0.3.4.1-1)
+    Class based template tags for Django projects
+python-django-contact-form (0+hg61-2)
+    extensible contact-form application for Django
+python-django-countries (1.2-1)
+    provides a country field for Django models
+python-django-dajax (0.8.4-5)
+    easy to use ajax library for django
+python-django-dajaxice (0.2-2)
+    agnostic and easy to use AJAX library for django
+python-django-debug-toolbar (1:0+git201107220111-96e46c6-1)
+    Embedded debugging toolbar for Django projects
+python-django-djapian (2.3.1-3)
+    Search API for Django using Xapian
+python-django-evolution (0.6.7-1)
+    Implementation of schema evolution for the Django web framework
+python-django-extdirect (0.7-1)
+    Ext.Direct serverside implementation for Django
+python-django-extra-views (0.2.4-2)
+    Extra class-based views for Django
+python-django-feincms (1.6.2-2)
+    Django-based Page CMS and CMS building toolkit
+python-django-floppyforms (0.4.7-2)
+    better control of form rendering in Django
+python-django-formfieldset (0+git20090520-621cb58-1)
+    fieldset rendering mixin for Django-based forms
+python-django-genshi (1.1.3-4)
+    Django integration for Genshi
+python-django-horizon (2012.1.1-10)
+    Django module providing web interaction with OpenStack
+python-django-lint (0.13-2)
+    Static analysis tool for Django projects and applications
+python-django-localeurl (1.5-3)
+    Django application allows the language be set in the URL
+python-django-markupfield (1.0.2-2)
+    custom Django field for easy use of markup in text fields
+python-django-mptt (0.5.2-1)
+    Modified Preorder Tree Traversal Django application
+python-django-mumble (2.7-7)
+    Mumble-Server config application for Django
+python-django-nose (1.1-1)
+    Django test runner that uses python-nose
+python-django-notification (0.1.5-2)
+    user notification management for Django
+python-django-pagination (1.0.5-1)
+    utilities for creating pagination tools for Django
+python-django-picklefield (0.2.1-2)
+    Pickled object field for Django
+python-django-registration (0.8-2)
+    User-registration application for Django
+python-django-reversion (1.6-1)
+    Provides comprehensive version control facilities for Django
+python-django-rosetta (0.6.6-1)
+    Eases the translation process of your Django projects
+python-django-sekizai (0.5.0-1)
+    template blocks for Django projects
+python-django-shorturls (1.0.1-3)
+    Short URL handler for Django applications
+python-django-social-auth (0.7.0-1)
+    Django social authentication made simple
+python-django-south (0.7.5-1)
+    Intelligent schema migrations for django apps
+python-django-tagging (0.3.1-2)
+    Generic tagging application for Django projects
+python-django-threaded-multihost (1.3.2-2)
+    allows to serve multiple sites from one django installation
+python-django-threadedcomments (0.5.3-4)
+    simple yet flexible threaded commenting system for Django
+python-django-tinymce (1.5-3)
+    replacement text widget for Django web framework
+python-django-treebeard (1.61-3)
+    Efficient implementations of tree data structures for Django
+python-django-uwsgi-admin (1.2.3+dfsg-5+deb7u1)
+    Django application for administering uWSGI server
+python-django-voting (0.1-2)
+    generic voting application for Django
+python-django-websocket (0.3.0-3)
+    Websocket support for django
+python-djvu (0.3.9-1)
+    Python support for the DjVu image format
+python-dkim (0.5.3-1+deb7u1)
+    Python module for DKIM signing and verification
+python-dmidecode (3.10.13-1.1)
+    Python extension module for dmidecode
+python-dns (2.3.6-1+deb7u1)
+    DNS client module for Python
+python-dnspython (1.10.0-1)
+    DNS toolkit for Python
+python-docutils (0.8.1-8)
+    text processing system for reStructuredText (implemented in Python 2)
+python-dolfin (1.0.0-7)
+    Python interface for DOLFIN
+python-dpkt (1.6+svn54-1)
+    Python packet creation / parsing module
+python-dpm (1.8.2-1+b2)
+    Disk Pool Manager (DPM) python bindings
+python-drizzle (1.0-3.1)
+    Python binding to libdrizzle
+python-drmaa (0.5-1)
+    interface to DRMAA-compliant distributed resource management systems
+python-drslib (0.3.0a3-3)
+    Library for processing the CMIP5 Data Reference Syntax
+python-dsv (1.4.1-2)
+    Python module for delimiter-separated-value files
+python-dulwich (0.8.5-2+deb7u2) [security]
+    Python Git library
+python-dumbnet (1.12-3.1)
+    A dumb, portable networking library -- python bindings
+python-easygui (0.96-3)
+    module for very simple, very easy GUI programming in Python
+python-easyzone (1.2.2-1)
+    DNS Zone abstraction Python module
+python-ecasound (2.9.0-1)
+    multitrack-capable audio recorder and effect processor (python bindings)
+python-ecryptfs (99-1)
+    ecryptfs cryptographic filesystem (python)
+python-edbus (0.5.0+r49577-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.5.0+r49577-1 [armhf, s390x])
+    Python bindings for the Enlightenment D-Bus wrapper library (edbus)
+python-editobj (0.5.7-9)
+    Python object editor
+python-egenix-mx-base-dev (3.2.1-1.1)
+    development files for the egenix-mx-base distribution
+python-egenix-mxbeebase (3.2.1-1.1)
+    on-disk B+Tree based database kit for Python
+python-egenix-mxdatetime (3.2.1-1.1)
+    date and time handling routines for Python
+python-egenix-mxproxy (3.2.1-1.1)
+    generic proxy wrapper type for Python
+python-egenix-mxqueue (3.2.1-1.1)
+    fast and memory-efficient queue for Python
+python-egenix-mxstack (3.2.1-1.1)
+    fast and memory-efficient stack for Python
+python-egenix-mxtexttools (3.2.1-1.1)
+    fast text processing tools for Python
+python-egenix-mxtools (3.2.1-1.1)
+    collection of additional builtins for Python
+python-egenix-mxuid (3.2.1-1.1)
+    unique identifiers for Python
+python-egenix-mxurl (3.2.1-1.1)
+    flexible URL datatype for Python
+python-eggtrayicon (2.25.3-12)
+    Python module to display icons in the system tray
+python-elements (0.13+svn20090823.230+dfsg-2)
+    A 2D Physics API for Python
+python-elementtidy (1.0-7+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.0-7 [armhf, s390x])
+    An HTML tree builder for ElementTree based on Tidy
+python-elib.intl (0.0.3~git20110809-2)
+    enhanced internationalization (I18N) for Python
+python-elixir (0.7.1-1)
+    Declarative Mapper for SQLAlchemy
+python-empy (3.3-6)
+    A templating system for Python
+python-enable (4.1.0-1)
+    Drawing and interaction packages
+python-enchant (1.6.5-2)
+    spellchecking library for Python
+python-enet (0.0~svn24-1)
+    wrapper for the ENet library
+python-enthoughtbase (3.1.0-2)
+    Core packages for the Enthought Tool Suite
+python-enum (0.4.4-2)
+    robust enumerated type support in Python
+python-envisage (4.1.0-2)
+    Extensible Application Framework
+python-envisagecore (3.2.0-2)
+    Extensible Application Framework
+python-envisageplugins (3.2.0-2)
+    Plugins for the Envisage framework
+python-epr (0.6.1-2)
+    Python ENVISAT Product Reader API (Python 2)
+python-epsilon (0.6.0-3)
+    utility Python modules commonly used by Divmod.org project
+python-epydoc (3.0.1+dfsg-1)
+    tool for documenting Python modules
+python-espeak (0.4-1)
+    Python bindings for eSpeak
+python-ethos (0.2.2-3)
+    GObject library for application plugins - Python bindings
+python-ethtool (0.7-1.1)
+    Python bindings for the ethtool kernel interface
+python-etk.docking (0.2-1)
+    PyGTK Docking Widgets
+python-eventlet (0.9.16-3)
+    concurrent networking library for Python
+python-evolution (2.32.0+dfsg-2+b1)
+    Python bindings for the evolution libraries
+python-exactimage (0.8.5-5+deb7u3)
+    fast image manipulation library (Python bindings)
+python-examples (2.7.3-4+deb7u1)
+    examples for the Python language (default version)
+python-excelerator (0.6.4.1-1)
+    module for reading/writing Excel spreadsheet files
+python-execnet (1.0.9-0.1)
+    rapid multi-Python deployment
+python-exif (1.0.8-3)
+    Python library to extract EXIF data from tiff and jpeg files
+python-expeyes (2.0.0-3)
+    Python library for expeyes
+python-extractor (1:0.6-4)
+    extracts meta-data from files of arbitrary type (Python bindings)
+python-fabio (0.0.8-1)
+    I/O library for images produced by 2D X-ray detector
+python-facebook (0.svn20100209-3)
+    Python wrappers for the Facebook API
+python-factory-boy (1.1.3-1)
+    test fixtures replacement based on thoughtbot's factory_girl for Ruby.
+python-farstream (0.1.2-1)
+    Audio/Video communications framework: Python bindings
+python-fastimport (0.9.2-1)
+    Fastimport file format parser and generator library
+python-faulthandler (2.0-1)
+    Display the Python backtrace on a crash
+python-fdsend (0.2.1-2)
+    Provides an abstraction for file descriptor passing via sockets
+python-feedparser (5.1.2-1)
+    Universal Feed Parser for Python
+python-feedvalidator (0~svn1022-2)
+    library and tool for validating syndication feeds
+python-ferari (1.0.0-1)
+    optimizations for evaluation of variational forms
+python-ffc (1.0.0-1)
+    compiler for finite element variational forms
+python-fftw (0.2.2-1)
+    Python bindings to the FFTW3 C-library for Fourier transforms
+python-fiat (1.0.0-1)
+    tabulation of finite element function spaces
+python-fibranet (10-3)
+    cooperative threading and event driven framework
+python-fife (0.3.3+r3-3)
+    FIFE is a multi-platform isometric game engine
+python-fiu (0.90-3)
+    userspace fault injection framework (Python bindings)
+python-fixtures (0.3.6-1.1)
+    PyUnit extension for defining test fixtures outside of test cases
+python-flask (0.8-1)
+    micro web framework based on Werkzeug, Jinja2 and good intentions
+python-flaskext.wtf (0.6-1)
+    Simple integration of Flask and WTForms
+python-flexmock (0.9.6-1)
+    Mock/Stub/Spy library for Python
+python-flickrapi (1.2-3)
+    Flickr API wrapper for Python
+python-fltk (1.3.0-1)
+    Python wrapper for the Fast Light Toolkit
+python-flufl.bounce (2.1.1-1)
+    email bounce detectors (Python 2)
+python-flufl.enum (3.3.2-1)
+    yet another Python enumeration package (Python 2)
+python-flufl.i18n (1.1.1-1)
+    high level API for Python internationalization (Python 2)
+python-flufl.lock (2.2.1-2)
+    NFS-safe file-based lock with timeouts (Python 2)
+python-flufl.password (1.2.1-1)
+    password hashing and verification (Python 2)
+python-flup (1.0.2-2)
+    Implements Python Web Server Gateway Interface (WSGI)
+python-fmcs (1.0-1)
+    Find Maximum Common Substructure
+python-fontforge (0.0.20120101+git-2)
+    font editor - Python bindings
+python-foolscap (0.6.4-1)
+    object-capability-based RPC system for Twisted Python
+python-forgethtml (0.0.20031008-10)
+    Python module for easy HTML-writing
+python-forgetsql (0.5.1-12)
+    Python module for easy SQL-database access
+python-formalchemy (1.4.2-1)
+    HTML input form fields from your SQLAlchemy mapped classes
+python-formencode (1.2.4-2)
+    validation and form generation Python package
+python-fpconst (0.7.2-5)
+    Utilities for handling IEEE 754 floating point special values
+python-freenect (1:0.1.2+dfsg-6)
+    library for accessing Kinect device -- Python bindings
+python-freevo (1.9.2b2-4.2)
+    home theater framework - Python modules
+python-freshen (0.2-2)
+    acceptance testing framework for Python
+python-fs (0.3.0-2)
+    Python filesystem abstraction
+python-ftdi (0.20-1+b1)
+    Python module to control and program the FTDI USB controller
+python-fudge (1.0.3-3)
+    Python module for using fake objects to test real ones
+python-funcparserlib (0.3.5-2)
+    Recursive descent parsing library based on functional combinators
+python-fuse (2:0.2.1-7)
+    Python bindings for FUSE (Filesystems in USErland)
+python-gadfly (1.0.0-15.1)
+    SQL database and parser generator for Python
+python-galleryremote (0.6-1.1)
+    Python library for accessing Gallery web installations
+python-gamera (3.3.3-2)
+    framework for building document analysis applications
+python-gamera-dev (3.3.3-2)
+    framework for building document analysis applications (header files)
+python-gamera.toolkits.greekocr (1.0.1-4)
+    toolkit for building OCR systems for polytonal Greek
+python-gamera.toolkits.ocr (1.0.6-3)
+    toolkit for building OCR systems
+python-gamin (0.1.10-4.1)
+    Python binding for the gamin client library
+python-gammu (1.31.90-1+b1)
+    Python module to communicate with mobile phones
+python-gaphas (0.7.2-1)
+    diagramming widget
+python-gasp (0.3.4-1)
+    procedural Python graphics library for beginning programmers
+python-gastables (0.3-2)
+    compressible flow gas table modules for Python
+python-gconf (2.28.1+dfsg-1)
+    Python bindings for the GConf configuration database system
+python-gd (0.56+dfsg-3)
+    Python module wrapper for libgd
+python-gdal (1.9.0-3.1)
+    Python bindings to the Geospatial Data Abstraction Library
+python-gdata (2.0.17+dfsg-1)
+    Google Data Python client library
+python-gdbm (2.7.3-1)
+    GNU dbm database support for Python
+python-gdchart2 (0.beta1-3.4+b4 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.beta1-3.4 [armhf, s390x])
+    Python OO interface to GDChart
+python-gdcm (2.2.0-14.1)
+    Grassroots DICOM Python bindings
+python-gearman (2.0.2-2)
+    Python interface to the Gearman system
+python-gearman.libgearman (0.13.2-2.1)
+    Python wrapper of libgearman
+python-genetic (0.1.1b-11)
+    genetic algorithms in Python
+python-genshi (0.6-3)
+    Python XML-based template engine
+python-geoclue (0.1.0-4)
+    Python module to access Geoclue data
+python-geographiclib (1.21-1)
+    Python binding for GeographicLib
+python-geohash (0.8.3-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.8.3-1 [armhf, s390x])
+    fast, accurate Python geohashing library
+python-geoip (1.2.4-2+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.2.4-2 [armhf, s390x])
+    Python bindings for the GeoIP IP-to-country resolver library
+python-geopy (0.94.2-1)
+    geocoding toolbox for Python
+python-germinate (2.10)
+    expand dependencies in seed packages (Python 2 interface)
+python-getfem++ (4.1.1+dfsg1-12~deb7u1)
+    Python interface to the GETFEM++ generic finite element library
+python-gevent (0.13.6-1+nmu3)
+    gevent is a coroutine-based Python networking library
+python-gflags (1.5.1-1)
+    Python implementation of the Google command line flags module
+python-gi (3.2.2-2)
+    Python 2.x bindings for gobject-introspection libraries
+python-gi-cairo (3.2.2-2)
+    Python Cairo bindings for the GObject library
+python-gi-dev (3.2.2-2)
+    development headers for GObject Python bindings
+python-git (0.3.2~RC1-1)
+    Python library to interact with Git repositories
+python-gitdb (0.5.4-1)
+    pure-Python git object database
+python-glade2 (2.24.0-3+b1 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 2.24.0-3 [ia64])
+    GTK+ bindings: Glade support
+python-glance (2012.1.1-5)
+    OpenStack Image Service - Python client library
+python-glitch (0.6-2.1)
+    Python library for OpenGL graphics programming
+python-glpk (0.4.45-1+b1 [amd64], 0.4.45-1 [armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Python bindings to the GNU Linear Programming Kit
+python-gluon (1.99.7-1)
+    High-level Python web development framework
+python-gmenu (3.0.1-4)
+    GNOME implementation of the freedesktop menu specification
+python-gmpy (1.15-1)
+    interfaces GMP to Python for fast, unbound-precision computations
+python-gnatpython (54-3)
+    Python framework to ease development of test suites
+python-gnome2 (2.28.1+dfsg-1)
+    Python bindings for the GNOME desktop environment
+python-gnome2-desktop-dev (2.32.0+dfsg-2)
+    Python bindings for the GNOME desktop environment
+python-gnome2-dev (2.28.1+dfsg-1)
+    Python bindings for the GNOME desktop environment - development files
+python-gnome2-extras-dev (2.25.3-12)
+    Development files for the extra GNOME Python bindings
+python-gnomedesktop (2.32.0+dfsg-2+b1)
+    Python bindings for the GNOME desktop library
+python-gnomekeyring (2.32.0+dfsg-2+b1)
+    Python bindings for the GNOME keyring library
+python-gnucash (1:2.4.10-6)
+    Gnucash interface for Python
+python-gnupg (0.3.6-1~deb7u1)
+    Python wrapper for the Gnu Privacy Guard (Python 2.x)
+python-gnupginterface (0.3.2-9.1)
+    Python interface to GnuPG (GPG)
+python-gnuplot (1.8-1.1)
+    A Python interface to the gnuplot plotting program
+python-gnutls (1.2.4-1)
+    Python wrapper for the GNUTLS library
+python-gobject (3.2.2-2)
+    Python 2.x bindings for GObject - transitional package
+python-gobject-dev (3.2.2-2)
+    Python 2.x development headers for GObject - transitional package
+python-goopy (0.1-5)
+    A small collection of handy routines for functional programming
+python-gpgme (0.2-3)
+    python wrapper for the GPGME library
+python-gpiv (2.0.0-4.1)
+    wrapper of libgpiv
+python-gpod (0.8.2-7)
+    Python bindings for libgpod
+python-gps (3.6-4+deb7u1)
+    Global Positioning System - Python libraries
+python-graphy (1.0+dfsg-3)
+    chart generation library for Python
+python-greenlet (0.3.1-2.5)
+    Lightweight in-process concurrent programming
+python-greenlet-dev (0.3.1-2.5)
+    Lightweight in-process concurrent programming - development files
+python-grib (1.9.3-1)
+    python module for reading and writing GRIB files
+python-gridfs (2.2-4+deb7u1)
+    Python implementation of GridFS for MongoDB
+python-gst0.10 (0.10.22-3)
+    generic media-playing framework (Python bindings)
+python-gst0.10-dev (0.10.22-3)
+    generic media-playing framework (Python bindings)
+python-gst0.10-rtsp (0.10.8-3)
+    GStreamer RTSP server plugin (Python bindings)
+python-gtk-gnash (0.8.11~git20120629-1+deb7u1)
+    GNU Shockwave Flash (SWF) player - Python bindings
+python-gtk-vnc (0.5.0-3.1)
+    VNC viewer widget for GTK+2 (Python binding)
+python-gtk2 (2.24.0-3+b1 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 2.24.0-3 [ia64])
+    Python bindings for the GTK+ widget set
+python-gtk2-dev (2.24.0-3)
+    GTK+ bindings: devel files
+python-gtkglext1 (1.1.0-9.1)
+    GtkGLext python bindings
+python-gtkmvc (1.99.1-1)
+    model-view-controller (MVC) implementation for pygtk
+python-gtksourceview2 (2.10.1-2)
+    Python bindings for the GtkSourceView widget
+python-gtkspell (2.25.3-12)
+    Python bindings for the GtkSpell library
+python-gudev (147.2-3)
+    Python bindings for gudev
+python-guestfs (1:1.18.1-1+deb7u3)
+    guest disk image management system - Python bindings
+python-guidata (1.4.1-2)
+    dataset manipulation GUI generator
+python-guiqwt (2.1.6-4)
+    efficient 2D data-plotting library
+python-gupnp-igd (0.2.1-2)
+    Python binding for the UPnP IGD port mapping library
+python-gvgen (0.9-2)
+    Python class to generate dot files
+python-h5py (2.0.1-2+b2 [mipsel], 2.0.1-2+b1 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, powerpc, s390, s390x, sparc])
+    h5py is a general-purpose Python interface to hdf5
+python-hachoir-core (1.3.3-3)
+    Core of Hachoir framework: parse and edit binary files
+python-hachoir-metadata (1.3.3-1)
+    Program to extract metadata using Hachoir library
+python-hachoir-parser (1.3.4-1)
+    Package of Hachoir parsers used to open binary files
+python-hachoir-regex (1.0.5-1)
+    regular expressions manipulation Python library
+python-hachoir-subfile (0.5.3-2)
+    find subfiles in any binary stream
+python-hachoir-urwid (1.1-2)
+    Binary file explorer using Hachoir and urwid libraries
+python-hachoir-wx (0.3-2)
+    wxWidgets GUI for the hachoir binary parser
+python-hamcrest (1.6-1)
+    Hamcrest framework for matcher objects
+python-hdate (1.6-1)
+    Provides a library that help use hebrew dates (python bindings)
+python-hijra (0.2.1-1) [non-free]
+    Hijri Islamic Calendar converting functions for python
+python-hippocanvas (0.3.1-1.1)
+    Python bindings to hippo-canvas
+python-hivex (1.3.6-2)
+    Python bindings for hivex
+python-hl7 (0.2.2-1)
+    Python library for parsing HL7 messages
+python-html2text (3.200.3-2)
+    Python module for converting HTML to Markdown text
+python-html5lib (0.95-1)
+    HTML parser/tokenizer based on the WHATWG HTML5 specification
+python-htmlgen (2.2.2-12)
+    Python library for the generation of HTML
+python-htmltmpl (1.22-10)
+    Templating engine for separation of code and HTML
+python-http-parser (0.7.5-1)
+    http request/response parser
+python-httplib2 (0.7.4-2+deb7u1)
+    comprehensive HTTP client library written for Python
+python-ibus (1.4.1-9+deb7u1)
+    Intelligent Input Bus - Python support
+python-id3 (1.2-6.2)
+    Python module for id3-tags manipulation
+python-ieee1284 (0.2.11-10)
+    Python bindings to libieee1284
+python-ifeffit (2:1.2.11d-8+b1 [sparc], 2:1.2.11d-8 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x]) [contrib]
+    Python GUI interface and extensions for IFEFFIT
+python-igraph (0.5.4-2)
+    High performance graph data structures and algorithms
+python-imaging (1.1.7-4+deb7u1)
+    Python Imaging Library
+python-imaging-sane (1.1.7-4+deb7u1)
+    Python Imaging Library - SANE interface
+python-imaging-tk (1.1.7-4+deb7u1)
+    Python Imaging Library - ImageTk Module
+python-imdbpy (4.9-1)
+    Python package to access the IMDb's movie database
+python-imobiledevice (1.1.1-4)
+    Library for communicating with iPhone and iPod Touch devices
+python-impacket (0.9.6.0-3)
+    Python module to easily build and dissect network protocols
+python-import-relative (0.1.0-2)
+    relative import of a module for older versions of Python (i.e. pre 2.6)
+python-importlib (1.0.2-2)
+    Backport of importlib.import_module() from Python 2.7
+python-importlib
+    virtual package provided by python
+python-imposm (2.4.0+dfsg-0.1)
+    importer for OpenStreetMap data - Python module
+python-imposm-parser (1.0.3-1)
+    Python module to parse OpenStreetMap data
+python-indicate (0.6.92-1)
+    Python bindings for libindicate
+python-indigo (1.0.0-2)
+    Organic Chemistry Toolkit (python module)
+python-iniparse (0.4-2.1)
+    Module to access and modify configuration data in INI files
+python-initgroups (2.13.0-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 2.13.0-1 [armhf, s390x])
+    Python binding of initgroups
+python-inotifyx (0.2.0-1)
+    simple Python binding to the Linux inotify
+python-input-pad (1.0.1-2)
+    On-screen Input Pad to Send Characters with Mouse - python
+python-insanity (0.0+git20110920.4750a8e8-2)
+    Python library for Insanity, the GStreamer QA system.
+python-instant (1.0.0-1)
+    simple inlining of C / C++ code in Python
+python-iowait (0.1-1.1)
+    Platform-independent module for I/O completion events
+python-ipaddr (2.1.10-1)
+    Python module for working with IP addresses, both IPv4 and IPv6
+python-ipcalc (0.3-1)
+    perform IP subnet calculations
+python-ipdb (0.6.1-1)
+    IPython-based pdb replacement
+python-iplib (1.1-3)
+    Python library to convert amongst many different IPv4 notations
+python-iptcdata (1.0.4-3)
+    Python bindings for the iptcdata library
+python-ipy (1:0.75-1)
+    Python module for handling IPv4 and IPv6 addresses and networks
+python-irclib (0.4.8-1)
+    IRC client library for Python
+python-iso8583 (1.1-1)
+    library for ISO 8583 transactions
+python-iso8601 (0.1.4-2)
+    python module to parse ISO 8601 dates
+python-isodate (0.4.6-1)
+    ISO 8601 date/time/duration parser and formatter (Python module)
+python-jabber (0.5.0-1.4)
+    Python module for the Jabber instant messaging platform
+python-jabberbot (0.15-1)
+    easily write simple Jabber bots
+python-jarabe-0.96 (0.96.1-2.1)
+    Sugar graphical shell - library
+python-jaxml (3.01-6.1)
+    Python module for generating XML documents
+python-jinja2 (2.6-1)
+    small but fast and easy to use stand-alone template engine
+python-joblib (0.6.4-3)
+    tools to provide lightweight pipelining in Python
+python-jpylyzer (1.5.0-2)
+    JP2 (JPEG 2000 Part 1) validator and properties extractor.
+python-jpype (0.5.4.2-2)
+    Binding the worlds of Java and Python
+python-jsonpickle (0.4.0-1)
+    Python library for serializing arbitrary object graphs into JSON
+python-jsonpipe (0.0.8-4)
+    Convert JSON to a UNIX-friendly line-based format
+python-jsonrpc2 (0.3.2-3)
+    Python WSGI Framework for JSON RPC 2.0
+python-jsonschema (0.2-1)
+    An(other) implementation of JSON Schema (Draft 3) for Python
+python-jswebkit (0.0.3-2)
+    WebKit/JavaScriptCore Python bindings
+python-junitxml (0.6-1)
+    PyUnit extension for reporting in JUnit compatible XML
+python-kaa-base (0.6.0+svn4596-1)
+    Base Kaa Framework for all Kaa Modules
+python-kaa-imlib2 (0.2.3+svn4596-2)
+    Imlib2 Wrapper for Python
+python-kaa-metadata (0.7.7+svn4596-4)
+    Media Metadata for Python
+python-kajiki (0.3.5-1)
+    Really fast well-formed xml templates
+python-kde4 (4:4.8.4-1)
+    Python bindings for the KDE Development Platform
+python-kde4-dev (4:4.8.4-1)
+    UIC compiler and SIP files for PyKDE
+python-kerberos (1.1+svn4895-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.1+svn4895-1 [armhf, s390x])
+    A GSSAPI interface module for Python
+python-keybinder (0.2.2-4)
+    registers global key bindings for applications - Python bindings
+python-keyczar (0.6~b.061709+svn502-1)
+    Toolkit for safe and simple cryptography for Python
+python-keyring (0.7.1-1+deb7u1)
+    store and access your passwords safely
+python-keystone (2012.1.1-13+wheezy1)
+    OpenStack identity service - library
+python-keystoneclient (2012.1-3+deb7u1)
+    client library for the OpenStack Keystone API
+python-kid (0.9.6-2)
+    simple Pythonic template language for XML based vocabularies
+python-kinterbasdb (3.3.0-3)
+    Python DB API 2.0 extension for Firebird and Interbase
+python-kiwi (1.9.22-2)
+    a graphical framework to construct simple UI
+python-kjbuckets (1:1.0.0-15.1)
+    Set and graph data types for Python
+python-kml (1.3.0~r863-4.1)
+    A library to manipulate KML 2.2 OGC standard files - Python extension
+python-kombu (2.1.8-1)
+    AMQP Messaging Framework for Python
+python-krbv (1.0.90-1)
+    Python extension module for Kerberos 5
+python-ktoblzcheck (1.39-1)
+    library for verification of account numbers and bank codes (Python bindings)
+python-kwwidgets (1.0.0~cvs20100930-8)
+    Cross-Platform GUI Toolkit - Python
+python-kzorp (3.9.5-4)
+    Python bindings for kzorp.
+python-laditools (1.0.1-2)
+    Python module to control and monitor the LADI system
+python-lamson (1.0pre11-1)
+    A pure Python SMTP server
+python-landslide (1.0.1-1)
+    Lightweight markup language-based html5 slideshow generator
+python-larch (1.20121006-1)
+    B-tree library for Python
+python-lasso (2.3.6-2)
+    Library for Liberty Alliance and SAML protocols - Python bindings
+python-launchpadlib (1.9.12-2)
+    Launchpad web services client library
+python-lazr.restfulclient (0.12.0-2+deb7u1)
+    client for lazr.restful-based web services
+python-lazr.uri (1.0.3-1)
+    library for parsing, manipulating, and generating URIs
+python-lazyarray (0.1.0-1)
+    Python module providing a NumPy-compatible lazily-evaluated array
+python-ldap (2.4.10-1)
+    LDAP interface module for Python
+python-ldaptor (0.0.43+debian1-7)
+    pure-Python library for LDAP operations
+python-ldb (1:1.1.6-1)
+    Python bindings for LDB
+python-ldns (1.6.13-1+deb7u1)
+    Python bindings for the ldns library for DNS programming
+python-ldtp (2.3.1-1)
+    Python bindings for LDTP
+python-lepl (5.1.1-1)
+    recursive descent parser library
+python-leveldb (0~svn51-1)
+    Python wrapper for LevelDB (Python 2)
+python-levenshtein (0.10.1-2)
+    extension for computing string similarities and edit distances
+python-lfc (1.8.2-1+b2)
+    LCG File Catalog (LFC) python bindings
+python-lhapdf (5.8.7+repack-1)
+    Python Bindings for LHAPDF
+python-libapparmor (2.7.103-4)
+    AppArmor library Python bindings
+python-libavg (1.7.1-1)
+    High-level development platform for media-centric applications
+python-libcloud (0.5.0-1.1)
+    unified Python interface into the cloud
+python-libconcord (0.24-1.1)
+    Harmony remote configuration tool - Python bindings
+python-libhamlib2 (1.2.15.1-1)
+    Run-time library to control radio transceivers and receivers
+python-libipa-hbac (1.8.4-2)
+    Python bindings for the FreeIPA HBAC Evaluator library
+python-liblarch (0.1.0-1)
+    easily handle data structures
+python-liblarch-gtk (0.1.0-1)
+    easily handle data structures - Treeview support
+python-liblas (1.2.1-2)
+    A Python module to use the ASPRS LiDAR data translation library
+python-liblcms (1.19.dfsg-1.2)
+    Python bindings for Little CMS color management library
+python-liblicense (0.8.1-3)
+    This package contains Python bindings to analyze license info
+python-liblinear (1.8+dfsg-1)
+    Python bindings for LIBLINEAR
+python-liblo (0.9.1-2+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.9.1-2 [armhf, s390x])
+    Python bindings for liblo, the lightweight OSC library
+python-libmimic (1.0.4-2.1)
+    A video codec for Mimic V2.x content (python bindings)
+python-libpcap (0.6.2-0.2)
+    python libpcap wrapper
+python-libproxy (0.3.1-6)
+    automatic proxy configuration management library (python)
+python-libravatar (1.5-3)
+    Libravatar module for Python
+python-librdf (1.0.14.1-1)
+    Python language bindings for the Redland RDF library
+python-libssh2 (1.0.0-1.1)
+    Python binding for libssh2 library
+python-libsvm (3.12-1)
+    Python interface for support vector machine library
+python-libtorrent (0.15.10-1+b1)
+    Python bindings for libtorrent-rasterbar
+python-libvirt (0.9.12.3-1+deb7u1)
+    libvirt Python bindings
+python-libvoikko (3.5-1.1)
+    Python bindings for libvoikko
+python-libxml2 (2.8.0+dfsg1-7+wheezy3) [security]
+    Python bindings for the GNOME XML library
+python-libxslt1 (1.1.26-14.1)
+    Python bindings for libxslt1
+python-lightblue (0.3.2-1+b3 [amd64, armel, i386, ia64, mips, mipsel, powerpc, s390, sparc], 0.3.2-1 [armhf, s390x])
+    cross-platform Bluetooth API for Python
+python-lilv (0.14.2~dfsg0-4)
+    library for simple use of LV2 plugins (Python bindings)
+python-linaro-image-tools (2012.06-1)
+    Python library for the manipulation of Linaro bootable media
+python-llfuse (0.37.1-2)
+    Python bindings for the low-level FUSE API
+python-llvm (0.6+svn105-2)
+    Python bindings for LLVM
+python-lockfile (1:0.8-2)
+    file locking library for Python
+python-loggingx (0.1.3-1.1)
+    Generic utilities for the Python logging facility.
+python-logilab-astng (0.23.1-1)
+    rebuild a new abstract syntax tree (AST) from Python's ast
+python-logilab-common (0.58.0-1)
+    useful miscellaneous modules used by Logilab projects
+python-logilab-constraint (0.4.0-5)
+    constraints satisfaction solver in Python
+python-logsparser (0.4-1)
+    Python library for log parsing, tagging and analysis.
+python-louie (1.1-1.1)
+    Python signal dispatching mechanism
+python-louis (2.4.1-1)
+    Python bindings for liblouis
+python-lucene (3.5.0-1.1)
+    Python extension for accessing Java Lucene
+python-lunar (2.0.1-2.2)
+    Python bindings for the Chinese Lunar library
+python-lunch (0.4.0-1)
+    distributed process launcher
+python-lxml (2.3.2-1+deb7u1)
+    pythonic binding for the libxml2 and libxslt libraries
+python-lzma (0.5.3-2+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.5.3-2 [armhf, s390x])
+    Python bindings for liblzma
+python-lzo (1.08-1)
+    Python bindings for the LZO data compression library
+python-m2crypto (0.21.1-2)
+    a crypto and SSL toolkit for Python
+python-macaron (0.3.1-1)
+    simple ORM for Python, SQLite3 and Bottle web framework
+python-magic (5.11-2+deb7u8) [security]
+    File type determination library using "magic" numbers (Python bindings)
+python-magic-dbg (5.11-2+deb7u8) [security]
+    File type determination library using "magic" numbers (Python bindings/debug)
+python-mailer (0.7-1)
+    Python module that simplifies sending email
+python-mailutils (1:2.99.97-3)
+    GNU Mail abstraction library (Python interface)
+python-mako (0.7.0-1.1)
+    fast and lightweight templating for the Python platform
+python-mapnik2 (2.0.0+ds1-3+b4 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 2.0.0+ds1-3+b3 [armhf, s390x])
+    C++/Python toolkit for developing GIS applications (Python)
+python-mapscript (6.0.1-3.2+deb7u2)
+    Python library for MapServer
+python-markdown (2.1.1-3)
+    text-to-HTML conversion library/tool (implemented in Python 2)
+python-markupsafe (0.15-1)
+    XML/HTML/XHTML Markup safe string for Python
+python-mathgl (1.11.2-17)
+    library for scientific graphs. (Python module)
+python-matplotlib (1.1.1~rc2-1)
+    Python based plotting system in a style similar to Matlab
+python-matplotlib-data (1.1.1~rc2-1)
+    Python based plotting system (data package)
+python-mdp (3.3-1)
+    Modular toolkit for Data Processing
+python-mecab (0.99.3-1)
+    mecab binding for Python
+python-mecavideo (6.0-5)
+    pedagogic tool to analyze video records for mechanics
+python-mechanize (1:0.2.5-3)
+    stateful programmatic web browsing
+python-medusa (1:0.5.4-7)
+    Framework for implementing asynchronous servers
+python-melange (1:2012.1-3)
+    IPAM management service for Openstack - Python library
+python-melangeclient (0.1-1.2)
+    client API library for Melange
+python-meld3 (0.6.5-3.1)
+    An HTML/XML templating system for Python
+python-meliae (0.4.0-1)
+    Memory analysis tool for Python
+python-memcache (1.48-1)
+    pure python memcached client
+python-messaging (0.5.11+debian-1)
+    SMS/MMS encoder/decoder
+python-metaconfig (0.1.4a1-1)
+    Python ConfigParser bootstraping library
+python-mhash (1.4-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.4-1 [armhf, s390x])
+    Python bindings for libmhash
+python-mididings (0~20120419~ds0-1)
+    MIDI routing library for Python
+python-midiutil (0.87-2)
+    Python library to write multi-track MIDI files
+python-migrate (0.7.2-3)
+    Database schema migration for SQLAlchemy
+python-milter (0.9.5-3)
+    Python extension for Sendmail Milter Protocol
+python-mimeparse (0.1.3-6)
+    Parse mime-types and quality parameters
+python-ming (1:0.4.4-1.1)
+    Ming (SWF) module for Python
+python-minimal (2.7.3-4+deb7u1)
+    minimal subset of the Python language (default version)
+python-minimock (1.2.7-1)
+    simple library for Python mock objects
+python-mlpy (2.2.0~dfsg1-2)
+    high-performance Python package for predictive modeling
+python-mlpy-lib (2.2.0~dfsg1-2+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 2.2.0~dfsg1-2 [armhf, s390x])
+    low-level implementations and bindings for mlpy
+python-mlt5 (0.8.0-4)
+    multimedia framework (python bindings)
+python-mmkeys (1.6.2.1-5)
+    Multimedia key support as a PyGTK object
+python-mock (0.8.0-3)
+    Mocking and Testing Library
+python-mocker (1.0-2)
+    Mocker object mocking framework
+python-mod-pywebsocket (0.7.5-1)
+    WebSocket extension for Apache HTTP Server
+python-mode (1:5.1.0-1)
+    Python mode for GNU Emacs and XEmacs
+python-modestmaps (1.3.1-1)
+    display and interaction library for tile-based maps
+python-moinmoin (1.9.4-8+deb7u2)
+    Python clone of WikiWiki - library
+python-monajat (2.6.3-1)
+    Islamic supplications backend
+python-mongoengine (0.6.13-2)
+    Python Document-Object Mapper for working with MongoDB
+python-moovida (1.0.9+bzr1614-1.1)
+    Python library for the Moovida media center application
+python-mosquitto (0.15-2)
+    MQTT version 3.1 client library, python bindings
+python-mox (0.5.3-3)
+    mock object framework for Python
+python-mpd (0.3.0-4)
+    Python MPD client library
+python-mpdclient (0.11.1-2)
+    Python interface to MPD
+python-mpi (2.8-4)
+    MPI module for Python
+python-mpi4py (1.3+hg20120611-3)
+    bindings of the Message Passing Interface (MPI) standard
+python-mpikmeans (1.5-1+b1)
+    Python bindings for MPIKmeans
+python-mpltoolkits.basemap (1.0.3+dfsg-2)
+    matplotlib toolkit to plot on map projections
+python-mpltoolkits.basemap-data (1.0.3+dfsg-2)
+    matplotlib toolkit to plot on map projections (data package)
+python-mpmath (0.17-1)
+    library for arbitrary-precision floating-point arithmetic
+python-mrjob (0.3.3.2-1)
+    MapReduce framework for writing and running Hadoop Streaming jobs
+python-msnlib (3.8-1)
+    Python implementation for the MSN messenger protocol.
+python-mtbl (0.1-2)
+    immutable sorted string table library (Python bindings)
+python-multipartposthandler (0.1.0-2)
+    handler for urllib2 to enable multipart form uploading
+python-munkres (1.0.5.4-2)
+    munkres algorithm for the Assignment Problem - Python library
+python-musicbrainz2 (0.7.4-1)
+    interface to the MusicBrainz XML web service
+python-musicbrainzngs (0.2-1)
+    Python bindings for the Musicbrainz NGS webservice interface
+python-mutagen (1.20-1)
+    audio metadata editing library
+python-mvpa (0.4.8-1)
+    multivariate pattern analysis with Python
+python-mvpa-lib (0.4.8-1)
+    low-level implementations and bindings for PyMVPA
+python-mvpa2 (2.1.0-1)
+    multivariate pattern analysis with Python v. 2
+python-mvpa2-lib (2.1.0-1)
+    low-level implementations and bindings for PyMVPA v. 2
+python-mygpoclient (1.4-1)
+    Client library for the my.gpodder.org web service
+python-mysql.connector (0.3.2-1)
+    pure Python implementation of MySQL Client/Server protocol
+python-mysqldb (1.2.3-2+b1 [s390x], 1.2.3-2 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc])
+    Python interface to MySQL
+python-nautilus (1.1-3)
+    Python binding for Nautilus components
+python-ncap (1.9.2-1+b2 [amd64, armel, i386, ia64, mips, mipsel, powerpc, s390, sparc], 1.9.2-1 [armhf, s390x])
+    Python bindings for libncap
+python-necpp (1.5.0+cvs20101003-2.1)
+    Python module for using NEC2++
+python-neo (0.2.0-1)
+    Python IO library for electrophysiological data formats
+python-netaddr (0.7.7-1)
+    manipulation of various common network address notations (Python 2)
+python-netcdf (2.8-4)
+    netCDF interface for Python
+python-netfilter (0.5.7-1)
+    Python modules for manipulating netfilter rules
+python-netifaces (0.8-1)
+    portable network interface information for Python
+python-netio230a (1.0.1-3)
+    Python class to access the Koukaam NETIO-230A
+python-networkx (1.7~rc1-3)
+    tool to create, manipulate and study complex networks
+python-neuroshare (0.8.5-1)
+    Python interface and tools for Neuroshare
+python-nevow (0.10.0-4)
+    Web application templating system for Python and Twisted
+python-newt (0.52.14-11.1)
+    NEWT module for Python
+python-nflog (0.2-3)
+    Python bindings for nflog
+python-nfqueue (0.4-3)
+    Python bindings for nfqueue
+python-nibabel (1.2.2-1)
+    Python bindings to various neuroimaging data formats
+python-nids (0.6.1-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.6.1-1 [armhf, s390x])
+    Python binding for libnids (aka pynids)
+python-nifti (0.20100607.1-4)
+    Python interface to the NIfTI I/O libraries
+python-nipype (0.5.3-2wheezy2)
+    Neuroimaging data analysis pipelines in Python
+python-nitime (0.4-2)
+    timeseries analysis for neuroscience data (nitime)
+python-nmap (0.2.4-1)
+    Python interface to the Nmap port scanner
+python-nodebox-web (1.9.4.6-2)
+    collection of web-related Python modules
+python-nose (1.1.2-3)
+    test discovery and running of Python's unittest
+python-nosexcover (1.0.7-1)
+    Add Cobertura-style XML coverage report to nose
+python-notify (0.1.1-3)
+    Python bindings for libnotify
+python-notify2 (0.3-2)
+    desktop notifications API for Python
+python-notmuch (0.13.2-1)
+    python interface to the notmuch mail search and index library
+python-nova (2012.1.1-18)
+    OpenStack Compute - libraries
+python-novaclient (1:2012.1-4)
+    client library for OpenStack Compute API
+python-novnc (2012.1~e3+dfsg+1-4)
+    HTML5 VNC client - libraries
+python-nss (0.12-1)
+    Python bindings for Network Security Services (NSS)
+python-numexpr (2.0.1-3)
+    Fast numerical array expression evaluator for Python and NumPy
+python-numm (0.4-1)
+    numeric arts for Python
+python-numpy (1:1.6.2-1.2)
+    Numerical Python adds a fast array facility to the Python language
+python-nut (2.6.4-2.3+deb7u1)
+    network UPS tools - Python bindings for NUT server
+python-nwdiag (0.7.0-1)
+    generate network-diagram image file from spec-text file
+python-nwsclient (1.6.4-8)
+    NetWorkSpaces client for distributed Python applications
+python-nwsserver (2.0.0-2)
+    NetWorkSpaces server for distributed applications
+python-nxt (2.2.2-1)
+    python driver/interface/wrapper for the Lego Mindstorms NXT robot
+python-nxt-filer (2.2.2-1)
+    simple GUI to manage files on a LEGO Mindstorms NXT
+python-oauth (1.0.1-3)
+    Python library implementing of the OAuth protocol
+python-oauth2 (1.5.211-2)
+    Library for OAuth version 1.0a (forked from python-oauth)
+python-oauthlib (0.1.2-1)
+    generic, spec-compliant implementation of OAuth for Python
+python-obexftp (0.23-1.1)
+    Python binding to the object exchange file transfer library
+python-objgraph (1.7.1-1)
+    Module for exploring Python object reference graphs
+python-ogg (1.3+repack-5+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.3+repack-5 [armhf, s390x])
+    Python interface to the Ogg library
+python-okasha (0.2.4-1) [non-free]
+    trivial WSGI web framework for Python
+python-okasha-examples (0.2.4-1) [non-free]
+    trivial WSGI web framework for Python (examples)
+python-old-doctools (2.5.5-2.1)
+    Python latex based documentation tools (rescued from python2.5)
+python-omniorb (3.6-1)
+    Python bindings for omniORB
+python-omniorb-omg (3.6-1)
+    CORBA OMG standard files for python-omniorb
+python-ooolib (0.0.17-2.1)
+    Python module for creating OpenDocument documents (sp.sheet/text)
+python-openbabel (2.3.1+dfsg-4)
+    Chemical toolbox library (python bindings)
+python-opencv (2.3.1-11)
+    Python bindings for the computer vision library
+python-opengl (3.0.1-1)
+    Python bindings to OpenGL
+python-openid (2.2.5-3)
+    OpenID support for servers and consumers
+python-openmeeg (2.0.0.dfsg-5)
+    openmeeg library -- Python bindings
+python-openoffice (1:0.1+20110209-3)
+    Python libraries for interacting with OpenOffice.org/LibreOffice
+python-openopt (0.38+svn1589-1)
+    Python module for numerical optimization
+python-openpyxl (1.5.8-1)
+    module to read/write OpenXML xlsx/xlsm files
+python-openscap (0.8.0-4+b1)
+    Set of libraries enabling integration of the SCAP line of standards
+python-openssl (0.13-2+deb7u1)
+    Python 2 wrapper around the OpenSSL library
+python-openstack-common (0.1+git20120203-1)
+    Common code for Openstack Projects.
+python-openturns (1.0-4)
+    Python front-end of OpenTURNS (aka TUI)
+python-openturns-dev (1.0-4)
+    Python front-end of OpenTURNS (aka TUI)
+python-openvswitch (1.4.2+git20120612-9.1~deb7u1)
+    Python bindings for Open vSwitch
+python-opster (3.7-1)
+    python command line parsing speedster
+python-optcomplete (1.2-11.1)
+    provide bash-completion for Python programs
+python-osd (0.2.14-5.1)
+    Transitional dummy package
+python-osmgpsmap (0.7.3-3)
+    GTK+ library to embed OpenStreetMap maps - Python bindings
+python-othman (0.2.7-1) [non-free]
+    library providing access to Quranic text with a fast search index
+python-otr (0.2.1-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.2.1-1 [armhf, s390x])
+    Python bindings for OTR encryption
+python-ow (2.8p15-1)
+    Dallas 1-wire support: Python bindings
+python-ownet (2.8p15-1)
+    Python module for accessing 1-wire networks
+python-packagekit (0.7.6-3)
+    PackageKit backend Python bindings
+python-packagekit-gtk (3.4.2-2)
+    Python GTK+ widgets for PackageKit clients
+python-pacparser (1.3.0-2)
+    Python module to parse proxy auto-config files
+python-pam (0.4.2-13)
+    Python interface to the PAM library
+python-pandas (0.8.0-2)
+    data structures for "relational" or "labeled" data
+python-pandas-lib (0.8.0-2)
+    low-level implementations and bindings for pandas
+python-parallel (0.2-7)
+    pyparallel - module encapsulating access for the parallel port
+python-paramiko (1.7.7.1-3.1)
+    Make ssh v2 connections with Python
+python-parsedatetime (0.8.7-3)
+    Python module to parse human-readable date/time expressions
+python-parted (3.6-6)
+    Python interface for libparted
+python-passfd (0.2-1)
+    Python functions to pass file descriptors across UNIX domain
+python-passlib (1.5.3-2)
+    comprehensive password hashing framework
+python-paste (1.7.5.1-4.1)
+    tools for using a Web Server Gateway Interface stack
+python-pastedeploy (1.5.0-3)
+    load, configure, and compose WSGI applications and servers
+python-pastescript (1.7.5-2)
+    serving web applications, creating file layouts for Python packages
+python-pastewebkit (1.0-7)
+    port/reimplementation of Webware WebKit in WSGI and Paste
+python-pbs (0.95-1)
+    Python 2 module for executing shell commands as functions
+python-pcapy (0.10.8-1)
+    Python interface to the libpcap packet capture library
+python-pdfminer (20110515+dfsg-1)
+    PDF parser and analyser
+python-pdfrw (0+svn136-3)
+    PDF file manipulation library
+python-pdftools (0.37-3)
+    PDF document reading classes
+python-peak.rules (0.5a1+r2707-1)
+    generic functions support for Python
+python-peak.util (20110909-1)
+    utilities from the Python Enterprise Application Kit
+python-peak.util.decorators (1.8-2)
+    version-agnostic decorators support for Python
+python-pebl (1.0.2-2)
+    Python Environment for Bayesian Learning
+python-pefile (1.2.9.1-1)
+    Portable Executable (PE) parsing module for Python
+python-pesto (25-1)
+    Library for Python web applications
+python-pexpect (2.4-1)
+    Python module for automating interactive applications
+python-pgm (0.3.12-2+b4 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.3.12-2 [armhf, s390x])
+    User interfaces with embedded multimedia - Python bindings
+python-pgmagick (0.5.1-1+b1)
+    Yet Another Python wrapper for GraphicsMagick
+python-phoneutils (0.1+git20100219-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.1+git20100219-1 [armhf, s390x])
+    python bindings for libphone-utils
+python-pika (0.9.5-1)
+    AMQP client library
+python-pip (1.1-3)
+    alternative Python package installer
+python-pipeline (0.1.3-3)
+    iterator pipelines for Python
+python-pisa (3.0.32-1)
+    PDF generator using HTML and CSS (Python module)
+python-pisock (0.12.5-5)
+    Python module to communicate with PalmOS PDA
+python-pivy (0.5.0~v609hg-1)
+    Coin binding for Python
+python-pkg-resources (0.6.24-1)
+    Package Discovery and Resource Access using pkg_resources
+python-playerc (3.0.2+dfsg-4+b1)
+    Networked server for robots and sensors - Python wrapper
+python-plist (1.8-1)
+    Library for handling Apple binary and XML property lists
+python-plplot (5.9.9-5)
+    Python support for PLplot, a plotting library
+python-plplot-qt (5.9.9-5)
+    Scientific plotting library (python qt GUI)
+python-ply (3.4-3)
+    Lex and Yacc implementation for Python2
+python-pmw (1.3.2-6)
+    Pmw -- Python MegaWidgets
+python-polib (1.0.0-2)
+    Python library to parse and manage gettext catalogs
+python-polybori (0.5~rc1-2.2)
+    Polynomials over Boolean Rings, Python module
+python-popcon (1.1)
+    Python interface to Debian's Popularity Contest (popcon)
+python-poppler (0.12.1-8+b1)
+    Poppler Python bindings
+python-poppler-qt4 (0.16.2-2)
+    Python binding to Poppler Qt4 C++ library
+python-poster (0.8.1-0.1)
+    Python support for HTTP multipart PUT/POST
+python-pp (1.6.2-2)
+    parallel and distributed programming toolkit for Python
+python-pqueue (0.2-7.1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.2-7.1 [armhf, s390x])
+    a priority queue extension for Python
+python-prctl (1.1.1-1.1)
+    Python interface to the prctl() syscall
+python-prelude (1.0.0-9)
+    Security Information Management System [ Base library ]
+python-preludedb (1.0.0-1.1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.0.0-1.1+b1 [armhf, s390x])
+    Security Information Management System [ Base library ]
+python-presage (0.8.8-1)
+    intelligent predictive text entry platform (Python binding)
+python-prettytable (0.6.1-1)
+    library to represent tabular data in visually appealing ASCII tables
+python-progressbar (2.2-2)
+    text progressbar library for Python
+python-protobuf (2.4.1-3)
+    Python bindings for protocol buffers
+python-protobuf.socketrpc (1.3.2-2)
+    Python socket RPC for Google protocol buffers
+python-protocols (1.0a.svn20070625-5+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.0a.svn20070625-5 [armhf, s390x])
+    Open Protocols and Component Adaptation for Python
+python-prowlpy (0+20100211.92df046-1)
+    Python support for Apple Push Notifications via Prowl
+python-psutil (0.5.1-1)
+    module providing convenience functions for managing processes
+python-psycopg2 (2.4.5-1)
+    Python module for PostgreSQL
+python-ptrace (0.6.4-2)
+    Python bindings for ptrace
+python-pudb (2012.1-1)
+    full-screen, console-based Python debugger
+python-py (1.4.8-1)
+    Advanced Python development support library
+python-py++ (1.0.0-1)
+    OO-framework for creating a code generator for Boost.Python
+python-pyalsa (1.0.25-1)
+    Official ALSA Python binding library
+python-pyamf (0.6.1+dfsg-3)
+    Action Message Format support for Python
+python-pyao (0.82-5)
+    Python interface to the Audio Output library
+python-pyasn1 (0.1.3-1)
+    ASN.1 library for Python
+python-pyassimp (3.0~dfsg-1)
+    3D model import library (Python bindings)
+python-pyatspi (2.5.3+dfsg-3)
+    Assistive Technology Service Provider Interface - Python bindings
+python-pyatspi2 (2.5.3+dfsg-3)
+    Transitional package for assistive technology Python bindings
+python-pyaudio (0.2.4-2+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.2.4-2 [armhf, s390x])
+    Python bindings for PortAudio v19
+python-pybiggles (1.6.6-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.6.6-1 [armhf, s390x])
+    Scientific plotting package for Python
+python-pycalendar (2.0~svn188-1)
+    iCalendar/vCard Library
+python-pycallgraph (0.5.1-3)
+    Python library that creates call graphs for Python programs
+python-pycha (0.6.0-3)
+    chart-drawing library using Cairo
+python-pychart (1.39-7)
+    Python library for creating high quality charts
+python-pyclamav (0.4.1-7)
+    Python bindings to ClamAV
+python-pyclamd (0.2.2-1)
+    Python interface to the ClamAV daemon
+python-pycountry (0.14.1+ds1-3)
+    ISO databases accessible from Python
+python-pycparser (2.07+dfsg-1)
+    C parser in Python
+python-pycryptopp (0.5.29-1)
+    Python wrappers for the Crypto++ library
+python-pycuda (2012.1-1) [contrib]
+    Python module to access Nvidia‘s CUDA parallel computation API
+python-pycuda-headers (2012.1-1) [contrib]
+    headers for Python module to access Nvidia‘s CUDA parallel computation API
+python-pycurl (7.19.0-5)
+    Python bindings to libcurl
+python-pydds (2.1.2+ddd105-1)
+    bridge double dummy solver - Python extension
+python-pydhcplib (0.6.2-3)
+    Python DHCP client/server library
+python-pydirector (1.0.0-2)
+    pure Python TCP load balancer
+python-pydoctor (0.3+bzr567-1)
+    Python API document generator
+python-pydot (1.0.2-1)
+    Python interface to Graphviz's dot
+python-pyds9 (1.4-1)
+    Communication with the ds9 image display program
+python-pyentropy (0.4.1-1)
+    Python module for estimation information theoretic quantities
+python-pyepl (1.1.0-3.1)
+    module for coding psychology experiments in Python
+python-pyepl-common (1.1.0-3.1)
+    module for coding psychology experiments in Python
+python-pyevolve (0.6~rc1+svn398+dfsg-2)
+    Complete genetic algorithm framework
+python-pyexiv2 (0.3.2-5)
+    Python binding to Exiv2
+python-pyface (4.1.0-1)
+    traits-capable windowing framework
+python-pyfann (2.1.0~beta~dfsg-8)
+    Python bindings for FANN
+python-pyfiglet (0.6+dfsg-1)
+    Python port of the FIGlet specification
+python-pyfits (1:3.0.8-2)
+    Python module for reading, writing, and manipulating FITS files
+python-pyfribidi (0.11.0+repack-1)
+    FriBidi Python bindings
+python-pyftpdlib (0.7.0-1)
+    Python FTP server library
+python-pygame (1.9.1release+dfsg-8)
+    SDL bindings for games development in Python
+python-pygccxml (1.0.0-4)
+    specialized XML reader reads the output from gccxml
+python-pygetdata (0.7.3-6)
+    library to read/write dirfile data - python bindings
+python-pyglet (1.1.4.dfsg-2)
+    cross-platform windowing and multimedia library
+python-pygments (1.5+dfsg-1)
+    syntax highlighting package written in Python
+python-pygoocanvas (0.14.1-1+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.14.1-1 [armhf, s390x])
+    GooCanvas Python bindings
+python-pygooglechart (0.3.0-1)
+    complete wrapper for the Google Chart API
+python-pygrace (0.4p2-3)
+    Python bindings for grace
+python-pygraph (1.8.1-1)
+    library for working with graphs in Python
+python-pygraphviz (1.1-2)
+    Python interface to the Graphviz graph layout and visualization package
+python-pygresql (1:4.0-3)
+    PostgreSQL module for Python
+python-pyhsm (1.0.4-1)
+    Python code for talking to a Yubico YubiHSM hardware
+python-pyicu (1.4-1)
+    Python extension wrapping the ICU C++ API
+python-pyinotify (0.9.3-1.1)
+    simple Linux inotify Python bindings
+python-pyip (0.7-1)
+    Python modules for raw ip packet assembling/disassembling
+python-pyisomd5sum (1:1.0.7+git.20110618.6c9cd2f-1)
+    ISO9660 checksum Python module
+python-pyjavaproperties (0.6-1)
+    Python implementation of java.util.Properties
+python-pykcs11 (1.2.4-1)
+    PKCS#11 wrapper for Python
+python-pyke (1.1.1-3)
+    Prolog-inspired Python logic programming toolkit
+python-pykickstart (1.83-1)
+    Python library for manipulating kickstart files
+python-pylast (0.5.11-1)
+    Python interface to Last.fm and other compatible services
+python-pylibacl (0.5.1-1.1)
+    module for manipulating POSIX.1e ACLs
+python-pylibmc (1.2.2-1+b2)
+    libmemcached wrapper
+python-pylirc (0.0.5-3)
+    Python bindings for Linux Infra-red Remote Control (LIRC) support
+python-pymad (0.6-1.2+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.6-1.2 [armhf, s390x])
+    Python wrapper to the MPEG Audio Decoder library
+python-pyme (1:0.8.1-2)
+    Python interface to the GPGME GnuPG encryption library
+python-pymetar (0.19-1)
+    Python interface to METAR reports
+python-pymodbus (0.9.0+r175-3)
+    full Modbus protocol implementation
+python-pymongo (2.2-4+deb7u1)
+    Python interface to the MongoDB document-oriented database
+python-pymongo-ext (2.2-4+deb7u1)
+    C-coded extension to the python-pymongo package
+python-pymssql (1.0.2+dfsg-1+b4 [armel, ia64], 1.0.2+dfsg-1+b3 [amd64, kfreebsd-amd64, kfreebsd-i386], 1.0.2+dfsg-1+b2 [i386, mips, mipsel, powerpc, s390, sparc], 1.0.2+dfsg-1 [armhf, s390x])
+    Python database access for MS SQL server and Sybase
+python-pymtp (0.0.4-4)
+    Pythonic binding to LibMTP to interact with MTP devices
+python-pynetsnmp (0.28.14-1.2)
+    Python ctypes bindings for NET-SNMP with Twisted integration
+python-pynn (0.7.4-1)
+    simulator-independent specification of neuronal network models
+python-pyo (0.6.1-1)
+    Python module written in C to help digital signal processing script creation
+python-pyodbc (2.1.7-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 2.1.7-1 [armhf, s390x])
+    Python module for ODBC database access
+python-pyode (1.2.0-4+cvs20090320+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.2.0-4+cvs20090320 [armhf, s390x])
+    Python bindings for The Open Dynamics Engine
+python-pyopencl (2012.1.dfsg-1) [contrib]
+    Python module to access OpenCL parallel computation API
+python-pyopencl-headers (2012.1.dfsg-1) [contrib]
+    headers for Python module to access OpenCL parallel computation API
+python-pyoptical (0.3-1)
+    python interface to the CRS 'OptiCAL' photometer
+python-pyorbit (2.24.0-6+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 2.24.0-6 [armhf, s390x])
+    A Python language binding for the ORBit2 CORBA implementation
+python-pyorbit-dev (2.24.0-6)
+    PyORBit: development files
+python-pyorbit-omg (2.24.0-6)
+    PyORBit - Python CORBA OMG standard files
+python-pyosd (0.2.14-5.1)
+    Python bindings for X On-Screen Display library
+python-pyparsing (1.5.6+dfsg1-2)
+    Python parsing module
+python-pypdf (1.13-1)
+    PDF toolkit implemented solely in Python
+python-pypm (0.0.7-7)
+    Python interface to libportmidi
+python-pyproj (1.8.9-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.8.9-1 [armhf, s390x])
+    Python interface to PROJ.4 library
+python-pypsignifit (3.0~beta.20120611.1-1)
+    psychometric analysis of psychophysics data in Python
+python-pypureomapi (0.2-1)
+    ISC DHCP OMAPI protocol implementation in Python
+python-pyquery (1.2.1-1)
+    jQuery-like library for python
+python-pyrad (1.2-1+deb7u2)
+    Python module for creating and decoding RADIUS packets
+python-pyramid (1.2.3+dfsg-1)
+    Pyramid web application framework, a Pylons project
+python-pyramid-beaker (0.6.1+ds1-1)
+    Beaker sessioning bindings for Pyramid
+python-pyramid-tm (0.4-1)
+    Transaction management for the Pyramid web framework
+python-pyramid-zcml (0.9.2-1)
+    Declarative configuration for the Pyramid web framework
+python-pyrex (0.9.8.5-2)
+    compile native-code modules for Python from Python-like syntax
+python-pyrrd (0.1.0-1)
+    object-oriented Python interface for RRD
+python-pyrss2gen (1.0.0-9)
+    interface for generating RSS 2.0 feeds
+python-pyscard (1.6.12.1-3)
+    Python wrapper above PC/SC API
+python-pyscript (0.6.1-3)
+    Python module for producing postscript graphics
+python-pysearch (3.1-1.1)
+    transitional dummy package
+python-pyshp (1.1.4-1)
+    read/write support for ESRI Shapefile format
+python-pyside (1.1.1-3)
+    Python bindings for Qt4 (big metapackage)
+python-pyside.phonon (1.1.1-3)
+    Qt 4 Phonon module - Python bindings
+python-pyside.qtcore (1.1.1-3)
+    Qt 4 core module - Python bindings
+python-pyside.qtdeclarative (1.1.1-3)
+    Qt 4 Declarative module - Python bindings
+python-pyside.qtgui (1.1.1-3)
+    Qt 4 GUI module - Python bindings
+python-pyside.qthelp (1.1.1-3)
+    Qt 4 help module - Python bindings
+python-pyside.qtnetwork (1.1.1-3)
+    Qt 4 network module - Python bindings
+python-pyside.qtopengl (1.1.1-3)
+    Qt 4 OpenGL module - Python bindings
+python-pyside.qtscript (1.1.1-3)
+    Qt 4 script module - Python bindings
+python-pyside.qtsql (1.1.1-3)
+    Qt 4 SQL module - Python bindings
+python-pyside.qtsvg (1.1.1-3)
+    Qt 4 SVG module - Python bindings
+python-pyside.qttest (1.1.1-3)
+    Qt 4 test module - Python bindings
+python-pyside.qtuitools (1.1.1-3)
+    Qt 4 UI tools module - Python bindings
+python-pyside.qtwebkit (1.1.1-3)
+    Qt 4 WebKit module - Python bindings
+python-pyside.qtxml (1.1.1-3)
+    Qt 4 XML module - Python bindings
+python-pysnmp4 (4.2.2-1)
+    Python SNMP library for agents and managers (unstable branch)
+python-pysnmp4-apps (0.3.2-1)
+    Applications for the Python SNMP library
+python-pysnmp4-mibs (0.1.3-1)
+    MIBs for the Python SNMP library
+python-pysolr (2.0.15-1)
+    lightweight Python wrapper for quering Apache Solr
+python-pyspatialite (3.0.1-2)
+    Python interface to Spatialite
+python-pysqlite1.1 (1.1.8a-6)
+    python interface to SQLite 3
+python-pysqlite2 (2.6.3-3)
+    Python interface to SQLite 3
+python-pytango (7.2.3-2)
+    API for the TANGO control system (documentation)
+python-pytc (0.8-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.8-1+b1 [armhf, s390x])
+    Python bindings for the Tokyo Cabinet database
+python-pytest (2.2.4-2)
+    Simple, powerful testing in Python
+python-pytest-xdist (1.8-0.1)
+    xdist plugin for py.test
+python-pyth (0.5.6-3)
+    Python text markup and conversion
+python-pythoncard (0.8.2-2)
+    wxPython-based GUI construction framework (underlying Python libraries)
+python-pythonmagick (0.9.7-2+b1)
+    Object-oriented Python interface to ImageMagick
+python-pytils (0.2.3-2)
+    Python library for processing strings in Russian
+python-pytools (2011.5-2)
+    big bag of things supplementing Python standard library
+python-pytyrant (1.1.17-1)
+    Pure Python client implementation of the Tokyo Tyrant protocol
+python-pyudev (0.13-1)
+    Python bindings for libudev
+python-pyvorbis (1.5-1)
+    Python interface to the Ogg Vorbis library
+python-pyvtk (0.4.74-3)
+    module for manipulating VTK files
+python-pywapi (0.2.2-1)
+    Python wrapper around different weather APIs
+python-pywbem (0.7.0-4)
+    Python WBEM Client and Provider Interface
+python-pywcs (1.11-1)
+    Set of routines for handling the FITS WCS standard
+python-pywt (0.2.0-5)
+    Python extension implementing of wavelet transformations
+python-pyx (0.11.1-2+b1)
+    Python module for generating PostScript graphics
+python-pyxattr (0.5.1-1.1)
+    module for manipulating filesystem extended attributes
+python-pyxattr
+    virtual package provided by python-xattr
+python-pyxid (1.0-1)
+    interface for Cedrus XID and StimTracker devices
+python-pyxmpp (1.1.2-1)
+    XMPP and Jabber implementation for Python
+python-pyxnat (0.9.0~dev0-1.1)
+    Interface to access neuroimaging data on XNAT servers
+python-qgis (1.7.4+1.7.5~20120320-1.1+b1)
+    Python bindings to Quantum GIS
+python-qgis-common (1.7.4+1.7.5~20120320-1.1)
+    Python bindings to Quantum GIS - architecture-independent files
+python-qmf (0.16-6+deb7u1)
+    enterprise messaging system - Python QMF module
+python-qmf2 (0.16-6+deb7u1)
+    enterprise messaging system - Python QMF2 bindings
+python-qpid (0.16-1)
+    Python bindings for qpid/mlib
+python-qpid-extras-qmf (0.16-1)
+    Python bindings for qpid/mlib
+python-qrencode (1.01-2+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.01-2 [armhf, s390x])
+    Python bindings for the Qrencode QR Code generator library
+python-qrtools (1.2-2)
+    high level library for reading and generating QR codes
+python-qscintilla2 (2.6.2-2)
+    Python bindings for QScintilla 2
+python-qt4 (4.9.3-4)
+    Python bindings for Qt4
+python-qt4-dbus (4.9.3-4)
+    D-Bus Support for PyQt4
+python-qt4-dev (4.9.3-4)
+    Development files for PyQt4
+python-qt4-gl (4.9.3-4)
+    Python bindings for Qt4's OpenGL module
+python-qt4-phonon (4.9.3-4)
+    Python bindings for Phonon
+python-qt4-sql (4.9.3-4)
+    Python bindings for PyQt4's SQL module
+python-quantities (0.10.1-1)
+    Library for computation of physical quantities with units, based on numpy
+python-quantum (2012.1-5+deb70u1)
+    Quantum is a virutal network service for Openstack. (python library)
+python-quantumclient (2012.1-1)
+    client API library for Quantum
+python-qwt3d-qt4 (0.1.7~cvs20090625-9)
+    Python bindings of the QwtPlot3D library
+python-qwt5-qt4 (5.2.1~cvs20091107+dfsg-6+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 5.2.1~cvs20091107+dfsg-6+b1 [armhf, s390x])
+    Python version of the Qwt5 technical widget library
+python-rabbyt (0.8.1-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.8.1-1 [armhf, s390x])
+    sprite library for Python with game development in mind
+python-radare2 (0.9-1)
+    Python bindings for radare2
+python-radicale (0.7-1.1)
+    simple calendar server - module
+python-radix (0.5-3)
+    radix tree implementation for storage of IPv4 and IPv6 networks
+python-rainbow (0.8.6-1)
+    core rainbow shared module
+python-rapi2 (0.15-2.1)
+    Make RAPI calls to a Windows Mobile device, Python bindings
+python-rbtools (0.3.4-1)
+    command-line client-side script for Review Board
+python-rdflib (2.4.2-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 2.4.2-1 [armhf, s390x])
+    RDF library containing an RDF triple store and RDF/XML parser/serializer
+python-rdkit (201203-3)
+    Collection of cheminformatics and machine-learning software
+python-recaptcha (1.0.6-1)
+    client library for reCAPTCHA and Mailhide
+python-recoll (1.17.3-2)
+    Python extension for recoll
+python-redis (2.4.13-1)
+    Persistent key-value database with network interface (Python library)
+python-regex (0.1.20120613-1)
+    alternative regular expression module
+python-relational (1.1-1)
+    Educational tool for relational algebra (standalone module)
+python-relatorio (0.5.6-2)
+    Python module to create reports from Python objects
+python-remctl (3.2-4)
+    Python extension for Kerberos-authenticated command execution
+python-renderpm (2.5-1.1)
+    python low level render interface
+python-reportbug (6.4.4+deb7u1)
+    Python modules for interacting with bug tracking systems
+python-reportlab (2.5-1.1)
+    ReportLab library to create PDF documents using Python
+python-reportlab-accel (2.5-1.1)
+    C coded extension accelerator for the ReportLab Toolkit
+python-repoze.lru (0.5-2)
+    tiny LRU cache implementation and decorator
+python-repoze.sphinx.autointerface (0.4-1)
+    Sphinx extension that auto-generates API docs from Zope interfaces
+python-repoze.tm2 (1.0b2-1)
+    Zope-like transaction manager via WSGI middleware
+python-repoze.what (1.0.9-2)
+    authorization framework for Python WSGI applications
+python-repoze.what-plugins (20090531-2)
+    authorization framework for Python WSGI applications - plugins collection
+python-repoze.who (1.0.18-2)
+    identification and authentication framework for Python WSGI applications
+python-repoze.who-plugins (20090913-1)
+    authentication framework for Python WSGI applications - plugins collection
+python-requests (0.12.1-1+deb7u1) [security]
+    elegant and simple HTTP library for Python, built for human beings
+python-restkit (4.1.3-2)
+    Restkit is an HTTP resource kit for Python
+python-rfoo (1.3.0-2)
+    Fast RPC package for Python (and a remote console)
+python-rgain (1.0.1-1)
+    Replay Gain volume normalization Python tools
+python-rhash (1.2.9-8+deb7u1)
+    Python interface for LibRHash hash sums calculation library
+python-rhn (2.5.52-1)
+    Python libraries for the RHN project
+python-rivet (1.8.0-1)
+    Python bindings of Rivet
+python-roman (0.8.1-8)
+    module for generating/analyzing Roman numerals for Python 2
+python-routes (1.13-2)
+    Routing Recognition and Generation Tools
+python-rpm (4.10.0-5+deb7u2) [security]
+    Python bindings for RPM
+python-rpy (1.0.3-22)
+    Python interface to the GNU R language and environment
+python-rpy2 (2.2.6-1)
+    Python interface to the GNU R language and environment (version 2)
+python-rra (0.14-1.2)
+    Library for syncing with Windows Mobile devices (Python bindings)
+python-rrdtool (1.4.7-2)
+    time-series data storage and display system (Python interface)
+python-rsvg (2.32.0+dfsg-2+b1)
+    Python bindings for the RSVG library
+python-rtai (3.8.1-4)
+    Real Time Application Interface (documentation)
+python-rtfcomp (1.1-5+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.1-5 [armhf, s390x])
+    Library to read compressed RTF files (Python bindings)
+python-rtslib (2.1-2)
+    LIO core target management framework - python libs
+python-samba (4.0.0~beta2+dfsg1-3.2+deb7u2)
+    Python bindings for Samba
+python-satellites (1.0-6)
+    simulates the launching of satellites
+python-scientific (2.8-4)
+    Python modules useful for scientific computing
+python-scikits-learn (0.11.0-2+deb7u1)
+    transitional compatibility package for scikits.learn -> sklearn migration
+python-scikits.statsmodels (0.4.2-1)
+    transitional compatibility package for statsmodels migration
+python-scipy (0.10.1+dfsg2-1)
+    scientific tools for Python
+python-sciscipy (0.3.0-3)
+    Python binding of Scilab
+python-scitools (0.9.0-1)
+    Python library for scientific computing
+python-sclapp (0.5.3-2)
+    framework for Python command-line applications
+python-scour (0.26-3)
+    SVG scrubber and optimizer
+python-scrapy (0.14.4-1)
+    Python web scraping and crawling framework
+python-scriptutil (1-1)
+    Python module which provides the functionality of find and grep
+python-selinux (2.1.9-5)
+    Python bindings to SELinux shared libraries
+python-semanage (2.1.6-6)
+    Python bindings for SELinux policy management
+python-sendfile (1.2.4-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.2.4-1 [armhf, s390x])
+    Python interface to sendfile(2)
+python-sepolgen (1.1.5-3)
+    Python module used in SELinux policy generation
+python-seqdiag (0.7.3-1)
+    seqdiag generate sequence-diagram image file from spec-text file
+python-serial (2.5-2.1)
+    pyserial - module encapsulating access for the serial port
+python-sesame (0.24-1)
+    Python wrapper for Sesame's REST HTTP API
+python-setools (3.3.7-3)
+    SETools Python bindings
+python-setproctitle (1.0.1-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.0.1-1 [armhf, s390x])
+    A setproctitle implementation for Python
+python-setupdocs (1.0.5-3)
+    setuptools plugin that automates building of docs from reST source
+python-setuptools (0.6.24-1)
+    Python Distutils Enhancements (setuptools compatibility)
+python-sfml (1.5-2+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.5-2 [armhf])
+    Simple and Fast multimedia library - Python Bindings
+python-shapely (1.2.14-1)
+    geometric objects, predicates, and operations
+python-sidl (1.4.0.dfsg-8.1)
+    Scientific Interface Definition Language (SIDL) Python runtime
+python-silo (4.8-13)
+    Python interface to the SILO Scientific I/O library
+python-simplegeneric (0.8.1-1)
+    simple generic functions for Python
+python-simplejson (2.5.2-1)
+    simple, fast, extensible JSON encoder/decoder for Python
+python-simpleparse (2.1.0a1-6)
+    A simple parser generator for Python
+python-simpleparse-mxtexttools (2.1.0a1-6)
+    A simple parser generator for Python - architecture dependent files
+python-simpletal (4.1-7)
+    Simple TAL, TALES and METAL implementation
+python-simpy (2.3.1-1)
+    python-based simulation package
+python-simpy-gui (2.3.1-1)
+    python-based simulation package, GUI
+python-sip (4.13.3-2)
+    Python/C++ bindings generator runtime library
+python-sip-dev (4.13.3-2)
+    Python/C++ bindings generator development files
+python-six (1.1.0-2)
+    Python 2 and 3 compatibility library (Python 2 interface)
+python-skimage (0.6.1-1)
+    Python modules for image processing
+python-skimage-lib (0.6.1-1)
+    Optimized low-level algorithms for scikits-image
+python-sklearn (0.11.0-2+deb7u1)
+    Python modules for machine learning and data mining
+python-sklearn-lib (0.11.0-2+deb7u1)
+    low-level implementations and bindings for scikit-learn
+python-sleekxmpp (1.0~beta5-2)
+    Python XMPP (Jabber) Library Implementing Everything as a Plugin
+python-slides (1.0.1-13)
+    Python-based Slide Maker
+python-slimmer (0.1.30-6)
+    HTML, XHTML, CSS, JavaScript optimizer
+python-smartpm (1.4-2)
+    Python library of the Smart Package Manager
+python-smartypants (1.6.0.3-2)
+    smart-quotes plugin for pyblosxom
+python-smbc (1.0.6-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.0.6-1 [armhf, s390x])
+    Python bindings for the Samba client library
+python-smbpasswd (1.0.1-1.2+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.0.1-1.2 [armhf, s390x])
+    This module can generate both LANMAN and NT password hashes
+python-smbus (3.1.0-2)
+    Python bindings for Linux SMBus access through i2c-dev
+python-smmap (0.8.2-1)
+    pure python implementation of a sliding window memory map manager
+python-snappy (0.4-1)
+    Python library for the snappy compression library from Google
+python-soaplib (0.8.1-2)
+    Python library for writing and calling soap web services
+python-soappy (0.12.0-4)
+    SOAP Support for Python
+python-socketpool (0.4.1-1)
+    simple Python socket pool
+python-socksipy (1.0-1)
+    Python SOCKS client module
+python-sorl-thumbnail (11.12-4)
+    thumbnail support for the Django framework
+python-sourcecodegen (0.6.14-1)
+    Python source-code generator based on the compiler.ast abstract syntax tree
+python-soya (0.15~rc1-8)
+    high level 3D engine for Python
+python-sparqlwrapper (1.4.1-1)
+    SPARQL endpoint interface to Python
+python-sparse (1.1-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.1-1 [armhf, s390x])
+    Sparse linear algebra extension for Python
+python-sparse-examples (1.1-1)
+    Sparse linear algebra extension for Python: documentation
+python-speechd (0.7.1-6.2)
+    Python interface to Speech Dispatcher
+python-spf (2.0.7-3)
+    sender policy framework (SPF) module for Python
+python-sphere (3.2-4)
+    Python interface to the spherepack scientific library.
+python-sphinx (1.1.3+dfsg-4)
+    documentation generator for Python projects (implemented in Python 2)
+python-sphinx-issuetracker (0.8-1)
+    Sphinx integration with different issue trackers (transitional package)
+python-sphinxcontrib.actdiag (0.4.2-1)
+    Sphinx "actdiag" extension
+python-sphinxcontrib.blockdiag (1.1.1-1)
+    Sphinx "blockdiag" extension
+python-sphinxcontrib.issuetracker (0.8-1)
+    Sphinx integration with different issue trackers
+python-sphinxcontrib.nwdiag (0.4.1-1)
+    Sphinx "nwdiag" extension
+python-sphinxcontrib.seqdiag (0.4.1-1)
+    Sphinx "seqdiag" extention
+python-sphinxcontrib.spelling (1.3-1)
+    Sphinx "spelling" extension
+python-spice-client-gtk (0.12-5)
+    GTK2 widget for SPICE clients (Python binding)
+python-sponge (0.3.1-1)
+    Sponge is a web framework built on top of CherryPy and Genshi
+python-springpython (1.2.0+ds-2)
+    Python module that implements concepts from Spring Java Framework
+python-sprox (0.6.4-3)
+    Python library to generate web widgets from database schemas
+python-sptest (0.2.1-2)
+    Python unittest module extension
+python-spyderlib (2.1.10-2)
+    python IDE for scientists
+python-sqlalchemy (0.7.8-1)
+    SQL toolkit and Object Relational Mapper for Python
+python-sqlalchemy-ext (0.7.8-1)
+    SQL toolkit and Object Relational Mapper for Python - C extension
+python-sqlite (1.0.1-9)
+    Python interface to SQLite 2
+python-sqlitecachec (1.1.2-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.1.2-1 [armhf, s390x])
+    A fast metadata parser for YUM
+python-sqlkit (0.9.5-1)
+    Python tools and GUI application to view and edit databases content
+python-sqlobject (0.12.4-2.2)
+    object relational manager providing an object interface to your database
+python-sqlparse (0.1.4-1)
+    non-validating SQL parser for Python
+python-squaremap (1:1.0.1-1)
+    wxPython control to display hierarchic data as nested squares
+python-sss (1.8.4-2)
+    Python module for the System Security Services Daemon
+python-starpy (1.0.1-1)
+    Asterisk (AMI) protocols for Twisted Python
+python-statgrab (0.5-4)
+    interface to the libstatgrab library for Python
+python-statsmodels (0.4.2-1)
+    Python module for the estimation of statistical models
+python-statsmodels-lib (0.4.2-1)
+    low-level implementations and bindings for statsmodels
+python-stdeb (0.6.0+20100620-2)
+    Python to Debian source package conversion utility
+python-stdnum (0.7-1)
+    Python module to handle standardized numbers and codes
+python-stemmer (1.2.0+dfsg-1)
+    Python bindings for libstemmer - snowball stemming algorithms
+python-stepic (0.3-4)
+    Python Steganography in Images
+python-stfio (0.10.18-1.1+b1)
+    A Python module to read common electrophysiology file formats.
+python-stfl (0.22-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.22-1 [armhf, s390x])
+    python bindings for the structured terminal forms language/library
+python-stompy (0.2.9-1)
+    Implementation of the STOMP protocol in Python
+python-storm (0.19-1)
+    object-relational mapper (ORM) for Python
+python-strongwind (0.9-2)
+    dogtail inspired GUI test automation framework
+python-stsci.distutils (0.3-1)
+    Python packaging utilities for STScI's packages
+python-subnettree (0.12-4+b2 [ia64], 0.12-4+b1 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.12-4 [armhf, s390x])
+    Python Module for CIDR Lookups
+python-subunit (0.0.8+bzr176-1)
+    unit testing protocol - Python bindings to generate and consume streams
+python-subversion (1.6.17dfsg-4+deb7u8)
+    Python bindings for Subversion
+python-subvertpy (0.8.10-2)
+    Alternative Python bindings for Subversion
+python-suds (0.4.1-5+deb7u1)
+    Lightweight SOAP client for Python
+python-sugar-0.84 (0.84.2-4)
+    Sugar graphical shell - core functionality
+python-sugar-0.88 (0.88.0-4)
+    Sugar graphical shell - core functionality
+python-sugar-0.96 (0.96.0-1)
+    Sugar graphical shell - core functionality
+python-sugar-toolkit-0.84 (0.84.17-1)
+    Sugar graphical shell - core widgets
+python-sugar-toolkit-0.88 (0.88.1-3+b2 [kfreebsd-amd64, kfreebsd-i386], 0.88.1-3+b1 [amd64, armel, i386, ia64, mips, mipsel, powerpc, s390, sparc], 0.88.1-3 [armhf, s390x])
+    Sugar graphical shell - core widgets
+python-sugar-toolkit-0.96 (0.96.1-1)
+    Sugar graphical shell - core widgets
+python-sugar3 (0.96.1-2)
+    GTK3-based Sugar toolkit - Python bindings
+python-sunlight (1.1.5-1)
+    set of bindings to access U.S. government data (Python 2)
+python-sunpinyin (2.0.3+git20120607-1)
+    Simplified Chinese Input Method from SUN (Python binding)
+python-support (1.0.15)
+    automated rebuilding support for Python modules
+python-surfer (0.3+git15-gae6cbb1-1.1)
+    visualize Freesurfer's data in Python
+python-svipc (0.14-2)
+    interprocess communication (shared memory...) for Python
+python-swift (1.4.8-2+deb7u1)
+    OpenStack Object Storage - libraries
+python-swiginac (1.5.1.1-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.5.1.1-1 [armhf, s390x])
+    Python interface to GiNaC
+python-syfi (1.0.0.dfsg-1)
+    Finite element method (FEM) C++ library - Python bindings
+python-symeig (1.5-2)
+    Symmetrical eigenvalue routines for NumPy
+python-sympy (0.7.1.rc1-3)
+    Computer Algebra System (CAS) in Python
+python-tables (2.3.1-3)
+    hierarchical database for Python based on HDF5
+python-tagpy (0.94.8-4)
+    Python module for manipulating tags in music files
+python-talloc (2.0.7+git20120207-1)
+    hierarchical pool based memory allocator - Python bindings
+python-tastypie (0.9.10-2)
+    webservice API framework for Django
+python-tau (2.16.4-1.4+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 2.16.4-1.4 [armhf, s390x])
+    Tuning and Analysis Utilities - support for python bindings
+python-taurus (3.0.0-2)
+    framework for Tango Control System CLI and GUI applications.
+python-tcpwrap (0.2-2.1+b3 [amd64, i386, ia64, mips, mipsel, powerpc, s390, sparc], 0.2-2.1+b2 [armel, kfreebsd-amd64, kfreebsd-i386], 0.2-2.1 [armhf, s390x])
+    python interface for libwrap0 (TCP wrappers)
+python-tdb (1.2.10-2)
+    Python bindings for TDB
+python-tegaki (0.3.1-1)
+    core Python module of Tegaki
+python-tegaki-gtk (0.3.1-1)
+    GTK+ widget Python model for Tegaki
+python-tegakitools (0.3.1-1)
+    command-line tools for Tegaki
+python-telepathy (0.15.19-2.1)
+    Python language bindings for telepathy
+python-tempita (0.5.1-1)
+    very small text templating language
+python-testrepository (0.0.5-1.1)
+    Database of test results - python library
+python-testresources (0.2.4-1)
+    PyUnit extension for managing expensive test fixtures
+python-testscenarios (0.2-1)
+    Dependency injection for Python unittest tests
+python-testtools (0.9.14-2)
+    Extensions to the Python unittest library
+python-textile (1:2.1.5-1)
+    Python parser for the Textile markup
+python-tftpy (0.6.0-1)
+    pure Python library for TFTP
+python-tg.devtools (2.0.2-3)
+    developer tools for the TurboGears web framework
+python-tgext.admin (0.2.6-2)
+    user management controller add-on for TurboGears
+python-tidylib (0.2.1~dfsg-2)
+    Python wrapper for HTML Tidy (tidylib)
+python-tk (2.7.3-1)
+    Tkinter - Writing Tk applications with Python
+python-tksnack (2.2.10-dfsg1-12.1)
+    Sound extension to Tcl/Tk and Python/Tkinter - Python library
+python-tlslite (0.3.8-2)
+    a pure Python SSL/TLS library
+python-tofu (0.5-5)
+    high-level network game engine for Python
+python-tomoe (0.6.0-1.3)
+    Handwriting recognition engine (python binding)
+python-torctl (20110618git-1)
+    Tor control library for Python
+python-tornado (2.3-2)
+    scalable, non-blocking web server and tools
+python-toscawidgets (0.9.7.2-2)
+    Python framework for building reusable web components
+python-tp-client (0.3.2-2)
+    Thousand Parsec Python client library
+python-tp-netlib (0.2.5-3)
+    Thousand Parsec Python protocol library
+python-tracer (0.2.3-1)
+    Centralized trace management using sys.settrace
+python-tracing (0.6-2)
+    Python debug tracing helper
+python-traits (4.1.0-1)
+    Manifest typing and reactive programming for Python
+python-traitsbackendqt (3.6.0-2)
+    PyQt backend for Traits and TraitsGUI (Pyface)
+python-traitsbackendwx (3.6.0-3)
+    WxPython backend for Traits and TraitsGUI (Pyface)
+python-traitsgui (3.6.0-3)
+    Traits-capable windowing framework
+python-traitsui (4.1.0-1)
+    traits-capable user interfaces
+python-transaction (1.1.1-2)
+    Transaction management for Python
+python-translationstring (1.1-2)
+    Utility library for i18n relied on by various Repoze packages
+python-transmissionrpc (0.8-1)
+    Transmission RPC client module for Python
+python-trml2pdf (1.2-3)
+    Converter of Report Markup Language (RML) file to PDF
+python-ttystatus (0.19-1)
+    terminal progress bar and status output for Python
+python-turbogears2 (2.1.5-2)
+    Python web application framework
+python-turbojson (1.3.2-2)
+    plugin to use JSON templates in Python templating engines
+python-turbokid (1.0.5-1)
+    TurboGears template plugin to use kid templates
+python-tvdb-api (1.7.1-1)
+    API interface to TheTVDB.com
+python-tweepy (1.7.1-2+deb7u1)
+    Twitter library for Python
+python-twill (0.9-3)
+    Simple scripting language for Web browsing
+python-twisted (12.0.0-1)
+    Event-based framework for internet applications (dependency package)
+python-twisted-bin (12.0.0-1)
+    Event-based framework for internet applications
+python-twisted-conch (1:12.0.0-1)
+    Twisted SSH Implementation
+python-twisted-core (12.0.0-1)
+    Event-based framework for internet applications
+python-twisted-libravatar (1.1-3)
+    Libravatar module for Twisted
+python-twisted-lore (12.0.0-1)
+    Documentation generator with HTML and LaTeX support
+python-twisted-mail (12.0.0-1)
+    SMTP, IMAP and POP protocol implementation
+python-twisted-names (12.0.0-1)
+    DNS protocol implementation with client and server
+python-twisted-news (12.0.0-1)
+    NNTP protocol implementation with client and server
+python-twisted-runner (12.0.0-1)
+    Process management, including an inetd server
+python-twisted-web (12.0.0-1)
+    HTTP protocol implementation together with clients and servers
+python-twisted-web2 (8.1.0-3)
+    An HTTP/1.1 Server Framework
+python-twisted-words (12.0.0-1)
+    Chat and Instant Messaging
+python-txaws (0.2.3-1)
+    Twisted-based Asynchronous Libraries for Amazon Web Services
+python-txosc (0.2.0-1)
+    Open Sound Control (OSC) protocol for Twisted
+python-txzookeeper (0.9.5-1)
+    Twisted-based Asynchronous Libraries for Apache Zookeeper.
+python-typogrify (20111209-2)
+    filters to transform text into typographically-improved HTML
+python-tz (2012c-1)
+    Python version of the Olson timezone database
+python-ucltip (0.7.1-1)
+    Python module to help making command line tool Python binding faster
+python-ufc (2.0.5-3)
+    Python utilities (templates) for generating UFC code
+python-ufl (1.0.0-1)
+    unified language for form-compilers
+python-unac (1.7.0-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.7.0-1 [armhf, s390x])
+    Library to remove accents from string or character
+python-unbound (1.4.17-3+deb7u2)
+    library implementing DNS resolution and validation (Python bindings)
+python-uncertainties (1.8-1)
+    Python module for calculations with uncertainties
+python-unicodecsv (0.9.0-1)
+    drop-in replacement for Python 2's CSV module with Unicode support
+python-uniconvertor (1.1.4-1+b3 [armel, ia64], 1.1.4-1+b2 [amd64, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.1.4-1 [armhf, s390x])
+    Universal vector graphics translator
+python-unidecode (0.04.9-1)
+    ASCII transliterations of Unicode text (Python module)
+python-unipath (0.2.1+dfsg-1)
+    object-oriented approach to file/pathname manipulations
+python-unit (1.4.1-16)
+    unit test framework for Python
+python-unittest2 (0.5.1-1)
+    backport of the enhanced unittest testing framework in Python 2.7
+python-uno (1:3.5.4+dfsg2-0+deb7u3 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1:3.5.4+dfsg2-0+deb7u2 [ia64]) [security]
+    Python-UNO bridge
+python-unshare (0.1-2)
+    Python bindings for the Linux unshare() syscall
+python-urlgrabber (3.9.1-4)
+    A high-level cross-protocol url-grabber
+python-urllib3 (1.3-3)
+    HTTP library with thread-safe connection pooling for Python
+python-urwid (1.0.1-2)
+    curses-based UI/widget library for Python
+python-usb (0.4.3-1)
+    USB interface for Python
+python-usbtc08 (0.1.1-2)
+    Python wrapper for libusbtc08
+python-utidylib (0.2-8)
+    Python wrapper for TidyLib
+python-utmp (0.8+nmu1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.8+nmu1 [armhf, s390x])
+    python module for working with utmp
+python-uwsgicc (1.2.3+dfsg-5+deb7u1)
+    uWSGI control center
+python-uwsgidecorators (1.2.3+dfsg-5+deb7u1)
+    module of decorators for elegant access to uWSGI API (Python)
+python-van.pydeb (1.3.3-1)
+    introspection of Python metadata and conversion to Debian package metadata
+python-vatnumber (1:1.0-2)
+    Python module to validate VAT numbers
+python-venusian (1.0a6-1)
+    library for deferring decorator actions
+python-vigra (1.7.1+dfsg1-3)
+    Python bindings for the C++ computer vision library
+python-viper (1.0.0-1)
+    minimalistic scientific plotter and run-time visualization module
+python-vipscc (7.28.5-1+deb7u1)
+    image processing system good for very large images (tools)
+python-virtualenv (1.7.1.2-2)
+    Python virtual environment creator
+python-visual (1:5.12-1.5)
+    VPython 3D scientific visualization library
+python-vmtk (1.0.1-1) [non-free]
+    Python interface for vmtk
+python-vobject (0.8.1c-4)
+    parse iCalendar and VCards in Python
+python-vsgui (0.3.3-1)
+    Very Simple Graphical library for Python shell script
+python-vte (1:0.28.2-5)
+    Python bindings for the VTE widget set
+python-vtk (5.8.0-13+b1)
+    Python bindings for VTK
+python-vtkgdcm (2.2.0-14.1)
+    Grassroots DICOM VTK/Python bindings
+python-w3lib (1.0-1)
+    Collection of web-related functions for Python
+python-wader (0.5.10-1)
+    common services for wader-core daemon and alternate clients
+python-wadllib (1.3.0-2)
+    Python library for navigating WADL files
+python-web2py (1.99.7-1)
+    High-level Python web development framework
+python-webcolors (1.3.1+hg~2c8ac6e0a03d-2)
+    library of color names and value formats defined by HTML and CSS
+python-webdav (0.9.8-3)
+    WebDAV server implementation in Python
+python-weberror (0.10.3-1)
+    Python web error handling and exception catching module
+python-webflash (0.1a9-4)
+    Portable flash messages for Python WSGI applications
+python-webhelpers (1.3-4)
+    library of helper functions to make writing web application templates easier
+python-webkit (1.1.8-2)
+    WebKit/Gtk Python bindings
+python-webkit-dev (1.1.8-2)
+    WebKit/Gtk Python bindings: development files
+python-weblib (1.3.9-1)
+    Yet another web programming framework for Python - library
+python-webob (1.1.1-1.1)
+    Python module providing WSGI request and response objects
+python-weboob-core (0.c-4.1)
+    Weboob, Web Out Of Browsers - core library
+python-webpy (1:0.37+20120626-1)
+    Web framework for Python applications
+python-webtest (1.3.4-1)
+    wraps any WSGI application and makes it easy to test
+python-webunit (1:1.3.10-2)
+    Unit testing for web apps with code that acts like a web browser.
+python-werkzeug (0.8.3+dfsg-1)
+    collection of utilities for WSGI applications
+python-whisper (0.9.10-1)
+    database engine for fast, reliable fixed-sized databases
+python-whiteboard (1.0+git20111009-1)
+    Make your own electronic whiteboard
+python-whois (0.6.4-2)
+    Python module/library for retrieving WHOIS information of domains
+python-whoosh (2.3.2-2)
+    pure-Python full-text indexing, search, and spell checking library
+python-wicd (1.7.2.4-4)
+    wired and wireless network manager - Python module
+python-wimpiggy (0.3.11+dfsg-1)
+    library for writing window managers, using GTK+
+python-wit (2.1-3)
+    wikitext translation library
+python-wnck (2.32.0+dfsg-2+b1)
+    Python bindings for the WNCK library
+python-wokkel (0.7.0-1)
+    collection of enhancements for Twisted
+python-wordpresslib (1.1-1)
+    Python module to connect to Wordpress blogs using XML-RPC protocol
+python-workqueue (3.5.1-2)
+    cooperative computing tools work queue Python bindings
+python-wtforms (1.0.1-1)
+    flexible forms validation and rendering library for Python
+python-wxglade (0.6.5-2)
+    GUI designer written in Python with wxPython
+python-wxgtk2.8 (2.8.12.1-12)
+    wxWidgets Cross-platform C++ GUI toolkit (wxPython binding)
+python-wxmpl (2.0.0-2)
+    Painless matplotlib embedding in wxPython
+python-wxtools (2.8.12.1-12)
+    wxWidgets Cross-platform C++ GUI toolkit (wxPython common files)
+python-wxversion (2.8.12.1-12)
+    wxWidgets Cross-platform C++ GUI toolkit (wxPython version selector)
+python-xapian (1.2.12-2)
+    Xapian search engine interface for Python
+python-xappy (0.5-5)
+    easy-to-use interface to the Xapian search engine
+python-xattr (0.6.4-2)
+    module for manipulating filesystem extended attributes
+python-xcbgen (1.7.1-1)
+    X C Binding - protocol binding generator
+python-xdelta3 (3.0.0.dfsg-1)
+    Xdelta3 python module
+python-xdg (0.19-5)
+    Python library to access freedesktop.org standards
+python-xenapi (1.3.2-15)
+    Xen Cloud Platform - XenAPI Python libraries
+python-xklavier (0.4-4)
+    Python binding for libxklavier, an X Keyboard Extension API
+python-xlib (0.14+20091101-1)
+    Interface for Python to the X11 Protocol
+python-xlrd (0.6.1-2)
+    extract data from MS Excel spreadsheet files
+python-xlwt (0.7.4+debian1-1)
+    module for writing Microsoft Excel spreadsheet files
+python-xmlmarshaller (0.9.7+svn39722-2)
+    Converting Python objects to XML and back again.
+python-xmlrunner (1.2-1)
+    Python test runner that produces machine-readable results
+python-xmltv (1.3-1)
+    allows Python applications to access XMLTV data
+python-xmmsclient (0.8+dfsg-4+deb7u1)
+    XMMS2 - Python bindings
+python-xmpp (0.4.1-cvs20080505.2)
+    Python library for communication with XMPP (Jabber) servers
+python-xpyb (1.3.1-1)
+    Python bindings to XCB
+python-yahoo (3.1-1.1)
+    Python module for the Yahoo Search Web Service
+python-yaml (3.10-4+deb7u1)
+    YAML parser and emitter for Python
+python-yappy (1.9.4-1)
+    Yet Another Parser Generator for Python
+python-yubico (1.1.0-2)
+    Python code for talking to Yubico YubiKeys
+python-yubico-tools (1.1.0-2)
+    Tools for Yubico YubiKeys
+python-zbar (0.10+doc-8+b1 [s390x], 0.10+doc-8 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc])
+    bar code scanner and decoder (Python bindings)
+python-zbarpygtk (0.10+doc-8+b1 [s390x], 0.10+doc-8 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc])
+    bar code scanner and decoder (PyGTK bindings)
+python-zc.lockfile (1.0.0-6)
+    Basic inter-process locks
+python-zconfig (2.8.0-1)
+    Structured Configuration Library
+python-zeitgeist (0.9.0.1-1)
+    event logging framework - Python bindings
+python-zeroc-ice (3.4.2-8.2)
+    Ice for Python libraries
+python-zfec (1.4.5-2)
+    fast erasure codec, with python bindings
+python-zhpy (1.7.3.1-1)
+    the Python language with Chinese
+python-zinnia (0.06-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.06-1 [armhf, s390x])
+    Python binding for the zinnia library
+python-zmq (2.2.0-1)
+    Python bindings for 0MQ library
+python-zodb (1:3.9.7-2)
+    Zope Object Database (ZODB)
+python-zookeeper (3.3.5+dfsg1-2)
+    Python bindings for zookeeper
+python-zope.authentication (3.7.1-3)
+    Definition of authentication basics for the Zope Framework
+python-zope.browser (1.3-2)
+    Shared Zope Toolkit browser components
+python-zope.cachedescriptors (3.5.1-2)
+    Method and property caching decorators
+python-zope.component (3.10.0-3)
+    Zope Component Architecture
+python-zope.component-zcml (3.10.0-3)
+    Metapackage for zope.component zcml extra
+python-zope.configuration (3.7.4-2)
+    Zope Configuration Markup Language (ZCML)
+python-zope.deprecation (4.0.0-1)
+    Zope 3 Deprecation Infrastructure
+python-zope.dottedname (3.4.6-5)
+    Resolver for Python dotted names
+python-zope.event (3.5.1-1)
+    Very basic event publishing system
+python-zope.exceptions (3.6.1-3)
+    Zope exceptions
+python-zope.hookable (3.4.1-8)
+    Hookable object support
+python-zope.i18nmessageid (3.5.3-2)
+    Message Identifiers for internationalization
+python-zope.location (3.9.1-2)
+    Tools for working with object locations
+python-zope.proxy (3.6.1-2)
+    Generic transparent proxies for Python
+python-zope.publisher (3.12.6-2)
+    Zope publisher publishes Python objects on the web
+python-zope.schema (3.7.1-2)
+    zope.interface extension for defining data schemas
+python-zope.security (3.8.3-2)
+    Zope Security Framework
+python-zope.sqlalchemy (0.6.1-2)
+    Minimal Zope/SQLAlchemy transaction integration
+python-zope.testbrowser (4.0.2-1)
+    Programmable browser for functional black-box tests
+python-zope.testing (3.10.2-1)
+    Zope testing framework, including the testrunner script
+python-zsi (2.1~a1-3)
+    Zolera Soap Infrastructure
+python2.6 (2.6.8-1.1)
+    Interactive high-level object-oriented language (version 2.6)
+python2.6-dev (2.6.8-1.1)
+    Header files and a static library for Python (v2.6)
+python2.6-examples (2.6.8-1.1)
+    Examples for the Python language (v2.6)
+python2.6-minimal (2.6.8-1.1)
+    Minimal subset of the Python language (version 2.6)
+python2.7 (2.7.3-6+deb7u2)
+    Interactive high-level object-oriented language (version 2.7)
+python2.7-dev (2.7.3-6+deb7u2)
+    Header files and a static library for Python (v2.7)
+python2.7-examples (2.7.3-6+deb7u2)
+    Examples for the Python language (v2.7)
+python2.7-minimal (2.7.3-6+deb7u2)
+    Minimal subset of the Python language (version 2.7)
+python3 (3.2.3-6)
+    interactive high-level object-oriented language (default python3 version)
+python3-all (3.2.3-6)
+    package depending on all supported Python 3 runtime versions
+python3-all-dev (3.2.3-6)
+    package depending on all supported Python 3 development packages
+python3-amqplib (1.0.2-1)
+    simple non-threaded Python AMQP client library (Python3 version)
+python3-anyjson (0.3.1-2)
+    Common interface for the best available JSON implementation (Python3 version)
+python3-apt (0.8.8.2+b1 [s390x], 0.8.8.2 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc])
+    Python 3 interface to libapt-pkg
+python3-authres (0.402-1)
+    RFC 5451 Authentication Results Header manipulation for Python3
+python3-beaker (1.6.3-1.1)
+    cache and session library for Python 3
+python3-bitarray (0.8.0-2)
+    Python3 module for efficient boolean array handling
+python3-bs4 (4.1.0-1)
+    error-tolerant HTML parser for Python 3
+python3-bsddb3 (5.2.0-1+b1)
+    Python interface for Berkeley DB (Python 3.x)
+python3-cairo (1.10.0+dfsg-2)
+    Python 3 bindings for the Cairo vector graphics library
+python3-cairo-dev (1.10.0+dfsg-2)
+    Python 3 cairo bindings: development files
+python3-cairosvg (0.4.3-1)
+    SVG to PDF/PS/PNG converter based on Cairo (Python3 library)
+python3-chardet (2.0.1-1)
+    universal encoding detector
+python3-cracklib (2.8.19-3)
+    Python3 bindings for password checker library cracklib2
+python3-crypto (2.6-4+deb7u3)
+    cryptographic algorithms and protocols for Python 3
+python3-cssutils (0.9.10~b1-1)
+    Python3 CSS Cascading Style Sheets parser and builder
+python3-cxx-dev (6.2.4-3)
+    Set of facilities to extend Python3 with C++
+python3-d2to1 (0.2.7-1)
+    Python3 support for distutils2-like setup.cfg files as package metadata
+python3-dateutil (2.0+dfsg1-1)
+    powerful extensions to the standard datetime module in Python 3
+python3-dbus (1.1.1-1)
+    simple interprocess messaging system (Python 3 interface)
+python3-dbus.mainloop.qt (4.9.3-4)
+    D-Bus Support for PyQt4 with Python 3
+python3-decorator (3.3.3-1)
+    simplify usage of Python decorators by programmers
+python3-defer (1.0.6-2)
+    Small framework for asynchronous programming (Python 3)
+python3-dev (3.2.3-6)
+    header files and a static library for Python (default)
+python3-dexml (0.4.2-2)
+    Dead-simple Object-XML mapper for Python3
+python3-distro-info (0.10)
+    information about distributions' releases (Python 3 module)
+python3-distutils-extra (2.36-1)
+    enhancements to the Python3 build system
+python3-dkim (0.5.3-1+deb7u1)
+    Python 3 module for DKIM signing and verification
+python3-dns (3.0.2-1+deb7u2)
+    DNS client module for Python 3
+python3-dnspython (1.10.0-1)
+    DNS toolkit for Python (Python 3)
+python3-docutils (0.8.1-8)
+    text processing system for reStructuredText (implemented in Python 3)
+python3-drizzle (1.0-3.1)
+    Python3 binding to libdrizzle
+python3-easygui (0.96-3)
+    module for very simple, very easy GUI programming in Python3
+python3-enchant (1.6.5-2)
+    spellchecking library for Python 3
+python3-epr (0.6.1-2)
+    Python ENVISAT Product Reader API (Python 3)
+python3-examples (3.2.3-6)
+    examples for the Python language (default version)
+python3-flexmock (0.9.6-1)
+    Mock/Stub/Spy library for Python 3
+python3-flufl.bounce (2.1.1-1)
+    email bounce detectors (Python 3)
+python3-flufl.enum (3.3.2-1)
+    yet another Python enumeration package (Python 3)
+python3-flufl.i18n (1.1.1-1)
+    high level API for Python internationalization (Python 3)
+python3-flufl.lock (2.2.1-2)
+    NFS-safe file-based lock with timeouts (Python 3)
+python3-flufl.password (1.2.1-1)
+    password hashing and verification (Python 3)
+python3-fudge (1.0.3-3)
+    Python module for using fake objects for tests, documentation package
+python3-gdbm (3.2.3-1)
+    GNU dbm database support for Python 3.x
+python3-gearman.libgearman (0.13.2-2.1)
+    Python 3 wrapper of libgearman
+python3-germinate (2.10)
+    expand dependencies in seed packages (Python 3 interface)
+python3-gi (3.2.2-2)
+    Python 3 bindings for gobject-introspection libraries
+python3-gi-cairo (3.2.2-2)
+    Python 3 Cairo bindings for the GObject library
+python3-gnupg (0.3.6-1~deb7u1)
+    Python wrapper for the Gnu Privacy Guard (Python 3.x)
+python3-html2text (3.200.3-2)
+    Python module for converting HTML to Markdown text (Python3 version)
+python3-httplib2 (0.7.4-2+deb7u1)
+    comprehensive HTTP client library written for Python3
+python3-iowait (0.1-1.1)
+    Platform-independent module for I/O completion events
+python3-ipaddr (2.1.10-1)
+    Python3 module for working with IP addresses, both IPv4 and IPv6
+python3-ipy (1:0.75-1)
+    Python3 module for handling IPv4 and IPv6 addresses and networks
+python3-isodate (0.4.6-1)
+    ISO 8601 date/time/duration parser and formatter (Python 3 module)
+python3-jinja2 (2.6-1)
+    small but fast and easy to use stand-alone template engine
+python3-keyring (0.7.1-1+deb7u1)
+    store and access your passwords safely - Python 3 version of the package
+python3-lazr.uri (1.0.3-1)
+    library for parsing, manipulating, and generating URIs
+python3-lepl (5.1.1-1)
+    recursive descent parser library
+python3-leveldb (0~svn51-1)
+    Python wrapper for LevelDB (Python 3)
+python3-llfuse (0.37.1-2)
+    Python 3 bindings for the low-level FUSE API
+python3-lxml (2.3.2-1+deb7u1)
+    pythonic binding for the libxml2 and libxslt libraries
+python3-mako (0.7.0-1.1)
+    fast and lightweight templating for the Python 3 platform
+python3-markdown (2.1.1-3)
+    text-to-HTML conversion library/tool (implemented in Python 3)
+python3-markupsafe (0.15-1)
+    XML/HTML/XHTML Markup safe string for Python3
+python3-mdp (3.3-1)
+    Modular toolkit for Data Processing
+python3-minimal (3.2.3-6)
+    minimal subset of the Python language (default python3 version)
+python3-mock (0.8.0-3)
+    Mocking and Testing Library (Python3 version)
+python3-mpi4py (1.3+hg20120611-3)
+    bindings of the Message Passing Interface (MPI) standard
+python3-netaddr (0.7.7-1)
+    manipulation of various common network address notations (Python 3)
+python3-nose (1.1.2-3)
+    test discovery and running for Python3 unittest
+python3-notify2 (0.3-2)
+    desktop notifications API for Python 3
+python3-numpy (1:1.6.2-1.2)
+    Numerical Python adds a fast array facility to the Python language
+python3-objgraph (1.7.1-1)
+    Module for exploring Python object reference graphs (Python3 version)
+python3-openssl (0.13-2+deb7u1)
+    Python 3 wrapper around the OpenSSL library
+python3-pbs (0.95-1)
+    Python 3 module for executing shell commands as functions
+python3-pip (1.1-3)
+    alternative Python package installer - Python 3 version of the package
+python3-pipeline (0.1.3-3)
+    iterator pipelines for Python 3
+python3-pkg-resources (0.6.24-1)
+    Package Discovery and Resource Access using pkg_resources
+python3-ply (3.4-3)
+    Lex and Yacc implementation for Python3
+python3-polib (1.0.0-2)
+    Python 3 library to parse and manage gettext catalogs
+python3-postgresql (1.0.2-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.0.2-1 [armhf, s390x])
+    pgsql driver, cluster management tools, and client tools
+python3-prettytable (0.6.1-1)
+    library to represent tabular data in visually appealing ASCII tables (Python3)
+python3-psycopg2 (2.4.5-1)
+    Python 3 module for PostgreSQL
+python3-py (1.4.8-1)
+    Advanced Python development support library
+python3-pyatspi (2.5.3+dfsg-3)
+    Assistive Technology Service Provider Interface - Python3 bindings
+python3-pyatspi2 (2.5.3+dfsg-3)
+    Transitional package for assistive technology Python3 bindings
+python3-pycparser (2.07+dfsg-1)
+    C parser in Python 3
+python3-pyfits (1:3.0.8-2)
+    Python3 module for reading, writing, and manipulating FITS files
+python3-pygments (1.5+dfsg-1)
+    syntax highlighting package written in Python 3
+python3-pyinotify (0.9.3-1.1)
+    simple Linux inotify Python bindings
+python3-pykde4 (4:4.8.4-1)
+    Python 3 bindings for the KDE Development Platform
+python3-pylast (0.5.11-1)
+    Python 3 interface to Last.fm and other compatible services
+python3-pylibacl (0.5.1-1.1)
+    module for manipulating POSIX.1e ACLs (Python3 version)
+python3-pyopencl (2012.1.dfsg-1) [contrib]
+    Python 3 module to access OpenCL parallel computation API
+python3-pyparsing (1.5.6+dfsg1-2)
+    Python parsing module, Python3 package
+python3-pyqt4 (4.9.3-4)
+    Python3 bindings for Qt4
+python3-pyqt4.phonon (4.9.3-4)
+    Python3 bindings for Phonon
+python3-pyqt4.qsci (2.6.2-2)
+    Python 3 bindings for QScintilla 2
+python3-pyqt4.qtopengl (4.9.3-4)
+    Python 3 bindings for Qt4's OpenGL module
+python3-pyqt4.qtsql (4.9.3-4)
+    Python3 bindings for PyQt4's SQL module
+python3-pyshp (1.1.4-1)
+    read/write support for ESRI Shapefile format - Python 3.x
+python3-pyside (1.1.1-3)
+    Python3 bindings for Qt4 (big metapackage)
+python3-pyside.phonon (1.1.1-3)
+    Qt 4 Phonon module - Python3 bindings
+python3-pyside.qtcore (1.1.1-3)
+    Qt 4 core module - Python3 bindings
+python3-pyside.qtdeclarative (1.1.1-3)
+    Qt 4 Declarative module - Python3 bindings
+python3-pyside.qtgui (1.1.1-3)
+    Qt 4 GUI module - Python3 bindings
+python3-pyside.qthelp (1.1.1-3)
+    Qt 4 help module - Python3 bindings
+python3-pyside.qtnetwork (1.1.1-3)
+    Qt 4 network module - Python3 bindings
+python3-pyside.qtopengl (1.1.1-3)
+    Qt 4 OpenGL module - Python3 bindings
+python3-pyside.qtscript (1.1.1-3)
+    Qt 4 script module - Python3 bindings
+python3-pyside.qtsql (1.1.1-3)
+    Qt 4 SQL module - Python3 bindings
+python3-pyside.qtsvg (1.1.1-3)
+    Qt 4 SVG module - Python3 bindings
+python3-pyside.qttest (1.1.1-3)
+    Qt 4 test module - Python3 bindings
+python3-pyside.qtuitools (1.1.1-3)
+    Qt 4 UI tools module - Python3 bindings
+python3-pyside.qtwebkit (1.1.1-3)
+    Qt 4 WebKit module - Python3 bindings
+python3-pyside.qtxml (1.1.1-3)
+    Qt 4 XML module - Python3 bindings
+python3-pytest (2.2.4-2)
+    Simple, powerful testing in Python3
+python3-pytools (2011.5-2)
+    big bag of things supplementing Python 3 standard library
+python3-pyudev (0.13-1)
+    Python3 bindings for libudev
+python3-pyxattr (0.5.1-1.1)
+    module for manipulating filesystem extended attributes (Python3)
+python3-regex (0.1.20120613-1)
+    alternative regular expression module (Python 3)
+python3-requests (0.12.1-1+deb7u1) [security]
+    elegant and simple HTTP library for Python3, built for human beings
+python3-roman (0.8.1-8)
+    module for generating/analyzing Roman numerals for Python 3
+python3-scipy (0.10.1+dfsg2-1)
+    scientific tools for Python 3
+python3-serial (2.5-2.1)
+    pyserial - module encapsulating access for the serial port
+python3-setuptools (0.6.24-1)
+    Python3 Distutils Enhancements (setuptools compatibility)
+python3-simplegeneric (0.8.1-1)
+    simple generic functions for Python3
+python3-simpy (2.3.1-1)
+    python-based simulation package (Python3 version)
+python3-sip (4.13.3-2)
+    Python 3/C++ bindings generator runtime library
+python3-sip-dev (4.13.3-2)
+    Python 3/C++ bindings generator development files
+python3-six (1.1.0-2)
+    Python 2 and 3 compatibility library (Python 3 interface)
+python3-sleekxmpp (1.0~beta5-2)
+    Python XMPP (Jabber) Library Implementing Everything as a Plugin
+python3-slimmer (0.1.30-6)
+    HTML, XHTML, CSS, JavaScript optimizer for Python3
+python3-spf (2.0.7-3)
+    sender policy framework (SPF) module for Python 3
+python3-sphinx (1.1.3+dfsg-4)
+    documentation generator for Python projects (implemented in Python 3)
+python3-sqlalchemy (0.7.8-1)
+    SQL toolkit and Object Relational Mapper for Python 3
+python3-stdnum (0.7-1)
+    Python module to handle standardized numbers and codes (Python3 version)
+python3-stemmer (1.2.0+dfsg-1)
+    Python 3 bindings for libstemmer - snowball stemming algorithms
+python3-stsci.distutils (0.3-1)
+    Python3 packaging utilities for STScI's packages
+python3-subunit (0.0.8+bzr176-1)
+    unit testing protocol - Python3 bindings to generate and consume streams
+python3-sunlight (1.1.5-1)
+    set of bindings to access U.S. government data (Python 3)
+python3-svipc (0.14-2)
+    interprocess communication (shared memory...) for Python 3
+python3-tempita (0.5.1-1)
+    very small text templating language
+python3-testtools (0.9.14-2)
+    Extensions to the Python unittest library
+python3-tk (3.2.3-1)
+    Tkinter - Writing Tk applications with Python 3.x
+python3-tornado (2.3-2)
+    scalable, non-blocking web server and tools - Python 3 package
+python3-tz (2012c-1)
+    Python3 version of the Olson timezone database
+python3-unidecode (0.04.9-1)
+    ASCII transliterations of Unicode text (Python 3 module)
+python3-uno (1:3.5.4+dfsg2-0+deb7u3 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1:3.5.4+dfsg2-0+deb7u2 [ia64]) [security]
+    Python-UNO bridge
+python3-urllib3 (1.3-3)
+    HTTP library with thread-safe connection pooling for Python3
+python3-urwid (1.0.1-2)
+    curses-based UI/widget library for Python 3
+python3-uwsgidecorators (1.2.3+dfsg-5+deb7u1)
+    module of decorators for elegant access to uWSGI API (Python 3)
+python3-wadllib (1.3.0-2)
+    Python 3 library for navigating WADL files
+python3-yaml (3.10-4+deb7u1)
+    YAML parser and emitter for Python3
+python3-zmq (2.2.0-1)
+    Python3 bindings for 0MQ library
+python3.2 (3.2.3-7)
+    Interactive high-level object-oriented language (version 3.2)
+python3.2-dev (3.2.3-7)
+    Header files and a static library for Python (v3.2)
+python3.2-examples (3.2.3-7)
+    Examples for the Python language (v3.2)
+python3.2-minimal (3.2.3-7)
+    Minimal subset of the Python language (version 3.2)
+pythontracer (8.10.16-1.1)
+    Python programs' execution tracer and profiler
+pytimechart (1.0.0~rc1-3)
+    GUI Viewer for Linux kernel traces
+qmfgen (0.16-6+deb7u1)
+    enterprise messaging system - Python QMF interface generator
+qtqr (1.2-2)
+    Qt frontend for QR code generator and decoder
+quantlib-python (1.2-2)
+    Python bindings for the Quantlib Quantitative Finance library
+quantum-common (2012.1-1)
+    OpenStack Virtual network service - common files
+reinteract (0.5.0-3)
+    Worksheet-based graphical Python shell
+rhn-client-tools (1.8.9-3)
+    Red Hat Network Client Tools
+shedskin (0.9.2-1)
+    Python-to-C++ compiler designed to speed up Python programs
+snakefood (1.4-1)
+    Python dependency grapher
+snimpy (0.6.3-1)
+    interactive SNMP tool with Python
+spe (0.8.4.h-2)
+    Stani's Python Editor
+spf-tools-python (2.0.7-3)
+    sender policy framework (SPF) tools for Python
+sphinx-common (1.1.3+dfsg-4)
+    documentation generator for Python projects - common data
+system-config-printer (1.3.7-4)
+    graphical interface to configure the printing system
+targetcli (2.0rc1-2)
+    administration tool for managing LIO core target
+tegaki-train (0.3.1-1)
+    train tegaki with your own handwriting
+testrepository (0.0.5-1.1)
+    Test result manager
+tifffile (20120421-1)
+    read image and metadata from TIFF, STK, LSM, OME-TIFF and FluoView files
+trac-accountmanager (0.2.1+r7731-1)
+    account management plugin for Trac
+trac-authopenid (0.3.1-1)
+    OpenID authentication plugin for Trac
+trac-datefieldplugin (0.7782-3)
+    Add custom date fields to Trac tickets
+trac-git (0.12.0.5+722342e-1)
+    Git version control backend for Trac
+trac-graphviz (0.7.5-1)
+    Graphs printing plugin for Trac
+trac-icalviewplugin (0.7889-1)
+    Provides iCalendar feeds for ticket queries
+trac-mercurial (0.12.0.28-1)
+    Mercurial version control backend for Trac
+trac-wikitablemacro (0.7785-1)
+    Table from an arbitrary SQL for Trac
+transifex-client (0.8-2)
+    Command line interface for Transifex
+translate-toolkit (1.9.0-3)
+    Toolkit assisting in the localization of software
+tryton-client (2.2.3-1+deb7u1)
+    Tryton Application Platform (Client)
+tryton-modules-account (2.2.3-1)
+    Tryton Application Platform (Financial and Accounting Module)
+tryton-modules-account-be (2.2.0-2)
+    Tryton Application Platform (Financial and Accounting Module for Belgium)
+tryton-modules-account-invoice (2.2.2-2)
+    Tryton Application Platform (Financial and Accounting Module)
+tryton-modules-account-invoice-history (2.2.0-2)
+    Tryton Application Platform (Financial and Accounting Module)
+tryton-modules-account-invoice-line-standalone (2.2.0-2)
+    Tryton Application Platform (Financial and Accounting Module)
+tryton-modules-account-product (2.2.0-2)
+    Tryton Application Platform (Financial and Accounting Module)
+tryton-modules-account-statement (2.2.1-1)
+    Tryton Application Platform (Financial and Accounting Module)
+tryton-modules-all (16)
+    Tryton Application Platform (modules metapackage)
+tryton-modules-analytic-account (2.2.0-2)
+    Tryton Application Platform (Financial and Accounting Module)
+tryton-modules-analytic-invoice (1:2.2.0-2)
+    Tryton Application Platform (Financial and Accounting Module)
+tryton-modules-analytic-purchase (2.2.0-2)
+    Tryton Application Platform (Financial and Accounting Module)
+tryton-modules-analytic-sale (2.2.0-2)
+    Tryton Application Platform (Financial and Accounting Module)
+tryton-modules-calendar (2.2.1-1)
+    Tryton Application Platform (Calendar Module)
+tryton-modules-calendar-classification (2.2.1-1)
+    Tryton Application Platform (Calendar Classification Module)
+tryton-modules-calendar-scheduling (2.2.2-1)
+    Tryton Application Platform (Calendar Scheduling Module)
+tryton-modules-calendar-todo (2.2.1-1)
+    Tryton Application Platform (Calendar Todo Module)
+tryton-modules-company (2.2.1-2)
+    Tryton Application Platform (Company Module)
+tryton-modules-company-work-time (2.2.0-2)
+    Tryton Application Platform (Company Work Time Module)
+tryton-modules-country (2.2.0-2)
+    Tryton Application Platform (Country Module)
+tryton-modules-currency (2.2.1-2)
+    Tryton Application Platform (Currency Module)
+tryton-modules-dashboard (2.2.1-2)
+    Tryton Application Platform (Dashboard Module)
+tryton-modules-google-maps (2.2.0-2)
+    Tryton Application Platform (Google Maps Module)
+tryton-modules-ldap-authentication (2.2.1-2)
+    Tryton Application Platform (LDAP Authentication Module)
+tryton-modules-ldap-connection (2.2.0-2)
+    Tryton Application Platform (LDAP Connection Module)
+tryton-modules-party (2.2.1-2)
+    Tryton Application Platform (Party Module)
+tryton-modules-party-siret (2.2.1-2)
+    Tryton Application Platform (Party SIRET/SIREN Module)
+tryton-modules-party-vcarddav (2.2.1-1)
+    Tryton Application Platform (Party CardDAV Module)
+tryton-modules-product (2.2.2-1)
+    Tryton Application Platform (Product Module)
+tryton-modules-product-cost-fifo (2.2.0-2)
+    Tryton Application Platform (Product Cost FIFO Module)
+tryton-modules-product-cost-history (2.2.0-2)
+    Tryton Application Platform (Product Cost History Module)
+tryton-modules-product-price-list (2.2.0-2)
+    Tryton Application Platform (Product Price List Module)
+tryton-modules-project (2.2.0-2)
+    Tryton Application Platform (Project Module)
+tryton-modules-project-plan (2.2.0-2)
+    Tryton Application Platform (Project Plan Module)
+tryton-modules-project-revenue (2.2.1-2)
+    Tryton Application Platform (Project Revenue Module)
+tryton-modules-purchase (2.2.1-2)
+    Tryton Application Platform (Purchase Module)
+tryton-modules-purchase-invoice-line-standalone (2.2.0-2)
+    Tryton Application Platform (Purchase Module)
+tryton-modules-sale (2.2.2-2)
+    Tryton Application Platform (Sale Module)
+tryton-modules-sale-opportunity (2.2.1-2)
+    Tryton Application Platform (Sale Opportunity Module)
+tryton-modules-sale-price-list (2.2.0-2)
+    Tryton Application Platform (Sale Price List Module)
+tryton-modules-stock (2.2.3-1)
+    Tryton Application Platform (Stock Module)
+tryton-modules-stock-forecast (2.2.1-2)
+    Tryton Application Platform (Stock Forecast Module)
+tryton-modules-stock-inventory-location (2.2.0-2)
+    Tryton Application Platform (Stock Inventory Location Module)
+tryton-modules-stock-location-sequence (2.2.0-2)
+    Tryton Application Platform (Stock Location Sequence Module)
+tryton-modules-stock-product-location (2.2.0-2)
+    Tryton Application Platform (Stock Product Location Module)
+tryton-modules-stock-supply (2.2.2-1)
+    Tryton Application Platform (Stock Supply Module)
+tryton-modules-stock-supply-day (2.2.1-2)
+    Tryton Application Platform (Stock Supply Day Module)
+tryton-modules-timesheet (2.2.1-1)
+    Tryton Application Platform (Timesheet Module)
+tryton-neso (2.2.1-2)
+    Tryton Application Platform (Standalone Client/Server)
+tryton-proteus (2.2.1-1)
+    Tryton Application Platform (Proteus)
+tryton-server (2.2.4-1+deb7u2)
+    Tryton Application Platform (Server)
+virtaal (0.7.1-1)
+    graphical localisation editor
+virtualenvwrapper (3.4-2)
+    extension to virtualenv for managing multiple virtual Python environments
+vitables (2.1-1)
+    graphical tool to browse and edit PyTables and HDF5 files
+wapiti (1.1.6-4)
+    Web application vulnerability scanner
+weboob (0.c-4.1)
+    CLI applications to interact with websites
+weboob-qt (0.c-4.1)
+    Qt applications to interact with websites
+winpdb (1.4.8-2)
+    Platform independent Python debugger
+xdot (0.4-2)
+    interactive viewer for Graphviz dot files
+yapps2 (2.1.1-17.2)
+    Yet Another Python Parser System
+yapps2-runtime (2.1.1-17.2)
+    Yet Another Python Parser System
+yhsm-tools (1.0.4-1)
+    Common files for YubiHSM applications
+yhsm-validation-server (1.0.4-1)
+    Validation server using YubiHSM
+yhsm-yubikey-ksm (1.0.4-1)
+    Yubikey Key Storage Module using YubiHSM 

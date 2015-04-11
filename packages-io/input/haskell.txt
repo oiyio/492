@@ -1,0 +1,2658 @@
+agda-bin (2.3.0.1-1)
+    commandline interface to Agda
+alex (3.0.1-1+b1 [armhf, s390x], 3.0.1-1 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc])
+    lexical analyser generator for Haskell
+arbtt (0.6.2-1)
+    Automatic Rule-Based Time Tracker
+c2hs (0.16.3-2)
+    C->Haskell Interface Generator
+cabal-install (0.14.0-2)
+    command-line interface for Cabal and Hackage
+cpphs (1.13.3-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.13.3-2 [armel])
+    Simplified cpp-a-like preprocessor for Haskell
+ghc (7.4.1-4)
+    The Glasgow Haskell Compilation system
+ghc-dynamic (7.4.1-4)
+    Dynamic libraries for the Glasgow Haskell Compilation system
+ghc-haddock (7.4.1-4)
+    Documentation tool for annotated Haskell source code
+ghc-mod (1.10.18-1)
+    Happy Haskell programming on Emacs
+ghc-prof (7.4.1-4)
+    Profiling libraries for the Glasgow Haskell Compilation system
+ghc-testsuite (7.4.1-3)
+    GHC testsuite results
+ghc6 (7.4.1-4)
+    transitional dummy package
+ghc6-prof (7.4.1-4)
+    transitional dummy package
+gitit (0.10.0.1-1+b2 [kfreebsd-amd64, kfreebsd-i386], 0.10.0.1-1+b1 [amd64, i386])
+    Wiki engine backed by a git or darcs filestore
+gtk2hs-buildtools (0.12.3-2)
+    Tools to build the Gtk2Hs suite of User Interface libraries
+happy (1.18.9-1)
+    Parser generator for Haskell
+haskell-devscripts (0.8.12)
+    Tools to help Debian developers build Haskell packages
+haskell-mode (2.8.0-2)
+    major mode for editing Haskell in Emacs
+haskell-platform (2012.2.0.0)
+    Standard Haskell libraries and tools
+haxml (1:1.22.5-2+b2)
+    utilities for using XML documents with Haskell
+hlint (1.8.28-1+b3 [amd64, i386, powerpc, sparc], 1.8.28-1+b2 [armel, armhf, kfreebsd-amd64, kfreebsd-i386, s390x])
+    Haskell source code suggestions
+hscolour (1.19-3+b2 [armhf], 1.19-3+b1 [amd64, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.19-3 [armel])
+    Haskell program to colourise Haskell code
+leksah (0.12.0.3-3)
+    haskell editor - GHC interface
+leksah-server (0.12.0.4-3)
+    haskell editor - GHC interface
+lhs2tex (1.17-1)
+    Generates LaTeX code from literate Haskell sources
+libghc-acid-state-dev (0.6.3-1+b2 [amd64, i386], 0.6.3-1+b1 [kfreebsd-amd64, kfreebsd-i386, sparc])
+    Haskell database library with ACID guarantees - GHC libraries
+libghc-acid-state-prof (0.6.3-1+b2 [amd64, i386], 0.6.3-1+b1 [kfreebsd-amd64, kfreebsd-i386, sparc])
+    Haskell database library with ACID guarantees - GHC profiling libraries
+libghc-active-dev (0.1.0.1-2+b2 [i386, kfreebsd-amd64, mips, powerpc], 0.1.0.1-2+b1 [amd64], 0.1.0.1-2 [armel, armhf, kfreebsd-i386, mipsel, s390, s390x, sparc])
+    Abstractions for animation
+libghc-active-prof (0.1.0.1-2+b2 [i386, kfreebsd-amd64, mips, powerpc], 0.1.0.1-2+b1 [amd64], 0.1.0.1-2 [armel, armhf, kfreebsd-i386, mipsel, s390, s390x, sparc])
+    Abstractions for animation; profiling libraries
+libghc-adjunctions-dev (2.4.0.2-1+b1 [amd64, armhf, kfreebsd-i386, s390, s390x, sparc], 2.4.0.2-1 [armel, i386, kfreebsd-amd64, mips, mipsel, powerpc])
+    Adjunctions
+libghc-adjunctions-prof (2.4.0.2-1+b1 [amd64, armhf, kfreebsd-i386, s390, s390x, sparc], 2.4.0.2-1 [armel, i386, kfreebsd-amd64, mips, mipsel, powerpc])
+    Adjunctions; profiling data
+libghc-aeson-dev (0.6.0.2-1+b4 [amd64, i386, powerpc, s390, sparc], 0.6.0.2-1+b3 [armel, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 0.6.0.2-1+b2 [armhf])
+    Fast JSON parsing and encoding library
+libghc-aeson-prof (0.6.0.2-1+b4 [amd64, i386, powerpc, s390, sparc], 0.6.0.2-1+b3 [armel, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 0.6.0.2-1+b2 [armhf])
+    Fast JSON parsing and encoding library; profiling libraries
+libghc-agda-dev (2.3.0.1-2+b1 [amd64], 2.3.0.1-2 [armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, s390x, sparc])
+    dependently typed functional programming language - development libraries
+libghc-algebra-dev (2.1.1.2-1+b1 [amd64, armhf, kfreebsd-i386, sparc], 2.1.1.2-1 [armel, i386, kfreebsd-amd64, mips, mipsel, powerpc, s390, s390x])
+    Constructive abstract algebra
+libghc-algebra-prof (2.1.1.2-1+b1 [amd64, armhf, kfreebsd-i386, sparc], 2.1.1.2-1 [armel, i386, kfreebsd-amd64, mips, mipsel, powerpc, s390, s390x])
+    Constructive abstract algebra; profiling data
+libghc-alut-dev (2.1.0.2-4+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 2.1.0.2-4 [armel])
+    Haskell ALUT binding for GHC
+libghc-alut-prof (2.1.0.2-4+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 2.1.0.2-4 [armel])
+    Haskell ALUT binding for GHC; profiling libraries
+libghc-ami-dev (0.1-1+b5 [amd64, i386, powerpc, sparc], 0.1-1+b4 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390, s390x], 0.1-1+b3 [armel])
+    low-level bindings for Asterisk Manager Interface (AMI)
+libghc-ami-prof (0.1-1+b5 [amd64, i386, powerpc, sparc], 0.1-1+b4 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390, s390x], 0.1-1+b3 [armel])
+    low-level bindings for Asterisk Manager Interface (AMI); profiling libraries
+libghc-ansi-terminal-dev (0.5.5-3+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.5.5-3 [armel])
+    Simple ANSI terminal support, with Windows compatibility
+libghc-ansi-terminal-prof (0.5.5-3+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.5.5-3 [armel])
+    Simple ANSI terminal support, with Windows compatibility; profiling libraries
+libghc-ansi-wl-pprint-dev (0.6.4-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.6.4-1 [armel])
+    Wadler/Leijen Pretty Printer for colored ANSI terminal output
+libghc-ansi-wl-pprint-prof (0.6.4-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.6.4-1 [armel])
+    Wadler/Leijen Pretty Printer for colored ANSI terminal output; profiling lib
+libghc-arrows-dev (0.4.4.0-3+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.4.4.0-3 [armel])
+    Haskell arrow classes and transformers for GHC
+libghc-arrows-prof (0.4.4.0-3+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.4.4.0-3 [armel])
+    Haskell arrow classes and transformers for GHC; profiling libraries
+libghc-asn1-data-dev (0.6.1.3-2+b3 [amd64, i386, powerpc, s390, sparc], 0.6.1.3-2+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, s390x], 0.6.1.3-2+b1 [armel, mipsel])
+    ASN1 data reader/writer in RAW, BER, DER and CER forms
+libghc-asn1-data-prof (0.6.1.3-2+b3 [amd64, i386, powerpc, s390, sparc], 0.6.1.3-2+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, s390x], 0.6.1.3-2+b1 [armel, mipsel])
+    ASN1 data reader/writer in RAW, BER, DER, CER forms; profiling libs
+libghc-attempt-dev (0.4.0-1+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.4.0-1+b1 [armel])
+    Concrete data type for handling extensible exceptions as failures
+libghc-attempt-prof (0.4.0-1+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.4.0-1+b1 [armel])
+    Concrete data type for handling extensible exceptions as failures; prof
+libghc-attoparsec-conduit-dev (0.4.0.1-1+b1 [amd64], 0.4.0.1-1 [armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    turn attoparsec parsers into sinks
+libghc-attoparsec-conduit-prof (0.4.0.1-1+b1 [amd64], 0.4.0.1-1 [armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    turn attoparsec parsers into sinks; profiling libraries
+libghc-attoparsec-dev (0.10.1.1-2+b2 [armhf], 0.10.1.1-2+b1 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Fast combinator parsing for bytestrings
+libghc-attoparsec-enumerator-dev (0.3-3+b3 [amd64, i386, powerpc], 0.3-3+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, s390, sparc], 0.3-3+b1 [armel, mips, mipsel, s390x])
+    convert an Attoparsec parser into an iteratee
+libghc-attoparsec-enumerator-prof (0.3-3+b3 [amd64, i386, powerpc], 0.3-3+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, s390, sparc], 0.3-3+b1 [armel, mips, mipsel, s390x])
+    convert an Attoparsec parser into an iteratee; profiling libraries
+libghc-attoparsec-prof (0.10.1.1-2+b2 [armhf], 0.10.1.1-2+b1 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Fast combinator parsing for bytestrings; profiling library
+libghc-augeas-dev (0.6.1-1)
+    Haskell bindings for the augeas library
+libghc-augeas-prof (0.6.1-1)
+    Haskell bindings for the augeas library; profiling libraries
+libghc-authenticate-dev (1.2.1.1-2+b2 [s390x], 1.2.1.1-2+b1 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390, sparc])
+    authentication methods for Haskell web applications
+libghc-authenticate-prof (1.2.1.1-2+b2 [s390x], 1.2.1.1-2+b1 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390, sparc])
+    authentication methods for Haskell web applications; profiling libraries
+libghc-base-unicode-symbols-dev (0.2.2.3-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.2.2.3-1 [armel])
+    Unicode alternatives for common functions and operators
+libghc-base-unicode-symbols-prof (0.2.2.3-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.2.2.3-1 [armel])
+    Unicode alternatives for common functions and operators; profiling libraries
+libghc-base16-bytestring-dev (0.1.1.4-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.1.1.4-2 [armel])
+    Fast base16 (hex) encoding and decoding for ByteStrings
+libghc-base16-bytestring-prof (0.1.1.4-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.1.1.4-2 [armel])
+    Fast base16 (hex) encoding and decoding for ByteStrings; profiling libraries
+libghc-base64-bytestring-dev (0.1.1.1-2)
+    fast base64 encoding/deconding for ByteStrings
+libghc-base64-bytestring-prof (0.1.1.1-2)
+    fast base64 encoding/deconding for ByteStrings; profiling libs
+libghc-bifunctors-dev (0.1.3.3-1+b1)
+    Haskell 98 bifunctors
+libghc-bifunctors-prof (0.1.3.3-1+b1)
+    Haskell 98 bifunctors; profiling data
+libghc-binary-shared-dev (0.8.1-1+b2 [armhf], 0.8.1-1+b1 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    sharing-enhanced binary encoding
+libghc-binary-shared-prof (0.8.1-1+b2 [armhf], 0.8.1-1+b1 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    sharing-enhanced binary encoding; profiling libraries
+libghc-bindings-dsl-dev (1.0.15-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.0.15-1 [armel])
+    FFI domain specific language, on top of hsc2hs
+libghc-bindings-gpgme-dev (0.1.4-1)
+    Haskell bindings to GPGME
+libghc-bindings-gpgme-prof (0.1.4-1)
+    Haskell bindings to GPGME; profiling libraries
+libghc-bindings-libzip-dev (0.10-2)
+    low-level Haskell bindings to libzip
+libghc-bindings-libzip-prof (0.10-2)
+    low-level Haskell bindings to libzip; profiling libraries
+libghc-bitarray-dev (0.0.1-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.0.1-2 [armel])
+    Mutable and immutable bit arrays.
+libghc-bitarray-prof (0.0.1-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.0.1-2 [armel])
+    Mutable and immutable bit arrays; profiling data
+libghc-blaze-builder-conduit-dev (0.4.0.2-1+b1 [amd64], 0.4.0.2-1 [armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    convert streams of builders to streams of bytestrings
+libghc-blaze-builder-conduit-prof (0.4.0.2-1+b1 [amd64], 0.4.0.2-1 [armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    convert streams of builders to streams of bytestrings; profiling libraries
+libghc-blaze-builder-dev (0.3.1.0-1+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.3.1.0-1+b1 [armel])
+    abstraction of buffered output of byte streams
+libghc-blaze-builder-enumerator-dev (0.2.0.4-1+b1 [amd64, i386, powerpc, s390, sparc], 0.2.0.4-1 [armel, armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x])
+    enumeratees for incremental conversion of builders to bytestrings
+libghc-blaze-builder-enumerator-prof (0.2.0.4-1+b1 [amd64, i386, powerpc, s390, sparc], 0.2.0.4-1 [armel, armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x])
+    enumeratees for conversion of builders to bytestrings; profiling libs
+libghc-blaze-builder-prof (0.3.1.0-1+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.3.1.0-1+b1 [armel])
+    abstraction of buffered output of byte streams; profiling libraries
+libghc-blaze-html-dev (0.4.3.1-3+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.4.3.1-3+b1 [armel])
+    HTML combinator library for Haskell - GHC libraries
+libghc-blaze-html-prof (0.4.3.1-3+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.4.3.1-3+b1 [armel])
+    HTML combinator library for Haskell - GHC profiling libraries
+libghc-blaze-markup-dev (0.5.1.0-1+b1 [amd64], 0.5.1.0-1 [armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    blazingly-fast markup combinator library
+libghc-blaze-markup-prof (0.5.1.0-1+b1 [amd64], 0.5.1.0-1 [armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    blazingly-fast markup combinator library; profiling libraries
+libghc-blaze-textual-dev (0.2.0.6-2+b4 [amd64], 0.2.0.6-2+b3 [sparc], 0.2.0.6-2+b2 [i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x], 0.2.0.6-2+b1 [armel, armhf])
+    Fast rendering of common datatypes
+libghc-blaze-textual-prof (0.2.0.6-2+b4 [amd64], 0.2.0.6-2+b3 [sparc], 0.2.0.6-2+b2 [i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x], 0.2.0.6-2+b1 [armel, armhf])
+    Fast rendering of common datatypes; profiling libraries
+libghc-bloomfilter-dev (1.2.6.8-1+b1 [armhf], 1.2.6.8-1 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Haskell bloom filter library - GHC libraries
+libghc-bloomfilter-prof (1.2.6.8-1+b1 [armhf], 1.2.6.8-1 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Haskell bloom filter library - GHC profiling libraries
+libghc-boolean-dev (0.0.1-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.0.1-2 [armel])
+    generalized booleans
+libghc-boolean-prof (0.0.1-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.0.1-2 [armel])
+    generalized booleans; profiling libraries
+libghc-boomerang-dev (1.3.1-1)
+    invertible parsing and printing
+libghc-boomerang-prof (1.3.1-1)
+    invertible parsing and printing; profiling libraries
+libghc-brainfuck-dev (0.1-2+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.1-2+b1 [armel])
+    Brainfuck interpreter library
+libghc-brainfuck-prof (0.1-2+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.1-2+b1 [armel])
+    Brainfuck interpreter library; profiling libraries
+libghc-byteorder-dev (1.0.3-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.0.3-2 [armel])
+    exposes the native endianness or byte ordering of the system
+libghc-byteorder-prof (1.0.3-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.0.3-2 [armel])
+    exposes the native endianness of the system; profiling libraries
+libghc-bytestring-lexing-dev (0.4.0-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.4.0-1 [armel])
+    parse and produce literals efficiently from strict or lazy bytestrings
+libghc-bytestring-lexing-prof (0.4.0-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.4.0-1 [armel])
+    parse/produce literals from strict/lazy bytestrings; profiling libs
+libghc-bytestring-mmap-dev (0.2.2-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.2.2-2 [armel])
+    mmap support for strict ByteStrings
+libghc-bytestring-mmap-prof (0.2.2-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.2.2-2 [armel])
+    mmap support for strict ByteStrings; profiling libraries
+libghc-bytestring-nums-dev (0.3.5-2+b1)
+    Parse numeric literals from ByteStrings.
+libghc-bytestring-nums-prof (0.3.5-2+b1)
+    Parse numeric literals from ByteStrings.; profiling library
+libghc-bytestring-show-dev (0.3.5.1-1+b1 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390x, sparc], 0.3.5.1-1 [s390])
+    Haskell library for value converter to byte strings
+libghc-bytestring-show-prof (0.3.5.1-1+b1 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390x, sparc], 0.3.5.1-1 [s390])
+    Haskell library for value converter to byte strings; profiling library
+libghc-bzlib-dev (0.5.0.3-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.5.0.3-2 [armel])
+    Haskell bindings to the bzip2 library
+libghc-bzlib-prof (0.5.0.3-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.5.0.3-2 [armel])
+    Profiling libraries for the Haskell bindings to the bzip2 library
+libghc-cabal-file-th-dev (0.2.2-1)
+    TH expressions for reading fields from a project's cabal file
+libghc-cabal-file-th-prof (0.2.2-1)
+    TH expressions for reading fields from a project's cabal file; profiling libraries
+libghc-cairo-dev (0.12.3-1+b1)
+    Binding to the Cairo library
+libghc-cairo-prof (0.12.3-1+b1)
+    Binding to the Cairo library; profiling libraries
+libghc-case-insensitive-dev (0.4.0.1-2+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.4.0.1-2+b1 [armel])
+    case-insensitive string comparison
+libghc-case-insensitive-prof (0.4.0.1-2+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.4.0.1-2+b1 [armel])
+    case-insensitive string comparison; profiling libraries
+libghc-categories-dev (1.0.3-1+b1 [armel, i386, kfreebsd-amd64, mips, mipsel, powerpc, s390, s390x], 1.0.3-1 [amd64, armhf, kfreebsd-i386, sparc])
+    categories from category-extras
+libghc-categories-prof (1.0.3-1+b1 [armel, i386, kfreebsd-amd64, mips, mipsel, powerpc, s390, s390x], 1.0.3-1 [amd64, armhf, kfreebsd-i386, sparc])
+    categories from category-extras; profiling data
+libghc-cautious-file-dev (1.0.1-1)
+    Haskell library to write a file cautiously - GHC libraries
+libghc-cautious-file-prof (1.0.1-1)
+    Haskell library to write a file cautiously - GHC profiling libraries
+libghc-cereal-conduit-dev (0.5-1+b1 [armhf, i386, kfreebsd-amd64, powerpc, s390x], 0.5-1 [amd64, armel, kfreebsd-i386, mips, mipsel, s390, sparc])
+    turn Data.Serialize Gets and Puts into Sources and Sinks
+libghc-cereal-conduit-prof (0.5-1+b1 [armhf, i386, kfreebsd-amd64, powerpc, s390x], 0.5-1 [amd64, armel, kfreebsd-i386, mips, mipsel, s390, sparc])
+    turn Data.Serialize Gets and Puts into Sources and Sinks; profiling libraries
+libghc-cereal-dev (0.3.5.2-1)
+    binary serialization library
+libghc-cereal-prof (0.3.5.2-1)
+    binary serialization library; profiling library
+libghc-certificate-dev (1.2.3-2+b1 [s390x], 1.2.3-2 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc])
+    certificate and key Reader/Writer
+libghc-certificate-prof (1.2.3-2+b1 [s390x], 1.2.3-2 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc])
+    certificate and key Reader/Writer; profiling libraries
+libghc-cgi-dev (3001.1.8.2-2+b3 [amd64, i386, powerpc, s390, sparc], 3001.1.8.2-2+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 3001.1.8.2-2+b1 [armel])
+    Haskell CGI library for GHC
+libghc-cgi-prof (3001.1.8.2-2+b3 [amd64, i386, powerpc, s390, sparc], 3001.1.8.2-2+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 3001.1.8.2-2+b1 [armel])
+    Haskell CGI library for GHC; profiling libraries
+libghc-chart-dev (0.15-1+b2)
+    library for generating 2D Charts and Plots
+libghc-chart-prof (0.15-1+b2)
+    library for generating 2D Charts and Plots; profiling libraries
+libghc-chell-dev (0.3-1)
+    Haskell library for simple and intuitive automated testing
+libghc-chell-prof (0.3-1)
+    Haskell library for simple and intuitive automated testing; profiling libraries
+libghc-citeproc-hs-data (0.3.4-1)
+    Haskell support for Citation Style Language - data files
+libghc-citeproc-hs-dev (0.3.4-1+b4 [amd64, i386, powerpc, sparc], 0.3.4-1+b3 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390, s390x], 0.3.4-1+b1 [armel])
+    Haskell support for Citation Style Language - GHC libraries
+libghc-citeproc-hs-prof (0.3.4-1+b4 [amd64, i386, powerpc, sparc], 0.3.4-1+b3 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390, s390x], 0.3.4-1+b1 [armel])
+    Haskell support for Citation Style Language - GHC profiling libraries
+libghc-clientsession-dev (0.7.5-3+b2 [amd64, kfreebsd-i386], 0.7.5-3+b1 [i386, kfreebsd-amd64], 0.7.5-3 [sparc])
+    library for web session data in cookies
+libghc-clientsession-prof (0.7.5-3+b2 [amd64, kfreebsd-i386], 0.7.5-3+b1 [i386, kfreebsd-amd64], 0.7.5-3 [sparc])
+    library for web session data in cookies; profiling libraries
+libghc-clock-dev (0.2.0.0-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.2.0.0-2 [armel])
+    High-resolution clock and timer
+libghc-clock-prof (0.2.0.0-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.2.0.0-2 [armel])
+    High-resolution clock and timer; profiling libraries
+libghc-cmdargs-dev (0.9.5-1+b1)
+    command-line argument processing
+libghc-cmdargs-prof (0.9.5-1+b1)
+    command-line argument processing; profiling libraries
+libghc-colour-dev (2.3.3-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 2.3.3-1 [armel])
+    A model for human colour/color perception
+libghc-colour-prof (2.3.3-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 2.3.3-1 [armel])
+    A model for human colour/color perception; profiling libraries
+libghc-comonad-dev (1.1.1.5-1+b1)
+    Haskell 98 comonads
+libghc-comonad-prof (1.1.1.5-1+b1)
+    Haskell 98 comonads; profiling data
+libghc-comonad-transformers-dev (2.1.1.1-1+b1)
+    Haskell 98 Comonad transformers
+libghc-comonad-transformers-prof (2.1.1.1-1+b1)
+    Haskell 98 Comonad transformers; profiling data
+libghc-comonads-fd-dev (2.1.1.2-1+b1)
+    Comonad transformers using functional dependencies
+libghc-comonads-fd-prof (2.1.1.2-1+b1)
+    Comonad transformers using functional dependencies; prof data
+libghc-conduit-dev (0.4.2-2+b2 [amd64], 0.4.2-2+b1 [armel, mips], 0.4.2-2 [armhf, i386, kfreebsd-amd64, kfreebsd-i386, mipsel, powerpc, s390, s390x, sparc])
+    streaming data processing library
+libghc-conduit-prof (0.4.2-2+b2 [amd64], 0.4.2-2+b1 [armel, mips], 0.4.2-2 [armhf, i386, kfreebsd-amd64, kfreebsd-i386, mipsel, powerpc, s390, s390x, sparc])
+    streaming data processing library; profiling libraries
+libghc-configfile-dev (1.0.6-4+b3 [amd64, i386, powerpc, s390, sparc], 1.0.6-4+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 1.0.6-4+b1 [armel])
+    Parser and writer for sectioned config files in Haskell
+libghc-configfile-prof (1.0.6-4+b3 [amd64, i386, powerpc, s390, sparc], 1.0.6-4+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 1.0.6-4+b1 [armel])
+    Parser and writer for sectioned config files in Haskell; profiling libraries
+libghc-configurator-dev (0.2.0.0-1+b2)
+    dynamic config file reloading
+libghc-configurator-prof (0.2.0.0-1+b2)
+    dynamic config file reloading; profiling libraries
+libghc-contravariant-dev (0.2.0.2-1+b1)
+    Haskell 98 contravariant functors
+libghc-contravariant-prof (0.2.0.2-1+b1)
+    Haskell 98 contravariant functors; profiling data
+libghc-convertible-dev (1.0.11.0-3+b3 [amd64, i386, powerpc, s390, sparc], 1.0.11.0-3+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 1.0.11.0-3+b1 [armel])
+    Typeclasses and instances for converting between types, GHC package
+libghc-convertible-prof (1.0.11.0-3+b3 [amd64, i386, powerpc, s390, sparc], 1.0.11.0-3+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 1.0.11.0-3+b1 [armel])
+    Typeclasses and instances for converting between types, GHC profiling package
+libghc-cookie-dev (0.4.0-1+b3 [amd64, i386, powerpc, s390, sparc], 0.4.0-1+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 0.4.0-1+b1 [armel])
+    HTTP cookie-parsing and rendering library
+libghc-cookie-prof (0.4.0-1+b3 [amd64, i386, powerpc, s390, sparc], 0.4.0-1+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 0.4.0-1+b1 [armel])
+    HTTP cookie-parsing and rendering library; profiling libraries
+libghc-cpphs-dev (1.13.3-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.13.3-2 [armel])
+    cpphs-library for haskell
+libghc-cpphs-prof (1.13.3-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.13.3-2 [armel])
+    cpphs-library for haskell; profiling libraries
+libghc-cprng-aes-dev (0.2.3-3+b5 [armhf], 0.2.3-3+b4 [amd64, i386, kfreebsd-amd64, kfreebsd-i386, mipsel, s390x], 0.2.3-3+b3 [mips, s390, sparc], 0.2.3-3+b2 [armel])
+    pseudo-random number generator using AES in counter mode
+libghc-cprng-aes-prof (0.2.3-3+b5 [armhf], 0.2.3-3+b4 [amd64, i386, kfreebsd-amd64, kfreebsd-i386, mipsel, s390x], 0.2.3-3+b3 [mips, s390, sparc], 0.2.3-3+b2 [armel])
+    pseudo-random number generator using AES in counter mode; profiling libraries
+libghc-cpu-dev (0.1.1-1)
+    low-level routines to get basic properties of the platform
+libghc-cpu-prof (0.1.1-1)
+    low-level routines to get basic properties of the platform; profiling libraries
+libghc-criterion-dev (0.6.0.1-3+b4 [amd64, i386, powerpc], 0.6.0.1-3+b3 [armel, armhf, kfreebsd-amd64, kfreebsd-i386, s390, sparc], 0.6.0.1-3+b2 [s390x], 0.6.0.1-3 [mips, mipsel])
+    Robust, reliable performance measurement and analysis
+libghc-criterion-prof (0.6.0.1-3+b4 [amd64, i386, powerpc], 0.6.0.1-3+b3 [armel, armhf, kfreebsd-amd64, kfreebsd-i386, s390, sparc], 0.6.0.1-3+b2 [s390x], 0.6.0.1-3 [mips, mipsel])
+    Robust, reliable performance measurement and analysis; profiling libraries
+libghc-crypto-api-dev (0.10.2-1+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.10.2-1+b1 [armel])
+    generic interface for cryptographic operations
+libghc-crypto-api-prof (0.10.2-1+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.10.2-1+b1 [armel])
+    generic interface for cryptographic operations; profiling libraries
+libghc-crypto-conduit-dev (0.3.2-1+b2 [amd64], 0.3.2-1+b1 [armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    conduit interface for cryptographic operations
+libghc-crypto-conduit-prof (0.3.2-1+b2 [amd64], 0.3.2-1+b1 [armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    conduit interface for cryptographic operations; profiling libraries
+libghc-crypto-dev (4.2.4-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 4.2.4-1 [armel])
+    cryptographical algorithms for Haskell
+libghc-crypto-prof (4.2.4-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 4.2.4-1 [armel])
+    cryptographical algorithms for Haskell; profiling libraries
+libghc-crypto-pubkey-types-dev (0.1.1-1+b4 [armhf, mipsel], 0.1.1-1+b3 [amd64, i386, kfreebsd-amd64, kfreebsd-i386, mips, powerpc, s390, s390x, sparc], 0.1.1-1+b2 [armel])
+    generic public-key algorithm types
+libghc-crypto-pubkey-types-prof (0.1.1-1+b4 [armhf, mipsel], 0.1.1-1+b3 [amd64, i386, kfreebsd-amd64, kfreebsd-i386, mips, powerpc, s390, s390x, sparc], 0.1.1-1+b2 [armel])
+    generic public-key algorithm types; profiling libraries
+libghc-cryptocipher-dev (0.3.5-1+b1 [amd64, armhf, i386, mips, s390, s390x], 0.3.5-1 [armel, kfreebsd-amd64, kfreebsd-i386, mipsel, sparc])
+    symmetrical Block, Stream and PubKey ciphers
+libghc-cryptocipher-prof (0.3.5-1+b1 [amd64, armhf, i386, mips, s390, s390x], 0.3.5-1 [armel, kfreebsd-amd64, kfreebsd-i386, mipsel, sparc])
+    symmetrical Block, Stream and PubKey ciphers; profiling libraries
+libghc-cryptohash-dev (0.7.5-1+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.7.5-1+b1 [armel])
+    collection of crypto hashes, fast, pure and practical
+libghc-cryptohash-prof (0.7.5-1+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.7.5-1+b1 [armel])
+    collection of crypto hashes, fast, pure and practical; profiling libs
+libghc-css-text-dev (0.1.1-3+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, powerpc, s390, s390x, sparc], 0.1.1-3+b1 [armel, mipsel])
+    CSS parser and renderer
+libghc-css-text-prof (0.1.1-3+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, powerpc, s390, s390x, sparc], 0.1.1-3+b1 [armel, mipsel])
+    CSS parser and renderer; profiling libraries
+libghc-csv-conduit-dev (0.2-1+b1 [amd64], 0.2-1 [armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    fast, conduit-based CSV parser library
+libghc-csv-conduit-prof (0.2-1+b1 [amd64], 0.2-1 [armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    fast, conduit-based CSV parser library; profiling libraries
+libghc-csv-dev (0.1.2-2+b3 [amd64, i386, powerpc, s390, sparc], 0.1.2-2+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 0.1.2-2+b1 [armel])
+    CSV loader and dumper
+libghc-csv-prof (0.1.2-2+b3 [amd64, i386, powerpc, s390, sparc], 0.1.2-2+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 0.1.2-2+b1 [armel])
+    CSV loader and dumper; profiling libraries
+libghc-curl-dev (1.3.7-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.3.7-1 [armel])
+    GHC libraries for the libcurl Haskell bindings
+libghc-curl-prof (1.3.7-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.3.7-1 [armel])
+    Profiling libraries for the libcurl Haskell bindings
+libghc-darcs-dev (2.8.1-1+b1 [amd64, i386, powerpc, s390, sparc], 2.8.1-1 [armel, armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x])
+    distributed, interactive, smart revision control system; library
+libghc-darcs-prof (2.8.1-1+b1 [amd64, i386, powerpc, s390, sparc], 2.8.1-1 [armel, armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x])
+    distributed, interactive, smart revision control system; profiling libraries
+libghc-data-accessor-dev (0.2.2.2-1+b1)
+    Utilities for accessing and manipulating fields of records
+libghc-data-accessor-mtl-dev (0.2.0.3-1+b1)
+    use Data.Accessor inside the State monad.
+libghc-data-accessor-mtl-prof (0.2.0.3-1+b1)
+    use Data.Accessor inside the State monad; profiling libraries
+libghc-data-accessor-prof (0.2.2.2-1+b1)
+    Utilities for accessing and manipulating fields of records; profiling libraries
+libghc-data-accessor-template-dev (0.2.1.9-1+b2)
+    utilities for accessing and manipulating fields of records
+libghc-data-accessor-template-prof (0.2.1.9-1+b2)
+    utilities for accessing/manipulating fields of records; profiling libraries
+libghc-data-binary-ieee754-dev (0.4.2.1-3+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390, s390x, sparc], 0.4.2.1-3 [armel, powerpc])
+    parser/serialiser for IEEE-754 floating-point values
+libghc-data-binary-ieee754-prof (0.4.2.1-3+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390, s390x, sparc], 0.4.2.1-3 [armel, powerpc])
+    parser/serialiser for IEEE-754 floating-point values; profiling libraries
+libghc-data-default-dev (0.4.0-1)
+    class for types with a default value
+libghc-data-default-prof (0.4.0-1)
+    class for types with a default value; profiling libraries
+libghc-data-inttrie-dev (0.0.7-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.0.7-1 [armel])
+    Lazy, infinite trie of integers library
+libghc-data-inttrie-prof (0.0.7-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.0.7-1 [armel])
+    Lazy, infinite trie of integers library; profiling libraries
+libghc-data-lens-dev (2.10.0-1+b1)
+    Haskell 98 Lenses;
+libghc-data-lens-prof (2.10.0-1+b1)
+    Haskell 98 Lenses; profiling data
+libghc-data-memocombinators-dev (0.4.3-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.4.3-1 [armel])
+    Combinators for building memo tables library
+libghc-data-memocombinators-prof (0.4.3-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.4.3-1 [armel])
+    Combinators for building memo tables library; profiling libraries
+libghc-dataenc-dev (0.14.0.3-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.14.0.3-1 [armel])
+    A Haskell library of data encoders and decoders
+libghc-dataenc-prof (0.14.0.3-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.14.0.3-1 [armel])
+    Profiling libraries for dataenc encoders and decoders
+libghc-datetime-dev (0.2.1-3)
+    Haskell library to convert date and time formats - GHC libraries
+libghc-datetime-prof (0.2.1-3)
+    Haskell library to convert date and time formats - GHC profiling libraries
+libghc-dbus-dev (0.10.3-1)
+    Haskell implementation of D-Bus
+libghc-dbus-prof (0.10.3-1)
+    Haskell implementation of D-Bus; profiling libraries
+libghc-debian-dev (3.64-3+b1 [amd64], 3.64-3 [i386, kfreebsd-amd64, kfreebsd-i386, powerpc])
+    Haskell library for working with the Debian package system
+libghc-debian-prof (3.64-3+b1 [amd64], 3.64-3 [i386, kfreebsd-amd64, kfreebsd-i386, powerpc])
+    Profiling library for working with the Debian package system
+libghc-diagrams-cairo-dev (0.5.0.2-1+b1 [amd64], 0.5.0.2-1 [armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo backend for the diagrams drawing EDSL
+libghc-diagrams-cairo-prof (0.5.0.2-1+b1 [amd64], 0.5.0.2-1 [armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo backend for the diagrams drawing EDSL; profiling libraries
+libghc-diagrams-core-dev (0.5.0.1-1+b1 [amd64, i386, kfreebsd-amd64, mips, powerpc], 0.5.0.1-1 [armel, armhf, kfreebsd-i386, mipsel, s390, s390x, sparc])
+    Core libraries for diagrams EDSL
+libghc-diagrams-core-prof (0.5.0.1-1+b1 [amd64, i386, kfreebsd-amd64, mips, powerpc], 0.5.0.1-1 [armel, armhf, kfreebsd-i386, mipsel, s390, s390x, sparc])
+    Core libraries for diagrams EDSL; profiling libraries
+libghc-diagrams-dev (0.5-2)
+    Embedded domain-specific language for declarative vector graphics
+libghc-diagrams-lib-dev (0.5-2)
+    Embedded domain-specific language for declarative graphics
+libghc-diagrams-lib-prof (0.5-2)
+    Embedded domain-specific language for declarative graphics; profiling libraries
+libghc-diagrams-prof (0.5-2)
+    Embedded domain-specific language for declarative vector graphics; profiling libraries
+libghc-diff-dev (0.1.3-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.1.3-1 [armel])
+    GHC libraries for the Haskell O(ND) diff algorithm library
+libghc-diff-prof (0.1.3-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.1.3-1 [armel])
+    GHC profiling libraries for the Haskell O(ND) diff algorithm library
+libghc-digest-dev (0.0.1.0-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.0.1.0-1 [armel])
+    efficient cryptographic hash implementations for bytestrings
+libghc-digest-prof (0.0.1.0-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.0.1.0-1 [armel])
+    efficient cryptographic hash implementations bytestrings; profiling library
+libghc-dimensional-dev (0.10.1.2-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.10.1.2-2 [armel])
+    statically checked physical dimensions
+libghc-dimensional-prof (0.10.1.2-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.10.1.2-2 [armel])
+    statically checked physical dimensions; profiling data
+libghc-directory-tree-dev (0.10.0-2+b2 [armel], 0.10.0-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    simple directory-like tree datatype, with IO functions
+libghc-directory-tree-prof (0.10.0-2+b2 [armel], 0.10.0-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    simple directory-like tree datatype, with IO functions; profiling library
+libghc-distributive-dev (0.2.2-1+b1)
+    Haskell 98 Distributive functors -- Dual to Traversable
+libghc-distributive-prof (0.2.2-1+b1)
+    Haskell 98 Distributive functors -- Dual to Traversable; prof data
+libghc-dlist-dev (0.5-3+b1)
+    Haskell library for Differences lists
+libghc-dlist-prof (0.5-3+b1)
+    Haskell library for Differences lists; profiling library
+libghc-download-curl-dev (0.1.3-3+b3 [amd64, i386, powerpc, s390, sparc], 0.1.3-3+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 0.1.3-3+b1 [armel])
+    High-level file download based on URLs
+libghc-download-curl-prof (0.1.3-3+b3 [amd64, i386, powerpc, s390, sparc], 0.1.3-3+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 0.1.3-3+b1 [armel])
+    High-level file download based on URLs; profiling libraries
+libghc-dpkg-dev (0.0.3-1)
+    Haskell bindings to libdpkg
+libghc-dpkg-prof (0.0.3-1)
+    Haskell bindings to libdpkg; profiling libs
+libghc-dyre-dev (0.8.7-1)
+    dynamic reconfiguration library
+libghc-dyre-prof (0.8.7-1)
+    dynamic reconfiguration library; profiling libraries
+libghc-edison-api-dev (1.2.1-18+b1)
+    Haskell library of efficent, purely-functional data structures
+libghc-edison-api-prof (1.2.1-18+b1)
+    Haskell library of data structures; profiling libraries
+libghc-edison-core-dev (1.2.1.3-9+b1)
+    Haskell library of efficent, purely-functional data structures
+libghc-edison-core-prof (1.2.1.3-9+b1)
+    Haskell library of data structures; profiling libraries
+libghc-edit-distance-dev (0.2.1-2+b1 [armhf], 0.2.1-2 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Haskell fuzzy matching - GHC libraries
+libghc-edit-distance-prof (0.2.1-2+b1 [armhf], 0.2.1-2 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Haskell fuzzy matching - GHC profiling libraries
+libghc-editline-dev (0.2.1.0-5+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.2.1.0-5 [armel])
+    Haskell bindings to the BSD editline library (libedit)
+libghc-ekg-data (0.3.1.0-1)
+    remote monitoring of Haskell processes over HTTP - common files
+libghc-ekg-dev (0.3.1.0-1+b3 [amd64], 0.3.1.0-1+b2 [armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    remote monitoring of Haskell processes over HTTP - libraries
+libghc-ekg-prof (0.3.1.0-1+b3 [amd64], 0.3.1.0-1+b2 [armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    remote monitoring of Haskell processes over HTTP - profiling libraries
+libghc-email-validate-dev (0.2.8-1+b3 [amd64, i386, powerpc, s390, sparc], 0.2.8-1+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 0.2.8-1+b1 [armel])
+    validate an email address string against RFC 5322
+libghc-email-validate-prof (0.2.8-1+b3 [amd64, i386, powerpc, s390, sparc], 0.2.8-1+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 0.2.8-1+b1 [armel])
+    validate an email address string against RFC 5322; profiling libraries
+libghc-entropy-dev (0.2.1-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.2.1-2 [armel])
+    cryptographically-strong entropy
+libghc-entropy-prof (0.2.1-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.2.1-2 [armel])
+    cryptographically-strong entropy; profiling libraries
+libghc-enumerator-dev (0.4.19-1+b1)
+    high-performance left-fold enumerators
+libghc-enumerator-prof (0.4.19-1+b1)
+    high-performance left-fold enumerators; profiling libraries
+libghc-erf-dev (2.0.0.0-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 2.0.0.0-2 [armel])
+    The error function, erf, and related functions
+libghc-erf-prof (2.0.0.0-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 2.0.0.0-2 [armel])
+    The error function, erf, and related functions; profiling libraries
+libghc-event-list-dev (0.1.0.1-1+b1)
+    Event lists with relative or absolute timestamps
+libghc-event-list-prof (0.1.0.1-1+b1)
+    Event lists with relative or absolute timestamps; profiling libraries
+libghc-exception-transformers-dev (0.3.0.2-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, powerpc, s390, s390x], 0.3.0.2-1 [armel, mipsel, sparc])
+    type classes and monads for unchecked extensible exceptions
+libghc-exception-transformers-prof (0.3.0.2-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, powerpc, s390, s390x], 0.3.0.2-1 [armel, mipsel, sparc])
+    type classes and monads for unchecked extensible exceptions; profiling libs
+libghc-executable-path-dev (0.0.3-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.0.3-1 [armel])
+    determine full path of executable
+libghc-executable-path-prof (0.0.3-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.0.3-1 [armel])
+    determine full path of executable; profiling libraries
+libghc-explicit-exception-dev (0.1.7-1+b1)
+    Haskell exceptions which are explicit in the type signature
+libghc-explicit-exception-prof (0.1.7-1+b1)
+    profiling libraries for libghc-explicit-exception-dev
+libghc-failure-dev (0.2.0.1-1+b1)
+    simple type class for success/failure computations
+libghc-failure-prof (0.2.0.1-1+b1)
+    simple type class for success/failure; profiling libraries
+libghc-fast-logger-dev (0.0.2-1+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.0.2-1+b1 [armel])
+    a fast logging system
+libghc-fast-logger-prof (0.0.2-1+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.0.2-1+b1 [armel])
+    a fast logging system; profiling libraries
+libghc-fastcgi-dev (3001.0.2.3-3+b3 [amd64, i386, powerpc, s390, sparc], 3001.0.2.3-3+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 3001.0.2.3-3+b1 [armel])
+    A Haskell library for writing FastCGI programs
+libghc-fastcgi-prof (3001.0.2.3-3+b3 [amd64, i386, powerpc, s390, sparc], 3001.0.2.3-3+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 3001.0.2.3-3+b1 [armel])
+    A Haskell library for writing FastCGI programs; profiling library
+libghc-fclabels-dev (1.1.3-1+b1 [amd64, i386, kfreebsd-amd64, kfreebsd-i386], 1.1.3-1 [sparc])
+    first-class accessor labels
+libghc-fclabels-prof (1.1.3-1+b1 [amd64, i386, kfreebsd-amd64, kfreebsd-i386], 1.1.3-1 [sparc])
+    first-class accessor labels; profiling libraries
+libghc-feed-dev (0.3.8-3)
+    Haskell interface to RSS and Atom feeds - GHC libraries
+libghc-feed-prof (0.3.8-3)
+    Haskell interface to RSS and Atom feeds - GHC profiling libraries
+libghc-fgl-dev (5.4.2.4-2+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 5.4.2.4-2+b1 [armel])
+    Haskell graph library for GHC
+libghc-fgl-prof (5.4.2.4-2+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 5.4.2.4-2+b1 [armel])
+    Haskell graph library for GHC; profiling libraries
+libghc-file-embed-dev (0.0.4.4-1)
+    direct file embedding library
+libghc-file-embed-prof (0.0.4.4-1)
+    direct file embedding library; profiling libraries
+libghc-filemanip-dev (0.3.5.2-2+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.3.5.2-2+b1 [armel])
+    expressive file and directory manipulation for Haskell
+libghc-filemanip-prof (0.3.5.2-2+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.3.5.2-2+b1 [armel])
+    expressive file and directory manipulation for Haskell; profiling libraries
+libghc-filestore-data (0.5-1)
+    Haskell interface for versioning file stores - common files
+libghc-filestore-dev (0.5-1)
+    Haskell interface for versioning file stores - GHC libraries
+libghc-filestore-prof (0.5-1)
+    Haskell interface for versioning file stores - GHC profiling libraries
+libghc-filesystem-conduit-dev (0.4.0-1)
+    use system filepath data types with conduits
+libghc-filesystem-conduit-prof (0.4.0-1)
+    use system filepath data types with conduits; profiling libraries
+libghc-free-dev (2.1.1.1-1+b1)
+    Monads for free
+libghc-free-prof (2.1.1.1-1+b1)
+    Monads for free; profiling data
+libghc-ftphs-dev (1.0.8-1+b3 [amd64, i386, powerpc, s390, sparc], 1.0.8-1+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 1.0.8-1+b1 [armel])
+    FTP Client and Server Library for Haskell, GHC package
+libghc-ftphs-prof (1.0.8-1+b3 [amd64, i386, powerpc, s390, sparc], 1.0.8-1+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 1.0.8-1+b1 [armel])
+    FTP Client and Server Library for Haskell, profiling data
+libghc-gconf-dev (0.12.1-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.12.1-1 [armel])
+    Binding to the GNOME configuration database system
+libghc-gconf-prof (0.12.1-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.12.1-1 [armel])
+    Binding to the GNOME configuration database system; profiling libraries
+libghc-gd-dev (3000.7.3-1)
+    bindings to the GD graphics library
+libghc-gd-prof (3000.7.3-1)
+    bindings to the GD graphics library; profiling libraries
+libghc-ghc-events-dev (0.4.0.0-2+b1)
+    Library for parsing GHC event log files
+libghc-ghc-events-prof (0.4.0.0-2+b1)
+    Library for parsing GHC event log files; profiling libraries
+libghc-ghc-mtl-dev (1.0.1.1-1+b3 [amd64, i386, kfreebsd-amd64, kfreebsd-i386, mips, powerpc, s390, s390x, sparc], 1.0.1.1-1+b2 [armel, armhf, mipsel])
+    an mtl compatible version of the Ghc-Api monads
+libghc-ghc-mtl-prof (1.0.1.1-1+b3 [amd64, i386, kfreebsd-amd64, kfreebsd-i386, mips, powerpc, s390, s390x, sparc], 1.0.1.1-1+b2 [armel, armhf, mipsel])
+    an mtl compatible version of the Ghc-Api monads; profiling libraries
+libghc-ghc-paths-dev (0.1.0.8-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.1.0.8-2 [armel])
+    Knowledge of GHC's installation directories
+libghc-ghc-paths-prof (0.1.0.8-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.1.0.8-2 [armel])
+    Knowledge of GHC's installation directories; profiling libraries
+libghc-ghc-syb-utils-dev (0.2.1.0-1+b3 [amd64, i386, kfreebsd-amd64, kfreebsd-i386, mips, powerpc, s390, s390x, sparc], 0.2.1.0-1+b2 [armel, armhf, mipsel])
+    Scrap Your Boilerplate utilities for the GHC API
+libghc-ghc-syb-utils-prof (0.2.1.0-1+b3 [amd64, i386, kfreebsd-amd64, kfreebsd-i386, mips, powerpc, s390, s390x, sparc], 0.2.1.0-1+b2 [armel, armhf, mipsel])
+    Scrap Your Boilerplate utilities for the GHC API; profiling libraries
+libghc-gio-dev (0.12.3-1+b2 [armhf], 0.12.3-1+b1 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Binding to the GIO
+libghc-gio-prof (0.12.3-1+b2 [armhf], 0.12.3-1+b1 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Binding to the GIO; profiling libraries
+libghc-github-dev (0.4.0-2)
+    Haskell Github API - GHC libraries
+libghc-github-prof (0.4.0-2)
+    Haskell Github API - GHC profiling libraries
+libghc-gitit-dev (0.10.0.1-1+b2 [kfreebsd-amd64, kfreebsd-i386], 0.10.0.1-1+b1 [amd64, i386])
+    Wiki engine backed by a git or darcs filestore - GHC libraries
+libghc-gitit-prof (0.10.0.1-1+b2 [kfreebsd-amd64, kfreebsd-i386], 0.10.0.1-1+b1 [amd64, i386])
+    Wiki engine backed by a git or darcs filestore; profiling libraries
+libghc-glade-dev (0.12.1-1+b4 [mips], 0.12.1-1+b3 [amd64, i386, kfreebsd-amd64, kfreebsd-i386, mipsel, powerpc, s390, s390x, sparc], 0.12.1-1+b2 [armel, armhf])
+    Binding to the glade library
+libghc-glade-prof (0.12.1-1+b4 [mips], 0.12.1-1+b3 [amd64, i386, kfreebsd-amd64, kfreebsd-i386, mipsel, powerpc, s390, s390x, sparc], 0.12.1-1+b2 [armel, armhf])
+    Binding to the glade library; profiling libraries
+libghc-glfw-dev (0.5.0.1-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.5.0.1-1 [armel])
+    Haskell GLFW binding for GHC
+libghc-glfw-prof (0.5.0.1-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.5.0.1-1 [armel])
+    Haskell GLFW binding for GHC; profiling libraries
+libghc-glib-dev (0.12.2-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.12.2-1 [armel])
+    Binding to the GLIB library for Gtk2Hs
+libghc-glib-prof (0.12.2-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.12.2-1 [armel])
+    Binding to the GLIB library for Gtk2Hs; profiling libraries
+libghc-glut-dev (2.1.2.2-1)
+    Haskell GLUT binding for GHC
+libghc-glut-prof (2.1.2.2-1)
+    Haskell GLUT binding for GHC; profiling libraries
+libghc-gnuidn-dev (0.2-2+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390x, sparc], 0.2-2+b1 [armel, s390])
+    bindings for GNU IDN
+libghc-gnuidn-prof (0.2-2+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390x, sparc], 0.2-2+b1 [armel, s390])
+    bindings for GNU IDN; profiling libraries
+libghc-gnutls-dev (0.1.2-1+b1 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390x, sparc], 0.1.2-1 [s390])
+    bindings for GNU TLS
+libghc-gnutls-prof (0.1.2-1+b1 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390x, sparc], 0.1.2-1 [s390])
+    bindings for GNU TLS; profiling libraries
+libghc-gsasl-dev (0.3.4-1+b1)
+    bindings for GNU SASL
+libghc-gsasl-prof (0.3.4-1+b1)
+    bindings for GNU SASL; profiling libraries
+libghc-gstreamer-dev (0.12.1-1+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.12.1-1+b1 [armel])
+    Binding to the GStreamer open source multimedia framework
+libghc-gstreamer-prof (0.12.1-1+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.12.1-1+b1 [armel])
+    Binding to the GStreamer open source multimedia framework; profiling libraries
+libghc-gtk-dev (0.12.3-1+b3 [armhf], 0.12.3-1+b2 [amd64, i386, kfreebsd-amd64, kfreebsd-i386, sparc], 0.12.3-1+b1 [armel, mips, mipsel, powerpc, s390, s390x])
+    Binding to the Gtk+ graphical user interface library
+libghc-gtk-prof (0.12.3-1+b3 [armhf], 0.12.3-1+b2 [amd64, i386, kfreebsd-amd64, kfreebsd-i386, sparc], 0.12.3-1+b1 [armel, mips, mipsel, powerpc, s390, s390x])
+    Binding to the Gtk+ graphical user interface library; profiling libraries
+libghc-gtkglext-dev (0.12.1-1+b3 [amd64, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.12.1-1+b2 [armel, armhf])
+    Binding to the GTK+ OpenGL Extension
+libghc-gtkglext-prof (0.12.1-1+b3 [amd64, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.12.1-1+b2 [armel, armhf])
+    Binding to the GTK+ OpenGL Extension; profiling libraries
+libghc-gtksourceview2-dev (0.12.3-1+b3 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.12.3-1+b2 [armel, s390x])
+    Binding to the GtkSourceView library
+libghc-gtksourceview2-prof (0.12.3-1+b3 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.12.3-1+b2 [armel, s390x])
+    Binding to the GtkSourceView library; profiling libraries
+libghc-haddock-dev (2.10.0-1+b2 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, powerpc, s390, s390x, sparc], 2.10.0-1+b1 [mipsel])
+    documentation-generation library for haskell
+libghc-haddock-prof (2.10.0-1+b2 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, powerpc, s390, s390x, sparc], 2.10.0-1+b1 [mipsel])
+    documentation-generation library for haskell; profiling libraries
+libghc-hakyll-dev (3.2.7.2-1+b6 [amd64, kfreebsd-amd64, kfreebsd-i386], 3.2.7.2-1+b5 [i386, sparc])
+    static website compiler library
+libghc-hakyll-prof (3.2.7.2-1+b6 [amd64, kfreebsd-amd64, kfreebsd-i386], 3.2.7.2-1+b5 [i386, sparc])
+    static website compiler library; profiling libraries
+libghc-hamlet-dev (1.0.1.3-1+b1 [amd64, i386, sparc], 1.0.1.3-1 [kfreebsd-amd64, kfreebsd-i386])
+    type-safe tool for generating HTML code
+libghc-hamlet-prof (1.0.1.3-1+b1 [amd64, i386, sparc], 1.0.1.3-1 [kfreebsd-amd64, kfreebsd-i386])
+    type-safe tool for generating HTML code; profiling libraries
+libghc-happstack-dev (7.0.0-1+b1 [amd64, i386], 7.0.0-1 [kfreebsd-amd64, kfreebsd-i386, sparc])
+    Haskell web framework - GHC libraries
+libghc-happstack-prof (7.0.0-1+b1 [amd64, i386], 7.0.0-1 [kfreebsd-amd64, kfreebsd-i386, sparc])
+    Haskell web framework - GHC profiling libraries
+libghc-happstack-server-dev (7.0.1-1+b1 [amd64, i386, sparc], 7.0.1-1 [kfreebsd-amd64, kfreebsd-i386])
+    Happstack web framework, HTTP server - GHC libraries
+libghc-happstack-server-prof (7.0.1-1+b1 [amd64, i386, sparc], 7.0.1-1 [kfreebsd-amd64, kfreebsd-i386])
+    Happstack web framework, HTTP server - GHC profiling libraries
+libghc-harp-dev (0.4-3+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.4-3 [armel])
+    Haskell support for regexp based pattern matching - GHC libraries
+libghc-harp-prof (0.4-3+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.4-3 [armel])
+    Haskell support for regexp based pattern matching - GHC profiling libraries
+libghc-hashable-dev (1.1.2.3-1+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.1.2.3-1+b1 [armel])
+    Class for types that can be converted to a hash value
+libghc-hashable-prof (1.1.2.3-1+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.1.2.3-1+b1 [armel])
+    Class for types that can be converted to a hash value; profiling libraries
+libghc-hashed-storage-dev (0.5.9-2+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.5.9-2+b1 [armel])
+    hashed file storage support code
+libghc-hashed-storage-prof (0.5.9-2+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.5.9-2+b1 [armel])
+    hashed file storage support code; profiling libraries
+libghc-hashmap-dev (1.3.0.1-1+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.3.0.1-1+b1 [armel])
+    persistent containers Map and Set based on hashing
+libghc-hashmap-prof (1.3.0.1-1+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.3.0.1-1+b1 [armel])
+    persistent containers Map and Set based on hashing; profiling libraries
+libghc-hashtables-dev (1.0.1.4-1+b1)
+    mutable hash tables
+libghc-hashtables-prof (1.0.1.4-1+b1)
+    mutable hash tables -- profiling libraries
+libghc-haskeline-dev (0.6.4.7-1+b1)
+    A command-line interface for user input, written in Haskell
+libghc-haskeline-prof (0.6.4.7-1+b1)
+    A command-line interface for user input; profiling libraries
+libghc-haskell-lexer-dev (1.0-3+b1)
+    A fully compliant Haskell 98 lexer
+libghc-haskell-lexer-prof (1.0-3+b1)
+    Profiling libraries for a fully compliant Haskell 98 lexer
+libghc-haskell-src-dev (1.0.1.5-1+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.0.1.5-1+b1 [armel])
+    Haskell module to manipulate Haskell source
+libghc-haskell-src-prof (1.0.1.5-1+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.0.1.5-1+b1 [armel])
+    Haskell module to manipulate Haskell source; profiling libraries
+libghc-haskelldb-dev (2.1.1-5+b1)
+    Haskell library for expressing database queries
+libghc-haskelldb-hdbc-dev (2.1.0-4+b1 [amd64], 2.1.0-4 [armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    HaskellDB support for HDBC
+libghc-haskelldb-hdbc-odbc-dev (2.1.0-3)
+    HaskellDB support for the HDBC ODBC driver
+libghc-haskelldb-hdbc-odbc-prof (2.1.0-3)
+    HaskellDB support for the HDBC ODBC driver; profiling libraries
+libghc-haskelldb-hdbc-postgresql-dev (2.1.0-3)
+    HaskellDB support for the HDBC PostgreSQL driver
+libghc-haskelldb-hdbc-postgresql-prof (2.1.0-3)
+    HaskellDB support for the HDBC PostgreSQL driver; profiling libraries
+libghc-haskelldb-hdbc-prof (2.1.0-4+b1 [amd64], 2.1.0-4 [armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    HaskellDB support for HDBC; profiling libraries
+libghc-haskelldb-hdbc-sqlite3-dev (2.1.0-3)
+    HaskellDB support for the HDBC SQLite driver
+libghc-haskelldb-hdbc-sqlite3-prof (2.1.0-3)
+    HaskellDB support for the HDBC SQLite driver; profiling libraries
+libghc-haskelldb-prof (2.1.1-5+b1)
+    Haskell library for expressing database queries; profiling libraries
+libghc-haskore-dev (0.2.0.3-2+b1 [amd64], 0.2.0.3-2 [armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Haskore Computer Music System
+libghc-haskore-prof (0.2.0.3-2+b1 [amd64], 0.2.0.3-2 [armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Haskore Computer Music System; profiling libraries
+libghc-hastache-dev (0.3.3-2+b3 [amd64, i386, powerpc, s390, sparc], 0.3.3-2+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 0.3.3-2+b1 [armel])
+    Haskell implementation of Mustache templates
+libghc-hastache-prof (0.3.3-2+b3 [amd64, i386, powerpc, s390, sparc], 0.3.3-2+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 0.3.3-2+b1 [armel])
+    Haskell implementation of Mustache templates; profiling libraries
+libghc-haxml-dev (1:1.22.5-2+b2)
+    GHC libraries for using XML documents with Haskell
+libghc-haxml-prof (1:1.22.5-2+b2)
+    Profiling libraries for the haskell haxml library
+libghc-haxr-dev (3000.8.5-1+b3 [amd64, i386, sparc], 3000.8.5-1+b2 [kfreebsd-amd64, kfreebsd-i386])
+    XML-RPC client and server library for Haskell
+libghc-haxr-prof (3000.8.5-1+b3 [amd64, i386, sparc], 3000.8.5-1+b2 [kfreebsd-amd64, kfreebsd-i386])
+    XML-RPC client and server library for Haskell; profiling library
+libghc-hcard-dev (0.0-2+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.0-2+b1 [armel])
+    library for implementing a Deck of Cards
+libghc-hcard-prof (0.0-2+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.0-2+b1 [armel])
+    library for implementing a Deck of Cards; profiling libraries
+libghc-hcwiid-dev (0.0.1-3+b1 [amd64, armhf, i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.0.1-3 [armel])
+    Library to interface with the wiimote
+libghc-hcwiid-prof (0.0.1-3+b1 [amd64, armhf, i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.0.1-3 [armel])
+    Library to interface with the wiimote; profiling libraries
+libghc-hdbc-dev (2.3.1.1-1+b3 [amd64, i386, powerpc, s390, sparc], 2.3.1.1-1+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 2.3.1.1-1+b1 [armel])
+    Haskell Database Connectivity, GHC package
+libghc-hdbc-odbc-dev (2.2.3.0-5+b3 [amd64, i386, powerpc, s390, sparc], 2.2.3.0-5+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 2.2.3.0-5+b1 [armel])
+    unixODBC HDBC (Haskell Database Connectivity) Driver for GHC
+libghc-hdbc-odbc-prof (2.2.3.0-5+b3 [amd64, i386, powerpc, s390, sparc], 2.2.3.0-5+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 2.2.3.0-5+b1 [armel])
+    unixODBC Haskell Database Connectivity Driver; profiling libraries
+libghc-hdbc-postgresql-dev (2.3.2.1-1+b3 [amd64, i386, powerpc, s390, sparc], 2.3.2.1-1+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 2.3.2.1-1+b1 [armel])
+    PostgreSQL HDBC (Haskell Database Connectivity) Driver for GHC
+libghc-hdbc-postgresql-prof (2.3.2.1-1+b3 [amd64, i386, powerpc, s390, sparc], 2.3.2.1-1+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 2.3.2.1-1+b1 [armel])
+    PostgreSQL HDBC Driver for GHC; profiling libraries
+libghc-hdbc-prof (2.3.1.1-1+b3 [amd64, i386, powerpc, s390, sparc], 2.3.1.1-1+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 2.3.1.1-1+b1 [armel])
+    Haskell Database Connectivity, GHC profiling data
+libghc-hdbc-sqlite3-dev (2.3.3.0-1+b3 [amd64, i386, powerpc, sparc], 2.3.3.0-1+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390, s390x], 2.3.3.0-1+b1 [armel])
+    Sqlite v3 HDBC (Haskell Database Connectivity) Driver for GHC
+libghc-hdbc-sqlite3-prof (2.3.3.0-1+b3 [amd64, i386, powerpc, sparc], 2.3.3.0-1+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390, s390x], 2.3.3.0-1+b1 [armel])
+    Sqlite v3 HDBC Driver for GHC; profiling libraries
+libghc-hfuse-dev (0.2.4.1-1)
+    Haskell binding for the Linux FUSE library
+libghc-hfuse-prof (0.2.4.1-1)
+    Haskell binding for the Linux FUSE library; profiling library
+libghc-highlighting-kate-dev (0.5.1-1)
+    syntax highlighting library based on Kate syntax descriptions
+libghc-highlighting-kate-prof (0.5.1-1)
+    highlighting-kate library with profiling enabled
+libghc-hinotify-dev (0.3.2-1+b1 [amd64, armhf, i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.3.2-1 [armel])
+    Haskell inotify library for GHC
+libghc-hinotify-prof (0.3.2-1+b1 [amd64, armhf, i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.3.2-1 [armel])
+    Haskell inotify library for GHC; profiling libraries
+libghc-hint-dev (0.3.3.4-2+b4 [amd64, i386, sparc], 0.3.3.4-2+b3 [kfreebsd-amd64, kfreebsd-i386])
+    runtime Haskell interpreter (GHC API wrapper)
+libghc-hint-prof (0.3.3.4-2+b4 [amd64, i386, sparc], 0.3.3.4-2+b3 [kfreebsd-amd64, kfreebsd-i386])
+    runtime Haskell interpreter (GHC API wrapper); profiling libraries
+libghc-hipmunk-dev (5.2.0.8-1+b1)
+    Haskell bindings for Chipmunk
+libghc-hipmunk-prof (5.2.0.8-1+b1)
+    Haskell bindings for Chipmunk; profiling libraries
+libghc-hjavascript-dev (0.4.7-3+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.4.7-3 [armel])
+    Haskell abstract syntax for a subset of JavaScript - GHC libraries
+libghc-hjavascript-prof (0.4.7-3+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.4.7-3 [armel])
+    Haskell abstract syntax for a subset of JavaScript - GHC profiling libraries
+libghc-hjscript-dev (0.5.0-3+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, s390x, sparc], 0.5.0-3+b1 [armel])
+    Haskell DSL for writing JavaScript programs - GHC libraries
+libghc-hjscript-prof (0.5.0-3+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, s390x, sparc], 0.5.0-3+b1 [armel])
+    Haskell DSL for writing JavaScript programs - GHC profiling libraries
+libghc-hjsmin-dev (0.1.1-1+b2 [amd64, i386, powerpc, s390, sparc], 0.1.1-1+b1 [armel, armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x])
+    JavaScript minifier
+libghc-hjsmin-prof (0.1.1-1+b2 [amd64, i386, powerpc, s390, sparc], 0.1.1-1+b1 [armel, armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x])
+    JavaScript minifier; profiling data
+libghc-hlint-dev (1.8.28-1+b3 [amd64, i386, powerpc, sparc], 1.8.28-1+b2 [armel, armhf, kfreebsd-amd64, kfreebsd-i386, s390x])
+    Haskell source code suggestions; library
+libghc-hlint-prof (1.8.28-1+b3 [amd64, i386, powerpc, sparc], 1.8.28-1+b2 [armel, armhf, kfreebsd-amd64, kfreebsd-i386, s390x])
+    Haskell source code suggestions; profiling libraries
+libghc-hoauth-dev (0.3.4-1+b1)
+    Haskell implementation of OAuth 1.0a
+libghc-hoauth-prof (0.3.4-1+b1)
+    Haskell implementation of OAuth 1.0a; profiling data
+libghc-hostname-dev (1.0-4+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.0-4 [armel])
+    providing a cross-platform means of determining the hostname
+libghc-hostname-prof (1.0-4+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.0-4 [armel])
+    providing a cross-platform means of determining the hostname; profiling lib
+libghc-hs-bibutils-dev (4.12-5+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 4.12-5+b1 [armel])
+    Haskell bindings to bibutils library
+libghc-hs-bibutils-prof (4.12-5+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 4.12-5+b1 [armel])
+    Haskell bindings to bibutils library; profiling libraries
+libghc-hs3-dev (0.5.6-2+b4 [amd64, i386, powerpc, s390, sparc], 0.5.6-2+b3 [kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 0.5.6-2+b2 [armhf], 0.5.6-2+b1 [armel])
+    interface to Amazon's Simple Storage Service for Haskell
+libghc-hs3-prof (0.5.6-2+b4 [amd64, i386, powerpc, s390, sparc], 0.5.6-2+b3 [kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 0.5.6-2+b2 [armhf], 0.5.6-2+b1 [armel])
+    interface to Amazon's Simple Storage Service for Haskell; profiling data
+libghc-hscolour-dev (1.19-3+b2 [armhf], 1.19-3+b1 [amd64, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.19-3 [armel])
+    GHC libraries for colourising Haskell code
+libghc-hscolour-prof (1.19-3+b2 [armhf], 1.19-3+b1 [amd64, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.19-3 [armel])
+    Profiling libraries for colourising Haskell code
+libghc-hscurses-dev (1.4.1.0-1+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.4.1.0-1+b1 [armel])
+    ncurses bindings for Haskell - development files for GHC
+libghc-hscurses-prof (1.4.1.0-1+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.4.1.0-1+b1 [armel])
+    ncurses bindings for Haskell - profiling files for GHC
+libghc-hsemail-dev (1.7.1-2+b3 [amd64, i386, powerpc, s390, sparc], 1.7.1-2+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 1.7.1-2+b1 [armel])
+    Haskell parser for emails and SMTP conversations - GHC libraries
+libghc-hsemail-prof (1.7.1-2+b3 [amd64, i386, powerpc, s390, sparc], 1.7.1-2+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 1.7.1-2+b1 [armel])
+    Haskell parser for emails and SMTP conversations - GHC profiling libraries
+libghc-hsh-dev (2.0.3-6+b3 [amd64, i386, powerpc, s390, sparc], 2.0.3-6+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 2.0.3-6+b1 [armel])
+    Library to mix shell scripting with Haskell programs
+libghc-hsh-doc (2.0.3-6+b3 [amd64, i386, powerpc, s390, sparc], 2.0.3-6+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 2.0.3-6+b1 [armel])
+    Library to mix shell scripting with Haskell programs; documentation
+libghc-hsh-prof (2.0.3-6+b3 [amd64, i386, powerpc, s390, sparc], 2.0.3-6+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 2.0.3-6+b1 [armel])
+    Library to mix shell scripting with Haskell programs; profiling
+libghc-hslogger-dev (1.1.4+dfsg1-2+b3 [amd64, i386, powerpc, s390, sparc], 1.1.4+dfsg1-2+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 1.1.4+dfsg1-2+b1 [armel])
+    The Haskell Logging Framework, GHC package
+libghc-hslogger-prof (1.1.4+dfsg1-2+b3 [amd64, i386, powerpc, s390, sparc], 1.1.4+dfsg1-2+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 1.1.4+dfsg1-2+b1 [armel])
+    The Haskell Logging Framework, GHC profiling libraries
+libghc-hsp-dev (0.6.1-2+b3 [amd64, i386, powerpc, sparc], 0.6.1-2+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, s390x], 0.6.1-2+b1 [armel])
+    Haskell library for dynamic server-side web pages - GHC libraries
+libghc-hsp-prof (0.6.1-2+b3 [amd64, i386, powerpc, sparc], 0.6.1-2+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, s390x], 0.6.1-2+b1 [armel])
+    Haskell library for dynamic server-side web pages - GHC profiling libraries
+libghc-hspec-dev (1.1.0-1+b1 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, powerpc, s390, s390x, sparc], 1.1.0-1 [mipsel])
+    behavior-driven development for Haskell
+libghc-hspec-prof (1.1.0-1+b1 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, powerpc, s390, s390x, sparc], 1.1.0-1 [mipsel])
+    behavior-driven development for Haskell; profiling libraries
+libghc-hsql-dev (1.8.1-4)
+    Multi-Database Interface System library for GHC
+libghc-hsql-mysql-dev (1.8.1-4+b1)
+    MySQL driver of the HSQL library for GHC
+libghc-hsql-mysql-prof (1.8.1-4+b1)
+    MySQL driver of the HSQL library for GHC; profiling libraries
+libghc-hsql-odbc-dev (1.8.1.1-2)
+    UnixODBC driver of the HSQL library for GHC
+libghc-hsql-odbc-prof (1.8.1.1-2)
+    UnixODBC driver of the HSQL profiling library for GHC
+libghc-hsql-postgresql-dev (1.8.1-3)
+    PostgreSQL driver of the HSQL library for GHC
+libghc-hsql-postgresql-prof (1.8.1-3)
+    PostgreSQL driver of the HSQL library for GHC; profiling libraries
+libghc-hsql-prof (1.8.1-4)
+    Multi-Database Interface System profiling library for GHC
+libghc-hsql-sqlite3-dev (1.8.1-2)
+    SQLite driver of the HSQL library for GHC
+libghc-hsql-sqlite3-prof (1.8.1-2)
+    SQLite driver of the HSQL profiling library for GHC
+libghc-hssyck-dev (0.50-2+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.50-2+b1 [armel])
+    interface to syck YAML library
+libghc-hssyck-prof (0.50-2+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.50-2+b1 [armel])
+    interface to syck YAML library; profiling libraries
+libghc-hstringtemplate-dev (0.6.8-1)
+    Haskell port of the Java library StringTemplate - GHC libraries
+libghc-hstringtemplate-prof (0.6.8-1)
+    Haskell port of the Java library StringTemplate - GHC profiling libraries
+libghc-hsx-dev (0.9.1-3)
+    Haskell support for XML in source code - GHC libraries
+libghc-hsx-prof (0.9.1-3)
+    Haskell support for XML in source code - GHC profiling libraries
+libghc-html-conduit-dev (0.0.1-2+b1 [amd64], 0.0.1-2 [armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    parse HTML documents using xml-conduit datatypes
+libghc-html-conduit-prof (0.0.1-2+b1 [amd64], 0.0.1-2 [armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    parse HTML documents using xml-conduit datatypes; profiling libraries
+libghc-html-dev (1.0.1.2-5+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.0.1.2-5 [armel])
+    Haskell html library for GHC
+libghc-html-prof (1.0.1.2-5+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.0.1.2-5 [armel])
+    Haskell html library for GHC; profiling libraries
+libghc-http-conduit-dev (1.4.1.6-3+b1 [s390x], 1.4.1.6-3 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390, sparc])
+    HTTP client package with conduit interface and HTTPS support
+libghc-http-conduit-prof (1.4.1.6-3+b1 [s390x], 1.4.1.6-3 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390, sparc])
+    HTTP/HTTPS client package with conduit interface, profiling libraries
+libghc-http-date-dev (0.0.2-1+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, powerpc, s390, s390x, sparc], 0.0.2-1+b1 [armel, mipsel])
+    HTTP Date parser/formatter
+libghc-http-date-prof (0.0.2-1+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, powerpc, s390, s390x, sparc], 0.0.2-1+b1 [armel, mipsel])
+    HTTP Date parser/formatter; profiling data
+libghc-http-dev (1:4000.2.3-1+b2 [amd64, i386, mipsel, powerpc, s390, sparc], 1:4000.2.3-1+b1 [armel, armhf, kfreebsd-amd64, kfreebsd-i386, mips, s390x])
+    GHC libraries for the Haskell HTTP client library
+libghc-http-prof (1:4000.2.3-1+b2 [amd64, i386, mipsel, powerpc, s390, sparc], 1:4000.2.3-1+b1 [armel, armhf, kfreebsd-amd64, kfreebsd-i386, mips, s390x])
+    profiling libraries for the Haskell HTTP client library
+libghc-http-types-dev (0.6.11-1)
+    Generic HTTP types (for both client and server code)
+libghc-http-types-prof (0.6.11-1)
+    Generic HTTP types (for both client and server code); profiling libraries
+libghc-hunit-dev (1.2.4.2-2+b2 [armel], 1.2.4.2-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Haskell unit testing framework for GHC
+libghc-hunit-prof (1.2.4.2-2+b2 [armel], 1.2.4.2-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Haskell unit testing framework for GHC; profiling libraries
+libghc-hxt-cache-dev (9.0.2-2+b4 [amd64], 9.0.2-2+b3 [armhf, i386, mipsel, powerpc, s390, sparc], 9.0.2-2+b2 [armel, kfreebsd-amd64, kfreebsd-i386, mips, s390x])
+    Cache for HXT XML Documents and other binary data
+libghc-hxt-cache-prof (9.0.2-2+b4 [amd64], 9.0.2-2+b3 [armhf, i386, mipsel, powerpc, s390, sparc], 9.0.2-2+b2 [armel, kfreebsd-amd64, kfreebsd-i386, mips, s390x])
+    Cache for HXT XML Documents and other binary data; profiling library
+libghc-hxt-charproperties-dev (9.1.1-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 9.1.1-2 [armel])
+    Character properties and classes for XML and Unicode
+libghc-hxt-charproperties-prof (9.1.1-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 9.1.1-2 [armel])
+    Character properties and classes for XML and Unicode; profiling library
+libghc-hxt-curl-dev (9.1.1-1+b4 [i386, powerpc, sparc], 9.1.1-1+b3 [amd64, mips, mipsel, s390], 9.1.1-1+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, s390x], 9.1.1-1+b1 [armel])
+    LibCurl interface for HXT
+libghc-hxt-curl-prof (9.1.1-1+b4 [i386, powerpc, sparc], 9.1.1-1+b3 [amd64, mips, mipsel, s390], 9.1.1-1+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, s390x], 9.1.1-1+b1 [armel])
+    LibCurl interface for HXT; profiling library
+libghc-hxt-dev (9.2.2-2+b3 [amd64, i386, powerpc, s390, sparc], 9.2.2-2+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 9.2.2-2+b1 [armel])
+    xml toolkit for Haskell (library)
+libghc-hxt-http-dev (9.1.4-2+b4 [sparc], 9.1.4-2+b3 [amd64, i386, mips, mipsel, powerpc, s390], 9.1.4-2+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, s390x], 9.1.4-2+b1 [armel])
+    Interface to native Haskell HTTP package HTTP
+libghc-hxt-http-prof (9.1.4-2+b4 [sparc], 9.1.4-2+b3 [amd64, i386, mips, mipsel, powerpc, s390], 9.1.4-2+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, s390x], 9.1.4-2+b1 [armel])
+    Interface to native Haskell HTTP package HTTP; profiling library
+libghc-hxt-prof (9.2.2-2+b3 [amd64, i386, powerpc, s390, sparc], 9.2.2-2+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 9.2.2-2+b1 [armel])
+    xml toolkit for Haskell (profiling library)
+libghc-hxt-regex-xmlschema-dev (9.0.4-2+b3 [amd64, i386, powerpc, s390, sparc], 9.0.4-2+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 9.0.4-2+b1 [armel])
+    W3C XML Schema regular expressions library
+libghc-hxt-regex-xmlschema-prof (9.0.4-2+b3 [amd64, i386, powerpc, s390, sparc], 9.0.4-2+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 9.0.4-2+b1 [armel])
+    W3C XML Schema regular expressions library; profiling library
+libghc-hxt-relaxng-dev (9.1.4-1+b4 [powerpc, sparc], 9.1.4-1+b3 [amd64, i386, mips, mipsel, s390, s390x], 9.1.4-1+b2 [armhf, kfreebsd-amd64, kfreebsd-i386], 9.1.4-1+b1 [armel])
+    HXT RelaxNG validator
+libghc-hxt-relaxng-prof (9.1.4-1+b4 [powerpc, sparc], 9.1.4-1+b3 [amd64, i386, mips, mipsel, s390, s390x], 9.1.4-1+b2 [armhf, kfreebsd-amd64, kfreebsd-i386], 9.1.4-1+b1 [armel])
+    HXT RelaxNG validator; profiling library
+libghc-hxt-tagsoup-dev (9.1.1-1+b4 [i386, powerpc, sparc], 9.1.1-1+b3 [amd64, mips, mipsel, s390, s390x], 9.1.1-1+b2 [armhf, kfreebsd-amd64, kfreebsd-i386], 9.1.1-1+b1 [armel])
+    TagSoup parser for HXT
+libghc-hxt-tagsoup-prof (9.1.1-1+b4 [i386, powerpc, sparc], 9.1.1-1+b3 [amd64, mips, mipsel, s390, s390x], 9.1.1-1+b2 [armhf, kfreebsd-amd64, kfreebsd-i386], 9.1.1-1+b1 [armel])
+    TagSoup parser for HXT; profiling library
+libghc-hxt-unicode-dev (9.0.2-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 9.0.2-2 [armel])
+    Unicode en-/decoding functions
+libghc-hxt-unicode-prof (9.0.2-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 9.0.2-2 [armel])
+    Unicode en-/decoding functions; profiling library
+libghc-hxt-xpath-dev (9.1.2-1+b4 [i386, powerpc, sparc], 9.1.2-1+b3 [amd64, mips, mipsel, s390, s390x], 9.1.2-1+b2 [armhf, kfreebsd-amd64, kfreebsd-i386], 9.1.2-1+b1 [armel])
+    XPath modules for HXT.
+libghc-hxt-xpath-prof (9.1.2-1+b4 [i386, powerpc, sparc], 9.1.2-1+b3 [amd64, mips, mipsel, s390, s390x], 9.1.2-1+b2 [armhf, kfreebsd-amd64, kfreebsd-i386], 9.1.2-1+b1 [armel])
+    XPath modules for HXT.; profiling library
+libghc-hxt-xslt-dev (9.1.1-1+b4 [powerpc, sparc], 9.1.1-1+b3 [amd64, i386, mips, s390], 9.1.1-1+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mipsel, s390x], 9.1.1-1+b1 [armel])
+    XSLT modules for HXT.
+libghc-hxt-xslt-prof (9.1.1-1+b4 [powerpc, sparc], 9.1.1-1+b3 [amd64, i386, mips, s390], 9.1.1-1+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mipsel, s390x], 9.1.1-1+b1 [armel])
+    XSLT modules for HXT.; profiling library
+libghc-iconv-dev (0.4.1.0-2+b1 [amd64, armhf, i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.4.1.0-2 [armel])
+    string-encoding conversion
+libghc-iconv-prof (0.4.1.0-2+b1 [amd64, armhf, i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.4.1.0-2 [armel])
+    string-encoding conversion; profiling libraries
+libghc-ieee754-dev (0.7.3-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.7.3-1 [armel])
+    Utilities for dealing with IEEE floating point numbers
+libghc-ieee754-prof (0.7.3-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.7.3-1 [armel])
+    Utilities for dealing with IEEE floating point numbers; profiling data
+libghc-ifelse-dev (0.85-4+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.85-4 [armel])
+    anaphoric and miscellaneous useful control-flow
+libghc-ifelse-prof (0.85-4+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.85-4 [armel])
+    anaphoric and miscellaneous useful control-flow; profiling libraries
+libghc-io-choice-dev (0.0.1-1+b3 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.0.1-1+b2 [armel])
+    choice for IO and lifted IO
+libghc-io-choice-prof (0.0.1-1+b3 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.0.1-1+b2 [armel])
+    choice for IO and lifted IO; profiling libraries
+libghc-io-storage-dev (0.3-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.3-2 [armel])
+    key-value store in the IO monad
+libghc-io-storage-prof (0.3-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.3-2 [armel])
+    key-value store in the IO monad; profiling libraries
+libghc-iospec-dev (0.2.5-1+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.2.5-1+b1 [armel])
+    Pure specification of the IO monad
+libghc-iospec-prof (0.2.5-1+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.2.5-1+b1 [armel])
+    Pure specification of the IO monad; profiling libraries
+libghc-irc-dev (0.5.0.0-1+b3 [amd64, i386, powerpc, s390, sparc], 0.5.0.0-1+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 0.5.0.0-1+b1 [armel])
+    GHC libraries for the Haskell IRC library
+libghc-iteratee-dev (0.8.8.2-2+b1)
+    Haskell library for Iteratee-based I/O
+libghc-iteratee-prof (0.8.8.2-2+b1)
+    Haskell library for Iteratee-based I/O; profiling library
+libghc-ixset-dev (1.0.3-2+b1 [amd64, i386, kfreebsd-amd64, kfreebsd-i386], 1.0.3-2 [sparc])
+    Haskell implementation of queryable sets - GHC libraries
+libghc-ixset-prof (1.0.3-2+b1 [amd64, i386, kfreebsd-amd64, kfreebsd-i386], 1.0.3-2 [sparc])
+    Haskell implementation of queryable sets - GHC profiling libraries
+libghc-json-dev (0.5-2+b2 [amd64, armhf, i386, powerpc, s390, sparc], 0.5-2+b1 [armel, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x])
+    Haskell library for serialising data to and from JSON
+libghc-json-prof (0.5-2+b2 [amd64, armhf, i386, powerpc, s390, sparc], 0.5-2+b1 [armel, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x])
+    Profiling version of the Haskell JSON library
+libghc-keys-dev (2.1.3.2-1+b1)
+    Keyed functors and containers
+libghc-keys-prof (2.1.3.2-1+b1)
+    Keyed functors and containers; profiling data
+libghc-knob-dev (0.1.1-1+b1 [amd64], 0.1.1-1 [armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Haskell library for memory-backed handles
+libghc-knob-prof (0.1.1-1+b1 [amd64], 0.1.1-1 [armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Haskell library for memory-backed handles; profiling libraries
+libghc-lambdabot-utils-dev (4.2.1-3+b3 [amd64, i386, powerpc, s390, sparc], 4.2.1-3+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 4.2.1-3+b1 [armel])
+    utility libraries for Lambdabot
+libghc-lambdabot-utils-prof (4.2.1-3+b3 [amd64, i386, powerpc, s390, sparc], 4.2.1-3+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 4.2.1-3+b1 [armel])
+    utility libraries for Lambdabot; profiling libraries
+libghc-language-c-dev (0.4.2-2+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390x, sparc], 0.4.2-2+b1 [armel, s390])
+    Haskell library for the analysis and generation of C code
+libghc-language-c-prof (0.4.2-2+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390x, sparc], 0.4.2-2+b1 [armel, s390])
+    Profiling libraries for Haskell Library.C module
+libghc-language-haskell-extract-dev (0.2.1-4+b2 [s390x, sparc], 0.2.1-4+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, powerpc], 0.2.1-4 [armel])
+    automatically extract functions from the local code.
+libghc-language-haskell-extract-prof (0.2.1-4+b2 [s390x, sparc], 0.2.1-4+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, powerpc], 0.2.1-4 [armel])
+    automatically extract functions from the local code.; profiling libraries
+libghc-language-javascript-dev (0.5.4-1+b2 [amd64, i386, powerpc, s390, sparc], 0.5.4-1+b1 [armel, armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x])
+    JavaScript parser
+libghc-language-javascript-prof (0.5.4-1+b2 [amd64, i386, powerpc, s390, sparc], 0.5.4-1+b1 [armel, armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x])
+    JavaScript parser; profiling data
+libghc-largeword-dev (1.0.1-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.0.1-2 [armel])
+    128-bit and larger Word types
+libghc-largeword-prof (1.0.1-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.0.1-2 [armel])
+    128-bit and larger Word types; profiling libraries
+libghc-lazysmallcheck-dev (0.6-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.6-1 [armel])
+    A library for demand-driven testing of Haskell programs
+libghc-lazysmallcheck-prof (0.6-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.6-1 [armel])
+    A library for demand-driven testing of Haskell programs; profiling libraries
+libghc-ldap-dev (0.6.6-4.1+b1)
+    LDAP Interface for Haskell
+libghc-ldap-prof (0.6.6-4.1+b1)
+    LDAP Interface for Haskell; profiling libraries
+libghc-leksah-server-dev (0.12.0.4-3)
+    haskell editor - GHC interface library
+libghc-libtagc-dev (0.12.0-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.12.0-2 [armel])
+    Binding to TagLib C library
+libghc-libtagc-prof (0.12.0-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.12.0-2 [armel])
+    Binding to TagLib C library; profiling libraries
+libghc-libxml-sax-dev (0.7.2-2+b2 [armhf], 0.7.2-2+b1 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    bindings for libXML2 SAX
+libghc-libxml-sax-prof (0.7.2-2+b2 [armhf], 0.7.2-2+b1 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    bindings for libXML2 SAX; profiling libraries
+libghc-libzip-dev (0.10-1+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.10-1+b1 [armel])
+    Haskell bindings to libzip
+libghc-libzip-prof (0.10-1+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.10-1+b1 [armel])
+    Haskell bindings to libzip; profiling libraries
+libghc-lifted-base-dev (0.1.1-1+b1 [amd64, armel, i386, mipsel, powerpc, s390, sparc], 0.1.1-1 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, s390x])
+    Lifted IO operations from the base library
+libghc-lifted-base-prof (0.1.1-1+b1 [amd64, armel, i386, mipsel, powerpc, s390, sparc], 0.1.1-1 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, s390x])
+    Lifted IO operations from the base library; profiling libraries
+libghc-listlike-dev (3.1.4-1+b1)
+    Generic support for list-like structures
+libghc-listlike-prof (3.1.4-1+b1)
+    Generic support for list-like structures; profiling library
+libghc-llvm-base-dev (3.0.1.0-1+b1 [amd64], 3.0.1.0-1 [armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, powerpc])
+    low-level bindings to the LLVM compiler toolkit
+libghc-llvm-base-prof (3.0.1.0-1+b1 [amd64], 3.0.1.0-1 [armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, powerpc])
+    low-level bindings to the LLVM compiler toolkit; profiling libraries
+libghc-llvm-dev (3.0.1.0-1+b1)
+    Haskell bindings to the LLVM compiler toolkit
+libghc-llvm-prof (3.0.1.0-1+b1)
+    Profiling libraries haskell LLVM bindings
+libghc-logict-dev (0.5.0.1-1+b1)
+    Backtracking logic-programming monad
+libghc-logict-prof (0.5.0.1-1+b1)
+    Backtracking logic-programming monad; profiling libraries
+libghc-ltk-dev (0.12.0.0-2+b1 [amd64, i386, powerpc, s390, sparc], 0.12.0.0-2 [armel, armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x])
+    Leksah Toolkit
+libghc-maccatcher-dev (2.1.5-2+b3 [amd64, i386, powerpc, s390, sparc], 2.1.5-2+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 2.1.5-2+b1 [armel])
+    library to obtain a NIC's MAC address
+libghc-maccatcher-prof (2.1.5-2+b3 [amd64, i386, powerpc, s390, sparc], 2.1.5-2+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 2.1.5-2+b1 [armel])
+    library to obtain a NIC's MAC address; profiling libraries
+libghc-magic-dev (1.0.8-8+b1)
+    File type determination library for Haskell
+libghc-magic-prof (1.0.8-8+b1)
+    File type determination library for Haskell; profiling libraries
+libghc-markov-chain-dev (0.0.3.2-1+b1)
+    Markov Chains for random sequence generation
+libghc-markov-chain-prof (0.0.3.2-1+b1)
+    Markov Chains for random sequence generation; profiling libraries
+libghc-math-functions-dev (0.1.1.0-2+b2 [amd64, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, s390, s390x, sparc], 0.1.1.0-2+b1 [armhf, mips, mipsel], 0.1.1.0-2 [armel])
+    Special functions and Chebyshev polynomials
+libghc-math-functions-prof (0.1.1.0-2+b2 [amd64, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, s390, s390x, sparc], 0.1.1.0-2+b1 [armhf, mips, mipsel], 0.1.1.0-2 [armel])
+    Special functions and Chebyshev polynomials; profiling data
+libghc-maths-dev (0.4.3-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.4.3-1 [armel])
+    Combinatorics, group theory, (non-)commutative algebra
+libghc-maths-prof (0.4.3-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.4.3-1 [armel])
+    Combinatorics, group theory, (non-)commutative algebra; prof data
+libghc-maybet-dev (0.1.2-3+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.1.2-3+b1 [armel])
+    Haskell MaybeT monad transformer - GHC libraries
+libghc-maybet-prof (0.1.2-3+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.1.2-3+b1 [armel])
+    Haskell MaybeT monad transformer - GHC profiling libraries
+libghc-mbox-dev (0.1-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.1-2 [armel])
+    mbox reader/writer library
+libghc-mbox-prof (0.1-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.1-2 [armel])
+    mbox reader/writer library; profiling libraries
+libghc-memotrie-dev (0.5-1)
+    trie-based memo functions
+libghc-memotrie-prof (0.5-1)
+    trie-based memo functions; profiling libraries
+libghc-mersenne-random-dev (1.0.0.1-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.0.0.1-2 [armel])
+    SIMD Fast Mersenne Twister generator of pseudo-random numbers
+libghc-mersenne-random-prof (1.0.0.1-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.0.0.1-2 [armel])
+    SIMD Fast Mersenne Twister generator of pseudo-random numbers; profiling libs
+libghc-midi-dev (0.2.0.1-1+b1)
+    MIDI message and file handling
+libghc-midi-prof (0.2.0.1-1+b1)
+    MIDI message and file handling; profiling libraries
+libghc-mime-mail-dev (0.4.1.1-2+b3 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, s390], 0.4.1.1-2+b2 [armel, mips, mipsel, s390x, sparc])
+    Library to compose MIME email messages
+libghc-mime-mail-prof (0.4.1.1-2+b3 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, s390], 0.4.1.1-2+b2 [armel, mips, mipsel, s390x, sparc])
+    Library to compose MIME email messages; profiling libraries
+libghc-missingh-dev (1.1.0.3-6+b3 [amd64, i386, powerpc, s390, sparc], 1.1.0.3-6+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 1.1.0.3-6+b1 [armel])
+    Library of utility functions for Haskell, GHC6 package
+libghc-missingh-prof (1.1.0.3-6+b3 [amd64, i386, powerpc, s390, sparc], 1.1.0.3-6+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 1.1.0.3-6+b1 [armel])
+    Library of utility functions for Haskell, profiling libraries
+libghc-mmap-dev (0.5.7-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.5.7-2 [armel])
+    Memory mapped files for POSIX and Windows
+libghc-mmap-prof (0.5.7-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.5.7-2 [armel])
+    Memory mapped files for POSIX and Windows; profiling libraries
+libghc-monad-control-dev (0.3.1.3-1+b1)
+    Monad transformers to lift control operations
+libghc-monad-control-prof (0.3.1.3-1+b1)
+    Monad transformers to lift control operations; profiling libraries
+libghc-monad-loops-dev (0.3.2.0-1+b1 [armhf], 0.3.2.0-1 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    monadic looping
+libghc-monad-loops-prof (0.3.2.0-1+b1 [armhf], 0.3.2.0-1 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    monadic looping; profiling libraries
+libghc-monad-par-dev (0.1.0.3-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.1.0.3-2 [armel])
+    parallel programming based on a monad
+libghc-monad-par-prof (0.1.0.3-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.1.0.3-2 [armel])
+    parallel programming based on a monad; profiling data
+libghc-monadcatchio-mtl-dev (0.3.0.4-2+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.3.0.4-2+b1 [armel])
+    monad-transformer version of the Control.Exception module
+libghc-monadcatchio-mtl-prof (0.3.0.4-2+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.3.0.4-2+b1 [armel])
+    monad-transformer version of the Control.Exception module; profiling libraries
+libghc-monadcatchio-transformers-dev (0.3.0.0-2+b1)
+    Monad-transformer compatible with Control.Exception
+libghc-monadcatchio-transformers-prof (0.3.0.0-2+b1)
+    Monad-transformer compatible with Control.Exception; profiling library
+libghc-monadcryptorandom-dev (0.4.1-1+b2 [amd64, armhf, i386, kfreebsd-i386, mips, powerpc, s390, s390x], 0.4.1-1+b1 [armel, kfreebsd-amd64, mipsel, sparc])
+    monad for using CryptoRandomGen
+libghc-monadcryptorandom-prof (0.4.1-1+b2 [amd64, armhf, i386, kfreebsd-i386, mips, powerpc, s390, s390x], 0.4.1-1+b1 [armel, kfreebsd-amd64, mipsel, sparc])
+    monad for using CryptoRandomGen; profiling libraries
+libghc-monadrandom-dev (0.1.6-2+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.1.6-2+b1 [armel])
+    random-number generation monad
+libghc-monadrandom-prof (0.1.6-2+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.1.6-2+b1 [armel])
+    random-number generation monad; profiling libraries
+libghc-monads-tf-dev (0.1.0.0-1+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390x, sparc], 0.1.0.0-1+b1 [armel], 0.1.0.0-1 [s390])
+    monad classes, using type families
+libghc-monads-tf-prof (0.1.0.0-1+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390x, sparc], 0.1.0.0-1+b1 [armel], 0.1.0.0-1 [s390])
+    monad classes, using type families; profiling libraries
+libghc-monoid-transformer-dev (0.0.2-3+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.0.2-3 [armel])
+    Transformers for Reader and State Monoids
+libghc-monoid-transformer-prof (0.0.2-3+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.0.2-3 [armel])
+    Transformers for Reader and State Monoids; profiling libraries
+libghc-mtl-dev (2.1.1-1)
+    Haskell monad transformer library for GHC
+libghc-mtl-prof (2.1.1-1)
+    Haskell monad transformer library for GHC; profiling libraries
+libghc-mtlparse-dev (0.1.2-2+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.1.2-2+b1 [armel])
+    Parser combinators for monad transformation
+libghc-mtlparse-prof (0.1.2-2+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.1.2-2+b1 [armel])
+    Parser combinators for monad transformation; profiling libraries
+libghc-murmur-hash-dev (0.1.0.5-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.1.0.5-2 [armel])
+    MurmurHash2 implementation for Haskell.
+libghc-murmur-hash-prof (0.1.0.5-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.1.0.5-2 [armel])
+    MurmurHash2 implementation for Haskell.; profiling libraries
+libghc-mwc-random-dev (0.11.0.0-4+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.11.0.0-4 [armel])
+    Fast, high quality pseudo random number generation
+libghc-mwc-random-prof (0.11.0.0-4+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.11.0.0-4 [armel])
+    Fast, high quality pseudo random number generation; profiling libraries
+libghc-ncurses-dev (0.2.1-1+b1 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, powerpc, s390, s390x, sparc], 0.2.1-1 [mipsel])
+    Haskell bindings to the GNU ncurses library
+libghc-ncurses-prof (0.2.1-1+b1 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, powerpc, s390, s390x, sparc], 0.2.1-1 [mipsel])
+    Haskell bindings to the GNU ncurses library; profiling libraries
+libghc-netwire-dev (3.1.0-2+b5 [i386, powerpc], 3.1.0-2+b4 [amd64, s390, sparc], 3.1.0-2+b3 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 3.1.0-2+b2 [armel])
+    arrowized FRP implementation
+libghc-netwire-prof (3.1.0-2+b5 [i386, powerpc], 3.1.0-2+b4 [amd64, s390, sparc], 3.1.0-2+b3 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 3.1.0-2+b2 [armel])
+    small but solid library for FRP; profiling libraries
+libghc-network-conduit-dev (0.4.0.1-2)
+    stream socket data using conduits
+libghc-network-conduit-prof (0.4.0.1-2)
+    stream socket data using conduits; profiling libraries
+libghc-network-dev (2.3.0.13-1+b2 [amd64, i386, powerpc, s390, sparc], 2.3.0.13-1+b1 [armel, armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x])
+    Haskell network library for GHC
+libghc-network-prof (2.3.0.13-1+b2 [amd64, i386, powerpc, s390, sparc], 2.3.0.13-1+b1 [armel, armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x])
+    Haskell network library for GHC; profiling libraries
+libghc-network-protocol-xmpp-dev (0.4.3-1)
+    XMPP (Jabber) library
+libghc-network-protocol-xmpp-prof (0.4.3-1)
+    XMPP (Jabber) library; profiling libraries
+libghc-newtype-dev (0.2-1)
+    A typeclass for working with newtypes
+libghc-newtype-prof (0.2-1)
+    A typeclass for working with newtypes; profiling libraries
+libghc-non-negative-dev (0.1-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.1-2 [armel])
+    Non-negative numbers for Haskell
+libghc-non-negative-prof (0.1-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.1-2 [armel])
+    Non-negative numbers for Haskell; profiling libraries
+libghc-numbers-dev (2009.8.9-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 2009.8.9-2 [armel])
+    Various number types
+libghc-numbers-prof (2009.8.9-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 2009.8.9-2 [armel])
+    Various number types; profiling libraries
+libghc-numeric-quest-dev (0.2-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.2-1 [armel])
+    Mathematics and Quantum Mechanics
+libghc-numeric-quest-prof (0.2-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.2-1 [armel])
+    Mathematics and Quantum Mechanics; profiling data
+libghc-numinstances-dev (1.0-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.0-2 [armel])
+    Instances of numeric classes for functions and tuples
+libghc-numinstances-prof (1.0-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.0-2 [armel])
+    Instances of numeric classes for functions and tuples; prof data
+libghc-numtype-dev (1.0-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.0-2 [armel])
+    type-level (low cardinality) integers
+libghc-numtype-prof (1.0-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.0-2 [armel])
+    type-level (low cardinality) integers; profiling data
+libghc-oeis-dev (0.3.1-2+b3 [amd64, i386, powerpc, s390, sparc], 0.3.1-2+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 0.3.1-2+b1 [armel])
+    Interface to the Online Encyclopedia of Integer Sequences
+libghc-oeis-prof (0.3.1-2+b3 [amd64, i386, powerpc, s390, sparc], 0.3.1-2+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 0.3.1-2+b1 [armel])
+    Interface to the Online Encyclopedia of Integer Sequences; profiling libraries
+libghc-openal-dev (1.3.1.3-4+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.3.1.3-4 [armel])
+    Haskell OpenAL binding for GHC
+libghc-openal-prof (1.3.1.3-4+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.3.1.3-4 [armel])
+    Haskell OpenAL binding for GHC; profiling libraries
+libghc-opengl-dev (2.2.3.1-1+b1)
+    Haskell OpenGL binding for GHC
+libghc-opengl-prof (2.2.3.1-1+b1)
+    Haskell OpenGL binding for GHC; profiling libraries
+libghc-openpgp-asciiarmor-dev (0.1-1+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, s390, s390x, sparc], 0.1-1+b1 [armel, mips, mipsel])
+    OpenPGP (RFC4880) ASCII Armor codec
+libghc-openpgp-asciiarmor-prof (0.1-1+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, s390, s390x, sparc], 0.1-1+b1 [armel, mips, mipsel])
+    OpenPGP (RFC4880) ASCII Armor codec; profiling libraries
+libghc-options-dev (0.1.1-1)
+    Haskell library for parsing command-line options
+libghc-options-prof (0.1.1-1)
+    Haskell library for parsing command-line options; profiling libraries
+libghc-pandoc-dev (1.9.4.2-2)
+    general markup converter
+libghc-pandoc-prof (1.9.4.2-2)
+    general markup converter
+libghc-pandoc-types-dev (1.9.1-1+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.9.1-1+b1 [armel])
+    Haskell data types to represent structured documents - GHC libraries
+libghc-pandoc-types-prof (1.9.1-1+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.9.1-1+b1 [armel])
+    Haskell data types to represent structured documents - GHC profiling libraries
+libghc-pango-dev (0.12.2-1+b3 [amd64], 0.12.2-1+b2 [armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.12.2-1+b1 [armel])
+    Binding to the Pango text rendering engine
+libghc-pango-prof (0.12.2-1+b3 [amd64], 0.12.2-1+b2 [armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.12.2-1+b1 [armel])
+    Binding to the Pango text rendering engine; profiling libraries
+libghc-parallel-dev (3.2.0.2-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 3.2.0.2-2 [armel])
+    Haskell parallel programming library for GHC
+libghc-parallel-prof (3.2.0.2-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 3.2.0.2-2 [armel])
+    Haskell parallel programming library for GHC; profiling libraries
+libghc-parseargs-dev (0.1.3.2-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.1.3.2-2 [armel])
+    Command-line argument parsing library
+libghc-parseargs-prof (0.1.3.2-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.1.3.2-2 [armel])
+    Command-line argument parsing library; profiling libraries
+libghc-parsec2-dev (2.1.0.1-6+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 2.1.0.1-6 [armel])
+    Haskell monadic parser combinator library for GHC
+libghc-parsec2-prof (2.1.0.1-6+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 2.1.0.1-6 [armel])
+    Haskell monadic parser combinator library for GHC; profiling libraries
+libghc-parsec3-dev (3.1.2-1+b3 [amd64, i386, powerpc, s390, sparc], 3.1.2-1+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 3.1.2-1+b1 [armel])
+    Haskell monadic parser combinator library for GHC
+libghc-parsec3-prof (3.1.2-1+b3 [amd64, i386, powerpc, s390, sparc], 3.1.2-1+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 3.1.2-1+b1 [armel])
+    Haskell monadic parser combinator library for GHC; profiling libraries
+libghc-pastis-dev (0.1.2-2+b3 [amd64, i386, powerpc, s390, sparc], 0.1.2-2+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 0.1.2-2+b1 [armel])
+    interface to the past.is URL shortening service
+libghc-pastis-prof (0.1.2-2+b3 [amd64, i386, powerpc, s390, sparc], 0.1.2-2+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 0.1.2-2+b1 [armel])
+    interface to the past.is URL shortening service; profiling libraries
+libghc-path-pieces-dev (0.1.0-1+b2)
+    components of paths
+libghc-path-pieces-prof (0.1.0-1+b2)
+    components of paths; profiling libraries
+libghc-patience-dev (0.1.1-1)
+    Haskell implementation of the Patience Diff algorithm
+libghc-patience-prof (0.1.1-1)
+    Haskell implementation of the Patience Diff algorithm; profiling libraries
+libghc-pcre-light-dev (0.4-3+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.4-3 [armel])
+    Haskell library for Perl 5-compatible regular expressions
+libghc-pcre-light-prof (0.4-3+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.4-3 [armel])
+    pcre-light library with profiling enabled
+libghc-pem-dev (0.1.1-1+b3 [amd64, i386, powerpc, s390, sparc], 0.1.1-1+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, s390x], 0.1.1-1+b1 [armel, mips, mipsel])
+    Privacy Enhanced Mail (PEM) format reader and writer
+libghc-pem-prof (0.1.1-1+b3 [amd64, i386, powerpc, s390, sparc], 0.1.1-1+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, s390x], 0.1.1-1+b1 [armel, mips, mipsel])
+    Privacy Enhanced Mail (PEM) format reader and writer; profiling libraries
+libghc-persistent-dev (0.9.0.4-2+b1 [amd64], 0.9.0.4-2 [i386, kfreebsd-amd64, kfreebsd-i386, sparc])
+    type-safe, non-relational, multi-backend persistence
+libghc-persistent-prof (0.9.0.4-2+b1 [amd64], 0.9.0.4-2 [i386, kfreebsd-amd64, kfreebsd-i386, sparc])
+    type-safe, non-relational, multi-backend persistence; profiling libs
+libghc-persistent-sqlite-dev (0.9.0.2-2)
+    SQLite3 backend for the persistent library
+libghc-persistent-sqlite-prof (0.9.0.2-2)
+    SQLite3 backend for the persistent library; profiling libs
+libghc-persistent-template-dev (0.9.0.2-1+b1 [amd64], 0.9.0.2-1 [i386, kfreebsd-amd64, kfreebsd-i386, sparc])
+    type-safe, non-relational, multi-backend persistence
+libghc-persistent-template-prof (0.9.0.2-1+b1 [amd64], 0.9.0.2-1 [i386, kfreebsd-amd64, kfreebsd-i386, sparc])
+    type-safe, non-relational, multi-backend persistence; profiling libraries
+libghc-polyparse-dev (1.7-1+b2)
+    A variety of alternative parser combinator libraries for Haskell
+libghc-polyparse-prof (1.7-1+b2)
+    Profiling libraries for haskell-polyparse
+libghc-pool-conduit-dev (0.1.0.2-1+b1 [amd64, armel, sparc], 0.1.0.2-1 [armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x])
+    resource pool allocations via ResourceT
+libghc-pool-conduit-prof (0.1.0.2-1+b1 [amd64, armel, sparc], 0.1.0.2-1 [armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x])
+    resource pool allocations via ResourceT; profiling libraries
+libghc-postgresql-libpq-dev (0.8.2-1)
+    low-level binding to libpq
+libghc-postgresql-libpq-prof (0.8.2-1)
+    low-level binding to libpq; profiling libraries
+libghc-postgresql-simple-dev (0.1.4.3-1+b1 [amd64], 0.1.4.3-1 [i386, kfreebsd-amd64, kfreebsd-i386, sparc])
+    mid-level PostgreSQL client library
+libghc-postgresql-simple-prof (0.1.4.3-1+b1 [amd64], 0.1.4.3-1 [i386, kfreebsd-amd64, kfreebsd-i386, sparc])
+    mid-level PostgreSQL client library; profiling libraries
+libghc-pretty-show-dev (1.1.1-4+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390x, sparc], 1.1.1-4 [armel])
+    A Haskell library for pretty printing data structures
+libghc-pretty-show-prof (1.1.1-4+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390x, sparc], 1.1.1-4 [armel])
+    Profiling libraries for pretty printing Haskell data structures
+libghc-primes-dev (0.2.1.0-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.2.1.0-2 [armel])
+    efficient, purely functional generation of prime numbers
+libghc-primes-prof (0.2.1.0-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.2.1.0-2 [armel])
+    efficient, purely functional generation of prime numbers; profiling libraries
+libghc-primitive-dev (0.4.1-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.4.1-1 [armel])
+    Wrappers for primitive operations
+libghc-primitive-prof (0.4.1-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.4.1-1 [armel])
+    Wrappers for primitive operations; profiling libraries
+libghc-psqueue-dev (1.1-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.1-2 [armel])
+    Priority Search Queue
+libghc-psqueue-prof (1.1-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.1-2 [armel])
+    Priority Search Queue; profiling libraries
+libghc-puremd5-dev (2.1.0.3-2+b5 [s390, s390x], 2.1.0.3-2+b4 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, sparc], 2.1.0.3-2+b2 [armel])
+    implementation of the MD5 digest (hash) algorithm
+libghc-puremd5-prof (2.1.0.3-2+b5 [s390, s390x], 2.1.0.3-2+b4 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, sparc], 2.1.0.3-2+b2 [armel])
+    implementation of the MD5 digest (hash) algorithm; profiling libs
+libghc-pwstore-fast-dev (2.2-2+b5 [sparc], 2.2-2+b4 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390x], 2.2-2+b3 [s390], 2.2-2+b2 [armel])
+    secure password storage
+libghc-pwstore-fast-prof (2.2-2+b5 [sparc], 2.2-2+b4 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390x], 2.2-2+b3 [s390], 2.2-2+b2 [armel])
+    secure password storage; profiling libraries
+libghc-quickcheck1-dev (1.2.0.1-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.2.0.1-2 [armel])
+    Haskell automatic testing library for GHC
+libghc-quickcheck1-prof (1.2.0.1-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.2.0.1-2 [armel])
+    Haskell automatic testing library for GHC; profiling libraries
+libghc-quickcheck2-dev (2.4.2-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 2.4.2-1 [armel])
+    Haskell automatic testing library for GHC
+libghc-quickcheck2-prof (2.4.2-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 2.4.2-1 [armel])
+    Haskell automatic testing library for GHC; profiling libraries
+libghc-random-dev (1.0.1.1-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.0.1.1-1 [armel])
+    Random number generator for Haskell
+libghc-random-prof (1.0.1.1-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.0.1.1-1 [armel])
+    Random number generator for Haskell; profiling libraries
+libghc-random-shuffle-dev (0.0.3-2+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.0.3-2+b1 [armel])
+    random shuffle library
+libghc-random-shuffle-prof (0.0.3-2+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.0.3-2+b1 [armel])
+    random shuffle library; profiling libraries
+libghc-ranged-sets-dev (0.3.0-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.3.0-2 [armel])
+    Ranged sets library
+libghc-ranged-sets-prof (0.3.0-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.3.0-2 [armel])
+    Ranged sets library; profiling libraries
+libghc-ranges-dev (0.2.4-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.2.4-2 [armel])
+    ranges and various functions for such
+libghc-ranges-prof (0.2.4-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.2.4-2 [armel])
+    ranges and various functions for such; profiling libraries
+libghc-reactive-banana-dev (0.6.0.0-1+b3 [amd64, i386], 0.6.0.0-1+b2 [kfreebsd-amd64, kfreebsd-i386, sparc])
+    small but solid library for FRP
+libghc-reactive-banana-prof (0.6.0.0-1+b3 [amd64, i386], 0.6.0.0-1+b2 [kfreebsd-amd64, kfreebsd-i386, sparc])
+    small but solid library for FRP; profiling libraries
+libghc-readline-dev (1.0.1.0-3+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.0.1.0-3 [armel])
+    Interface to the GNU readline library
+libghc-readline-prof (1.0.1.0-3+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.0.1.0-3 [armel])
+    Interface to the GNU readline library; profiling libraries
+libghc-recaptcha-dev (0.1-4+b3 [amd64, i386, powerpc, s390, sparc], 0.1-4+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 0.1-4+b1 [armel])
+    Haskell interface to reCAPTCHA service - GHC libraries
+libghc-recaptcha-prof (0.1-4+b3 [amd64, i386, powerpc, s390, sparc], 0.1-4+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 0.1-4+b1 [armel])
+    Haskell interface to reCAPTCHA service - GHC profiling libraries
+libghc-regex-base-dev (0.93.2-2+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.93.2-2+b1 [armel])
+    GHC library providing an API for regular expressions
+libghc-regex-base-prof (0.93.2-2+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.93.2-2+b1 [armel])
+    GHC profiling library providing an API for regular expressions
+libghc-regex-compat-dev (0.95.1-2+b2 [s390x, sparc], 0.95.1-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390], 0.95.1-2 [armel])
+    GHC library providing old Text.Regex interface
+libghc-regex-compat-prof (0.95.1-2+b2 [s390x, sparc], 0.95.1-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390], 0.95.1-2 [armel])
+    GHC profiling library providing old Text.Regex interface
+libghc-regex-pcre-dev (0.94.2-2+b2 [s390x, sparc], 0.94.2-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390], 0.94.2-2 [armel])
+    Perl-compatible regular expressions
+libghc-regex-pcre-prof (0.94.2-2+b2 [s390x, sparc], 0.94.2-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390], 0.94.2-2 [armel])
+    Perl-compatible regular expressions; profiling libraries
+libghc-regex-posix-dev (0.95.1-2+b2 [s390x, sparc], 0.95.1-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390], 0.95.1-2 [armel])
+    GHC library of the POSIX regex backend for regex-base
+libghc-regex-posix-prof (0.95.1-2+b2 [s390x, sparc], 0.95.1-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390], 0.95.1-2 [armel])
+    GHC profiling library of the POSIX regex backend for regex-base
+libghc-regex-tdfa-dev (1.1.8-2+b1 [amd64, i386, powerpc, sparc], 1.1.8-2 [armel, armhf, kfreebsd-amd64, kfreebsd-i386, s390x])
+    Haskell library for a tagged DFA regex engine
+libghc-regex-tdfa-prof (1.1.8-2+b1 [amd64, i386, powerpc, sparc], 1.1.8-2 [armel, armhf, kfreebsd-amd64, kfreebsd-i386, s390x])
+    Profiling libraries for the tagged DFA regex engine
+libghc-regex-tdfa-utf8-dev (1.0-5+b4 [powerpc], 1.0-5+b3 [amd64, i386, sparc], 1.0-5+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, s390x], 1.0-5+b1 [armel])
+    Haskell library for the UTF8 version of the tagged DFA regex engine
+libghc-regex-tdfa-utf8-prof (1.0-5+b4 [powerpc], 1.0-5+b3 [amd64, i386, sparc], 1.0-5+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, s390x], 1.0-5+b1 [armel])
+    Profiling libraries for the UTF8 version of the tagged DFA regex engine
+libghc-regexpr-dev (0.5.4-2+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.5.4-2+b1 [armel])
+    Regular expression library like Perl/Ruby
+libghc-regexpr-prof (0.5.4-2+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.5.4-2+b1 [armel])
+    Regular expression library like Perl/Ruby; profiling libraries
+libghc-representable-functors-dev (2.4.0.2-1+b1)
+    Representable functors
+libghc-representable-functors-prof (2.4.0.2-1+b1)
+    Representable functors; profiling data
+libghc-representable-tries-dev (2.4.0.2-1+b1 [amd64, armhf, kfreebsd-i386, s390, s390x, sparc], 2.4.0.2-1 [armel, i386, kfreebsd-amd64, mips, mipsel, powerpc])
+    Tries from representations of polynomial functors
+libghc-representable-tries-prof (2.4.0.2-1+b1 [amd64, armhf, kfreebsd-i386, s390, s390x, sparc], 2.4.0.2-1 [armel, i386, kfreebsd-amd64, mips, mipsel, powerpc])
+    Tries from representations of polynomial functors; profiling data
+libghc-resource-pool-dev (0.2.1.0-2+b4 [amd64, i386, powerpc, s390, sparc], 0.2.1.0-2+b3 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 0.2.1.0-2+b2 [armel])
+    high-performance striped resource-pooling implementation
+libghc-resource-pool-prof (0.2.1.0-2+b4 [amd64, i386, powerpc, s390, sparc], 0.2.1.0-2+b3 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 0.2.1.0-2+b2 [armel])
+    high-performance striped resource-pooling implementation; profiling libraries
+libghc-resourcet-dev (0.3.2.1-1+b1)
+    deterministic allocation and freeing of scarce resources
+libghc-resourcet-prof (0.3.2.1-1+b1)
+    deterministic allocation and freeing of scarce resources; profiling libraries
+libghc-rsa-dev (1.2.1.0-1+b2 [amd64], 1.2.1.0-1+b1 [armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    implementation of RSA, using the padding schemes of PKCS#1 v2.1.
+libghc-rsa-prof (1.2.1.0-1+b2 [amd64], 1.2.1.0-1+b1 [armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    implementation of RSA, using padding schemes of PKCS#1; profiling libraries
+libghc-safe-dev (0.3.3-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.3.3-1 [armel])
+    GHC Library for safe (pattern match free) functions
+libghc-safe-prof (0.3.3-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.3.3-1 [armel])
+    Profiling library for safe (pattern match free) functions
+libghc-safecopy-dev (0.6.1-1+b1)
+    Haskell serialization library with version control - GHC libraries
+libghc-safecopy-prof (0.6.1-1+b1)
+    Haskell serialization library with version control - GHC profiling libraries
+libghc-sdl-dev (0.6.3-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.6.3-1 [armel])
+    Haskell SDL binding for GHC
+libghc-sdl-gfx-dev (0.6.0-3+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.6.0-3 [armel])
+    Haskell SDL gfx binding for GHC
+libghc-sdl-gfx-prof (0.6.0-3+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.6.0-3 [armel])
+    Haskell SDL gfx binding for GHC - profiling libraries
+libghc-sdl-image-dev (0.6.1-3+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.6.1-3 [armel])
+    Haskell SDL Image binding for GHC
+libghc-sdl-image-prof (0.6.1-3+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.6.1-3 [armel])
+    Haskell SDL Image binding for GHC - profiling libraries
+libghc-sdl-mixer-dev (0.6.1-3+b2 [mipsel], 0.6.1-3+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, powerpc, s390, s390x, sparc], 0.6.1-3 [armel])
+    Haskell SDL Mixer binding for GHC
+libghc-sdl-mixer-prof (0.6.1-3+b2 [mipsel], 0.6.1-3+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, powerpc, s390, s390x, sparc], 0.6.1-3 [armel])
+    Haskell SDL Mixer binding for GHC - profiling libraries
+libghc-sdl-prof (0.6.3-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.6.3-1 [armel])
+    Haskell SDL binding for GHC - profiling libraries
+libghc-sdl-ttf-dev (0.6.1-3+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.6.1-3 [armel])
+    Haskell SDL TTF binding for GHC
+libghc-sdl-ttf-prof (0.6.1-3+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.6.1-3 [armel])
+    Haskell SDL TTF binding for GHC - profiling libraries
+libghc-semigroupoids-dev (1.3.1.2-1+b1)
+    Haskell 98 semigroupoids: Category sans id
+libghc-semigroupoids-prof (1.3.1.2-1+b1)
+    Haskell 98 semigroupoids: Category sans id; profiling data
+libghc-semigroups-dev (0.8.3.2-1)
+    Haskell98 semigroups
+libghc-semigroups-prof (0.8.3.2-1)
+    Haskell98 semigroups; profiling libraries
+libghc-sendfile-dev (0.7.6-1+b2 [amd64, armhf, i386, powerpc, s390, sparc], 0.7.6-1+b1 [armel, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x])
+    Haskell portable sendfile library - GHC libraries
+libghc-sendfile-prof (0.7.6-1+b2 [amd64, armhf, i386, powerpc, s390, sparc], 0.7.6-1+b1 [armel, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x])
+    Haskell portable sendfile library - GHC profiling libraries
+libghc-sha-dev (1.5.0.1-1+b1 [armhf], 1.5.0.1-1 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Haskell SHA suite of message digest functions - GHC libraries
+libghc-sha-prof (1.5.0.1-1+b1 [armhf], 1.5.0.1-1 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Haskell SHA suite of message digest functions - GHC profiling libraries
+libghc-shakespeare-css-dev (1.0.1.2-1+b1 [amd64, i386, sparc], 1.0.1.2-1 [kfreebsd-amd64, kfreebsd-i386])
+    compile-time CSS templates
+libghc-shakespeare-css-prof (1.0.1.2-1+b1 [amd64, i386, sparc], 1.0.1.2-1 [kfreebsd-amd64, kfreebsd-i386])
+    compile-time CSS templates; profiling libraries
+libghc-shakespeare-dev (1.0.0.2-1+b1 [amd64, i386, sparc], 1.0.0.2-1 [kfreebsd-amd64, kfreebsd-i386])
+    toolkit for making compile-time interpolated templates
+libghc-shakespeare-i18n-dev (1.0.0.2-1+b1 [amd64, i386, sparc], 1.0.0.2-1 [kfreebsd-amd64, kfreebsd-i386])
+    type-based approach to internationalization
+libghc-shakespeare-i18n-prof (1.0.0.2-1+b1 [amd64, i386, sparc], 1.0.0.2-1 [kfreebsd-amd64, kfreebsd-i386])
+    type-based approach to internationalization; profiling libraries
+libghc-shakespeare-js-dev (1.0.0.2-1+b1 [amd64, i386, sparc], 1.0.0.2-1 [kfreebsd-amd64, kfreebsd-i386])
+    compile-time JavaScript templates
+libghc-shakespeare-js-prof (1.0.0.2-1+b1 [amd64, i386, sparc], 1.0.0.2-1 [kfreebsd-amd64, kfreebsd-i386])
+    compile-time JavaScript templates; profiling libraries
+libghc-shakespeare-prof (1.0.0.2-1+b1 [amd64, i386, sparc], 1.0.0.2-1 [kfreebsd-amd64, kfreebsd-i386])
+    toolkit for making compile-time interpolated templates; profiling libraries
+libghc-shakespeare-text-dev (1.0.0.2-1+b1 [amd64, i386, sparc], 1.0.0.2-1 [kfreebsd-amd64, kfreebsd-i386])
+    interpolation with quasi-quotation
+libghc-shakespeare-text-prof (1.0.0.2-1+b1 [amd64, i386, sparc], 1.0.0.2-1 [kfreebsd-amd64, kfreebsd-i386])
+    interpolation with quasi-quotation; profiling libraries
+libghc-shellac-dev (0.9.5.1-2+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.9.5.1-2+b1 [armel])
+    Framework for creating shell environments
+libghc-shellac-prof (0.9.5.1-2+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.9.5.1-2+b1 [armel])
+    Framework for creating shell environments; profiling libraries
+libghc-show-dev (0.4.1.2-1+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.4.1.2-1+b1 [armel])
+    Show instances for lambdabot
+libghc-show-prof (0.4.1.2-1+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.4.1.2-1+b1 [armel])
+    Show instances for lambdabot; profiling libraries
+libghc-silently-dev (1.1.4-1+b2 [amd64, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.1.4-1+b1 [armel, armhf])
+    prevent or capture writing to stdout and other handles
+libghc-silently-prof (1.1.4-1+b2 [amd64, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.1.4-1+b1 [armel, armhf])
+    prevent or capture writing to stdout and other handles; profiling libraries
+libghc-simple-sendfile-dev (0.2.3-1+b2 [amd64, i386, powerpc, s390, sparc], 0.2.3-1+b1 [armel, armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x])
+    Cross platform library for the sendfile system call
+libghc-simple-sendfile-prof (0.2.3-1+b2 [amd64, i386, powerpc, s390, sparc], 0.2.3-1+b1 [armel, armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x])
+    Cross platform library for the sendfile system call; profiling data
+libghc-simpleea-dev (0.1.1-2+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.1.1-2+b1 [armel])
+    Simple evolutionary algorithm framework
+libghc-simpleea-prof (0.1.1-2+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.1.1-2+b1 [armel])
+    Simple evolutionary algorithm framework; profiling libraries
+libghc-simpleirc-dev (0.2.1-2+b3 [amd64, i386, powerpc, s390, sparc], 0.2.1-2+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 0.2.1-2+b1 [armel])
+    simple IRC library
+libghc-simpleirc-prof (0.2.1-2+b3 [amd64, i386, powerpc, s390, sparc], 0.2.1-2+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 0.2.1-2+b1 [armel])
+    simple IRC library; profiling libraries
+libghc-skein-dev (0.1.0.7-2+b1)
+    family of cryptographic hash functions
+libghc-skein-prof (0.1.0.7-2+b1)
+    family of cryptographic hash functions; profiling libraries
+libghc-smallcheck-dev (0.6-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.6-1 [armel])
+    Another lightweight testing library
+libghc-smallcheck-prof (0.6-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.6-1 [armel])
+    Another lightweight testing library; profiling libraries
+libghc-smtpclient-dev (1.0.4-3+b3 [amd64, i386, powerpc, s390, sparc], 1.0.4-3+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 1.0.4-3+b1 [armel])
+    Simple Haskell SMTP client library - GHC libraries
+libghc-smtpclient-prof (1.0.4-3+b3 [amd64, i386, powerpc, s390, sparc], 1.0.4-3+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 1.0.4-3+b1 [armel])
+    Simple Haskell SMTP client library - GHC profiling libraries
+libghc-snap-core-dev (0.8.1-1+b4 [amd64, i386, powerpc, sparc], 0.8.1-1+b3 [kfreebsd-i386, mips, mipsel, s390, s390x], 0.8.1-1+b2 [armel, armhf, kfreebsd-amd64])
+    Snap: A Haskell Web Framework (Core)
+libghc-snap-core-prof (0.8.1-1+b4 [amd64, i386, powerpc, sparc], 0.8.1-1+b3 [kfreebsd-i386, mips, mipsel, s390, s390x], 0.8.1-1+b2 [armel, armhf, kfreebsd-amd64])
+    Snap: A Haskell Web Framework (Core); profiling libraries
+libghc-snap-server-dev (0.8.1.1-1+b1 [amd64], 0.8.1.1-1 [armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    iteratee-based, epoll-enabled web server for the Snap Framework
+libghc-snap-server-prof (0.8.1.1-1+b1 [amd64], 0.8.1.1-1 [armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    iteratee-based, epoll-enabled web server for the Snap Framework; profiling lib
+libghc-socks-dev (0.4.1-1+b4 [amd64, i386, powerpc, s390, sparc], 0.4.1-1+b3 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 0.4.1-1+b2 [armel])
+    SOCKS proxy library
+libghc-socks-prof (0.4.1-1+b4 [amd64, i386, powerpc, s390, sparc], 0.4.1-1+b3 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 0.4.1-1+b2 [armel])
+    SOCKS proxy library; profiling libraries
+libghc-split-dev (0.1.4.2-2)
+    Haskell library for splitting lists - GHC libraries
+libghc-split-prof (0.1.4.2-2)
+    Haskell library for splitting lists - GHC profiling libraries
+libghc-src-exts-dev (1.11.1-3+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, s390x], 1.11.1-3 [armel, sparc])
+    Haskell-Source with eXtensions library for GHC
+libghc-src-exts-prof (1.11.1-3+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, s390x], 1.11.1-3 [armel, sparc])
+    Haskell-Source with eXtensions library for GHC; profiling libraries
+libghc-statevar-dev (1.0.0.0-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.0.0.0-2 [armel])
+    state variables in Haskell
+libghc-statevar-prof (1.0.0.0-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.0.0.0-2 [armel])
+    state variables in Haskell; profiling libraries
+libghc-static-hash-dev (0.0.1-3+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.0.1-3+b1 [armel])
+    pure immutable hash
+libghc-static-hash-prof (0.0.1-3+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.0.1-3+b1 [armel])
+    pure immutable hash; profiling libraries
+libghc-statistics-dev (0.10.1.0-2+b2 [amd64], 0.10.1.0-2+b1 [armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.10.1.0-2 [armel])
+    A library of statistical types, data, and functions
+libghc-statistics-prof (0.10.1.0-2+b2 [amd64], 0.10.1.0-2+b1 [armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.10.1.0-2 [armel])
+    A library of statistical types, data, and functions; profiling libraries
+libghc-stm-dev (2.3-1)
+    Haskell Software Transactional Memory library for GHC
+libghc-stm-prof (2.3-1)
+    Haskell Software Transactional Memory library for GHC; profiling libraries
+libghc-stream-dev (0.4.6-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.4.6-1 [armel])
+    Haskell stream (infinite list) library for GHC
+libghc-stream-prof (0.4.6-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.4.6-1 [armel])
+    Haskell stream (infinite list) library for GHC; profiling libraries
+libghc-strict-concurrency-dev (0.2.4.1-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.2.4.1-2 [armel])
+    Haskell strict concurrency abstractions - GHC libraries
+libghc-strict-concurrency-prof (0.2.4.1-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.2.4.1-2 [armel])
+    Haskell strict concurrency abstractions - GHC profiling libraries
+libghc-strict-dev (0.3.2-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.3.2-2 [armel])
+    Strict variants of standard Haskell datatypes
+libghc-strict-prof (0.3.2-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.3.2-2 [armel])
+    Strict variants of standard Haskell datatypes; profiling data
+libghc-strptime-dev (1.0.6-1)
+    Efficient parsing of LocalTime using C's strptime
+libghc-strptime-prof (1.0.6-1)
+    Efficient parsing of LocalTime using C's strptime; profiling libraries
+libghc-svgcairo-dev (0.12.1-1+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.12.1-1+b1 [armel])
+    Binding to the libsvg-cairo library
+libghc-svgcairo-prof (0.12.1-1+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.12.1-1+b1 [armel])
+    Binding to the libsvg-cairo library; profiling libraries
+libghc-syb-dev (0.3.6.1-1)
+    Generic programming library for Haskell
+libghc-syb-prof (0.3.6.1-1)
+    Generic programming library for Haskell; profiling libraries
+libghc-syb-with-class-dev (0.6.1.3-1+b1 [amd64, i386, kfreebsd-amd64, kfreebsd-i386], 0.6.1.3-1 [sparc])
+    Haskell library for generic programming
+libghc-syb-with-class-instances-text-dev (0.0.1-3+b2 [amd64, i386, kfreebsd-amd64, kfreebsd-i386], 0.0.1-3 [sparc])
+    Haskell Text instance for SYB Class - GHC libraries
+libghc-syb-with-class-instances-text-prof (0.0.1-3+b2 [amd64, i386, kfreebsd-amd64, kfreebsd-i386], 0.0.1-3 [sparc])
+    Haskell Text instance for SYB with Class - GHC profiling libraries
+libghc-syb-with-class-prof (0.6.1.3-1+b1 [amd64, i386, kfreebsd-amd64, kfreebsd-i386], 0.6.1.3-1 [sparc])
+    Haskell library for generic programming; profiling libraries
+libghc-system-fileio-dev (0.3.8-1)
+    consistent filesystem interaction across GHC versions
+libghc-system-fileio-prof (0.3.8-1)
+    consistent filesystem interaction across GHC versions; profiling libraries
+libghc-system-filepath-dev (0.4.6-1+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.4.6-1+b1 [armel])
+    high-level, byte-based file and directory path manipulations
+libghc-system-filepath-prof (0.4.6-1+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.4.6-1+b1 [armel])
+    high-level, byte-based file and directory path manipulations; profiling libs
+libghc-tagged-dev (0.4.2.1-1)
+    newtype wrappers for phantom types
+libghc-tagged-prof (0.4.2.1-1)
+    newtype wrappers for phantom types; profiling libraries
+libghc-tagsoup-dev (0.12.6-1+b3 [amd64, i386, powerpc, s390, sparc], 0.12.6-1+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 0.12.6-1+b1 [armel])
+    Haskell library to robustly parse unstructured HTML
+libghc-tagsoup-prof (0.12.6-1+b3 [amd64, i386, powerpc, s390, sparc], 0.12.6-1+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 0.12.6-1+b1 [armel])
+    Profiling support for TagSoup Haskell library
+libghc-tagstream-conduit-dev (0.3.2-1)
+    streamlined HTML tag parser
+libghc-tagstream-conduit-prof (0.3.2-1)
+    streamlined HTML tag parser; profiling libraries
+libghc-tar-dev (0.3.2.0-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.3.2.0-2 [armel])
+    reading, writing and manipulating ".tar" archive files
+libghc-tar-prof (0.3.2.0-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.3.2.0-2 [armel])
+    reading, writing and manipulating ".tar" archive files; profiling libraries
+libghc-template-dev (0.2.0.7-1+b1)
+    string substitution library
+libghc-template-prof (0.2.0.7-1+b1)
+    string substitution library; profiling libraries
+libghc-temporary-dev (1.1.2.3-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.1.2.3-1 [armel])
+    Temporary files and directories
+libghc-temporary-prof (1.1.2.3-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.1.2.3-1 [armel])
+    Temporary files and directories; profiling libraries
+libghc-terminfo-dev (0.3.2.3-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.3.2.3-1 [armel])
+    Haskell bindings to the terminfo library
+libghc-terminfo-prof (0.3.2.3-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.3.2.3-1 [armel])
+    Haskell bindings to the terminfo library; profiling libraries
+libghc-test-framework-dev (0.6-1+b2 [armhf, sparc], 0.6-1+b1 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x])
+    Framework for running and organising tests
+libghc-test-framework-hunit-dev (0.2.7-1+b4 [sparc], 0.2.7-1+b3 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x], 0.2.7-1+b2 [armel])
+    HUnit support for the test-framework package.
+libghc-test-framework-hunit-prof (0.2.7-1+b4 [sparc], 0.2.7-1+b3 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x], 0.2.7-1+b2 [armel])
+    HUnit support for the test-framework package.; profiling libraries
+libghc-test-framework-prof (0.6-1+b2 [armhf, sparc], 0.6-1+b1 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x])
+    Framework for running and organising tests; profiling libraries
+libghc-test-framework-quickcheck2-dev (0.2.12.1-1+b2 [armhf, sparc], 0.2.12.1-1+b1 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x])
+    QuickCheck2 support for the test-framework package.
+libghc-test-framework-quickcheck2-prof (0.2.12.1-1+b2 [armhf, sparc], 0.2.12.1-1+b1 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x])
+    QuickCheck2 support for the test-framework package.; profiling libraries
+libghc-test-framework-th-dev (0.2.2-5)
+    Automagically generate the {HUnit,Quickcheck}-bulk-code
+libghc-test-framework-th-prime-dev (0.0.5-1+b1 [sparc], 0.0.5-1 [amd64, i386, kfreebsd-amd64, kfreebsd-i386])
+    TH for test frameworks
+libghc-test-framework-th-prime-prof (0.0.5-1+b1 [sparc], 0.0.5-1 [amd64, i386, kfreebsd-amd64, kfreebsd-i386])
+    TH for test frameworks; profiling libraries
+libghc-test-framework-th-prof (0.2.2-5)
+    Automagically generate the {HUnit,Quickcheck}-bulk-code; profiling libraries
+libghc-testpack-dev (2.1.1-1+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 2.1.1-1+b1 [armel])
+    Haskell Test Utility Pack for HUnit and QuickCheck
+libghc-testpack-prof (2.1.1-1+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 2.1.1-1+b1 [armel])
+    Haskell Test Utility Pack for HUnit and QuickCheck
+libghc-texmath-dev (0.6.0.6-1+b2 [amd64, i386, powerpc, s390, sparc], 0.6.0.6-1+b1 [armel, armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x])
+    Haskell library to convert LaTeX to MathML - GHC libraries
+libghc-texmath-prof (0.6.0.6-1+b2 [amd64, i386, powerpc, s390, sparc], 0.6.0.6-1+b1 [armel, armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x])
+    Haskell library to convert LaTeX to MathML - GHC profiling libraries
+libghc-text-dev (0.11.2.0-1)
+    efficient packed Unicode text type for Haskell - GHC libraries
+libghc-text-icu-dev (0.6.3.4-2+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.6.3.4-2+b1 [armel])
+    bindings to the ICU library
+libghc-text-icu-prof (0.6.3.4-2+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.6.3.4-2+b1 [armel])
+    bindings to the ICU library; profiling libraries
+libghc-text-prof (0.11.2.0-1)
+    efficient packed Unicode text type for Haskell - GHC profiling libraries
+libghc-tinyurl-dev (0.1.0-2+b3 [amd64, i386, powerpc, s390, sparc], 0.1.0-2+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 0.1.0-2+b1 [armel])
+    interface to TinyURL web service
+libghc-tinyurl-prof (0.1.0-2+b3 [amd64, i386, powerpc, s390, sparc], 0.1.0-2+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 0.1.0-2+b1 [armel])
+    interface to TinyURL web service; profiling libraries
+libghc-tls-dev (0.9.5-1+b4 [armhf, i386, s390x], 0.9.5-1+b3 [amd64, armel, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390, sparc])
+    native Haskell implementation of TLS/SSL protocol
+libghc-tls-extra-dev (0.4.6.1-2+b1 [s390x], 0.4.6.1-2 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390, sparc])
+    TLS extra default values and helpers
+libghc-tls-extra-prof (0.4.6.1-2+b1 [s390x], 0.4.6.1-2 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390, sparc])
+    TLS extra default values and helpers; profiling libraries
+libghc-tls-prof (0.9.5-1+b4 [armhf, i386, s390x], 0.9.5-1+b3 [amd64, armel, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390, sparc])
+    native Haskell implementation of TLS/SSL protocol; profiling libraries
+libghc-tokyocabinet-dev (0.0.5-5+b3 [amd64, i386, kfreebsd-amd64, kfreebsd-i386, s390x, sparc], 0.0.5-5+b2 [armhf, mips, mipsel, powerpc, s390], 0.0.5-5+b1 [armel])
+    Haskell binding of Tokyo Cabinet
+libghc-tokyocabinet-prof (0.0.5-5+b3 [amd64, i386, kfreebsd-amd64, kfreebsd-i386, s390x, sparc], 0.0.5-5+b2 [armhf, mips, mipsel, powerpc, s390], 0.0.5-5+b1 [armel])
+    Haskell binding of Tokyo Cabinet; profiling library
+libghc-transformers-base-dev (0.4.1-2+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.4.1-2+b1 [armel])
+    lift computations from the bottom of a transformer stack
+libghc-transformers-base-prof (0.4.1-2+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.4.1-2+b1 [armel])
+    lift computations from the bottom of a transformer stack; profiling libraries
+libghc-transformers-dev (0.3.0.0-1)
+    Haskell monad transformer library
+libghc-transformers-prof (0.3.0.0-1)
+    Haskell monad transformer library; profiling libraries
+libghc-type-level-dev (0.2.4-5)
+    A Haskell library for type-level programming
+libghc-type-level-prof (0.2.4-5)
+    Profiling libraries for type-level programming in Haskell
+libghc-uniplate-dev (1.6.7-1+b2)
+    A Haskell library for uniform type generic traversals
+libghc-uniplate-prof (1.6.7-1+b2)
+    Profiling libraries for uniform type generic traversals
+libghc-unix-bytestring-dev (0.3.5-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.3.5-2 [armel])
+    Unix/POSIX-specific functions for ByteStrings
+libghc-unix-bytestring-prof (0.3.5-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.3.5-2 [armel])
+    Unix/POSIX-specific functions for ByteStrings; profiling libraries
+libghc-unix-compat-dev (0.3.0.1-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.3.0.1-1 [armel])
+    Haskell portable POSIX-compatible layer - GHC libraries
+libghc-unix-compat-prof (0.3.0.1-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.3.0.1-1 [armel])
+    Haskell portable POSIX-compatible layer - GHC profiling libraries
+libghc-unixutils-dev (1.50-1+b2 [amd64], 1.50-1+b1 [armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, s390x, sparc])
+    An interface between Haskell and Unix-like operating systems
+libghc-unixutils-prof (1.50-1+b2 [amd64], 1.50-1+b1 [armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, s390x, sparc])
+    Profiling libraries for the haskell-unixutils package
+libghc-unlambda-dev (0.1-2+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.1-2+b1 [armel])
+    Unlambda interpreter library
+libghc-unlambda-prof (0.1-2+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.1-2+b1 [armel])
+    Unlambda interpreter library; profiling libraries
+libghc-unordered-containers-dev (0.2.1.0-1)
+    Efficient hashing-based container types
+libghc-unordered-containers-prof (0.2.1.0-1)
+    Efficient hashing-based container types; profiling libraries
+libghc-uri-dev (0.1.6-1+b2 [amd64, armhf, i386, powerpc, s390, sparc], 0.1.6-1+b1 [armel, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x])
+    Haskell Text.URI library - GHC libraries
+libghc-uri-prof (0.1.6-1+b2 [amd64, armhf, i386, powerpc, s390, sparc], 0.1.6-1+b1 [armel, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x])
+    Haskell Text.URI library - GHC profiling libraries
+libghc-url-dev (2.1.2-4+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 2.1.2-4 [armel])
+    Haskell library for working with URLs - GHC libraries
+libghc-url-prof (2.1.2-4+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 2.1.2-4 [armel])
+    Haskell library for working with URLs - GHC profiling libraries
+libghc-utf8-light-dev (0.4.0.1-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.4.0.1-2 [armel])
+    Lightweight UTF-8 handling library
+libghc-utf8-light-prof (0.4.0.1-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.4.0.1-2 [armel])
+    Lightweight UTF-8 handling library; profiling libraries
+libghc-utf8-string-dev (0.3.7-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.3.7-1 [armel])
+    GHC libraries for the Haskell UTF-8 library
+libghc-utf8-string-prof (0.3.7-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.3.7-1 [armel])
+    Profiling support for the GHC Haskell UTF-8 library
+libghc-utility-ht-dev (0.0.5.1-3+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.0.5.1-3 [armel])
+    Small helper functions for Lists, Maybes, Tuples and Functions
+libghc-utility-ht-prof (0.0.5.1-3+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.0.5.1-3 [armel])
+    profiling libraries for libghc-utility-ht-dev
+libghc-uuagc-cabal-dev (1.0.2.0-1+b2 [armhf], 1.0.2.0-1+b1 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cabal plugin for UUAGC
+libghc-uuagc-cabal-prof (1.0.2.0-1+b2 [armhf], 1.0.2.0-1+b1 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cabal plugin for UUAGC; profiling libraries
+libghc-uuid-dev (1.2.3-2+b4 [i386, s390, sparc], 1.2.3-2+b3 [amd64, kfreebsd-amd64, kfreebsd-i386, powerpc], 1.2.3-2+b2 [armhf, mipsel, s390x], 1.2.3-2+b1 [armel, mips])
+    create, compare, parse and print Universally Unique Identifiers
+libghc-uuid-prof (1.2.3-2+b4 [i386, s390, sparc], 1.2.3-2+b3 [amd64, kfreebsd-amd64, kfreebsd-i386, powerpc], 1.2.3-2+b2 [armhf, mipsel, s390x], 1.2.3-2+b1 [armel, mips])
+    create, compare, parse and print UUIDs; profiling libraries
+libghc-uulib-dev (0.9.14-2)
+    parser and pretty print combinator library for GHC
+libghc-uulib-prof (0.9.14-2)
+    profiling parser and pretty print combinator library for GHC
+libghc-vault-dev (0.2.0.0-1+b2)
+    typed, persistent store for values of arbitrary types
+libghc-vault-prof (0.2.0.0-1+b2)
+    typed, persistent store for values of arbitrary types; profiling libraries
+libghc-vector-algorithms-dev (0.5.4-1+b2 [amd64, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, s390, s390x], 0.5.4-1+b1 [armhf, mips, mipsel, sparc], 0.5.4-1 [armel])
+    Efficient algorithms for vector array
+libghc-vector-algorithms-prof (0.5.4-1+b2 [amd64, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, s390, s390x], 0.5.4-1+b1 [armhf, mips, mipsel, sparc], 0.5.4-1 [armel])
+    Efficient algorithms for vector arrays; profiling libraries
+libghc-vector-dev (0.9.1-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.9.1-2 [armel])
+    Efficient Arrays for Haskell
+libghc-vector-prof (0.9.1-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.9.1-2 [armel])
+    Efficient Arrays for Haskell; profiling libraries
+libghc-vector-space-dev (0.8.1-1)
+    Vector & affine spaces, linear maps, and derivatives library
+libghc-vector-space-points-dev (0.1.1.0-1+b1 [amd64, i386, kfreebsd-amd64, mips, powerpc], 0.1.1.0-1 [armel, armhf, kfreebsd-i386, mipsel, s390, s390x, sparc])
+    A type for points in a vector space
+libghc-vector-space-points-prof (0.1.1.0-1+b1 [amd64, i386, kfreebsd-amd64, mips, powerpc], 0.1.1.0-1 [armel, armhf, kfreebsd-i386, mipsel, s390, s390x, sparc])
+    A type for points in a vector space; profiling libraries
+libghc-vector-space-prof (0.8.1-1)
+    Vector & affine spaces, linear maps, and derivatives library; profiling libs
+libghc-void-dev (0.5.5.1-2+b1 [armel, i386, kfreebsd-amd64, mips, mipsel, powerpc], 0.5.5.1-2 [amd64, armhf, kfreebsd-i386, s390, s390x, sparc])
+    Haskell 98 logically uninhabited data type
+libghc-void-prof (0.5.5.1-2+b1 [armel, i386, kfreebsd-amd64, mips, mipsel, powerpc], 0.5.5.1-2 [amd64, armhf, kfreebsd-i386, s390, s390x, sparc])
+    Haskell 98 logically uninhabited data type; profiling data
+libghc-vte-dev (0.12.1-1+b3 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.12.1-1+b2 [armel])
+    Binding to the VTE library
+libghc-vte-prof (0.12.1-1+b3 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.12.1-1+b2 [armel])
+    Binding to the VTE library; profiling libraries
+libghc-vty-dev (4.7.0.14-1+b1 [amd64, i386, powerpc, s390, sparc], 4.7.0.14-1 [armel, armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x])
+    Terminal interface library for ghc
+libghc-vty-prof (4.7.0.14-1+b1 [amd64, i386, powerpc, s390, sparc], 4.7.0.14-1 [armel, armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x])
+    Terminal interface library for ghc; profiling libraries
+libghc-wai-app-file-cgi-dev (0.5.8-1+b4 [amd64, i386, kfreebsd-amd64, kfreebsd-i386], 0.5.8-1+b3 [sparc])
+    file/CGI app of WAI
+libghc-wai-app-file-cgi-prof (0.5.8-1+b4 [amd64, i386, kfreebsd-amd64, kfreebsd-i386], 0.5.8-1+b3 [sparc])
+    file/CGI app of WAI; profiling libraries
+libghc-wai-app-static-dev (1.2.0.3-1+b5 [amd64], 1.2.0.3-1+b3 [i386, kfreebsd-amd64, kfreebsd-i386, sparc])
+    framework for type-safe, RESTful web applications
+libghc-wai-app-static-prof (1.2.0.3-1+b5 [amd64], 1.2.0.3-1+b3 [i386, kfreebsd-amd64, kfreebsd-i386, sparc])
+    framework for type-safe, RESTful web applications; profiling libraries
+libghc-wai-dev (1.2.0.2-1+b3 [amd64], 1.2.0.2-1+b2 [armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    web application interface
+libghc-wai-extra-dev (1.2.0.4-1+b1 [amd64], 1.2.0.4-1 [armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    some basic WAI handlers and middleware
+libghc-wai-extra-prof (1.2.0.4-1+b1 [amd64], 1.2.0.4-1 [armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    some basic WAI handlers and middleware; profiling libraries
+libghc-wai-logger-dev (0.1.4-1+b6 [amd64, i386, powerpc, s390, sparc], 0.1.4-1+b5 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 0.1.4-1+b4 [armel])
+    logging system for WAI
+libghc-wai-logger-prefork-dev (0.1.3-1+b6 [amd64, i386, powerpc, s390, sparc], 0.1.3-1+b5 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 0.1.3-1+b4 [armel])
+    logging system for preforked WAI apps
+libghc-wai-logger-prefork-prof (0.1.3-1+b6 [amd64, i386, powerpc, s390, sparc], 0.1.3-1+b5 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 0.1.3-1+b4 [armel])
+    logging system for preforked WAI apps; profiling libraries
+libghc-wai-logger-prof (0.1.4-1+b6 [amd64, i386, powerpc, s390, sparc], 0.1.4-1+b5 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 0.1.4-1+b4 [armel])
+    logging system for WAI; profiling libraries
+libghc-wai-prof (1.2.0.2-1+b3 [amd64], 1.2.0.2-1+b2 [armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    web application interface; profiling libraries
+libghc-wai-test-dev (1.2.0.2-1+b1 [amd64], 1.2.0.2-1 [armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    unit test framework (built on HUnit) for WAI applications
+libghc-wai-test-prof (1.2.0.2-1+b1 [amd64], 1.2.0.2-1 [armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    unit test framework (built on HUnit) for WAI applications; profiling libraries
+libghc-warp-dev (1.2.1.1-1+b1 [amd64], 1.2.1.1-1 [armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    fast, light-weight web server for WAI applications
+libghc-warp-prof (1.2.1.1-1+b1 [amd64], 1.2.1.1-1 [armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    fast, light-weight web server for WAI applications; profiling libraries
+libghc-warp-tls-dev (1.2.0.4-1+b4 [amd64, armel, i386, kfreebsd-i386, s390, s390x], 1.2.0.4-1+b3 [armhf, kfreebsd-amd64, mips, mipsel, sparc])
+    SSL/TLS support for Warp
+libghc-warp-tls-prof (1.2.0.4-1+b4 [amd64, armel, i386, kfreebsd-i386, s390, s390x], 1.2.0.4-1+b3 [armhf, kfreebsd-amd64, mips, mipsel, sparc])
+    SSL/TLS support for Warp; profiling libraries
+libghc-web-routes-dev (0.25.3-2+b3 [amd64, i386, powerpc, s390, sparc], 0.25.3-2+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 0.25.3-2+b1 [armel])
+    library for correctness/composability of URLs
+libghc-web-routes-prof (0.25.3-2+b3 [amd64, i386, powerpc, s390, sparc], 0.25.3-2+b2 [armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x], 0.25.3-2+b1 [armel])
+    library for correctness/composability of URLs; profiling libs
+libghc-webkit-dev (0.12.3-2+b1)
+    Binding to the Webkit library
+libghc-webkit-prof (0.12.3-2+b1)
+    Binding to the Webkit library; profiling libraries
+libghc-weighted-regexp-dev (0.3.1.1-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.3.1.1-2 [armel])
+    Weighted Regular Expression Matcher
+libghc-weighted-regexp-prof (0.3.1.1-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.3.1.1-2 [armel])
+    Weighted Regular Expression Matcher; profiling libraries
+libghc-x11-dev (1.5.0.1-1+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.5.0.1-1+b1 [armel])
+    Haskell X11 binding for GHC
+libghc-x11-prof (1.5.0.1-1+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.5.0.1-1+b1 [armel])
+    Haskell X11 binding for GHC; profiling libraries
+libghc-x11-xft-dev (0.3.1-1+b3 [i386, kfreebsd-amd64, kfreebsd-i386, mips, s390, s390x, sparc], 0.3.1-1+b2 [amd64, armhf, mipsel, powerpc], 0.3.1-1+b1 [armel])
+    Haskell Xft binding for GHC
+libghc-x11-xft-prof (0.3.1-1+b3 [i386, kfreebsd-amd64, kfreebsd-i386, mips, s390, s390x, sparc], 0.3.1-1+b2 [amd64, armhf, mipsel, powerpc], 0.3.1-1+b1 [armel])
+    Haskell Xft binding for GHC; profiling libraries
+libghc-xdg-basedir-dev (0.2.1-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.2.1-2 [armel])
+    basic implementation of the XDG Base Directory specification
+libghc-xdg-basedir-prof (0.2.1-2+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.2.1-2 [armel])
+    basic implementation of the XDG Base Directory spec; profiling libraries
+libghc-xhtml-dev (3000.2.1-1)
+    Haskell xhtml library for GHC
+libghc-xhtml-prof (3000.2.1-1)
+    Haskell xhtml library for GHC; profiling libraries
+libghc-xml-conduit-dev (0.7.0.2-1+b1 [amd64], 0.7.0.2-1 [armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    HTTP client package with conduit interface and HTTPS support
+libghc-xml-conduit-prof (0.7.0.2-1+b1 [amd64], 0.7.0.2-1 [armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    HTTP/HTTPS client package with conduit interface, profiling libraries
+libghc-xml-dev (1.3.12-1+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.3.12-1+b1 [armel])
+    A simple Haskell XML library - GHC libraries
+libghc-xml-prof (1.3.12-1+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.3.12-1+b1 [armel])
+    A simple Haskell XML library - GHC profiling libraries
+libghc-xml-types-dev (0.3.1-2+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.3.1-2+b1 [armel])
+    basic types for representing XML
+libghc-xml-types-prof (0.3.1-2+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.3.1-2+b1 [armel])
+    basic types for representing XML; profiling libraries
+libghc-xml2html-dev (0.1.2.3-1+b2 [amd64], 0.1.2.3-1 [armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    blaze-html instances for xml-conduit types
+libghc-xml2html-prof (0.1.2.3-1+b2 [amd64], 0.1.2.3-1 [armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    blaze-html instances for xml-conduit types; profiling libraries
+libghc-xmonad-contrib-dev (0.10-4~deb7u1)
+    Extensions to xmonad
+libghc-xmonad-contrib-prof (0.10-4~deb7u1)
+    Extensions to xmonad; profiling libraries
+libghc-xmonad-dev (0.10-4+b2 [amd64, armhf, i386, powerpc, s390, sparc], 0.10-4+b1 [armel, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x])
+    Lightweight X11 window manager; libraries
+libghc-xmonad-prof (0.10-4+b2 [amd64, armhf, i386, powerpc, s390, sparc], 0.10-4+b1 [armel, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x])
+    Lightweight X11 window manager; profiling libraries
+libghc-xss-sanitize-dev (0.3.2-1+b1 [amd64, i386, powerpc, s390, sparc], 0.3.2-1 [armel, armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x])
+    Library to sanitize HTML and prevent XSS attacks - GHC libraries
+libghc-xss-sanitize-prof (0.3.2-1+b1 [amd64, i386, powerpc, s390, sparc], 0.3.2-1 [armel, armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x])
+    Library to sanitize HTML and prevent XSS attacks - GHC profiling libraries
+libghc-yaml-dev (0.7.0.2-1+b3 [amd64], 0.7.0.2-1+b2 [armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    interface to LibYAML
+libghc-yaml-light-dev (0.1.4-2+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.1.4-2+b1 [armel])
+    lightweight algebraic data type representing parsed YAML
+libghc-yaml-light-prof (0.1.4-2+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.1.4-2+b1 [armel])
+    lightweight algebraic data type representing parsed YAML; profiling libraries
+libghc-yaml-prof (0.7.0.2-1+b3 [amd64], 0.7.0.2-1+b2 [armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    interface to LibYAML; profiling libraries
+libghc-yesod-auth-dev (1.0.2.1-2+b2 [amd64, i386], 1.0.2.1-2+b1 [kfreebsd-amd64, kfreebsd-i386, sparc])
+    authentication for Yesod
+libghc-yesod-auth-prof (1.0.2.1-2+b2 [amd64, i386], 1.0.2.1-2+b1 [kfreebsd-amd64, kfreebsd-i386, sparc])
+    authentication for Yesod; profiling libraries
+libghc-yesod-core-dev (1.0.1.2-1+b4 [amd64], 1.0.1.2-1+b3 [i386, kfreebsd-amd64, kfreebsd-i386], 1.0.1.2-1+b2 [sparc])
+    framework for type-safe, RESTful web applications
+libghc-yesod-core-prof (1.0.1.2-1+b4 [amd64], 1.0.1.2-1+b3 [i386, kfreebsd-amd64, kfreebsd-i386], 1.0.1.2-1+b2 [sparc])
+    framework for type-safe, RESTful web applications; profiling libraries
+libghc-yesod-default-dev (1.0.1.1-1+b3 [amd64], 1.0.1.1-1+b1 [i386, kfreebsd-amd64, kfreebsd-i386], 1.0.1.1-1 [sparc])
+    default config and main functions for your Yesod application
+libghc-yesod-default-prof (1.0.1.1-1+b3 [amd64], 1.0.1.1-1+b1 [i386, kfreebsd-amd64, kfreebsd-i386], 1.0.1.1-1 [sparc])
+    default config/main functions for your Yesod application; profiling libraries
+libghc-yesod-dev (1.0.1.6-2+b3 [i386], 1.0.1.6-2+b2 [amd64, kfreebsd-amd64, kfreebsd-i386])
+    framework for type-safe, RESTful web applications
+libghc-yesod-form-dev (1.0.0.4-1+b2 [amd64], 1.0.0.4-1+b1 [i386, kfreebsd-amd64, kfreebsd-i386], 1.0.0.4-1 [sparc])
+    framework for type-safe, RESTful web applications
+libghc-yesod-form-prof (1.0.0.4-1+b2 [amd64], 1.0.0.4-1+b1 [i386, kfreebsd-amd64, kfreebsd-i386], 1.0.0.4-1 [sparc])
+    framework for type-safe, RESTful web applications; profiling libraries
+libghc-yesod-json-dev (1.0.0.1-1+b4 [amd64], 1.0.0.1-1+b3 [i386, kfreebsd-amd64, kfreebsd-i386], 1.0.0.1-1+b2 [sparc])
+    framework for type-safe, RESTful web applications
+libghc-yesod-json-prof (1.0.0.1-1+b4 [amd64], 1.0.0.1-1+b3 [i386, kfreebsd-amd64, kfreebsd-i386], 1.0.0.1-1+b2 [sparc])
+    framework for type-safe, RESTful web applications; profiling libraries
+libghc-yesod-markdown-dev (0.4.0-1+b4 [kfreebsd-amd64, kfreebsd-i386], 0.4.0-1+b3 [amd64, i386], 0.4.0-1+b2 [sparc])
+    tools for using Markdown in a Yesod application
+libghc-yesod-markdown-prof (0.4.0-1+b4 [kfreebsd-amd64, kfreebsd-i386], 0.4.0-1+b3 [amd64, i386], 0.4.0-1+b2 [sparc])
+    tools for using Markdown in a Yesod application; profiling libraries
+libghc-yesod-persistent-dev (1.0.0.1-1+b2 [amd64], 1.0.0.1-1+b1 [i386, kfreebsd-amd64, kfreebsd-i386], 1.0.0.1-1 [sparc])
+    framework for type-safe, RESTful web applications
+libghc-yesod-persistent-prof (1.0.0.1-1+b2 [amd64], 1.0.0.1-1+b1 [i386, kfreebsd-amd64, kfreebsd-i386], 1.0.0.1-1 [sparc])
+    framework for type-safe, RESTful web applications; profiling libraries
+libghc-yesod-prof (1.0.1.6-2+b3 [i386], 1.0.1.6-2+b2 [amd64, kfreebsd-amd64, kfreebsd-i386])
+    framework for type-safe, RESTful web applications; profiling libraries
+libghc-yesod-routes-dev (1.0.1.2-1)
+    efficient routing for Yesod
+libghc-yesod-routes-prof (1.0.1.2-1)
+    efficient routing for Yesod; profiling libraries
+libghc-yesod-static-dev (1.0.0.2-1+b4 [amd64], 1.0.0.2-1+b3 [i386, kfreebsd-amd64, kfreebsd-i386], 1.0.0.2-1+b2 [sparc])
+    Static file serving subsite for Yesod Web Framework.
+libghc-yesod-static-prof (1.0.0.2-1+b4 [amd64], 1.0.0.2-1+b3 [i386, kfreebsd-amd64, kfreebsd-i386], 1.0.0.2-1+b2 [sparc])
+    Static file serving subsite for Yesod Web Framework; profiling libraries
+libghc-yesod-test-dev (0.2.0.6-1)
+    integration testing for WAI/Yesod applications
+libghc-yesod-test-prof (0.2.0.6-1)
+    integration testing for WAI/Yesod applications; profiling libraries
+libghc-zip-archive-dev (0.1.1.7-3+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.1.1.7-3+b1 [armel])
+    library to create, modify and extract files from zip archives
+libghc-zip-archive-prof (0.1.1.7-3+b2 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.1.1.7-3+b1 [armel])
+    library to create and modify zip archives; profiling library
+libghc-zlib-bindings-dev (0.1.0.1-1)
+    low-level bindings to zlib
+libghc-zlib-bindings-prof (0.1.0.1-1)
+    low-level bindings to zlib; profiling libraries
+libghc-zlib-conduit-dev (0.4.0.1-1+b1 [amd64], 0.4.0.1-1 [armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    streaming compression/decompression via conduits
+libghc-zlib-conduit-prof (0.4.0.1-1+b1 [amd64], 0.4.0.1-1 [armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    streaming compression/decompression via conduits; profiling libraries
+libghc-zlib-dev (0.5.3.3-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.5.3.3-1 [armel])
+    Compression and decompression in the gzip and zlib formats
+libghc-zlib-enum-dev (0.2.2.1-1+b1)
+    enumerator interface for zlib compression
+libghc-zlib-enum-prof (0.2.2.1-1+b1)
+    enumerator interface for zlib compression; profiling libraries
+libghc-zlib-prof (0.5.3.3-1+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.5.3.3-1 [armel])
+    Compression and decompression in the gzip and zlib formats; profiling libraries
+libghc6-agda-dev (1:8)
+    transitional dummy package
+libghc6-alut-dev (1:8)
+    transitional dummy package
+libghc6-alut-prof (1:8)
+    transitional dummy package
+libghc6-arrows-dev (1:8)
+    transitional dummy package
+libghc6-arrows-prof (1:8)
+    transitional dummy package
+libghc6-binary-dev (1:8)
+    transitional dummy package
+libghc6-binary-prof (1:8)
+    transitional dummy package
+libghc6-binary-shared-dev (1:8)
+    transitional dummy package
+libghc6-binary-shared-prof (1:8)
+    transitional dummy package
+libghc6-bzlib-dev (1:8)
+    transitional dummy package
+libghc6-bzlib-prof (1:8)
+    transitional dummy package
+libghc6-cairo-dev (1:8)
+    transitional dummy package
+libghc6-cairo-prof (1:8)
+    transitional dummy package
+libghc6-cautious-file-dev (1:8)
+    transitional dummy package
+libghc6-cautious-file-prof (1:8)
+    transitional dummy package
+libghc6-cgi-dev (1:8)
+    transitional dummy package
+libghc6-cgi-prof (1:8)
+    transitional dummy package
+libghc6-colour-dev (1:8)
+    transitional dummy package
+libghc6-colour-prof (1:8)
+    transitional dummy package
+libghc6-configfile-dev (1:8)
+    transitional dummy package
+libghc6-configfile-prof (1:8)
+    transitional dummy package
+libghc6-convertible-dev (1:8)
+    transitional dummy package
+libghc6-convertible-prof (1:8)
+    transitional dummy package
+libghc6-cpphs-dev (1:8)
+    transitional dummy package
+libghc6-cpphs-prof (1:8)
+    transitional dummy package
+libghc6-criterion-dev (1:8)
+    transitional dummy package
+libghc6-criterion-prof (1:8)
+    transitional dummy package
+libghc6-csv-dev (1:8)
+    transitional dummy package
+libghc6-csv-prof (1:8)
+    transitional dummy package
+libghc6-curl-dev (1:8)
+    transitional dummy package
+libghc6-curl-prof (1:8)
+    transitional dummy package
+libghc6-data-accessor-dev (1:8)
+    transitional dummy package
+libghc6-data-accessor-prof (1:8)
+    transitional dummy package
+libghc6-dataenc-dev (1:8)
+    transitional dummy package
+libghc6-dataenc-prof (1:8)
+    transitional dummy package
+libghc6-datetime-dev (1:8)
+    transitional dummy package
+libghc6-datetime-prof (1:8)
+    transitional dummy package
+libghc6-debian-dev (1:8)
+    transitional dummy package
+libghc6-debian-prof (1:8)
+    transitional dummy package
+libghc6-deepseq-dev (1:8)
+    transitional dummy package
+libghc6-deepseq-prof (1:8)
+    transitional dummy package
+libghc6-diagrams-dev (1:8)
+    transitional dummy package
+libghc6-diagrams-prof (1:8)
+    transitional dummy package
+libghc6-diff-dev (1:8)
+    transitional dummy package
+libghc6-diff-prof (1:8)
+    transitional dummy package
+libghc6-digest-dev (1:8)
+    transitional dummy package
+libghc6-digest-prof (1:8)
+    transitional dummy package
+libghc6-edison-api-dev (1:8)
+    transitional dummy package
+libghc6-edison-api-prof (1:8)
+    transitional dummy package
+libghc6-edison-core-dev (1:8)
+    transitional dummy package
+libghc6-edison-core-prof (1:8)
+    transitional dummy package
+libghc6-editline-dev (1:8)
+    transitional dummy package
+libghc6-erf-dev (1:8)
+    transitional dummy package
+libghc6-erf-prof (1:8)
+    transitional dummy package
+libghc6-event-list-dev (1:8)
+    transitional dummy package
+libghc6-event-list-prof (1:8)
+    transitional dummy package
+libghc6-explicit-exception-dev (1:8)
+    transitional dummy package
+libghc6-explicit-exception-prof (1:8)
+    transitional dummy package
+libghc6-fastcgi-dev (1:8)
+    transitional dummy package
+libghc6-fastcgi-prof (1:8)
+    transitional dummy package
+libghc6-feed-dev (1:8)
+    transitional dummy package
+libghc6-feed-prof (1:8)
+    transitional dummy package
+libghc6-fgl-dev (1:8)
+    transitional dummy package
+libghc6-fgl-prof (1:8)
+    transitional dummy package
+libghc6-filemanip-dev (1:8)
+    transitional dummy package
+libghc6-filemanip-prof (1:8)
+    transitional dummy package
+libghc6-filestore-data (1:8)
+    transitional dummy package
+libghc6-filestore-dev (1:8)
+    transitional dummy package
+libghc6-filestore-prof (1:8)
+    transitional dummy package
+libghc6-ftphs-dev (1:8)
+    transitional dummy package
+libghc6-gconf-dev (1:8)
+    transitional dummy package
+libghc6-gconf-prof (1:8)
+    transitional dummy package
+libghc6-ghc-events-dev (1:8)
+    transitional dummy package
+libghc6-ghc-events-prof (1:8)
+    transitional dummy package
+libghc6-ghc-mtl-dev (1:8)
+    transitional dummy package
+libghc6-ghc-mtl-prof (1:8)
+    transitional dummy package
+libghc6-ghc-paths-dev (1:8)
+    transitional dummy package
+libghc6-ghc-paths-prof (1:8)
+    transitional dummy package
+libghc6-gio-dev (1:8)
+    transitional dummy package
+libghc6-gio-prof (1:8)
+    transitional dummy package
+libghc6-gitit-dev (1:8)
+    transitional dummy package
+libghc6-glade-dev (1:8)
+    transitional dummy package
+libghc6-glfw-dev (1:8)
+    transitional dummy package
+libghc6-glfw-prof (1:8)
+    transitional dummy package
+libghc6-glib-dev (1:8)
+    transitional dummy package
+libghc6-glib-prof (1:8)
+    transitional dummy package
+libghc6-glut-dev (1:8)
+    transitional dummy package
+libghc6-glut-prof (1:8)
+    transitional dummy package
+libghc6-gstreamer-dev (1:8)
+    transitional dummy package
+libghc6-gstreamer-prof (1:8)
+    transitional dummy package
+libghc6-gtk-dev (1:8)
+    transitional dummy package
+libghc6-gtkglext-dev (1:8)
+    transitional dummy package
+libghc6-gtksourceview2-dev (1:8)
+    transitional dummy package
+libghc6-haddock-dev (1:8)
+    transitional dummy package
+libghc6-haddock-prof (1:8)
+    transitional dummy package
+libghc6-happstack-dev (1:8)
+    transitional dummy package
+libghc6-happstack-prof (1:8)
+    transitional dummy package
+libghc6-happstack-server-dev (1:8)
+    transitional dummy package
+libghc6-happstack-server-prof (1:8)
+    transitional dummy package
+libghc6-harp-dev (1:8)
+    transitional dummy package
+libghc6-harp-prof (1:8)
+    transitional dummy package
+libghc6-hashed-storage-dev (1:8)
+    transitional dummy package
+libghc6-hashed-storage-prof (1:8)
+    transitional dummy package
+libghc6-haskeline-dev (1:8)
+    transitional dummy package
+libghc6-haskeline-prof (1:8)
+    transitional dummy package
+libghc6-haskell-lexer-dev (1:8)
+    transitional dummy package
+libghc6-haskell-lexer-prof (1:8)
+    transitional dummy package
+libghc6-haskell-src-dev (1:8)
+    transitional dummy package
+libghc6-haskell-src-prof (1:8)
+    transitional dummy package
+libghc6-haskelldb-dev (1:8)
+    transitional dummy package
+libghc6-haskelldb-hdbc-dev (1:8)
+    transitional dummy package
+libghc6-haskelldb-hdbc-odbc-dev (1:8)
+    transitional dummy package
+libghc6-haskelldb-hdbc-postgresql-dev (1:8)
+    transitional dummy package
+libghc6-haskelldb-hdbc-prof (1:8)
+    transitional dummy package
+libghc6-haskelldb-hdbc-sqlite3-dev (1:8)
+    transitional dummy package
+libghc6-haskelldb-prof (1:8)
+    transitional dummy package
+libghc6-haskore-dev (1:8)
+    transitional dummy package
+libghc6-haskore-prof (1:8)
+    transitional dummy package
+libghc6-haxml-dev (1:8)
+    transitional dummy package
+libghc6-haxml-prof (1:8)
+    transitional dummy package
+libghc6-haxr-dev (1:8)
+    transitional dummy package
+libghc6-haxr-prof (1:8)
+    transitional dummy package
+libghc6-hdbc-dev (1:8)
+    transitional dummy package
+libghc6-hdbc-odbc-dev (1:8)
+    transitional dummy package
+libghc6-hdbc-postgresql-dev (1:8)
+    transitional dummy package
+libghc6-hdbc-prof (1:8)
+    transitional dummy package
+libghc6-hdbc-sqlite3-dev (1:8)
+    transitional dummy package
+libghc6-highlighting-kate-dev (1:8)
+    transitional dummy package
+libghc6-highlighting-kate-prof (1:8)
+    transitional dummy package
+libghc6-hint-dev (1:8)
+    transitional dummy package
+libghc6-hint-prof (1:8)
+    transitional dummy package
+libghc6-hjavascript-dev (1:8)
+    transitional dummy package
+libghc6-hjavascript-prof (1:8)
+    transitional dummy package
+libghc6-hjscript-dev (1:8)
+    transitional dummy package
+libghc6-hjscript-prof (1:8)
+    transitional dummy package
+libghc6-hoauth-dev (1:8)
+    transitional dummy package
+libghc6-hscolour-dev (1:8)
+    transitional dummy package
+libghc6-hscolour-prof (1:8)
+    transitional dummy package
+libghc6-hscurses-dev (1:8)
+    transitional dummy package
+libghc6-hscurses-prof (1:8)
+    transitional dummy package
+libghc6-hsemail-dev (1:8)
+    transitional dummy package
+libghc6-hsemail-prof (1:8)
+    transitional dummy package
+libghc6-hsh-dev (1:8)
+    transitional dummy package
+libghc6-hslogger-dev (1:8)
+    transitional dummy package
+libghc6-hslogger-prof (1:8)
+    transitional dummy package
+libghc6-hsp-dev (1:8)
+    transitional dummy package
+libghc6-hsp-prof (1:8)
+    transitional dummy package
+libghc6-hsql-dev (1:8)
+    transitional dummy package
+libghc6-hsql-mysql-dev (1:8)
+    transitional dummy package
+libghc6-hsql-mysql-prof (1:8)
+    transitional dummy package
+libghc6-hsql-odbc-dev (1:8)
+    transitional dummy package
+libghc6-hsql-odbc-prof (1:8)
+    transitional dummy package
+libghc6-hsql-postgresql-dev (1:8)
+    transitional dummy package
+libghc6-hsql-postgresql-prof (1:8)
+    transitional dummy package
+libghc6-hsql-prof (1:8)
+    transitional dummy package
+libghc6-hsql-sqlite3-dev (1:8)
+    transitional dummy package
+libghc6-hsql-sqlite3-prof (1:8)
+    transitional dummy package
+libghc6-hstringtemplate-dev (1:8)
+    transitional dummy package
+libghc6-hstringtemplate-prof (1:8)
+    transitional dummy package
+libghc6-hsx-dev (1:8)
+    transitional dummy package
+libghc6-hsx-prof (1:8)
+    transitional dummy package
+libghc6-html-dev (1:8)
+    transitional dummy package
+libghc6-html-prof (1:8)
+    transitional dummy package
+libghc6-http-dev (1:8)
+    transitional dummy package
+libghc6-http-prof (1:8)
+    transitional dummy package
+libghc6-hunit-dev (1:8)
+    transitional dummy package
+libghc6-hunit-prof (1:8)
+    transitional dummy package
+libghc6-hxt-dev (1:8)
+    transitional dummy package
+libghc6-hxt-prof (1:8)
+    transitional dummy package
+libghc6-irc-dev (1:8)
+    transitional dummy package
+libghc6-json-dev (1:8)
+    transitional dummy package
+libghc6-json-prof (1:8)
+    transitional dummy package
+libghc6-language-c-dev (1:8)
+    transitional dummy package
+libghc6-language-c-prof (1:8)
+    transitional dummy package
+libghc6-lazysmallcheck-dev (1:8)
+    transitional dummy package
+libghc6-lazysmallcheck-prof (1:8)
+    transitional dummy package
+libghc6-ldap-dev (1:8)
+    transitional dummy package
+libghc6-ldap-prof (1:8)
+    transitional dummy package
+libghc6-leksah-server-dev (1:8)
+    transitional dummy package
+libghc6-llvm-dev (1:8)
+    transitional dummy package
+libghc6-llvm-prof (1:8)
+    transitional dummy package
+libghc6-ltk-dev (1:8)
+    transitional dummy package
+libghc6-magic-dev (1:8)
+    transitional dummy package
+libghc6-magic-prof (1:8)
+    transitional dummy package
+libghc6-markov-chain-dev (1:8)
+    transitional dummy package
+libghc6-markov-chain-prof (1:8)
+    transitional dummy package
+libghc6-maybet-dev (1:8)
+    transitional dummy package
+libghc6-maybet-prof (1:8)
+    transitional dummy package
+libghc6-midi-dev (1:8)
+    transitional dummy package
+libghc6-midi-prof (1:8)
+    transitional dummy package
+libghc6-missingh-dev (1:8)
+    transitional dummy package
+libghc6-missingh-prof (1:8)
+    transitional dummy package
+libghc6-mmap-dev (1:8)
+    transitional dummy package
+libghc6-mmap-prof (1:8)
+    transitional dummy package
+libghc6-monadcatchio-mtl-dev (1:8)
+    transitional dummy package
+libghc6-monadcatchio-mtl-prof (1:8)
+    transitional dummy package
+libghc6-monoid-transformer-dev (1:8)
+    transitional dummy package
+libghc6-monoid-transformer-prof (1:8)
+    transitional dummy package
+libghc6-mtl-dev (1:8)
+    transitional dummy package
+libghc6-mtl-prof (1:8)
+    transitional dummy package
+libghc6-mwc-random-dev (1:8)
+    transitional dummy package
+libghc6-mwc-random-prof (1:8)
+    transitional dummy package
+libghc6-network-dev (1:8)
+    transitional dummy package
+libghc6-network-prof (1:8)
+    transitional dummy package
+libghc6-non-negative-dev (1:8)
+    transitional dummy package
+libghc6-non-negative-prof (1:8)
+    transitional dummy package
+libghc6-openal-dev (1:8)
+    transitional dummy package
+libghc6-openal-prof (1:8)
+    transitional dummy package
+libghc6-opengl-dev (1:8)
+    transitional dummy package
+libghc6-opengl-prof (1:8)
+    transitional dummy package
+libghc6-pandoc-dev (1:8)
+    transitional dummy package
+libghc6-pango-dev (1:8)
+    transitional dummy package
+libghc6-pango-prof (1:8)
+    transitional dummy package
+libghc6-parallel-dev (1:8)
+    transitional dummy package
+libghc6-parallel-prof (1:8)
+    transitional dummy package
+libghc6-parsec2-dev (1:8)
+    transitional dummy package
+libghc6-parsec2-prof (1:8)
+    transitional dummy package
+libghc6-parsec3-dev (1:8)
+    transitional dummy package
+libghc6-parsec3-prof (1:8)
+    transitional dummy package
+libghc6-pcre-light-dev (1:8)
+    transitional dummy package
+libghc6-pcre-light-prof (1:8)
+    transitional dummy package
+libghc6-polyparse-dev (1:8)
+    transitional dummy package
+libghc6-polyparse-prof (1:8)
+    transitional dummy package
+libghc6-pretty-show-dev (1:8)
+    transitional dummy package
+libghc6-pretty-show-prof (1:8)
+    transitional dummy package
+libghc6-primitive-dev (1:8)
+    transitional dummy package
+libghc6-primitive-prof (1:8)
+    transitional dummy package
+libghc6-quickcheck1-dev (1:8)
+    transitional dummy package
+libghc6-quickcheck1-prof (1:8)
+    transitional dummy package
+libghc6-quickcheck2-dev (1:8)
+    transitional dummy package
+libghc6-quickcheck2-prof (1:8)
+    transitional dummy package
+libghc6-recaptcha-dev (1:8)
+    transitional dummy package
+libghc6-recaptcha-prof (1:8)
+    transitional dummy package
+libghc6-regex-base-dev (1:8)
+    transitional dummy package
+libghc6-regex-base-prof (1:8)
+    transitional dummy package
+libghc6-regex-compat-dev (1:8)
+    transitional dummy package
+libghc6-regex-compat-prof (1:8)
+    transitional dummy package
+libghc6-regex-posix-dev (1:8)
+    transitional dummy package
+libghc6-regex-posix-prof (1:8)
+    transitional dummy package
+libghc6-regex-tdfa-dev (1:8)
+    transitional dummy package
+libghc6-regex-tdfa-prof (1:8)
+    transitional dummy package
+libghc6-regex-tdfa-utf8-dev (1:8)
+    transitional dummy package
+libghc6-regex-tdfa-utf8-prof (1:8)
+    transitional dummy package
+libghc6-safe-dev (1:8)
+    transitional dummy package
+libghc6-safe-prof (1:8)
+    transitional dummy package
+libghc6-sdl-dev (1:8)
+    transitional dummy package
+libghc6-sdl-gfx-dev (1:8)
+    transitional dummy package
+libghc6-sdl-gfx-prof (1:8)
+    transitional dummy package
+libghc6-sdl-image-dev (1:8)
+    transitional dummy package
+libghc6-sdl-image-prof (1:8)
+    transitional dummy package
+libghc6-sdl-mixer-dev (1:8)
+    transitional dummy package
+libghc6-sdl-mixer-prof (1:8)
+    transitional dummy package
+libghc6-sdl-prof (1:8)
+    transitional dummy package
+libghc6-sdl-ttf-dev (1:8)
+    transitional dummy package
+libghc6-sdl-ttf-prof (1:8)
+    transitional dummy package
+libghc6-sendfile-dev (1:8)
+    transitional dummy package
+libghc6-sendfile-prof (1:8)
+    transitional dummy package
+libghc6-sha-dev (1:8)
+    transitional dummy package
+libghc6-sha-prof (1:8)
+    transitional dummy package
+libghc6-smtpclient-dev (1:8)
+    transitional dummy package
+libghc6-smtpclient-prof (1:8)
+    transitional dummy package
+libghc6-split-dev (1:8)
+    transitional dummy package
+libghc6-split-prof (1:8)
+    transitional dummy package
+libghc6-src-exts-dev (1:8)
+    transitional dummy package
+libghc6-src-exts-prof (1:8)
+    transitional dummy package
+libghc6-statistics-dev (1:8)
+    transitional dummy package
+libghc6-statistics-prof (1:8)
+    transitional dummy package
+libghc6-stm-dev (1:8)
+    transitional dummy package
+libghc6-stm-prof (1:8)
+    transitional dummy package
+libghc6-stream-dev (1:8)
+    transitional dummy package
+libghc6-stream-prof (1:8)
+    transitional dummy package
+libghc6-strict-concurrency-dev (1:8)
+    transitional dummy package
+libghc6-strict-concurrency-prof (1:8)
+    transitional dummy package
+libghc6-svgcairo-dev (1:8)
+    transitional dummy package
+libghc6-syb-with-class-dev (1:8)
+    transitional dummy package
+libghc6-syb-with-class-instances-text-dev (1:8)
+    transitional dummy package
+libghc6-syb-with-class-instances-text-prof (1:8)
+    transitional dummy package
+libghc6-syb-with-class-prof (1:8)
+    transitional dummy package
+libghc6-tagsoup-dev (1:8)
+    transitional dummy package
+libghc6-tagsoup-prof (1:8)
+    transitional dummy package
+libghc6-tar-dev (1:8)
+    transitional dummy package
+libghc6-tar-prof (1:8)
+    transitional dummy package
+libghc6-terminfo-dev (1:8)
+    transitional dummy package
+libghc6-terminfo-prof (1:8)
+    transitional dummy package
+libghc6-testpack-dev (1:8)
+    transitional dummy package
+libghc6-testpack-prof (1:8)
+    transitional dummy package
+libghc6-texmath-dev (1:8)
+    transitional dummy package
+libghc6-texmath-prof (1:8)
+    transitional dummy package
+libghc6-text-dev (1:8)
+    transitional dummy package
+libghc6-text-prof (1:8)
+    transitional dummy package
+libghc6-tokyocabinet-dev (1:8)
+    transitional dummy package
+libghc6-tokyocabinet-prof (1:8)
+    transitional dummy package
+libghc6-transformers-dev (1:8)
+    transitional dummy package
+libghc6-transformers-prof (1:8)
+    transitional dummy package
+libghc6-type-level-dev (1:8)
+    transitional dummy package
+libghc6-type-level-prof (1:8)
+    transitional dummy package
+libghc6-uniplate-dev (1:8)
+    transitional dummy package
+libghc6-uniplate-prof (1:8)
+    transitional dummy package
+libghc6-unix-compat-dev (1:8)
+    transitional dummy package
+libghc6-unix-compat-prof (1:8)
+    transitional dummy package
+libghc6-unixutils-dev (1:8)
+    transitional dummy package
+libghc6-unixutils-prof (1:8)
+    transitional dummy package
+libghc6-url-dev (1:8)
+    transitional dummy package
+libghc6-url-prof (1:8)
+    transitional dummy package
+libghc6-utility-ht-dev (1:8)
+    transitional dummy package
+libghc6-utility-ht-prof (1:8)
+    transitional dummy package
+libghc6-uulib-dev (1:8)
+    transitional dummy package
+libghc6-uulib-prof (1:8)
+    transitional dummy package
+libghc6-vector-algorithms-dev (1:8)
+    transitional dummy package
+libghc6-vector-algorithms-prof (1:8)
+    transitional dummy package
+libghc6-vector-dev (1:8)
+    transitional dummy package
+libghc6-vector-prof (1:8)
+    transitional dummy package
+libghc6-vte-dev (1:8)
+    transitional dummy package
+libghc6-vty-dev (1:8)
+    transitional dummy package
+libghc6-vty-prof (1:8)
+    transitional dummy package
+libghc6-webkit-dev (1:8)
+    transitional dummy package
+libghc6-x11-dev (1:8)
+    transitional dummy package
+libghc6-x11-prof (1:8)
+    transitional dummy package
+libghc6-x11-xft-dev (1:8)
+    transitional dummy package
+libghc6-x11-xft-prof (1:8)
+    transitional dummy package
+libghc6-xhtml-dev (1:8)
+    transitional dummy package
+libghc6-xhtml-prof (1:8)
+    transitional dummy package
+libghc6-xml-dev (1:8)
+    transitional dummy package
+libghc6-xml-prof (1:8)
+    transitional dummy package
+libghc6-xmonad-contrib-dev (1:8)
+    transitional dummy package
+libghc6-xmonad-contrib-prof (1:8)
+    transitional dummy package
+libghc6-xmonad-dev (1:8)
+    transitional dummy package
+libghc6-xmonad-prof (1:8)
+    transitional dummy package
+libghc6-zip-archive-dev (1:8)
+    transitional dummy package
+libghc6-zip-archive-prof (1:8)
+    transitional dummy package
+libghc6-zlib-dev (1:8)
+    transitional dummy package
+libghc6-zlib-prof (1:8)
+    transitional dummy package
+libhugs-alut-bundled (98.200609.21-5.3)
+    A binding for the OpenAL Utility Toolkit
+libhugs-base-bundled (98.200609.21-5.3)
+    Basic libraries
+libhugs-cabal-bundled (98.200609.21-5.3)
+    A framework for packaging Haskell software
+libhugs-fgl-bundled (98.200609.21-5.3)
+    Martin Erwig's Functional Graph Library
+libhugs-glut-bundled (98.200609.21-5.3)
+    A binding for the OpenGL Utility Toolkit
+libhugs-haskell-src-bundled (98.200609.21-5.3)
+    Manipulating Haskell source code
+libhugs-haskell98-bundled (98.200609.21-5.3)
+    Compatibility with Haskell 98
+libhugs-haxml-bundled (98.200609.21-5.3)
+    Utilities for manipulating XML documents
+libhugs-hgl-bundled (98.200609.21-5.3)
+    A simple graphics library based on X11 or Win32
+libhugs-hunit-bundled (98.200609.21-5.3)
+    A unit testing framework for Haskell
+libhugs-mtl-bundled (98.200609.21-5.3)
+    Monad transformer library
+libhugs-network-bundled (98.200609.21-5.3)
+    Networking-related facilities
+libhugs-openal-bundled (98.200609.21-5.3)
+    A binding to the OpenAL cross-platform 3D audio API
+libhugs-opengl-bundled (98.200609.21-5.3)
+    A binding for the OpenGL graphics system
+libhugs-parsec-bundled (98.200609.21-5.3)
+    Monadic parser combinators
+libhugs-quickcheck-bundled (98.200609.21-5.3)
+    Automatic testing of Haskell programs
+libhugs-stm-bundled (98.200609.21-5.3)
+    Software Transactional Memory
+libhugs-time-bundled (98.200609.21-5.3)
+    time library
+libhugs-unix-bundled (98.200609.21-5.3)
+    POSIX functionality
+libhugs-x11-bundled (98.200609.21-5.3)
+    A binding to the X11 graphics library
+libhugs-xhtml-bundled (98.200609.21-5.3)
+    A Haskell XHTML combinator library
+ppsh (1.1.1-4+b1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390x, sparc], 1.1.1-4 [armel])
+    Program to parse and pretty print arbitrary Haskell Show output
+shelltestrunner (1.2.1-3)
+    test command-line programs or arbitrary shell commands
+threadscope (0.2.1-1)
+    graphical thread profiler for Haskell programs
+yesod (1.0.1.6-2+b3 [i386], 1.0.1.6-2+b2 [amd64, kfreebsd-amd64, kfreebsd-i386])
+    framework for type-safe, RESTful web applications

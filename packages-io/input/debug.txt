@@ -1,0 +1,3428 @@
+0ad-dbg (0~r11863-2)
+    Real-time strategy game of ancient warfare (debug)
+7kaa-dbg (2.14.3-1)
+    Seven Kingdoms Ancient Adversaries - debug
+abiword-dbg (2.9.2+svn20120603-8)
+    debugging symbols for abiword word processor
+acpitool-dbg (0.5.1-3)
+    command line ACPI client (debug)
+afflib-dbg (3.6.6-1.1+b1 [i386], 3.6.6-1.1 [amd64, armel, armhf, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    support for Advanced Forensics format (debug)
+afterstep-dbg (2.2.11-7)
+    detached debugging symbols for AfterStep and its libraries
+ahven-dbg (2.1-4)
+    Unit test library for Ada (debug)
+akonadi-dbg (1.7.2-3)
+    debugging symbols for the Akonadi PIM storage service
+aliki-dbg (0.1.0-1)
+    Debugging symbols for aliki
+alpine-dbg (2.02+dfsg-2)
+    Text-based email client's debugging symbols
+amarok-dbg (2.6~beta1+75.g47e75df-1)
+    debugging symbols for Amarok
+amavisd-milter-dbg (1.5.0-5)
+    amavisd-new interface for milter-capable MTAs - debugging symbols
+animals-dbg (201007161925-8)
+    Traditional AI animal guessing engine (debugging symbols)
+anjuta-dbg (2:3.4.3-1)
+    GNOME development IDE, for C/C++ - debug files
+apache2-dbg (2.2.22-13+deb7u4)
+    Apache debugging symbols
+apper-dbg (0.7.2-5)
+    Debugging symbols for Apper
+apt-dater-dbg (0.9.0-3+wheezy1)
+    terminal-based remote package update manager (dbg symbols)
+aptitude-dbg (0.6.8.2-1)
+    Debug symbols for the aptitude package manager
+argyll-dbg (1.4.0-8)
+    debugging symbols for argyll
+ark-dbg (4:4.8.4-2)
+    debugging symbols for ark
+asterisk-dbg (1:1.8.13.1~dfsg1-3+deb7u3)
+    Debugging symbols for Asterisk
+at-spi2-core-dbg (2.5.3-2)
+    Assistive Technology Service Provider Interface - debugging symbols
+audacious-dbg (3.2.4-1)
+    audacious media player (debugging symbols)
+audacious-plugins-dbg (3.2.4-1)
+    Audacious-Plugins debug symbols
+audacity-dbg (2.0.1-1)
+    fast, cross-platform audio editor (debug)
+aufs-tools-dbg (1:3.0+20120411-2)
+    Tools to manage aufs filesystems (debug)
+augeas-dbg (0.10.0-1)
+    Debugging symbols for libaugeas0
+avahi-dbg (0.6.31-2)
+    Avahi - debugging symbols
+axel-dbg (2.4-1)
+    light download accelerator - debugging symbols
+bacula-common-dbg (5.2.6+dfsg-9)
+    network backup service - common support files (debugging)
+bacula-common-mysql-dbg (5.2.6+dfsg-9)
+    network backup service - MySQL common files (debugging)
+bacula-common-pgsql-dbg (5.2.6+dfsg-9)
+    network backup service - PostgreSQL common files (debugging)
+bacula-common-sqlite3-dbg (5.2.6+dfsg-9)
+    network backup service - SQLite v3 common files (debugging)
+bacula-console-dbg (5.2.6+dfsg-9)
+    network backup service - text console (debugging)
+bacula-console-qt-dbg (5.2.6+dfsg-9)
+    network backup service - Bacula Administration Tool (debugging)
+bacula-director-common-dbg (5.2.6+dfsg-9)
+    network backup service - Director common files (debugging)
+bacula-director-mysql-dbg (5.2.6+dfsg-9)
+    network backup service - MySQL storage for Director (debugging)
+bacula-director-pgsql-dbg (5.2.6+dfsg-9)
+    network backup service - PostgreSQL storage for Director (debugging)
+bacula-director-sqlite3-dbg (5.2.6+dfsg-9)
+    network backup service - SQLite 3 storage for Director (debugging)
+bacula-fd-dbg (5.2.6+dfsg-9)
+    network backup service - file daemon (debugging)
+bacula-sd-dbg (5.2.6+dfsg-9)
+    network backup service - storage daemon (debugging)
+bacula-sd-mysql-dbg (5.2.6+dfsg-9)
+    network backup service - MySQL SD tools (debugging)
+bacula-sd-pgsql-dbg (5.2.6+dfsg-9)
+    network backup service - PostgreSQL SD tools (debugging)
+bacula-sd-sqlite3-dbg (5.2.6+dfsg-9)
+    network backup service - SQLite 3 SD tools (debugging)
+bacula-traymonitor-dbg (5.2.6+dfsg-9)
+    network backup service - tray monitor (debugging)
+ballview-dbg (1.4.1+20111206-4)
+    debug symbols for BALL and VIEW libraries
+ballz-dbg (1.0.2-1+b1)
+    debugging symbols for ballz
+balsa-dbg (2.4.12-1)
+    e-mail client for GNOME - debugging symbols
+bamf-dbg (0.2.118-1)
+    Window matching library - debugging symbols
+banshee-dbg (2.4.1-3+b1)
+    Media Management and Playback application (debug symbols)
+barcode-dbg (0.98+debian-9)
+    Utility and library for barcode generation (debug)
+barry-util-dbg (0.18.3-5)
+    Command line BlackBerry utilities (debug symbols)
+barrybackup-gui-dbg (0.18.3-5)
+    GTK+ GUI for backing up BlackBerry (debug symbols)
+barrydesktop-dbg (0.18.3-5)
+    Desktop Panel GUI for the RIM BlackBerry Handheld (debug symbols)
+batctl-dbg (2012.1.0-1)
+    B.A.T.M.A.N. advanced control and management tool (debug files)
+batmand-dbg (0.3.2-12)
+    better approach to mobile adhoc networking (debug files)
+bino-dbg (1.4.0-1)
+    debugging symbols for bino 3D video player
+bird-dbg (1.3.7-1)
+    Debug symbols for BIRD
+blender-dbg (2.63a-1+deb7u1)
+    debug symbols for Blender
+bluefish-dbg (2.2.3-4)
+    advanced Gtk+ HTML editor (debugging symbols)
+bluez-dbg (4.99-2)
+    Bluetooth tools and daemons (with debugging symbols)
+boinc-dbg (7.0.27+dfsg-5)
+    debugging symbols for BOINC binaries
+botan1.10-dbg (1.10.5-1)
+    multiplatform crypto library (debug)
+brltty-dbg (4.4-10+deb7u1)
+    debugging symbols for brltty
+brp-pacu-dbg (2.1.1+git20110314~repack1-2)
+    audio analysis tool (debug)
+btrfs-tools-dbg (0.19+20120328-7.1)
+    Checksumming Copy on Write Filesystem utilities (debug)
+burp-dbg (1.3.8-1)
+    debugging symbols for Burp
+calligra-dbg (1:2.4.4-3)
+    debugging symbols for Calligra
+cantor-dbg (4:4.8.4-2)
+    debugging symbols for cantor
+cdcd-dbg (0.6.6-13.1)
+    command line or console based CD player (debug)
+cdparanoia-dbg (3.10.2+debian-10.1)
+    audio extraction tool for sampling CDs (debug)
+cfengine2-dbg (2.2.10-5)
+    debugging symbols for cfengine2
+cfengine3-dbg (3.2.4-2+nmu1)
+    debugging symbols for cfengine3
+chromium-browser-dbg (37.0.2062.120-1~deb7u1)
+    chromium-browser debug symbols transitional dummy package
+chromium-dbg (37.0.2062.120-1~deb7u1)
+    Debugging symbols for the chromium web browser
+citadel-dbg (8.14-2)
+    complete and feature-rich groupware server - debugging symbols
+clamav-dbg (0.98.5+dfsg-0+deb7u2)
+    debug symbols for ClamAV
+claws-mail-dbg (3.8.1-2)
+    Debug symbols for Claws Mail mailer
+claws-mail-extra-plugins-dbg (3.8.1-2)
+    Debug symbols for Claws Mail Extra Plugins packages
+clzip-dbg (1.3-2)
+    C, lossless data compressor based on the LZMA algorithm (debug)
+cmake-dbg (2.8.9-1)
+    debugging symbols for CMake
+codeblocks-dbg (10.05-2.1)
+    Code::Blocks debugging libraries
+coinor-csdp-dbg (6.1.1-1)
+    A software package for semidefinite programming
+coinor-libcbc0-dbg (2.5.0-3)
+    Coin-or branch-and-cut mixed integer programming solver - debugging symbols
+coinor-libcgl0-dbg (0.55.0-1.1)
+    Cut Generator Library, a library of cutting-plane generators
+coinor-libclp0-dbg (1.12.0-2.1)
+    Coin-or linear programming solver
+coinor-libcoinutils0-dbg (2.6.4-3)
+    Coin-or collection of utility classes
+coinor-libdylp0-dbg (1.6.0-1.1)
+    Linear programming solver using of the dynamic simplex algorithm
+coinor-libflopc++0-dbg (1.0.6-3.1)
+    Formulation of Linear Optimization Problems in C++
+coinor-libipopt1-dbg (3.10.2-1.1)
+    Interior-Point Optimizer - debugging symbols
+coinor-libosi0-dbg (0.103.0-1)
+    COIN-OR Open Solver Interface
+coinor-libsymphony0-dbg (5.2.4-1.2)
+    COIN-OR solver for mixed-integer linear programs
+coinor-libvol0-dbg (1.1.7-1)
+    Coin-or linear programming solver
+collectd-dbg (5.1.0-3)
+    statistics collection and monitoring daemon (debugging symbols)
+composite-dbg (0.006.2+dfsg0-2)
+    Live performance sequencer (debugging symbols)
+condor-dbg (7.8.2~dfsg.1-1+deb7u3) [security]
+    distributed workload management system - debugging symbols
+corosync-dbg (1.4.2-3)
+    Standards-based cluster framework (debugging symbols)
+ctdb-dbg (1.12+git20120201-4)
+    clustered database to store temporary data -- debugging symbols and test suite
+cube2font-dbg (1.2-2)
+    debugging symbols for cube2font
+cwiid-dbg (0.6.00+svn201-3+b1 [amd64, armel, i386, ia64, mips, mipsel, powerpc, s390, sparc], 0.6.00+svn201-3 [armhf, s390x])
+    library to interface with the wiimote -- debug files
+cyrus-sasl2-dbg (2.1.25.dfsg1-6+deb7u1)
+    Cyrus SASL - debugging symbols
+cyrus-sasl2-heimdal-dbg (2.1.25.dfsg1-6+deb7u1)
+    Cyrus SASL - debugging symbols for Heimdal modules
+cyrus-sasl2-mit-dbg (2.1.25.dfsg1-6+deb7u1)
+    Cyrus SASL - debugging symbols for MIT modules
+cytadela-dbg (1.0.1-2) [contrib]
+    debugging symbols for cytadela
+cython-dbg (0.15.1-2)
+    C-Extensions for Python (Debug Build of Cython)
+daisy-player-dbg (7.1.1-1)
+    daisy-player debugging symbols
+darkplaces-dbg (0~20110628+svn11619-3)
+    debug symbols for the DarkPlaces game engine
+darktable-dbg (1.0.4-1+deb7u2)
+    virtual lighttable and darkroom for photographers
+dbus-1-dbg (1.6.8-1+deb7u6) [security]
+    simple interprocess messaging system (debug symbols)
+dcap-dbg (2.47.6-2)
+    Debug symbols for dcap
+debconf-kde-dbg (0.2-2)
+    Debconf KDE debugging symbols
+deja-dup-dbg (20.2-2.1)
+    Déjà Dup debugging symbols
+digikam-dbg (4:2.6.0-1+deb7u1)
+    debugging symbols for digiKam
+djvulibre-dbg (3.5.25.3-1)
+    Debug symbols for the DjVu image format
+dmidecode-dbg (2.11-9)
+    SMBIOS/DMI table decoder (debug)
+dmtcp-dbg (1.2.5-1)
+    Debug package for dmtcp
+doodle-dbg (0.7.0-5)
+    Desktop Search Engine (debug)
+dosfstools-dbg (3.0.13-1)
+    utilities for making and checking MS-DOS FAT filesystems (debug)
+dovecot-dbg (1:2.1.7-7+deb7u1)
+    debug symbols for Dovecot
+drizzle-dbg (1:7.1.36-stable-1)
+    Debugging symbols for Drizzle
+dspam-dbg (3.10.1+dfsg-11)
+    debugging symbols for dspam
+dssp-dbg (2.0.4-2)
+    debugging symbols for dssp
+dsyslog-dbg (0.6.0+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.6.0+b1 [armhf, s390x])
+    advanced modular syslog daemon - debug
+dvd+rw-tools-dbg (7.1-10+b1 [kfreebsd-amd64, kfreebsd-i386], 7.1-10 [amd64, armel, armhf, i386, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    DVD+-RW/R tools (debug)
+dvdbackup-dbg (0.4.2-1)
+    debug files for dvdbackup
+e-uae-dbg (0.8.29-WIP4-10) [contrib]
+    The Egalitarian Ubiquitous Amiga Emulator (debugging)
+easymp3gain-gtk-dbg (0.5.0+svn135-1)
+    Debugging symbols for easyMp3Gain-GTK
+ebook-speaker-dbg (2.0-3)
+    ebook-speaker debugging symbols
+ebook-tools-dbg (0.2.1-2+b1)
+    library and tools to work with the EPub file format - debug symbols
+ecryptfs-utils-dbg (99-1)
+    ecryptfs cryptographic filesystem (utilities; debug)
+eiskaltdcpp-daemon-dbg (2.2.6-4)
+    EiskaltDC++ daemon (debug symbols)
+eiskaltdcpp-gtk-dbg (2.2.6-4)
+    EiskaltDC++ GUI on Gtk (debug symbols)
+eiskaltdcpp-qt-dbg (2.2.6-4)
+    EiskaltDC++ GUI on Qt (debug symbols)
+ekg2-dbg (1:0.3.1-3)
+    instant messenger and IRC client for UNIX systems - debugging symbols
+ekiga-dbg (3.2.7-6)
+    H.323 and SIP compatible VoIP client - debug symbols
+elmer-dbg (6.1.0.svn.5396.dfsg2-2)
+    finite element multiphysics suite - debugging symbols
+empathy-dbg (3.4.2.3-2+deb7u1)
+    GNOME multi-protocol chat and call client (debug symbols)
+enna-dbg (0.4.1~r3557-2.1)
+    debugging symbols for enna
+eog-dbg (3.4.2-1+build1)
+    Eye of GNOME graphics viewer program - debugging symbols
+epiphany-browser-dbg (3.4.2-2.1)
+    Debugging symbols for the GNOME web browser
+espeak-dbg (1.46.02-2)
+    Multi-lingual software speech synthesizer: debugging symbols
+evince-dbg (3.4.0-3.1)
+    Document (PostScript, PDF) viewer - debugging symbols
+evolution-data-server-dbg (3.4.4-3+deb7u1)
+    evolution database backend server with debugging symbols
+evolution-dbg (3.4.4-3)
+    debugging symbols for Evolution
+evolution-exchange-dbg (3.4.4-1)
+    Exchange plugin for Evolution with debugging symbols
+evolution-mapi-dbg (3.4.4-1)
+    debugging symbols for the Evolution MAPI provider
+exactimage-dbg (0.8.5-5+deb7u3)
+    fast image manipulation library (debug symbols)
+exim4-daemon-heavy-dbg (4.80-7+deb7u1)
+    debugging symbols for the Exim MTA "heavy" daemon
+exim4-daemon-light-dbg (4.80-7+deb7u1)
+    debugging symbols for the Exim MTA "light" daemon
+exim4-dbg (4.80-7+deb7u1)
+    debugging symbols for the Exim MTA (utilities)
+exo-utils-dbg (0.6.2-5)
+    debugging informations for exo-utils
+extremetuxracer-dbg (0.4-5)
+    3D racing game featuring Tux, the Linux penguin (debugging symbols)
+faad2-dbg (2.7-8)
+    freeware Advanced Audio Decoder - debugging symbols
+falconpl-dbg (0.9.6.9-git20120606-2)
+    Falcon P.L. - debugging symbols
+fatattr-dbg (1.0.1-9)
+    Utility to control attributes on a FAT filesystem (debug)
+fcitx-dbg (1:4.2.4.1-7)
+    Flexible Input Method Framework - debugging symbols
+ffindex-dbg (0.9.6.1-1)
+    simple index/database for huge amounts of small files (debug)
+ffmpegthumbnailer-dbg (2.0.7-2)
+    debugging informations for ffmpegthumbnailer
+firebird2.5-classic-dbg (2.5.2.26540.ds4-1~deb7u2)
+    collected debug symbols for firebird2.5-classic and -superclassic
+firebird2.5-super-dbg (2.5.2.26540.ds4-1~deb7u2)
+    collected debug symbols for firebird2.5-super
+fish-dbg (1.23.1+20120106.git8b407a3-1)
+    friendly interactive shell (debugging symbols)
+fldigi-dbg (3.21.48-1)
+    debugging symbols for fldigi
+flwm-dbg (1.02+cvs20080422-9)
+    Fast Light Window Manager (debugging symbols)
+fontforge-dbg (0.0.20120101+git-2)
+    debugging symbols for fontforge
+fosfat-dbg (0.4.0-3)
+    FUSE library to access Smaky formatted disk, debug symbols
+foxtrotgps-dbg (1.1.1-2)
+    GTK+ mapping and GPS application (debug)
+fraqtive-dbg (0.4.5-6)
+    draws Mandelbrot and Julia fractals (debugging symbols)
+freecraft-dbg (1:1.20-1.1)
+    Realtime fantasy strategy game - Debugging simbols
+freedink-dfarc-dbg (3.10-1.1)
+    debugging symbols for dfarc
+freedink-engine-dbg (1.08.20120427-2.1)
+    debugging symbols for freedink
+freegish-dbg (1.53+git20101011+dfsg-2)
+    arcade game (debbugging symbols)
+freeglut3-dbg (2.6.0-4)
+    OpenGL Utility Toolkit debugging information
+freeradius-dbg (2.1.12+dfsg-1.2)
+    debug symbols for the FreeRADIUS packages
+freerdp-dbg (1.0.1-1.1+deb7u3)
+    RDP client for Windows Terminal Services (debug)
+fso-datad-dbg (0.11.0-1)
+    freesmartphone data daemon (debug symbols)
+fso-deviced-dbg (0.11.4-1+b1)
+    freesmartphone.org device daemon (debug symbols)
+fso-gsmd-dbg (0.11.3-2)
+    debugging symbols for freesmartphone.org GSM daemon
+fso-usaged-dbg (0.11.0-1)
+    debugging symbols for use with freesmartphone.org usage daemon
+fuse-dbg (2.9.0-2+deb7u1)
+    Filesystem in Userspace
+fwbuilder-dbg (5.1.0-3)
+    Firewall administration tool GUI (debugging symbols)
+g3dviewer-dbg (0.2.99.5~svn130-1)
+    g3dviewer debug symbols package
+gadmin-bind-dbg (0.2.5-2)
+    GTK+ configuration tool for bind9 (debug)
+gadmin-openvpn-client-dbg (0.1.2-4)
+    GTK+ configuration tool for openvpn (debug for client)
+gadmin-openvpn-server-dbg (0.1.5-3.1)
+    GTK+ configuration tool for openvpn (debug for server)
+gadmin-proftpd-dbg (1:0.4.2-1)
+    GTK+ configuration tool for proftpd debug package
+gadmin-rsync-dbg (0.1.7-1)
+    GTK+ configuration tool for rsync (debug)
+gadmin-samba-dbg (0.2.9-3)
+    GTK+ configuration tool for samba (debug)
+gcompris-dbg (12.01-1)
+    Debugging symbols for GCompris
+gedit-valatoys-plugin-dbg (0.12.1-3)
+    Vala Toys for gEdit - debugging symbols
+geeqie-dbg (1:1.0-10.1)
+    debug symbols for Geeqie
+ghostscript-dbg (9.05~dfsg-6.3+deb7u1)
+    interpreter for the PostScript language and for PDF - Debug symbols
+giblib1-dbg (1.2.4-8)
+    debugging symbols for giblib1
+giflib-dbg (4.1.6-10)
+    library for GIF images (debug)
+gigolo-dbg (0.4.1+dfsg-1)
+    frontend to manage connections to remote filesystems using GIO/GVfs (debug)
+gimp-dbg (2.8.2-2+deb7u1)
+    Debugging symbols for GIMP
+glib-networking-dbg (2.32.3-1)
+    network-related giomodules for GLib - debugging symbols
+globus-authz-callout-error-dbg (2.2-1)
+    Globus Toolkit - Globus authz error library Debug Symbols
+globus-authz-dbg (2.2-1)
+    Globus Toolkit - Globus authz library Debug Symbols
+globus-callout-dbg (2.2-1)
+    Globus Toolkit - Globus Callout Library Debug Symbols
+globus-common-dbg (14.7-2)
+    Globus Toolkit - Common Library Debug Symbols
+globus-ftp-client-dbg (7.3-1)
+    Globus Toolkit - GridFTP Client Library Debug Symbols
+globus-ftp-control-dbg (4.4-1)
+    Globus Toolkit - GridFTP Control Library Debug Symbols
+globus-gass-cache-dbg (8.1-2)
+    Globus Toolkit - Globus Gass Cache Debug Symbols
+globus-gass-cache-program-dbg (5.1-1)
+    Globus Toolkit - Tools to manipulate local and remote GASS caches Debug Symbols
+globus-gass-copy-dbg (8.4-1)
+    Globus Toolkit - Globus Gass Copy Debug Symbols
+globus-gass-server-ez-dbg (4.3-1)
+    Globus Toolkit - Globus Gass Server_ez Debug Symbols
+globus-gass-transfer-dbg (7.2-1)
+    Globus Toolkit - Globus Gass Transfer Debug Symbols
+globus-gatekeeper-dbg (9.11-1)
+    Globus Toolkit - Globus Gatekeeper Debug Symbols
+globus-gfork-dbg (3.2-1)
+    Globus Toolkit - GFork Debug Symbols
+globus-gram-client-dbg (12.4-1)
+    Globus Toolkit - GRAM Client Library Debug Symbols
+globus-gram-client-tools-dbg (10.3-1)
+    Globus Toolkit - Job Management Tools (globusrun) Debug Symbols
+globus-gram-job-manager-callout-error-dbg (2.1-2)
+    Globus Toolkit - Globus GRAM Jobmanager Callout Errors Debug Symbols
+globus-gram-job-manager-dbg (13.33-1)
+    Globus Toolkit - GRAM Jobmanager Debug Symbols
+globus-gram-job-manager-fork-dbg (1.5-1)
+    Globus Toolkit - Fork Job Manager Support Debug Symbols
+globus-gram-job-manager-pbs-dbg (1.5-1)
+    Globus Toolkit - PBS Job Manager Support Debug Symbols
+globus-gram-job-manager-sge-dbg (1.5-1)
+    Globus Toolkit - Grid Engine Job Manager Support Debug Symbols
+globus-gram-protocol-dbg (11.3-1)
+    Globus Toolkit - GRAM Protocol Library Debug Symbols
+globus-gridftp-server-control-dbg (2.5-2)
+    Globus Toolkit - Globus GridFTP Server Library Debug Symbols
+globus-gridftp-server-dbg (6.10-2)
+    Globus Toolkit - Globus GridFTP Server Debug Symbols
+globus-gridmap-callout-error-dbg (1.2-2)
+    Globus Toolkit - Globus Gridmap Callout Errors Debug Symbols
+globus-gsi-callback-dbg (4.2-1)
+    Globus Toolkit - Globus GSI Callback Library Debug Symbols
+globus-gsi-cert-utils-dbg (8.3-1)
+    Globus Toolkit - Globus GSI Cert Utils Library Debug Symbols
+globus-gsi-credential-dbg (5.3-1)
+    Globus Toolkit - Globus GSI Credential Library Debug Symbols
+globus-gsi-openssl-error-dbg (2.1-2)
+    Globus Toolkit - Globus OpenSSL Error Handling Debug Symbols
+globus-gsi-proxy-core-dbg (6.2-1)
+    Globus Toolkit - Globus GSI Proxy Core Library Debug Symbols
+globus-gsi-proxy-ssl-dbg (4.1-2)
+    Globus Toolkit - Globus GSI Proxy SSL Library Debug Symbols
+globus-gsi-sysconfig-dbg (5.2-1)
+    Globus Toolkit - Globus GSI System Config Library Debug Symbols
+globus-gss-assist-dbg (8.5-1)
+    Globus Toolkit - GSSAPI Assist library Debug Symbols
+globus-gssapi-error-dbg (4.1-2)
+    Globus Toolkit - GSSAPI Error Library Debug Symbols
+globus-gssapi-gsi-dbg (10.6-1)
+    Globus Toolkit - GSSAPI library Debug Symbols
+globus-io-dbg (9.3-1)
+    Globus Toolkit - uniform I/O interface Debug Symbols
+globus-openssl-module-dbg (3.2-1)
+    Globus Toolkit - Globus OpenSSL Module Wrapper Debug Symbols
+globus-proxy-utils-dbg (5.0-2)
+    Globus Toolkit - Globus GSI Proxy Utility Programs Debug Symbols
+globus-rls-client-dbg (5.2-8)
+    Globus Toolkit - Replica Location Service Client Debug Symbols
+globus-rls-server-dbg (4.9-11)
+    Globus Toolkit - Replica Location Service Server Debug Symbols
+globus-rsl-dbg (9.1-2)
+    Globus Toolkit - Resource Specification Language Library Debug Symbols
+globus-scheduler-event-generator-dbg (4.6-1)
+    Globus Toolkit - Scheduler Event Generator Debug Symbols
+globus-usage-dbg (3.1-2)
+    Globus Toolkit - Usage Library Debug Symbols
+globus-xio-dbg (3.3-1)
+    Globus Toolkit - Globus XIO Framework Debug Symbols
+globus-xio-gsi-driver-dbg (2.3-1)
+    Globus Toolkit - Globus XIO GSI Driver Debug Symbols
+globus-xio-pipe-driver-dbg (2.2-1)
+    Globus Toolkit - Globus Pipe Driver Debug Symbols
+globus-xio-popen-driver-dbg (2.3-1)
+    Globus Toolkit - Globus XIO Pipe Open Driver Debug Symbols
+globus-xioperf-dbg (3.1-1)
+    Globus Toolkit - XIO Performance Tool Debug Symbols
+glusterfs-dbg (3.2.7-3+deb7u1)
+    GlusterFS debugging symbols
+gmerlin-avdecoder-dbg (1.2.0~dfsg-1+b1)
+    debugging symbols for Gmerlin_avdecoder
+gmerlin-dbg (1.2.0~dfsg+1-1)
+    debugging symbols for gmerlin
+gmpc-dbg (11.8.16-6)
+    Gnome Music Player Client - debugging symbols
+gmpc-plugins-dbg (11.8.16-1)
+    Plugins for the GNOME Music Player Client
+gnash-dbg (0.8.11~git20120629-1+deb7u1)
+    GNU Shockwave Flash (SWF) player - Debug symbols
+gnat-gps-dbg (5.0-13)
+    integrated development environment for C and Ada (debugging symbols)
+gnome-applets-dbg (3.4.1-3)
+    Various applets for the GNOME panel - binary files with debugging symbols
+gnome-commander-dbg (1.2.8.15-3+b1)
+    Debugging symbols for gnome-commander
+gnome-dbg (1:3.4+7+deb7u1)
+    debugging symbols for the GNOME desktop environment
+gnome-hwp-support-dbg (0.1.4-1)
+    HWP document integration for GNOME desktop - debugging symbols
+gnome-mplayer-dbg (1.0.6-1)
+    GTK+ interface for MPlayer (debugging symbols)
+gnome-panel-dbg (3.4.2.1-4)
+    GNOME Panel and library for panel applets - debugging symbols
+gnome-shell-dbg (3.4.2-7+deb7u1)
+    Debugging symbols for GNOME Shell
+gnucash-dbg (1:2.4.10-6)
+    debugging symbols for the accounting software Gnucash
+gnumach-dbg (2:1.3.99.dfsg.git20120610-1)
+    Dummy transition package for gnumach-image-*-dbg
+gnumach-image-1.3.99-486-dbg (2:1.3.99.dfsg.git20120610-1)
+    GNU version of the Mach microkernel for debugging
+gnumach-image-1.3.99-xen-486-dbg (2:1.3.99.dfsg.git20120610-1)
+    GNU version of the Mach microkernel for Xen for debugging
+gnunet-dbg (0.9.3-7)
+    secure, trust-based peer-to-peer framework (debug)
+gnunet-gtk-dbg (0.9.3-1)
+    secure, trust-based peer-to-peer framework (GTK+ client debug)
+gnupg-pkcs11-scd-dbg (0.7.3-1)
+    GnuPG smart-card daemon with PKCS#11 support (debug)
+gnustep-back-dbg (0.20.1-2.1)
+    GNUstep GUI Backend - debugging symbols
+gobby-0.4-dbg (0.4.13-2)
+    collaborative text editor - debugging symbols
+gobby-0.5-dbg (0.4.94-5)
+    infinote-based collaborative text editor - debugging symbols
+golang-dbg (2:1.0.2-1.1)
+    Go programming language compiler - debug files
+gpac-dbg (0.5.0~dfsg0-1)
+    GPAC Project on Advanced Content - debugging symbols
+gpicview-dbg (0.2.3-2)
+    lightweight image viewer (debug)
+gprompter-dbg (0.8.8-1)
+    intelligent predictive GTK+ text editor (debugging symbols)
+gpsd-dbg (3.6-4+deb7u1)
+    Global Positioning System - debugging symbols
+graphicsmagick-dbg (1.3.16-1.1)
+    format-independent image processing - debugging symbols
+gridsite-dbg (1.7.16-1)
+    Debugging symbols for gridsite
+grok-dbg (1.20110708.1-4)
+    debugging symbols for grok
+gsasl-dbg (1.8.0-2)
+    GNU SASL debugging symbols
+gsoap-dbg (2.8.7-2)
+    Debugging symbols for gSOAP
+gstreamer0.10-ffmpeg-dbg (0.10.13-5)
+    FFmpeg plugin for GStreamer (debug symbols)
+gstreamer0.10-gnonlin-dbg (0.10.17-2)
+    non-linear editing module for GStreamer
+gstreamer0.10-plugins-bad-dbg (0.10.23-7.1+deb7u1)
+    GStreamer plugins from the "bad" set (debug symbols)
+gstreamer0.10-plugins-base-dbg (0.10.36-1.1)
+    GStreamer plugins from the "base" set
+gstreamer0.10-plugins-good-dbg (0.10.31-3+nmu1)
+    GStreamer plugins from the "good" set
+gstreamer0.10-plugins-ugly-dbg (0.10.19-2+b2)
+    GStreamer plugins from the "ugly" set (debug symbols)
+gthumb-dbg (3:3.0.1-2)
+    image viewer and browser - debugging symbols
+gtkam-dbg (0.1.18-1)
+    GTK+ application for digital still cameras (debugging symbols)
+gtkaml-dbg (0.5.91-1)
+    XML application markup language for GTK+ and Vala - debug symbols
+gtkpod-dbg (2.1.2-1)
+    debugging symbols for gtkpod
+gtrayicon-dbg (1.1-1)
+    Generic tray icon for GNOME - debug symbols
+guayadeque-dbg (0.3.5~ds0-4)
+    lightweight music player - debugging symbols
+gvfs-dbg (1.12.3-4)
+    userspace virtual filesystem - debugging information
+gwc-dbg (0.21.17~dfsg0-2)
+    Audio file denoiser (debug)
+gwenview-dbg (4:4.8.4-2)
+    debugging symbols for the gwenview
+gyoto-dbg (0.0.3-5)
+    debugging symbols for gyoto, libgyoto0 and yorick-gyoto
+hdparm-dbg (9.39-1+b1)
+    debug files for hdparm
+heimdal-dbg (1.6~git20120403+dfsg1-2)
+    Heimdal Kerberos - debugging symbols
+hhsuite-dbg (2.0.15-1)
+    sensitive protein sequence searching based on HMM-HMM alignment (debug)
+hplip-dbg (3.12.6-3.1+deb7u1)
+    HP Linux Printing and Imaging - debugging information
+hylafax-client-dbg (3:6.0.6-5+b1 [s390x], 3:6.0.6-5 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc])
+    Flexible client/server fax software - client utilities
+hylafax-server-dbg (3:6.0.6-5+b1 [s390x], 3:6.0.6-5 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc])
+    Debug symbols for the hylafax server
+i3-wm-dbg (4.2-2)
+    Debugging symbols for the i3 window manager
+i965-va-driver-dbg (1.0.17-1)
+    VAAPI driver for Intel G45 & HD Graphics family (debug symbols)
+icinga-dbg (1.7.1-7)
+    host and network monitoring system - debug files
+ideviceinstaller-dbg (1.0.0-1.2)
+    Utility to manage installed applications on an iDevice - debug
+iftop-dbg (1.0~pre2-4~deb7u2)
+    displays bandwidth usage information on an network interface (debug)
+ifuse-dbg (1.0.0-1+b1 [amd64, armel, i386, ia64, mips, mipsel, powerpc, s390, sparc], 1.0.0-1 [armhf, s390x])
+    FUSE module for iPhone and iPod Touch devices
+imagemagick-dbg (8:6.7.7.10-5+deb7u3)
+    debugging symbols for ImageMagick
+indi-dbg (0.9.1-2)
+    Instrument-Neutral Device Interface library -- debug symbols
+infernal-dbg (1.0.2-2)
+    debug information for infernal
+inspircd-dbg (2.0.5-1+b1)
+    Modular IRCd written in C++ - debugging symbols
+ioquake3-dbg (1.36+svn2287-1)
+    debug symbols for the ioquake3 game engine
+ippl-dbg (1.4.14-12.1)
+    debugging systems for ippl
+ircd-ratbox-dbg (3.0.7.dfsg-3)
+    debugging symbols for ircd-ratbox
+irssi-plugin-xmpp-dbg (0.52-1)
+    XMPP plugin for irssi - Debugging symbols
+isc-dhcp-client-dbg (4.2.2.dfsg.1-5+deb70u6)
+    ISC DHCP client (debugging symbols)
+isc-dhcp-relay-dbg (4.2.2.dfsg.1-5+deb70u6)
+    DHCP relay daemon (debugging symbols)
+isc-dhcp-server-dbg (4.2.2.dfsg.1-5+deb70u6)
+    ISC DHCP server for automatic IP address assignment (debug)
+jovie-dbg (4:4.8.4-2)
+    debugging symbols for jovie
+jstest-gtk-dbg (0.1.1~git20090722-2)
+    joystick testing and configuration tool - debug
+k3b-dbg (2.0.2-6)
+    Sophisticated CD/DVD burning application - debugging symbols
+kaccessible-dbg (4:4.8.4-3)
+    debugging symbols for kaccessible
+kaffeine-dbg (1.2.2-2)
+    debugging symbols for Kaffeine
+kalgebra-dbg (4:4.8.4-1)
+    debugging symbols for the KDE education module
+kalzium-dbg (4:4.8.4-1)
+    debugging symbols for the Kalzium
+kamera-dbg (4:4.8.4-2)
+    debugging symbols for kamera
+kate-dbg (4:4.8.4-1)
+    debugging symbols for Kate
+kbruch-dbg (4:4.8.4-1)
+    debugging symbols for kbruch
+kde-baseapps-dbg (4:4.8.4-2)
+    debugging symbols for the KDE base applications module
+kde-config-telepathy-accounts-dbg (0.4.0-1)
+    KDE Control Module for managing Telepathy Accounts - debug symbols
+kde-runtime-dbg (4:4.8.4-2)
+    debugging symbols for KDE base runtime module
+kde-telepathy-approver-dbg (0.4.0-1)
+    KDED module for approving incoming conversations - debug symbols
+kde-telepathy-auth-handler-dbg (0.4.0-1)
+    KDE Telepathy authentication handler - debug symbols
+kde-telepathy-call-ui-dbg (0.4.0-1)
+    KDE Telepathy UI for audio/video calls - debug symbols
+kde-telepathy-contact-list-dbg (0.4.0-1)
+    Telepathy contact list for the KDE Plasma Desktop - debug symbols
+kde-telepathy-filetransfer-handler-dbg (0.4.0-1+b1 [mips], 0.4.0-1 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mipsel, powerpc, s390, s390x, sparc])
+    KDE Telepathy file transfer handler - debug symbols
+kde-telepathy-integration-module-dbg (0.4.0-1)
+    Telepathy integration module for the KDE Workspace - debug symbols
+kde-telepathy-send-file-dbg (0.4.0-1)
+    KDE Telepathy dolphin/konqueror integration plugin - debug symbols
+kde-telepathy-text-ui-dbg (0.4.0-1)
+    Telepathy text chat UI for the KDE Plasma Desktop - debug symbols
+kde-workspace-dbg (4:4.8.4-6)
+    debugging symbols for the KDE Plasma Workspaces
+kdeadmin-dbg (4:4.8.4-3)
+    debugging symbols for kdeadmin
+kdeartwork-dbg (4:4.8.4-5)
+    debugging symbols for kdeartwork
+kdegames-dbg (4:4.8.4-3)
+    debugging symbols for the KDE games module
+kdelibs5-dbg (4:4.8.4-4+deb7u1)
+    debugging symbols for the KDE Development Platform libraries
+kdemultimedia-dbg (4:4.8.4-2)
+    debugging symbols for the KDE multimedia module
+kdenetwork-dbg (4:4.8.4-1+b1)
+    debugging symbols for the KDE networking module
+kdenlive-dbg (0.9.2-2)
+    non-linear video editor (debugging symbols)
+kdepim-dbg (4:4.4.11.1+l10n-3+b1)
+    debugging symbols for kdepim
+kdepim-runtime-dbg (4:4.4.11.1-6)
+    debugging files for Akonadi KDE runtime components
+kdepimlibs-dbg (4:4.8.4-2)
+    debugging symbols for the KDE Development Platform PIM libraries
+kdeplasma-addons-dbg (4:4.8.4-1+b2)
+    debugging symbols for kdeplasma-addons
+kdesdk-dbg (4:4.8.4+dfsg-1)
+    debugging symbols for the KDE Software Development Kit module
+kdesvn-dbg (1.5.5-4.1)
+    debug symbols for kdesvn
+kdetoys-dbg (4:4.8.4-1)
+    debugging symbols for kdetoys
+kdevelop-dbg (4:4.3.1-3+b1)
+    debugging symbols for KDevelop
+kdevelop-php-dbg (1.3.1-2)
+    debugging symbols for the KDevelop PHP plugin
+kdevplatform-dbg (1.3.1-2)
+    debugging symbols for the KDevelop platform
+kdewebdev-dbg (4:4.8.4-1)
+    debugging symbols for the KDE web development module
+keyutils-dbg (1.5.5-3+deb7u1)
+    Linux Key Management Utilities (debug)
+kgpg-dbg (4:4.8.4-4)
+    debugging symbols for kgpg
+kiten-dbg (4:4.8.4-1)
+    debugging symbols for Kiten
+kmag-dbg (4:4.8.4-3)
+    debugging symbols for kmag
+kmousetool-dbg (4:4.8.4-3)
+    debugging symbols for kmousetool
+kmouth-dbg (4:4.8.4-3)
+    debugging symbols for kmouth
+kmymoney-dbg (4.6.2-3.2)
+    KMymoney debugging symbols
+konsole-dbg (4:4.8.4-2)
+    debugging symbols for the KDE X terminal emulator
+konversation-dbg (1.4-1+deb7u1)
+    debugging symbols for Konversation
+kpart-webkit-dbg (1.3~git20120518.9a111005-3)
+    WebKit KPart - debugging symbols
+kplayer-dbg (1:0.7-2.1)
+    kplayer debug symbols
+krecipes-dbg (2.0~beta2-3)
+    recipes manager for KDE - debugging symbols
+kremotecontrol-dbg (4:4.8.4-3)
+    debugging symbols for kremotecontrol
+krusader-dbg (1:2.3.0~beta1-1+wheezy3)
+    debugging symbols for krusader
+ktorrent-dbg (4.2.1-1)
+    KTorrent debugging symbols
+kvirc-dbg (4:4.1.3+20111124.svn5988-2)
+    KVIrc (IRC client) debugging symbols
+kvpm-dbg (0.8.6-2+deb7u2)
+    kvpm's debugging symbols
+kvpnc-dbg (0.9.6a-2.1)
+    vpn clients frontend for KDE4 - debugging symbols
+kwalletmanager-dbg (4:4.8.4-3)
+    debugging symbols for kwalletmanager
+kwave-dbg (0.8.8-1-3)
+    sound editor for KDE - debug symbols
+ladish-dbg (1+dfsg0-3)
+    Debugging symbols for ladish
+lcdproc-dbg (0.5.5-2)
+    debugging symbols for lcdproc
+lcgdm-dbg (1.8.2-1+b2)
+    LHC Computing Grid debuggng symbols
+lesstif2-dbg (1:0.95.2-1.1)
+    lesstif2 debugging files
+lib32gcc1-dbg (1:4.7.2-5)
+    GCC support library (debug symbols)
+lib32gfortran3-dbg (4.7.2-5)
+    Runtime library for GNU Fortran applications (32 bit debug symbols)
+lib32go0-dbg (4.7.2-5)
+    Runtime library for GNU Go applications (32 bit debug symbols)
+lib32gomp1-dbg (4.7.2-5)
+    GCC OpenMP (GOMP) support library (32 bit debug symbols)
+lib32itm1-dbg (4.7.2-5)
+    GNU Transactional Memory Library (32 bit debug symbols)
+lib32mudflap0-dbg (4.7.2-5)
+    GCC mudflap shared support libraries (32 bit debug symbols)
+lib32objc3-dbg (4.6.3-14)
+    Runtime library for GNU Objective-C applications (32 bit debug symbols)
+lib32objc4-dbg (4.7.2-5)
+    Runtime library for GNU Objective-C applications (32 bit debug symbols)
+lib32quadmath0-dbg (4.7.2-5)
+    GCC Quad-Precision Math Library (32 bit debug symbols)
+lib32stdc++6-4.4-dbg (4.4.7-2)
+    GNU Standard C++ Library v3 (debugging files)
+lib32stdc++6-4.6-dbg (4.6.3-14)
+    GNU Standard C++ Library v3 (debugging files)
+lib32stdc++6-4.7-dbg (4.7.2-5)
+    GNU Standard C++ Library v3 (debugging files)
+lib64gcc1-dbg (1:4.7.2-5)
+    GCC support library (debug symbols)
+lib64gfortran3-dbg (4.7.2-5)
+    Runtime library for GNU Fortran applications (64bit debug symbols)
+lib64go0-dbg (4.7.2-5)
+    Runtime library for GNU Go applications (64bit debug symbols)
+lib64gomp1-dbg (4.7.2-5)
+    GCC OpenMP (GOMP) support library (64bit debug symbols)
+lib64itm1-dbg (4.7.2-5)
+    GNU Transactional Memory Library (64bit debug symbols)
+lib64mudflap0-dbg (4.7.2-5)
+    GCC mudflap shared support libraries (64 bit debug symbols)
+lib64objc3-dbg (4.6.3-14)
+    Runtime library for GNU Objective-C applications (64 bit debug symbols)
+lib64objc4-dbg (4.7.2-5)
+    Runtime library for GNU Objective-C applications (64 bit debug symbols)
+lib64quadmath0-dbg (4.7.2-5)
+    GCC Quad-Precision Math Library (64bit debug symbols)
+lib64stdc++6-4.4-dbg (4.4.7-2)
+    GNU Standard C++ Library v3 (debugging files)
+lib64stdc++6-4.6-dbg (4.6.3-14)
+    GNU Standard C++ Library v3 (debugging files)
+lib64stdc++6-4.7-dbg (4.7.2-5)
+    GNU Standard C++ Library v3 (debugging files)
+libaa1-dbg (1.4p5-40)
+    ASCII art library, debugging symbols
+libaccountsservice-dbg (0.6.21-8)
+    query and manipulate user account information - debug
+libafrodite-0.12-2-dbg (0.12.1-3)
+    Afrodite completion library - debugging symbols
+libaio1-dbg (0.3.109-3)
+    Linux kernel AIO access library - debugging symbols
+libalberta2-dbg (2.0.1-5)
+    Adaptive finite element library (debug symbols)
+libalglib-2.6.0-dbg (2.6.0-6)
+    Debugging symbols for the alglib library
+libalog0.4.1-base-dbg (0.4.1-2)
+    Logging framework for Ada (debug)
+libalog0.4.1-full-dbg (0.4.1-2)
+    Logging framework for Ada (debug)
+libanalitza-dbg (4:4.8.4-2)
+    debugging symbols for the KDE education module
+libanet0.1-dbg (0.1-3)
+    Ada networking library (debug)
+libao-dbg (1.1.0-2)
+    Cross Platform Audio Output Library Debug Symbols
+libapache2-mod-fcgid-dbg (1:2.3.6-1.2+deb7u1)
+    debugging symbols for mod_fcgid
+libapache2-mod-ldap-userdir-dbg (1.1.19-1)
+    Debugging symbols for mod_ldap_userdir
+libapache2-mod-ruwsgi-dbg (1.2.3+dfsg-5+deb7u1)
+    debugging symbols for Apache2 mod_Ruwsgi
+libapache2-mod-uwsgi-dbg (1.2.3+dfsg-5+deb7u1)
+    debugging symbols for Apache2 mod_uwsgi
+libapq-postgresql3.2.0-dbg (3.2.0-2)
+    APQ Ada 95 Postgresql Binding Plugin (debug)
+libapq3.2.0-dbg (3.2.0-1)
+    Pluggable Ada 95 Binding to various database systems (debug)
+libapr1-dbg (1.4.6-3+deb7u1)
+    Apache Portable Runtime Library - Debugging Symbols
+libaprutil1-dbg (1.4.1-3)
+    Apache Portable Runtime Utility Library - Debugging Symbols
+libaqbanking34-dbg (5.0.24-3)
+    library for online banking applications - debug symbols
+libarpack2-dbg (3.1.1-2.1)
+    Fortran77 subroutines to solve large scale eigenvalue problems (debug)
+libasis2010-dbg (2010-5)
+    Ada Semantic Interface Specification (ASIS) runtime library - debugging symbols
+libasound2-dbg (1.0.25-4)
+    debugging symbols for libasound2
+libassa3.5-5-dbg (3.5.1-2)
+    debugging symbols for libassa3.5-5
+libassuan0-dbg (2.0.3-1)
+    IPC library for the GnuPG components -- debugging symbols
+libatk-adaptor-dbg (2.5.3-2)
+    AT-SPI 2 toolkit bridge - debugging symbols
+libatk-bridge2.0-0-dbg (2.5.3-2)
+    AT-SPI 2 toolkit bridge - debugging symbols
+libatk1-ruby1.8-dbg (1.1.3-2+b1)
+    Transitional package for ruby-atk-dbg
+libatk1.0-dbg (2.4.0-2)
+    ATK libraries and debugging symbols
+libatkmm-1.6-dbg (2.22.6-1)
+    C++ wrappers for ATK accessibility toolkit (debug symbols)
+libatlas-cpp-0.6-1-dbg (0.6.2-3)
+    World Forge wire protocol library - debugging libs
+libatspi-dbg (1.32.0-2)
+    at-spi libraries and debugging symbols
+libatspi2.0-0-dbg (2.5.3-2)
+    Assistive Technology Service Provider Interface - debugging symbols
+libaudiofile-dbg (0.3.4-2)
+    Open-source version of SGI's audiofile library (debug)
+libaunit-dbg (1.03-7)
+    AUnit, a unit testing framework for Ada
+libav-dbg (6:0.8.17-1) [security]
+    Debug symbols for Libav related packages
+libav-extra-dbg (6:0.8.17-1) [security]
+    Debug symbols for Libav related packages (transitional package)
+libaws-dbg (2.10.2-4)
+    Debugging symbols for the Ada Web Server shared library
+libbabl-0.1-0-dbg (0.1.10-1)
+    Dynamic, any to any, pixel format conversion library (debugging symbols)
+libbarry18-dbg (0.18.3-5)
+    Library for using the BlackBerry handheld (debug symbols)
+libbiosig1-dbg (1.3.0-2)
+    I/O library for biomedical data - debug symbols
+libbisho-common0-dbg (0.27.2+git20111122.9e68ef3d-1)
+    Meego web services settings library (debug symbols)
+libbliss1d-dbg (0.72-4)
+    debugging symbols for libbliss1d
+libbluetooth3-dbg (4.99-2)
+    Library to use the BlueZ Linux Bluetooth stack with debugging symbols
+libbluray1-dbg (1:0.2.2-1)
+    Blu-ray disc playback support library (debug symbols)
+libbognor-regis-0.6-0-dbg (0.6.12+git20101007.02c25268-7)
+    Media daemon and play queue manager library (debug symbols)
+libboolstuff-0.1-0-dbg (0.1.12-3)
+    library for operating on boolean expression binary trees
+libboost-dbg (1.49.0.1)
+    Boost C++ Libraries with debug symbols (default version)
+libboost1.49-dbg (1.49.0-3.2)
+    Boost C++ Libraries with debug symbols
+libbox2d0-dbg (2.0.1+dfsg1-1)
+    2D physics engine - debugging symbols
+libbrlapi-dbg (4.4-10+deb7u1)
+    braille display access via BRLTTY - shared library debugging symbols
+libbsd0-dbg (0.4.2-1)
+    utility functions from BSD systems - debugging symbols
+libburn-dbg (1.2.2-2)
+    debugging symbols for libburn and cdrskin
+libc0.1-dbg (2.13-38+deb7u8) [security]
+    Embedded GNU C Library: detached debugging symbols
+libcairo2-dbg (1.12.2-3)
+    The Cairo 2D vector graphics library (debugging symbols)
+libcanberra-gstreamer-dbg (0.28-6)
+    GStreamer libcanberra backend detached debugging symbols
+libcanberra-gtk-module-dbg (0.28-6)
+    libcanberra GtkModule detached debugging symbols
+libcanberra-gtk0-dbg (0.28-6)
+    libcanberra-gtk libraries detached debugging symbols
+libcanberra-gtk3-0-dbg (0.28-6)
+    libcanberra-gtk libraries detached debugging symbols
+libcanberra-gtk3-module-dbg (0.28-6)
+    libcanberra GtkModule detached debugging symbols
+libcanberra-pulse-dbg (0.28-6)
+    PulseAudio libcanberra backend detached debugging symbols
+libcanberra0-dbg (0.28-6)
+    libcanberra libraries detached debugging symbols
+libcaribou-dbg (0.4.4-1)
+    Configurable on screen keyboard - library (debug symbols)
+libcaribou-gtk-module-dbg (0.4.4-1)
+    Configurable on screen keyboard with scanning mode - module
+libcaribou-gtk3-module-dbg (0.4.4-1)
+    Configurable on screen keyboard with scanning mode - module
+libccss-1-5-dbg (0.5.0-4)
+    simple api for CSS stylesheets (Debug files)
+libcdaudio-dbg (0.99.12p2-12)
+    library for controlling a CD-ROM when playing audio CDs (debug)
+libcegui-mk2-0.7.6-dbg (0.7.6-2+b2 [kfreebsd-amd64, kfreebsd-i386], 0.7.6-2+b1 [amd64, armel, armhf, i386, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    Crazy Eddie's GUI (debugging libraries)
+libcfitsio3-dbg (3.300-2)
+    library for I/O with FITS format data files (debugging symbols)
+libcgns3.1-dbg (3.1.3.4-1+b1)
+    CFD General Notation System library
+libchamplain-0.12-dbg (0.12.3-1)
+    C library providing ClutterActor to display maps (debug symbols)
+libchamplain-gtk-0.12-dbg (0.12.3-1)
+    Gtk+ widget to display maps (debug symbols)
+libchewing3-dbg (0.3.3-4)
+    intelligent phonetic input method library - debug files
+libchipmunk0d1-dbg (5.3.4-1)
+    Fast and lightweight 2D rigid body physics library - debug
+libcitadel3-dbg (8.14-1)
+    Debugging symbols for libcitadel3
+libclutter-1.0-dbg (1.10.8-2)
+    Open GL based interactive canvas library (debug files)
+libclutter-gst-1.0-dbg (1.5.4-1+build0)
+    Open GL based interactive canvas library GStreamer elements (debug files)
+libclutter-gtk-1.0-dbg (1.2.0-2)
+    Open GL based interactive canvas library GTK+ widget (debug files)
+libclutter-imcontext-0.1-0-dbg (0.1.4-3)
+    Open GL based interactive canvas library IMContext framework (debug files)
+libcluttergesture-0.0.2-0-dbg (0.0.2.1-7)
+    Open GL based interactive canvas library Gesture framework (debug files)
+libcogl-pango0-dbg (1.10.2-7+b1 [s390x], 1.10.2-7 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc])
+    Object oriented GL/GLES Abstraction/Utility Layer (debug files)
+libcogl9-dbg (1.10.2-7+b1 [s390x], 1.10.2-7 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc])
+    Object oriented GL/GLES Abstraction/Utility Layer (debug files)
+libcommoncpp2-dbg (1.8.1-5)
+    Debug symbols for Common C++ "2"
+libconfig++-dbg (1.4.8-5)
+    parsing and manipulation of structured config files(C++ debug symbols)
+libconfig-dbg (1.4.8-5)
+    parsing and manipulation of structured config files(debug symbols)
+libcontactsdb0-dbg (0.5-8)
+    shared library for accessing gpe-calendar database [debugging]
+libcos4-1-dbg (4.1.6-2)
+    omniORB CORBA services stubs debugging symbols
+libcr-dbg (0.8.5-2)
+    Libraries to Checkpoint and Restart Linux processes
+libcrypto++9-dbg (5.6.1-6)
+    General purpose cryptographic library - debug symbols
+libcsfml1.6-dbg (1.6-1)
+    Libraries for the C Binding of SFML - Debug Files
+libcsoap1-dbg (1.1.0-17.1)
+    shared CSOAP library for SOAP client/server in C
+libcuba3-dbg (3.0+20111124-2)
+    library for multidimensional numerical integration: debug symbols
+libcwidget3-dbg (0.5.16-3.4)
+    high-level terminal interface library for C++ (debugging files)
+libcxgb3-1-dbg (1.3.1-1)
+    Debugging symbols for the libcxgb3 driver
+libdaemon0-dbg (0.14-2)
+    lightweight C library for daemons - debugging symbols
+libdb5.1-dbg (5.1.29-5)
+    Berkeley v5.1 Database Libraries [debug]
+libdbus-c++-dbg (0.9.0-6)
+    C++ API for D-Bus (debugging symbols)
+libdbus-glib-1-2-dbg (0.100.2-1)
+    simple interprocess messaging system (GLib library debug symbols)
+libdbusada0.2-dbg (0.2-2)
+    Ada bindings to the D-Bus message bus system
+libdc1394-22-dbg (2.2.0-2)
+    debugging symbols for the libdc1394-22 library
+libdconf-dbg (0.12.1-3)
+    simple configuration storage system - debugging symbols
+libdconf-dbus-1-dbg (0.12.1-3)
+    simple configuration storage system - D-Bus debug symbols
+libdee-1.0-4-dbg (1.0.10-3)
+    model to synchronize mutiple instances over DBus
+libdesktop-agnostic0-dbg (0.3.92+dfsg-1)
+    Debugging symbols for libdesktop-agnostic
+libdirectfb-1.2-9-dbg (1.2.10.0-5)
+    direct frame buffer graphics - shared libraries debug symbols
+libdirectfb-bin-dbg (1.2.10.0-5)
+    direct frame buffer graphics - binaries debug symbols
+libdirectfb-extra-dbg (1.2.10.0-5)
+    direct frame buffer graphics - extra provider debug symbols
+libdisplaymigration0-dbg (0.28-10)
+    display migration support for GTK [debugging]
+libdkim1d-dbg (1:1.0.21-3)
+    DomainKeys Identified Mail (DKIM) library - debug symbols
+libdmx1-dbg (1:1.1.2-1+deb7u1)
+    X11 Distributed Multihead library (debug package)
+libdolfin1.0-dbg (1.0.0-7)
+    Shared libraries with debugging symbols for DOLFIN
+libdrawtk0-dbg (2.0-2)
+    Library to simple and efficient 2D drawings (debugging symbols)
+libdrizzle-dbg (1:7.1.36-stable-1)
+    library for the Drizzle and MySQL protocols, debug symbols
+libdrm-intel1-dbg (2.4.40-1~deb7u2)
+    Userspace interface to intel-specific kernel DRM services -- debugging symbols
+libdrm-nouveau1a-dbg (2.4.40-1~deb7u2)
+    Userspace interface to nouveau-specific kernel DRM -- debugging symbols
+libdrm-omap1-dbg (2.4.40-1~deb7u2)
+    Userspace interface to omap-specific kernel DRM services -- debugging symbols
+libdrm-radeon1-dbg (2.4.40-1~deb7u2)
+    Userspace interface to radeon-specific kernel DRM services -- debugging symbols
+libdrm2-dbg (2.4.40-1~deb7u2)
+    Userspace interface to kernel DRM services -- debugging symbols
+libdrumstick-dbg (0.5.0-3)
+    Qt4/C++ wrapper for ALSA Sequencer - debugging symbols
+libdspam7-dbg (3.10.1+dfsg-11)
+    debugging symbols for DSPAM related libraries
+libdune-common-dbg (2.2.0-1)
+    toolbox for solving PDEs -- basic classes (debug symbols)
+libdune-geometry-dbg (2.2.0-1)
+    toolbox for solving PDEs -- geometry classes (debug symbols)
+libdune-grid-dbg (2.2.0-1)
+    toolbox for solving PDEs -- grid interface (debug symbols)
+libdvdnav-dbg (4.2.0+20120524-2)
+    DVD navigation library (debug)
+libdvdread-dbg (4.2.0+20120521-2)
+    library for reading DVDs (debug)
+libdxflib-2.2.0.0-dbg (2.2.0.0-8)
+    Debugging symbols for the dxflib library
+libechonest-dbg (1.2.1-1)
+    Qt library for The Echo Nest platform - debug files
+libecore-dbg (1.2.0-2)
+    Debugging symbols for libecore
+libedac1-dbg (0.18-1)
+    report kernel-detected PCI and ECC RAM errors
+libedje-dbg (1.2.0-1)
+    Debugging symbols for libedje
+libeegdev0-dbg (0.2-3)
+    Biosignal acquisition device library (Debugging symbols)
+libeet-dbg (1.6.0-1)
+    E17 file chunk reading/writing library - debug symbols
+libegl1-mesa-dbg (8.0.5-4+deb7u2)
+    free implementation of the EGL API -- debugging symbols
+libegl1-mesa-drivers-dbg (8.0.5-4+deb7u2)
+    free implementation of the EGL API -- driver debugging symbols
+libeina-dbg (1.2.0-2)
+    debugging symbols for use with libeina
+libeiskaltdcpp2.2-dbg (2.2.6-4)
+    DC++ kernel from EiskaltDC++ (debug symbols)
+libelementary-dbg (0.7.0.55225-1)
+    debugging symbols for use with libelementary
+libelmersolver-dbg (6.1.0.svn.5396.dfsg2-2)
+    finite element multiphysics suite - library debugging symbols
+libembryo-dbg (1.2.0-1)
+    Debugging symbols for libembryo
+libenca-dbg (1.13-4)
+    Extremely Naive Charset Analyser - debug files
+libenet1a-dbg (1.3.3-2)
+    thin network communication layer on top of UDP - debug symbols
+liberis-1.3-19-dbg (1.3.19-5)
+    WorldForge client entity library - debugging library
+libetpan-dbg (1.0-5)
+    debugging symbols for libetpan
+libevas-dbg (1.2.0-2)
+    enlightenment advanced canvas library
+libevent-dbg (2.0.19-stable-3+deb7u1) [security]
+    Asynchronous event notification library (debug symbols)
+libeventdb2-dbg (0.90-5)
+    library that provides access to gpe-calendar data [debugging]
+libevtlog0-dbg (0.2.12-5)
+    Syslog event logger library debug symbols
+libewf-dbg (20100226-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 20100226-1 [armhf, s390x])
+    library with support for Expert Witness Compression Format (debug)
+libexempi3-dbg (2.2.0-1)
+    library to parse XMP metadata (Debug files)
+libexiv2-dbg (0.23-1)
+    EXIF/IPTC metadata manipulation library - debug
+libexo-1-0-dbg (0.6.2-5)
+    debugging informations for libexo
+libexplain30-dbg (0.52.D002-1)
+    library of syscall-specific strerror replacements - debugging symbols
+libextractor-dbg (1:0.6.3-5)
+    extracts meta-data from files of arbitrary type (debug)
+libextractor-java-dbg (0.6.0-6)
+    Java bindings for GNU libextractor (debug)
+libfalcon-engine1-dbg (0.9.6.9-git20120606-2)
+    Falcon P.L. engine - debugging symbols
+libfann-dbg (2.1.0~beta~dfsg-8)
+    Debugging symbols for FANN
+libfarstream-0.1-dbg (0.1.2-1)
+    Audio/Video communications framework: debugging symbols
+libfbclient2-dbg (2.5.2.26540.ds4-1~deb7u2)
+    collected debug symbols for libfbclient2
+libffi5-dbg (3.0.10-3+b1 [armhf, s390x], 3.0.10-3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc])
+    Foreign Function Interface library runtime (debug symbols)
+libfftw3-dbg (3.3.2-3.1)
+    Library for computing Fast Fourier Transforms - debug symbols
+libfishsound1-dbg (1.0.0-1.1)
+    simple API that wraps Xiph.Org audio codecs (debugging information)
+libfko0-dbg (2.0.0rc2-2+deb7u2)
+    debugging symbol for the libfko library
+libflorist-dbg (2011-1)
+    POSIX.5 Ada interface to operating system services
+libfltk1.1-dbg (1.1.10-14)
+    Fast Light Toolkit - shared libraries with debugging symbols
+libfltk1.3-dbg (1.3.0-8)
+    Fast Light Toolkit - shared libraries with debugging symbols
+libfm1-dbg (0.1.17-2.1)
+    file management support (debug)
+libfolks-dbg (0.6.9-1+b1)
+    library to aggregates people into metacontact - debugging symbols
+libfolks-eds-dbg (0.6.9-1+b1)
+    Evolution-data-server backend for libfolks - debugging symbols
+libfolks-telepathy-dbg (0.6.9-1+b1)
+    Telepathy backend for libfolks - debugging symbols
+libfontconfig1-dbg (2.9.0-7.1)
+    generic font configuration library - debugging symbols
+libfontenc1-dbg (1:1.1.1-1)
+    X11 font encoding library (debug package)
+libfreeimage3-dbg (3.15.1-1+b1)
+    Support library for graphics image formats (debugging symbols)
+libfreexl1-dbg (1.0.0b-1+deb7u1) [security]
+    library for direct reading of Microsoft Excel spreadsheets - debug
+libfs6-dbg (2:1.0.4-1+deb7u1)
+    X11 Font Services library (debug package)
+libfso-glib-dbg (2012.05.24.1-1.1)
+    debugging symbols for use with libfso-glib
+libfsobasics-dbg (0.11.0-1.1)
+    debugging symbols for use with libfsobasics
+libfsoframework-dbg (0.11.0-1.1)
+    debugging symbols for use with libfsoframework
+libfsoresource-dbg (0.11.0-1.1)
+    debugging symbols for use with libfsoresource
+libfsosystem-dbg (0.11.0-1)
+    debugging symbols for use with libfsosystem
+libfsotransport-dbg (0.11.1-2.1)
+    debugging symbols for use with libfsotransport
+libfstrcmp0-dbg (0.4.D001-1+deb7u1)
+    library of fuzzy string comparison functions - debugging symbols
+libftdi1-dbg (0.20-1+b1)
+    Debugging symbols for libftdi1
+libftdipp1-dbg (0.20-1+b1)
+    Debugging symbols for libftdipp1
+libg3d-dbg (0.0.8-17)
+    LibG3D debug symbols package
+libgadu3-dbg (1:1.11.2-1+deb7u2)
+    Gadu-Gadu protocol library - debug symbols
+libgail-3-0-dbg (3.4.2-7)
+    Gail libraries and debugging symbols
+libgail-dbg (2.24.10-2)
+    Gail libraries and debugging symbols
+libgammu-dbg (1.31.90-1+b1)
+    mobile phone management library (debugger symbols)
+libgarcon-1-0-dbg (0.1.12-1)
+    debugging symbols for libgarcon
+libgavl1-dbg (1.4.0-1)
+    debugging symbols for libgavl1
+libgbm1-dbg (8.0.5-4+deb7u2)
+    generic buffer management API -- debugging symbols
+libgcc1-dbg (1:4.7.2-5)
+    GCC support library (debug symbols)
+libgcj12-dbg (4.6.3-1)
+    Debugging symbols for libraries provided in libgcj12-dev
+libgcj13-dbg (4.7.2-3)
+    Debugging symbols for libraries provided in libgcj13-dev
+libgcu-dbg (0.12.12-1)
+    GNOME chemistry utils (debugging symbols)
+libgda-5.0-4-dbg (5.0.3-2)
+    data abstraction library based on GLib -- debug files
+libgdcm2.2-dbg (2.2.0-14.1)
+    Grassroots DICOM runtime libraries, debug version
+libgdf0-dbg (0.1.2-2)
+    IO library for the GDF -- debug symbols
+libgdk-pixbuf2-ruby1.8-dbg (1.1.3-2)
+    Transitional package for ruby-gdk-pixbuf2-dbg
+libgdk-pixbuf2-ruby1.8-dbg
+    virtual package provided by ruby-gdk-pixbuf2-dbg
+libgdl-3-dbg (3.4.2-1)
+    GNOME DevTool libraries - debug files
+libgearman-dbg (0.33-2)
+    Debug symbols for the Gearman Client Library
+libgee2-dbg (0.6.4-2)
+    GObject based collection library - library symbols
+libgegl-0.2-0-dbg (0.2.0-2+nmu1)
+    Generic Graphics Library (debugging symbols)
+libgeocode-glib-dbg (0.99.0-1)
+    debug symbols for geocode-glib library
+libgeos-dbg (3.3.3-1.1)
+    Debugging symbols for the GEOS library
+libgetfem++-dbg (4.1.1+dfsg1-12~deb7u1)
+    Debugging symbols for the GETFEM++ generic finite element library
+libgexiv2-1-dbg (0.4.1-3)
+    GObject-based wrapper around the Exiv2 library (debugging symbols)
+libgfortran3-dbg (4.7.2-5)
+    Runtime library for GNU Fortran applications (debug symbols)
+libgfshare-dbg (1.0.5-2)
+    library for multi-way secret-sharing (debug symbols)
+libginac2-dbg (1.6.2-1)
+    GiNaC symbolic framework debugging symbols
+libgirara-dbg (0.1.2-3)
+    library for minimalistic user interfaces (debugging symbols)
+libgl1-mesa-dri-dbg (8.0.5-4+deb7u2)
+    Debugging symbols for the Mesa DRI modules
+libgl1-mesa-dri-experimental-dbg (8.0.5-4+deb7u2)
+    Debugging symbols for the experimental Mesa DRI modules
+libgl1-mesa-glx-dbg (8.0.5-4+deb7u2)
+    Debugging symbols for the Mesa GLX runtime
+libgl1-mesa-swx11-dbg (8.0.5-4+deb7u2)
+    free implementation of the OpenGL API -- debugging symbols
+libgl2ps0-dbg (1.3.6-1)
+    Lib providing high quality vector output for OpenGL application
+libglademm-2.4-dbg (2.6.7-2)
+    C++ wrappers for libglade2 (debug symbols)
+libglapi-mesa-dbg (8.0.5-4+deb7u2)
+    free implementation of the GL API -- debugging symbols
+libglee0d1-dbg (5.4.0-1)
+    extension loading library for OpenGL - debugging
+libgles1-mesa-dbg (8.0.5-4+deb7u2)
+    free implementation of the OpenGL|ES 1.x API -- debugging symbols
+libgles2-mesa-dbg (8.0.5-4+deb7u2)
+    free implementation of the OpenGL|ES 2.x API -- debugging symbols
+libglib2-ruby1.8-dbg (1.1.3-2)
+    Transitional package for ruby-glib2
+libglib2.0-0-dbg (2.33.12+really2.32.4-5)
+    Debugging symbols for the GLib libraries
+libglib2.0-0-refdbg (2.33.12+really2.32.4-5)
+    GLib library of C routines - refdbg library
+libglibmm-2.4-dbg (2.32.1-1)
+    C++ wrapper for the GLib toolkit (debug symbols)
+libgloox-dbg (1.0-1.1)
+    C++ jabber/xmpp library debug symbols
+libglpk0-dbg (4.45-1)
+    linear programming kit - debugging symbols
+libgmime-2.6-0-dbg (2.6.10-1)
+    MIME message parser and creator library - debugging symbols
+libgmlib0-dbg (1.0.6-1)
+    gnome-mplayer library (debugging symbols)
+libgmpada-dbg (0.0.20120331-1)
+    Ada binding to the GNU MultiPrecision library: debug symbols
+libgmtk0-dbg (1.0.6-1)
+    gnome-mpayer toolkit (debugging symbols)
+libgnadecommon-dbg (1.6.2-9)
+    GNat Ada Database Environment - common debugging symbols
+libgnadeodbc-dbg (1.6.2-9)
+    GNat Ada Database Environment - ODBC debugging symbols
+libgnadesqlite3-dbg (1.6.2-9)
+    GNat Ada Database Environment - SQLite3 debugging symbols
+libgnat-4.6-dbg (4.6.3-8)
+    runtime for applications compiled with GNAT (debugging symbols)
+libgnatprj4.6-dbg (4.6.3-8)
+    GNU Ada compiler Project Manager (debugging symbols)
+libgnatvsn4.6-dbg (4.6.3-8)
+    GNU Ada compiler selected components (debugging symbols)
+libgnelib0-dbg (0.75+svn20091130-1+b1)
+    the Game Networking Engine
+libgnome-keyring0-dbg (3.4.1-1)
+    GNOME keyring services library (debugging symbols)
+libgnome2-dbg (2.32.1-3)
+    The GNOME library - debugging symbols
+libgnomeada-dbg (2.24.1-7)
+    Ada binding for the GNOME GUI (debugging symbols)
+libgnomecanvas2-dbg (2.30.3-1.2)
+    powerful object-oriented display engine - debugging symbols
+libgnomeui-0-dbg (2.24.5-2)
+    GNOME user interface library - debugging symbols
+libgnomevfs2-0-dbg (1:2.24.4-2)
+    GNOME Virtual File System (debugging libraries)
+libgnustep-base1.22-dbg (1.22.1-4+deb7u1)
+    GNUstep Base library - debugging symbols
+libgnustep-gui0.20-dbg (0.20.0-3+b1 [amd64], 0.20.0-3 [armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    GNUstep GUI Library - debugging symbols
+libgo0-dbg (4.7.2-5)
+    Runtime library for GNU Go applications (debug symbols)
+libgoffice-dbg (0.8.17-1.2)
+    Document centric objects library - debugging files
+libgomp1-dbg (4.7.2-5)
+    GCC OpenMP (GOMP) support library (debug symbols)
+libgoocanvas-ruby1.8-dbg (1.1.3-2)
+    Transitional package for ruby-goocanvas-dbg
+libgoocanvas-ruby1.8-dbg
+    virtual package provided by ruby-goocanvas-dbg
+libgoogle-perftools4-dbg (2.0-2)
+    libraries for CPU and heap analysis, plus an efficient thread-caching malloc
+libgooglepinyin0-dbg (0.1.2-1)
+    Pinyin engine fork from Google Pinyin on Android - debug symbols
+libgpac-dbg (0.5.0~dfsg0-1)
+    GPAC Project on Advanced Content - debugging symbols for libgpac2
+libgpds-dbg (1.5.1-6)
+    library for configuration of pointing devices (debug symbols)
+libgpelaunch0-dbg (0.14-6)
+    helper library for launching programs [debugging]
+libgpepimc0-dbg (0.9-4)
+    category management for GPE applications [debugging]
+libgpeschedule0-dbg (0.17-4)
+    scheduling library for GPE (debug symbols)
+libgpevtype1-dbg (0.50-6)
+    data interchange library for GPE applications [development]
+libgpewidget1-dbg (0.117-6)
+    debug symbols for libgpewidget
+libgpiv3-dbg (0.6.1-4)
+    library for Particle Image Velocimetry (PIV) - debug symbols
+libgraphite2-2.0.0-dbg (1.1.3-1)
+    Debug symbols for libgraphite2
+libgraphite3-dbg (1:2.3.1-0.2)
+    debugging symbols for SILGraphite
+libgsf-1-114-dbg (1.14.21-2.1)
+    Structured File Library - debugging files (basic version)
+libgsf-gnome-1-114-dbg (1.14.21-2.1)
+    Structured File Library - debugging files for GNOME
+libgsl-ruby1.8-dbg (1.14.7+dfsg-1)
+    Transitional package for ruby-gsl-dbg
+libgsl-ruby1.9.1-dbg (1.14.7+dfsg-1)
+    Transitional package for ruby-gsl-dbg
+libgsl0-dbg (1.15+dfsg.2-2)
+    GNU Scientific Library (GSL) -- debug symbols package
+libgsm0710-dbg (1.2.2-2)
+    debugging symbols for use with libgsm0710
+libgsm0710mux-dbg (0.11.2-1.1)
+    debugging symbols for use with libgsm0710mux
+libgsm1-dbg (1.0.13-4)
+    Shared libraries for GSM speech compressor (debug symbols)
+libgsnmp0-dbg (0.3.0-1.1)
+    an SNMP library implementation based on glib and gnet (debug files)
+libgss-dbg (1.0.2-1)
+    Debugging symbols for GSS
+libgssdp-1.0-dbg (0.12.2.1-2)
+    GObject-based library for SSDP (debug symbols)
+libgst-ruby1.8-dbg (1.1.3-2)
+    Transitional package for ruby-gstreamer-dbg
+libgstreamer0.10-0-dbg (0.10.36-1.2)
+    Core GStreamer libraries and elements
+libgtk-3-0-dbg (3.4.2-7)
+    GTK+ libraries and debugging symbols
+libgtk-vnc-1.0-0-dbg (0.5.0-3.1)
+    VNC viewer widget for GTK+2 (debugging symbols)
+libgtk-vnc-2.0-0-dbg (0.5.0-3.1)
+    VNC viewer widget for GTK+3 (debugging symbols)
+libgtk2-ruby1.8-dbg (1.1.3-2)
+    Transitional package for ruby-gtk2-dbg
+libgtk2.0-0-dbg (2.24.10-2)
+    GTK+ libraries and debugging symbols
+libgtkada-dbg (2.24.1-7)
+    Ada binding for the GTK+ GUI (debugging symbols)
+libgtkglada-dbg (2.24.1-7)
+    Ada binding for GTK+ OpenGL extensions (debugging symbols)
+libgtkglext1-dbg (1.2.0-2)
+    OpenGL Extension to GTK+ (debugging symbols)
+libgtkhtml-4.0-dbg (4.4.4-1)
+    HTML rendering/editing library - debug files
+libgtkhtml3.14-dbg (3.32.2-2.1)
+    HTML rendering/editing library - debug files
+libgtkmm-2.4-dbg (1:2.24.2-1)
+    C++ wrappers for GTK+ (debug symbols)
+libgtkmm-3.0-dbg (3.4.2-1)
+    C++ wrappers for GTK+ (debug symbols)
+libgtksourceview2-ruby1.8-dbg (1.1.3-2)
+    Transitional package for ruby-gtksourceview2-dbg
+libgtksourceview2-ruby1.8-dbg
+    virtual package provided by ruby-gtksourceview2-dbg
+libgtksourceviewmm-3.0-dbg (3.2.0-1)
+    C++ binding of GtkSourceView - debugging symbols
+libgts-dbg (0.7.6+darcs110121-1.1)
+    debugging symbols for libgts
+libguestfs0-dbg (1:1.18.1-1+deb7u3)
+    guest disk image management system - debug symbols
+libguichan-0.8.1-1-dbg (0.8.2-10+b1)
+    small, efficient C++ GUI library (debugging symbols)
+libgupnp-1.0-dbg (0.18.4-1)
+    GObject-based library for UPnP (debug symbols)
+libgupnp-av-1.0-dbg (0.10.3-1)
+    Audio/Visual utility library for GUPnP (debug symbols)
+libgupnp-dlna-1.0-dbg (0.6.6-1)
+    DLNA utility library for GUPnP (debug symbols)
+libgupnp-igd-1.0-dbg (0.2.1-2)
+    library to handle UPnP IGD port mapping - debug symbols
+libgvnc-1.0-0-dbg (0.5.0-3.1)
+    VNC gobject wrapper (debugging symbols)
+libgwenhywfar60-dbg (4.3.3-1)
+    OS abstraction layer - debug symbols
+libh323-dbg (1.24.0~dfsg2-1)
+    H.323 aka VoIP library development debug files
+libhaildb-dbg (2.3.2-1.2)
+    Library implementing InnoDB-like database - debug symbols
+libhandoff0-dbg (0.1-5)
+    handoff library for GPE calendar (debug symbols)
+libhangul1-dbg (0.1.0-2)
+    Hangul keyboard input library - debugging symbols
+libhawknl-dbg (1.6.8+dfsg2-1)
+    Hawk game oriented network library API (debug package)
+libhdf5-7-dbg (1.8.8-9+b1 [amd64, i386, kfreebsd-amd64, kfreebsd-i386], 1.8.8-9 [armel, armhf, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    Hierarchical Data Format 5 (HDF5) - Debug package
+libhdf5-mpich2-7-dbg (1.8.8-9+b1 [amd64, i386, kfreebsd-amd64, kfreebsd-i386], 1.8.8-9 [armel, armhf, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    Hierarchical Data Format 5 (HDF5) - Mpich2 Debug package
+libhdf5-openmpi-7-dbg (1.8.8-9+b1 [amd64, i386, kfreebsd-amd64, kfreebsd-i386], 1.8.8-9 [armel, armhf, ia64, powerpc, sparc])
+    Hierarchical Data Format 5 (HDF5) - OpenMPI Debug package
+libhdfeos5-ruby1.8-dbg (1.0-2+b1)
+    Ruby interface to the HDF-EOS5 library
+libhdfeos5-ruby1.9.1-dbg (1.0-2+b1)
+    Ruby interface to the HDF-EOS5 library
+libhiredis-dbg (0.10.1-7)
+    minimalistic C client library for Redis (debug)
+libhivex0-dbg (1.3.6-2)
+    library for reading and writing Windows Registry hives
+libhkl-dbg (4.0.3-4)
+    diffractometer computation control library - debug symbols
+libhunspell-1.3-0-dbg (1.3.2-4)
+    spell checker and morphological analyzer (debug symbols)
+libibverbs1-dbg (1.1.6-1)
+    Debugging symbols for the libibverbs library
+libical-dbg (0.48-2)
+    debugging symbols for libical
+libicapapi0-dbg (1:0.1.6-1.1+deb7u1)
+    ICAP API library debug symbols
+libice6-dbg (2:1.0.8-2)
+    X11 Inter-Client Exchange library (debug package)
+libicu48-dbg (4.8.1.1-12+deb7u2) [security]
+    International Components for Unicode
+libidn2-0-dbg (0.8-2)
+    Internationalized domain names (IDNA2008) debug symbols
+libigstk4-dbg (4.4.0-2+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 4.4.0-2 [armhf, s390x])
+    debugging symbols for libigstk4
+libimobiledevice2-dbg (1.1.1-4)
+    Library for communicating with iPhone and iPod Touch devices
+libinfinity-0.5-dbg (0.5.2-6.1)
+    infinote-based collaborative editing - debugging symbols
+libinnodb-dbg (1.0.6.6750-1)
+    Embedded InnoDB Library (debug files)
+libinstpatch-1.0-0-dbg (1.0.0-3)
+    MIDI instrument editing library - debugging symbols
+libint-dbg (1.1.4-1)
+    Evaluate the integrals in modern atomic and molecular theory (debug)
+libipathverbs1-dbg (1.2-1)
+    Debugging symbols for the libipathverbs driver
+libiptcdata0-dbg (1.0.4-3)
+    Library to parse IPTC metadata (debug files)
+libirrlicht1.7a-dbg (1.7.3+dfsg1-4)
+    debugging symbols for irrlicht
+libisl-dbg (0.10-3)
+    manipulating sets and relations of integer points bounded by linear constraints
+libisoburn-dbg (1.2.2-2)
+    debugging symbols for libisoburn and xorriso
+libisofs-dbg (1.2.2-1)
+    debugging symbols for libisofs
+libitm1-dbg (4.7.2-5)
+    GNU Transactional Memory Library (debug symbols)
+libitpp7-dbg (4.2-4)
+    C++ library of signal processing and communication routines: Debug symbols
+libivykis0-dbg (0.30.1-2)
+    Asynchronous I/O readiness notification library (debug symbols)
+libjana0-dbg (0.0.0+git20091215.9ec1da8a-2+b4 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.0.0+git20091215.9ec1da8a-2+b1 [armhf, s390x])
+    An interface library for time-related personal information (debug symbols)
+libjansson-dbg (2.3.1-2)
+    C library for encoding, decoding and manipulating JSON data (debug)
+libjavascriptcoregtk-1.0-0-dbg (1.8.1-3.4)
+    Javascript engine library for GTK+
+libjavascriptcoregtk-3.0-0-dbg (1.8.1-3.4)
+    Javascript engine library for GTK+
+libjemalloc1-dbg (3.0.0-3)
+    debug symbols for jemalloc
+libjpeg8-dbg (8d-1+deb7u1)
+    Development files for the IJG JPEG library
+libjson-glib-1.0-0-dbg (0.14.2-1)
+    GLib JSON manipulation library (debug symbols)
+libjson0-dbg (0.10-1.2)
+    JSON manipulation library - debug symbols
+libjthread-dbg (1.3.1-3)
+    JThread cross-platform threading library debugging symbols
+libkactivities-dbg (4:4.8.4-1)
+    debugging symbols for libkactivities
+libkate1-dbg (0.4.1-1)
+    Kate is a codec for karaoke and text encapsulation for Ogg (dbg)
+libkdcraw20-dbg (4:4.8.4-1)
+    RAW picture decoding library -- debugging symbols
+libkdeedu-dbg (4:4.8.4-1)
+    debugging symbols for the libkeduvocdocument library
+libkexiv2-dbg (4:4.8.4-1)
+    Qt-like interface for the libexiv2 library -- debugging symbols
+libkibi-dbg (0.1-1)
+    library for byte prefixes (debugging symbols)
+libkipi-dbg (4:4.8.4-1)
+    KDE Image Plugin Interface library -- debugging symbols
+libkms1-dbg (2.4.40-1~deb7u2)
+    Userspace interface to kernel DRM buffer management -- debugging symbols
+libksane-dbg (4:4.8.4-1)
+    debugging symbols for the KDE graphics module
+libktoblzcheck-dbg (1.39-1)
+    library for verification of account numbers and bank codes (debug symbols)
+libktorrent-dbg (1.2.1-1)
+    debugging symbols for the KTorrent library
+libktpcommoninternalsprivate-dbg (0.4.0-1)
+    KDE Telepathy internal library - debug symbols
+liblastfm-dbg (0.4.0~git20090710-2)
+    Debugging symbols for the Last.fm web services library
+libldb1-dbg (1:1.1.6-1)
+    LDAP-like embedded database - debug symbols
+libldns1-dbg (1.6.13-1+deb7u1)
+    ldns library for DNS programming (debug symbols)
+liblinear-dbg (1.8+dfsg-1)
+    Debugging symbols for LIBLINEAR
+liblockdev1-dbg (1.0.3-1.5)
+    Debugging library for locking devices
+liblog4ada-dbg (1.2-3)
+    Ada library for flexible logging (debug)
+liblog4cplus-dbg (1.0.4-1)
+    C++ logging API modeled after the Java log4j API - debug library
+liblog4tango4-dbg (7.2.6+dfsg-14)
+    logging for TANGO - debug library
+libloki0.1.7-dbg (0.1.7-3)
+    C++ library of generic design patterns (debug information)
+libloudmouth1-0-dbg (1.4.3-9)
+    Lightweight C Jabber library (debugging symbols)
+liblqr-1-0-dbg (0.4.1-2)
+    converts plain array images into multi-size representation (debug package)
+liblscp-dbg (0.5.6-6)
+    LinuxSampler Control Protocol library - debugging symbols
+liblua5.1-0-dbg (5.1.5-4+deb7u1)
+    Debug symbols for the Lua shared library interpreter
+liblua5.2-0-dbg (5.2.1-3+deb7u1)
+    Debug symbols for the Lua shared library interpreter
+libluabind-dbg (0.9.1+dfsg-5)
+    luabind c++ binding for lua: unstripped binaries
+liblunar-1-0-dbg (2.0.1-2.2)
+    Chinese Lunar library
+liblunar-date-dbg (2.4.0-1)
+    Chinese Lunar library based on GObject - debug symbols
+liblz-dbg (1.3-2)
+    data compressor based on the LZMA algorithm (debug)
+libm17n-0-dbg (1.6.3-2)
+    multilingual text processing library - debugging symbols
+libmadlib-dbg (1.3.0-2.1)
+    mesh adaptation library
+libmarkdown2-dbg (2.1.3-3)
+    Implementation of Markdown markup language in C (debug)
+libmatio0-dbg (1.3.4-4)
+    MAT File I/O Library - development files
+libmemcached-dbg (1.0.8-1)
+    Debug Symbols for libmemcached
+libmemphis-0.2-dbg (0.2.3-2)
+    A map-rendering library for OpenStreetMap (Debug symbols)
+libmercator-0.3-1-dbg (0.3.0-2)
+    WorldForge terrain library - debugging symbols
+libmicrohttpd-dbg (0.9.20-1+deb7u1)
+    library embedding HTTP server functionality (debug)
+libmigemo-dbg (20110227-7)
+    Japanese incremental search tool written in C - detached debugging symbols
+libmilter1.0.1-dbg (8.14.4-4)
+    Sendmail Mail Filter API (Milter)
+libmimetic0-dbg (0.9.7-3)
+    C++ MIME library (debug)
+libmini18n1-dbg (0.2.1-1)
+    minimal internationalization library - debug symbols
+libmlt-dbg (0.8.0-4)
+    multimedia framework (debugging symbols)
+libmlx4-1-dbg (1.0.4-1)
+    Debugging symbols for the libmlx4 driver
+libmm-dbg (1.4.2-4)
+    Shared memory library - debugging symbols
+libmongo-client0-dbg (0.1.5-1+deb7u1)
+    Alternate C driver for MongoDB (debugging symbols)
+libmono-2.0-1-dbg (2.10.8.1-8+deb7u1) [security]
+    Mono JIT library, debugging symbols
+libmotif4-dbg (2.3.3-8) [non-free]
+    Open Motif - shared libraries
+libmowgli2-dbg (1.0.0-1)
+    high performance development framework for C (debug)
+libmozjs17d-dbg (17.0.10esr-1~deb7u1)
+    Development files for the Mozilla SpiderMonkey JavaScript library
+libmozjs24d-dbg (24.8.1esr-2~deb7u1)
+    Development files for the Mozilla SpiderMonkey JavaScript library
+libmpd1-dbg (0.20.0-1.1)
+    High-level client library for accessing Music Player Daemon
+libmpdclient2-dbg (2.3-1)
+    Debug symbols for libmpdclient2
+libmpfr4-dbg (3.1.0-5)
+    multiple precision floating-point computation (debug symbols)
+libmpikmeans-dbg (1.5-1+b1)
+    Debugging symbols for MPIKmeans
+libmrss0-dbg (0.19.2-3)
+    libmrss debugging symbols
+libmsn0.3-dbg (4.2-2)
+    high-level C++ library for MSN Messenger [debug]
+libmtbl0-dbg (0.2-1)
+    immutable sorted string table library (debug symbols)
+libmthca1-dbg (1.0.6-1)
+    Debugging symbols for the libmthca driver
+libmtp-dbg (1.1.3-35-g0ece104-5)
+    Media Transfer Protocol (MTP) debugging symbols
+libmudflap0-dbg (4.7.2-5)
+    GCC mudflap shared support libraries (debug symbols)
+libmupen64plus2-dbg (1.99.5-6)
+    mupen64plus debug symbols package
+libmuroar0-dbg (0.1.8-2)
+    minimalist RoarAudio client library (debugging symbols)
+libmx-1.0-2-dbg (1.4.6-1)
+    toolkit for the Moblin user experience (debug symbols)
+libn32gcc1-dbg (1:4.7.2-5)
+    GCC support library (debug symbols)
+libn32gfortran3-dbg (4.7.2-5)
+    Runtime library for GNU Fortran applications (n32 debug symbols)
+libn32go0-dbg (4.7.2-5)
+    Runtime library for GNU Go applications (n32 debug symbols)
+libn32gomp1-dbg (4.7.2-5)
+    GCC OpenMP (GOMP) support library (n32 debug symbols)
+libn32mudflap0-dbg (4.7.2-5)
+    GCC mudflap shared support libraries (n32 debug symbols)
+libn32objc3-dbg (4.6.3-14)
+    Runtime library for GNU Objective-C applications (n32 debug symbols)
+libn32objc4-dbg (4.7.2-5)
+    Runtime library for GNU Objective-C applications (n32 debug symbols)
+libn32stdc++6-4.4-dbg (4.4.7-2)
+    GNU Standard C++ Library v3 (debugging files)
+libn32stdc++6-4.6-dbg (4.6.3-14)
+    GNU Standard C++ Library v3 (debugging files)
+libn32stdc++6-4.7-dbg (4.7.2-5)
+    GNU Standard C++ Library v3 (debugging files)
+libnabrit-dbg (0.4.1-1)
+    LV2 bridging helper library (debugging symbols)
+libnanohttp1-dbg (1.1.0-17.1)
+    shared nanohttp library from CSOAP package
+libnarray-ruby1.8-dbg (0.6.0.1-1)
+    Transitional package for ruby-narray-dbg
+libnarray-ruby1.8-dbg
+    virtual package provided by ruby-narray-dbg
+libnarray-ruby1.9.1-dbg (0.6.0.1-1)
+    Transitional package for ruby-narray-dbg
+libnarray-ruby1.9.1-dbg
+    virtual package provided by ruby-narray-dbg
+libncbi6-dbg (6.1.20120620-2)
+    NCBI libraries for biology applications (debugging symbols)
+libncurses5-dbg (5.9-10)
+    debugging/profiling libraries for ncurses
+libncursesada-dbg (5.9.20110404-7)
+    Ada binding to the ncurses text interface library: debug symbols
+libncursesw5-dbg (5.9-10)
+    debugging/profiling libraries for ncursesw
+libneon27-dbg (0.29.6-3)
+    Detached symbols for libneon27
+libneon27-gnutls-dbg (0.29.6-3)
+    Detached symbols for libneon27 (GnuTLS enabled)
+libnes1-dbg (1.1.3-1)
+    Debugging symbols for the libnes driver
+libnet1-dbg (1.1.4-2.1)
+    debugging symbols for libnet
+libnet6-1.3-0-dbg (1:1.3.14-1)
+    Network access framework for IPv4/IPv6 - debugging symbols
+libnetcf1-dbg (0.1.9-2)
+    cross-platform network configuration library
+libnetfilter-conntrack3-dbg (1.0.1-1)
+    Debugging symbols for libnetfilter-conntrack3
+libnetfilter-cttimeout1-dbg (1.0.0-1)
+    fine-grain connection tracking timeout infrastructure for netfilter
+libnetfilter-log1-dbg (1.0.0-1)
+    Debugging symbols for libnetfilter-log1
+libnetfilter-queue1-dbg (0.0.17-1)
+    Debugging symbols for libnetfilter-queue1
+libnfnetlink0-dbg (1.0.0-1.1)
+    Debugging symbols for libnfnetlink0
+libnfo1-dbg (1.0.1-1)
+    debugging symbols for libnfo1
+libnice-dbg (0.1.2-1)
+    ICE library (debugging symbols)
+libnl-3-200-dbg (3.2.7-4)
+    debug symbols for libnl3
+libnpth0-dbg (0.90-2)
+    debugging symbols for libnpth0
+libnsbmp0-dbg (0.0.1-1.1)
+    NetSurf BMP decoder - Debug files
+libnsgif0-dbg (0.0.1-1.1)
+    NetSurf GIF decoder - Debugging symbols
+libnspr4-dbg (2:4.9.2-1+deb7u2)
+    Debugging symbols for the NetScape Portable Runtime library
+libnss3-dbg (2:3.14.5-1+deb7u4) [security]
+    Debugging symbols for the Network Security Service libraries
+libnuma-dbg (2.0.8~rc4-1)
+    Debug package for libnuma
+libnxml0-dbg (0.18.3-4)
+    C library for parsing, writing and creating xml 1.0/1.1 files or streams
+libobby-0.4-1-dbg (0.4.8-1)
+    Synced document buffers - debugging symbols
+libobjc3-dbg (4.6.3-14)
+    Runtime library for GNU Objective-C applications (debug symbols)
+libobjc4-dbg (4.7.2-5)
+    Runtime library for GNU Objective-C applications (debug symbols)
+libocas-dbg (0.93-1)
+    Debugging symbols for LIBOCAS
+libodbc-ruby1.8-dbg (0.99994-4)
+    Transitional package for ruby-odbc-dbg
+libodbc-ruby1.8-dbg
+    virtual package provided by ruby-odbc-dbg
+libodbc-ruby1.9.1-dbg (0.99994-4)
+    Transitional package for ruby-odbc-dbg
+libodbc-ruby1.9.1-dbg
+    virtual package provided by ruby-odbc-dbg
+libofx4-dbg (1:0.9.4-2.1)
+    debugging symbols for libofx4
+libogg-dbg (1.3.0-4)
+    debugging symbols for libogg
+liboggplay1-dbg (0.2.1~git20091227-1.2)
+    A library for playing OGG multimedia (debugging symbols)
+liboggz2-dbg (1.1.1-1)
+    convenience interface for Ogg stream I/O debugging symbols
+libogre-1.7.4-dbg (1.7.4+dfsg1-7)
+    3D Object-Oriented Graphics Rendering Engine (debugging libs)
+libogre-1.8.0-dbg (1.8.0+dfsg1-3)
+    3D Object-Oriented Graphics Rendering Engine (debugging libs)
+liboil0.3-dbg (0.3.17-2)
+    Library of Optimized Inner Loops (debug package)
+libomnievents-dbg (1:2.6.2-2)
+    omniORB event service debugging symbols
+libomniorb4-1-dbg (4.1.6-2)
+    omniORB core libraries debugging symbols
+libomnithread3c2-dbg (4.1.6-2)
+    C++ threading library debugging symbols
+libomxil-bellagio0-components-base-dbg (0.9.3-1+b1 [amd64, armel, i386, mips, mipsel, powerpc, s390, sparc], 0.9.3-1 [armhf, ia64, s390x])
+    components for Bellagio OpenMAX IL, debugging symbols
+libomxil-bellagio0-dbg (0.9.3-1+b1 [amd64, armel, i386, mips, mipsel, powerpc, s390, sparc], 0.9.3-1 [armhf, ia64, s390x])
+    implementation of OpenMAX IL, debugging symbols
+libonig2-dbg (5.9.1-1)
+    Debugging symbols for libonig2
+liboobs-1-5-dbg (3.0.0-1)
+    GObject based interface to system-tools-backends - debug symbols
+liboop-dbg (1.0-9)
+    Event loop management library - debug symbols
+libopal-dbg (3.10.4~dfsg-3)
+    OPAL library debug symbols
+libopencc-dbg (0.3.0-3)
+    simplified-traditional chinese conversion library - debug
+libopencore-amrnb0-dbg (0.1.3-2)
+    Adaptive Multi Rate speech codec - debugging symbols
+libopencore-amrwb0-dbg (0.1.3-2)
+    Adaptive Multi-Rate - Wideband speech codec - debugging symbols
+libopencsg1-dbg (1.3.2-2)
+    debugging symbols for libopencsg
+libopenct1-dbg (0.6.20-1.2+b1 [kfreebsd-amd64, kfreebsd-i386], 0.6.20-1.2 [amd64, armel, armhf, i386, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    middleware framework for smart card terminals (libraries)
+libopenigtlink1.9-dbg (1.9.2~svn7468-1)
+    debugging symbols for libopenigtlink1.9
+libopenjpeg2-dbg (1.3+dfsg-4.8)
+    debug symbols for libopenjpeg2, a JPEG 2000 image library
+libopenmpi-dbg (1.4.5-1)
+    high performance message passing library -- debug library
+libopenraw1-dbg (0.0.9-3+b1)
+    debugging symbols for libopenraw and libopenrawgnome
+libopenscap1-dbg (0.8.0-4+b1)
+    Set of libraries enabling integration of the SCAP line of standards
+libopentoken-dbg (4.0b-3)
+    OpenToken lexical analysis library for Ada (debug)
+libopenturns-dbg (1.0-4)
+    debug symbols for OpenTURNS
+libopenvg1-mesa-dbg (8.0.5-4+deb7u2)
+    free implementation of the OpenVG API -- debugging symbols
+libopus-dbg (0.9.14+20120615-1+nmu1)
+    debugging symbols for libopus
+liborc-0.4-0-dbg (1:0.4.16-2)
+    Library of Optimized Inner Loops Runtime Compiler (debug package)
+liboscpack-dbg (1.0.2-1+b1 [kfreebsd-amd64], 1.0.2-1 [amd64, armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    A C++ library for packing and unpacking OSC packets - debug symbols
+libosinfo-1.0-0-dbg (0.1.1-1)
+    libosinfo debugging information
+libosl1-dbg (0.5.0-1)
+    library for Shogi playing programs
+libosmgpsmap2-dbg (0.7.3-3)
+    GTK+ library to embed OpenStreetMap maps - debugging symbols
+libosptk3-dbg (3.4.2-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 3.4.2-1 [armhf, s390x])
+    OSP Toolkit symbol tables
+libotf0-dbg (0.9.12-2)
+    libotf libraries and debugging symbols
+libp11-2-dbg (0.2.8-2)
+    pkcs#11 convenience library - debugging symbols
+libpango1-ruby1.8-dbg (1.1.3-2)
+    Transitional package for ruby-pango-dbg
+libpango1.0-0-dbg (1.30.0-1)
+    Pango library and debugging symbols
+libpangomm-1.4-dbg (2.28.4-1)
+    C++ Wrapper for pango (debugging symbols)
+libpar2-0-dbg (0.2.1-1)
+    Debugging symbols for the libpar2-0 library
+libpari-dbg (2.5.1-2)
+    PARI/GP Computer Algebra System debugging symbols
+libparpack2-dbg (3.1.1-2.1)
+    Parallel subroutines to solve large scale eigenvalue problems (debug)
+libparted0debian1-dbg (2.3-12)
+    disk partition manipulator - debugging symbols
+libpcap0.8-dbg (1.3.0-1)
+    debugging symbols for libpcap0.8
+libpcre3-dbg (1:8.30-5)
+    Perl 5 Compatible Regular Expression Library - debug symbols
+libpcsclite-dbg (1.8.4-1+deb7u1)
+    Middleware to access a smart card using PC/SC (debugging symbols)
+libpetsc3.2-dbg (3.2.dfsg-6)
+    Static debugging libraries for PETSc
+libpgm-dbg (5.1.118-1~dfsg-0.1)
+    OpenPGM debugging symbols
+libphone-ui-20110825-dbg (1:0.0.1+git20110825-3)
+    SHR library for user interface (debug symbols)
+libphone-ui-shr-dbg (0.1+git20110827-3+b1)
+    SHR library for user interface, EFL backend (debug files)
+libphone-utils0-dbg (0.1+git20110523-2.1)
+    library for basic phone operations - debug symbols
+libphysfs1-dbg (2.0.2-6)
+    filesystem abstraction library for game programmers (debug symbols)
+libpigment-dbg (0.3.17-1)
+    User interfaces with embedded multimedia - with debug symbols
+libpinyin-dbg (0.6.91-1)
+    library to deal with PinYin - debug symbols
+libpion-common-4.0-dbg (4.0.7+dfsg-3.1)
+    lightweight HTTP interface library - common debug files
+libpion-net-4.0-dbg (4.0.7+dfsg-3.1)
+    lightweight HTTP interface library - debug files
+libpion-net-plugins-dbg (4.0.7+dfsg-3.1)
+    lightweight HTTP interface library - plugins debug files
+libpixman-1-0-dbg (0.26.0-4+deb7u1)
+    pixel-manipulation library for X and cairo (debugging symbols)
+libplayer2-dbg (2.0.1-2.1)
+    debugging symbols for libplayer2
+libplist-dbg (1.8-1)
+    Library for handling Apple binary and XML property lists
+libplotmm-dbg (0.1.2-2)
+    GTKmm plot widgets - debugging symbols
+libpococrypto9-dbg (1.3.6p1-4)
+    C++ Portable Components (POCO) Crypto library (debug version)
+libpocodata9-dbg (1.3.6p1-4)
+    C++ Portable Components (POCO) Data library (debug version)
+libpocofoundation9-dbg (1.3.6p1-4)
+    C++ Portable Components (POCO) Foundation library (debug version)
+libpocomysql9-dbg (1.3.6p1-4)
+    C++ Portable Components (POCO) MySQL library (debug version)
+libpoconet9-dbg (1.3.6p1-4)
+    C++ Portable Components (POCO) Network library (debug version)
+libpoconetssl9-dbg (1.3.6p1-4)
+    C++ Portable Components (POCO) Network library with SSL (debug version)
+libpocoodbc9-dbg (1.3.6p1-4)
+    C++ Portable Components (POCO) ODBC library (debug version)
+libpocosqlite9-dbg (1.3.6p1-4)
+    C++ Portable Components (POCO) SQLite library (debug version)
+libpocoutil9-dbg (1.3.6p1-4)
+    C++ Portable Components (POCO) Util library (debug version)
+libpocoxml9-dbg (1.3.6p1-4)
+    C++ Portable Components (POCO) XML library (debug version)
+libpocozip9-dbg (1.3.6p1-4)
+    C++ Portable Components (POCO) Zip library (debug version)
+libpolylib64-8-dbg (5.22.5-3+dfsg)
+    Debugging symbols for the long int version of PolyLib
+libpolyorb-dbg (2.8~20110207-5.1)
+    Multiple-personality middleware for Ada (debug)
+libpoppler-glib-ruby1.8-dbg (1.1.3-2)
+    Transitional package for ruby-poppler-dbg
+libpqxx-3.1-dbg (3.1-1.1)
+    C++ library to connect to PostgreSQL (debugging symbols)
+libprelude2-dbg (1.0.0-9)
+    Security Information Management System [ Debug symbols ]
+libpresage1-dbg (0.8.8-1)
+    intelligent predictive text entry platform (shared library debugging symbols)
+libprison-dbg (1.0+dfsg-1)
+    barcode API for Qt - debugging symbols
+libpst4-dbg (0.6.54-4.1)
+    debug symbols for libpst
+libpt-dbg (2.10.4~dfsg-1)
+    Portable Tools Library development debug files
+libptscotch-dbg (5.1.12b.dfsg-1.2+b1 [amd64], 5.1.12b.dfsg-1.2 [armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    MPI programs and libraries for graph, mesh and hypergraph partitioning
+libpugl-dbg (0~svn32+dfsg0-1)
+    portable API for OpenGL graphical interfaces (debugging symbols)
+libpulse-mainloop-glib0-dbg (2.0-6.1)
+    PulseAudio client libraries (glib support) (debugging symbols)
+libpulse0-dbg (2.0-6.1)
+    PulseAudio client libraries (debugging symbols)
+libqca2-dbg (2.0.3-4)
+    debug symbols for the Qt Cryptographic Architecture
+libqimageblitz-dbg (1:0.0.6-4)
+    debugging symbols for the QImageBlitz image effects library
+libqjson-dbg (0.7.1-7)
+    Qt-based library that maps JSON data to QVariant objects, debug info
+libqjson0-dbg (0.7.1-7)
+    trasitional dummy package for qjson's debugging symbols
+libqof2-dbg (0.8.6-1)
+    Query Object Framework - Debug Symbols
+libqofexpensesobjects1-dbg (0.1.9-2)
+    QOF expenses objects - debug support
+libqt4-dbg (4:4.8.2+dfsg-11)
+    Qt 4 library debugging symbols
+libqt4-designer-dbg (4:4.8.2+dfsg-11)
+    Qt 4 designer library debugging symbols
+libqt4-qt3support-dbg (4:4.8.2+dfsg-11)
+    Qt 3 compatibility library for Qt 4 debugging symbols
+libqt4-script-dbg (4:4.8.2+dfsg-11)
+    Qt 4 script library debugging symbols
+libqt4-xmlpatterns-dbg (4:4.8.2+dfsg-11)
+    Qt 4 XML patterns library debugging symbols
+libqtwebkit4-dbg (2.2.1-5)
+    Web content engine library for Qt - debugging symbols
+libquadmath0-dbg (4.7.2-5)
+    GCC Quad-Precision Math Library (debug symbols)
+libqzeitgeist-dbg (0.7.0-1+b1)
+    debugging symbols for libqzeitgeist
+librabbitmq-dbg (0.0.1.hg216-1)
+    An AMQP client library written in C - Debug Files
+libradare2-0.9-dbg (0.9-3)
+    debug symbols for libraries from radare suite
+librapi2-dbg (0.15-2.1)
+    Make RAPI calls to a Windows Mobile device, debug symbols
+libraptor1-dbg (1.4.21-7.1)
+    Raptor RDF parser and serializer library - debugging symbols
+libraptor2-0-dbg (2.0.8-2)
+    Raptor RDF parser and serializer library - debugging symbols
+librasqal3-dbg (0.9.29-1)
+    Rasqal RDF Query Library - debugging symbols
+librdmacm1-dbg (1.0.15-1+deb7u1)
+    Debugging symbols for the librdmacm library
+libreadline5-dbg (5.2+dfsg-2~deb7u1)
+    GNU readline and history libraries, debugging libraries
+libreadline6-dbg (6.2+dfsg-0.1)
+    GNU readline and history libraries, debugging libraries
+libreoffice-dbg (1:3.5.4+dfsg2-0+deb7u3 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1:3.5.4+dfsg2-0+deb7u2 [ia64]) [security]
+    office productivity suite -- debug symbols
+librep-dbg (0.90.2-1.3)
+    debug symbols for librep
+librest-0.7-0-dbg (0.7.12-3)
+    REST service access library (Debug files)
+librhash0-dbg (1.2.9-8+deb7u1)
+    debugging symbols for librhash
+librostlab-blast0-dbg (1.0.0-2)
+    debugging symbols for librostlab-blast
+librostlab3-dbg (1.0.20-1)
+    debugging symbols for librostlab
+librpm-dbg (4.10.0-5+deb7u2) [security]
+    debugging symbols for RPM
+librra-dbg (0.14-1.2)
+    Library for synchronisation with Windows Mobile devices: debug symbols
+librsskit0-dbg (0.3-2)
+    GNUstep RSS framework (debugging symbols)
+librsvg2-dbg (2.36.1-2)
+    SAX-based renderer library for SVG files (debug)
+librsvg2-ruby1.8-dbg (1.1.3-2)
+    Transitional package for ruby-rsvg2-dbg
+librsvg2-ruby1.8-dbg
+    virtual package provided by ruby-rsvg2-dbg
+librsync-dbg (0.9.7-9)
+    rsync remote-delta algorithm library (debug)
+librtaudio-dbg (4.0.10~ds0-2)
+    C++ library for realtime audio input/ouput (debugging symbols)
+librtfcomp-dbg (1.1-5+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.1-5 [armhf, s390x])
+    Library to read compressed RTF files (debugging symbols)
+librtfilter1-dbg (1.1-4)
+    realtime digital filtering library (debugging symbols)
+librtmidi-dbg (1.0.15~ds0-2)
+    C++ library for realtime MIDI input/ouput (debugging symbols)
+libruby1.9.1-dbg (1.9.3.194-8.1+deb7u3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, s390, s390x], 1.9.3.194-8.1+deb7u2 [armhf, mips, mipsel, powerpc, sparc]) [security]
+    Debugging symbols for Ruby 1.9.1
+librxtx-java-dbg (2.2pre2-11)
+    Full Java CommAPI implementation, Debugging Symbols
+libsane-dbg (1.0.22-7.4)
+    API development library for scanners [debug symbols]
+libsane-extras-dbg (1.0.22.2)
+    API library for scanners -- extra backends [debug symbols]
+libscotch-dbg (5.1.12b.dfsg-1.2+b1 [amd64], 5.1.12b.dfsg-1.2 [armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    programs and libraries for graph, mesh and hypergraph partitioning
+libsdl1.2-dbg (1.2.15-5)
+    Simple DirectMedia Layer debug files
+libserf1-dbg (1.1.0-2)
+    high-performance asynchronous HTTP client library debugging symbols
+libsfml1.6-dbg (1.6+dfsg2-2)
+    Simple and fast cross-platform multimedia library - debug symbols
+libshr-glib-dbg (2011.03.08.2~git20110930-2)
+    debugging symbols for use with libshr-glib0
+libsidplayfp-dbg (0.3.5-1)
+    library to play Commodore 64 music based on libsidplay2 (detached symbols)
+libsipwitch1-dbg (1.2.4-1)
+    secure peer-to-peer SIP VoIP server - development files
+libskk-dbg (0.0.12-3)
+    library to deal with Japanese kana-kanji conversion method - debugging symbols
+libskstream-0.3-6-dbg (0.3.8-1)
+    iostream-based C++ socket library - debugging symbols
+libslepc3.2-dbg (3.2-p5-1)
+    Scalable Library for Eigenvalue Problem Computations
+libsm6-dbg (2:1.2.1-2)
+    X11 Session Management library (debug package)
+libsmi2-dbg (0.4.8+dfsg2-7)
+    library to access SMI MIB information - debugging symbols
+libsmokekde4-dbg (4:4.8.4-1)
+    KDE SMOKE libraries -- debug symbols
+libsmokeqt4-dbg (4:4.8.4-1)
+    Qt SMOKE libraries debug symbols
+libsnmp15-dbg (5.4.3~dfsg-2.8+deb7u1)
+    SNMP (Simple Network Management Protocol) library debug
+libsocialweb-client2-dbg (0.25.20-2.1)
+    client library to access socialweb server (debug symbols)
+libsocialweb0-dbg (0.25.20-2.1)
+    socialweb library to fetch data from social service (debug symbols)
+libsoil1-dbg (1.07~20080707.dfsg-2)
+    Simple OpenGL Image Library - debug files
+libsope1-dbg (1.3.16-1)
+    SKYRiX Object Publishing Environment (debugging symbols)
+libsoprano-dbg (2.7.6+dfsg.1-2wheezy1)
+    debugging symbols for the Soprano RDF framework
+libsoundgen-dbg (0.6-4)
+    GPE sound generator library (debug symbols)
+libsoundtouch0-dbg (1.6.0-3)
+    Debugging symbols for the sound stretching library
+libsoup2.4-dbg (2.38.1-3)
+    HTTP library implementation in C -- debugging symbols
+libspectre1-dbg (0.2.7-2)
+    Debugging symbols for libspectre
+libspeex-dbg (1.2~rc1-7)
+    debugging symbols for libspeex and libspeexdsp
+libspf2-2-dbg (1.2.9-7)
+    library for validating mail senders with SPF (debugging symbols)
+libspiro0-dbg (20071029-2)
+    a library for curve design (debugging symbols)
+libsqlheavy0.1-dbg (0.1.1-1)
+    GObject wrapper for SQLite (debugging symbols)
+libsqlite3-0-dbg (3.7.13-1+deb7u1)
+    SQLite 3 debugging symbols
+libsrecord0-dbg (1.58-1+b1)
+    library for manipulating EPROM load files (debugging symbols)
+libss7-dbg (1.0.2-3)
+    Signalling System 7 (ss7) debugging symbols
+libssh-dbg (0.5.4-1+deb7u1)
+    tiny C SSH library. Debug symbols
+libssl1.0.0-dbg (1.0.1e-2+deb7u16) [security]
+    Symbol tables for libssl and libcrypto
+libstdc++6-4.4-dbg (4.4.7-2)
+    GNU Standard C++ Library v3 (debugging files)
+libstdc++6-4.6-dbg (4.6.3-14)
+    GNU Standard C++ Library v3 (debugging files)
+libstdc++6-4.7-dbg (4.7.2-5)
+    GNU Standard C++ Library v3 (debugging files)
+libstemmer0d-dbg (0+svn546-2)
+    Snowball stemming algorithms, debugging symbols
+libstxxl1-dbg (1.3.1-4)
+    Debugging symbols for STXXL libraries
+libsugarext-dbg (0.96.1-2)
+    GTK3-based Sugar toolkit - debugging symbols
+libsuitesparse-dbg (1:3.4.0-3)
+    libraries for sparse matrices computations (debugging symbols)
+libsuitesparse-metis-dbg (3.1.0-2) [contrib]
+    collection of libraries for computations for sparse matrices
+libsunpinyin3-dbg (2.0.3+git20120607-1)
+    Simplified Chinese Input Method from SUN (debug)
+libsvrcore0-dbg (1:4.0.4-15)
+    Debug files for Netscape's secure PIN storage library
+libsword-dbg (1.6.2+dfsg-5)
+    API/library for bible software - Debug Files
+libsyfi1.0-dbg (1.0.0.dfsg-1)
+    Finite element method (FEM) C++ library - debugging libraries
+libsynce-dbg (0.15-1.1)
+    Helper library to sync Windows Mobile devices (debug symbols)
+libsyncml2-dbg (0.5.4-2.1)
+    Debug symbols for libsyncml2
+libsynthesis-dbg (3.4.0.16.7-1)
+    library for SyncML-DS (SyncML Data Sync) clients (debugging symbols)
+libsysactivity1-dbg (0.6.4-1)
+    Retrieves statistics of the system's activity (debug package)
+libt1-5-dbg (5.1.2-3.6)
+    Type 1 font rasterizer library - debugging runtime
+libtalloc2-dbg (2.0.7+git20120207-1)
+    hierarchical pool based memory allocator - debug symbols
+libtango7-dbg (7.2.6+dfsg-14)
+    TANGO distributed control system - debug library
+libtarantool1-dbg (1.4.6+20120629+2158-1)
+    high performance key/value storage server
+libtarantoolnet1-dbg (1.4.6+20120629+2158-1)
+    high performance key/value storage server
+libtarantoolrpl1-dbg (1.4.6+20120629+2158-1)
+    high performance key/value storage server
+libtarantoolsql1-dbg (1.4.6+20120629+2158-1)
+    high performance key/value storage server
+libtasn1-3-dbg (2.13-2+deb7u1)
+    Manage ASN.1 structures (debugging symbols)
+libtbb2-dbg (4.0+r233-1)
+    parallelism library for C++ - debugging symbols
+libtcmalloc-minimal4-dbg (2.0-2)
+    efficient thread-caching malloc
+libtdb1-dbg (1.2.10-2)
+    Trivial Database - debug symbols
+libteem2-dbg (1.11.0~svn5226-1)
+    debugging symbols for libteem2
+libtelepathy-farstream2-dbg (0.4.0-3)
+    Glue library between telepathy and farstream (debug symbols)
+libtelepathy-glib0-dbg (0.18.2-2)
+    GLib Telepathy library (debug symbols)
+libtelepathy-logger-qt4-1-dbg (0.4.0-1)
+    Qt bindings for the telepathy-logger library - debug symbols
+libtelepathy-logger2-dbg (0.4.0-1)
+    Telepathy logger service -- debug symbols
+libtelepathy-qt4-dbg (0.9.1-4)
+    Qt 4 Telepathy library (debug symbols)
+libtemplates-parser11.6-dbg (11.6-2)
+    Ada library to parse files and replace variables with their values
+libtevent0-dbg (0.9.16-1)
+    talloc-based event loop library - debug symbols
+libtheora-dbg (1.1.1+dfsg.1-3.1)
+    The Theora Video Compression Codec (debug)
+libthunar-vfs-1-2-dbg (1.2.0-3+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.2.0-3 [armhf, s390x])
+    debugging informations for thunar-vfs
+libtinfo5-dbg (5.9-10)
+    debugging/profiling library for the low-level terminfo library
+libtinyxml2.6.2-dbg (2.6.2-1)
+    TinyXml library - debug files
+libtododb0-dbg (0.11-3)
+    library that provides access to gpe-todo's database [debugging]
+libtokyocabinet-dbg (1.4.47-2)
+    Tokyo Cabinet Database Libraries [debug]
+libtorrent-rasterbar-dbg (0.15.10-1+b1)
+    Debug symbols for libtorrent-rasterbar
+libtotem-plparser-dbg (3.4.2-1)
+    Totem Playlist Parser library - debugging symbols
+libts-0.0-0-dbg (1.0-11)
+    touch screen library debug symbols
+libtsk3-3-dbg (3.2.3-2)
+    library for forensics analysis (debug symbols)
+libtumbler-1-dbg (0.1.25-1+b1)
+    library for tumbler, a D-Bus thumbnailing service (debug)
+libtuxcap4.0-dbg (1.4.0.dfsg2-2.1)
+    framework for developing 2D games - debugging symbols
+libucommon5-dbg (5.2.2-4)
+    lightweight C++ threading and sockets - debugging symbols
+libupnp4-dbg (1.8.0~svn20100507-1.2)
+    debugging symbols for libupnp4
+libupnp6-dbg (1:1.6.17-1.2)
+    debugging symbols for libupnp6
+liburfkill-glib0-dbg (0.3.0-1)
+    wireless killswitch management library (debug symbols)
+libusbmuxd1-dbg (1.0.7-2+b1 [kfreebsd-amd64, kfreebsd-i386], 1.0.7-2 [amd64, armel, armhf, i386, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    USB multiplexor daemon for iPhone and iPod Touch devices - debug
+libustr-1.0-1-dbg (1.0.4-3)
+    Micro string library: debugging symbols
+libv8-dbg (3.8.9.20-2)
+    v8 JavaScript engine - debugging symbols
+libv8-i18n0.0.0-dbg (0~0.svn7-3)
+    Native internationalization extension for libv8 - debugging symbols
+libva-intel-vaapi-driver-dbg (1.0.17-1)
+    VAAPI driver for Intel G45 & HD Graphics family (transitional package)
+libva-intel-vaapi-driver-dbg
+    virtual package provided by i965-va-driver-dbg
+libvala-0.14-0-dbg (0.14.2-2)
+    C# like language for the GObject system - library symbols
+libvala-0.16-0-dbg (0.16.1-2)
+    C# like language for the GObject system - library symbols
+libvalhalla2-dbg (2.0.0-4+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 2.0.0-4 [armhf, s390x])
+    debugging symbols for libvalhalla2
+libvarconf-1.0-7-dbg (0.6.7-2)
+    WorldForge configuration file handling library - debugging libraries
+libvdk2-dbg (2.4.0-5.3)
+    debugging static library for the VDK C++ library version 2
+libvibrant6a-dbg (6.1.20120620-2)
+    NCBI libraries for graphic biology applications (unstripped)
+libview2-dbg (0.6.6-2.1)
+    VMware's Incredibly Exciting Widgets
+libvirt-glib-1.0-0-dbg (0.0.8-1)
+    libvirt glib mainloop integration
+libvirt0-dbg (0.9.12.3-1+deb7u1)
+    library for interfacing with different virtualization systems
+libvncserver0-dbg (0.9.9+dfsg-1+deb7u1)
+    debugging symbols for libvncserver
+libvorbis-dbg (1.3.2-1.3)
+    The Vorbis General Audio Compression Codec (debug files)
+libvpb-dbg (4.2.55-1)
+    debugging symbols for libvpb and vpb-utils
+libvpx1-dbg (1.1.0-1)
+    VP8 video codec (debugging symbols)
+libvte-ruby1.8-dbg (1.1.3-2)
+    Transitional package for ruby-vte-dbg
+libwacom2-dbg (0.6-1)
+    Wacom model feature query library (debug files)
+libwayland0-dbg (0.85.0-2)
+    wayland compositor infrastructure - shared libraries (debug)
+libwbxml2-0-dbg (0.10.7-1)
+    WBXML library development file
+libwebcam0-dbg (0.2.2-1)
+    Debug Symbols for the Webcam Library
+libwebkitgtk-1.0-0-dbg (1.8.1-3.4)
+    Web content engine library for GTK+ - Debugging symbols
+libwebkitgtk-3.0-0-dbg (1.8.1-3.4)
+    Web content engine library for GTK+ - Debugging symbols
+libweed-dbg (1.6.2~ds1-2)
+    library for inclusion of plugins into LiVES - debugging symbols
+libwfmath-0.3-6-dbg (0.3.12-3)
+    WorldForge math library - debugging library
+libwfut-0.2-1-dbg (0.2.1-2)
+    WorldForge Update Tool (debugging libs)
+libwine-dbg (1.4.1-4)
+    Windows API implementation - debugging symbols
+libwt-dbg (3.2.1-2+deb7u1)
+    C++ library and application server for web applications [debug]
+libwxbase2.8-dbg (2.8.12.1-12)
+    wxBase library (debug) - non-GUI support classes of wxWidgets toolkit
+libwxgtk2.8-dbg (2.8.12.1-12)
+    wxWidgets Cross-platform C++ GUI toolkit (GTK+ debug)
+libwxsvg-dbg (2:1.1.8~dfsg0-2)
+    Debugging symbols for wxSVG
+libx11-6-dbg (2:1.5.0-1+deb7u1)
+    X11 client-side library (debug package)
+libx11-xcb1-dbg (2:1.5.0-1+deb7u1)
+    Xlib/XCB interface library (debug package)
+libx86-dbg (1.1+ds1-10)
+    x86 real-mode library - debugging symbols
+libxapian22-dbg (1.2.12-2)
+    Debugging symbols for the Xapian Search engine library
+libxatracker1-dbg (8.0.5-4+deb7u2)
+    X acceleration library -- debugging symbols
+libxau6-dbg (1:1.0.7-1)
+    X11 authorisation library (debug package)
+libxaw7-dbg (2:1.0.10-2)
+    X11 Athena Widget library (debug package)
+libxcb-composite0-dbg (1.8.1-2+deb7u1)
+    X C Binding, composite extension, debugging symbols
+libxcb-damage0-dbg (1.8.1-2+deb7u1)
+    X C Binding, damage extension, debugging symbols
+libxcb-dpms0-dbg (1.8.1-2+deb7u1)
+    X C Binding, dpms extension, debugging symbols
+libxcb-dri2-0-dbg (1.8.1-2+deb7u1)
+    X C Binding, dri2 extension, debugging symbols
+libxcb-glx0-dbg (1.8.1-2+deb7u1)
+    X C Binding, glx extension, debugging symbols
+libxcb-randr0-dbg (1.8.1-2+deb7u1)
+    X C Binding, randr extension, debugging symbols
+libxcb-record0-dbg (1.8.1-2+deb7u1)
+    X C Binding, record extension, debugging symbols
+libxcb-render0-dbg (1.8.1-2+deb7u1)
+    X C Binding, render extension, debugging symbols
+libxcb-res0-dbg (1.8.1-2+deb7u1)
+    X C Binding, res extension, debugging symbols
+libxcb-screensaver0-dbg (1.8.1-2+deb7u1)
+    X C Binding, screensaver extension, debugging symbols
+libxcb-shape0-dbg (1.8.1-2+deb7u1)
+    X C Binding, shape extension, debugging symbols
+libxcb-shm0-dbg (1.8.1-2+deb7u1)
+    X C Binding, shm extension, debugging symbols
+libxcb-sync0-dbg (1.8.1-2+deb7u1)
+    X C Binding, sync extension, debugging symbols
+libxcb-xevie0-dbg (1.8.1-2+deb7u1)
+    X C Binding, xevie extension, debugging symbols
+libxcb-xf86dri0-dbg (1.8.1-2+deb7u1)
+    X C Binding, xf86dri extension, debugging symbols
+libxcb-xfixes0-dbg (1.8.1-2+deb7u1)
+    X C Binding, xfixes extension, debugging symbols
+libxcb-xinerama0-dbg (1.8.1-2+deb7u1)
+    X C Binding, xinerama extension, debugging symbols
+libxcb-xprint0-dbg (1.8.1-2+deb7u1)
+    X C Binding, xprint extension, debugging symbols
+libxcb-xtest0-dbg (1.8.1-2+deb7u1)
+    X C Binding, xtest extension, debugging symbols
+libxcb-xv0-dbg (1.8.1-2+deb7u1)
+    X C Binding, xv extension, debugging symbols
+libxcb-xvmc0-dbg (1.8.1-2+deb7u1)
+    X C Binding, xvmc extension, debugging symbols
+libxcb1-dbg (1.8.1-2+deb7u1)
+    X C Binding, debugging symbols
+libxcomposite1-dbg (1:0.4.3-2+b1 [armhf], 1:0.4.3-2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    X11 Composite extension library (debug package)
+libxcursor1-dbg (1:1.1.13-1+deb7u1)
+    X cursor management library (unstripped)
+libxdamage1-dbg (1:1.1.3-2+b1 [armhf], 1:1.1.3-2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    X11 damaged region extension library (debug package)
+libxdffileio0-dbg (0.3-1)
+    Library to read/write EEG data file formats (debugging symbols)
+libxdg-basedir1-dbg (1.1.1-2)
+    Implementation of the XDG Base Directory Specifications (debugging symbols)
+libxdmcp6-dbg (1:1.1.1-1)
+    X11 authorisation library (debug package)
+libxext6-dbg (2:1.3.1-2+deb7u1)
+    X11 miscellaneous extensions library (debug package)
+libxfce4menu-0.1-dbg (4.6.2-1)
+    debugging symbols for libxfce4menu
+libxfce4ui-1-dbg (4.8.1-1)
+    debugging symbols for libxfce4ui
+libxfce4util4-dbg (4.8.2-1)
+    debugging informations for libxfce4util4
+libxfcegui4-4-dbg (4.8.1-5)
+    debugging informations for libxfcegui4
+libxfconf-0-2-dbg (4.8.1-1)
+    debugging informations for libxfconf
+libxfixes3-dbg (1:5.0-4+deb7u1)
+    X11 miscellaneous 'fixes' extension library (debug package)
+libxft2-dbg (2.3.1-1)
+    FreeType-based font drawing library for X (unstripped)
+libxi6-dbg (2:1.6.1-1+deb7u1)
+    X11 Input extension library (debug package)
+libxine1-dbg (1.1.21-1+deb7u1)
+    debug symbols for libxine1
+libxine2-dbg (1.2.2-5)
+    debug symbols for libxine2
+libxinerama1-dbg (2:1.1.2-1+deb7u1)
+    X11 Xinerama extension library (debug package)
+libxkbfile1-dbg (1:1.0.8-1)
+    X11 keyboard file manipulation library (debug package)
+libxml++2.6-dbg (2.34.2-1)
+    C++ interface to the GNOME XML library (debug symbols)
+libxml2-utils-dbg (2.8.0+dfsg1-7+wheezy3) [security]
+    XML utilities (debug extension)
+libxmlada4.1-dbg (4.1-2)
+    XML/Ada, a full XML suite for Ada programmers (debugging symbols)
+libxmlezout-dbg (1.06.1-5)
+    Easy-to-use library for emitting XML from Ada programs, dbg symbols
+libxmlrpc-epi0-dbg (0.54.2-1)
+    Debug symbols for libxmlrpc-epi0, a XML-RPC request library
+libxmu6-dbg (2:1.1.1-1)
+    X11 miscellaneous utility library (debug package)
+libxmuu1-dbg (2:1.1.1-1)
+    X11 miscellaneous micro-utility library (debug package)
+libxnee-dbg (3.13-1)
+    X event recorder/replayer - debugging symbols
+libxp6-dbg (1:1.0.1-2+deb7u1)
+    X Printing Extension (Xprint) client library (unstripped)
+libxpm4-dbg (1:3.5.10-1)
+    X11 pixmap library (debug package)
+libxr1-dbg (1.0-2.1)
+    SSL-capable XML-RPC implementation - debug symbols
+libxrandr2-dbg (2:1.3.2-2+deb7u1)
+    X11 RandR extension library (debug package)
+libxrender1-dbg (1:0.9.7-1+deb7u1)
+    X Rendering Extension client library (unstripped)
+libxres1-dbg (2:1.0.6-1+deb7u1)
+    X11 Resource extension library (debug package)
+libxsettings-client0-dbg (0.17-6)
+    utility functions for the Xsettings protocol (Debug symbols)
+libxsettings0-dbg (0.11-3)
+    Xsettings protocol (development files)
+libxslt1-dbg (1.1.26-14.1)
+    XSLT 1.0 processing library - debugging symbols
+libxss1-dbg (1:1.2.2-1)
+    X11 Screen Saver extension library (debug package)
+libxt6-dbg (1:1.1.3-1+deb7u1)
+    X11 toolkit intrinsics library (debug package)
+libxtst6-dbg (2:1.2.1-1+deb7u1)
+    X11 Record extension library (debug package)
+libxv1-dbg (2:1.0.7-1+deb7u1)
+    X11 Video extension library (debug package)
+libxvmc1-dbg (2:1.0.7-1+deb7u2)
+    X11 Video extension library (debug package)
+libxxf86dga1-dbg (2:1.1.3-2+deb7u1)
+    X11 Direct Graphics Access extension library (debug package)
+libxxf86vm1-dbg (1:1.1.2-1+deb7u1)
+    X11 XFree86 video mode extension library (debug package)
+libyajl2-dbg (2.0.4-2)
+    Yet Another JSON Library - debugging symbols
+libyaml-0-2-dbg (0.1.4-2+deb7u5)
+    Fast YAML 1.1 parser and emitter library (debugging symbols)
+libzeitgeist-1.0-1-dbg (0.3.18-1)
+    library to access Zeitgeist - debugging symbols
+libzerg0-dbg (1.0.7-3)
+    debugging symbols for libzerg
+libzeroc-ice34-dbg (3.4.2-8.2)
+    Ice for C++ debugging symbols
+libzinnia0-dbg (0.06-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.06-1 [armhf, s390x])
+    debugging symbols for the zinnia library
+libzmq-dbg (2.2.0+dfsg-2)
+    lightweight messaging kernel (debugging symbols)
+libzorpll3.9-1-dbg (3.9.1.3-1+b1 [armel, armhf, mips, mipsel, powerpc, s390, sparc], 3.9.1.3-1 [amd64, i386, ia64, kfreebsd-amd64, kfreebsd-i386, s390x])
+    Zorp low-level functions - debugging version
+libzorpll3.9-1-memtrace (3.9.1.3-1+b1 [armel, armhf, mips, mipsel, powerpc, s390, sparc], 3.9.1.3-1 [amd64, i386, ia64, kfreebsd-amd64, kfreebsd-i386, s390x])
+    Zorp low-level functions - memory debugging version
+liferea-dbg (1.8.6-1.1)
+    liferea debug symbols
+lightspark-dbg (0.6.0.1-2)
+    High-performance SWF player (experimental) - Debug symbols
+link-monitor-applet-dbg (3.0-8)
+    GNOME Panel Applet with bar graph of round-trip times to hosts
+linphone-dbg (3.5.2-10)
+    Debugging symbols for linphone and its libraries
+linux-image-3.2.0-4-686-pae-dbg (3.2.65-1+deb7u2) [security]
+    Debugging symbols for Linux 3.2.0-4-686-pae
+linux-image-3.2.0-4-amd64-dbg (3.2.65-1+deb7u2) [security]
+    Debugging symbols for Linux 3.2.0-4-amd64
+linux-image-3.2.0-4-rt-686-pae-dbg (3.2.65-1+deb7u2) [security]
+    Debugging symbols for Linux 3.2.0-4-rt-686-pae
+linux-image-3.2.0-4-rt-amd64-dbg (3.2.65-1+deb7u2) [security]
+    Debugging symbols for Linux 3.2.0-4-rt-amd64
+linux-image-3.2.0-4-s390x-dbg (3.2.65-1+deb7u2) [security]
+    Debugging symbols for Linux 3.2.0-4-s390x
+lives-dbg (1.6.2~ds1-2)
+    Debugging symbols for LiVES
+logfs-tools-dbg (20110927-1)
+    Tools to manage logfs filesystems (debug)
+love-dbg (0.8.0-1+deb7u1)
+    2D game development framework - debugging symbols
+lua-lgi-dbg (0.6.2-1)
+    Lua bridge to GObject based libraries
+lunzip-dbg (1.1-2)
+    data compressor based on the LZMA algorithm (uncompressor debug)
+lxappearance-dbg (0.5.2-1)
+    LXDE GTK+ theme switcher (debug)
+lxappearance-obconf-dbg (0.2.0-4)
+    LXDE GTK+ theme switcher (plugin - debug)
+lxc-dbg (0.8.0~rc1-8+deb7u2)
+    Linux Containers userspace tools (debug)
+lxinput-dbg (0.3.2-1)
+    LXDE keyboard and mouse configuration (debug)
+lxlauncher-dbg (0.2.2-3)
+    LXDE launcher for netbooks (debug)
+lxpanel-dbg (0.5.10-1)
+    LXDE panel (debug)
+lxpolkit-dbg (0.1.0-4)
+    LXDE PolicyKit authentication agent (debug)
+lxrandr-dbg (0.1.2-3)
+    LXDE monitor configuration tool (debug)
+lxsession-dbg (0.4.6.1-4)
+    LXDE default session manager (debug)
+lxsession-edit-dbg (0.2.0-3)
+    LXDE application session editor (debug)
+lxshortcut-dbg (0.1.2-3)
+    LXDE application shortcut editor (debug)
+lxtask-dbg (0.1.4-3)
+    LXDE task manager (debug)
+lxterminal-dbg (0.1.11-4)
+    LXDE terminal emulator (debug)
+lyx-dbg (2.0.3-3)
+    debugging symbols for LyX
+lzip-dbg (1.13-3)
+    lossless data compressor based on the LZMA algorithm
+lziprecover-dbg (1.13-2)
+    lossless data compressor based on the LZMA algorithm
+mailutils-dbg (1:2.99.97-3)
+    Debugging symbols for GNU mailutils
+mana-dbg (0.6.1-2)
+    opensource 2D MMORPG platform client (debugging symbols)
+marble-dbg (4:4.8.4-3)
+    debugging symbols for the KDE education module
+massxpert-dbg (3.2.3-1)
+    linear polymer mass spectrometry software - debugging symbols
+mc-dbg (3:4.8.3-10)
+    Midnight Commander - a powerful file manager - debug package
+mdbtools-dbg (0.7-1+deb7u1)
+    Debug symbols for MDB Tools
+mediatomb-dbg (0.12.1-4+b1)
+    UPnP MediaServer (debug package)
+megaglest-dbg (3.6.0.3-1.2)
+    debug files for MegaGlest
+midori-dbg (0.4.3+dfsg-0.1)
+    fast, lightweight graphical web browser (debug symbols)
+minbif-dbg (1:1.0.5+git20120508-2.1)
+    IRC-to-other-IM-networks gateway using Pidgin library (dbg)
+minetest-dbg (0.3.1+dfsg-4)
+    InfiniMiner/Minecraft-inspired open game world debugging symbols
+mit-scheme-dbg (9.1-1)
+    MIT/GNU Scheme debugging files
+modemmanager-dbg (0.5.2.0-2)
+    D-Bus service for managing modems - debugging symbols
+monkeystudio-dbg (1.9.0.2-2)
+    Qt 4 Integrated Development Environment (IDE) - debug symbols
+mono-basic-dbg (2.10-2)
+    Mono Visual Basic, debugging symbols
+mono-runtime-dbg (2.10.8.1-8+deb7u1) [security]
+    Mono runtime, debugging symbols
+mp4v2-dbg (2.0.0~dfsg0-1)
+    library to read, create, and modify mp4 files (debug)
+mpd-dbg (0.16.7-2+b1 [amd64, armel, armhf, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.16.7-2 [i386])
+    Music Player Daemon debugging symbols
+mpdscribble-dbg (0.22-3)
+    Last.fm reporting client for mpd - debugger symbols
+mplayer2-dbg (2.0-554-gf63dbad-1+b1)
+    Debugging symbols for mplayer2
+mrbayes-dbg (3.2.1+dfsg-1)
+    Bayesian Inference of Phylogeny - debug symbols
+msn-pecan-dbg (0.1.3-1)
+    debugging symbols for msn-pecan
+mudita24-dbg (1.0.3+svn13-4)
+    Debugging symbols for mudita24
+multipath-tools-dbg (0.4.9+git0.4dfdaf2b-7~deb7u2)
+    maintain multipath block device access - debugging symbols
+mumble-dbg (1.2.3-349-g315b5f5-2.2+deb7u2)
+    Low latency VoIP client (debugging symbols)
+mupen64plus-audio-sdl-dbg (1.99.5-2)
+    sdl audio output plugin for mupen64plus debug symbols package
+mupen64plus-input-sdl-dbg (1.99.5-2)
+    sdl input device plugin for mupen64plus debug symbols package
+mupen64plus-rsp-hle-dbg (1.99.5-3)
+    high-level rsp emulation for mupen64plus debug symbols package
+mupen64plus-rsp-z64-dbg (1.99.4+31+1374ffc147ad-4)
+    low-level rsp emulation for mupen64plus debug symbols package
+mupen64plus-ui-console-dbg (1.99.5-3)
+    console frontend for mupen64plus debug symbols package
+mupen64plus-video-arachnoid-dbg (1.99.4+39+ada2d63714fd-3)
+    Arachnoid graphics hle for mupen64plus debug symbols package
+mupen64plus-video-glide64-dbg (1.99.4+37+a1c35b79de0d-3)
+    Glide64 graphics hle for mupen64plus debug symbols package
+mupen64plus-video-rice-dbg (1.99.5-3)
+    Rice's graphics hle for mupen64plus debug symbols package
+mupen64plus-video-z64-dbg (1.99.4+30+daa3f1b2fe76-3)
+    low-level rdp emulation for mupen64plus debug symbols package
+muroard-dbg (0.1.10-2)
+    minimalist RoarAudio sound daemon (debugging symbols)
+mutt-dbg (1.5.21-6.2+deb7u3)
+    debugging symbols for mutt
+mutter-dbg (3.4.1-5)
+    Debugging symbols for the Mutter window manager
+myproxy-dbg (5.6-1)
+    Credential Management Service Debug Symbols
+nagios3-dbg (3.4.1-3+deb7u1)
+    debugging symbols and debug stuff for nagios3
+nam-dbg (1.15-1)
+    debug symboles of nam
+nautilus-dbg (3.4.2-1+build1)
+    file manager and graphical shell for GNOME - debugging version
+nedit-dbg (1:5.6~cvs20081118-7)
+    debugging symbols for nedit
+netcdf-dbg (1:4.1.3-6+b1 [amd64, i386, kfreebsd-amd64, kfreebsd-i386], 1:4.1.3-6 [armel, armhf, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    debugging symbols for NetCDF
+netcdf-ruby1.8-dbg (0.6.6-1)
+    Transitional package for ruby-netcdf-dbg
+netcdf-ruby1.9.1-dbg (0.6.6-1)
+    Transitional package for ruby-netcdf-dbg
+netdiscover-dbg (0.3beta6+20080409-5)
+    active/passive network address scanner using arp requests (debug)
+netpanzer-dbg (0.8.4.debian.1-1.1)
+    debugging symbols for netpanzer
+nettle-dbg (2.4-3)
+    low level cryptographic library (debugging symbols)
+network-manager-dbg (0.9.4.0-10)
+    network management framework (debugging symbols)
+neverball-dbg (1.5.4-5)
+    debugging information for Neverball and Neverputt
+nfdump-dbg (1.6.6-1)
+    netflow capture daemon tools compiled with debugging symbols
+nginx-extras-dbg (1.2.1-2.2+wheezy3)
+    nginx web/proxy server (extended version) - debugging symbols
+nginx-full-dbg (1.2.1-2.2+wheezy3)
+    nginx web/proxy server (standard version) - debugging symbols
+nginx-light-dbg (1.2.1-2.2+wheezy3)
+    nginx web/proxy server (basic version) - debugging symbols
+nginx-naxsi-dbg (1.2.1-2.2+wheezy3)
+    nginx web/proxy server (version with naxsi) - debugging symbols
+nilfs-tools-dbg (2.1.3-1)
+    Continuous Snapshotting Log-structured Filesystem (debug)
+ns2-dbg (2.35+dfsg-1)
+    debug symbols of ns2
+ntfs-3g-dbg (1:2012.1.15AR.5-2.1)
+    read/write NTFS driver for FUSE (debug)
+ntop-dbg (3:4.99.3+ndpi5517+dfsg3-1)
+    display network usage in web browser (debug symbols)
+oath-dbg (1.12.4-1)
+    OATH Toolkit debugging symbols
+octave-dbg (3.6.2-5+deb7u1)
+    Debug symbols for octave
+odbc-postgresql-dbg (1:09.01.0100-1+deb7u1)
+    ODBC driver for PostgreSQL - debug symbols
+ofono-dbg (1.6-2)
+    Mobile telephony stack (debugging files)
+oggvideotools-dbg (0.8a-1)
+    A toolbox for manipulating and creating Ogg video files (debug symbols)
+okular-dbg (4:4.8.4-3+b1 [amd64], 4:4.8.4-3 [armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    debugging symbols for okular
+open-vm-tools-dbg (2:8.8.0+2012.05.21-724730-1+nmu2)
+    tools and components for VMware guest systems (debug)
+openafs-dbg (1.6.1-3+deb7u2)
+    AFS distributed filesystem debugging information
+openais-dbg (1.1.4-4.1)
+    Standards-based cluster framework (daemon and modules)
+openarena-dbg (0.8.8-5+deb7u2)
+    debug symbols for OpenArena's game logic
+opencryptoki-dbg (2.3.1+dfsg-3)
+    PKCS#11 implementation (debug)
+opendnssec-dbg-mysql (1:1.3.9-5)
+    Debug symbols for OpenDNSSEC (Enforcer with MySQL support)
+opendnssec-dbg-sqlite3 (1:1.3.9-5)
+    Debug symbols for OpenDNSSEC (Enforcer with SQLite3 support)
+openjdk-7-dbg (7u75-2.5.4-1~deb7u1 [amd64, armel, armhf, i386, mipsel, powerpc, s390x], 7u71-2.5.3-2~deb7u1 [mips], 7u25-2.3.10-1~deb7u1 [sparc], 7u3-2.1.7-1 [ia64, s390]) [security]
+    Java runtime based on OpenJDK (debugging symbols)
+openscad-dbg (2011.12-3)
+    script file based graphical CAD environment (debugging symbols)
+openssn-dbg (1.3-1)
+    modern submarine tactical simulator (debug)
+openswan-dbg (1:2.6.37-3+deb7u1) [security]
+    Internet Key Exchange daemon - debugging symbols
+openttd-dbg (1.2.1-3)
+    debugging symbols for openttd
+openvpn-auth-radius-dbg (2.1-4)
+    debugging symbols for openvpn-plugin-radius
+openvswitch-dbg (1.4.2+git20120612-9.1~deb7u1)
+    Debug symbols for Open vSwitch packages
+opus-tools-dbg (0.1.2-1)
+    debugging symbols for opus-tools
+osmo-dbg (0.2.10+svn922-2+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.2.10+svn922-2 [armhf, s390x])
+    Debugging symbols for osmo
+otcl-dbg (1.14+dfsg-2)
+    debug symbol of OTcl (libotcl1 and otcl-shells)
+owfs-dbg (2.8p15-1)
+    Debugging symbols for the OWFS packages
+packagekit-dbg (0.7.6-3)
+    Debugging symbols for PackageKit
+pam-pkcs11-dbg (0.6.8-1)
+    Fully featured PAM module for using for using PKCS#11 smart cards (debug)
+pango-graphite-dbg (0.9.3-0.2)
+    SILGraphite support for pango - debug symbols
+pcb2gcode-dbg (1.1.4-git20110915-1+b1)
+    debugging symbols for pcb2gcode
+pcmanfm-dbg (0.9.10-3)
+    extremely fast and lightweight file manager (debug)
+pcscada-dbg (0.7.1-4)
+    Ada bindings to PC/SC middleware (debug)
+pcsxr-dbg (1.9.92-4)
+    Sony PlayStation emulator (debug)
+pdfcube-dbg (0.0.4-2+b1)
+    PDF document viewer with 3D effects - debug symbols
+pdfmod-dbg (0.9.1-7)
+    simple tool for modifying PDF documents -- debugging symbols
+pdlzip-dbg (1.3-2)
+    data compressor based on the LZMA algorithm (simple version; debug)
+pdns-recursor-dbg (3.3-3+deb7u1)
+    debugging symbols for PowerDNS recursor
+pdns-server-dbg (3.1-4.1)
+    debugging symbols for PowerDNS
+performous-dbg (0.6.1-6)
+    karaoke game that allows user supplied songs - debug
+perl-debug (5.14.2-21+deb7u2)
+    debug-enabled Perl interpreter
+petri-foo-dbg (0.1.5-1)
+    Debugging symbols for petri-foo
+pfqueue-dbg (0.5.6-8)
+    interactive console-based tool to control MTA queues (debug)
+pfstools-dbg (1.8.5-1)
+    command line HDR manipulation programs (debugging symbols)
+pgadmin3-dbg (1.14.2-2)
+    graphical administration tool for PostgreSQL (debugging symbols)
+phasex-dbg (0.12.0+m1-6)
+    Debugging symbols for PHASEX
+phlipple-dbg (0.8.2-1+b1)
+    reduce 3D shapes to a single square - debug
+phonon-backend-gstreamer-dbg (4:4.6.0.0-2)
+    debugging symbols for the Phonon GStreamer 0.10.x backend
+phonon-backend-vlc-dbg (0.6.0-1)
+    Phonon VLC backend debugging symbols
+phonon-dbg (4:4.6.0.0-3)
+    multimedia framework from KDE - debugging symbols
+pianobooster-dbg (0.6.4-3.1)
+    learn the piano just by playing a game - debug
+pidgin-dbg (2.10.10-1~deb7u1)
+    Debugging symbols for Pidgin
+pidgin-microblog-dbg (0.3.0-3)
+    Microblogging plugins for Pidgin (debugging symbols)
+pidgin-mra-dbg (20100304-1)
+    Mail.ru Agent protocol plugin for Pidgin IM
+pidgin-nateon-dbg (0.0.0.svn147-1)
+    debugging symbols of pidgin-nateon
+pidgin-skype-dbg (20110407+svn628+dfsg-1) [contrib]
+    Skype plugin for libpurple messengers (debug symbols)
+planetpenguin-racer-dbg (0.4-5)
+    Dummy transition package for extremetuxracer
+plasma-widget-networkmanagement-dbg (0.9.0.3-1)
+    debugging symbols for KDE Network Management
+plasma-widget-telepathy-presence-dbg (0.4.0-1)
+    KDE Telepathy presence plasma widget - debug symbols
+plasma-widget-yawp-dbg (0.4.2-1)
+    Debugging symbols for yaWP and its Ions
+plzip-dbg (0.9-2)
+    parallel, lossless data compressor based on the LZMA algorithm (debug)
+poedit-dbg (1.4.6.1-5.1)
+    gettext catalog editor (debug)
+poppler-dbg (0.18.4-6)
+    PDF rendering library -- debugging symbols
+postgresql-9.1-dbg (9.1.15-0+deb7u1) [security]
+    debug symbols for postgresql-9.1
+pp-popularity-contest-dbg (1.0.5-1)
+    debug files for pp-popularity-contest
+presage-dbg (0.8.8-1)
+    intelligent predictive text entry platform (tools debugging symbols)
+profnet-dbg (1.0.21-1+wheezy1)
+    debug files for profnet packages
+projectm-dbg (2.1.0+dfsg-1)
+    Debugging symbols for projectM
+psi-plus-dbg (0.15.5338-1)
+    Qt-based XMPP/Jabber client (basic version) [debug symbols]
+psi-plus-plugins-dbg (0.15.5338-1)
+    plugins for Psi+ [debug symbols]
+psi-plus-webkit-dbg (0.15.5338-1)
+    Qt-based XMPP/Jabber client (WebKit version) [debug symbols]
+pslib1-dbg (0.4.5-3)
+    library to create PostScript files
+psychtoolbox-3-dbg (3.0.9+svn2579.dfsg1-1)
+    toolbox for vision research -- debug symbols for binaries
+pth-dbg (2.0.7-16)
+    The GNU Portable Threads (debug)
+ptscotch-dbg (5.1.12b.dfsg-1.2+b1 [amd64], 5.1.12b.dfsg-1.2 [armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    MPI programs and libraries for graph, mesh and hypergraph partitioning
+pulseaudio-dbg (2.0-6.1)
+    PulseAudio sound server (debugging symbols)
+pulseaudio-esound-compat-dbg (2.0-6.1)
+    PulseAudio ESD compatibility layer (debugging symbols)
+pulseaudio-module-bluetooth-dbg (2.0-6.1)
+    Bluetooth module for PulseAudio sound server (debugging symbols)
+pulseaudio-module-gconf-dbg (2.0-6.1)
+    GConf module for PulseAudio sound server (debugging symbols)
+pulseaudio-module-jack-dbg (2.0-6.1)
+    jackd modules for PulseAudio sound server (debugging symbols)
+pulseaudio-module-lirc-dbg (2.0-6.1)
+    lirc module for PulseAudio sound server (debugging symbols)
+pulseaudio-module-raop-dbg (2.0-6.1)
+    RAOP module for PulseAudio sound server (debugging symbols)
+pulseaudio-module-x11-dbg (2.0-6.1)
+    X11 module for PulseAudio sound server (debugging symbols)
+pulseaudio-module-zeroconf-dbg (2.0-6.1)
+    Zeroconf module for PulseAudio sound server (debugging symbols)
+pulseaudio-utils-dbg (2.0-6.1)
+    PulseAudio command line tools (debugging symbols)
+python-all-dbg (2.7.3-4+deb7u1)
+    package depending on all supported Python debugging packages
+python-apsw-dbg (3.7.6.3-r1-1)
+    another Python SQLite 3 wrapper (debug extension)
+python-apt-dbg (0.8.8.2+b1 [s390x], 0.8.8.2 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc])
+    Python interface to libapt-pkg (debug extension)
+python-bsddb3-dbg (5.2.0-1+b1)
+    Python interface for Berkeley DB (debug extension)
+python-bzrlib-dbg (2.6.0~bzr6526-1)
+    distributed version control system - debug extension
+python-cairo-dbg (1.8.8-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mipsel, sparc], 1.8.8-1+b1 [mips, powerpc, s390], 1.8.8-1 [armhf, s390x])
+    Python bindings for the Cairo vector graphics library (debug extension)
+python-cjson-dbg (1.0.5-4+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.0.5-4 [armhf, s390x])
+    Very fast JSON encoder/decoder for Python (debug extension)
+python-cogent-dbg (1.5.1-2)
+    debug information for pycogent
+python-coverage-dbg (3.4-3)
+    code coverage tool for Python – debug symbols
+python-crypto-dbg (2.6-4+deb7u3)
+    cryptographic algorithms and protocols for Python (debug extension)
+python-dbg (2.7.3-4+deb7u1)
+    debug build of the Python Interpreter (version 2.7)
+python-dbus-dbg (1.1.1-1)
+    debug build of the D-Bus Python 2 interface
+python-djvu-dbg (0.3.9-1)
+    Python support for the DjVu image format (debug extension)
+python-dmidecode-dbg (3.10.13-1.1)
+    Python extension module for dmidecode (debug)
+python-drizzle-dbg (1.0-3.1)
+    Python binding to libdrizzle - debug symbols
+python-dulwich-dbg (0.8.5-2+deb7u2) [security]
+    Python Git library - Debug Extension
+python-egenix-mx-base-dbg (3.2.1-1.1)
+    extension files for the egenix-mx-base distribution (debug build)
+python-epr-dbg (0.6.1-2)
+    Python ENVISAT Product Reader API (debug extension for Python 2)
+python-fltk-dbg (1.3.0-1)
+    Python wrapper for the Fast Light Toolkit - Debugging symbols
+python-gamera-dbg (3.3.3-2)
+    framework for building document analysis applications (debug symbols)
+python-gammu-dbg (1.31.90-1+b1)
+    Python module to communicate with mobile phones (debug version)
+python-gd-dbg (0.56+dfsg-3)
+    Python module wrapper for libgd (debug extension)
+python-gdbm-dbg (2.7.3-1)
+    GNU dbm database support for Python (debug extension)
+python-gdbm-dbg
+    virtual package provided by python-dbg
+python-geohash-dbg (0.8.3-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.8.3-1 [armhf, s390x])
+    fast, accurate Python geohashing library (debug extension)
+python-gevent-dbg (0.13.6-1+nmu3)
+    gevent is a coroutine-based Python networking library - debugging symbols
+python-gi-dbg (3.2.2-2)
+    Python bindings for the GObject library (debug extension)
+python-gobject-2-dbg (2.28.6-10)
+    deprecated static Python bindings for the GObject library (debug extension)
+python-gobject-dbg (3.2.2-2)
+    Python 2.x debugging modules for GObject - transitional package
+python-gpgme-dbg (0.2-3)
+    python wrapper for the GPGME library (debug extension)
+python-greenlet-dbg (0.3.1-2.5)
+    Lightweight in-process concurrent programming - debugging symbols
+python-gst0.10-dbg (0.10.22-3)
+    generic media-playing framework (Python debug bindings)
+python-gtk2-dbg (2.24.0-3+b1 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 2.24.0-3 [ia64])
+    Python bindings for the GTK+ widget set (debug extension)
+python-imaging-dbg (1.1.7-4+deb7u1)
+    Python Imaging Library (debug extension)
+python-imaging-sane-dbg (1.1.7-4+deb7u1)
+    Python Imaging Library - SANE interface (debug extension)
+python-imaging-tk-dbg (1.1.7-4+deb7u1)
+    Python Imaging Library - ImageTk Module (debug extension)
+python-jinja2-dbg (2.6-1)
+    small but fast and easy to use stand-alone template engine
+python-kde4-dbg (4:4.8.4-1)
+    debugging symbols for the PyKDE bindings
+python-kinterbasdb-dbg (3.3.0-3)
+    Python DB API 2.0 extension for Firebird and Interbase (debug extension)
+python-ldap-dbg (2.4.10-1)
+    LDAP interface module for Python (debug extension)
+python-ldb-dbg (1:1.1.6-1)
+    Python bindings for LDB - debug extension
+python-levenshtein-dbg (0.10.1-2)
+    extension for computing string similarities and edit distances(debug extension)
+python-libtorrent-dbg (0.15.10-1+b1)
+    Python bindings for libtorrent-rasterbar (debug symbols)
+python-libxml2-dbg (2.8.0+dfsg1-7+wheezy3) [security]
+    Python bindings for the GNOME XML library (debug extension)
+python-libxslt1-dbg (1.1.26-14.1)
+    Python bindings for libxslt1 (debug extension)
+python-llfuse-dbg (0.37.1-2)
+    Python bindings for the low-level FUSE API (debugging symbols)
+python-llvm-dbg (0.6+svn105-2)
+    Python bindings for LLVM (debug mode)
+python-lucene-dbg (3.5.0-1.1)
+    debugging symbols for python-lucene
+python-lxml-dbg (2.3.2-1+deb7u1)
+    pythonic binding for the libxml2 and libxslt libraries (debug extension)
+python-lzma-dbg (0.5.3-2+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.5.3-2 [armhf, s390x])
+    python-lzma debug symbols
+python-markupsafe-dbg (0.15-1)
+    XML/HTML/XHTML Markup safe string for Python
+python-matplotlib-dbg (1.1.1~rc2-1)
+    Python based plotting system (debug extension)
+python-meliae-dbg (0.4.0-1)
+    Memory analysis tool for Python - Debug extension
+python-mhash-dbg (1.4-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.4-1 [armhf, s390x])
+    debugging symbols for Python bindings for libmhash
+python-mpi4py-dbg (1.3+hg20120611-3)
+    bindings of the MPI standard -- debug symbols
+python-mysqldb-dbg (1.2.3-2+b1 [s390x], 1.2.3-2 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc])
+    Python interface to MySQL (debug extension)
+python-netifaces-dbg (0.8-1)
+    portable network interface information for Python (debug extension)
+python-newt-dbg (0.52.14-11.1)
+    NEWT module for Python (debug extension)
+python-numexpr-dbg (2.0.1-3)
+    Fast numerical array expression evaluator for Python and NumPy (debug ext)
+python-numpy-dbg (1:1.6.2-1.2)
+    Fast array facility to the Python language (debug extension)
+python-ogg-dbg (1.3+repack-5+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.3+repack-5 [armhf, s390x])
+    Python interface to the Ogg library (debug extension)
+python-omniorb-dbg (3.6-1)
+    Python bindings for omniORB
+python-openssl-dbg (0.13-2+deb7u1)
+    Python 2 wrapper around the OpenSSL library (debug extension)
+python-otr-dbg (0.2.1-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.2.1-1 [armhf, s390x])
+    Python bindings for OTR encryption (debugging extension)
+python-parted-dbg (3.6-6)
+    Python interface for libparted - Debugging symbols
+python-pebl-dbg (1.0.2-2)
+    Python Environment for Bayesian Learning - debug
+python-pisock-dbg (0.12.5-5)
+    Python module to communicate with PalmOS PDA (debug extension)
+python-poppler-dbg (0.12.1-8+b1)
+    Poppler Python bindings (debug extension)
+python-presage-dbg (0.8.8-1)
+    intelligent predictive text entry platform (Python binding debugging symbols)
+python-psycopg2-dbg (2.4.5-1)
+    Python module for PostgreSQL (debug extension)
+python-pyamf-dbg (0.6.1+dfsg-3)
+    Action Message Format support for Python (debugging files)
+python-pyao-dbg (0.82-5)
+    Python interface to the Audio Output library - debug symbols
+python-pycryptopp-dbg (0.5.29-1)
+    Python wrappers for the Crypto++ library (debug extension)
+python-pycurl-dbg (7.19.0-5)
+    Python bindings to libcurl (debug extension)
+python-pyfann-dbg (2.1.0~beta~dfsg-8)
+    Debugging symbols for FANN Python wrapper
+python-pyfribidi-dbg (0.11.0+repack-1)
+    FriBidi Python bindings (debug symbols)
+python-pygraphviz-dbg (1.1-2)
+    Python interface to the Graphviz graph layout and visualization package (debug extension)
+python-pygresql-dbg (1:4.0-3)
+    PostgreSQL module for Python (debug extension)
+python-pyicu-dbg (1.4-1)
+    Python extension wrapping the ICU C++ API (debug extension)
+python-pylibacl-dbg (0.5.1-1.1)
+    module for manipulating POSIX.1e ACLs (debug extension)
+python-pylibmc-dbg (1.2.2-1+b2)
+    libmemcached wrapper (debug mode)
+python-pyodbc-dbg (2.1.7-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 2.1.7-1 [armhf, s390x])
+    Python module for ODBC database access - Debugging symbols
+python-pysqlite1.1-dbg (1.1.8a-6)
+    python interface to SQLite 3 (debug extension)
+python-pysqlite2-dbg (2.6.3-3)
+    Python interface to SQLite 3 (debug extension)
+python-pytc-dbg (0.8-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.8-1+b1 [armhf, s390x])
+    Python bindings for the Tokyo Cabinet database (debug extension)
+python-pyvorbis-dbg (1.5-1)
+    Python interface to the Ogg Vorbis library (debug extension)
+python-pyxattr-dbg (0.5.1-1.1)
+    module for manipulating filesystem extended attributes (debug extension)
+python-pyxine-dbg (0.1alpha2-7+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.1alpha2-7 [armhf, s390x])
+    interface to the xine media player for Python (debug extension)
+python-qt4-dbg (4.9.3-4)
+    Python bindings for Qt4 (debug extensions)
+python-qt4-dbus-dbg (4.9.3-4)
+    D-Bus Support for PyQt4 (debug extensions)
+python-qt4-gl-dbg (4.9.3-4)
+    Python bindings for Qt4's OpenGL module (debug extension)
+python-qt4-phonon-dbg (4.9.3-4)
+    Python bindings for Phonon (debug extensions)
+python-qt4-sql-dbg (4.9.3-4)
+    Python bindings for PyQt4's SQL module (debug extension)
+python-regex-dbg (0.1.20120613-1)
+    alternative regular expression module (debug extension)
+python-renderpm-dbg (2.5-1.1)
+    python low level render interface (debug extension)
+python-reportlab-accel-dbg (2.5-1.1)
+    C coded extension accelerator for the ReportLab Toolkit
+python-scipy-dbg (0.10.1+dfsg2-1)
+    scientific tools for Python - debugging symbols
+python-sendfile-dbg (1.2.4-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.2.4-1 [armhf, s390x])
+    Python interface to sendfile(2) (debug)
+python-setproctitle-dbg (1.0.1-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.0.1-1 [armhf, s390x])
+    A setproctitle implementation for Python
+python-sip-dbg (4.13.3-2)
+    Python/C++ bindings generator runtime library (debug extension)
+python-soya-dbg (0.15~rc1-8)
+    high level 3D engine for Python - debug extension
+python-sqlite-dbg (1.0.1-9)
+    Python interface to SQLite 2 (debug extension)
+python-stemmer-dbg (1.2.0+dfsg-1)
+    Python bindings for libstemmer (debug extension)
+python-storm-dbg (0.19-1)
+    object-relational mapper (ORM) for Python - debugging files
+python-subvertpy-dbg (0.8.10-2)
+    Alternative Python bindings for Subversion - Debugging Symbols
+python-svn-dbg (1.7.5-1.1)
+    A(nother) Python interface to Subversion (debug extension)
+python-symeig-dbg (1.5-2)
+    Symmetrical eigenvalue routines for NumPy (debug symbols)
+python-tables-dbg (2.3.1-3)
+    hierarchical database for Python based on HDF5 (debug extension)
+python-talloc-dbg (2.0.7+git20120207-1)
+    hierarchical pool based memory allocator - Python debug extension
+python-tdb-dbg (1.2.10-2)
+    Python bindings for TDB - debug extension
+python-tk-dbg (2.7.3-1)
+    Tkinter - Writing Tk applications with Python (debug extension)
+python-tk-dbg
+    virtual package provided by python-dbg
+python-twisted-bin-dbg (12.0.0-1)
+    Event-based framework for internet applications (debug extension)
+python-twisted-runner-dbg (12.0.0-1)
+    Process management, including an inetd server (debug extension)
+python-uniconvertor-dbg (1.1.4-1+b3 [armel, ia64], 1.1.4-1+b2 [amd64, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.1.4-1 [armhf, s390x])
+    Universal vector graphics translator (debug extension)
+python-wxgtk2.8-dbg (2.8.12.1-12)
+    wxWidgets Cross-platform C++ GUI toolkit (wxPython binding, debug version)
+python-yaml-dbg (3.10-4+deb7u1)
+    YAML parser and emitter for Python (debug build)
+python-zmq-dbg (2.2.0-1)
+    Python bindings for 0MQ library - debugging files
+python-zope.interface-dbg (3.6.1-3)
+    Interfaces for Python (debug extension)
+python2.6-dbg (2.6.8-1.1)
+    Debug Build of the Python Interpreter (version 2.6)
+python2.7-dbg (2.7.3-6+deb7u2)
+    Debug Build of the Python Interpreter (version 2.7)
+python3-all-dbg (3.2.3-6)
+    package depending on all supported Python 3 debugging packages
+python3-apt-dbg (0.8.8.2+b1 [s390x], 0.8.8.2 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc])
+    Python 3 interface to libapt-pkg (debug extension)
+python3-bsddb3-dbg (5.2.0-1+b1)
+    Python interface for Berkeley DB (debug extension, Python 3.x)
+python3-crypto-dbg (2.6-4+deb7u3)
+    cryptographic algorithms and protocols for Python 3 (debug extension)
+python3-dbg (3.2.3-6)
+    debug build of the Python 3 Interpreter (version 3.2)
+python3-dbus-dbg (1.1.1-1)
+    debug build of the D-Bus Python 3 interface
+python3-dbus.mainloop.qt-dbg (4.9.3-4)
+    D-Bus Support for PyQt4 (debug extensions for Python 3)
+python3-drizzle-dbg (1.0-3.1)
+    Python3 binding to libdrizzle - debug symbols
+python3-epr-dbg (0.6.1-2)
+    Python ENVISAT Product Reader API (debug extension for Python 3)
+python3-gdbm-dbg (3.2.3-1)
+    GNU dbm database support for Python 3.x (debug extension)
+python3-gi-dbg (3.2.2-2)
+    Python 3 bindings for gobject-introspection libraries (debug extension)
+python3-jinja2-dbg (2.6-1)
+    small but fast and easy to use stand-alone template engine
+python3-llfuse-dbg (0.37.1-2)
+    Python 3 bindings for the low-level FUSE API (debugging symbols)
+python3-lxml-dbg (2.3.2-1+deb7u1)
+    pythonic binding for the libxml2 and libxslt libraries (debug extension)
+python3-markupsafe-dbg (0.15-1)
+    XML/HTML/XHTML Markup safe string for Python3
+python3-mpi4py-dbg (1.3+hg20120611-3)
+    bindings of the MPI standard -- debug symbols
+python3-numpy-dbg (1:1.6.2-1.2)
+    Fast array facility to the Python language (debug extension)
+python3-openssl-dbg (0.13-2+deb7u1)
+    Python 3 wrapper around the OpenSSL library (debug extension)
+python3-psycopg2-dbg (2.4.5-1)
+    Python 3 module for PostgreSQL (debug extension)
+python3-pykde4-dbg (4:4.8.4-1)
+    debugging symbols for PyKDE bindings for Python 3
+python3-pylibacl-dbg (0.5.1-1.1)
+    module for manipulating POSIX.1e ACLs (Python3 debug extension)
+python3-pyqt4-dbg (4.9.3-4)
+    Python3 bindings for Qt4 (debug extensions)
+python3-pyqt4.phonon-dbg (4.9.3-4)
+    Python3 bindings for Phonon (debug extensions)
+python3-pyqt4.qtopengl-dbg (4.9.3-4)
+    Python 3 bindings for Qt4's OpenGL module (debug extension)
+python3-pyqt4.qtsql-dbg (4.9.3-4)
+    Python3 bindings for PyQt4's SQL module (debug extension)
+python3-pyxattr-dbg (0.5.1-1.1)
+    module for manipulating filesystem extended attributes (Python3 debug version)
+python3-regex-dbg (0.1.20120613-1)
+    alternative regular expression module (Python 3 debug extension)
+python3-scipy-dbg (0.10.1+dfsg2-1)
+    scientific tools for Python 3 - debugging symbols
+python3-sip-dbg (4.13.3-2)
+    Python 3/C++ bindings generator runtime library (debug extension)
+python3-stemmer-dbg (1.2.0+dfsg-1)
+    Python 3 bindings for libstemmer (debug extension)
+python3-tk-dbg (3.2.3-1)
+    Tkinter - Writing Tk applications with Python 3.x (debug extension)
+python3-yaml-dbg (3.10-4+deb7u1)
+    YAML parser and emitter for Python3 (debug build)
+python3-zmq-dbg (2.2.0-1)
+    Python3 bindings for 0MQ library - debugging files
+python3-zope.interface-dbg (3.6.1-3)
+    Interfaces for Python3 (debug extension)
+python3.2-dbg (3.2.3-7)
+    Debug Build of the Python Interpreter (version 3.2)
+qapt-dbg (1.3.0-2)
+    QApt debugging symbols
+qbittorrent-dbg (2.9.8-1)
+    debug symbols for qbittorrent and qbittorrent-nox
+qemu-kvm-dbg (1.1.2+dfsg-6+deb7u6)
+    Debugging info for qemu-kvm
+qmf-dbg (1.0.7~2011w23.2-2.1)
+    Qt Messaging Framework (QMF) - debugging symbols
+qmidiarp-dbg (0.5.0-1)
+    Debugging symbols for QMidiArp
+qmidinet-dbg (0.1.2-1)
+    Debugging symbols for QmidiNet
+qt4-bin-dbg (4:4.8.2+dfsg-11)
+    Qt 4 binaries debugging symbols
+qt4-demos-dbg (4:4.8.2+dfsg-11)
+    Qt 4 examples and demos debugging symbols
+qtcreator-dbg (2.5.0-2)
+    debugging symbols for Qt Creator IDE
+qtgstreamer-dbg (0.10.2-2)
+    Debug symbols for QtGStreamer
+qtmobility-dbg (1.2.0-3)
+    APIs for mobile device functionality - debugging symbols
+qtractor-dbg (0.5.5-1)
+    Debugging symbols for Qtractor
+quagga-dbg (0.99.22.4-1+wheezy1)
+    BGP/OSPF/RIP routing daemon (debug symbols)
+quakespasm-dbg (0.85.7-1)
+    engine for iD software's Quake - debug symbols
+qutecom-dbg (2.2.1+dfsg1-3+b1)
+    SIP-based software telephone with video and chat features (debug files)
+r-base-core-dbg (2.15.1-4)
+    GNU R debug symbols for statistical comp. language and environment
+raincat-dbg (1.1-3)
+    2D puzzle game featuring a fuzzy little cat - debug
+rasterlite-dbg (1.1~svn11-2)
+    library supporting raster data sources for spatialite - debugging symbols
+rawstudio-dbg (2.0-1.1)
+    RAW image converter - debuggin symbols
+redeclipse-dbg (1.2-3) [contrib]
+    debug symbols for the Red Eclipse FPS game
+redeclipse-server-dbg (1.2-3) [contrib]
+    debug symbols for the Red Eclipse dedicated server
+rekonq-dbg (0.9.2-1)
+    debugging symbols for rekonq
+rhythmbox-dbg (2.97-2.1)
+    debugging symbols for rhythmbox
+roaraudio-dbg (1.0~beta2-3)
+    RoarAudio sound server for audio mixing (debugging symbols)
+roarplaylistd-dbg (0.1.1-2)
+    RoarAudio PlayList Daemon (RPLD) (debugging symbols)
+rosegarden-dbg (1:12.04-1)
+    Debugging symbols for Rosegarden
+rrdcollect-dbg (0.2.10-2)
+    debugging symbols for rrdcollect
+rrdtool-dbg (1.4.7-2)
+    time-series data storage and display system (debugging symbols)
+ruby-atk-dbg (1.1.3-2+b1)
+    ATK bindings for the Ruby language (debugging symbols)
+ruby-fftw3-dbg (0.4-4)
+    Ruby FFT library using FFTW Ver.3
+ruby-gdk-pixbuf2-dbg (1.1.3-2+b1)
+    Gdk-Pixbuf 2 bindings for the Ruby language (debugging symbols)
+ruby-gio2-dbg (1.1.3-2+b1)
+    GIO bindings for the Ruby language (debugging symbols)
+ruby-glib2-dbg (1.1.3-2+b1)
+    Glib 2 bindings for the Ruby language (debugging symbols)
+ruby-goocanvas-dbg (1.1.3-2+b1)
+    GooCanvas bindings for the Ruby language (debugging symbols)
+ruby-grib-dbg (0.2.2-3)
+    Ruby interface to the ECMWF GRIB API (debug symbol)
+ruby-gsl-dbg (1.14.7+dfsg-1)
+    Ruby bindings for the GNU Scientific Library (GSL)
+ruby-gstreamer-dbg (1.1.3-2+b1)
+    GStreamer bindings for the Ruby language (debugging symbols)
+ruby-gtk2-dbg (1.1.3-2+b1)
+    GTK+ bindings for the Ruby language (debugging symbols)
+ruby-gtksourceview2-dbg (1.1.3-2+b1)
+    GtkSourceView2 bindings for the Ruby language (debugging symbols)
+ruby-kde4-dbg (4:4.8.4-1)
+    Debug symbols for the KDE ruby bindings
+ruby-lapack-dbg (1.5-1)
+    Ruby wrapper of LAPACK
+ruby-multibitnums-dbg (0.1.4-1)
+    extension library for integers with arbitrary bit lengths
+ruby-narray-dbg (0.6.0.1-1)
+    Numerical N-dimensional Array library for Ruby
+ruby-netcdf-dbg (0.6.6-1)
+    Ruby-NetCDF debug symbols
+ruby-odbc-dbg (0.99994-4)
+    ODBC Binding for Ruby
+ruby-pango-dbg (1.1.3-2+b1)
+    Pango bindings for the Ruby language (debug symbols)
+ruby-pgplot-dbg (0.1.3-6) [contrib]
+    Ruby-PGPLOT debugging symbols
+ruby-poppler-dbg (1.1.3-2+b1)
+    Ruby bindinds for the libpoppler-glib library (debugging symbols)
+ruby-qt4-dbg (4:4.8.4-1)
+    Qt 4 bindings for the Ruby language -- debug symbols
+ruby-rsvg2-dbg (1.1.3-2+b1)
+    RSVG renderer bindings for the Ruby language (debugging symbols)
+ruby-sdl-dbg (2.1.2-3)
+    Ruby/SDL interface for Ruby (debug symbols)
+ruby-vte-dbg (1.1.3-2+b1)
+    VTE widget bindings for the Ruby language (debugging symbols)
+rygel-dbg (0.14.3-2+deb7u1)
+    GNOME UPnP/DLNA services
+s3d-dbg (0.2.2-8)
+    3d network display server (debug files)
+s3ql-dbg (1.11.1-3+deb7u1)
+    Full-featured file system for online data storage (debugging symbols)
+sauerbraten-dbg (0.0.20100728.dfsg+repack-3) [contrib]
+    Debug symbols for the Sauerbraten game engine
+sawfish-dbg (1:1.5.3-2.1+b1)
+    sawfish debugging symbols
+sbnc-dbg (1.2-26)
+    IRC proxy for multiple users (debugging symbols)
+schroot-dbg (1.6.4-4)
+    schroot, dchroot and dchroot-dsa debugging symbols
+scilab-full-bin-dbg (5.3.3-10)
+    Scientific software package (scilab debugging symbols)
+scilab-minimal-bin-dbg (5.3.3-10)
+    Scientific software package (scilab-cli debugging symbols)
+scorched3d-dbg (43.2a.dfsg-6.1)
+    3D artillery game similar to Scorched Earth, debug data
+scotch-dbg (5.1.12b.dfsg-1.2+b1 [amd64], 5.1.12b.dfsg-1.2 [armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    programs and libraries for graph, mesh and hypergraph partitioning
+sdlbasic-dbg (0.0.20070714-4)
+    BASIC interpreter for game development - debug symbols
+serd-dbg (0.14.0~dfsg0-2)
+    lightweight RDF syntax library - debugging symbols
+shiboken-dbg (1.1.1-1)
+    debugging symbols for shiboken and its library
+shishi-dbg (1.0.1-2)
+    Debugging symbols for Shishi
+shotwell-dbg (0.12.3-2+deb7u1)
+    digital photo organizer - debugging symbols
+showq-dbg (0.4.1+git20090622+dfsg0-1+b1)
+    Debugging symbols for showq
+skanlite-dbg (0.8-2)
+    Skanlite's debugging symbols
+smokegen-dbg (4:4.8.4-1)
+    SMOKE development tools -- debug symbols
+softhsm-dbg (1.3.3-2)
+    Debug symbols for SoftHSM
+sogo-dbg (1.3.16-1)
+    Scalable groupware server - debugging symbols
+sord-dbg (0.8.0~dfsg0-1)
+    library for storing RDF data in memory (debugging symbols)
+soundstretch-dbg (1.6.0-3)
+    Debugging symbols for the soundstretch program
+speech-dispatcher-dbg (0.7.1-6.2)
+    Speech Dispatcher debugging symbols
+spring-dbg (88.0+dfsg1-1.1)
+    modern full-3D RTS game engine (debugging symbols)
+springlobby-dbg (0.147-1)
+    single/multiplayer lobby for the Spring RTS engine (debugging symbols)
+squashfs-tools-dbg (1:4.2-5)
+    Tool to create and append to squashfs filesystems (debug)
+squeak-plugins-scratch-dbg (1.4.0.2~svn.r83-1)
+    Squeak plugins for the Scratch programming environment - debug
+squid3-dbg (3.1.20-2.2+deb7u2)
+    Full featured Web Proxy cache (HTTP proxy) - Debug symbols
+sshfs-dbg (2.4-1)
+    filesystem client based on SSH File Transfer Protocol (with debugging symbols)
+stimfit-dbg (0.10.18-1.1+b1)
+    Debug symbols for stimfit
+stretchplayer-dbg (0.503-2)
+    Debugging symbols for StretchPlayer
+strigi-dbg (0.7.7-3)
+    debugging symbols for strigi
+strongswan-dbg (4.5.2-1.5+deb7u6) [security]
+    strongSwan library and binaries - debugging symbols
+structure-synth-dbg (1.5.0-1.1)
+    application for creating 3D structures
+suil-dbg (0.6.4~dfsg0-3)
+    Debugging symbols for suil
+swami-dbg (2.0.0+svn389-2)
+    MIDI instrument editor - debugging symbols
+swift-im-dbg (2.0~beta1+dev47-1)
+    XMPP client/library (debugging symbols)
+sylpheed-dbg (3.2.0-1)
+    Debugging symbols for sylpheed, a GTK+ e-mail client
+synapse-dbg (0.2.10-2)
+    semantic file launcher - debug package
+syncevolution-dbg (1.2.99.1-1.1)
+    Sync personal information data using SyncML and CalDAV/CardDAV (debugging)
+synfig-dbg (0.63.05-1)
+    synfig debugging symbols
+synfigstudio-dbg (0.63.05-1)
+    synfig GUI debugging symbols
+syslog-ng-dbg (3.3.5-4)
+    Next generation system logging daemon (debug symbols)
+tack-dbg (1.07-1)
+    terminfo action checker (debug)
+tangerine-dbg (0.3.4-3)
+    music server using DAAP (debug symbols)
+tango-accesscontrol-dbg (7.2.6+dfsg-14)
+    TANGO distributed control system - accesscontrol server
+tango-db-dbg (7.2.6+dfsg-14)
+    TANGO distributed control system - database server
+tango-starter-dbg (7.2.6+dfsg-14)
+    TANGO distributed control system - control server
+tango-test-dbg (7.2.6+dfsg-14)
+    TANGO distributed control system - test device
+tarantool-client-dbg (1.4.6+20120629+2158-1)
+    high performance key/value storage server
+tarantool-dbg (1.4.6+20120629+2158-1)
+    high performance key/value storage server
+tclcl-dbg (1.20-6)
+    debug symbols of TclCL: both tclcl and libtclcl1
+telepathy-gabble-dbg (0.16.7-0+deb7u1)
+    Jabber/XMPP connection manager (debug symbols)
+telepathy-mission-control-5-dbg (1:5.12.3-1)
+    management daemon for Telepathy (debug symbols)
+testdisk-dbg (6.13-1)
+    Partition scanner and disk recovery tool
+texstudio-dbg (2.3+debian-3)
+    Latex Editor (debug)
+thunar-dbg (1.2.3-4+b1)
+    debugging informations for thunar
+tint2-dbg (0.11+svn20111022-3)
+    lightweight taskbar (debug symbols)
+togl-demos (1.7-12)
+    a Tk OpenGL widget - demos files
+tokyotyrant-dbg (1.1.40-4.1+b1)
+    Tokyo Tyrant debugging symbols
+tora-dbg (2.1.3-2)
+    graphical toolkit for database developers and administrators - debugging symbols
+totem-dbg (3.0.1-8)
+    Debugging symbols for the Totem media player
+tpm-tools-dbg (1.3.7-1)
+    Management tools for the TPM hardware (debug)
+trackballs-dbg (1.1.4-4.1)
+    Debugging symbols for Trackballs
+tracker-dbg (0.14.1-3)
+    metadata database, indexer and search tool - debugging symbols
+transcode-dbg (3:1.1.7-3)
+    Text console video-stream processing tool - debugging symbols
+transmission-dbg (2.52-3+nmu2)
+    lightweight BitTorrent client (debug symbols)
+trophy-dbg (2.0.2-2)
+    debug files for trophy
+trousers-dbg (0.3.9-3+wheezy1)
+    open-source TCG Software Stack (debug)
+ttylog-dbg (0.1.d-2)
+    debugging symbols for ttylog
+tupi-dbg (0.1+git12-6)
+    debugging symbols for tupi (2D Animation design and authoring tool)
+uae-dbg (0.8.29-7) [contrib]
+    The Ubiquitous Amiga Emulator (debugging)
+uim-dbg (1:1.8.1-4)
+    Universal Input Method - debugging symbols
+unagi-dbg (0.3.3-2)
+    Modular X compositing manager - debugging symbols
+uvcdynctrl-dbg (0.2.2-1)
+    Debug Symbols for uvcdynctrl
+uwsgi-dbg (1.2.3+dfsg-5+deb7u1)
+    debugging symbols for uWSGI server and it's plugins
+vala-gen-project-dbg (0.12.1-3)
+    Vala project generator - debugging symbols
+valac-0.14-dbg (0.14.2-2)
+    C# like language for the GObject system
+valac-0.16-dbg (0.16.1-2)
+    C# like language for the GObject system - debug symbols
+valgrind-dbg (1:3.7.0-6)
+    instrumentation framework for building dynamic analysis tools (debug)
+varnish-dbg (3.0.2-2+deb7u1)
+    debugging symbols for varnish
+vdr-dbg (1.7.28-1)
+    Debuggable version of the VDR Video Disk Recorder
+veusz-helpers-dbg (1.15-1+b1 [amd64], 1.15-1 [armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Architecture-specific helper module for Veusz (debug extension)
+vim-dbg (2:7.3.547-7)
+    Vi IMproved - enhanced vi editor (debugging symbols)
+virtualbox-dbg (4.1.18-dfsg-2+deb7u4) [security]
+    x86 virtualization solution - debugging symbols
+vo-aacenc-dbg (0.1.2-1)
+    VisualOn AAC encoder library (debugging symbols)
+vo-amrwbenc-dbg (0.1.2-1)
+    VisualOn AMR-WB encoder library (debugging symbols)
+voms-dbg (2.0.8-1)
+    Virtual Organization Membership Service - Debug Symbols
+voms-mysql-plugin-dbg (3.1.6-1+b1)
+    VOMS server plugin for MySQL - Debug Symbols
+vorbis-tools-dbg (1.4.0-1)
+    several Ogg Vorbis tools (debug files)
+warmux-dbg (1:11.04.1+repack-4)
+    debugging symbols for the WarMUX game
+webcit-dbg (8.14-dfsg-1)
+    web-based frontend to Citadel - debugging symbols
+webissues-dbg (1.0.2-1)
+    network system supporting team collaboration (dbg symbols)
+weechat-dbg (0.3.8-1+deb7u1)
+    Fast, light and extensible chat client - debugging symbols
+wesnoth-1.10-dbg (1:1.10.3-3)
+    fantasy turn-based strategy game (debugging symbols for branch 1.10)
+widelands-dbg (1:17-3)
+    fantasy real-time strategy game (debug cruft)
+winff-dbg (1.4.2-3)
+    winff debugging symbols
+wireshark-dbg (1.8.2-5wheezy15) [security]
+    network traffic analyzer - debug symbols
+witty-dbg (3.2.1-2+deb7u1)
+    C++ library for webapps [debug] (transition package)
+witty-dbg
+    virtual package provided by libwt-dbg
+wmaker-dbg (0.95.3-2)
+    Debugging symbols for WindowMaker packages
+wraplinux-dbg (1.7-7)
+    Utility to wrap a Linux kernel and initrd into an ELF or NBI file (debug)
+wxsqlite3-2.8-dbg (3.0.0.1~dfsg0-2)
+    Debugging symbols for wxSQLite3 2.8
+xcfa-dbg (4.3.1-1)
+    X Convert File Audio - debugging symbols
+xcp-xapi-debug (1.3.2-15)
+    Xen Cloud Platform - debugging tools
+xfce4-dbg (4.8.0.3)
+    meta-package for debugging symbols in Xfce
+xfce4-panel-dbg (4.8.6-4)
+    debugging informations for xfce4-panel
+xfce4-session-dbg (4.8.3-3)
+    Xfce4 Session Manager (debug symbols)
+xfce4-terminal-dbg (0.4.8-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.4.8-1 [armhf, s390x])
+    Xfce terminal emulator - debugging symbols
+xfdesktop4-dbg (4.8.3-2)
+    debugging informations for xfdesktop4
+xfwm4-dbg (4.8.3-2)
+    window manager of the Xfce project (debugging symbols)
+xine-dbg (0.99.7-1)
+    the xine video player, debug symbols
+xiphos-dbg (3.1.5+dfsg-1+b2 [amd64, armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 3.1.5+dfsg-1+b1 [kfreebsd-amd64])
+    debug symbols for Xiphos Bible study software
+xmlcopyeditor-dbg (1.2.0.6-2+b1)
+    fast, free, validating XML editor - debug
+xneur-dbg (0.15.0-1.1)
+    XNeur debugging symbols
+xserver-xorg-video-ati-dbg (1:6.14.4-8)
+    X.Org X server -- AMD/ATI display driver wrapper (debugging symbols)
+xserver-xorg-video-geode-dbg (2.11.13-3)
+    Geode GX2/LX display driver (debugging symbols)
+xserver-xorg-video-intel-dbg (2:2.19.0-6)
+    X.Org X server -- Intel i8xx, i9xx display driver (debug symbols)
+xserver-xorg-video-ivtv-dbg (1.1.2-1+b3) [contrib]
+    X.Org X server -- IVTV display driver (debug symbols)
+xserver-xorg-video-mach64-dbg (6.9.1-2)
+    X.Org X server -- ATI display driver (debugging symbols)
+xserver-xorg-video-modesetting-dbg (0.3.0-1)
+    X.Org X server -- Generic modesetting driver (debug symbols)
+xserver-xorg-video-msm-dbg (1.0.1+git20100122.5f7df591-3)
+    MSM/QSD X Window Enablement Project (debug symbols)
+xserver-xorg-video-nouveau-dbg (1:1.0.1-5)
+    X.Org X server -- Nouveau display driver (debug symbols)
+xserver-xorg-video-openchrome-dbg (1:0.2.906-2+deb7u1)
+    X.Org X server -- VIA display driver -- debugging symbols
+xserver-xorg-video-qxl-dbg (0.0.17-2+b1)
+    X.Org X server -- QXL display driver (debugging symbols)
+xserver-xorg-video-r128-dbg (6.8.2-1)
+    X.Org X server -- ATI r128 display driver (debugging symbols)
+xserver-xorg-video-radeon-dbg (1:6.14.4-8)
+    X.Org X server -- AMD/ATI Radeon display driver (debugging symbols)
+xulrunner-17.0-dbg (17.0.10esr-1~deb7u1)
+    Debugging symbols for the Gecko engine library
+xulrunner-24.0-dbg (24.8.1esr-2~deb7u1)
+    Debugging symbols for the Gecko engine library
+yauap-dbg (0.2.4-3)
+    debugging symbols for Yauap
+yorick-dbg (2.2.02+dfsg-6)
+    debugging symbols for Yorick
+yoshimi-dbg (0.060.12-2)
+    Debugging symbols for Yoshimi
+zapping-dbg (0.10~cvs6-8)
+    detached debugging symbols for zapping
+zaz-dbg (1.0.0~dfsg1-1)
+    arcade action puzzle game - debug
+zbar-dbg (0.10+doc-8+b1 [s390x], 0.10+doc-8 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc])
+    bar code scanner and decoder (debug)
+zita-resampler-dbg (1.1.0-3)
+    Debugging symbols for libzita-resampler
+zlib1g-dbg (1:1.2.7.dfsg-13)
+    compression library - development
+znc-dbg (0.206-2)
+    advanced modular IRC bouncer (debugging symbols)
+zorp-dbg (3.9.5-4)
+    Advanced protocol analyzing firewall
+zorp-modules-dbg (3.9.5-4)
+    Default proxy modules for Zorp
+zsh-dbg (4.3.17-1)
+    shell with lots of features (debugging symbols)
+zutils-dbg (0.9-6)
+    utilities for dealing with compressed files transparently (debug) 

@@ -1,0 +1,64 @@
+brag (1.4.1-2)
+    Downloads and assembles multipart Usenet binaries
+gup (0.5.13)
+    let a remote site change their newsgroups subscription
+inn (1:1.7.2q-41)
+    News transport system `InterNetNews' by the ISC and Rich Salz
+inn2 (2.5.3-3)
+    'InterNetNews' news server
+inn2
+    virtual package provided by inn2-lfs
+inn2-inews (2.5.3-3)
+    NNTP client news injector, from InterNetNews (INN)
+inn2-lfs (2.5.3-3)
+    'InterNetNews' news server (LFS version)
+innfeed (0.10.1.7-8+b1 [mips, mipsel], 0.10.1.7-8 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, powerpc, s390, s390x, sparc])
+    This is the INN feeder program `innfeed.'
+knews (1.0b.1-28)
+    Graphical threaded news reader
+knode (4:4.4.11.1+l10n-3+b1)
+    graphical news reader
+leafnode (1.11.8-3)
+    NNTP server for small sites
+nget (0.27.1-11)
+    auto-resuming command line NNTP file grabber
+nglister (1.0.1+nmu1)
+    Downloads information from NNTP server
+nn (6.7.3-8)
+    Heavy-duty USENET news reader (curses-based client)
+pan (0.139-2)
+    newsreader based on GTK2, which looks like Forte Agent
+papercut (0.9.13-7)
+    simple and extensible NNTP server
+post-faq (0.10-18)
+    post periodic FAQs to Usenet newsgroups
+pyg (0.9.7+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.9.7 [armhf, s390x])
+    Python Mail <-> News Gateway
+python-yenc (0.3+debian-2+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.3+debian-2 [armhf, s390x])
+    yEnc encoding/decoding extension for Python
+sinntp (1.5-1)
+    tiny non-interactive NNTP client
+slrn (1.0.0~pre18-1.3)
+    threaded news reader (fast for slow links)
+slrnface (2.1.1-6)
+    shows X-Faces from a newsposting on an X11 terminal emulator
+slrnpull (1.0.0~pre18-1.3)
+    pulls a small newsfeed from an NNTP server
+sn (0.3.8-10.1)
+    Small NNTP server for leaf sites
+statnews (2.5)
+    Extracts useful statistics out of a newsgroup or mailing list
+suck (4.3.2-11)
+    small newsfeed from an NNTP server with standard NNTP commands
+tin (1:2.1.1-1)
+    A full-screen easy to use Usenet newsreader
+trn (3.6-23) [non-free]
+    Threaded USENET news reader, based on rn
+trn
+    virtual package provided by trn4
+trn4 (4.0-test77-6) [non-free]
+    Threaded USENET news reader, based on rn (4.0 beta test)
+uucpsend (1.1-4)
+    Alternative Frontend for UUCP Batching with INN
+xpn (1.2.6-5)
+    graphical newsreader written in Python and GTK+ toolkit 

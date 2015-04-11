@@ -1,0 +1,2020 @@
+abootimg (0.6-1)
+    Tool to read/write/update android boot images
+accountsservice (0.6.21-8)
+    query and manipulate user account information
+acct (6.5.5-1)
+    The GNU Accounting utilities for process and login accounting
+acorn-fdisk (3.0.6-8)
+    partition editor for Acorn/RISC OS machines
+acpi-fakekey (0.140-5+deb7u3)
+    tool to generate fake key events
+acpi-support (0.140-5+deb7u3)
+    scripts for handling many ACPI events
+acpi-support-base (0.140-5+deb7u3)
+    scripts for handling base ACPI events such as the power button
+acpid (1:2.0.16-1+deb7u1)
+    Advanced Configuration and Power Interface event daemon
+acpidump (20100513-3.1)
+    utilities to dump system's ACPI tables to an ASCII file
+adduser (3.113+nmu3)
+    add and remove users and groups
+adjtimex (1.29-2.2)
+    kernel time variables configuration utility
+aide (0.15.1-8)
+    Advanced Intrusion Detection Environment - static binary
+aide-common (0.15.1-8)
+    Advanced Intrusion Detection Environment - Common files
+aide-dynamic (0.15.1-8)
+    Advanced Intrusion Detection Environment - dynamic binary
+aide-xen (0.15.1-8)
+    Advanced Intrusion Detection Environment - static binary for XEN
+alien (8.87)
+    convert and install rpm and other packages
+amd64-microcode (1.20120910-2) [non-free]
+    Processor microcode firmware for AMD CPUs
+amiga-fdisk (0.04-14)
+    Partition editor for Amiga
+amiga-fdisk-bf (0.04-14)
+    Partition editor for Amiga (boot-floppies version)
+amiga-fdisk-cross (0.04-14)
+    Partition editor for Amiga partitions (cross version)
+anacron (2.3-19)
+    cron-like program that doesn't go by time
+aoetools (30-3)
+    tools to assist in using ATA over Ethernet
+apachetop (0.12.6-16)
+    Realtime Apache monitoring tool
+apcupsd (3.14.10-2)
+    APC UPS Power Management (daemon)
+apex-nslu2 (1.6.10)
+    APEX Boot Loader for Linksys NSLU2
+apg (2.2.3.dfsg.1-2)
+    Automated Password Generator - Standalone version
+apmd (3.2.2-14+b1 [armel, ia64, powerpc], 3.2.2-14 [amd64, armhf, i386, mips, mipsel, s390, s390x, sparc])
+    Utilities for Advanced Power Management (APM)
+apparmor (2.7.103-4)
+    User-space parser utility for AppArmor
+apparmor-notify (2.7.103-4)
+    AppArmor notification system
+apparmor-profiles (2.7.103-4)
+    Profiles for AppArmor Security policies
+apparmor-utils (2.7.103-4)
+    Utilities for controlling AppArmor
+approx (5.3-1)
+    caching proxy server for Debian archive files
+apt (0.9.7.9+deb7u7)
+    commandline package manager
+apt-clone (0.2.2)
+    Script to create state bundles
+apt-cudf (3.0.2-3)
+    CUDF solver integration for APT
+apt-dater (0.9.0-3+wheezy1)
+    terminal-based remote package update manager
+apt-dater-host (0.9.0-3+wheezy1)
+    host helper application for apt-dater
+apt-file (2.5.1)
+    search for files within Debian packages (command-line interface)
+apt-forktracer (0.4)
+    a utility for tracking non-official package versions
+apt-listbugs (0.1.8+deb7u1)
+    tool which lists critical bugs before each apt installation
+apt-move (4.2.27-3)
+    Maintain Debian packages in a package pool
+apt-offline (1.2)
+    offline APT package manager
+apt-offline-gui (1.2)
+    offline APT package manager - GUI
+apt-show-source (0.10)
+    Shows source-package information
+apt-show-versions (0.20)
+    lists available package versions with distribution
+apt-spy (3.2.2-1)
+    writes a sources.list file based on bandwidth tests
+apt-src (0.25.1-0.1)
+    manage Debian source packages
+apt-transport-debtorrent (0.2.2+b1)
+    an APT transport for communicating with DebTorrent
+apt-transport-https (0.9.7.9+deb7u7)
+    https download transport for APT
+apt-transport-spacewalk (1.0.6-2.1)
+    APT transport for communicating with Spacewalk servers
+apt-utils (0.9.7.9+deb7u7)
+    package managment related utility programs
+apt-watch (0.4.0-2.1)
+    Applet that monitors apt sources for upgrades (transitional package)
+apt-watch-backend (0.4.0-2.1)
+    Applet that monitors apt sources for upgrades (backend slave)
+apt-watch-gnome (0.4.0-2.1)
+    Applet that monitors apt sources for upgrades (GNOME applet)
+apt-xapian-index (0.45)
+    maintenance and search tools for a Xapian index of Debian packages
+apt-zip (0.18)
+    Update a non-networked computer using apt and removable media
+aptdaemon (0.45-2)
+    transaction based package management service
+aptdaemon-data (0.45-2)
+    data files for clients
+apticron (1.1.55)
+    Simple tool to mail about pending package updates
+aptitude (0.6.8.2-1)
+    terminal-based package manager
+aptitude-common (0.6.8.2-1)
+    architecture indepedent files for the aptitude package manager
+aptoncd (0.1.98+bzr117-1.2)
+    Installation disc creator for packages downloaded via APT
+aptsh (0.0.7+nmu2+b1)
+    apt interactive shell
+arcboot (0.3.15)
+    Bootloader for MIPS based SGI IP22 and IP32 machines
+arcload (0.5-7)
+    bootloader for SGI/ARCS machines
+arp-scan (1.8.1-2)
+    arp scanning and fingerprinting tool
+arpwatch (2.1a15-1.2)
+    Ethernet/FDDI station activity monitor
+array-info (0.15-1)
+    command line tool reporting RAID status for several RAID types
+aspcud (2011.03.17.dfsg-6)
+    CUDF solver based on Answer Set Programming
+asql (1.6-1)
+    Run SQL queries against apache logs
+at (3.1.13-2+deb7u1)
+    Delayed job execution and batch processing
+atop (1.26-2)
+    Monitor for system resources and process activity
+atsar (1.7-2+b1 [mips, mipsel], 1.7-2 [amd64, armel, armhf, i386, ia64, powerpc, s390, s390x, sparc])
+    system activity reporter
+audispd-plugins (1:1.7.18-1.1)
+    Plugins for the audit event dispatcher
+auditd (1:1.7.18-1.1)
+    User space tools for security auditing
+augeas-tools (0.10.0-1)
+    Augeas command line tools
+auto-apt (0.3.22)
+    package search by file and on-demand package installation tool
+autolog (0.40-13.1)
+    Terminates connections for idle users
+automysqlbackup (2.6+debian.3-1)
+    daily, weekly and monthly backup for your MySQL database
+autopostgresqlbackup (1.0-2)
+    Automated tool to make periodic backups of PostgreSQL databases
+autopsy (2.24-1)
+    graphical interface to SleuthKit
+backup-manager (0.7.10.1-2)
+    command-line backup tool
+backup2l (1.5-6)
+    low-maintenance backup/restore tool
+backupninja (1.0.1-1)
+    lightweight, extensible meta-backup system
+bacula (5.2.6+dfsg-9)
+    network backup service - metapackage
+bacula-client (5.2.6+dfsg-9)
+    network backup service - client metapackage
+bacula-common (5.2.6+dfsg-9)
+    network backup service - common support files
+bacula-common-mysql (5.2.6+dfsg-9)
+    network backup service - MySQL common files
+bacula-common-pgsql (5.2.6+dfsg-9)
+    network backup service - PostgreSQL common files
+bacula-common-sqlite3 (5.2.6+dfsg-9)
+    network backup service - SQLite v3 common files
+bacula-console (5.2.6+dfsg-9)
+    network backup service - text console
+bacula-director-common (5.2.6+dfsg-9)
+    network backup service - Director common files
+bacula-director-mysql (5.2.6+dfsg-9)
+    network backup service - MySQL storage for Director
+bacula-director-pgsql (5.2.6+dfsg-9)
+    network backup service - PostgreSQL storage for Director
+bacula-director-sqlite3 (5.2.6+dfsg-9)
+    network backup service - SQLite 3 storage for Director
+bacula-fd (5.2.6+dfsg-9)
+    network backup service - file daemon
+bacula-sd (5.2.6+dfsg-9)
+    network backup service - storage daemon
+bacula-sd-mysql (5.2.6+dfsg-9)
+    network backup service - MySQL SD tools
+bacula-sd-pgsql (5.2.6+dfsg-9)
+    network backup service - PostgreSQL SD tools
+bacula-sd-sqlite3 (5.2.6+dfsg-9)
+    network backup service - SQLite 3 SD tools
+bacula-server (5.2.6+dfsg-9)
+    network backup service - server metapackage
+bacula-traymonitor (5.2.6+dfsg-9)
+    network backup service - tray monitor
+balance (3.42-1)
+    Load balancing solution and generic tcp proxy
+base-files (7.1wheezy8)
+    Debian base system miscellaneous files
+base-passwd (3.5.26)
+    Debian base system master password and group files
+battery-stats (0.3.6-1)
+    collects statistics about charge of laptop batteries
+bcfg2 (1.2.2-2)
+    Configuration management client
+bcfg2-server (1.2.2-2)
+    Configuration management server
+bcfg2-web (1.2.2-2)
+    Configuration management web interface
+bcron (0.09-13)
+    Bruce's cron system (programs)
+bcron-run (0.09-13)
+    Bruce's cron system
+bindgraph (0.2a-5.1)
+    DNS statistics RRDtool frontend for BIND9
+binfmt-support (2.0.12)
+    Support for extra binary formats
+bkhive (1.1.1-1)
+    Dump the syskey bootkey from a Windows NT/2K/XP system hive
+bld (0.3.4.1-4)
+    Black List Daemon, automatically build blacklists
+bld-postfix (0.3.4.1-4)
+    Postfix tools for the Black List Daemon
+bld-tools (0.3.4.1-4)
+    Generic tools for Black List Daemon
+bleachbit (0.9.2-2)
+    delete unnecessary files from the system
+blktool (4-6.1)
+    tune low-level block device parameters
+blueproximity (1.2.5-6)
+    locks/unlocks your desktop tracking a bluetooth device
+bluetooth (4.99-2)
+    Bluetooth support
+bluewho (0.1-1)
+    notifies new discovered bluetooth devices
+bluez (4.99-2)
+    Bluetooth tools and daemons
+bluez-alsa (4.99-2)
+    Bluetooth ALSA support
+bluez-audio (4.99-2)
+    Transitional package
+bluez-compat (4.99-2)
+    BlueZ 3.x compatibility binaries
+bluez-cups (4.99-2)
+    Bluetooth printer driver for CUPS
+bluez-gstreamer (4.99-2)
+    Bluetooth GStreamer support
+bluez-hcidump (2.4-1)
+    Analyses Bluetooth HCI packets
+bluez-pcmcia-support (4.99-2)
+    PCMCIA support files for BlueZ 2.0 Bluetooth tools
+bluez-utils (4.99-2)
+    Transitional package
+boot-info-script (0.61-1)
+    inspect boot environment
+bootchart (0.10~svn407-4.1~deb7u1)
+    Boot process performance analyser
+bootchart-view (0.10~svn407-4.1~deb7u1)
+    Boot process performance analyser (visualisation)
+booth (0.1.0-1)
+    Paxos-based daemon to manage multi-site clusters
+booth-pacemaker (0.1.0-1)
+    Resource agents to integrate booth with Pacemaker
+bootlogd (2.88dsf-41+deb7u1)
+    daemon to log boot messages
+brltty (4.4-10+deb7u1)
+    Access software for a blind person using a braille display
+brltty-espeak (4.4-10+deb7u1)
+    Access software for a blind person - espeak driver
+brltty-flite (4.4-10+deb7u1)
+    Access software for a blind person - Flite speech driver
+brltty-speechd (4.4-10+deb7u1)
+    Access software for a blind person - Speech Dispatcher driver
+brltty-x11 (4.4-10+deb7u1)
+    Access software for a blind person using a braille display - X11 drivers
+broadcom-sta-common (5.100.82.112-8) [non-free]
+    Common files for the Broadcom STA Wireless driver
+broadcom-sta-source (5.100.82.112-8) [non-free]
+    Source for the Broadcom STA Wireless driver
+bsign (0.4.5)
+    Corruption & intrusion detection using embedded hashes
+btrfs-tools (0.19+20120328-7.1)
+    Checksumming Copy on Write Filesystem utilities
+bum (2.5.2-1)
+    graphical runlevel editor
+bup (0.25~git2011.11.04-5.1)
+    highly efficient file backup system based on git
+calife (1:3.0.1-4)
+    Provides super user privileges to specific users
+cciss-vol-status (1.09-2+deb7u1)
+    HP SmartArray RAID Volume Status Checker
+cdbackup (0.7.0-5)
+    CD-R(W) backup utility
+cdebconf-gtk (0.182)
+    Gtk+ frontend for Debian Configuration Management System
+cdebootstrap (0.5.9)
+    Bootstrap a Debian system
+cdebootstrap-static (0.5.9)
+    Bootstrap a Debian system - static binary
+cedar-backup2 (2.21.0-2)
+    local and remote backups to CD or DVD media
+cfengine2 (2.2.10-5)
+    Tool for configuring and maintaining network machines
+cfengine3 (3.2.4-2+nmu1)
+    tool for configuring and maintaining network machines
+cfget (0.18-1)
+    featureful tool to read values from config files
+cgroup-bin (0.38-1)
+    Tools to control and monitor control groups
+check-mk-agent (1.1.12p7-1)
+    general purpose nagios-plugin for retrieving data
+check-mk-agent-logwatch (1.1.12p7-1)
+    general purpose nagios-plugin for retrieving data
+check-mk-config-icinga (1.1.12p7-1)
+    general purpose nagios-plugin for retrieving data
+check-mk-config-nagios3 (1.1.12p7-1)
+    general purpose nagios-plugin for retrieving data
+check-mk-livestatus (1.1.12p7-1)
+    general purpose nagios-plugin for retrieving data
+check-mk-multisite (1.1.12p7-1)
+    general purpose nagios-plugin for retrieving data
+check-mk-server (1.1.12p7-1)
+    general purpose nagios-plugin for retrieving data
+checkinstall (1.6.2-4+b1 [s390x], 1.6.2-4 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc])
+    installation tracker
+checksecurity (2.0.14)
+    basic system security checks
+chiark-really (4.2.0)
+    really - a tool for gaining privilege (simple, realistic sudo)
+chiark-scripts (4.2.0)
+    chiark system administration scripts
+chkconfig (11.4-54.60.1-1)
+    system tool to enable or disable system services
+chntpw (0.99.6-2)
+    NT SAM password recovery utility
+chrony (1.24-3.1+deb7u2)
+    Sets your computer's clock from time servers on the Net
+chrootuid (1.3-6)
+    Run commands in restricted environments
+cluster-agents (1:1.0.3-4)
+    The reusable cluster components for Linux HA
+cluster-glue (1.0.9+hg2665-1)
+    The reusable cluster components for Linux HA
+cluster-glue-dev (1.0.9+hg2665-1)
+    Development files for the cluster glue components
+clusterssh (4.01.01-4)
+    administer multiple ssh or rsh shells simultaneously
+clvm (2.02.95-8)
+    Cluster LVM Daemon for lvm2
+cman (3.0.12-3.2+deb7u2)
+    Red Hat cluster suite - cluster manager
+cobalt-panel-utils (1.0.2-3)
+    System utilities for Sun Cobalt's LCD and LEDs
+collectl (3.6.3-1)
+    Utility to collect Linux performance data
+collectl-utils (3.2.1-1)
+    Utilities to analyze and plot performance data from collectl
+colo (1.22-1)
+    boot loader for MIPS based Cobalt machines
+command-not-found (0.2.38-1)
+    Suggest installation of packages in interactive bash sessions
+compartment (1.1.0-4)
+    Confine services in a limited environment
+configure-debian (1.0.2-0.1)
+    central configuration program for packages using debconf
+console-log (1.1-2)
+    Puts a logfile pager on virtual consoles
+consolekit (0.4.5-3.1)
+    framework for defining and tracking users, sessions and seats
+conspy (1.8-2)
+    Remote control of Linux virtual consoles
+controlaula (1.8.0-3)
+    classroom management tool
+coolkey (1.1.0-12)
+    Smart Card PKCS #11 cryptographic module
+corosync (1.4.2-3)
+    Standards-based cluster framework (daemon and modules)
+couriergraph (0.25-4.3)
+    Mail statistics RRDtool frontend for Courier-{POP,IMAP}
+cpqarrayd (2.3-1.3)
+    monitoring tool for HP (Compaq) SmartArray controllers
+cpu (1.4.3-11.3)
+    a console based LDAP user management tool
+cpufreqd (2.4.2-2)
+    fully configurable daemon for dynamic frequency and voltage scaling
+cpufrequtils (008-1)
+    utilities to deal with the cpufreq Linux kernel feature
+cpuid (3.3-9)
+    Intel and AMD x86 CPUID display program
+cpulimit (1.7-1)
+    tool for limiting the CPU usage of a process
+crack (5.0a-9.3)
+    Password guessing program
+crack
+    virtual package provided by crack-md5
+crack-common (5.0a-9.3)
+    Password guessing program
+crack-md5 (5.0a-9.3)
+    Password guessing program
+cracklib-runtime (2.8.19-3)
+    runtime support for password checker library cracklib2
+createrepo (0.4.11-1)
+    generates the metadata necessary for a RPM package repository
+cron (3.0pl1-124)
+    process scheduling daemon
+cron
+    virtual package provided by bcron-run
+cron-apt (0.9.1)
+    automatic update of packages using apt-get
+cronutils (1.2-1)
+    Utilities to assist running batch processing jobs
+cruft (0.9.16)
+    program that finds any cruft built up on your system
+cryptkeeper (0.9.5-5.1)
+    EncFS system tray applet for GNOME
+cryptmount (4.3.1-1)
+    Management of encrypted file systems
+cryptsetup (2:1.4.3-4)
+    disk encryption support - startup scripts
+cryptsetup-bin (2:1.4.3-4)
+    disk encryption support - command line tools
+csync2 (1.34-2.2+b1)
+    cluster synchronization tool
+cupt (2.5.9)
+    alternative front-end for dpkg -- console interface
+customdeb (0.1)
+    Modfies binary Debian package
+cvm (0.96-1+b1)
+    Credential Validation Modules
+cvm-mysql (0.96-1+b1)
+    Credential Validation Modules (MySQL)
+cvm-pgsql (0.96-1+b1)
+    Credential Validation Modules (PostgreSQL)
+daemontools (1:0.76-3)
+    a collection of tools for managing UNIX services
+daemontools-run (1:0.76-3)
+    daemontools service supervision
+daptup (0.12.5.1)
+    reporter of changes in list of available packages from repositories
+das-watchdog (0.9.0-2)
+    solves system lock-ups by making all processes non-realtime
+dbconfig-common (1.8.47+nmu1)
+    common framework for packaging database applications
+dcfldd (1.3.4.1-2.1)
+    enhanced version of dd for forensics and security
+dchroot (1.6.4-4)
+    Execute commands in a chroot environment
+dchroot-dsa (1.6.4-4)
+    Execute commands in a chroot environment
+ddpt (0.92-1)
+    Dump data to and from storage devices
+debconf (1.5.49)
+    Debian configuration management system
+debfoster (2.7-1.2)
+    Install only wanted Debian packages
+debian-builder (1.8)
+    Rebuild Debian packages from source code
+debian-cd (3.1.13)
+    Tools for building (Official) Debian CD set
+debirf (0.33)
+    build a kernel and initrd to run Debian from RAM
+debootstrap (1.0.48+deb7u2)
+    Bootstrap a basic Debian system
+deborphan (1.7.28.8)
+    program that can find unused packages, e.g. libraries
+debram (1.0.3-0.2)
+    ramified catalog of available .debs
+debram-data (1.0.3-0.2)
+    debram's architecture-independent data
+debsecan (0.4.16+nmu1)
+    Debian Security Analyzer
+debsig-verify (0.8)
+    Debian Package Signature Verification Tool
+debsums (2.0.52+deb7u1)
+    tool for verification of installed package files against MD5 checksums
+debtags (1.10.1)
+    Enables support for package tags
+deets (0.1.3-1)
+    decentralized model-based administration tool
+devd (9.0+ds1-11~deb7u1)
+    device state change monitoring daemon
+dff (1.2.0+dfsg.1-1)
+    Powerful, efficient and modular digital forensic framework
+dh-metainit (0.0.5)
+    Debhelper addon to install and register a metainit file
+dhcpdump (1.8-2)
+    Parse DHCP packets from tcpdump
+dhcping (1.2-4)
+    DHCP Daemon Ping Program
+dibbler-client (0.8.2-1)
+    portable DHCPv6 client
+dibbler-relay (0.8.2-1)
+    portable DHCPv6 relay
+dibbler-server (0.8.2-1)
+    portable DHCPv6 server
+diffmon (20020222-2.5)
+    Tool for reporting changes in system configuration
+diod (1.0.13-3)
+    I/O forwarding server for 9P
+dirvish (1.2.1-1.2)
+    Filesystem based backup system using rsync
+discover (2.1.2-5.2)
+    hardware identification system
+dish (1.18.3-1)
+    diligence/distributed shell for parallel sysadmin
+disk-manager (1.1.1-2)
+    simple graphical filesystem configurator
+djagios (0.1.3+dfsg-1)
+    A package to help configure nagios written in Django
+dkopp (6.2-1)
+    Full and incremental backup to DVD
+dlm-pcmk (3.0.12-3.2+deb7u2)
+    Red Hat cluster suite - DLM pacemaker module
+dlz-ldap-enum (1.0.2-1)
+    Plug-in for bind9 that uses LDAP data to fulfill ENUM requests
+dmeventd (2:1.02.74-8)
+    Linux Kernel Device Mapper event daemon
+dmraid (1.0.0.rc16-4.2)
+    Device-Mapper Software RAID support tool
+dmsetup (2:1.02.74-8)
+    Linux Kernel Device Mapper userspace library
+downtimed (0.5-2)
+    monitor of downtime, shutdown, and crashes
+dphys-config (20100216-1)
+    Tool to distribute config files
+dphys-swapfile (20061020-4)
+    Autogenerate and use a swap file
+dpkg (1.16.15)
+    Debian package management system
+dpkg-repack (1.37)
+    puts an unpacked .deb file back together
+dpsyco (1.0.36)
+    Debian packages of system configurations
+dpsyco-base (1.0.36)
+    Base package for the debian packages of system configurations
+dpsyco-cfengine (1.0.36)
+    Automate applying of cfengine configs
+dpsyco-devel (1.0.36)
+    Tools to create configuration packages
+dpsyco-lib (1.0.36)
+    Libraries for the debian packages of system configurations
+dpsyco-mysql (1.0.36)
+    Automate administration of access to mysql
+dpsyco-patch (1.0.36)
+    Automatically patch the debian file-system
+dpsyco-samba (1.0.36)
+    Automate administration of access to samba
+dpsyco-skel (1.0.36)
+    Automatically install a add-on skeleton
+dpsyco-ssh (1.0.36)
+    Automate administration of access via ssh
+dpsyco-sudo (1.0.36)
+    Automate administration of sudo privileges
+dpt-i2o-raidutils (0.0.6-19)
+    Adaptec I2O hardware RAID management utilities
+drbd8-utils (2:8.3.13-2)
+    RAID 1 over tcp/ip for Linux utilities
+drbdlinks (1.19-1)
+    Manages symlinks into a shared DRBD partition
+drbl (1.10.90-1)
+    diskless remote boot, and a disk cloning utility
+driftnet (0.1.6+cvs20040426-3)
+    picks out and displays images from network traffic
+dselect (1.16.15)
+    Debian package management front-end
+dstat (0.7.2-3)
+    versatile resource statistics tool
+dsyslog (0.6.0+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.6.0+b1 [armhf, s390x])
+    advanced modular syslog daemon
+dsyslog-module-gnutls (0.6.0+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.6.0+b1 [armhf, s390x])
+    advanced modular syslog daemon - GnuTLS support
+dsyslog-module-mysql (0.6.0+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.6.0+b1 [armhf, s390x])
+    advanced modular syslog daemon - MySQL support
+dsyslog-module-postgresql (0.6.0+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.6.0+b1 [armhf, s390x])
+    advanced modular syslog daemon - PostgreSQL support
+duende (1.4.12-5)
+    logging daemonizer
+dvbackup (1:0.0.4-7)
+    backup tool using MiniDV camcorders
+dynalogin-server (0.9.14-2)
+    two-factor HOTP authentication - server daemon
+e2fsck-static (1.42.5-1.1+deb7u1) [security]
+    statically-linked version of the ext2/ext3/ext4 filesystem checker
+e2fsprogs (1.42.5-1.1+deb7u1) [security]
+    ext2/ext3/ext4 file system utilities
+e2undel (0.82-1.1)
+    Undelete utility for the ext2 file system
+edac-utils (0.18-1)
+    report kernel-detected PCI and ECC RAM errors
+efibootmgr (0.5.4-3)
+    Interact with the EFI Boot Manager
+elilo (3.14-2)
+    Bootloader for systems using EFI-based firmware
+epoptes (0.5.6-1)
+    Computer lab management tool
+epoptes-client (0.5.6-1)
+    Computer lab management tool (client)
+eql (1.2.ds1-3)
+    load balancing tool for serial network connections
+equivs (2.0.9)
+    Circumvent Debian package dependencies
+espeakup (1:0.71-13)
+    Connector between speakup kernel modules and espeak
+etckeeper (0.63)
+    store /etc in git, mercurial, bzr or darcs
+eventstat (0.01.15-1)
+    kernel event states monitoring tool
+ewf-tools (20100226-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 20100226-1 [armhf, s390x])
+    collection of tools for reading and writing EWF files
+execstack (0.0.20090925-6)
+    ELF GNU_STACK program header editing utility
+ext3grep (0.10.1-3.2)
+    Tool to help recover deleted files on ext3 filesystems
+facter (1.6.10-1)
+    collect and display facts about the system
+fai-client (4.0.8~deb7u1)
+    Fully Automatic Installation client package
+fai-nfsroot (4.0.8~deb7u1)
+    Fully Automatic Installation nfsroot package
+fai-quickstart (4.0.8~deb7u1)
+    Fully Automatic Installation quickstart package
+fai-server (4.0.8~deb7u1)
+    Fully Automatic Installation server package
+fai-setup-storage (4.0.8~deb7u1)
+    automatically prepare storage devices
+fake (1.1.11-1+b1 [amd64, armel, i386, powerpc], 1.1.11-1 [armhf, ia64, mips, mipsel, s390, s390x, sparc])
+    IP address takeover tool
+fake-hwclock (0.5)
+    Save/restore system clock on machines without working RTC hardware
+fam (2.7.0-17)
+    File Alteration Monitor
+fbset (2.1-25)
+    framebuffer device maintenance program
+fcheck (2.7.59-18)
+    IDS filesystem baseline integrity checker
+febootstrap (3.17-1)
+    tool for building supermin appliances.
+fence-agents (3.1.5-2)
+    Fence Agents for Red Hat Cluster
+fgetty (0.6-5)
+    very small, efficient, console-only getty and login
+file-rc (0.8.15)
+    Alternative boot mechanism using a single configuration file
+filetraq (0.2-14)
+    Small utility to keep track of changes in config files
+firestarter (1.0.3-11)
+    GTK program for managing and observing your firewall
+flamethrower (0.1.8-3)
+    Multicast file distribution utility
+flashybrid (0.17)
+    automates use of a flash disk as the root filesystem
+flexbackup (1.2.1-6.2)
+    Flexible backup tool for small to medium sized installations
+foremost (1.5.7-5~deb7u1)
+    forensic program to recover lost files
+francine (0.99.8orig-6)
+    feature rich ansi console login engine
+freebsd-geom (9.0+ds1-11~deb7u1)
+    modular disk I/O request transformation framework (meta-package)
+freebsd-quota (8.2-1)
+    management of file system quota for UFS
+freeipmi (1.1.5-3)
+    GNU implementation of the IPMI protocol
+freeipmi-bmc-watchdog (1.1.5-3)
+    GNU implementation of the IPMI protocol - BMC watchdog
+freeipmi-common (1.1.5-3)
+    GNU implementation of the IPMI protocol - common files
+freeipmi-ipmidetect (1.1.5-3)
+    GNU IPMI - IPMI node detection tool
+freeipmi-tools (1.1.5-3)
+    GNU implementation of the IPMI protocol - tools
+fsarchiver (0.6.15-1)
+    file system archiver
+fslint (2.42-2)
+    Utility collection to find and fix common errors in file storage
+fsprotect (1.0.6)
+    Helper scripts to make filesystems immutable
+fstransform (0.9.3-1)
+    Tool for in-place filesystem conversion
+fsvs (1.2.3-0+nmu1)
+    Full system versioning with metadata support
+fuseiso (20070708-3)
+    FUSE module to mount ISO filesystem images
+fwknop-client (2.0.0rc2-2+deb7u2)
+    FireWall KNock OPerator client side - C version
+fwknop-server (2.0.0rc2-2+deb7u2)
+    FireWall KNock OPerator server side - C version
+fwsnort (1.6.2-1)
+    Snort-to-iptables rule translator
+fxload (0.0.20081013-1)
+    Firmware download to EZ-USB devices
+gadmin-bind (0.2.5-2)
+    GTK+ configuration tool for bind9
+gadmin-openvpn-client (0.1.2-4)
+    GTK+ configuration tool for openvpn (client)
+gadmin-openvpn-server (0.1.5-3.1)
+    GTK+ configuration tool for openvpn (server)
+gadmin-proftpd (1:0.4.2-1)
+    GTK+ configuration tool for proftpd
+gadmin-rsync (0.1.7-1)
+    GTK+ configuration tool for rsync
+gadmin-samba (0.2.9-3)
+    GTK+ configuration tool for samba
+gadmin-tools (10)
+    GTK+ server administration tools (transitional package)
+gadmintools (10)
+    GTK+ server administration tools (meta-package)
+galternatives (0.13.5+nmu2)
+    graphical setup tool for the alternatives system
+gamin (0.1.10-4.1)
+    File and directory monitoring system
+ganeti-htools (2.5.2-1)
+    Cluster allocation tools for Ganeti
+ganeti-instance-debootstrap (0.11-1)
+    debootstrap-based instance OS definition for ganeti
+ganeti2 (2.5.2-1)
+    Cluster-based virtualization management software
+ganglia-modules-linux (1.3.4-6)
+    Ganglia extra modules for Linux (IO, filesystems, multicpu)
+gdebi (0.8.7)
+    simple tool to install deb files - GNOME GUI
+gdebi-core (0.8.7)
+    simple tool to install deb files
+gdebi-kde (0.8.7)
+    simple tool to install deb files - KDE GUI
+gdisk (0.8.5-1)
+    GPT fdisk text-mode partitioning tool
+genders (1.18-1)
+    cluster configuration management database tools
+genext2fs (1.4.1-4)
+    ext2 filesystem generator for embedded systems
+genromfs (0.5.2-2)
+    This is the mkfs equivalent for romfs filesystem
+geom (9.0+ds1-11~deb7u1)
+    modular disk I/O request transformation framework
+gfs-pcmk (3.0.12-3.2+deb7u2)
+    Red Hat cluster suite - GFS pacemaker module
+gfs-tools (3.0.12-3.2+deb7u2)
+    Red Hat cluster suite - global file system tools
+gfs2-tools (3.0.12-3.2+deb7u2)
+    Red Hat cluster suite - global file system 2 tools
+gkdebconf (1.2.68)
+    Helper to reconfigure packages with Debconf
+gksu (2.0.2-6)
+    graphical frontend to su
+glusterfs-client (3.2.7-3+deb7u1)
+    clustered file-system (client package)
+glusterfs-examples (3.2.7-3+deb7u1)
+    example files for the glusterfs server and client
+glusterfs-server (3.2.7-3+deb7u1)
+    clustered file-system (server package)
+gnome-disk-utility (3.0.2-3)
+    manage and configure disk drives and media
+gobi-loader (0.6-1) [contrib]
+    Firmware loader for Qualcomm Gobi USB chipsets.
+goplay (0.5-1.1)
+    games (and more) package browser using DebTags
+gpaco (2.0.9-2)
+    simple but yet powerful source code package management system(GUI)
+gpart (0.1h-11+b2 [armel, ia64], 0.1h-11+b1 [amd64, i386], 0.1h-11 [mipsel])
+    Guess PC disk partition table, find lost partitions
+gptsync (0.14-2)
+    GPT and MBR partition tables synchronisation tool
+gradm2 (2.9.1~201206091838-1)
+    Administration program for the grsecurity2 RBAC based ACL system
+grml-debootstrap (0.54)
+    wrapper around debootstrap for installing pure Debian
+grml-rescueboot (0.4.2)
+    Integrates Grml ISO booting into GRUB
+grml2usb (0.12.2)
+    install grml system / ISO to usb device
+grub-choose-default (0.2-6)
+    Control Grub Default through a GUI
+grub-common (1.99-27+deb7u2)
+    GRand Unified Bootloader (common files)
+grub-coreboot (1.99-27+deb7u2)
+    GRand Unified Bootloader, version 2 (Coreboot version)
+grub-coreboot-bin (1.99-27+deb7u2)
+    GRand Unified Bootloader, version 2 (Coreboot binaries)
+grub-disk (0.97-67)
+    GRUB bootable disk image (dummy package)
+grub-efi (1.99-27+deb7u2)
+    GRand Unified Bootloader, version 2 (dummy package)
+grub-efi-amd64 (1.99-27+deb7u2)
+    GRand Unified Bootloader, version 2 (EFI-AMD64 version)
+grub-efi-amd64-bin (1.99-27+deb7u2)
+    GRand Unified Bootloader, version 2 (EFI-AMD64 binaries)
+grub-efi-ia32 (1.99-27+deb7u2)
+    GRand Unified Bootloader, version 2 (EFI-IA32 version)
+grub-efi-ia32-bin (1.99-27+deb7u2)
+    GRand Unified Bootloader, version 2 (EFI-IA32 binaries)
+grub-emu (1.99-27+deb7u2)
+    GRand Unified Bootloader, version 2 (emulated version)
+grub-firmware-qemu (1.99-27+deb7u2)
+    GRUB firmware image for QEMU
+grub-ieee1275 (1.99-27+deb7u2)
+    GRand Unified Bootloader, version 2 (Open Firmware version)
+grub-ieee1275-bin (1.99-27+deb7u2)
+    GRand Unified Bootloader, version 2 (Open Firmware binaries)
+grub-imageboot (0.6)
+    boot iso, harddisk and floppy images with grub2 and syslinux memdisk
+grub-legacy (0.97-67)
+    GRand Unified Bootloader (Legacy version)
+grub-linuxbios (1.99-27+deb7u2)
+    GRand Unified Bootloader, version 2 (dummy package)
+grub-pc (1.99-27+deb7u2)
+    GRand Unified Bootloader, version 2 (PC/BIOS version)
+grub-pc-bin (1.99-27+deb7u2)
+    GRand Unified Bootloader, version 2 (PC/BIOS binaries)
+grub-rescue-pc (1.99-27+deb7u2)
+    GRUB bootable rescue images, version 2 (PC/BIOS version)
+grub-splashimages (1.2.3)
+    a collection of great GRUB splashimages
+grub-yeeloong (1.99-27+deb7u2)
+    GRand Unified Bootloader, version 2 (Yeeloong version)
+grub-yeeloong-bin (1.99-27+deb7u2)
+    GRand Unified Bootloader, version 2 (Yeeloong binaries)
+grub2 (1.99-27+deb7u2)
+    GRand Unified Bootloader, version 2 (dummy package)
+grub2-common (1.99-27+deb7u2)
+    GRand Unified Bootloader (common files for version 2)
+grub2-splashimages (1.0.1+nmu1)
+    a collection of great GRUB2 splashimages
+gsutil (3.1-1)
+    configure and manage Grandstream BudgeTone 100 VOIP and GX2000 phones
+gtkorphan (0.4.4-1.1)
+    A graphical tool to find and remove orphaned libraries
+guestfish (1:1.18.1-1+deb7u3)
+    guest disk image management system - file system shell
+guestmount (1:1.18.1-1+deb7u3)
+    guest disk image management system - FUSE mount utility
+gufw (12.10.0-1)
+    graphical user interface for ufw
+gui-apt-key (0.4-2)
+    Graphical Key Manager for APT
+haci (0.97c-2)
+    web based IP(v6) address and network administration tool
+hal (0.5.14-8)
+    Hardware Abstraction Layer
+hal-info (20091130-1)
+    Hardware Abstraction Layer - fdi files
+halevt (0.1.6.2-2)
+    generic handler for HAL events
+hapm (0.7-1)
+    light and fast high availability port monitor
+harden (0.1.38+nmu1)
+    Makes your system hardened
+harden-clients (0.1.38+nmu1)
+    Avoid clients that are known to be insecure
+harden-development (0.1.38+nmu1)
+    Development tools for creating more secure programs
+harden-environment (0.1.38+nmu1)
+    Hardened system environment
+harden-nids (0.1.38+nmu1)
+    Harden a system by using a network intrusion detection system
+harden-remoteaudit (0.1.38+nmu1)
+    Audit your remote systems from this host
+harden-servers (0.1.38+nmu1)
+    Avoid servers that are known to be insecure
+harden-surveillance (0.1.38+nmu1)
+    Check services and/or servers automatically
+harden-tools (0.1.38+nmu1)
+    Tools to enhance or analyze the security of the local system
+hatop (0.7.7-1)
+    interactive ncurses client for haproxy
+hdparm (9.39-1+b1)
+    tune hard disk parameters for high performance
+heartbeat (1:3.0.5-3)
+    Subsystem for High-Availability Linux
+hostname (3.11)
+    utility to set/show the host name or domain name
+hotswap (0.4.0-12)
+    (de)register hotswappable IDE hardware
+hotswap-gui (0.4.0-12)
+    (de)register hotswappable IDE hardware (GUI front-ends)
+hotswap-text (0.4.0-12)
+    (de)register hotswappable IDE hardware (command line tool)
+hp-search-mac (0.1.3)
+    Search for a MAC address on HP switches
+hwinfo (16.0-2.2)
+    Hardware identification system
+hwloc (1.4.1-4)
+    Hierarchical view of the machine - utilities
+hwloc-nox (1.4.1-4)
+    Hierarchical view of the machine - non-X version of utilities
+idle3-tools (0.9.1-1)
+    change the idle3 timer of recent Western Digital Hard Disk Drives
+ifupdown (0.7.8)
+    high level tools to configure network interfaces
+ifupdown
+    virtual package provided by netscript-2.4
+ifupdown-extra (0.22)
+    Network scripts for ifupdown
+iisemulator (0.95-3)
+    Emulation for the IIS web server
+ikeyd (0.6.1)
+    Daemon for handling special Apple laptop hotkeys
+ikiwiki-hosting-common (0.20120527)
+    ikiwiki hosting: common files
+ikiwiki-hosting-dns (0.20120527)
+    ikiwiki hosting: dns server
+ikiwiki-hosting-web (0.20120527)
+    ikiwiki hosting: web server
+imvirt (0.9.4-4)
+    detects several virtualizations
+imvirt-helper (0.9.4-4)
+    helper programs to detect several virtualizations
+incron (0.5.10-1)
+    cron-like daemon which handles filesystem events
+initscripts (2.88dsf-41+deb7u1)
+    scripts for initializing and shutting down the system
+integrit (4.1-1)
+    A file integrity verification program
+intel-microcode (1.20140913.1) [non-free]
+    Processor microcode firmware for Intel CPUs
+ioping (0.6-1)
+    Simple disk I/O latency measuring tool
+iotop (0.4.4-4)
+    simple top-like I/O monitor
+ips (4.0-1)
+    Intelligent process status
+iptables-persistent (0.5.7)
+    boot-time loader for iptables rules
+iptotal (0.3.3-13)
+    monitor for IP traffic, not requiring SNMP
+iptstate (2.2.5-1)
+    top-like interface to your netfilter connection-tracking table
+ipxe (1.0.0+git-20120202.f6840ba-3)
+    PXE boot firmware
+ipxe-qemu (1.0.0+git-20120202.f6840ba-3)
+    PXE boot firmware - ROM images for qemu
+isag (10.0.5-1)
+    Interactive System Activity Grapher for sysstat
+istgt (0.4~20111008-3)
+    iSCSI userspace target daemon for Unix-like operating systems
+itop (0.1-4)
+    simple top-like interrupt load monitor
+iwatch (0.2.2-2)
+    realtime filesystem monitoring program using inotify
+ixp4xx-microcode (2.4-3) [non-free]
+    Binary microcode for the IXP4xx ethernet
+jablicator (1.0.1)
+    Share a set of package choices
+jailer (0.4-17)
+    Builds and maintains chrooted environments
+jailtool (1.1-5)
+    tool to build chroot-jails for daemons
+jfsutils (1.1.15-2)
+    utilities for managing the JFS filesystem
+john (1.7.8-1)
+    active password cracking tool
+john-data (1.7.8-1)
+    active password cracking tool - character sets
+jxplorer (3.2.2~rc1+dfsg-3)
+    Java LDAP Browser
+k8temp (0.4.0-2)
+    AMD K8 thermal diode reader for BSD system
+kalternatives (0.13-2)
+    graphical alternatives system configuration tool
+kcron (4:4.8.4-3)
+    program scheduler frontend - transitional package
+kde-config-cron (4:4.8.4-3)
+    program scheduler frontend
+keepalived (1:1.2.2-3)
+    Failover and monitoring daemon for LVS clusters
+kexec-tools (1:2.0.3-1+deb7u1)
+    tools to support fast kexec reboots
+keytouch-editor (1:3.2.0~beta-3)
+    create keyboard files for keytouch
+keyutils (1.5.5-3+deb7u1)
+    Linux Key Management Utilities
+kmod (9-3)
+    tools for managing Linux kernel modules
+kolabadmin (0.0.20080222-4)
+    Kolab administration tool
+kpartx (0.4.9+git0.4dfdaf2b-7~deb7u2)
+    create device mappings for partitions
+ksplice (0.9.9-4)
+    Patching live kernel without having to reboot
+ksystemlog (4:4.8.4-3)
+    system log viewer
+kuser (4:4.8.4-3)
+    user and group administration tool
+kvpm (0.8.6-2+deb7u2)
+    Logical volume manager and disk partitioner GUI based on KDE
+ladder (0.0.4)
+    Stepwise repository upgrade tool
+launchtool (0.8-2)
+    command launcher and supervisor
+ldap2dns (0.3.1-3.1)
+    LDAP based DNS management system.
+ldapscripts (2.0.1-1)
+    Add and remove user and groups (stored in a LDAP directory)
+ldaptor-utils (0.0.43+debian1-7)
+    command-line LDAP utilities
+ldirectord (1:3.9.2-5+deb7u2)
+    Monitors virtual services provided by LVS
+ledmon (0.32-1)
+    Enclosure LED Utilities
+lib32nss-mdns (0.10-3.2)
+    NSS module for Multicast DNS name resolution (32-bits version)
+libc6-mips64 (2.13-38+deb7u8) [security]
+    Embedded GNU C Library: 64bit Shared libraries for MIPS64
+libc6-mipsn32 (2.13-38+deb7u8) [security]
+    Embedded GNU C Library: n32 Shared libraries for MIPS64
+libcap-ng-utils (0.6.6-2)
+    Utilities for analysing and setting file capabilities
+libcluster-glue (1.0.9+hg2665-1)
+    Reusable cluster libraries (transitional package)
+libcupt2-0-downloadmethod-curl (2.5.9)
+    alternative front-end for dpkg -- libcurl download method
+libcupt2-0-downloadmethod-wget (2.5.9)
+    alternative front-end for dpkg -- wget download method
+libguestfs-tools (1:1.18.1-1+deb7u3)
+    guest disk image management system - tools
+libmcs-utils (0.7.2-2.1)
+    tools for the maintenance of the mcs system
+libnss-cache (0.10.2-1)
+    NSS module for using nsscache-generated files
+libnss-db (2.2.3pre1-4)
+    NSS module for using Berkeley Databases as a naming service
+libnss-extrausers (0.6-3)
+    nss module to have an additional passwd, shadow and group file
+libnss-gw-name (0.2.1-1)
+    nss module that names the current gateway’s IP address
+libnss-ldap (264-2.5)
+    NSS module for using LDAP as a naming service
+libnss-ldap
+    virtual package provided by libnss-ldapd
+libnss-ldapd (0.8.10-4)
+    NSS module for using LDAP as a naming service
+libnss-lwres (0.93-7+b1 [mipsel], 0.93-7 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, powerpc, s390, s390x, sparc])
+    NSS module for using bind9's lwres as a naming service
+libnss-mdns (0.10-3.2)
+    NSS module for Multicast DNS name resolution
+libnss-myhostname (0.3-5~deb7u1)
+    nss module providing fallback resolution for the current hostname
+libnss-mysql-bg (1.5-3+b1)
+    NSS module for using MySQL as a naming service
+libnss-pgsql2 (1.4.0debian-5)
+    NSS module for using PostgreSQL as a naming service
+libnss3-tools (2:3.14.5-1+deb7u4) [security]
+    Network Security Service tools
+libpam-abl (0.4.3-1)
+    blocks hosts which are attempting a brute force attack
+libpam-afs-session (2.5-2)
+    PAM module to set up a PAG and obtain AFS tokens
+libpam-alreadyloggedin (0.3-4)
+    PAM module to skip password authentication for logged users
+libpam-blue (0.9.0-3)
+    PAM module for local authenticaction with bluetooth devices
+libpam-ccreds (10-5+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 10-5 [armhf, s390x])
+    Pam module to cache authentication credentials
+libpam-cgroup (0.38-1)
+    PAM module to move a user session into a cgroup
+libpam-chroot (0.9-4.1)
+    Chroot Pluggable Authentication Module for PAM
+libpam-ck-connector (0.4.5-3.1)
+    ConsoleKit PAM module
+libpam-cracklib (1.1.3-7.1)
+    PAM module to enable cracklib support
+libpam-dbus (0.2.1-1)
+    A PAM module which asks the logged in user for confirmation
+libpam-encfs (0.1.4.4-6)
+    PAM module to automatically mount encfs filesystems on login
+libpam-foreground (0.7)
+    transitional dummy package which can be safely removed
+libpam-fprintd (0.4.1-5-g73edad0-3)
+    PAM module for fingerprint authentication trough fprintd
+libpam-gnome-keyring (3.4.1-5)
+    PAM module to unlock the GNOME keyring upon login
+libpam-heimdal (4.6-1)
+    PAM module for Heimdal Kerberos
+libpam-krb5 (4.6-1)
+    PAM module for MIT Kerberos
+libpam-krb5-migrate-heimdal (0.0.10-1)
+    PAM module for migrating to Kerberos
+libpam-ldap (184-8.6)
+    Pluggable Authentication Module for LDAP
+libpam-ldap
+    virtual package provided by libpam-ldapd
+libpam-ldapd (0.8.10-4)
+    PAM module for using LDAP as an authentication service
+libpam-modules (1.1.3-7.1)
+    Pluggable Authentication Modules for PAM
+libpam-modules-bin (1.1.3-7.1)
+    Pluggable Authentication Modules for PAM - helper binaries
+libpam-mount (2.14~git+d1d6f871-1)
+    PAM module that can mount volumes for a user session
+libpam-mysql (0.7~RC1-4+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.7~RC1-4+b1 [armhf, s390x])
+    PAM module allowing authentication from a MySQL server
+libpam-ncp (2.2.6-9)
+    PAM module allowing authentication from a NetWare server
+libpam-nufw (2.4.3-2.2)
+    The authenticating firewall [PAM module]
+libpam-oath (1.12.4-1)
+    OATH Toolkit libpam_oath PAM module
+libpam-openafs-kaserver (1.6.1-3+deb7u2)
+    AFS distributed filesystem kaserver PAM module
+libpam-otpw (1.3-2)
+    Use OTPW for PAM authentication
+libpam-p11 (0.1.5-2)
+    PAM module for using PKCS#11 smart cards
+libpam-passwdqc (1.2.0-1)
+    PAM module for password strength policy enforcement
+libpam-pgsql (0.7.3.1-4)
+    PAM module to authenticate using a PostgreSQL database
+libpam-pkcs11 (0.6.8-1)
+    Fully featured PAM module for using for using PKCS#11 smart cards
+libpam-poldi (0.4.1-2.1)
+    PAM module allowing authentication using a OpenPGP smartcard
+libpam-pwdfile (0.99-5)
+    PAM module allowing authentication via an /etc/passwd-like file
+libpam-radius-auth (1.3.16-4.4)
+    The PAM RADIUS authentication module
+libpam-runtime (1.1.3-7.1)
+    Runtime support for the PAM library
+libpam-script (1.1.5-1)
+    PAM module which allows executing a script
+libpam-shield (0.9.2-3.3)
+    locks out remote attackers trying password guessing
+libpam-shishi (1.0.1-2)
+    PAM module for Shishi Kerberos v5
+libpam-slurm (2.3.4-2+b1)
+    PAM module to authenticate using the SLURM resource manager
+libpam-smbpass (2:3.6.6-6+deb7u5) [security]
+    pluggable authentication module for Samba
+libpam-ssh (1.92-15)
+    Authenticate using SSH keys
+libpam-systemd (44-11+deb7u4)
+    system and service manager - PAM module
+libpam-tacplus (1.3.6-1)
+    PAM module for using TACACS+ as an authentication service
+libpam-tmpdir (0.09)
+    automatic per-user temporary directories
+libpam-unix2 (1:2.4.1-6)
+    Blowfish-capable PAM module
+libpam-usb (0.5.0-4)
+    PAM module for authentication with removable USB block devices
+libpam-yubico (2.12-1)
+    two-factor password and YubiKey OTP PAM module
+libsmbios-bin (2.0.3.dfsg-1.1)
+    Provide access to (SM)BIOS information -- utility binaries
+libuser (1:0.56.9.dfsg.1-1.2)
+    user and group account administration library
+libvirt-bin (0.9.12.3-1+deb7u1)
+    programs for the libvirt library
+lightsquid (1.8-3)
+    Lite and fast log analizer for squid proxy
+lilo (1:23.2-4)
+    LInux LOader - the classic OS boot loader
+lire (2:2.1.1-2)
+    full-featured log analyzer and report generator
+listaller (0.5.5-2)
+    3rd-party application installer
+listaller-devtools (0.5.5-2)
+    3rd-party application installer packaging tools
+listaller-libuild (0.5.5-2)
+    Listaller libuild facilities
+loadlin (1.6f-1)
+    loader (running under DOS) for LINUX kernel images
+localepurge (0.6.3+deb7u1)
+    Reclaim disk space removing unneeded localizations
+localization-config (1.07+nmu1)
+    configures different programs' locale settings
+logcheck (1.3.15)
+    mails anomalies in the system logfiles to the administrator
+logcheck-database (1.3.15)
+    database of system log rules for the use of log checkers
+login (1:4.1.5.1-1)
+    system login tools
+login-duo (1.8.1-1~deb7u1)
+    login wrapper for Duo Security two-factor authentication
+logrotate (3.8.1-4)
+    Log rotation utility
+logtail (1.3.15)
+    Print log file lines that have not been read (deprecated)
+logtools (0.13d)
+    Russell's misc tools for managing log files.
+logtop (0.4.3-1)
+    real time log line rate analyzer
+logwatch (7.4.0+svn20120502rev103-1)
+    log analyser with nice output written in Perl
+lphdisk (0.9.1.ds1-1)
+    prepares hibernation partition for Phoenix NoteBIOS
+lsadb (1:0.1.3-1)
+    Utility to scan devices on the ADB bus
+lsscsi (0.26-2)
+    list all SCSI devices (or hosts) currently on system
+lsyncd (2.0.7-3+deb7u1) [security]
+    daemon to synchronize local directories using rsync
+ltsp-controlaula (1.8.0-3)
+    classroom management tool - LTSP client version
+lvm2 (2.02.95-8)
+    Linux Logical Volume Manager
+lwatch (0.6-1)
+    Simple log colorizer
+lxc (0.8.0~rc1-8+deb7u2)
+    Linux Containers userspace tools
+lxctl (0.3.1+debian-2)
+    Utility to manage LXC
+mac-fdisk (0.1-16)
+    Apple disk partition manipulation tool
+macchanger-gtk (1.1-4)
+    a GTK+ interface for GNU/MACchanger
+mach (0.9.1-3.1)
+    make a chroot of a rpm-based distribution
+madison-lite (0.15)
+    display versions of Debian packages in an archive
+madwimax (0.1.1-1)
+    user-space driver for mWiMAX equipment based on Samsung CMC-730
+mailgraph (1.14-11)
+    RRDtool frontend for Mail statistics
+makedev (2.3.1-92)
+    creates device files in /dev
+makejail (0.0.5-10)
+    Automatically create chroot jails for programs
+makepasswd (1.10-8)
+    Generate and encrypt passwords
+mandos (1.5.5-1)
+    server giving encrypted passwords to Mandos clients
+mandos-client (1.5.5-1)
+    do unattended reboots with an encrypted root file system
+mbmon (2.05-6)
+    Hardware monitoring without kernel dependencies (text client)
+mbr (1.1.11-5+b1 [amd64, i386], 1.1.11-5 [armel, armhf, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Master Boot Record for IBM-PC compatible computers.
+mccs (1:1.1-2)
+    multi-critera CUDF solver
+mcelog (1.0~pre3-72-gcbd4da4-1)
+    x86 Machine Check Exceptions collector and decoder
+mdadm (3.2.5-5)
+    tool to administer Linux MD arrays (software RAID)
+media-player-info (17-1)
+    Media player identification files
+medusa (2.0-3.1)
+    fast, parallel, modular, login brute-forcer for network services
+members (20080128-5)
+    Shows the members of a group; by default, all members
+memdump (1.01-6.1)
+    utility to dump memory contents to standard output
+memlockd (1.1.1)
+    daemon to lock files into RAM
+memstat (0.9)
+    Identify what's using up virtual memory
+menu (2.1.46+b1 [armhf], 2.1.46 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    generates programs menu for all menu-aware applications
+menu-xdg (0.5)
+    freedesktop.org menu compliant window manager scripts
+metainit (0.0.5)
+    Generates init scripts
+metche (1:1.2.2-2)
+    configuration monitor to ease collective administration
+mgm (1.1.svn.20080520-1)
+    A highly configurable, very gaudy system load meter
+mingetty (1.08-2)
+    Console-only getty
+minit (0.10-5)
+    Small but powerful init system
+mknbi (1.4.4-9)
+    Create tagged images for Etherboot or Netboot
+mobile-broadband-provider-info (20140317-1~deb7u1)
+    database of mobile broadband service providers
+module-init-tools (9-3)
+    transitional dummy package (module-init-tools to kmod)
+module-init-tools
+    virtual package provided by kldutils
+molly-guard (0.4.5-1)
+    protects machines from accidental shutdowns/reboots
+mon (1.2.0-6)
+    monitor hosts/services/whatever and alert about problems
+mon-contrib (1.0+dfsg-2)
+    contributed tools, monitors and alert for mon
+monit (1:5.4-2)
+    utility for monitoring and managing daemons or similar programs
+mount (2.20.1-5.3)
+    Tools for mounting and manipulating filesystems
+mountall (2.46)
+    filesystem mounting tool
+mpt-status (1.2.0-7)
+    get RAID status out of mpt (and other) HW RAID controllers
+mrb (0.1)
+    Manage incremental data snapshots with make/rsync
+msr-tools (1.2-3)
+    Utilities for modifying MSRs from userspace
+mssh (1.2-1.1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.2-1.1 [armhf])
+    tool to administrate multiple servers at once
+mt-st (1.1-4)
+    Linux SCSI tape driver aware magnetic tape control (aka mt)
+mtx (1.3.12-4+b1 [kfreebsd-amd64, kfreebsd-i386], 1.3.12-4 [amd64, armel, armhf, i386, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    controls tape autochangers
+multipath-tools (0.4.9+git0.4dfdaf2b-7~deb7u2)
+    maintain multipath block device access
+multipath-tools-boot (0.4.9+git0.4dfdaf2b-7~deb7u2)
+    Support booting from multipath devices
+multistrap (2.1.20)
+    multiple repository bootstrap based on apt
+munge (0.5.10-1)
+    authentication service to create and validate credentials
+mussh (1.0-1)
+    MUltihost SSH Wrapper
+nagzilla (1.5.5-1-1)
+    jabber relay bot
+nbd-client (1:3.2-4~deb7u4)
+    Network Block Device protocol - client
+nbd-server (1:3.2-4~deb7u4)
+    Network Block Device protocol - server
+ncdu (1.8-1)
+    ncurses disk usage viewer
+netbase (5.0)
+    Basic TCP/IP networking system
+netcf (0.1.9-2)
+    programs for the netcf library
+netenv (0.94.3-30)
+    Configure your system for different network environments
+nfs4-acl-tools (0.3.3-2)
+    Commandline and GUI ACL utilities for the NFSv4 client
+nfswatch (4.99.11-2)
+    Program to monitor NFS traffic for the console
+ngorca (1.0.2-2+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.0.2-2 [armhf, s390x])
+    password recovery tool for Oracle databases
+nilfs-tools (2.1.3-1)
+    Continuous Snapshotting Log-structured Filesystem
+ninja (0.1.3-2)
+    Privilege escalation detection system for GNU/Linux
+nscd (2.13-38+deb7u8) [security]
+    Embedded GNU C Library: Name Service Cache Daemon
+nscd
+    virtual package provided by unscd
+nslcd (0.8.10-4)
+    Daemon for NSS and PAM lookups using LDAP
+nslu2-utils (20080403-4)
+    utilities and init scripts for the Linksys NSLU2
+nsscache (0.21.17-2)
+    asynchronously synchronise local NSS databases with remote directory services
+ntfs-config (1.0.1-10)
+    Enable/disable write support for any NTFS devices
+numactl (2.0.8~rc4-1)
+    NUMA scheduling and memory placement tool
+nut-cgi (2.6.4-2.3+deb7u1)
+    network UPS tools - web interface
+nut-client (2.6.4-2.3+deb7u1)
+    network UPS tools - clients
+nut-monitor (2.6.4-2.3+deb7u1)
+    network UPS tools - GUI application to monitor UPS status
+nut-powerman-pdu (2.6.4-2.3+deb7u1)
+    network UPS tools - PowerMan PDU driver
+nut-server (2.6.4-2.3+deb7u1)
+    network UPS tools - core system
+nut-snmp (2.6.4-2.3+deb7u1)
+    network UPS tools - SNMP driver
+nut-xml (2.6.4-2.3+deb7u1)
+    network UPS tools - XML/HTTP driver
+nvramtool (0.0+r3669-2.2)
+    Read/write coreboot-related NVRAM/CMOS information
+nvtv (0.4.7-7)
+    tool to control TV chips on NVidia cards under Linux
+obex-data-server (0.4.5-1+b3 [amd64, armel, i386, ia64, mips, mipsel, powerpc, s390, sparc], 0.4.5-1+b1 [armhf, s390x])
+    D-Bus service for OBEX client and server side functionality
+obexd-client (0.46-1+b1)
+    D-Bus OBEX client
+obexd-server (0.46-1+b1)
+    D-Bus OBEX server
+ocfs2-tools (1.6.4-1+deb7u1)
+    tools for managing OCFS2 cluster filesystems
+ocfs2-tools-cman (1.6.4-1+deb7u1)
+    tools for managing OCFS2 cluster filesystems - cman support
+ocfs2-tools-pacemaker (1.6.4-1+deb7u1)
+    tools for managing OCFS2 cluster filesystems - pacemaker support
+ocfs2console (1.6.4-1+deb7u1)
+    tools for managing OCFS2 cluster filesystems - graphical interface
+ofono (1.6-2)
+    Mobile telephony stack (daemon)
+ofono-dev (1.6-2)
+    Mobile telephony stack (development files)
+ohai (6.14.0-2)
+    Detects data about your operating system and reports it in JSON
+oinkmaster (2.0-3)
+    Snort rules manager
+olpc-kbdshim (27-1)
+    OLPC XO keyboard support daemon
+olpc-powerd (23-2)
+    OLPC XO power management support daemon
+olpc-xo1-hw (0.3)
+    Support for OLPC XO-1 hardware
+open-vm-toolbox (2:8.8.0+2012.05.21-724730-1+nmu2)
+    tools and components for VMware guest systems (GUI tools)
+open-vm-tools (2:8.8.0+2012.05.21-724730-1+nmu2)
+    tools and components for VMware guest systems (CLI tools)
+openais (1.1.4-4.1)
+    Standards-based cluster framework (daemon and modules)
+opencryptoki (2.3.1+dfsg-3)
+    PKCS#11 implementation (daemon)
+opendnssec-auditor (1:1.3.9-5)
+    tool to audit DNS signed zones according to local policy
+opendnssec-enforcer (1:1.3.9-5)
+    tool to prepare DNSSEC keys (common package)
+opendnssec-enforcer-mysql (1:1.3.9-5)
+    tool to prepare DNSSEC keys (mysql backend)
+opendnssec-enforcer-sqlite3 (1:1.3.9-5)
+    tool to prepare DNSSEC keys (sqlite3 backend)
+opendnssec-signer (1:1.3.9-5)
+    daemon to sign DNS zone files periodically
+openhpi (2.14.1-1.2)
+    SAF's HPI: Abstracted interface for managing computer hardware
+openhpi-clients (2.14.1-1.2)
+    OpenHPI example client programs
+openhpid (2.14.1-1.2)
+    OpenHPI daemon, supports gathering of manageability information
+openipmi (2.0.16-1.3)
+    Intelligent Platform Management Interface (for servers)
+openxenmanager (0.r80+dfsg-4)
+    full-featured graphical management tool for xen using xenapi
+ophcrack (3.4.0-2)
+    Microsoft Windows password cracker using rainbow tables (gui)
+ophcrack-cli (3.4.0-2)
+    Microsoft Windows password cracker using rainbow tables (cmdline)
+oss-preserve (1.1-6)
+    Program to save/restore OSS mixer settings
+otpw-bin (1.3-2)
+    OTPW programs for generating OTPW lists
+pacemaker (1.1.7-1)
+    HA cluster resource manager
+packagekit (0.7.6-3)
+    Provides a package management service
+packagekit-backend-aptcc (0.7.6-3)
+    APT backend for PackageKit
+packagekit-backend-smart (0.7.6-3)
+    Smart backend for PackageKit
+packagesearch (2.7.3)
+    GUI for searching packages and viewing package information
+packup (0.6-1)
+    CUDF solver based on pseudo-Boolean constraints
+paco (2.0.9-2)
+    simple but yet powerful source code package management system
+pam-dbus-notify (0.2.1-1)
+    Handler for the pam-dbus module, using notification-daemon
+pamusb-common (0.5.0-4)
+    helper tools for the pam-usb module
+pandorafms-agent (4.0.1-1)
+    Pandora FMS - The Flexible Monitoring System (agent)
+partclone (0.2.48-1)
+    Utility to clone and restore a partition
+parted (2.3-12)
+    disk partition manipulator
+partimage (0.6.8-2.2)
+    backup partitions into a compressed image file
+partimage-server (0.6.8-2.2)
+    server to use partimage across a network
+partitionmanager (1.0.2-1)
+    A partition management utility
+passwd (1:4.1.5.1-1)
+    change and administer password and group data
+passwdqc (1.2.0-1)
+    password strength checking and policy enforcement toolset
+paxctl (0.7-1)
+    new PaX control program for using the PT_PAX_FLAGS marking
+pbbuttonsd (0.7.9-2)
+    PBButtons daemon to handle special hotkeys of Apple computers
+pciutils (1:3.1.9-6)
+    Linux PCI Utilities
+pcmciautils (018-8)
+    PCMCIA utilities for Linux 2.6
+petitboot (12.03.29.20.47-g45e2534-2)
+    ncurses version of petitboot, a kexec based bootloader
+petitboot-twin (12.03.29.20.47-g45e2534-2)
+    Twin GUI version of petitboot, a kexec based bootloader
+pflogsumm (1.1.5-1)
+    Postfix log entry summarizer
+phpldapadmin (1.2.2-5)
+    web based interface for administering LDAP servers
+pipemeter (1.1.3-1)
+    cli utility that shows the speed of data moving from input to output
+piwi (0.8+20041206-3)
+    P(erl|relude) IDS Web Interface - A frontend to your Prelude database
+pkgsync (1.22)
+    automated package list synchronization
+pm-utils (1.4.1-9)
+    utilities and scripts for power management
+pmailq (0.5-1)
+    postfix mail queue manager
+pmud (0.10-12)
+    Apple PowerBook power management daemon
+pmud-utils (0.10-12)
+    Apple PowerBook power management daemon utils
+policykit-1 (0.105-3)
+    framework for managing administrative policies and privileges
+policyrcd-script-zg2 (0.1-2)
+    policy-compliant interface from invoke-rc.d to local config files
+portreserve (0.0.4-1)
+    Port reservation program
+postfixadmin (2.3.5-2+deb7u1)
+    Virtual mail hosting interface for Postfix
+powerd (9.0+ds1-11~deb7u1)
+    System utility for power control and energy saving
+powerman (2.3.5-1)
+    Centralized Power Distribution Unit (PDU) management
+powstatd (1.5.1-9.1)
+    Configurable UPS monitoring daemon
+ppp (2.4.5-5.1+deb7u1)
+    Point-to-Point Protocol (PPP) - daemon
+pppconfig (2.3.18+nmu4)
+    A text menu based utility for configuring ppp
+prelink (0.0.20090925-6)
+    ELF prelinking utility to speed up dynamic linking
+prelude-correlator (1.0.0-1)
+    Security Information Management System [ Correlator ]
+prelude-lml (1.0.0-4)
+    Security Information Management System [ Log Agent ]
+prelude-manager (1.0.1-4+b1 [s390x], 1.0.1-4 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc])
+    Security Information Management System [ Manager ]
+prelude-notify (0.9.1-1)
+    Security Information Management System [ Desktop Notifier ]
+prism2-usb-firmware-installer (0.2.9+dfsg-5) [contrib]
+    firmware files for the prism2_usb kernel driver
+procps (1:3.3.3-3)
+    /proc file system utilities
+ps-watcher (1.08-5)
+    monitoring a system via ps-like commands
+ps3-utils (2.3-1)
+    Utilities for running Debian on a Sony Playstation 3
+psad (2.2-3.1)
+    Port Scan Attack Detector
+pslist (1.3-2)
+    utility that controls a process and its descendants
+psmisc (22.19-1+deb7u1)
+    utilities that use the proc file system
+pump (0.8.24-7)
+    BOOTP and DHCP client for automatic IP configuration
+puppet (2.7.23-1~deb7u3)
+    Centralized configuration management - agent startup and compatibility scripts
+puppet-common (2.7.23-1~deb7u3)
+    Centralized configuration management
+puppet-el (2.7.23-1~deb7u3)
+    syntax highlighting for puppet manifests in emacs
+puppet-testsuite (2.7.23-1~deb7u3)
+    Centralized configuration management - test suite
+puppetmaster (2.7.23-1~deb7u3)
+    Centralized configuration management - master startup and compatibility scripts
+puppetmaster-common (2.7.23-1~deb7u3)
+    Puppet master common scripts
+puppetmaster-passenger (2.7.23-1~deb7u3)
+    Centralised configuration management - master setup to run under mod passenger
+pwgen (2.06-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 2.06-1+b1 [armhf, s390x])
+    Automatic Password generation
+pwrkap (7.30-5)
+    Energy use monitor and Power Cap enforcement tools - Core
+pwrkap-gui (7.30-5)
+    Energy use monitor and Power Cap enforcement tools - GTK+ GUI
+pxe-kexec (0.2.4-3)
+    Fetch PXE configuration file and netboot using kexec
+pyroman (0.5.0~alpha1-3)
+    Very fast firewall configuration tool
+python-libuser (1:0.56.9.dfsg.1-1.2)
+    user and group account administration library (development files)
+python-software-properties (0.82.7.1debian1)
+    manage the repositories that you install software from
+qi (20111113-1)
+    lightweight bootloader for OpenMoko Freerunner
+qingy (0.9.7-2)
+    framebuffer-enabled replacement for getty
+qla-tools (20090804-1)
+    QLogic Linux tools for work with QLogic HBAs
+queuegraph (1.1.1-3)
+    a RRDtool frontend for Postfix queue-statistics
+quik (2.1-9.1)
+    Bootloader for PowerMac or CHRP systems
+quota (4.00-4+deb7u1)
+    disk quota management tools
+quotatool (1.4.12-1)
+    tool to edit disk quotas from the command line
+radiusclient1 (0.3.2-14)
+    /bin/login replacement which uses the RADIUS protocol for authentication
+raidutils (0.0.6-19)
+    Transition Package for raidutils rename to dpt-i2o-raidutils
+randomsound (0.2-5)
+    ALSA sound card related entropy gathering daemon
+rcconf (2.5)
+    Debian Runlevel configuration tool
+readahead-fedora (2:1.5.6-4)
+    Fedora's implementation of readahead to preload boot process files
+recover (1.3c-11)
+    Undelete files on ext2 partitions
+redhat-cluster-source (3.0.12-3.2+deb7u2)
+    Red Hat cluster suite - kernel module source
+redhat-cluster-suite (3.0.12-3.2+deb7u2)
+    Red Hat cluster suite - metapackage
+ree (1.3-2.1)
+    Extract ROM extensions
+refit (0.14-2)
+    graphical boot menu for ia32 and x64 EFI systems
+reiser4progs (1.0.7-6.3)
+    administration utilities for the Reiser4 filesystem
+reiserfsprogs (1:3.6.21-1)
+    User-level tools for ReiserFS filesystems
+remote-tty (4.0-13)
+    multiuser "tip"/"cu" replacement with logging
+resource-agents (1:3.9.2-5+deb7u2)
+    Cluster Resource Agents
+resource-agents-dev (1:3.9.2-5+deb7u2)
+    Cluster Resource Agents Development files
+rgmanager (3.0.12-3.2+deb7u2)
+    Red Hat cluster suite - clustered resource group manager
+rinse (2.0.1-1)
+    RPM installation environment
+rkhunter (1.4.0-1)
+    rootkit, backdoor, sniffer and exploit scanner
+rpm (4.10.0-5+deb7u2) [security]
+    package manager for RPM
+rpm-common (4.10.0-5+deb7u2) [security]
+    common files for RPM
+rpm2cpio (4.10.0-5+deb7u2) [security]
+    tool to convert RPM package to CPIO archive
+rsyslog (5.8.11-3+deb7u2)
+    reliable system and kernel logging daemon
+rsyslog-gnutls (5.8.11-3+deb7u2)
+    TLS protocol support for rsyslog
+rsyslog-gssapi (5.8.11-3+deb7u2)
+    GSSAPI authentication and encryption support for rsyslog
+rsyslog-mysql (5.8.11-3+deb7u2)
+    MySQL output plugin for rsyslog
+rsyslog-pgsql (5.8.11-3+deb7u2)
+    PostgreSQL output plugin for rsyslog
+rsyslog-relp (5.8.11-3+deb7u2)
+    RELP protocol support for rsyslog
+rtkit (0.10-2+wheezy1)
+    Realtime Policy and Watchdog Daemon
+rungetty (1.2-15)
+    minimal console getty that can run any process
+runit (2.1.1-6.2+b1 [kfreebsd-amd64, kfreebsd-i386], 2.1.1-6.2 [amd64, armel, armhf, i386, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    system-wide service supervision
+s390-tools (1.16.0-2)
+    A set of fundamental utilities for Linux on S/390
+sac (1.9b5-3)
+    Login accounting
+safecopy (1.6-1)
+    Copy utility ignoring errors
+sagan (0.2.1.r1-1+b1)
+    Real-time System & Event Log Monitoring System
+sagan-rules (10212010-r1-1)
+    Real-time System & Event Log Monitoring System [rules]
+salinfo (1.2-2)
+    Monitor and decode events from Itanium firmware
+samdump2 (1.1.1-1.1)
+    Dump Windows 2k/NT/XP password hashes
+samhain (2.8.3a-1+deb7u1)
+    Data integrity and host intrusion alert system
+scamper (20111202b-1)
+    parallel Internet measurement utility
+schroot (1.6.4-4)
+    Execute commands in a chroot environment
+schroot-common (1.6.4-4)
+    common files for schroot
+scrounge-ntfs (0.9-6+b2 [armel, ia64], 0.9-6+b1 [i386, kfreebsd-amd64], 0.9-6 [amd64, armhf, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Data recovery program for NTFS filesystems
+sdparm (1.07-1)
+    Output and modify SCSI device parameters
+selinux-basics (0.5.0)
+    SELinux basic support
+selinux-policy-default (2:2.20110726-12)
+    Strict and Targeted variants of the SELinux policy
+selinux-policy-dev (2:2.20110726-12)
+    Headers from the SELinux reference policy for building modules
+selinux-policy-mls (2:2.20110726-12)
+    MLS (Multi Level Security) variant of the SELinux policy
+selinux-policy-src (2:2.20110726-12)
+    Source of the SELinux reference policy for customization
+selinux-utils (2.1.9-5)
+    SELinux utility programs
+sepol-utils (2.1.4-3)
+    Security Enhanced Linux policy utility programs
+setools (3.3.7-3)
+    tools for Security Enhanced Linux policy analysis
+sg3-utils (1.33-1+b1 [kfreebsd-amd64, kfreebsd-i386], 1.33-1 [amd64, armel, armhf, i386, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    utilities for devices using the SCSI command set
+shaperd (0.2.1-5.2)
+    A user-mode traffic shaper for tcp-ip networks
+shed (1.15-2+b2 [armel, ia64], 1.15-2+b1 [i386, kfreebsd-amd64], 1.15-2 [amd64, armhf, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    A simple hex editor with a pico-style interface
+shush (1.2.3-2)
+    runs a command and optionally reports its output by mail
+sibyl (2.4.2-2)
+    boot loader for Broadcom SiByte MIPS boards
+silo (1.4.14+git20120819-1)
+    Sparc Improved LOader
+sispmctl (3.1-1)
+    Control Gembird SIS-PM programmable power outlet strips
+slack (0.15.2-5)
+    configuration management program for lazy admins
+slay (2.7.0)
+    Kills all of the user's processes
+sleepd (2.04)
+    puts an inactive or low battery laptop to sleep
+sleuthkit (3.2.3-2)
+    collection of tools for forensics analysis on volume and file system data
+slugimage (1:0.0+r104-5)
+    NSLU2 firmware image manipulation utility
+slurm-llnl (2.3.4-2+b1)
+    Simple Linux Utility for Resource Management
+slurm-llnl-basic-plugins (2.3.4-2+b1)
+    SLURM basic plugins
+slurm-llnl-slurmdbd (2.3.4-2+b1)
+    Secure enterprise-wide interface to a database for SLURM
+slurm-llnl-sview (2.3.4-2+b1)
+    GUI to view and modify SLURM state
+slurm-llnl-torque (2.3.4-2)
+    Torque compatibility wrappers for SLURM
+smartpm (1.4-2)
+    An alternative package manager that works with dpkg/rpm
+smartpm-core (1.4-2)
+    An alternative package manager that works with dpkg/rpm
+smb-nat (1:1.0-4)
+    Netbios Auditing Tool
+smbldap-tools (0.9.7-1+deb7u1)
+    Scripts to manage Unix and Samba accounts stored on LDAP
+smp-utils (0.96-1)
+    SAS Expander (SMP) utilities for SAS/SATA disk arrays
+snoopy (1.8.0-5)
+    execve() wrapper and logger
+socklog (2.1.0-8)
+    system and kernel logging services (programs)
+socklog-run (2.1.0-8)
+    system and kernel logging services
+sockstat (0.3-1.1)
+    view detailed information about open connections
+softhsm (1.3.3-2)
+    a cryptographic store accessible through a PKCS #11
+softhsm-common (1.3.3-2)
+    a cryptographic store accessible through a PKCS #11
+software-properties-common (0.82.7.1debian1)
+    manage the repositories that you install software from (common)
+software-properties-gtk (0.82.7.1debian1)
+    manage the repositories that you install software from (gtk)
+software-properties-kde (0.82.7.1debian1)
+    manage the repositories that you install software from (kde)
+speakup-tools (1:0.0~git20110720.1-1)
+    Tools to customize speakup module
+speechd-up (0.5~20110719-2)
+    Interface between Speech Dispatcher and SpeakUp
+squidview (0.79-2)
+    monitors and analyses squid access.log files
+srg (1.3.6-1+b1 [armel, ia64], 1.3.6-1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Fast, Flexible and Detailed log analysis for the Squid Proxy
+sslsniff (0.8-3+b1)
+    SSL/TLS man-in-the-middle attack tool
+stealth (2.10.00-1)
+    stealthy File Integrity Checker
+stow (2.2.0-2)
+    Organizer for /usr/local software packages
+sucrack (1.2.3-0.9)
+    multithreaded su bruteforcer
+sudo (1.8.5p2-1+nmu2) [security]
+    Provide limited super user privileges to specific users
+sudo
+    virtual package provided by sudo-ldap
+sudo-ldap (1.8.5p2-1+nmu2) [security]
+    Provide limited super user privileges to specific users
+super (3.30.0-6+deb7u1)
+    Execute commands setuid root
+supervisor (3.0a8-1.1+deb7u1)
+    A system for controlling process state
+sux (1.0.1-6)
+    wrapper around su which will transfer your X credentials
+swapspace (1.10-4)
+    dynamic swap space manager
+swatch (3.2.3-1)
+    Log file viewer with regexp matching, highlighting & hooks
+switchconf (0.0.9-2)
+    switch between system configuration sets
+sxid (4.2-1)
+    suid, sgid file and directory checking
+synaptic (0.75.13)
+    Graphical package manager
+sysconfig-hardware (0.0.10+nmu1)
+    Hardware configuration
+syslog-ng (3.3.5-4)
+    Next generation system logging daemon (metapackage)
+syslog-ng-core (3.3.5-4)
+    Next generation system logging daemon (core)
+syslog-ng-mod-json (3.3.5-4)
+    Next generation system logging daemon (JSON plugin)
+syslog-ng-mod-mongodb (3.3.5-4)
+    Next generation system logging daemon (MongoDB plugin)
+syslog-ng-mod-sql (3.3.5-4)
+    Next generation system logging daemon (SQL plugin)
+syslog-summary (1.14-2)
+    summarize the contents of a syslog log file
+syslogout (0.3.8)
+    Modularized system wide shell logout mechanism
+sysnews (0.9-17)
+    program to display system news
+sysprofile (0.3.8)
+    Modularized system wide shell configuration mechanism
+sysrqd (14-1)
+    small daemon intended to manage Linux SysRq over network
+sysstat (10.0.5-1)
+    system performance tools for Linux
+system-config-audit (1:1.7.18-1.1)
+    Graphical utility for editing audit configuration
+system-config-cluster (1.0.53-1)
+    graphical configuration and management tool for Red Hat Cluster Suite
+system-config-lvm (1.1.16-1)
+    utility for graphically configuring Logical Volumes
+system-config-printer-kde (4:4.8.4-3)
+    printer configuration utility
+system-tools-backends (2.10.2-1)
+    System Tools to manage computer configuration -- scripts
+systemd (44-11+deb7u4)
+    system and service manager
+systemd-gui (44-11+deb7u4)
+    system and service manager - GUI
+systemd-sysv (44-11+deb7u4)
+    system and service manager - SysV links
+systraq (0.0.20081217-3)
+    monitor your system and warn when system files change
+systune (0.5.7)
+    kernel tuning through the /proc file system
+sysv-rc (2.88dsf-41+deb7u1)
+    System-V-like runlevel change mechanism
+sysv-rc-conf (0.99-7)
+    SysV init runlevel configuration tool for the terminal
+sysvinit (2.88dsf-41+deb7u1)
+    System-V-like init utilities
+sysvinit-utils (2.88dsf-41+deb7u1)
+    System-V-like utilities
+tableau-parm (0.2.0-1)
+    tableau write-blocking bridge query/command utility
+tasksel (3.14.1)
+    Tool for selecting tasks for installation on Debian systems
+tasksel-data (3.14.1)
+    Official tasks used for installation of Debian systems
+tenshi (0.13-2)
+    log monitoring and reporting tool
+testdisk (6.13-1)
+    Partition scanner and disk recovery tool
+tiger (1:3.2.3-10)
+    Report system security vulnerabilities
+tiger-otheros (1:3.2.3-10)
+    Scripts to run Tiger in other operating systems
+tinyhoneypot (0.4.6-9)
+    Small honeypot to trap attackers
+tip22 (0.3.15)
+    Tftp boot image builder for MIPS based SGI IP22 and IP32 machines
+titantools (4.0.11+notdfsg1-5) [non-free]
+    Tools to secure bastion hosts
+tmpreaper (1.6.13+nmu1)
+    cleans up files in directories based on their age
+tmux (1.6-2)
+    terminal multiplexer
+tomoyo-tools (2.5.0-20120414-2)
+    Lightweight and easy-use Mandatory Access Control for Linux
+tpm-tools (1.3.7-1)
+    Management tools for the TPM hardware (tools)
+trousers (0.3.9-3+wheezy1)
+    open-source TCG Software Stack (daemon)
+ttysnoop (0.12d-5)
+    allows you to spy on telnet+serial connections
+twoftpd-run (1.41-1)
+    a simple secure efficient FTP server
+u-boot (2012.04.01-2)
+    A boot loader for embedded systems
+u-boot-tools (2012.04.01-2)
+    companion tools for Das U-Boot bootloader
+udev (175-7.2)
+    /dev/ and hotplug management daemon
+udisks (1.0.4-7wheezy1)
+    storage media interface
+ufw (0.31.1-2)
+    program for managing a Netfilter firewall
+ukopp (4.4-1)
+    Full and incremental backup to disk or disk-like device
+unattended-upgrades (0.79.5+wheezy1)
+    automatic installation of security upgrades
+unhide (20110113-4)
+    Forensic tool to find hidden processes and ports
+unhide.rb (13-1.1)
+    Forensic tool to find processes hidden by rootkits
+unscd (0.48-2)
+    Micro Name Service Caching Daemon
+update-inetd (4.43)
+    inetd configuration file updater
+upgrade-system (1.6.2.0)
+    command for upgrading and sanitizing a Debian system
+upower (0.9.17-1)
+    abstraction for power management
+upstart (1.6.1-1)
+    event-based init daemon
+usbip (1.1.1+3.2.17-1)
+    USB device sharing system over IP network
+usbmount (0.0.22)
+    automatically mount and unmount USB mass storage devices
+user-setup (1.48)
+    Set up initial user and password
+userinfo (2.2-3)
+    display information about local users
+userv (1.1.1)
+    `user services' - program call across trust boundaries
+uswsusp (1.0+20110509-3)
+    tools to use userspace software suspend provided by Linux
+vagrant (1.0.3-1)
+    Tool for building and distributing virtualized development environments
+varmon (1.2.1-1)
+    VA RAID monitor
+vbackup (0.1.9-1)
+    modular backup utility
+vblade (20-1)
+    virtual AoE blade emulator
+vblade-persist (0.6-2)
+    create/manage supervised AoE exports
+vim-puppet (2.7.23-1~deb7u3)
+    syntax highlighting for puppet manifests in vim
+virt-goodies (0.4-1)
+    A collection of helpful virtualisation related tools
+virt-manager (0.9.1-4)
+    desktop application for managing virtual machines
+virt-top (1.0.7-1+b1)
+    show stats of virtualized domains
+virt-viewer (0.5.3-1)
+    Displaying the graphical console of a virtual machine
+virt-what (1.12-1)
+    detect if we are running in a virtual machine
+virtinst (0.600.1-3+deb7u2)
+    Programs to create and clone virtual machines
+vmware-manager (0.2.0-3) [contrib]
+    utility to manage VMware virtual machines
+vrms (1.16)
+    virtual Richard M. Stallman
+vtgrab (0.1.8-3)
+    A VNC like console monitoring
+vzctl (3.0.30.2-4)
+    server virtualization solution - control tools
+vzdump (1.2.6-3)
+    OpenVZ backup scripts
+vzquota (3.0.12-3)
+    server virtualization solution - quota tools
+wajig (2.7.3)
+    simple and unified package management for Debian
+watchdog (5.12-1)
+    system health checker and software/hardware watchdog handler
+west-chamber-common (20100405+svn20111107.r124-1)
+    iptable extension for bypassing content filtering firewall
+west-chamber-source (20100405+svn20111107.r124-1)
+    iptable extension for bypassing content filtering firewall (module source)
+whowatch (1.6.0a-2)
+    Real-time user logins monitoring tool
+wwwstat (2.0-7)
+    httpd logfile analysis package
+x86info (1.30-2)
+    Display diagnostic information about i386 compatible CPUs
+xbrlapi (4.4-10+deb7u1)
+    Access software for a blind person using a braille display - xbrlapi
+xcp-eliloader (0.1-4)
+    XenAPI's bootloader for EL-based guests
+xcp-guest-templates (0.1-4)
+    Guest template generator for XCP
+xcp-networkd (1.3.2-15)
+    Xen Cloud Platform - network configuration daemon
+xcp-squeezed (1.3.2-15)
+    Xen Cloud Platform - memory ballooning daemon
+xcp-v6d (1.3.2-15)
+    Xen Cloud Platform - feature daemon
+xcp-xapi (1.3.2-15)
+    Xen Cloud Platform - XenAPI server
+xcp-xe (1.3.2-15)
+    Xen Cloud Platform - command-line utilities
+xen-utils-common (4.1.4-3+deb7u5) [security]
+    Xen administrative tools - common files
+xenstore-utils (4.1.4-3+deb7u5) [security]
+    Xenstore utilities for Xen
+xenwatch (0.5.4-3)
+    Virtualization utilities, mostly for Xen
+xfsdump (3.0.6)
+    Administrative utilities for the XFS filesystem
+xfsprogs (3.1.7+b1)
+    Utilities for managing the XFS filesystem
+xmbmon (2.05-6)
+    Hardware monitoring without kernel dependencies (X client)
+xmount (0.5.0-2)
+    tool to crossmount between multiple input and output harddisk images
+xnbd-client (0.1.0-pre-hg20-e75b93a47722-3)
+    Network Block Device client with support for live migration
+xnbd-common (0.1.0-pre-hg20-e75b93a47722-3)
+    Network Block Device - common files
+xnbd-server (0.1.0-pre-hg20-e75b93a47722-3)
+    Network Block Device server with support for live migration
+xtables-addons-common (1.42-2+b1)
+    Extensions targets and matches for iptables [tools, libs]
+xtables-addons-source (1.42-2)
+    Extensions targets and matches for iptables [modules sources]
+xwatch (2.11-15)
+    logfile monitor that displays in an X window.
+yaboot (1.3.16-4)
+    Yet Another Bootloader
+yasr (0.6.9-3)
+    General-purpose console screen reader
+yersinia (0.7.1-1.1)
+    Network vulnerabilities check software
+yubikey-server-c (0.5-1+b1)
+    Yubikey validation server
+yubiserver (0.2-2)
+    Yubikey OTP and HOTP/OATH Validation Server
+yum (3.2.25-2)
+    Advanced front-end for rpm
+zerofree (1.0.2-1)
+    zero free blocks from ext2, ext3 and ext4 file-systems
+zeroinstall-injector (1.9-1)
+    run programs by URL
+zfsutils (9.0-3)
+    command-line tools to manage ZFS filesystems
+zorroutils (0.04+20021014-2)
+    Zorro bus utilities for Amigas running 2.1 and later kernels

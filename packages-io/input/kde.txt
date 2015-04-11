@@ -1,0 +1,494 @@
+apper (0.7.2-5)
+    KDE package management tool using PackageKit
+apper-appsetup (0.7.2-5)
+    Extended Listaller support for Apper
+apper-data (0.7.2-5)
+    KDE package management tool using PackageKit (data files)
+appmenu-qt (0.2.6-1)
+    application menu for Qt
+audex (0.74~b1-1.1)
+    Audio grabber tool for KDE
+autokey-qt (0.90.1-1.1)
+    desktop automation utility - KDE version
+bangarang (2.1-2)
+    Multimedia player with a lightweight interface for KDE
+basket (1.81-3)
+    multi-purpose note-taking application for KDE
+basket-data (1.81-3)
+    data files for BasKet Notepads
+bibletime (2.9.1-2)
+    bible study tool for Qt
+bibletime-data (2.9.1-2)
+    Documentation and data for bibletime, a bible study tool
+braindump (1:2.4.4-3)
+    ideas organizer application for the Calligra Suite
+calgebra (4:4.8.4-2)
+    console interface for KAlgebra
+calligra (1:2.4.4-3)
+    extensive productivity and creative suite
+calligra-reports-map-element (1:2.4.4-3)
+    map element for Calligra Reports
+calligra-reports-web-element (1:2.4.4-3)
+    web element for Calligra Reports
+calligramobile (1:2.4.4-3)
+    version of Calligra for mobile
+calligraplan (1:2.4.4-3)
+    integrated project management and planning tool
+calligrastage (1:2.4.4-3)
+    presentation program for the Calligra Suite
+choqok (1.3-1)
+    KDE micro-blogging client
+dc-qt (0.2.0.alpha-4.1+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mipsel, powerpc, s390, sparc], 0.2.0.alpha-4.1+b2 [mips], 0.2.0.alpha-4.1+b1 [armhf, s390x])
+    GUI frontend for the dc protocol
+debconf-kde-helper (0.2-2)
+    Debconf KDE GUI frontend tool
+education-desktop-kde (1.713+deb7u1)
+    Debian Edu KDE desktop applications
+eqonomize (0.6-7)
+    personal accounting software for the small household economy
+ffmpegthumbs (4:4.8.4-2)
+    video thumbnail generator using ffmpeg
+filelight (4:4.8.4-1)
+    show where your diskspace is being used
+fotowall (0.9-8)
+    simple application for creating collages and compositions
+fraqtive (0.4.5-6)
+    draws Mandelbrot and Julia fractals
+freespacenotifier (4:4.8.4-6)
+    free space notification module for KDE
+gambas3-gb-qt4-webkit (3.1.1-2+b2 [amd64, armhf, ia64, mips, powerpc], 3.1.1-2+b1 [i386, s390], 3.1.1-2 [mipsel])
+    Gambas WebKit component
+geogebra-kde (1.0-1)
+    KDE integration layer for GeoGebra
+gstreamer0.10-qapt (1.3.0-2)
+    GStreamer plugin to install codecs using QApt
+junior-kde (1.20)
+    Debian Jr. for KDE
+k3b (2.0.2-6)
+    Sophisticated CD/DVD burning application
+k3b-data (2.0.2-6)
+    Sophisticated CD/DVD burning application - data files
+kalarm (4:4.4.11.1+l10n-3+b1)
+    alarm message, command and email scheduler
+kamerka (0.8.1-1)
+    shiny photo taking application
+kamoso (2.0.2-1+b1)
+    tool to take pictures and videos from your webcam
+kanyremote (5.13-1)
+    KDE frontend for anyRemote
+kate-data (4:4.8.4-1)
+    shared data files for kate
+katepart (4:4.8.4-1)
+    kate KPart
+kbackup (0.7.1-3)
+    Easy to use backup program
+kbibtex (0.4-4)
+    BibTeX editor for KDE
+kchmviewer (5.3-1)
+    CHM viewer for KDE
+kcometen4 (1.0.7-1)
+    An OpenGL KDE screensaver with lightning and comets
+kde-baseapps (4:4.8.4-2)
+    base applications from the official KDE release (meta-package)
+kde-baseapps-bin (4:4.8.4-2)
+    core binaries for the KDE base applications
+kde-baseapps-data (4:4.8.4-2)
+    shared data files for the KDE base applications
+kde-config-cddb (4:4.8.4-2)
+    CDDB retrieval configuration
+kde-config-fcitx (0.3.4-1)
+    KDE configuration module for Fcitx
+kde-config-gtk-style (3:2.1-1)
+    KDE configuration module for GTK+ 2.x and GTK+ 3.x styles selection
+kde-config-tablet (1.3.6-1)
+    implements a KDE configuration GUI for the Wacom drivers
+kde-config-telepathy-accounts (0.4.0-1)
+    KDE Control Module for managing Telepathy Accounts
+kde-full (5:77+deb7u1)
+    complete KDE Software Compilation for end users
+kde-icons-mono (4:4.8.4-5)
+    monochromatic icons theme
+kde-icons-nuvola (4:4.8.4-5)
+    transitional package for Nuvola icon theme
+kde-notification-colibri (0.2.2-1)
+    passive notification system for kde4
+kde-plasma-desktop (5:77+deb7u1)
+    KDE Plasma Desktop and minimal set of applications
+kde-plasma-netbook (5:77+deb7u1)
+    KDE Plasma Netbook and minimal set of applications
+kde-runtime (4:4.8.4-2)
+    runtime components from the official KDE release
+kde-runtime-data (4:4.8.4-2)
+    shared data files for the KDE base runtime module
+kde-sc-dev-latest (4:4.8.4+5.77+deb7u1)
+    ensure that the latest KDE Development Platform is installed
+kde-standard (5:77+deb7u1)
+    KDE Plasma Desktop and standard set of applications
+kde-style-bespin (0.r1552-1)
+    very glossy Qt4/KDE4 window decoration
+kde-style-oxygen (4:4.8.4-6)
+    Oxygen widget style
+kde-style-polyester (2.0.0-3)
+    Polyester widget style for KDE4
+kde-style-qtcurve (1.8.12-2)
+    QtCurve widget style for KDE 4
+kde-telepathy-approver (0.4.0-1)
+    KDED module for approving incoming conversations
+kde-telepathy-auth-handler (0.4.0-1)
+    KDE Telepathy authentication handler
+kde-telepathy-call-ui (0.4.0-1)
+    KDE Telepathy UI for audio/video calls
+kde-telepathy-contact-list (0.4.0-1)
+    Telepathy contact list for the KDE Plasma Desktop
+kde-telepathy-filetransfer-handler (0.4.0-1+b1 [mips], 0.4.0-1 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mipsel, powerpc, s390, s390x, sparc])
+    KDE Telepathy file transfer handler
+kde-telepathy-integration-module (0.4.0-1)
+    Telepathy integration module for the KDE Workspace
+kde-telepathy-send-file (0.4.0-1)
+    KDE Telepathy dolphin/konqueror integration plugin
+kde-telepathy-text-ui (0.4.0-1)
+    Telepathy text chat UI for the KDE Plasma Desktop
+kde-thumbnailer-deb (1.3.0-2)
+    KDE plugin to show thumbnails of Debian package files
+kde-wallpapers (4:4.8.4-1)
+    set of wallpapers for the KDE Plasma Workspaces
+kde-wallpapers-default (4:4.8.4-1)
+    default wallpaper for the Plasma workspace
+kde-workspace (4:4.8.4-6)
+    KDE Plasma Workspace components
+kde-workspace-bin (4:4.8.4-6)
+    core binaries for the KDE Plasma Workspace
+kde-workspace-data (4:4.8.4-6)
+    shared data files for the KDE Plasma Workspace
+kde-workspace-dev (4:4.8.4-6)
+    development files for the KDE Plasma Workspace
+kde-zeroconf (4:4.8.4-1+b1)
+    zeroconf plugins and kio slaves for KDE
+kdeaccessibility (4:4.8.4+5.77+deb7u1)
+    accessibility packages from the official KDE release
+kdeadmin (4:4.8.4-3)
+    system administration tools from the official KDE release
+kdeartwork (4:4.8.4-5)
+    themes, styles and other artwork from the official KDE release
+kdeartwork-emoticons (4:4.8.4-5)
+    emoticon collections for chat clients
+kdeartwork-style (4:4.8.4-5)
+    widget styles for applications using Qt or KDE Development Platform
+kdeartwork-theme-icon (4:4.8.4-5)
+    additional icon themes
+kdeartwork-theme-window (4:4.8.4-5)
+    window decoration for the K Window manager (KWin)
+kdeedu (4:4.8.4+5.77+deb7u1)
+    educational applications from the official KDE release
+kdeedu-kvtml-data (4:4.8.4-1)
+    KVTML files for KDE-Edu programs
+kdegames (4:4.8.4-3)
+    games from the official KDE release
+kdegraphics (4:4.8.4+5.77+deb7u1)
+    graphics applications from the official KDE release
+kdegraphics-mobipocket (4:4.8.4-1)
+    mobipocket plugins for Strigi indexing, Okular and thumbnails
+kdegraphics-strigi-analyzer (4:4.8.4-1)
+    graphics file format plugins for Strigi Desktop Search
+kdegraphics-strigi-plugins (4:4.8.4+5.77+deb7u1)
+    transitional package for kdegraphics-related plugins
+kdegraphics-thumbnailers (4:4.8.4-1)
+    graphics file format thumbnailers for KDE SC
+kdemultimedia (4:4.8.4-2)
+    multimedia applications from the official KDE release
+kdemultimedia-kio-plugins (4:4.8.4-2)
+    transparent audio CD access for applications using the KDE Platform
+kdenetwork (4:4.8.4-1)
+    networking applications from the official KDE 4 release
+kdepim (4:4.4.11.1+l10n-3)
+    Personal Information Management apps from the official KDE release
+kdepim-groupware (4:4.4.11.1+l10n-3+b1)
+    KDE PIM Groupware plugins
+kdepim-kresources (4:4.4.11.1+l10n-3+b1)
+    KDE PIM resource plugins
+kdepim-strigi-plugins (4:4.4.11.1+l10n-3+b1)
+    PIM file format plugins for Strigi Desktop Search
+kdepim-wizards (4:4.4.11.1+l10n-3+b1)
+    KDE server configuration wizards
+kdeplasma-addons (4:4.8.4-1)
+    addons for Plasma
+kdesdk (4:4.8.4+dfsg-1)
+    Software Development Kit from the official KDE release
+kdesdk-strigi-plugins (4:4.8.4+dfsg-1)
+    software development file format plugins for Strigi Desktop Search
+kdesrc-build (1.15.1-1)
+    tool for building KDE from its source repositories
+kdesudo (3.4.2.4-2)
+    sudo frontend for KDE
+kdetoys (4:4.8.4-1)
+    desktop toys from the official KDE 4 release
+kdeutils (4:4.8.4+5.77+deb7u1)
+    general-purpose utilities from the official KDE release
+kdevelop (4:4.3.1-3+b1)
+    integrated development environment for KDE
+kdevelop-data (4:4.3.1-3)
+    data files for the KDevelop IDE
+kdevelop-dev (4:4.3.1-3+b1)
+    development files for the KDevelop IDE
+kdewallpapers (4:4.8.4-5)
+    extra KDE artwork wallpapers for the KDE Plasma Workspaces
+kdewebdev (4:4.8.4-1)
+    web development apps from the official KDE release
+kdiff3 (0.9.96-4)
+    compares and merges 2 or 3 files or directories
+kdm (4:4.8.4-6)
+    KDE Display Manager for X11
+kdm-gdmcompat (0.13-2)
+    Provide basic gdm functionality to systems running kdm
+kdm-theme-aperture (0.r1552-1)
+    very glossy Qt4/KDE4 kdm theme - aperture variant
+kdm-theme-bespin (0.r1552-1)
+    very glossy Qt4/KDE4 kdm theme
+kdm-theme-tibanna (0.r1552-1)
+    very glossy Qt4/KDE4 kdm theme - tibanna variant
+keurocalc (1.2.0-1)
+    universal currency converter and calculator - binary package
+keurocalc-data (1.2.0-1)
+    universal currency converter and calculator - data package
+kexi-calligrasheets-driver (1:2.4.4-3)
+    Tables plugin for kexi
+kfilereplace (4:4.8.4-1)
+    batch search-and-replace component
+kftpgrabber (0.8.99~svn1214766-1)
+    ftp client for KDE
+kgeography (4:4.8.4-1)
+    geography learning aid for KDE
+kgeography-data (4:4.8.4-1)
+    data files for KGeography
+khelpcenter4 (4:4.8.4-2)
+    help center
+kid3 (2.1-2)
+    KDE MP3 ID3 tag editor
+kid3-qt (2.1-2)
+    Audio tag editor
+kio-ftps (0.2+dfsg-2+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.2+dfsg-2 [armhf, s390x])
+    an ftps KIO slave for KDE 4
+kio-gopher (0.1.4-1)
+    gopher KIO slave for KDE4
+kipi-plugins (4:2.6.0-1+deb7u1)
+    image manipulation/handling plugins for KIPI aware programs
+kiten (4:4.8.4-1)
+    Japanese reference and study aid for KDE
+klettres (4:4.8.4-1)
+    foreign alphabet tutor for KDE
+klettres-data (4:4.8.4-1)
+    data files for KLettres foreign alphabet tutor
+klipper (4:4.8.4-6)
+    clipboard manager
+kmenuedit (4:4.8.4-6)
+    XDG menu editor
+kmymoney (4.6.2-3.2)
+    personal finance manager for KDE
+kmymoney-common (4.6.2-3.2)
+    KMyMoney architecture independent files
+knemo (0.7.3-1)
+    network interfaces monitor for KDE's systray
+knotes (4:4.4.11.1+l10n-3+b1)
+    sticky notes application
+komparator (4:0.6-1)
+    directories comparator for KDE
+konq-plugins (4:4.8.4-2)
+    plugins for Konqueror, the KDE file/web/document browser
+konsole (4:4.8.4-2)
+    X terminal emulator
+konsolekalendar (4:4.4.11.1+l10n-3+b1)
+    konsole personal organizer
+kontact (4:4.4.11.1+l10n-3+b1)
+    integrated application for personal information management
+korganizer (4:4.4.11.1+l10n-3+b1)
+    calendar and personal organizer
+kosd (0.8.1-1)
+    KDE On-Screen Display framework
+kpartsplugin (20120605-1)
+    Netscape-compatible plugin to embed KDE file-viewers into browser
+kraft (0.45-2)
+    small business-management application
+krecipes (2.0~beta2-3)
+    recipes manager for KDE
+krecipes-data (2.0~beta2-3)
+    recipes manager for KDE - data files
+krename (4.0.9-1+b1)
+    powerful batch renamer for KDE
+ksaneplugin (4:4.8.4-1)
+    KScan plugin for scanning through libksane
+kscope (1.9.4-2)
+    source browsing and editing environment
+kscreensaver (4:4.8.4-5)
+    Additional screensavers for KScreenSaver
+kscreensaver-xsavers (4:4.8.4-5)
+    xscreensaver support for KScreenSaver
+kscreensaver-xsavers-webcollage (4:4.8.4-5)
+    webcollage screensaver support for KScreenSaver
+kshutdown (3.0~beta4-1)
+    advanced shut down utility for KDE
+ksplash-theme-aperture (0.r1552-1)
+    very glossy Qt4/KDE4 ksplash theme - aperture variant
+ksplash-theme-bespin (0.r1552-1)
+    very glossy Qt4/KDE4 ksplash theme
+ksplash-theme-tibanna (0.r1552-1)
+    very glossy Qt4/KDE4 ksplash theme - tibanna variant
+kteatime (4:4.8.4-1)
+    utility for making a fine cup of tea
+ktouch (4:4.8.4-1)
+    touch typing tutor for KDE
+ktouch-data (4:4.8.4-1)
+    data files for ktouch
+ktux (4:4.8.4-1)
+    Tux screensaver for KScreenSaver
+kvkbd (1:0.6-3)
+    Virtual keyboard for KDE
+kvpnc (0.9.6a-2.1)
+    vpn clients frontend for KDE4
+kwalletcli (2.11-2)
+    command line interface to the KDE Wallet
+kwave (0.8.8-1-3)
+    sound editor for KDE
+kwin-style-crystal (2.0.5-2)
+    semi transparent window decoration for KDE
+kwin-style-dekorator (0.5.1-1)
+    Windows decoration engine for KDE 4 using user-supplied PNG files
+kwin-style-qtcurve (1.8.12-2)
+    QtCurve window decoration for KWin
+kwordquiz (4:4.8.4-1)
+    flashcard learning program for KDE
+libkactivities-bin (4:4.8.4-1)
+    executables for the KDE Activities
+libkdeedu-data (4:4.8.4-1)
+    data files for libkdeedu
+libkexiv2-data (4:4.8.4-1)
+    Qt-like interface for the libexiv2 library -- data files
+libqapt-runtime (1.3.0-2)
+    Runtime components for the QApt library
+libreoffice-kde (1:3.5.4+dfsg2-0+deb7u3 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1:3.5.4+dfsg2-0+deb7u2 [ia64]) [security]
+    office productivity suite -- KDE integration
+minirok (2.1-1)
+    a small music player written in Python and inspired by Amarok
+mplayerthumbs (4:4.8.4-2)
+    video thumbnail generator using mplayer
+okteta (4:4.8.4+dfsg-1)
+    hexadecimal editor for binary files
+okular-extra-backends (4:4.8.4-3+b1 [amd64], 4:4.8.4-3 [armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    additional document format support for Okular
+openoffice.org-kde (1:3.4.0~ooo340m1-7)
+    office productivity suite -- KDE integration
+parley (4:4.8.4-1)
+    vocabulary trainer
+parley-data (4:4.8.4-1)
+    data files for the Parley vocabulary trainer
+plasma-containments-addons (4:4.8.4-1+b2)
+    additional containment plugins for Plasma
+plasma-dataengines-addons (4:4.8.4-1+b2)
+    additional data engines for Plasma
+plasma-dataengines-workspace (4:4.8.4-6)
+    KDE Plasma data engines
+plasma-dataengines-yawp (0.4.2-1)
+    yaWP's data engines (Ions) for different weather services
+plasma-desktop (4:4.8.4-6)
+    KDE Plasma workspace for desktop and laptop computers
+plasma-desktopthemes-artwork (4:4.8.4-5)
+    desktop themes for KDE Plasma Workspaces
+plasma-netbook (4:4.8.4-6)
+    KDE Plasma workspace for netbook computers
+plasma-runner-installer (1.3.0-2)
+    KRunner plugin for installing packages
+plasma-runners-addons (4:4.8.4-1+b2)
+    additional runners for Plasma and Krunner
+plasma-scriptengine-javascript (4:4.8.4-2)
+    JavaScript script engine for Plasma
+plasma-scriptengine-python (4:4.8.4-6)
+    Python script engine for Plasma
+plasma-scriptengine-ruby (4:4.8.4-6)
+    Ruby script engine for Plasma
+plasma-scriptengine-superkaramba (4:4.8.4-3)
+    SuperKaramba theme support for the Plasma Workspaces
+plasma-scriptengine-webkit (4:4.8.4-6)
+    Web and Mac OS X dashboard widget support for Plasma
+plasma-scriptengines (4:4.8.4-6)
+    metapackage to install all Plasma script engines
+plasma-wallpapers-addons (4:4.8.4-1+b2)
+    additional wallpaper plugins for Plasma
+plasma-widget-adjustableclock (2.6.1-1+b2 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 2.6.1-1+b1 [s390x])
+    plasma widget clock to show date and time
+plasma-widget-cwp (1.6.11-1)
+    Customizable Weather Plasmoid (CWP)
+plasma-widget-fastuserswitch (0.2.1-1+b1)
+    Fast user switch plasmoid for switching between sessions in KDE
+plasma-widget-folderview (4:4.8.4-2)
+    plasma widget showing the content of a folder
+plasma-widget-kimpanel (4:4.8.4-1+b2)
+    KIMPanel widget for Plasma
+plasma-widget-ktorrent (4.2.1-1)
+    KTorrent Plasma widget
+plasma-widget-lancelot (4:4.8.4-1+b2)
+    lancelot widget for Plasma
+plasma-widget-menubar (0.1.17-1)
+    plasma widget to display menubar of application windows
+plasma-widget-message-indicator (0.5.8-3)
+    Plasma widget to display message indicators
+plasma-widget-networkmanagement (0.9.0.3-1)
+    Network Management widget for KDE Plasma workspaces
+plasma-widget-smooth-tasks (1flupp0~hg20120610-2)
+    alternate task manager plasma widget
+plasma-widget-telepathy-chat (0.4.0-1)
+    Telepathy text chat plasma widget
+plasma-widget-telepathy-presence (0.4.0-1)
+    KDE Telepathy presence plasma widget
+plasma-widget-translatoid (1.30+svn1226145-1)
+    translation widget for KDE Plasma
+plasma-widget-uim (1:1.8.1-4)
+    Universal Input Method - KDE Plasma widget
+plasma-widget-veromix (0.18.3-1)
+    Mixer for the PulseAudio sound server (Plasma)
+plasma-widget-yawp (0.4.2-1)
+    Yet Another Weather Plasmoid fetches weather forecasts for you
+plasma-widgets-addons (4:4.8.4-1+b2)
+    additional widgets for Plasma
+plasma-widgets-workspace (4:4.8.4-6)
+    plasma widgets and containments for the KDE Plasma Workspace
+qapt-batch (1.3.0-2)
+    Batch package manager for KDE
+qapt-deb-installer (1.3.0-2)
+    tool for installing deb files
+qapt-utils (1.3.0-2)
+    complete collection of QApt package management utilities
+qtcurve (1.8.12-2)
+    Unified window decoration for KDE and GTK+ (meta-package)
+rsibreak (4:0.11-2)
+    utility to help prevent repetitive strain injury for KDE 4
+sentinella (0.9.0-3)
+    System monitor that can react to user chosen conditions
+skrooge (1.3.0-1)
+    personal finance manager for KDE
+skrooge-common (1.3.0-1)
+    Skrooge architecture independent files
+smb4k (1.0.1-1)
+    Samba (SMB) share advanced browser for KDE
+soundkonverter (1.5.0-1)
+    audio converter frontend for KDE
+subtitlecomposer (0.5.3-3+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.5.3-3 [armhf, s390x])
+    Subtitles editor for KDE
+systemsettings (4:4.8.4-6)
+    System Settings
+tellico (2.3.5+dfsg.1-4)
+    Collection manager for books, videos, music, etc
+tellico-data (2.3.5+dfsg.1-4)
+    Collection manager for books, videos, music, etc [data]
+tellico-scripts (2.3.5+dfsg.1-4)
+    Collection manager for books, videos, music, etc [scripts]
+update-notifier-kde (1.2.4)
+    update notifier for the KDE Plasma Desktop
+vym (2.2.0-1)
+    mindmapping tool
+wicd-kde (0.3.0-2)
+    Wired and wireless network manager - plasmoid
+xsettings-kde (0.9-2)
+    XSettings daemon for KDE
+yakuake (2.9.8-1)
+    a Quake-style terminal emulator based on KDE Konsole technology
+zanshin (0.2.1-1+b1 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.2.1-1 [ia64])
+    to-do list manager 

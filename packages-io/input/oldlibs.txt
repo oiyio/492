@@ -1,0 +1,2914 @@
+autofs5 (5.0.7-3)
+    transitional dummy package for 'autofs'
+autofs5
+    virtual package provided by autofs
+autofs5-hesiod (5.0.7-3)
+    transitional dummy package for 'autofs-hesiod'
+autofs5-hesiod
+    virtual package provided by autofs-hesiod
+autofs5-ldap (5.0.7-3)
+    transitional dummy package for 'autofs-ldap'
+autofs5-ldap
+    virtual package provided by autofs-ldap
+c2050 (0.3b-4)
+    transitional dummy package for c2050 printer driver
+c2esp (24-2)
+    transitional dummy package for c2esp printer driver
+chromium-browser-l10n (37.0.2062.120-1~deb7u1)
+    chromium-browser language packages - transitional dummy package
+codeblocks-contrib-dbg (10.05-2.1)
+    Debugging libraries for the Code::Blocks contrib plugins
+comixcursors (0.7.2-2)
+    transitional dummy package
+comixcursors
+    virtual package provided by comixcursors-righthanded
+conky (1.9.0-2)
+    highly configurable system monitor (transitional package)
+cups-driver-gutenprint (5.2.9-1)
+    transitional dummy package for gutenprint printer driver
+cups-driver-gutenprint
+    virtual package provided by printer-driver-gutenprint
+cweb-latex (1.1.1.debian.1)
+    LaTeX support for CWEB (transitional package)
+dovecot-common (1:2.1.7-7+deb7u1)
+    Transitional package for dovecot
+dovecot-common
+    virtual package provided by dovecot-core
+elisa (1.0.9+bzr1614-1.1)
+    The Elisa media center application (transitional package)
+epson-escpr (1.1.1-2)
+    transitional dummy package for epson-escpr printer driver
+erubis (2.7.0-2)
+    Transitional package for ruby-erubis
+erubis
+    virtual package provided by ruby-erubis
+erubis-doc (2.7.0-2)
+    Transitional package for ruby-erubis
+erubis-doc
+    virtual package provided by ruby-erubis
+fftw-dev (2.1.5-1+b1 [armel, armhf, mips, mipsel, s390, s390x, sparc], 2.1.5-1 [amd64, i386, ia64, kfreebsd-amd64, kfreebsd-i386, powerpc])
+    library for computing Fast Fourier Transforms
+fftw-docs (2.1.5-1)
+    documentation for fftw
+fftw2 (2.1.5-1+b1 [armel, armhf, mips, mipsel, s390, s390x, sparc], 2.1.5-1 [amd64, i386, ia64, kfreebsd-amd64, kfreebsd-i386, powerpc])
+    library for computing Fast Fourier Transforms
+fglrx-glx (1:12-6+point-3) [non-free]
+    transitional package, use libgl1-fglrx-glx
+fglrx-glx-ia32 (1:12-6+point-3) [non-free]
+    please switch to multiarch libgl1-fglrx-glx:i386
+fizmo (0.7.2-2)
+    Z-machine interpreter for Infocom/Inform games
+font-hosny-amiri (0.103-1)
+    Arabic Naskh style typographically oriented font (transitional package)
+font-hosny-amiri
+    virtual package provided by fonts-hosny-amiri
+foo2zjs (20120510dfsg0-1)
+    transitional dummy package for foo2zjs printer driver
+freedesktop-sound-theme (0.7.pristine-2)
+    Transitional package for sound-theme-freedesktop
+freedesktop-sound-theme
+    virtual package provided by sound-theme-freedesktop
+glest (3.6.0.3-1.2)
+    Dummy transition package for megaglest
+glest-data (3.6.0.3-1)
+    Dummy transition package for megaglest-data
+gnash-common-opengl (0.8.11~git20120629-1+deb7u1)
+    dummy package for gnash-common-opengl removal
+gnash-opengl (0.8.11~git20120629-1+deb7u1)
+    dummy package for gnash-opengl removal
+gqview (1:1.0-10.1)
+    image viewer using GTK+ (transitional package)
+gqview-dbg (1:1.0-10.1)
+    image viewer using GTK+ (debug) (transitional package)
+hpijs (3.12.6-3.1+deb7u1)
+    transitional dummy package for hpijs printer driver
+hplip-cups (3.12.6-3.1+deb7u1)
+    transitional dummy package for hpcups printer driver
+html2markdown (3.200.3-2)
+    Dummy upgrade package for merge of html2markdown into python-html2text
+ia32-libs (1:0.4)
+    Transitional package to migrate ia32-libs to multiarch
+ia32-libs-gtk-i386 (1:0.1)
+    Transitional package to migrate ia32-libs-gtk to multiarch
+ia32-libs-i386 (1:0.4)
+    Transitional package to migrate ia32-libs to multiarch
+icedove-dispmua (1.6.8-1)
+    display Mail User Agent extension for Icedove (transitional package)
+icedove-dispmua
+    virtual package provided by xul-ext-dispmua
+icedove-quotecolors (0.3-3)
+    Colorize different quoting levels in e-mail messages (transitional package)
+icedove-quotecolors
+    virtual package provided by xul-ext-quotecolors
+infinoted-0.5 (0.5.2-6.1)
+    dedicated server for infinote-based collaborative editing (transitional)
+kdebase-apps (4:4.8.4-2)
+    Transitional package for kde-baseapps
+kdebase-bin (4:4.8.4-2)
+    Transitional package for new kde-baseapps
+kdebase-dbg (4:4.8.4-2)
+    Transitional package for kde-baseapps-dbg
+kdebase-runtime (4:4.8.4-2)
+    Transitional package for the KDE runtime components
+kdebase-runtime-dbg (4:4.8.4-2)
+    transitional package for kde-runtime-dbg
+kdebase-workspace (4:4.8.4-6)
+    transitional package for kde-workspace
+kdebase-workspace-bin (4:4.8.4-6)
+    transitional package for kde-workspace-bin
+kdebase-workspace-dbg (4:4.8.4-6)
+    transitional package for kde-workspace-dbg
+kdebase-workspace-dev (4:4.8.4-6)
+    transitional package for kde-workspace-dev
+kdirstat (2.7.3-1)
+    Transitional package for k4dirstat
+kexi-plugin-kspread (1:2.4.3+2)
+    transitional dummy package for kexi-calligrasheets-driver
+kexi-plugin-mysql (1:2.4.3+2)
+    transitional dummy package for kexi-mysql-driver
+kexi-plugin-postgresql (1:2.4.3+2)
+    transitional dummy package for kexi-postgresql-driver
+kexi-plugin-xbase (1:2.4.3+2)
+    transitional dummy package for kexi-xbase-driver
+klash-opengl (0.8.11~git20120629-1+deb7u1)
+    dummy package for klash-opengl removal
+koffice (1:2.4.3+2)
+    transitional dummy package for calligra
+koffice-dbg (1:2.4.3+2)
+    transitional dummy package for calligra-dbg
+koffice-l10n-ca (1:2.4.3+2)
+    transitional dummy package for calligra-l10n-ca
+koffice-l10n-cavalencia (1:2.4.3+2)
+    transitional dummy package for calligra-l10n-cavalencia
+koffice-l10n-da (1:2.4.3+2)
+    transitional dummy package for calligra-l10n-da
+koffice-l10n-de (1:2.4.3+2)
+    transitional dummy package for calligra-l10n-de
+koffice-l10n-el (1:2.4.3+2)
+    transitional dummy package for calligra-l10n-el
+koffice-l10n-engb (1:2.4.3+2)
+    transitional dummy package for calligra-l10n-engb
+koffice-l10n-es (1:2.4.3+2)
+    transitional dummy package for calligra-l10n-es
+koffice-l10n-et (1:2.4.3+2)
+    transitional dummy package for calligra-l10n-et
+koffice-l10n-fr (1:2.4.3+2)
+    transitional dummy package for calligra-l10n-fr
+koffice-l10n-hu (1:2.4.3+2)
+    transitional dummy package for calligra-l10n-hu
+koffice-l10n-it (1:2.4.3+2)
+    transitional dummy package for calligra-l10n-it
+koffice-l10n-kk (1:2.4.3+2)
+    transitional dummy package for calligra-l10n-kk
+koffice-l10n-nb (1:2.4.3+2)
+    transitional dummy package for calligra-l10n-nb
+koffice-l10n-nds (1:2.4.3+2)
+    transitional dummy package for calligra-l10n-nds
+koffice-l10n-nl (1:2.4.3+2)
+    transitional dummy package for calligra-l10n-nl
+koffice-l10n-pl (1:2.4.3+2)
+    transitional dummy package for calligra-l10n-pl
+koffice-l10n-pt (1:2.4.3+2)
+    transitional dummy package for calligra-l10n-pt
+koffice-l10n-ptbr (1:2.4.3+2)
+    transitional dummy package for calligra-l10n-ptbr
+koffice-l10n-ru (1:2.4.3+2)
+    transitional dummy package for calligra-l10n-ru
+koffice-l10n-sv (1:2.4.3+2)
+    transitional dummy package for calligra-l10n-sv
+koffice-l10n-uk (1:2.4.3+2)
+    transitional dummy package for calligra-l10n-uk
+koffice-l10n-zhcn (1:2.4.3+2)
+    transitional dummy package for calligra-l10n-zhcn
+koffice-l10n-zhtw (1:2.4.3+2)
+    transitional dummy package for calligra-l10n-zhtw
+korundum4 (4:4.8.4-1)
+    transitional package for korundum
+korundum4
+    virtual package provided by korundum
+kplato (1:2.4.3+2)
+    transitional dummy package for calligraplan
+kpresenter (1:2.4.3+2)
+    transitional dummy package for calligrastage
+kspread (1:2.4.3+2)
+    transitional dummy package for calligrasheets
+kvm (1:1.1.2+dfsg-6+deb7u6)
+    dummy transitional package from kvm to qemu-kvm
+kvm
+    virtual package provided by qemu-kvm
+kword (1:2.4.3+2)
+    transitional dummy package for calligrawords
+libactionmailer-ruby (2:2.3.14.2)
+    Transitional package for ruby-actionmailer
+libactionmailer-ruby
+    virtual package provided by ruby-actionmailer-2.3
+libactionmailer-ruby1.8 (2:2.3.14.2)
+    Transitional package for ruby-actionmailer
+libactionmailer-ruby1.8
+    virtual package provided by ruby-actionmailer-2.3
+libactionpack-ruby (2:2.3.14.2)
+    Transitional package for ruby-actionpack
+libactionpack-ruby
+    virtual package provided by ruby-actionpack-2.3
+libactionpack-ruby1.8 (2:2.3.14.2)
+    Transitional package for ruby-actionpack
+libactionpack-ruby1.8
+    virtual package provided by ruby-actionpack-2.3
+libactiveldap-ruby (1.2.4-3)
+    Transitional package for ruby-activeldap
+libactiveldap-ruby
+    virtual package provided by ruby-activeldap
+libactiveldap-ruby1.8 (1.2.4-3)
+    Transitional package for ruby-activeldap
+libactiveldap-ruby1.8
+    virtual package provided by ruby-activeldap
+libactiverecord-ruby (2:2.3.14.2)
+    Transitional package for ruby-activerecord
+libactiverecord-ruby
+    virtual package provided by ruby-activerecord-2.3
+libactiverecord-ruby1.8 (2:2.3.14.2)
+    Transitional package for ruby-activerecord
+libactiverecord-ruby1.8
+    virtual package provided by ruby-activerecord-2.3
+libactiverecord-ruby1.9.1 (2:2.3.14.2)
+    Transitional package for ruby-activerecord
+libactiverecord-ruby1.9.1
+    virtual package provided by ruby-activerecord-2.3
+libactiveresource-ruby (2:2.3.14.2)
+    Transitional package for ruby-activeresource
+libactiveresource-ruby
+    virtual package provided by ruby-activeresource-2.3
+libactiveresource-ruby1.8 (2:2.3.14.2)
+    Transitional package for ruby-activeresource
+libactiveresource-ruby1.8
+    virtual package provided by ruby-activeresource-2.3
+libactivesupport-ruby (2:2.3.14.2)
+    Transitional package for ruby-activesupport
+libactivesupport-ruby
+    virtual package provided by ruby-activesupport-2.3
+libactivesupport-ruby1.8 (2:2.3.14.2)
+    Transitional package for ruby-activesupport
+libactivesupport-ruby1.8
+    virtual package provided by ruby-activesupport-2.3
+libactivesupport-ruby1.9.1 (2:2.3.14.2)
+    Transitional package for ruby-activesupport
+libactivesupport-ruby1.9.1
+    virtual package provided by ruby-activesupport-2.3
+libaddressable-ruby (2.2.8-1)
+    Transitional package for ruby-addressable
+libaddressable-ruby
+    virtual package provided by ruby-addressable
+libaddressable-ruby1.8 (2.2.8-1)
+    Transitional package for ruby-addressable
+libaddressable-ruby1.8
+    virtual package provided by ruby-addressable
+libaddressable-ruby1.9.1 (2.2.8-1)
+    Transitional package for ruby-addressable
+libaddressable-ruby1.9.1
+    virtual package provided by ruby-addressable
+libakonadi-ruby (4:4.8.4-1)
+    transitional package for ruby-akonadi
+libakonadi-ruby
+    virtual package provided by ruby-akonadi
+libakonadi-ruby1.8 (4:4.8.4-1)
+    transitional package for ruby-akonadi
+libakonadi-ruby1.8
+    virtual package provided by ruby-akonadi
+libalgorithm-diff-ruby (0.4-14)
+    Transitional package for ruby-algorithm-diff
+libalgorithm-diff-ruby
+    virtual package provided by ruby-algorithm-diff
+libalgorithm-diff-ruby1.8 (0.4-14)
+    Transitional package for ruby-algorithm-diff
+libalgorithm-diff-ruby1.8
+    virtual package provided by ruby-algorithm-diff
+libamazonec2-ruby (0.9.17-2)
+    Transitional package for ruby-amazon-ec2
+libamazonec2-ruby
+    virtual package provided by ruby-amazon-ec2
+libamazonec2-ruby1.8 (0.9.17-2)
+    Transitional package for ruby-amazon-ec2
+libamazonec2-ruby1.8
+    virtual package provided by ruby-amazon-ec2
+libamrita-ruby1.8 (1.0.2-10)
+    Transitional package for ruby-amrita
+libamrita-ruby1.8
+    virtual package provided by ruby-amrita, ruby-amrita2
+libamrita2-ruby1.8 (2.0.2+dfsg.1-3)
+    Transitional package for ruby-amrita2
+libamrita2-ruby1.9.1 (2.0.2+dfsg.1-3)
+    Transitional package for ruby-amrita2
+libatk1-ruby (1.1.3-2)
+    Transitional package for ruby-atk
+libatk1-ruby
+    virtual package provided by ruby-atk
+libatk1-ruby1.8 (1.1.3-2)
+    Transitional package for ruby-atk
+libatk1-ruby1.8
+    virtual package provided by ruby-atk
+libatlas3gf-base (3.8.4-9+deb7u1)
+    Transitional package to libatlas3-base
+libbarby-ruby (0.5.0-1)
+    Transitional package for ruby-barby
+libbarby-ruby
+    virtual package provided by ruby-barby
+libbarby-ruby1.8 (0.5.0-1)
+    Transitional package for ruby-barby
+libbarby-ruby1.8
+    virtual package provided by ruby-barby
+libbio-ruby (1.4.2-3)
+    Transitional package for ruby-bio
+libbio-ruby
+    virtual package provided by ruby-bio
+libbio-ruby1.8 (1.4.2-3)
+    Transitional package for ruby-bio
+libbio-ruby1.8
+    virtual package provided by ruby-bio
+libblas3gf (1.2.20110419-5)
+    Transitional package for libblas
+libblas3gf
+    virtual package provided by libblas3
+libbluecloth-ruby (2.2.0-3)
+    Transitional package for ruby-bluecloth
+libbluecloth-ruby
+    virtual package provided by ruby-bluecloth
+libbluecloth-ruby1.8 (2.2.0-3)
+    Transitional package for ruby-bluecloth
+libbluecloth-ruby1.8
+    virtual package provided by ruby-bluecloth
+libbsearch-ruby (1.5-9)
+    Transitional package for ruby-bsearch
+libbsearch-ruby
+    virtual package provided by ruby-bsearch
+libbsearch-ruby1.8 (1.5-9)
+    Transitional package for ruby-bsearch
+libbsearch-ruby1.8
+    virtual package provided by ruby-bsearch
+libbt (0.70.1-13)
+    transitional package for libbt0
+libbuilder-ruby (3.0.0-3)
+    Transitional package for ruby-builder
+libbuilder-ruby
+    virtual package provided by ruby-builder
+libbuilder-ruby1.8 (3.0.0-3)
+    Transitional package for ruby-builder
+libbuilder-ruby1.8
+    virtual package provided by ruby-builder
+libbuilder-ruby1.9.1 (3.0.0-3)
+    Transitional package for ruby-builder
+libbuilder-ruby1.9.1
+    virtual package provided by ruby-builder
+libbunny-ruby (0.7.8-1)
+    Transitional package for ruby-bunny
+libbunny-ruby
+    virtual package provided by ruby-bunny
+libbunny-ruby1.8 (0.7.8-1)
+    Transitional package for ruby-bunny
+libbunny-ruby1.8
+    virtual package provided by ruby-bunny
+libbunny-ruby1.9.1 (0.7.8-1)
+    Transitional package for ruby-bunny
+libbunny-ruby1.9.1
+    virtual package provided by ruby-bunny
+libcairo-ruby (1.12.2-2)
+    Transitional package for ruby-cairo
+libcairo-ruby
+    virtual package provided by ruby-cairo
+libcairo-ruby1.8 (1.12.2-2)
+    Transitional package for ruby-cairo
+libcairo-ruby1.8
+    virtual package provided by ruby-cairo
+libchef-ruby (10.12.0-3)
+    Transitional package for chef
+libchef-ruby
+    virtual package provided by chef
+libchef-ruby1.8 (10.12.0-3)
+    Transitional package for chef
+libchef-ruby1.8
+    virtual package provided by chef
+libchipcard-libgwenhywfar47-plugins (5.0.3beta-3)
+    crypttoken plugin to libgwenhywfar - transitional dummy package
+libchronic-ruby (0.6.7-2)
+    Transitional package for ruby-chronic
+libchronic-ruby
+    virtual package provided by ruby-chronic
+libcmdparse-ruby (2.0.5-1)
+    Transitional package for ruby-cmdparse
+libcmdparse-ruby
+    virtual package provided by ruby-cmdparse
+libcmdparse2-ruby (2.0.5-1)
+    Transitional package for ruby-cmdparse
+libcmdparse2-ruby
+    virtual package provided by ruby-cmdparse
+libcmdparse2-ruby1.8 (2.0.5-1)
+    Transitional package for ruby-cmdparse
+libcmdparse2-ruby1.8
+    virtual package provided by ruby-cmdparse
+libcoderay-ruby (1.0.6-2)
+    Transitional package for coderay
+libcoderay-ruby
+    virtual package provided by ruby-coderay
+libcoderay-ruby1.8 (1.0.6-2)
+    Transitional package for coderay
+libcoderay-ruby1.8
+    virtual package provided by ruby-coderay
+libcolor-tools-ruby (1.4.1-2)
+    Transitional package for ruby-color-tools
+libcolor-tools-ruby1.8 (1.4.1-2)
+    Transitional package for ruby-color-tools
+libcommandline-ruby (0.7.10-12)
+    Transitional package for ruby-commandline
+libcommandline-ruby
+    virtual package provided by ruby-commandline
+libcommandline-ruby1.8 (0.7.10-12)
+    Transitional package for ruby-commandline
+libcommandline-ruby1.8
+    virtual package provided by ruby-commandline
+libconfig++8-dev (1.4.8-5)
+    Transitional package for libconfig++-dev
+libconfig8-dev (1.4.8-5)
+    Transitional package for libconfig-dev
+libcuda1-ia32 (304.125-1) [non-free]
+    please switch to multiarch libcuda1:i386
+libdaemons-ruby (1.1.5-2)
+    Transitional package for ruby-daemons
+libdaemons-ruby
+    virtual package provided by ruby-daemons
+libdaemons-ruby1.8 (1.1.5-2)
+    Transitional package for ruby-daemons
+libdaemons-ruby1.8
+    virtual package provided by ruby-daemons
+libdataobjects-mysql-ruby (0.10.8-4)
+    Transitional package for ruby-dataobjects-mysql
+libdataobjects-mysql-ruby
+    virtual package provided by ruby-dataobjects-mysql
+libdataobjects-mysql-ruby1.8 (0.10.8-4)
+    Transitional package for ruby-dataobjects-mysql
+libdataobjects-mysql-ruby1.8
+    virtual package provided by ruby-dataobjects-mysql
+libdataobjects-mysql-ruby1.9.1 (0.10.8-4)
+    Transitional package for ruby-dataobjects-mysql
+libdataobjects-mysql-ruby1.9.1
+    virtual package provided by ruby-dataobjects-mysql
+libdataobjects-postgres-ruby (0.10.8-2)
+    Transitional package for ruby-dataobjects-postgres
+libdataobjects-postgres-ruby
+    virtual package provided by ruby-dataobjects-postgres
+libdataobjects-postgres-ruby1.8 (0.10.8-2)
+    Transitional package for ruby-dataobjects-postgres
+libdataobjects-postgres-ruby1.8
+    virtual package provided by ruby-dataobjects-postgres
+libdataobjects-postgres-ruby1.9.1 (0.10.8-2)
+    Transitional package for ruby-dataobjects-postgres
+libdataobjects-postgres-ruby1.9.1
+    virtual package provided by ruby-dataobjects-postgres
+libdataobjects-ruby (0.10.8-4)
+    Transitional package to ruby-dataobjects
+libdataobjects-ruby
+    virtual package provided by ruby-dataobjects
+libdataobjects-ruby1.8 (0.10.8-4)
+    Transitional package to ruby-dataobjects
+libdataobjects-ruby1.8
+    virtual package provided by ruby-dataobjects
+libdataobjects-ruby1.9.1 (0.10.8-4)
+    Transitional package to ruby-dataobjects
+libdataobjects-ruby1.9.1
+    virtual package provided by ruby-dataobjects
+libdataobjects-sqlite3-ruby (0.10.8-3)
+    Transitional package for ruby-dataobjects-sqlite3
+libdataobjects-sqlite3-ruby
+    virtual package provided by ruby-dataobjects-sqlite3
+libdataobjects-sqlite3-ruby1.8 (0.10.8-3)
+    Transitional package for ruby-dataobjects-sqlite3
+libdataobjects-sqlite3-ruby1.8
+    virtual package provided by ruby-dataobjects-sqlite3
+libdataobjects-sqlite3-ruby1.9.1 (0.10.8-3)
+    Transitional package for ruby-dataobjects-sqlite3
+libdataobjects-sqlite3-ruby1.9.1
+    virtual package provided by ruby-dataobjects-sqlite3
+libdb-ruby1.8 (0.6.5-7)
+    transitional package for ruby-bdb
+libdb-ruby1.8
+    virtual package provided by ruby-bdb
+libdb1-compat (2.1.3-16)
+    Berkeley database routines [glibc 2.0/2.1 compatibility]
+libdb4.2-ruby1.8 (0.6.5-7)
+    transitional package for ruby-bdb
+libdb4.2-ruby1.8
+    virtual package provided by ruby-bdb
+libdb4.3-ruby1.8 (0.6.5-7)
+    transitional package for ruby-bdb
+libdb4.3-ruby1.8
+    virtual package provided by ruby-bdb
+libdb4.4-ruby1.8 (0.6.5-7)
+    transitional package for ruby-bdb
+libdb4.4-ruby1.8
+    virtual package provided by ruby-bdb
+libdbd-mysql-ruby (0.4.4+gem2deb-1)
+    Transitional package for ruby-dbd-mysql
+libdbd-mysql-ruby
+    virtual package provided by ruby-dbd-mysql
+libdbd-mysql-ruby1.8 (0.4.4+gem2deb-1)
+    Transitional package for ruby-dbd-mysql
+libdbd-mysql-ruby1.8
+    virtual package provided by ruby-dbd-mysql
+libdbd-mysql-ruby1.9.1 (0.4.4+gem2deb-1)
+    Transitional package for ruby-dbd-mysql
+libdbd-mysql-ruby1.9.1
+    virtual package provided by ruby-dbd-mysql
+libdbd-odbc-ruby (0.2.5+gem2deb-1)
+    Transitional package for ruby-dbd-odbc
+libdbd-odbc-ruby
+    virtual package provided by ruby-dbd-odbc
+libdbd-odbc-ruby1.8 (0.2.5+gem2deb-1)
+    Transitional package for ruby-dbd-odbc
+libdbd-odbc-ruby1.8
+    virtual package provided by ruby-dbd-odbc
+libdbd-pg-ruby (0.3.9+gem2deb-1)
+    Transitional package for ruby-dbd-pg
+libdbd-pg-ruby
+    virtual package provided by ruby-dbd-pg
+libdbd-pg-ruby1.8 (0.3.9+gem2deb-1)
+    Transitional package for ruby-dbd-pg
+libdbd-pg-ruby1.8
+    virtual package provided by ruby-dbd-pg
+libdbd-pg-ruby1.9.1 (0.3.9+gem2deb-1)
+    Transitional package for ruby-dbd-pg
+libdbd-pg-ruby1.9.1
+    virtual package provided by ruby-dbd-pg
+libdbd-sqlite3-ruby (1.2.5+gem2deb-1)
+    Transitional package for ruby-dbd-sqlite3
+libdbd-sqlite3-ruby
+    virtual package provided by ruby-dbd-sqlite3
+libdbd-sqlite3-ruby1.8 (1.2.5+gem2deb-1)
+    Transitional package for ruby-dbd-sqlite3
+libdbd-sqlite3-ruby1.8
+    virtual package provided by ruby-dbd-sqlite3
+libdbd-sqlite3-ruby1.9.1 (1.2.5+gem2deb-1)
+    Transitional package for ruby-dbd-sqlite3
+libdbd-sqlite3-ruby1.9.1
+    virtual package provided by ruby-dbd-sqlite3
+libdbi-ruby (0.4.5-1)
+    Transitional package for ruby-dbi
+libdbi-ruby
+    virtual package provided by ruby-dbi
+libdbi-ruby1.8 (0.4.5-1)
+    Transitional package for ruby-dbi
+libdbi-ruby1.8
+    virtual package provided by ruby-dbi
+libdbi-ruby1.9.1 (0.4.5-1)
+    Transitional package for ruby-dbi
+libdbi-ruby1.9.1
+    virtual package provided by ruby-dbi
+libdbus-ruby (0.7.2-1)
+    Transitional package for ruby-dbus
+libdbus-ruby
+    virtual package provided by ruby-dbus
+libdbus-ruby1.8 (0.7.2-1)
+    Transitional package for ruby-dbus
+libdbus-ruby1.8
+    virtual package provided by ruby-dbus
+libdeprecated-ruby (3.0.0-1)
+    Transitional package for ruby-deprecated
+libdeprecated-ruby
+    virtual package provided by ruby-deprecated
+libdeprecated-ruby1.8 (3.0.0-1)
+    Transitional package for ruby-deprecated
+libdeprecated-ruby1.8
+    virtual package provided by ruby-deprecated
+libdeprecated-ruby1.9.1 (3.0.0-1)
+    Transitional package for ruby-deprecated
+libdeprecated-ruby1.9.1
+    virtual package provided by ruby-deprecated
+libdifflcs-ruby (1.1.3-1)
+    Transitional package for ruby-diff-lcs
+libdifflcs-ruby
+    virtual package provided by ruby-diff-lcs
+libdifflcs-ruby1.8 (1.1.3-1)
+    Transitional package for ruby-diff-lcs
+libdifflcs-ruby1.8
+    virtual package provided by ruby-diff-lcs
+libdifflcs-ruby1.9.1 (1.1.3-1)
+    Transitional package for ruby-diff-lcs
+libdifflcs-ruby1.9.1
+    virtual package provided by ruby-diff-lcs
+libdts-dev (0.0.5-5)
+    backward compatibility place-holder for libdca
+libeb-ruby1.8 (2.6-2)
+    EB library interface for the Ruby (transitional package)
+libeb-ruby1.8
+    virtual package provided by ruby-eb
+libecasound-ruby1.8 (2.9.0-1)
+    transitional dummy package for ruby-ecasound
+libecasoundc2.2-dev (2.9.0-1)
+    transitional dummy package for libecasoundc-dev
+liberubis-ruby (2.7.0-2)
+    Transitional package for ruby-erubis
+liberubis-ruby
+    virtual package provided by ruby-erubis
+liberubis-ruby1.8 (2.7.0-2)
+    Transitional package for ruby-erubis
+liberubis-ruby1.8
+    virtual package provided by ruby-erubis
+liberubis-ruby1.9.1 (2.7.0-2)
+    Transitional package for ruby-erubis
+liberubis-ruby1.9.1
+    virtual package provided by ruby-erubis
+libevent-loop-ruby (0.3-5)
+    Transitional package for ruby-event-loop
+libevent-loop-ruby
+    virtual package provided by ruby-event-loop
+libevent-loop-ruby1.8 (0.3-5)
+    Transitional package for ruby-event-loop
+libevent-loop-ruby1.8
+    virtual package provided by ruby-event-loop
+libeventmachine-ruby (0.12.10-3)
+    Transitional package for ruby-eventmachine
+libeventmachine-ruby
+    virtual package provided by ruby-eventmachine
+libeventmachine-ruby-doc (0.12.10-3)
+    Transitional package for ruby-eventmachine
+libeventmachine-ruby-doc
+    virtual package provided by ruby-eventmachine
+libeventmachine-ruby1.8 (0.12.10-3)
+    Transitional package for ruby-eventmachine
+libeventmachine-ruby1.8
+    virtual package provided by ruby-eventmachine
+libexif-ruby (0.1.2-20)
+    Ruby library for EXIF tag parsing (transitional package)
+libexif-ruby
+    virtual package provided by ruby-exif
+libexif-ruby1.8 (0.1.2-20)
+    Ruby library for EXIF tag parsing (transitional package)
+libexif-ruby1.8
+    virtual package provided by ruby-exif
+libexif-ruby1.9.1 (0.1.2-20)
+    Ruby library for EXIF tag parsing (transitional package)
+libexif-ruby1.9.1
+    virtual package provided by ruby-exif
+libextlib-ruby (0.9.15-3)
+    Transitional package for ruby-extlib
+libextlib-ruby
+    virtual package provided by ruby-extlib
+libextlib-ruby1.8 (0.9.15-3)
+    Transitional package for ruby-extlib
+libextlib-ruby1.8
+    virtual package provided by ruby-extlib
+libextlib-ruby1.9.1 (0.9.15-3)
+    Transitional package for ruby-extlib
+libextlib-ruby1.9.1
+    virtual package provided by ruby-extlib
+libfacets-ruby (2.9.2-1)
+    Transitional package for ruby-facets
+libfacets-ruby
+    virtual package provided by ruby-facets
+libfacets-ruby1.8 (2.9.2-1)
+    Transitional package for ruby-facets
+libfacets-ruby1.8
+    virtual package provided by ruby-facets
+libfacets-ruby1.9.1 (2.9.2-1)
+    Transitional package for ruby-facets
+libfacets-ruby1.9.1
+    virtual package provided by ruby-facets
+libfakefs-ruby (0.4.0-1)
+    Transitional package for ruby-fakefs
+libfakefs-ruby
+    virtual package provided by ruby-fakefs
+libfakefs-ruby1.8 (0.4.0-1)
+    Transitional package for ruby-fakefs
+libfakefs-ruby1.8
+    virtual package provided by ruby-fakefs
+libfakefs-ruby1.9.1 (0.4.0-1)
+    Transitional package for ruby-fakefs
+libfakefs-ruby1.9.1
+    virtual package provided by ruby-fakefs
+libfeedparser-ruby (0.7-2)
+    Transitional package for ruby-feedparser
+libfeedparser-ruby
+    virtual package provided by ruby-feedparser
+libfeedparser-ruby1.8 (0.7-2)
+    Transitional package for ruby-feedparser
+libfeedparser-ruby1.8
+    virtual package provided by ruby-feedparser
+libfeedtools-ruby (0.2.29+dfsg1-5)
+    Transitional package for ruby-feedtools
+libfeedtools-ruby
+    virtual package provided by ruby-feedtools
+libfeedtools-ruby1.8 (0.2.29+dfsg1-5)
+    Transitional package for ruby-feedtools
+libfeedtools-ruby1.8
+    virtual package provided by ruby-feedtools
+libfeedtools-ruby1.9.1 (0.2.29+dfsg1-5)
+    Transitional package for ruby-feedtools
+libfeedtools-ruby1.9.1
+    virtual package provided by ruby-feedtools
+libferret-ruby (0.11.8.4+debian-2)
+    Transitional package for ruby-ferret
+libferret-ruby
+    virtual package provided by ruby-ferret
+libferret-ruby1.8 (0.11.8.4+debian-2)
+    Transitional package for ruby-ferret
+libferret-ruby1.8
+    virtual package provided by ruby-ferret
+libffi-ruby (1.0.11debian-5)
+    Transitional package for ruby-ffi
+libffi-ruby
+    virtual package provided by ruby-ffi
+libffi-ruby1.8 (1.0.11debian-5)
+    Transitional package for ruby-ffi
+libffi-ruby1.8
+    virtual package provided by ruby-ffi
+libffi-ruby1.9.1 (1.0.11debian-5)
+    Transitional package for ruby-ffi
+libffi-ruby1.9.1
+    virtual package provided by ruby-ffi
+libfglrx-ia32 (1:12-6+point-3) [non-free]
+    please switch to multiarch libfglrx:i386
+libfilesystem-ruby1.8 (0.5-3.1)
+    Ruby1.8 extension for file-system information
+libflexmock-ruby (0.9.0-1)
+    Transitional package for ruby-flexmock
+libflexmock-ruby
+    virtual package provided by ruby-flexmock
+libflexmock-ruby1.8 (0.9.0-1)
+    Transitional package for ruby-flexmock
+libflexmock-ruby1.8
+    virtual package provided by ruby-flexmock
+libflexmock-ruby1.9.1 (0.9.0-1)
+    Transitional package for ruby-flexmock
+libflexmock-ruby1.9.1
+    virtual package provided by ruby-flexmock
+libfssm-ruby (0.2.9-2)
+    Transitional package for ruby-fssm
+libfssm-ruby
+    virtual package provided by ruby-fssm
+libfssm-ruby1.8 (0.2.9-2)
+    Transitional package for ruby-fssm
+libfssm-ruby1.8
+    virtual package provided by ruby-fssm
+libfssm-ruby1.9.1 (0.2.9-2)
+    Transitional package for ruby-fssm
+libfssm-ruby1.9.1
+    virtual package provided by ruby-fssm
+libfusefs-ruby (0.7.0-3)
+    Transitional package for ruby-fusefs
+libfusefs-ruby
+    virtual package provided by ruby-fusefs
+libfusefs-ruby1.8 (0.7.0-3)
+    Transitional package for ruby-fusefs
+libfusefs-ruby1.8
+    virtual package provided by ruby-fusefs
+libgconf2-4 (3.2.5-1+build1)
+    GNOME configuration database system (dummy package)
+libgd-ruby (0.8.0-3)
+    Transitional package for ruby-gd
+libgd-ruby
+    virtual package provided by ruby-gd
+libgd-ruby1.8 (0.8.0-3)
+    Transitional package for ruby-gd
+libgd-ruby1.8
+    virtual package provided by ruby-gd
+libgdk-pixbuf2-ruby (1.1.3-2)
+    Transitional package for ruby-gdk-pixbuf2
+libgdk-pixbuf2-ruby
+    virtual package provided by ruby-gdk-pixbuf2
+libgdk-pixbuf2-ruby1.8 (1.1.3-2)
+    Transitional package for ruby-gdk-pixbuf2
+libgdk-pixbuf2-ruby1.8
+    virtual package provided by ruby-gdk-pixbuf2
+libgettext-activerecord-ruby (2.1.0-5)
+    Transitional package for ruby-gettext-activerecord
+libgettext-activerecord-ruby
+    virtual package provided by ruby-gettext-activerecord
+libgettext-activerecord-ruby1.8 (2.1.0-5)
+    Transitional package for ruby-gettext-activerecord
+libgettext-activerecord-ruby1.8
+    virtual package provided by ruby-gettext-activerecord
+libgettext-activerecord-ruby1.9.1 (2.1.0-5)
+    Transitional package for ruby-gettext-activerecord
+libgettext-activerecord-ruby1.9.1
+    virtual package provided by ruby-gettext-activerecord
+libgettext-rails-ruby (2.1.0-3)
+    Transitional package for ruby-gettext-rails
+libgettext-rails-ruby
+    virtual package provided by ruby-gettext-rails
+libgettext-rails-ruby1.8 (2.1.0-3)
+    Transitional package for ruby-gettext-rails
+libgettext-rails-ruby1.8
+    virtual package provided by ruby-gettext-rails
+libgettext-ruby (2.2.1-3)
+    Transitional package for ruby-gettext
+libgettext-ruby
+    virtual package provided by ruby-gettext
+libgettext-ruby1.8 (2.2.1-3)
+    Transitional package for ruby-gettext
+libgettext-ruby1.8
+    virtual package provided by ruby-gettext
+libgettext-ruby1.9.1 (2.2.1-3)
+    Transitional package for ruby-gettext
+libgettext-ruby1.9.1
+    virtual package provided by ruby-gettext
+libgit-ruby (1.2.5-2)
+    Transitional package for ruby-git
+libgit-ruby
+    virtual package provided by ruby-git
+libgit-ruby1.8 (1.2.5-2)
+    Transitional package for ruby-git
+libgit-ruby1.8
+    virtual package provided by ruby-git
+libgl1-nvidia-alternatives (304.125-1) [non-free]
+    transition libGL.so* diversions to glx-alternative-nvidia
+libgl1-nvidia-glx-ia32 (304.125-1) [non-free]
+    please switch to multiarch libgl1-nvidia-glx:i386
+libgl1-nvidia-legacy-71xx-glx (71.86.15-3) [non-free]
+    OBSOLETE NVIDIA binary OpenGL libraries (71xx legacy version)
+libgl1-nvidia-legacy-71xx-glx-ia32 (71.86.15-3) [non-free]
+    OBSOLETE NVIDIA binary OpenGL 32-bit libraries (71xx legacy version)
+libgl1-nvidia-legacy-96xx-glx-ia32 (96.43.23-3) [non-free]
+    please switch to multiarch libgl1-nvidia-legacy-96xx-glx:i386
+libglib2-ruby (1.1.3-2)
+    Transitional package for ruby-glib2
+libglib2-ruby
+    virtual package provided by ruby-glib2
+libglib2-ruby1.8 (1.1.3-2)
+    Transitional package for ruby-glib2
+libglib2-ruby1.8
+    virtual package provided by ruby-glib2
+libglobalhotkeys-ruby (0.3.2-3)
+    Transitional package for ruby-globalhotkeys
+libglobalhotkeys-ruby
+    virtual package provided by ruby-globalhotkeys
+libglobalhotkeys-ruby1.8 (0.3.2-3)
+    Transitional package for ruby-globalhotkeys
+libglobalhotkeys-ruby1.8
+    virtual package provided by ruby-globalhotkeys
+libglx-nvidia-alternatives (304.125-1) [non-free]
+    transition libgl.so diversions to glx-alternative-nvidia
+libgnomecups1.0-1 (0.2.3-5)
+    GNOME library for CUPS interaction
+libgnomeprint2.2-0 (2.18.8-3)
+    GNOME print architecture - runtime files
+libgnomeprint2.2-data (2.18.8-3)
+    GNOME print architecture - data files
+libgnomeprintui2.2-0 (2.18.6-3)
+    GNOME print architecture User Interface - runtime files
+libgnomeprintui2.2-common (2.18.6-3)
+    GNOME print architecture User Interface - common files
+libgnomevfs2-0 (1:2.24.4-2)
+    GNOME Virtual File System (runtime libraries)
+libgnomevfs2-bin (1:2.24.4-2)
+    GNOME Virtual File System (support binaries)
+libgnomevfs2-common (1:2.24.4-2)
+    GNOME Virtual File System (common files)
+libgnomevfs2-extra (1:2.24.4-2)
+    GNOME Virtual File System (extra modules)
+libgnuplot-ruby (2.4.1-2)
+    Transitional package for ruby-gnuplot
+libgnuplot-ruby
+    virtual package provided by ruby-gnuplot
+libgnuplot-ruby1.8 (2.4.1-2)
+    Transitional package for ruby-gnuplot
+libgnuplot-ruby1.8
+    virtual package provided by ruby-gnuplot
+libgoocanvas-ruby (1.1.3-2)
+    Transitional package for ruby-goocanvas
+libgoocanvas-ruby
+    virtual package provided by ruby-goocanvas
+libgoocanvas-ruby1.8 (1.1.3-2)
+    Transitional package for ruby-goocanvas
+libgoocanvas-ruby1.8
+    virtual package provided by ruby-goocanvas
+libgooglecharts-ruby (1.6.8-2) [contrib]
+    Transitional package for ruby-googlecharts
+libgooglecharts-ruby
+    virtual package provided by ruby-googlecharts
+libgooglecharts-ruby1.8 (1.6.8-2) [contrib]
+    Transitional package for ruby-googlecharts
+libgooglecharts-ruby1.8
+    virtual package provided by ruby-googlecharts
+libgpgme-ruby (2.0.0-2)
+    Transitional package for ruby-gpgme
+libgpgme-ruby
+    virtual package provided by ruby-gpgme
+libgpgme-ruby1.8 (2.0.0-2)
+    Transitional package for ruby-gpgme
+libgpgme-ruby1.8
+    virtual package provided by ruby-gpgme
+libgpgme-ruby1.9.1 (2.0.0-2)
+    Transitional package for ruby-gpgme
+libgpgme-ruby1.9.1
+    virtual package provided by ruby-gpgme
+libgruff-ruby (0.3.6-6)
+    Transitional package for ruby-gruff
+libgruff-ruby
+    virtual package provided by ruby-gruff
+libgruff-ruby1.8 (0.3.6-6)
+    Transitional package for ruby-gruff
+libgruff-ruby1.8
+    virtual package provided by ruby-gruff
+libgsl-ruby (1.14.7+dfsg-1)
+    Transitional package for ruby-gsl
+libgsl-ruby
+    virtual package provided by ruby-gsl
+libgsl-ruby1.8 (1.14.7+dfsg-1)
+    Transitional package for ruby-gsl
+libgsl-ruby1.8
+    virtual package provided by ruby-gsl
+libgsl-ruby1.9.1 (1.14.7+dfsg-1)
+    Transitional package for ruby-gsl
+libgsl-ruby1.9.1
+    virtual package provided by ruby-gsl
+libgst-ruby (1.1.3-2)
+    Transitional package for ruby-gstreamer
+libgst-ruby1.8 (1.1.3-2)
+    Transitional package for ruby-gstreamer
+libgtk2-ruby (1.1.3-2)
+    Transitional package for ruby-gtk2
+libgtk2-ruby
+    virtual package provided by ruby-gtk2
+libgtk2-ruby1.8 (1.1.3-2)
+    Transitional package for ruby-gtk2
+libgtk2-ruby1.8
+    virtual package provided by ruby-gtk2
+libgtksourceview2-ruby (1.1.3-2)
+    Transitional package for ruby-gtksourceview2
+libgtksourceview2-ruby
+    virtual package provided by ruby-gtksourceview2
+libgtksourceview2-ruby1.8 (1.1.3-2)
+    Transitional package for ruby-gtksourceview2
+libgtksourceview2-ruby1.8
+    virtual package provided by ruby-gtksourceview2
+libhaml-ruby (3.1.6-1)
+    Transitional package for ruby-haml
+libhaml-ruby
+    virtual package provided by ruby-haml
+libhaml-ruby1.8 (3.1.6-1)
+    Transitional package for ruby-haml
+libhaml-ruby1.8
+    virtual package provided by ruby-haml
+libheckle-ruby (1.4.3-4)
+    Transitional package for ruby-heckle
+libheckle-ruby
+    virtual package provided by ruby-heckle
+libheckle-ruby1.8 (1.4.3-4)
+    Transitional package for ruby-heckle
+libheckle-ruby1.8
+    virtual package provided by ruby-heckle
+libhighline-ruby (1.6.13-2)
+    Transitional package for ruby-highline
+libhighline-ruby
+    virtual package provided by ruby-highline
+libhighline-ruby-doc (1.6.13-2)
+    Transitional package for ruby-highline
+libhighline-ruby-doc
+    virtual package provided by ruby-highline
+libhighline-ruby1.8 (1.6.13-2)
+    Transitional package for ruby-highline
+libhighline-ruby1.8
+    virtual package provided by ruby-highline
+libhighline-ruby1.9.1 (1.6.13-2)
+    Transitional package for ruby-highline
+libhighline-ruby1.9.1
+    virtual package provided by ruby-highline
+libhmac-ruby (0.4.0-3)
+    Transitional package for ruby-hmac
+libhmac-ruby
+    virtual package provided by ruby-hmac
+libhmac-ruby1.8 (0.4.0-3)
+    Transitional package for ruby-hmac
+libhmac-ruby1.8
+    virtual package provided by ruby-hmac
+libhpricot-ruby (0.8.6-3)
+    Transitional package for ruby-hpricot
+libhpricot-ruby
+    virtual package provided by ruby-hpricot
+libhpricot-ruby1.8 (0.8.6-3)
+    Transitional package for ruby-hpricot
+libhpricot-ruby1.8
+    virtual package provided by ruby-hpricot
+libhpricot-ruby1.9 (0.8.6-3)
+    Transitional package for ruby-hpricot
+libhpricot-ruby1.9
+    virtual package provided by ruby-hpricot
+libhpricot-ruby1.9.1 (0.8.6-3)
+    Transitional package for ruby-hpricot
+libhpricot-ruby1.9.1
+    virtual package provided by ruby-hpricot
+libhtmlentities-ruby (4.3.1-1)
+    Transitional package for ruby-htmlentities
+libhtmlentities-ruby
+    virtual package provided by ruby-htmlentities
+libhtmlentities-ruby1.8 (4.3.1-1)
+    Transitional package for ruby-htmlentities
+libhtmlentities-ruby1.8
+    virtual package provided by ruby-htmlentities
+libhtmlentities-ruby1.9.1 (4.3.1-1)
+    Transitional package for ruby-htmlentities
+libhtmlentities-ruby1.9.1
+    virtual package provided by ruby-htmlentities
+libhttp-access2-ruby (2.2.4-2)
+    Transitional package for ruby-httpclient
+libhttp-access2-ruby
+    virtual package provided by ruby-httpclient
+libhttp-access2-ruby1.8 (2.2.4-2)
+    Transitional package for ruby-httpclient
+libhttp-access2-ruby1.8
+    virtual package provided by ruby-httpclient
+libhttpclient-ruby (2.2.4-2)
+    Transitional package for ruby-httpclient
+libhttpclient-ruby
+    virtual package provided by ruby-httpclient
+libhttpclient-ruby1.8 (2.2.4-2)
+    Transitional package for ruby-httpclient
+libhttpclient-ruby1.8
+    virtual package provided by ruby-httpclient
+libhttpclient-ruby1.9.1 (2.2.4-2)
+    Transitional package for ruby-httpclient
+libhttpclient-ruby1.9.1
+    virtual package provided by ruby-httpclient
+libi18n-ruby (0.6.0-3+deb7u1)
+    Transitional package for ruby-i18n
+libi18n-ruby
+    virtual package provided by ruby-i18n
+libi18n-ruby1.8 (0.6.0-3+deb7u1)
+    Transitional package for ruby-i18n
+libi18n-ruby1.8
+    virtual package provided by ruby-i18n
+libi18n-ruby1.9.1 (0.6.0-3+deb7u1)
+    Transitional package for ruby-i18n
+libi18n-ruby1.9.1
+    virtual package provided by ruby-i18n
+libihelp-ruby (0.4.5-3)
+    Transitional package for ruby-ihelp
+libihelp-ruby
+    virtual package provided by ruby-ihelp
+libihelp-ruby1.8 (0.4.5-3)
+    Transitional package for ruby-ihelp
+libihelp-ruby1.8
+    virtual package provided by ruby-ihelp
+libimage-science-ruby (1.2.2-1.1)
+    Transitional package for ruby-image-science
+libimage-science-ruby
+    virtual package provided by ruby-image-science
+libimage-science-ruby1.8 (1.2.2-1.1)
+    Transitional package for ruby-image-science
+libimage-science-ruby1.8
+    virtual package provided by ruby-image-science
+libimage-size-ruby1.8 (1:0.1.1-5)
+    Transitional package for ruby-imagesize
+libimage-size-ruby1.8
+    virtual package provided by ruby-imagesize
+libimage-size-ruby1.9.1 (1:0.1.1-5)
+    Transitional package for ruby-imagesize
+libimage-size-ruby1.9.1
+    virtual package provided by ruby-imagesize
+libinline-ruby (3.11.2-2)
+    Transitional package for ruby-inline
+libinline-ruby
+    virtual package provided by ruby-inline
+libinline-ruby1.8 (3.11.2-2)
+    Transitional package for ruby-inline
+libinline-ruby1.8
+    virtual package provided by ruby-inline
+libinnate-ruby (2012.03-2)
+    Transitional package for ruby-innate
+libinnate-ruby
+    virtual package provided by ruby-innate
+libinnate-ruby1.8 (2012.03-2)
+    Transitional package for ruby-innate
+libinnate-ruby1.8
+    virtual package provided by ruby-innate
+libinnate-ruby1.9.1 (2012.03-2)
+    Transitional package for ruby-innate
+libinnate-ruby1.9.1
+    virtual package provided by ruby-innate
+libinotify-ruby (0.0.2-6)
+    Transitional package for ruby-inotify
+libinotify-ruby
+    virtual package provided by ruby-inotify
+libinotify-ruby1.8 (0.0.2-6)
+    Transitional package for ruby-inotify
+libinotify-ruby1.8
+    virtual package provided by ruby-inotify
+libinotify-ruby1.9.1 (0.0.2-6)
+    Transitional package for ruby-inotify
+libinotify-ruby1.9.1
+    virtual package provided by ruby-inotify
+libjpeg62 (6b1-3+deb7u1)
+    Independent JPEG Group's JPEG runtime library (version 6.2)
+libjpeg62-dbg (6b1-3+deb7u1)
+    Development files for the IJG JPEG library (version 6.2)
+libjpeg62-dev (6b1-3+deb7u1)
+    Development files for the IJG JPEG library (version 6.2)
+libjson-ruby (1.7.3-3)
+    Transitional package for ruby-json
+libjson-ruby
+    virtual package provided by ruby-json
+libjson-ruby1.8 (1.7.3-3)
+    Transitional package for ruby-json
+libjson-ruby1.8
+    virtual package provided by ruby-json
+libkakasi-ruby1.8 (2002.09.28-3)
+    KAKASI interface for Ruby (transitional package)
+libkakasi-ruby1.8
+    virtual package provided by ruby-kakasi
+libkde4-ruby (4:4.8.4-1)
+    transitional package for ruby-kde4
+libkde4-ruby
+    virtual package provided by ruby-kde4
+libkde4-ruby1.8 (4:4.8.4-1)
+    transitional package for ruby-kde4
+libkde4-ruby1.8
+    virtual package provided by ruby-kde4
+libkrb5-ruby (0.7-4)
+    Transitional package for ruby-krb5-auth
+libkrb5-ruby
+    virtual package provided by ruby-krb5-auth
+libkrb5-ruby1.8 (0.7-4)
+    Transitional package for ruby-krb5-auth
+libkrb5-ruby1.8
+    virtual package provided by ruby-krb5-auth
+libkrb5-ruby1.9.1 (0.7-4)
+    Transitional package for ruby-krb5-auth
+libkrb5-ruby1.9.1
+    virtual package provided by ruby-krb5-auth
+libkvutils2.2-dev (2.9.0-1)
+    transitional dummy package for libkvutils-dev
+liblapack3gf (3.4.1+dfsg-1+deb70u1)
+    Transitional package for liblapack3
+liblapack3gf
+    virtual package provided by liblapack3
+libldap-ruby1.8 (0.9.12-2)
+    Transitional package for ruby-ldap
+libldap-ruby1.8
+    virtual package provided by ruby-ldap
+liblocale-rails-ruby (2.0.5-6)
+    Transitional package for ruby-locale-rails
+liblocale-rails-ruby
+    virtual package provided by ruby-locale-rails
+liblocale-rails-ruby1.8 (2.0.5-6)
+    Transitional package for ruby-locale-rails
+liblocale-rails-ruby1.8
+    virtual package provided by ruby-locale-rails
+liblocale-ruby (2.0.5-6)
+    Transitional package for ruby-locale
+liblocale-ruby
+    virtual package provided by ruby-locale
+liblocale-ruby1.8 (2.0.5-6)
+    Transitional package for ruby-locale
+liblocale-ruby1.8
+    virtual package provided by ruby-locale
+liblocale-ruby1.9.1 (2.0.5-6)
+    Transitional package for ruby-locale
+liblocale-ruby1.9.1
+    virtual package provided by ruby-locale
+liblockfile-ruby (2.1.0-2)
+    Transitional package for ruby-lockfile
+liblockfile-ruby
+    virtual package provided by ruby-lockfile
+liblog4r-ruby (1.1.10-2)
+    Transitional package for ruby-log4r
+liblog4r-ruby
+    virtual package provided by ruby-log4r
+liblog4r-ruby1.8 (1.1.10-2)
+    Transitional package for ruby-log4r
+liblog4r-ruby1.8
+    virtual package provided by ruby-log4r
+liblua5.1-orbit1 (2.2.0+dfsg1-1)
+    Transitional package for lua-orbit
+liblua5.1-orbit1
+    virtual package provided by lua-orbit
+libmaruku-ruby (0.6.0-2)
+    Markdown-superset interpreter for Ruby (dummy package)
+libmaruku-ruby1.8 (0.6.0-2)
+    Markdown-superset interpreter for Ruby (dummy package)
+libmathml-ruby (0.12.2-2)
+    Transitional package for ruby-mathml
+libmathml-ruby
+    virtual package provided by ruby-mathml
+libmathml-ruby1.8 (0.12.2-2)
+    Transitional package for ruby-mathml
+libmathml-ruby1.8
+    virtual package provided by ruby-mathml
+libmathml-ruby1.9.1 (0.12.2-2)
+    Transitional package for ruby-mathml
+libmathml-ruby1.9.1
+    virtual package provided by ruby-mathml
+libmecab-ruby (0.99.3-2)
+    Transitional package for ruby-mecab
+libmecab-ruby
+    virtual package provided by ruby-mecab
+libmecab-ruby1.8 (0.99.3-2)
+    Transitional package for ruby-mecab
+libmecab-ruby1.8
+    virtual package provided by ruby-mecab
+libmecab-ruby1.9.1 (0.99.3-2)
+    Transitional package for ruby-mecab
+libmecab-ruby1.9.1
+    virtual package provided by ruby-mecab
+libmemcache-client-ruby (1.8.5-2)
+    Transitional package for ruby-memcache-client
+libmemcache-client-ruby
+    virtual package provided by ruby-memcache-client
+libmemcache-client-ruby1.8 (1.8.5-2)
+    Transitional package for ruby-memcache-client
+libmemcache-client-ruby1.8
+    virtual package provided by ruby-memcache-client
+libmemcache-client-ruby1.9.1 (1.8.5-2)
+    Transitional package for ruby-memcache-client
+libmemcache-client-ruby1.9.1
+    virtual package provided by ruby-memcache-client
+libmerb-assets-ruby (1.1.3-1)
+    Transitional package for ruby-merb-assets
+libmerb-assets-ruby
+    virtual package provided by ruby-merb-assets
+libmerb-assets-ruby1.8 (1.1.3-1)
+    Transitional package for ruby-merb-assets
+libmerb-assets-ruby1.8
+    virtual package provided by ruby-merb-assets
+libmerb-core-ruby (1.1.3+dfsg-2)
+    Transitional package for ruby-merb-core
+libmerb-core-ruby
+    virtual package provided by ruby-merb-core
+libmerb-core-ruby1.8 (1.1.3+dfsg-2)
+    Transitional package for ruby-merb-core
+libmerb-core-ruby1.8
+    virtual package provided by ruby-merb-core
+libmerb-haml-ruby (1.1.3-2)
+    Transitional package for ruby-merb-haml
+libmerb-haml-ruby
+    virtual package provided by ruby-merb-haml
+libmerb-haml-ruby1.8 (1.1.3-2)
+    Transitional package for ruby-merb-haml
+libmerb-haml-ruby1.8
+    virtual package provided by ruby-merb-haml
+libmerb-helpers-ruby (1.1.3-1)
+    Transitional package for ruby-merb-helpers
+libmerb-helpers-ruby
+    virtual package provided by ruby-merb-helpers
+libmerb-helpers-ruby1.8 (1.1.3-1)
+    Transitional package for ruby-merb-helpers
+libmerb-helpers-ruby1.8
+    virtual package provided by ruby-merb-helpers
+libmerb-param-protection-ruby (1.1.3-1)
+    Transitional package for ruby-merb-param-protection
+libmerb-param-protection-ruby
+    virtual package provided by ruby-merb-param-protection
+libmerb-param-protection-ruby1.8 (1.1.3-1)
+    Transitional package for ruby-merb-param-protection
+libmetaid-ruby (1.0-7)
+    Transitional package for ruby-metaid
+libmetaid-ruby
+    virtual package provided by ruby-metaid
+libmetaid-ruby1.8 (1.0-7)
+    Transitional package for ruby-metaid
+libmetaid-ruby1.8
+    virtual package provided by ruby-metaid
+libmime-types-ruby (1.19-1)
+    Transitional package for ruby-mime-types
+libmime-types-ruby
+    virtual package provided by ruby-mime-types
+libmixlib-authentication-ruby (1.1.4-2)
+    Transitional package for ruby-mixlib-authentication
+libmixlib-authentication-ruby
+    virtual package provided by ruby-mixlib-authentication
+libmixlib-authentication-ruby1.8 (1.1.4-2)
+    Transitional package for ruby-mixlib-authentication
+libmixlib-authentication-ruby1.8
+    virtual package provided by ruby-mixlib-authentication
+libmixlib-cli-ruby (1.2.2-2)
+    Transitional package for ruby-mixlib-cli
+libmixlib-cli-ruby
+    virtual package provided by ruby-mixlib-cli
+libmixlib-cli-ruby1.8 (1.2.2-2)
+    Transitional package for ruby-mixlib-cli
+libmixlib-cli-ruby1.8
+    virtual package provided by ruby-mixlib-cli
+libmixlib-cli-ruby1.9.1 (1.2.2-2)
+    Transitional package for ruby-mixlib-cli
+libmixlib-cli-ruby1.9.1
+    virtual package provided by ruby-mixlib-cli
+libmixlib-config-ruby (1.1.2-3)
+    Transitional package for ruby-mixlib-config
+libmixlib-config-ruby
+    virtual package provided by ruby-mixlib-config
+libmixlib-config-ruby1.8 (1.1.2-3)
+    Transitional package for ruby-mixlib-config
+libmixlib-config-ruby1.8
+    virtual package provided by ruby-mixlib-config
+libmixlib-log-ruby (1.4.1-1)
+    Transitional package for ruby-mixlib-log
+libmixlib-log-ruby
+    virtual package provided by ruby-mixlib-log
+libmixlib-log-ruby1.8 (1.4.1-1)
+    Transitional package for ruby-mixlib-log
+libmixlib-log-ruby1.8
+    virtual package provided by ruby-mixlib-log
+libmocha-ruby (0.11.3-3)
+    Transitional package for ruby-mocha
+libmocha-ruby
+    virtual package provided by ruby-mocha
+libmocha-ruby1.8 (0.11.3-3)
+    Transitional package for ruby-mocha
+libmocha-ruby1.8
+    virtual package provided by ruby-mocha
+libmoneta-ruby (0.6.0-4)
+    Transitional package for ruby-moneta
+libmoneta-ruby
+    virtual package provided by ruby-moneta
+libmoneta-ruby1.8 (0.6.0-4)
+    Transitional package for ruby-moneta
+libmoneta-ruby1.8
+    virtual package provided by ruby-moneta
+libmp3tag-ruby1.8 (1.0-11)
+    Ruby library for manipulating ID3V1.1 tags in MP3 (transitional package)
+libmp3tag-ruby1.8
+    virtual package provided by ruby-mp3tag
+libmp3tag-ruby1.9.1 (1.0-11)
+    Ruby library for manipulating ID3V1.1 tags in MP3 (transitional package)
+libmp3tag-ruby1.9.1
+    virtual package provided by ruby-mp3tag
+libmsgpack-ruby1.8 (0.4.6-4)
+    Ruby library for MessagePack (transitional package)
+libmsgpack-ruby1.8
+    virtual package provided by ruby-msgpack
+libmsgpack-ruby1.9.1 (0.4.6-4)
+    Ruby library for MessagePack (transitional package)
+libmsgpack-ruby1.9.1
+    virtual package provided by ruby-msgpack
+libmultibitnums-ruby (0.1.4-1)
+    Transitional package for ruby-multibitnums
+libmultibitnums-ruby
+    virtual package provided by ruby-multibitnums
+libmultibitnums-ruby1.8 (0.1.4-1)
+    Transitional package for ruby-multibitnums
+libmultibitnums-ruby1.8
+    virtual package provided by ruby-multibitnums
+libmultibitnums-ruby1.8-dbg (0.1.4-1)
+    Transitional package for ruby-multibitnums-dbg
+libmultibitnums-ruby1.9.1 (0.1.4-1)
+    Transitional package for ruby-multibitnums
+libmultibitnums-ruby1.9.1
+    virtual package provided by ruby-multibitnums
+libmultibitnums-ruby1.9.1-dbg (0.1.4-1)
+    Transitional package for ruby-multibitnums-dbg
+libmysql-ruby (2.8.2+gem2deb-3)
+    Transitional package for ruby-mysql
+libmysql-ruby
+    virtual package provided by ruby-mysql
+libmysql-ruby1.8 (2.8.2+gem2deb-3)
+    Transitional package for ruby-mysql
+libmysql-ruby1.8
+    virtual package provided by ruby-mysql
+libmysql-ruby1.9.1 (2.8.2+gem2deb-3)
+    Transitional package for ruby-mysql
+libmysql-ruby1.9.1
+    virtual package provided by ruby-mysql
+libnarray-ruby (0.6.0.1-1)
+    Transitional package for ruby-narray
+libnarray-ruby
+    virtual package provided by ruby-narray
+libnarray-ruby1.8 (0.6.0.1-1)
+    Transitional package for ruby-narray
+libnarray-ruby1.8
+    virtual package provided by ruby-narray
+libnarray-ruby1.9.1 (0.6.0.1-1)
+    Transitional package for ruby-narray
+libnarray-ruby1.9.1
+    virtual package provided by ruby-narray
+libncurses-ruby (1.3.1-2)
+    Transitional package for ruby-ncurses
+libncurses-ruby
+    virtual package provided by ruby-ncurses
+libncurses-ruby1.8 (1.3.1-2)
+    Transitional package for ruby-ncurses
+libncurses-ruby1.8
+    virtual package provided by ruby-ncurses
+libncurses-ruby1.9 (1.3.1-2)
+    Transitional package for ruby-ncurses
+libncurses-ruby1.9
+    virtual package provided by ruby-ncurses
+libncurses-ruby1.9.1 (1.3.1-2)
+    Transitional package for ruby-ncurses
+libncurses-ruby1.9.1
+    virtual package provided by ruby-ncurses
+libnet-netrc-ruby1.8 (0.2.2-2)
+    Transitional package for ruby-net-netrc
+libnet-netrc-ruby1.8
+    virtual package provided by ruby-net-netrc
+libnet-scp-ruby (1.0.4-2)
+    Transitional package for ruby-net-scp
+libnet-scp-ruby
+    virtual package provided by ruby-net-scp
+libnet-scp-ruby1.8 (1.0.4-2)
+    Transitional package for ruby-net-scp
+libnet-scp-ruby1.8
+    virtual package provided by ruby-net-scp
+libnet-scp-ruby1.9.1 (1.0.4-2)
+    Transitional package for ruby-net-scp
+libnet-scp-ruby1.9.1
+    virtual package provided by ruby-net-scp
+libnet-sftp-ruby1.8 (1:2.0.5-3)
+    Transitional package for ruby-net-sftp
+libnet-sftp-ruby1.8
+    virtual package provided by ruby-net-sftp
+libnet-sftp2-ruby (1:2.0.5-3)
+    Transitional package for ruby-net-sftp
+libnet-sftp2-ruby
+    virtual package provided by ruby-net-sftp
+libnet-sftp2-ruby1.8 (1:2.0.5-3)
+    Transitional package for ruby-net-sftp
+libnet-sftp2-ruby1.8
+    virtual package provided by ruby-net-sftp
+libnet-sftp2-ruby1.9.1 (1:2.0.5-3)
+    Transitional package for ruby-net-sftp
+libnet-sftp2-ruby1.9.1
+    virtual package provided by ruby-net-sftp
+libnet-ssh-gateway-ruby (1.1.0-2)
+    Transitional package for ruby-net-ssh-gateway
+libnet-ssh-gateway-ruby
+    virtual package provided by ruby-net-ssh-gateway
+libnet-ssh-gateway-ruby1.8 (1.1.0-2)
+    Transitional package for ruby-net-ssh-gateway
+libnet-ssh-gateway-ruby1.8
+    virtual package provided by ruby-net-ssh-gateway
+libnet-ssh-gateway-ruby1.9.1 (1.1.0-2)
+    Transitional package for ruby-net-ssh-gateway
+libnet-ssh-gateway-ruby1.9.1
+    virtual package provided by ruby-net-ssh-gateway
+libnet-ssh-multi-ruby (1.1-2)
+    Transitional package for ruby-net-ssh-multi
+libnet-ssh-multi-ruby
+    virtual package provided by ruby-net-ssh-multi
+libnet-ssh-multi-ruby1.8 (1.1-2)
+    Transitional package for ruby-net-ssh-multi
+libnet-ssh-multi-ruby1.8
+    virtual package provided by ruby-net-ssh-multi
+libnet-ssh-multi-ruby1.9.1 (1.1-2)
+    Transitional package for ruby-net-ssh-multi
+libnet-ssh-multi-ruby1.9.1
+    virtual package provided by ruby-net-ssh-multi
+libnet-ssh-ruby1.8 (1:2.5.2-2)
+    Transitional package for ruby-net-ssh
+libnet-ssh-ruby1.8
+    virtual package provided by ruby-net-ssh
+libnet-ssh2-ruby (1:2.5.2-2)
+    Transitional package for ruby-net-ssh
+libnet-ssh2-ruby
+    virtual package provided by ruby-net-ssh
+libnet-ssh2-ruby1.8 (1:2.5.2-2)
+    Transitional package for ruby-net-ssh
+libnet-ssh2-ruby1.8
+    virtual package provided by ruby-net-ssh
+libnet-ssh2-ruby1.9.1 (1:2.5.2-2)
+    Transitional package for ruby-net-ssh
+libnet-ssh2-ruby1.9.1
+    virtual package provided by ruby-net-ssh
+libnokogiri-ruby (1.5.5-1)
+    Transitional package for ruby-nokogiri
+libnokogiri-ruby
+    virtual package provided by ruby-nokogiri
+libnokogiri-ruby1.8 (1.5.5-1)
+    Transitional package for ruby-nokogiri
+libnokogiri-ruby1.8
+    virtual package provided by ruby-nokogiri
+libnokogiri-ruby1.9 (1.5.5-1)
+    Transitional package for ruby-nokogiri
+libnokogiri-ruby1.9
+    virtual package provided by ruby-nokogiri
+libnokogiri-ruby1.9.1 (1.5.5-1)
+    Transitional package for ruby-nokogiri
+libnokogiri-ruby1.9.1
+    virtual package provided by ruby-nokogiri
+libnora-ruby1.8 (1:0.0.20041021-5.1)
+    Transitional package for ruby-nora
+libnora-ruby1.8
+    virtual package provided by ruby-nora
+libnspr4-0d (2:4.9.2-1+deb7u2)
+    NetScape Portable Runtime Library - transitional package
+libnvidia-compiler-ia32 (304.125-1) [non-free]
+    please switch to multiarch libnvidia-compiler:i386
+liboauth-ruby1.8 (0.4.6-2)
+    Ruby library for OAuth core (transitional package)
+liboauth-ruby1.8
+    virtual package provided by ruby-oauth
+liboauth-ruby1.9.1 (0.4.6-2)
+    Ruby library for OAuth core (transitional package)
+liboauth-ruby1.9.1
+    virtual package provided by ruby-oauth
+libodbc-ruby (0.99994-4)
+    Transitional package for ruby-odbc
+libodbc-ruby
+    virtual package provided by ruby-odbc
+libodbc-ruby1.8 (0.99994-4)
+    Transitional package for ruby-odbc
+libodbc-ruby1.8
+    virtual package provided by ruby-odbc
+libodbc-ruby1.9.1 (0.99994-4)
+    Transitional package for ruby-odbc
+libodbc-ruby1.9.1
+    virtual package provided by ruby-odbc
+libogginfo-ruby (0.6.10-1)
+    Transitional package for ruby-ogginfo
+libogginfo-ruby
+    virtual package provided by ruby-ogginfo
+libogginfo-ruby1.8 (0.6.10-1)
+    Transitional package for ruby-ogginfo
+libogginfo-ruby1.8
+    virtual package provided by ruby-ogginfo
+libogginfo-ruby1.9.1 (0.6.10-1)
+    Transitional package for ruby-ogginfo
+libogginfo-ruby1.9.1
+    virtual package provided by ruby-ogginfo
+libohai-ruby (6.14.0-2)
+    Transitional package for ohai
+libohai-ruby
+    virtual package provided by ohai
+libohai-ruby1.8 (6.14.0-2)
+    Transitional package for ohai
+libohai-ruby1.8
+    virtual package provided by ohai
+libokular-ruby (4:4.8.4-1)
+    transitional package for ruby-okular
+libokular-ruby
+    virtual package provided by ruby-okular
+libokular-ruby1.8 (4:4.8.4-1)
+    transitional package for ruby-okular
+libokular-ruby1.8
+    virtual package provided by ruby-okular
+libole-ruby (1.2.11.3-1)
+    Transitional package for ruby-ole
+libole-ruby
+    virtual package provided by ruby-ole
+libole-ruby1.8 (1.2.11.3-1)
+    Transitional package for ruby-ole
+libole-ruby1.8
+    virtual package provided by ruby-ole
+libole-ruby1.9.1 (1.2.11.3-1)
+    Transitional package for ruby-ole
+libole-ruby1.9.1
+    virtual package provided by ruby-ole
+libopen4-ruby (1.3.0-1)
+    Transitional package for ruby-open4
+libopen4-ruby
+    virtual package provided by ruby-open4
+libopen4-ruby1.8 (1.3.0-1)
+    Transitional package for ruby-open4
+libopen4-ruby1.8
+    virtual package provided by ruby-open4
+libopen4-ruby1.9.1 (1.3.0-1)
+    Transitional package for ruby-open4
+libopen4-ruby1.9.1
+    virtual package provided by ruby-open4
+libopengl-ruby (0.60.1+dfsg2-1~wheezy1)
+    Transitional package for ruby-opengl
+libopengl-ruby
+    virtual package provided by ruby-opengl
+libopengl-ruby1.8 (0.60.1+dfsg2-1~wheezy1)
+    Transitional package for ruby-opengl
+libopengl-ruby1.8
+    virtual package provided by ruby-opengl
+libopengl-ruby1.9.1 (0.60.1+dfsg2-1~wheezy1)
+    Transitional package for ruby-opengl
+libopengl-ruby1.9.1
+    virtual package provided by ruby-opengl
+libopenid-ruby (2.1.8debian-6)
+    Transitional package for ruby-openid
+libopenid-ruby
+    virtual package provided by ruby-openid
+libopenid-ruby1.8 (2.1.8debian-6)
+    Transitional package for ruby-openid
+libopenid-ruby1.8
+    virtual package provided by ruby-openid
+libpacket-ruby (0.1.15-5)
+    Transitional package for ruby-packet
+libpacket-ruby
+    virtual package provided by ruby-packet
+libpacket-ruby1.8 (0.1.15-5)
+    Transitional package for ruby-packet
+libpacket-ruby1.8
+    virtual package provided by ruby-packet
+libpacket-ruby1.9.1 (0.1.15-5)
+    Transitional package for ruby-packet
+libpacket-ruby1.9.1
+    virtual package provided by ruby-packet
+libpango1-ruby (1.1.3-2)
+    Transitional package for ruby-pango
+libpango1-ruby
+    virtual package provided by ruby-pango
+libpango1-ruby1.8 (1.1.3-2)
+    Transitional package for ruby-pango
+libpango1-ruby1.8
+    virtual package provided by ruby-pango
+libparsetree-ruby (3.0.8-3)
+    Transitional package for ruby-parsetree
+libparsetree-ruby
+    virtual package provided by ruby-parsetree
+libparsetree-ruby1.8 (3.0.8-3)
+    Transitional package for ruby-parsetree
+libparsetree-ruby1.8
+    virtual package provided by ruby-parsetree
+libpassword-ruby (0.5.3-3)
+    Transitional package for ruby-password
+libpassword-ruby
+    virtual package provided by ruby-password
+libpassword-ruby1.8 (0.5.3-3)
+    Transitional package for ruby-password
+libpassword-ruby1.8
+    virtual package provided by ruby-password
+libpcap-ruby (0.7.0-2)
+    Transitional package for ruby-pcap
+libpcap-ruby
+    virtual package provided by ruby-pcap
+libpcap-ruby1.8 (0.7.0-2)
+    Transitional package for ruby-pcap
+libpcap-ruby1.8
+    virtual package provided by ruby-pcap
+libpg-java (9.1-901-2)
+    Transitional package for libpostgresql-jdbc-java
+libpg-java
+    virtual package provided by libpostgresql-jdbc-java
+libpgsql-ruby (0.13.2-2)
+    Transitional package for ruby-pg
+libpgsql-ruby
+    virtual package provided by ruby-pg
+libpgsql-ruby-doc (0.13.2-2)
+    Transitional package for ruby-pg
+libpgsql-ruby-doc
+    virtual package provided by ruby-pg
+libpgsql-ruby1.8 (0.13.2-2)
+    Transitional package for ruby-pg
+libpgsql-ruby1.8
+    virtual package provided by ruby-pg
+libpgsql-ruby1.9.1 (0.13.2-2)
+    Transitional package for ruby-pg
+libpgsql-ruby1.9.1
+    virtual package provided by ruby-pg
+libplasma-ruby (4:4.8.4-1)
+    transitional package for ruby-plasma
+libplasma-ruby
+    virtual package provided by ruby-plasma
+libplasma-ruby1.8 (4:4.8.4-1)
+    transitional package for ruby-plasma
+libplasma-ruby1.8
+    virtual package provided by ruby-plasma
+libpng3 (1.2.49-1)
+    PNG library - runtime
+libpoppler-glib-ruby (1.1.3-2)
+    Transitional package for ruby-poppler
+libpoppler-glib-ruby1.8 (1.1.3-2)
+    Transitional package for ruby-poppler
+libprawn-ruby (1.0.0~rc1+dfsg1-3)
+    Transitional package for ruby-prawn
+libprawn-ruby
+    virtual package provided by ruby-prawn
+libprawn-ruby1.8 (1.0.0~rc1+dfsg1-3)
+    Transitional package for ruby-prawn
+libprawn-ruby1.8
+    virtual package provided by ruby-prawn
+libprawn-ruby1.9.1 (1.0.0~rc1+dfsg1-3)
+    Transitional package for ruby-prawn
+libprawn-ruby1.9.1
+    virtual package provided by ruby-prawn
+libprogressbar-ruby (0.11.0-2)
+    Transitional package for ruby-progressbar
+libprogressbar-ruby
+    virtual package provided by ruby-progressbar
+libprogressbar-ruby1.8 (0.11.0-2)
+    Transitional package for ruby-progressbar
+libprogressbar-ruby1.8
+    virtual package provided by ruby-progressbar
+libqpid-ruby1.8 (0.16-6+deb7u1)
+    Transitional package for ruby-qpid
+libqpid-ruby1.8
+    virtual package provided by ruby-qpid
+libqt4-assistant (4:4.8.2+dfsg-11)
+    transitional package for Qt 4 assistant module
+libqt4-core (4:4.8.2+dfsg-11)
+    transitional package for Qt 4 core non-GUI runtime libraries
+libqt4-gui (4:4.8.2+dfsg-11)
+    transitional package for Qt 4 GUI runtime libraries
+libqt4-ruby (4:4.8.4-1)
+    transitional package for ruby-qt4
+libqt4-ruby
+    virtual package provided by ruby-qt4
+libqt4-ruby1.8 (4:4.8.4-1)
+    transitional package for ruby-qt4
+libqt4-ruby1.8
+    virtual package provided by ruby-qt4
+libqt4-webkit (4:4.8.2+dfsg-11)
+    transitional package for Qt 4 WebKit module
+libqt4-webkit-dbg (4:4.8.2+dfsg-11)
+    transitional package for Qt 4 WebKit debugging symbols
+librack-ruby (1.4.1-2.1)
+    Transitional package for ruby-rack
+librack-ruby
+    virtual package provided by ruby-rack
+librack-ruby1.8 (1.4.1-2.1)
+    Transitional package for ruby-rack
+librack-ruby1.8
+    virtual package provided by ruby-rack
+librack-ruby1.9.1 (1.4.1-2.1)
+    Transitional package for ruby-rack
+librack-ruby1.9.1
+    virtual package provided by ruby-rack
+librb-inotify-ruby (0.8.8-2)
+    Transitional package for ruby-rb-inotify
+librb-inotify-ruby
+    virtual package provided by ruby-rb-inotify
+librb-inotify-ruby1.8 (0.8.8-2)
+    Transitional package for ruby-rb-inotify
+librb-inotify-ruby1.8
+    virtual package provided by ruby-rb-inotify
+librb-inotify-ruby1.9.1 (0.8.8-2)
+    Transitional package for ruby-rb-inotify
+librb-inotify-ruby1.9.1
+    virtual package provided by ruby-rb-inotify
+librd-html-ext-ruby1.8 (0.6.34-4)
+    Transitional package for ruby-rd
+librd-html-ext-ruby1.8
+    virtual package provided by ruby-rd
+librd-ruby1.8 (0.6.34-4)
+    Transitional package for ruby-rd
+librd-ruby1.8
+    virtual package provided by ruby-rd
+libremctl-ruby (3.2-4)
+    Ruby extension for remctl (transitional package)
+libremctl-ruby1.8 (3.2-4)
+    Ruby 1.8 extension for remctl (transitional package)
+libremctl-ruby1.9.1 (3.2-4)
+    Ruby 1.9.1 extension for remctl (transitional package)
+librestclient-ruby (1.6.7-3)
+    Transitional package for ruby-rest-client
+librestclient-ruby
+    virtual package provided by ruby-rest-client
+librestclient-ruby1.8 (1.6.7-3)
+    Transitional package for ruby-rest-client
+librestclient-ruby1.8
+    virtual package provided by ruby-rest-client
+librevolution-ruby (0.5-8)
+    Transitional package for ruby-revolution
+librevolution-ruby
+    virtual package provided by ruby-revolution
+librevolution-ruby1.8 (0.5-8)
+    Transitional package for ruby-revolution
+librevolution-ruby1.8
+    virtual package provided by ruby-revolution
+librmagick-ruby (2.13.1-6)
+    Transitional package for ruby-imagemagick
+librmagick-ruby
+    virtual package provided by ruby-rmagick
+librmagick-ruby-doc (2.13.1-6)
+    Transitional package for ruby-imagemagick
+librmagick-ruby-doc
+    virtual package provided by ruby-rmagick
+librmagick-ruby1.8 (2.13.1-6)
+    Transitional package for ruby-imagemagick
+librmagick-ruby1.8
+    virtual package provided by ruby-rmagick
+librmail-ruby-doc (1.0.0-1)
+    Transitional package for ruby-rubymail-doc
+librmail-ruby-doc
+    virtual package provided by ruby-rubymail-doc
+librmail-ruby1.8 (1.0.0-1)
+    Transitional package for ruby-rubymail
+librmail-ruby1.8
+    virtual package provided by ruby-rubymail
+libromkan-ruby (0.4-9)
+    Transitional package for ruby-romkan
+libromkan-ruby
+    virtual package provided by ruby-romkan
+libromkan-ruby1.8 (0.4-9)
+    Transitional package for ruby-romkan
+libromkan-ruby1.8
+    virtual package provided by ruby-romkan
+librqrcode-ruby (0.4.2-1)
+    Transitional package for ruby-rqrcode
+librqrcode-ruby
+    virtual package provided by ruby-rqrcode
+librqrcode-ruby1.8 (0.4.2-1)
+    Transitional package for ruby-rqrcode
+librqrcode-ruby1.8
+    virtual package provided by ruby-rqrcode
+librqrcode-ruby1.9 (0.4.2-1)
+    Transitional package for ruby-rqrcode
+librqrcode-ruby1.9
+    virtual package provided by ruby-rqrcode
+librspec-ruby (2.10.0-2)
+    Transitional package for ruby-rspec
+librspec-ruby
+    virtual package provided by ruby-rspec
+librspec-ruby1.8 (2.10.0-2)
+    Transitional package for ruby-rspec
+librspec-ruby1.8
+    virtual package provided by ruby-rspec
+librspec-ruby1.9.1 (2.10.0-2)
+    Transitional package for ruby-rspec
+librspec-ruby1.9.1
+    virtual package provided by ruby-rspec
+librsvg2-ruby (1.1.3-2)
+    Transitional package for ruby-rsvg2
+librsvg2-ruby
+    virtual package provided by ruby-rsvg2
+librsvg2-ruby1.8 (1.1.3-2)
+    Transitional package for ruby-rsvg2
+librsvg2-ruby1.8
+    virtual package provided by ruby-rsvg2
+librt-ruby1.8 (1.0.3-2)
+    RTtool library for Ruby1.8
+libruby2ruby-ruby (1.3.1-1.1)
+    Transitional package for ruby-ruby2ruby
+libruby2ruby-ruby
+    virtual package provided by ruby-ruby2ruby
+libruby2ruby-ruby1.8 (1.3.1-1.1)
+    Transitional package for ruby-ruby2ruby
+libruby2ruby-ruby1.8
+    virtual package provided by ruby-ruby2ruby
+libsamizdat-ruby (0.7.0-1)
+    Transitional package for samizdat
+libsamizdat-ruby
+    virtual package provided by samizdat
+libsamizdat-ruby1.8 (0.7.0-1)
+    Transitional package for samizdat
+libsamizdat-ruby1.8
+    virtual package provided by samizdat
+libsdl-ruby (2.1.2-3)
+    Transitional package for ruby-sdl
+libsdl-ruby
+    virtual package provided by ruby-sdl
+libsdl-ruby1.8 (2.1.2-3)
+    Transitional package for ruby-sdl
+libsdl-ruby1.8
+    virtual package provided by ruby-sdl
+libsdl-ruby1.9.1 (2.1.2-3)
+    Transitional package for ruby-sdl
+libsdl-ruby1.9.1
+    virtual package provided by ruby-sdl
+libselinux-ruby1.8 (2.1.9-5)
+    Transitional package for ruby-selinux
+libsemanage-ruby1.8 (2.1.6-6)
+    Transitional package for ruby-semanage
+libsemanage-ruby1.8
+    virtual package provided by ruby-semanage
+libsequel-ruby (3.36.1-1)
+    Transitional package for ruby-sequel
+libsequel-ruby
+    virtual package provided by ruby-sequel
+libsequel-ruby1.8 (3.36.1-1)
+    Transitional package for ruby-sequel
+libsequel-ruby1.8
+    virtual package provided by ruby-sequel
+libsequel-ruby1.9.1 (3.36.1-1)
+    Transitional package for ruby-sequel
+libsequel-ruby1.9.1
+    virtual package provided by ruby-sequel
+libserialport-ruby (1.1.0-1)
+    Transitional package for ruby-serialport
+libserialport-ruby
+    virtual package provided by ruby-serialport
+libserialport-ruby1.8 (1.1.0-1)
+    Transitional package for ruby-serialport
+libserialport-ruby1.8
+    virtual package provided by ruby-serialport
+libservlet2.4-java (6.0.35-6+deb7u1)
+    Transitional package for libservlet2.5-java
+libsexp-processor-ruby (3.0.7-1)
+    Transitional package for ruby-sexp-processor
+libsexp-processor-ruby
+    virtual package provided by ruby-sexp-processor
+libsexp-processor-ruby1.8 (3.0.7-1)
+    Transitional package for ruby-sexp-processor
+libsexp-processor-ruby1.8
+    virtual package provided by ruby-sexp-processor
+libsexp-processor-ruby1.9.1 (3.0.7-1)
+    Transitional package for ruby-sexp-processor
+libsexp-processor-ruby1.9.1
+    virtual package provided by ruby-sexp-processor
+libshadow-ruby1.8 (2.1.4-2)
+    Transitional package for ruby-shadow
+libshadow-ruby1.8
+    virtual package provided by ruby-shadow
+libshoulda-ruby (3.0.0~beta2-1)
+    Transitional package for ruby-shoulda
+libshoulda-ruby
+    virtual package provided by ruby-shoulda
+libshoulda-ruby1.8 (3.0.0~beta2-1)
+    Transitional package for ruby-shoulda
+libshoulda-ruby1.8
+    virtual package provided by ruby-shoulda
+libsinatra-ruby (1.3.2-2)
+    Transitional package for ruby-sinatra
+libsinatra-ruby
+    virtual package provided by ruby-sinatra
+libsinatra-ruby1.8 (1.3.2-2)
+    Transitional package for ruby-sinatra
+libsinatra-ruby1.8
+    virtual package provided by ruby-sinatra
+libsinatra-ruby1.9.1 (1.3.2-2)
+    Transitional package for ruby-sinatra
+libsinatra-ruby1.9.1
+    virtual package provided by ruby-sinatra
+libsnmp-ruby (1.0.2-1)
+    simple network management protocol bindings for ruby
+libsnmp-ruby1.8 (1.0.2-1)
+    simple network management protocol bindings for ruby 1.8
+libsoprano-ruby (4:4.8.4-1)
+    transitional package for ruby-soprano
+libsoprano-ruby
+    virtual package provided by ruby-soprano
+libsoprano-ruby1.8 (4:4.8.4-1)
+    transitional package for ruby-soprano
+libsoprano-ruby1.8
+    virtual package provided by ruby-soprano
+libspreadsheet-ruby (0.7.3-1)
+    Transitional package for ruby-spreadsheet
+libspreadsheet-ruby
+    virtual package provided by ruby-spreadsheet
+libspreadsheet-ruby1.8 (0.7.3-1)
+    Transitional package for ruby-spreadsheet
+libspreadsheet-ruby1.8
+    virtual package provided by ruby-spreadsheet
+libspreadsheet-ruby1.9.1 (0.7.3-1)
+    Transitional package for ruby-spreadsheet
+libspreadsheet-ruby1.9.1
+    virtual package provided by ruby-spreadsheet
+libsqlite3-ruby (1.3.6-2)
+    Transitional package for ruby-sqlite3
+libsqlite3-ruby
+    virtual package provided by ruby-sqlite3
+libsqlite3-ruby1.8 (1.3.6-2)
+    Transitional package for ruby-sqlite3
+libsqlite3-ruby1.8
+    virtual package provided by ruby-sqlite3
+libsqlite3-ruby1.9.1 (1.3.6-2)
+    Transitional package for ruby-sqlite3
+libsqlite3-ruby1.9.1
+    virtual package provided by ruby-sqlite3
+libstlport4.6-dev (4.6.2-7)
+    STLport C++ class library
+libstlport4.6ldbl (4.6.2-7)
+    STLport C++ class library
+libstomp-ruby (1.2.2-2)
+    Transitional package for ruby-stomp
+libstomp-ruby
+    virtual package provided by ruby-stomp
+libstomp-ruby1.8 (1.2.2-2)
+    Transitional package for ruby-stomp
+libstomp-ruby1.8
+    virtual package provided by ruby-stomp
+libstomp-ruby1.9.1 (1.2.2-2)
+    Transitional package for ruby-stomp
+libstomp-ruby1.9.1
+    virtual package provided by ruby-stomp
+libsvg-graph-ruby (1.0.5-1)
+    Transitional package for ruby-svg-graph
+libsvg-graph-ruby
+    virtual package provided by ruby-svg-graph
+libsvg-graph-ruby-doc (1.0.5-1)
+    Transitional package for ruby-svg-graph
+libsvg-graph-ruby-doc
+    virtual package provided by ruby-svg-graph
+libsvg-graph-ruby1.8 (1.0.5-1)
+    Transitional package for ruby-svg-graph
+libsvg-graph-ruby1.8
+    virtual package provided by ruby-svg-graph
+libsvg-graph-ruby1.9.1 (1.0.5-1)
+    Transitional package for ruby-svg-graph
+libsvg-graph-ruby1.9.1
+    virtual package provided by ruby-svg-graph
+libsvn-ruby (1.6.17dfsg-4+deb7u8)
+    Ruby bindings for Subversion (dummy package)
+libsvn-ruby1.8 (1.6.17dfsg-4+deb7u8)
+    Ruby bindings for Subversion
+libsystemu-ruby (2.5.1-1)
+    Transitional package for ruby-systemu
+libsystemu-ruby
+    virtual package provided by ruby-systemu
+libsystemu-ruby1.8 (2.5.1-1)
+    Transitional package for ruby-systemu
+libsystemu-ruby1.8
+    virtual package provided by ruby-systemu
+libsystemu-ruby1.9.1 (2.5.1-1)
+    Transitional package for ruby-systemu
+libsystemu-ruby1.9.1
+    virtual package provided by ruby-systemu
+libterm-ansicolor-ruby (1.0.7-1)
+    Transitional package for ruby-term-ansicolor
+libterm-ansicolor-ruby
+    virtual package provided by ruby-term-ansicolor
+libterm-ansicolor-ruby1.8 (1.0.7-1)
+    Transitional package for ruby-term-ansicolor
+libterm-ansicolor-ruby1.8
+    virtual package provided by ruby-term-ansicolor
+libtermios-ruby (0.9.6-2)
+    Transitional package for ruby-termios
+libtermios-ruby
+    virtual package provided by ruby-termios
+libtermios-ruby1.8 (0.9.6-2)
+    Transitional package for ruby-termios
+libtermios-ruby1.8
+    virtual package provided by ruby-termios
+libtidy-ruby (1.1.2+gem2deb-1)
+    Transitional package for ruby-tidy
+libtidy-ruby
+    virtual package provided by ruby-tidy
+libtidy-ruby1.8 (1.1.2+gem2deb-1)
+    Transitional package for ruby-tidy
+libtidy-ruby1.8
+    virtual package provided by ruby-tidy
+libtiff4 (3.9.6-11)
+    Tag Image File Format (TIFF) library (old version)
+libtiffxx0c2 (3.9.6-11)
+    Tag Image File Format (TIFF) library (old version) -- C++ interface
+libtioga-ruby-doc (1.14-3)
+    Ruby library for scientific graphs [transition package]
+libtioga-ruby1.8 (1.14-3)
+    Ruby library for scientific graphs [transition package]
+libtioga-ruby1.9.1 (1.14-3)
+    Ruby library for scientific graphs [transition package]
+libtmail-ruby1.8 (1.2.7.1-3+deb7u1)
+    Transitional package for ruby-tmail
+libtmail-ruby1.8
+    virtual package provided by ruby-tmail
+libtokyocabinet-ruby1.8 (1.31-2)
+    Transitional package for ruby-tokyocabinet
+libtokyocabinet-ruby1.8
+    virtual package provided by ruby-tokyocabinet
+libtokyocabinet-ruby1.9.1 (1.31-2)
+    Transitional package for ruby-tokyocabinet
+libtokyocabinet-ruby1.9.1
+    virtual package provided by ruby-tokyocabinet
+libtorrent-ruby (0.3-4)
+    Transitional package for ruby-rubytorrent
+libtorrent-ruby
+    virtual package provided by ruby-rubytorrent
+libtorrent-ruby1.8 (0.3-4)
+    Transitional package for ruby-rubytorrent
+libtorrent-ruby1.8
+    virtual package provided by ruby-rubytorrent
+libtransaction-simple-ruby (1.4.0-2)
+    Transitional package for ruby-transaction-simple
+libtransaction-simple-ruby
+    virtual package provided by ruby-transaction-simple
+libtransaction-simple-ruby1.8 (1.4.0-2)
+    Transitional package for ruby-transaction-simple
+libtransaction-simple-ruby1.8
+    virtual package provided by ruby-transaction-simple
+libtrollop-ruby (1.16.2-3)
+    Transitional package for ruby-trollop
+libtrollop-ruby
+    virtual package provided by ruby-trollop
+libtwitter-ruby1.8 (0.7.0-3)
+    Ruby library for accessing Twitter (transitional package)
+libtwitter-ruby1.8
+    virtual package provided by ruby-twitter4r
+libtwitter-ruby1.9.1 (0.7.0-3)
+    Ruby library for accessing Twitter (transitional package)
+libtwitter-ruby1.9.1
+    virtual package provided by ruby-twitter4r
+libtzinfo-ruby (0.3.33-3)
+    Transitional package for ruby-tzinfo
+libtzinfo-ruby
+    virtual package provided by ruby-tzinfo
+libtzinfo-ruby1.8 (0.3.33-3)
+    Transitional package for ruby-tzinfo
+libtzinfo-ruby1.8
+    virtual package provided by ruby-tzinfo
+libtzinfo-ruby1.9.1 (0.3.33-3)
+    Transitional package for ruby-tzinfo
+libtzinfo-ruby1.9.1
+    virtual package provided by ruby-tzinfo
+libuconv-ruby1.8 (0.5.3-2)
+    Unicode/EUC-JP translation module for Ruby (transitional package)
+libuconv-ruby1.8
+    virtual package provided by ruby-uconv
+libuconv-ruby1.9.1 (0.5.3-2)
+    Unicode/EUC-JP translation module for Ruby (transitional package)
+libuconv-ruby1.9.1
+    virtual package provided by ruby-uconv
+libusb-ruby (0.2.1-2)
+    Transitional package for ruby-usb
+libusb-ruby
+    virtual package provided by ruby-usb
+libusb-ruby1.8 (0.2.1-2)
+    Transitional package for ruby-usb
+libusb-ruby1.8
+    virtual package provided by ruby-usb
+libusb-ruby1.9.1 (0.2.1-2)
+    Transitional package for ruby-usb
+libusb-ruby1.9.1
+    virtual package provided by ruby-usb
+libuuidtools-ruby (2.1.2-2)
+    Transitional package for ruby-uuidtools
+libuuidtools-ruby
+    virtual package provided by ruby-uuidtools
+libuuidtools-ruby1.8 (2.1.2-2)
+    Transitional package for ruby-uuidtools
+libuuidtools-ruby1.8
+    virtual package provided by ruby-uuidtools
+libuuidtools-ruby1.9.1 (2.1.2-2)
+    Transitional package for ruby-uuidtools
+libuuidtools-ruby1.9.1
+    virtual package provided by ruby-uuidtools
+libva-intel-vaapi-driver (1.0.17-1)
+    VAAPI driver for Intel G45 & HD Graphics family (transitional package)
+libva-intel-vaapi-driver
+    virtual package provided by i965-va-driver
+libvalidatable-ruby (1.6.7-9)
+    Transitional package for ruby-validatable
+libvalidatable-ruby
+    virtual package provided by ruby-validatable
+libvalidatable-ruby1.8 (1.6.7-9)
+    Transitional package for ruby-validatable
+libvalidatable-ruby1.8
+    virtual package provided by ruby-validatable
+libvalidatable-ruby1.9.1 (1.6.7-9)
+    Transitional package for ruby-validatable
+libvalidatable-ruby1.9.1
+    virtual package provided by ruby-validatable
+libvirt-ruby (0.4.0-1)
+    Transitional package for ruby-libvirt
+libvirt-ruby
+    virtual package provided by ruby-libvirt
+libvirt-ruby1.8 (0.4.0-1)
+    Transitional package for ruby-libvirt
+libvirt-ruby1.8
+    virtual package provided by ruby-libvirt
+libvte-ruby (1.1.3-2)
+    Transitional package for ruby-vte
+libvte-ruby1.8 (1.1.3-2)
+    Transitional package for ruby-vte
+libwebkit-dev (1.8.1-3.4)
+    Transitional package for the development files of WebKitGTK+
+libwill-paginate-ruby (3.0.3-1)
+    Transitional package for ruby-will-paginate
+libwill-paginate-ruby
+    virtual package provided by ruby-will-paginate
+libwill-paginate-ruby1.8 (3.0.3-1)
+    Transitional package for ruby-will-paginate
+libwill-paginate-ruby1.8
+    virtual package provided by ruby-will-paginate
+libwirble-ruby (0.1.3-4)
+    Transitional package for ruby-wirble
+libwirble-ruby
+    virtual package provided by ruby-wirble
+libwirble-ruby1.8 (0.1.3-4)
+    Transitional package for ruby-wirble
+libwirble-ruby1.8
+    virtual package provided by ruby-wirble
+libwirble-ruby1.9.1 (0.1.3-4)
+    Transitional package for ruby-wirble
+libwirble-ruby1.9.1
+    virtual package provided by ruby-wirble
+libwww-mechanize-ruby (2.3-2)
+    Transitional package for ruby-mechanize
+libwww-mechanize-ruby
+    virtual package provided by ruby-mechanize
+libwww-mechanize-ruby1.8 (2.3-2)
+    Transitional package for ruby-mechanize
+libwww-mechanize-ruby1.8
+    virtual package provided by ruby-mechanize
+libwww-mechanize-ruby1.9.1 (2.3-2)
+    Transitional package for ruby-mechanize
+libwww-mechanize-ruby1.9.1
+    virtual package provided by ruby-mechanize
+libwxsmithlib0-dev (10.05-2.1)
+    dummy transitional package for wxSmith development files
+libxml-parser-ruby (0.7.2-2)
+    Transitional package for ruby-xmlparser
+libxml-parser-ruby
+    virtual package provided by ruby-xmlparser
+libxml-parser-ruby1.8 (0.7.2-2)
+    Transitional package for ruby-xmlparser
+libxml-parser-ruby1.8
+    virtual package provided by ruby-xmlparser
+libxml-parser-ruby1.9.1 (0.7.2-2)
+    Transitional package for ruby-xmlparser
+libxml-parser-ruby1.9.1
+    virtual package provided by ruby-xmlparser
+libxml-ruby (2.3.2-1)
+    Transitional package for ruby-libxml
+libxml-ruby
+    virtual package provided by ruby-libxml
+libxml-ruby1.8 (2.3.2-1)
+    Transitional package for ruby-libxml
+libxml-ruby1.8
+    virtual package provided by ruby-libxml
+libxml-ruby1.9.1 (2.3.2-1)
+    Transitional package for ruby-libxml
+libxml-ruby1.9.1
+    virtual package provided by ruby-libxml
+libxmmsclient-ruby (0.8+dfsg-4+deb7u1)
+    Transitional package for ruby-xmmsclient
+libxmmsclient-ruby1.8 (0.8+dfsg-4+deb7u1)
+    Transitional package for ruby-xmmsclient
+libzoom-ruby (0.4.1-5)
+    Transitional package for ruby-zoom
+libzoom-ruby
+    virtual package provided by ruby-zoom
+libzoom-ruby1.8 (0.4.1-5)
+    Transitional package for ruby-zoom
+libzoom-ruby1.8
+    virtual package provided by ruby-zoom
+licq-plugin-kde (1.6.1-3)
+    dummy package for transition to licq-plugin-kde4
+licq-plugin-qt (1.6.1-3)
+    dummy package for transition to licq-plugin-qt4
+linux-doc-2.6 (1:3.2+46)
+    Linux kernel specific documentation (dummy package)
+linux-headers-2.6-486 (3.2+46)
+    Header files for Linux 486 configuration (dummy package)
+linux-headers-2.6-4kc-malta (3.2+46)
+    Header files for Linux 4kc-malta configuration (dummy package)
+linux-headers-2.6-5kc-malta (3.2+46)
+    Header files for Linux 5kc-malta configuration (dummy package)
+linux-headers-2.6-686-pae (3.2+46)
+    Header files for Linux 686-pae configuration (dummy package)
+linux-headers-2.6-amd64 (3.2+46)
+    Header files for Linux amd64 configuration (dummy package)
+linux-headers-2.6-iop32x (3.2+46)
+    Header files for Linux iop32x configuration (dummy package)
+linux-headers-2.6-itanium (3.2+46)
+    Header files for Linux itanium configuration (dummy package)
+linux-headers-2.6-ixp4xx (3.2+46)
+    Header files for Linux ixp4xx configuration (dummy package)
+linux-headers-2.6-kirkwood (3.2+46)
+    Header files for Linux kirkwood configuration (dummy package)
+linux-headers-2.6-loongson-2f (3.2+46)
+    Header files for Linux loongson-2f configuration (dummy package)
+linux-headers-2.6-mckinley (3.2+46)
+    Header files for Linux mckinley configuration (dummy package)
+linux-headers-2.6-mx5 (3.2+46)
+    Header files for Linux mx5 configuration (dummy package)
+linux-headers-2.6-octeon (3.2+46)
+    Header files for Linux octeon configuration (dummy package)
+linux-headers-2.6-omap (3.2+46)
+    Header files for Linux omap configuration (dummy package)
+linux-headers-2.6-orion5x (3.2+46)
+    Header files for Linux orion5x configuration (dummy package)
+linux-headers-2.6-powerpc (3.2+46)
+    Header files for Linux powerpc configuration (dummy package)
+linux-headers-2.6-powerpc-smp (3.2+46)
+    Header files for Linux powerpc-smp configuration (dummy package)
+linux-headers-2.6-powerpc64 (3.2+46)
+    Header files for Linux powerpc64 configuration (dummy package)
+linux-headers-2.6-r4k-ip22 (3.2+46)
+    Header files for Linux r4k-ip22 configuration (dummy package)
+linux-headers-2.6-r5k-cobalt (3.2+46)
+    Header files for Linux r5k-cobalt configuration (dummy package)
+linux-headers-2.6-r5k-ip32 (3.2+46)
+    Header files for Linux r5k-ip32 configuration (dummy package)
+linux-headers-2.6-s390x (3.2+46)
+    Header files for Linux s390x configuration (dummy package)
+linux-headers-2.6-sb1-bcm91250a (3.2+46)
+    Header files for Linux sb1-bcm91250a configuration (dummy package)
+linux-headers-2.6-sb1a-bcm91480b (3.2+46)
+    Header files for Linux sb1a-bcm91480b configuration (dummy package)
+linux-headers-2.6-sparc64 (3.2+46)
+    Header files for Linux sparc64 configuration (dummy package)
+linux-headers-2.6-sparc64-smp (3.2+46)
+    Header files for Linux sparc64-smp configuration (dummy package)
+linux-headers-2.6-versatile (3.2+46)
+    Header files for Linux versatile configuration (dummy package)
+linux-image-2.6-486 (3.2+46)
+    Linux for older PCs (dummy package)
+linux-image-2.6-4kc-malta (3.2+46)
+    Linux for MIPS Malta (dummy package)
+linux-image-2.6-5kc-malta (3.2+46)
+    Linux for MIPS Malta (64-bit) (dummy package)
+linux-image-2.6-686 (3.2+46)
+    Linux for modern PCs (dummy package)
+linux-image-2.6-686-bigmem (3.2+46)
+    Linux for PCs with 4GB+ RAM (dummy package)
+linux-image-2.6-686-pae (3.2+46)
+    Linux for modern PCs (dummy package)
+linux-image-2.6-amd64 (3.2+46)
+    Linux for 64-bit PCs (dummy package)
+linux-image-2.6-iop32x (3.2+46)
+    Linux for IOP32x (dummy package)
+linux-image-2.6-itanium (3.2+46)
+    Linux for Itanium (dummy package)
+linux-image-2.6-ixp4xx (3.2+46)
+    Linux for IXP4xx (dummy package)
+linux-image-2.6-kirkwood (3.2+46)
+    Linux for Marvell Kirkwood (dummy package)
+linux-image-2.6-loongson-2f (3.2+46)
+    Linux for Loongson 2F (dummy package)
+linux-image-2.6-mckinley (3.2+46)
+    Linux for Itanium II (dummy package)
+linux-image-2.6-mx5 (3.2+46)
+    Linux for Freescale MXC/iMX-based (dummy package)
+linux-image-2.6-octeon (3.2+46)
+    Linux for Octeon (dummy package)
+linux-image-2.6-omap (3.2+46)
+    Linux for TI OMAP3+ (dummy package)
+linux-image-2.6-orion5x (3.2+46)
+    Linux for Marvell Orion (dummy package)
+linux-image-2.6-powerpc (3.2+46)
+    Linux for uniprocessor 32-bit PowerPC (dummy package)
+linux-image-2.6-powerpc-smp (3.2+46)
+    Linux for multiprocessor 32-bit PowerPC (dummy package)
+linux-image-2.6-powerpc64 (3.2+46)
+    Linux for 64-bit PowerPC (dummy package)
+linux-image-2.6-r4k-ip22 (3.2+46)
+    Linux for SGI IP22 (dummy package)
+linux-image-2.6-r5k-cobalt (3.2+46)
+    Linux for Cobalt (dummy package)
+linux-image-2.6-r5k-ip32 (3.2+46)
+    Linux for SGI IP32 (dummy package)
+linux-image-2.6-s390x (3.2+46)
+    Linux for IBM zSeries (dummy package)
+linux-image-2.6-s390x-tape (3.2+46)
+    Linux for IBM zSeries (dummy package), IPL from tape
+linux-image-2.6-sb1-bcm91250a (3.2+46)
+    Linux for BCM91250A (dummy package)
+linux-image-2.6-sb1a-bcm91480b (3.2+46)
+    Linux for BCM91480B (dummy package)
+linux-image-2.6-sparc64 (3.2+46)
+    Linux for uniprocessor 64-bit UltraSPARC (dummy package)
+linux-image-2.6-sparc64-smp (3.2+46)
+    Linux for multiprocessor 64-bit UltraSPARC (dummy package)
+linux-image-2.6-versatile (3.2+46)
+    Linux for Versatile (dummy package)
+linux-image-686 (3.2+46)
+    Linux for modern PCs (dummy package)
+linux-image-686-bigmem (3.2+46)
+    Linux for PCs with 4GB+ RAM (dummy package)
+linux-source-2.6 (1:3.2+46)
+    Linux kernel source (dummy package)
+linux-tools-2.6 (3.2+46)
+    Performance analysis tools for Linux (dummy package)
+m2300w (0.51-7)
+    transitional dummy package for m2300w printer driver
+mediawiki-math (2:1.0+git20120528-6)
+    math rendering plugin for MediaWiki (transitional package)
+microcode.ctl (1.18~0+nmu2) [contrib]
+    Intel IA32/IA64 CPU Microcode Utility (transitional package)
+min12xxw (0.0.9-6)
+    transitional dummy package for min12xxw printer driver
+mktemp (8.13-3.5)
+    coreutils mktemp transitional package
+mozilla-plugin-gnash (0.8.11~git20120629-1+deb7u1)
+    dummy package for renaming to browser-plugin-gnash
+mozilla-plugin-gnash
+    virtual package provided by browser-plugin-gnash
+mozilla-plugin-vlc (2.0.0-2)
+    transitional dummy package
+mscore (1.2+dfsg-1)
+    Dummy transitional package for musescore
+mscore
+    virtual package provided by musescore
+mscore-common (1.2+dfsg-1)
+    Dummy transitional package for musescore-common
+mscore-common
+    virtual package provided by musescore-common
+myspell-sv-se (1.51-1)
+    transitional dummy package
+myspell-tools (1:3.1-24)
+    tools for myspell
+network-manager-kde (1:0.9.0.3-1)
+    transitional package for plasma-widget-networkmanagement
+noshell (4.0.11+notdfsg1-5) [non-free]
+    transitional dummy package
+noshell
+    virtual package provided by titantools
+nsd (3.2.12-3+deb7u1)
+    authoritative name domain server (transitional package)
+nvidia-alternative-legacy-71xx (71.86.15-3) [non-free]
+    OBSOLETE allows the selection of NVIDIA as GLX provider
+nvidia-glx-ia32 (304.125-1) [non-free]
+    NVIDIA 32-bit libraries (transitional package)
+nvidia-glx-legacy (71.86.15-3) [non-free]
+    NVIDIA binary Xorg driver (transitional, 71xx legacy)
+nvidia-glx-legacy-173xx-ia32 (173.14.35-4) [non-free]
+    NVIDIA 32-bit libraries (173xx legacy version) (transitional package)
+nvidia-glx-legacy-71xx (71.86.15-3) [non-free]
+    OBSOLETE NVIDIA metapackage (71xx legacy version)
+nvidia-glx-legacy-71xx-dev (71.86.15-3) [non-free]
+    NVIDIA OpenGL development files (transitional package) (71xx legacy version)
+nvidia-glx-legacy-71xx-ia32 (71.86.15-3) [non-free]
+    NVIDIA 32-bit libraries (71xx legacy version) (transitional package)
+nvidia-glx-legacy-71xx-unsupported (71.86.15-3) [non-free]
+    NVIDIA unsupported legacy 71xx driver cleanup
+nvidia-glx-legacy-96xx-ia32 (96.43.23-3) [non-free]
+    NVIDIA 32-bit libraries (96xx legacy version) (transitional package)
+nvidia-glx-legacy-dev (71.86.15-3) [non-free]
+    NVIDIA binary Xorg devel (transitional, 71xx legacy)
+nvidia-glx-legacy-ia32 (71.86.15-3) [non-free]
+    NVIDIA binary Xorg driver (32-bit, transitional, 71xx legacy)
+nvidia-kernel-2.6-486 (304.125+3.2.0+1) [non-free]
+    NVIDIA kernel module for Linux (486 transitional package)
+nvidia-kernel-2.6-686-pae (304.125+3.2.0+1) [non-free]
+    NVIDIA kernel module for Linux (686-pae transitional package)
+nvidia-kernel-2.6-amd64 (304.125+3.2.0+1) [non-free]
+    NVIDIA kernel module for Linux (amd64 transitional package)
+nvidia-kernel-legacy-source (71.86.15-3) [non-free]
+    NVIDIA binary kernel module source (transitional, 71xx legacy)
+nvidia-libopencl1-ia32 (304.125-1) [non-free]
+    please switch to multiarch nvidia-libopencl1:i386
+nvidia-opencl-icd-ia32 (304.125-1) [non-free]
+    please switch to multiarch nvidia-opencl-icd:i386
+nvidia-vdpau-driver-ia32 (304.125-1) [non-free]
+    please switch to multiarch nvidia-vdpau-driver:i386
+openoffice.org-hyphenation-hr (1:3.4.0~ooo340m1-7)
+    Croatian hyphenation pattern for OpenOffice.org
+openoffice.org-thesaurus-en-au (1:3.4.0~ooo340m1-7)
+    Australian English Thesaurus for OpenOffice.org
+openoffice.org-thesaurus-en-au
+    virtual package provided by mythes-en-au
+otf-freefont (20120503-1)
+    transitional dummy package
+otf-freefont
+    virtual package provided by fonts-freefont-otf
+otf-ipaexfont (00103-14.1)
+    transitional dummy package
+otf-ipaexfont-gothic (00103-14.1)
+    transitional dummy package
+otf-ipaexfont-mincho (00103-14.1)
+    transitional dummy package
+otf-ipafont (00303-10.1)
+    transitional dummy package
+otf-ipafont-gothic (00303-10.1)
+    transitional dummy package
+otf-ipafont-mincho (00303-10.1)
+    transitional dummy package
+otf-yozvox-yozfont (13.09-dfsg-2)
+    transitional dummy package
+otf-yozvox-yozfont-antique (13.09-dfsg-2)
+    transitional dummy package
+otf-yozvox-yozfont-antique
+    virtual package provided by fonts-yozvox-yozfont-antique
+otf-yozvox-yozfont-cute (13.09-dfsg-2)
+    transitional dummy package
+otf-yozvox-yozfont-cute
+    virtual package provided by fonts-yozvox-yozfont-cute
+otf-yozvox-yozfont-edu (13.09-dfsg-2)
+    transitional dummy package
+otf-yozvox-yozfont-edu
+    virtual package provided by fonts-yozvox-yozfont-edu
+otf-yozvox-yozfont-new-kana (13.09-dfsg-2)
+    transitional dummy package
+otf-yozvox-yozfont-new-kana
+    virtual package provided by fonts-yozvox-yozfont-new-kana
+otf-yozvox-yozfont-standard-kana (13.09-dfsg-2)
+    transitional dummy package
+otf-yozvox-yozfont-standard-kana
+    virtual package provided by fonts-yozvox-yozfont-standard-kana
+pamusb-tools (0.5.0-4)
+    dummy transitional package for pamusb-common
+pdfjam (2012.20120611-2)
+    TeX Live: transitional dummy package
+pdfjam
+    virtual package provided by texlive-extra-utils
+pdksh (40.9.20120630-7)
+    transitional dummy package to migrate from pdksh to mksh
+phonon-backend-xine (4:4.6.0.0-3)
+    transitional package to aid switching to phonon-backend-vlc
+plt-scheme (5.2.1+g6~92c8784+dfsg2-2+deb7u1)
+    Racket Programming Environment (transitional package)
+plt-scheme
+    virtual package provided by racket
+plt-scheme-doc (5.2.1+g6~92c8784+dfsg2-2+deb7u1)
+    PLT Scheme Documentation (transitional package)
+plt-scheme-doc
+    virtual package provided by racket-doc
+pnm2ppa (1.13-4)
+    transitional dummy package for pnm2ppa printer driver
+ptex-bin (2012.20120611-2)
+    TeX Live: transitional dummy package
+ptouch-driver (1.3-4)
+    transitional dummy package for ptouch printer driver
+pxljr (1.3+repack0-2)
+    transitional dummy package for pxljr printer driver
+pylucene (3.5.0-1.1)
+    Python extension for accessing Java Lucene (transitional dummy package)
+pysol (1:2.0-2)
+    transitional package from pysol to pysolfc
+pysol-cardsets (1:2.0+dfsg2-1)
+    transitional package from pysol-cardsets to pysolfc-cardsets
+python-clamav (0.4.1-7)
+    Python bindings to ClamAV - transitional package
+python-clamav
+    virtual package provided by python-pyclamav
+python-cxx (6.2.4-3)
+    transitional dummy package
+python-cxx
+    virtual package provided by python-cxx-dev
+python-ecasound2.2 (2.9.0-1)
+    transitional dummy package for python-ecasound
+python-gobject-2 (2.28.6-10)
+    deprecated static Python bindings for the GObject library
+python-gobject-2-dev (2.28.6-10)
+    development headers for the static GObject Python bindings
+python-milter-docs (0.9.5-3)
+    Documentation for the Python Milter extension (transitional package)
+python-pybabel (0.9.6-1)
+    tools for internationalizing Python applications (transitional dummy package)
+python3-cxx (6.2.4-3)
+    transitional dummy package
+python3-cxx
+    virtual package provided by python3-cxx-dev
+qalculate (0.9.7-3)
+    Powerful and easy to use desktop calculator - transitional
+qemulator (0.6.352-1)
+    transitional dummy package to virtualbriks
+qemulator
+    virtual package provided by virtualbricks
+qtpfsgui (2.2.1-3)
+    luminance-hdr transitional package
+rails-doc (2:2.3.14.2)
+    Transitional package for rails
+rails-ruby1.8 (2:2.3.14.2)
+    Transitional package for rails
+rails-ruby1.8
+    virtual package provided by ruby-rails-2.3
+rastertosag-gdi (0.1-3)
+    transitional dummy package for rastertosag-gdi printer driver
+rcs-latex (3.1.debian.1)
+    LaTeX macro package for handling RCS keywords (transitional package)
+rxvt-unicode-ml (9.15-2+deb7u1)
+    multi-lingual terminal emulator -- transitional package
+rygel-gst-renderer (0.14.3-2+deb7u1)
+    transitional dummy package
+sabnzbdplus-theme-iphone (0.6.15-1) [contrib]
+    transitional package for migration to sabnzbdplus-theme-mobile
+scrotwm (1.0.0-1)
+    dynamic tiling window manager (transitional package)
+sfftw2 (2.1.5-1+b1 [armel, armhf, mips, mipsel, s390, s390x, sparc], 2.1.5-1 [amd64, i386, ia64, kfreebsd-amd64, kfreebsd-i386, powerpc])
+    library for computing Fast Fourier Transforms
+sl-modem-source (2.9.11~20110321-8+deb7u1) [non-free]
+    SmartLink software modem driver (dummy transitional package)
+splix (2.0.0+svn306-2)
+    transitional dummy package for splix printer driver
+ssh-krb5 (1:6.0p1-4+deb7u2)
+    secure shell client and server (transitional package)
+sushi-plugins (1.4.0+dfsg-1)
+    transitional dummy package
+swfdec-gnome (1:0.8.11~git20120629-1+deb7u1)
+    dummy package for transition to Gnash
+swfdec-mozilla (0.8.11~git20120629-1+deb7u1)
+    dummy package for transition to browser-plugin-gnash
+telepathy-sofiasip (0.7.4-1)
+    Transitional package for telepathy-rakia
+telepathy-sofiasip
+    virtual package provided by telepathy-rakia
+tesseract-ocr-dev (3.02.01-6)
+    transitional dummy package
+texlive-latex3 (2012.20120611-2)
+    TeX Live: transitional dummy package
+texlive-latex3
+    virtual package provided by texlive-latex-recommended
+texpower (2012.20120611-2)
+    TeX Live: transitional dummy package
+ttf-aoyagi-kouzan-t (20051011-9)
+    transitional dummy package
+ttf-aoyagi-soseki (20070207-8)
+    transitional dummy package
+ttf-arabeyes (2.1-3)
+    transitional dummy package
+ttf-arabeyes
+    virtual package provided by fonts-arabeyes
+ttf-arphic-bkai00mp (2.10-11)
+    transitional dummy package
+ttf-arphic-bsmi00lp (2.10-12)
+    transitional dummy package
+ttf-arphic-gbsn00lp (2.11-12)
+    transitional dummy package
+ttf-arphic-gkai00mp (2.11-12)
+    transitional dummy package
+ttf-arphic-ukai (0.2.20080216.2-3)
+    transitional dummy package
+ttf-arphic-ukai
+    virtual package provided by fonts-arphic-ukai
+ttf-arphic-ukai-mbe (0.2.20080216.2-3)
+    transitional dummy package
+ttf-arphic-ukai-mbe
+    virtual package provided by fonts-arphic-ukai
+ttf-arphic-uming (0.2.20080216.2-4)
+    transitional dummy package
+ttf-arphic-uming
+    virtual package provided by fonts-arphic-uming
+ttf-baekmuk (2.2-7)
+    transitional dummy package
+ttf-bpg-georgian-fonts (0.5a-6)
+    transitional dummy package
+ttf-bpg-georgian-fonts
+    virtual package provided by fonts-bpg-georgian
+ttf-breip (1.0-7)
+    transitional dummy package
+ttf-breip
+    virtual package provided by fonts-breip
+ttf-comfortaa (1.5-2)
+    transitional dummy package
+ttf-comfortaa
+    virtual package provided by fonts-comfortaa
+ttf-dejima-mincho (227-9)
+    transitional dummy package
+ttf-droid (20111207+git-1)
+    transitional dummy package
+ttf-droid
+    virtual package provided by fonts-droid
+ttf-dustin (20030517-9)
+    transitional dummy package
+ttf-dustin
+    virtual package provided by fonts-dustin
+ttf-ecolier-lignes-court (1.00-5)
+    transitional dummy package
+ttf-ecolier-lignes-court
+    virtual package provided by fonts-ecolier-lignes-court
+ttf-evertype-conakry (0.002+source-2)
+    transitional dummy package
+ttf-evertype-conakry
+    virtual package provided by fonts-evertype-conakry
+ttf-fanwood (1.1-2)
+    transitional dummy package
+ttf-fanwood
+    virtual package provided by fonts-fanwood
+ttf-freefont (20120503-1)
+    transitional dummy package
+ttf-freefont
+    virtual package provided by fonts-freefont-ttf
+ttf-gfs-artemisia (1.1-4)
+    transitional dummy package
+ttf-gfs-artemisia
+    virtual package provided by fonts-freefarsi, fonts-gfs-artemisia
+ttf-gfs-baskerville (1.1-4)
+    transitional dummy package
+ttf-gfs-baskerville
+    virtual package provided by fonts-gfs-baskerville
+ttf-gfs-bodoni-classic (1.1-4)
+    transitional dummy package
+ttf-gfs-bodoni-classic
+    virtual package provided by fonts-gfs-bodoni-classic
+ttf-gfs-complutum (1.1-5)
+    transitional dummy package
+ttf-gfs-complutum
+    virtual package provided by fonts-gfs-complutum
+ttf-gfs-didot (1.1-5)
+    transitional dummy package
+ttf-gfs-didot
+    virtual package provided by fonts-gfs-didot
+ttf-gfs-didot-classic (1.1-4)
+    transitional dummy package
+ttf-gfs-didot-classic
+    virtual package provided by fonts-gfs-didot-classic
+ttf-gfs-neohellenic (1.1-4)
+    transitional dummy package
+ttf-gfs-neohellenic
+    virtual package provided by fonts-gfs-neohellenic
+ttf-gfs-olga (1.1-3)
+    transitional dummy package
+ttf-gfs-porson (1.1-5)
+    transitional dummy package
+ttf-gfs-porson
+    virtual package provided by fonts-gfs-porson
+ttf-gfs-solomos (1.1-4)
+    transitional dummy package
+ttf-gfs-solomos
+    virtual package provided by fonts-gfs-solomos
+ttf-gfs-theokritos (1.1-4)
+    transitional dummy package
+ttf-gfs-theokritos
+    virtual package provided by fonts-gfs-theokritos
+ttf-hanazono (20120421-1.1)
+    Transitional dummy package
+ttf-inconsolata (001.010-4)
+    transitional dummy package
+ttf-inconsolata
+    virtual package provided by fonts-inconsolata
+ttf-ipafont-jisx0208 (00103-19) [non-free]
+    transitional dummy package
+ttf-ipafont-uigothic (00203-21)
+    transitional dummy package
+ttf-junicode (0.7.6-1)
+    transitional dummy package
+ttf-junicode
+    virtual package provided by fonts-junicode
+ttf-jura (2.6.1-1)
+    transitional dummy package
+ttf-jura
+    virtual package provided by fonts-jura
+ttf-kacst (2.01+mry-6)
+    transitional dummy package
+ttf-kacst
+    virtual package provided by fonts-kacst
+ttf-kacst-one (5.0+svn11846-6)
+    transitional dummy package
+ttf-kanjistrokeorders (3.000-dfsg-2)
+    transitional dummy package
+ttf-khmeros (5.0-5)
+    transitional dummy package
+ttf-khmeros
+    virtual package provided by fonts-khmeros
+ttf-kiloji (1:2.1.0-18)
+    transitional dummy package
+ttf-komatuna (20101113-6)
+    transitional dummy package
+ttf-konatu (26-9)
+    transitional dummy package
+ttf-kouzan-mouhitsu (20090806-8)
+    transitional dummy package
+ttf-larabie-deco (1:20011216-4) [non-free]
+    transitional dummy package
+ttf-larabie-deco
+    virtual package provided by fonts-larabie-deco
+ttf-larabie-straight (1:20011216-4) [non-free]
+    transitional dummy package
+ttf-larabie-straight
+    virtual package provided by fonts-larabie-straight
+ttf-larabie-uncommon (1:20011216-4) [non-free]
+    transitional dummy package
+ttf-larabie-uncommon
+    virtual package provided by fonts-larabie-uncommon
+ttf-levien-typoscript (000.001-3)
+    transitional dummy package
+ttf-lg-aboriginal (1.0-5)
+    transitional dummy package
+ttf-lg-aboriginal
+    virtual package provided by fonts-lg-aboriginal
+ttf-liberation (1.07.2-6)
+    transitional dummy package
+ttf-lindenhill (1.2-2)
+    transitional dummy package
+ttf-lindenhill
+    virtual package provided by fonts-lindenhill
+ttf-linex (2.2-6)
+    transitional dummy package
+ttf-linex
+    virtual package provided by fonts-linex
+ttf-linux-libertine (5.1.3-1)
+    Linux Libertine family of fonts (dummy package)
+ttf-linux-libertine
+    virtual package provided by fonts-linuxlibertine
+ttf-lyx (2.0.3-3)
+    transitional package
+ttf-manchufont (2.007.svn0068-2)
+    transitional dummy package
+ttf-manchufont
+    virtual package provided by fonts-manchufont
+ttf-mgopen (1.1-8)
+    transitional dummy package
+ttf-mgopen
+    virtual package provided by fonts-mgopen
+ttf-mikachan (9.1-8) [non-free]
+    transitional dummy package
+ttf-misaki (11-20080603-13)
+    transitional dummy package
+ttf-monapo (20090423-8)
+    transitional dummy package
+ttf-motoya-l-cedar (1.00-6)
+    transitional dummy package
+ttf-motoya-l-maruberi (1.00-5)
+    transitional dummy package
+ttf-mph-2b-damase (001.000.dfsg.2+ds1-4)
+    transitional dummy package
+ttf-mph-2b-damase
+    virtual package provided by fonts-mph-2b-damase
+ttf-mplus (049-1)
+    transitional dummy package
+ttf-mplus
+    virtual package provided by fonts-mplus
+ttf-nanum (3.020-1)
+    transitional dummy package
+ttf-nanum-extra (3.020-1)
+    transitional dummy package
+ttf-oflb-asana-math (000.907-4)
+    transitional dummy package
+ttf-oflb-asana-math
+    virtual package provided by fonts-oflb-asana-math
+ttf-oldstandard (2.2really-2)
+    transitional dummy package
+ttf-oldstandard
+    virtual package provided by fonts-oldstandard
+ttf-opendin (0.1-3)
+    transitional dummy package
+ttf-opendin
+    virtual package provided by fonts-opendin
+ttf-paktype (0.0svn20121225-1)
+    transitional dummy package
+ttf-paktype
+    virtual package provided by fonts-paktype
+ttf-prociono (2.3-2)
+    transitional dummy package
+ttf-prociono
+    virtual package provided by fonts-prociono
+ttf-sawarabi-gothic (20120615-1)
+    transitional dummy package
+ttf-sawarabi-mincho (20110220-5)
+    transitional dummy package
+ttf-sil-abyssinica (1.200-3)
+    transitional dummy package
+ttf-sil-abyssinica
+    virtual package provided by fonts-sil-abyssinica
+ttf-sil-andika (1.002-2)
+    transitional dummy package
+ttf-sil-andika
+    virtual package provided by fonts-sil-andika
+ttf-sil-charis (4.106-5)
+    transitional dummy package
+ttf-sil-charis
+    virtual package provided by fonts-sil-charis
+ttf-sil-dai-banna (2.1-5)
+    transitional dummy package
+ttf-sil-dai-banna
+    virtual package provided by fonts-sil-dai-banna
+ttf-sil-doulos (4.106-4)
+    transitional dummy package
+ttf-sil-doulos
+    virtual package provided by fonts-sil-doulos
+ttf-sil-ezra (2.51-7)
+    transitional dummy package
+ttf-sil-ezra
+    virtual package provided by fonts-sil-ezra
+ttf-sil-padauk (2.61-4)
+    transitional dummy package
+ttf-sil-sophia-nubian (1.000-5)
+    transitional dummy package
+ttf-sil-sophia-nubian
+    virtual package provided by fonts-sil-sophia-nubian
+ttf-sil-zaghawa-beria (1.000-2)
+    transitional dummy package
+ttf-sil-zaghawa-beria
+    virtual package provided by fonts-sil-zaghawa-beria
+ttf-sinhala-lkmug (0.6-2)
+    transitional dummy package
+ttf-takao (003.02.01-7.1)
+    transitional dummy package
+ttf-takao-gothic (003.02.01-7.1)
+    transitional dummy package
+ttf-takao-mincho (003.02.01-7.1)
+    transitional dummy package
+ttf-thai-arundina (0.2.0-5)
+    transitional dummy package
+ttf-thai-tlwg (1:0.5.0-5)
+    transitional dummy package
+ttf-tmuni (1.901b-4)
+    transitional dummy package
+ttf-tmuni
+    virtual package provided by fonts-tibetan-machine
+ttf-tomsontalks (1.1-3)
+    transitional dummy package
+ttf-tomsontalks
+    virtual package provided by fonts-tomsontalks
+ttf-ubuntu-title (1:0.3-1)
+    font used to create the Ubuntu logo (2004‒2010) - transitional package
+ttf-umefont (440-3)
+    transitional dummy package
+ttf-umeplus (20120403-3)
+    transitional dummy package
+ttf-unfonts-core (1.0.2-080608-6)
+    transitional dummy package
+ttf-unfonts-extra (1.0.2-080608-5)
+    transitional dummy package
+ttf-unikurdweb (1.0-4)
+    transitional dummy package
+ttf-unikurdweb
+    virtual package provided by fonts-unikurdweb
+ttf-uralic (0.0.20040829-4)
+    transitional dummy package
+ttf-uralic
+    virtual package provided by fonts-uralic
+ttf-vlgothic (20120629-2)
+    transitional dummy package
+ttf-yanone-kaffeesatz (0.20100525-4)
+    transitional dummy package
+ttf-yanone-kaffeesatz
+    virtual package provided by fonts-yanone-kaffeesatz
+uim-applet-kde (1:1.8.1-4)
+    transitional package for plasma-widget-uim
+uim-hangul (1:1.8.1-4)
+    transitional package for uim-byeoru
+uim-qt3 (1:1.8.1-4)
+    transitional package for uim-qt
+vim-lesstif (2:7.3.547-7)
+    Vi IMproved - enhanced vi editor (transitional package)
+virtualbox-guest-additions (4.1.18-1) [non-free]
+    transitional package for virtualbox-guest-additions-iso
+wormux (1:11.04.1+repack-4)
+    transitional package for warmux
+wormux-data (1:11.04.1+repack-4)
+    transitional package for warmux-data
+wormux-dbg (1:11.04.1+repack-4)
+    transitional package for warmux-dbg
+wormux-servers (1:11.04.1+repack-4)
+    transitional package for warmux-servers
+xbmc-data (2:11.0~git20120510.82388d5-1)
+    XBMC Media Center (transitional package)
+xbmc-data
+    virtual package provided by xbmc
+xbmc-skin-confluence (2:11.0~git20120510.82388d5-1)
+    XBMC Media Center (transitional package)
+xbmc-skin-confluence
+    virtual package provided by xbmc
+xbmc-standalone (2:11.0~git20120510.82388d5-1)
+    XBMC Media Center (transitional package)
+xbmc-standalone
+    virtual package provided by xbmc
+xen-linux-system-2.6-xen-686 (3.2+46)
+    Xen system with Linux for modern PCs (dummy package)
+xen-linux-system-2.6-xen-amd64 (3.2+46)
+    Xen system with Linux for 64-bit PCs (dummy package)
+xserver-xorg-video-nvidia-legacy-71xx (71.86.15-3) [non-free]
+    OBSOLETE NVIDIA binary Xorg driver (71xx legacy version)
+yafaray-blender2.5-exporter (0.1.2+really0.1.2~beta5-1)
+    transitional dummy package for yafaray-exporter 

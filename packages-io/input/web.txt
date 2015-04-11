@@ -1,0 +1,1520 @@
+adacgi1 (1.6-17)
+    Ada CGI interface
+adminer (3.3.3-1)
+    Web-based database administration tool
+adzapper (20090301.dfsg.1-0.2)
+    proxy advertisement zapper add-on
+ajaxterm (0.10-12)
+    Web based terminal written in Python
+akregator (4:4.4.11.1+l10n-3+b1)
+    RSS/Atom feed aggregator
+album (4.06-2) [non-free]
+    HTML photo album generator with theme support
+album-data (4.05-2) [non-free]
+    themes, plugins and translations for album
+ampache-themes (3.6.1-2)
+    Themes for Ampache
+analog (2:6.0-19.1)
+    web server log analyzer
+anon-proxy (00.05.38+20081230-2.1)
+    Proxy to surf the web anonymously
+anyremote2html (1.4-1)
+    web interface for anyRemote acting as HTTP server
+aolserver4-daemon (4.5.1-15.1)
+    AOL web server version 4 - program files
+apcupsd-cgi (3.14.10-2)
+    APC UPS Power Management (web interface)
+arora (0.11.0-1)
+    simple cross platform web browser
+asp.net-examples (2.10-2.4)
+    demo pages for ASP.NET infrastructure
+aswiki (1.0.4-10)
+    WikiWikiWeb clone (Wiki Engine) written in Ruby
+awffull (3.10.2-1)
+    web server log analysis program
+awstats (7.0~dfsg-7)
+    powerful and featureful web server log analyzer
+axel (2.4-1)
+    light download accelerator - console version
+axel-kapt (2.4-1)
+    light download accelerator - graphical front-end
+bins (1.1.29-16)
+    Generate static HTML photo albums using XML and EXIF tags
+bisho (0.27.2+git20111122.9e68ef3d-1)
+    Meego web services settings
+blazeblogger (1.2.0-3)
+    simple to use, command line based, content management system
+blogilo (4:4.4.11.1+l10n-3+b1)
+    graphical blogging client
+blosxom (2.1.2-1)
+    light, feature-packed weblog app with plugin extensibility
+bluefish (2.2.3-4)
+    advanced Gtk+ HTML editor
+bluefish-data (2.2.3-4)
+    advanced Gtk+ HTML editor (data)
+bluefish-plugins (2.2.3-4)
+    advanced Gtk+ HTML editor (plugins)
+browser-history (2.8-15)
+    User daemon that tracks URLs looked at and logs them
+browser-plugin-packagekit (0.7.6-3)
+    Plugin to install missing plugins using PackageKit
+buxon (0.0.5-3)
+    SIOC forums browser
+cacti (0.8.8a+dfsg-5+deb7u4)
+    web interface for graphing of monitoring systems
+cacti-spine (0.8.8a-1)
+    Multi-Threading poller for cacti
+cadaver (0.23.3-1)
+    command-line WebDAV client
+cakephp (1.3.15-1)
+    MVC rapid application development framework for PHP
+cakephp-instaweb (0.5-1)
+    Development webserver for CakePHP applications
+cakephp-scripts (1.3.15-1)
+    MVC rapid application development framework for PHP (scripts)
+calendar-google-provider (31.6.0-1~deb7u1) [security]
+    Google Calendar support for lightning- and iceowl-extension
+camping (2.1.498-4)
+    small Ruby web framework for Model-View-Controller type applications
+cgi-mapserver (6.0.1-3.2+deb7u2)
+    CGI executable for MapServer
+cgiemail (1.6-37)
+    CGI Form-to-Mail converter
+cgilib (0.6-1)
+    Simple CGI Library
+chalow (1.0-2)
+    weblog tool that converts ChangeLog to HTML
+checkbot (1.80-2)
+    WWW link verifier
+chimera2 (2.0a19-7)
+    Web browser for X
+chromium (37.0.2062.120-1~deb7u1)
+    Google's open source chromium web browser
+chromium-browser (37.0.2062.120-1~deb7u1)
+    Chromium browser - transitional dummy package
+chromium-browser-inspector (37.0.2062.120-1~deb7u1)
+    page inspector for the chromium-browser - transitional dummy package
+chromium-inspector (37.0.2062.120-1~deb7u1)
+    page inspector for the chromium browser
+chronicle (4.6-2)
+    HTML & RSS blog compiler
+ciderwebmail (1.04-1)
+    IMAP webmail service
+citadel-webcit (8.14-dfsg-1)
+    web-based frontend to Citadel groupware server
+ckeditor (3.6.1-1)
+    text editor for internet
+collabtive (0.7.6-1)
+    Web-based project management software
+conkeror (1.0~~pre+git120527-1+deb7u1)
+    keyboard focused web browser with Emacs look and feel
+conkeror-spawn-process-helper (1.0~~pre+git120527-1+deb7u1)
+    spawn external processes in Conkeror
+cronolog (1.6.2+rpk-1)
+    Logfile rotator for web servers
+cthumb (4.2-3)
+    A program to generate themable Web picture albums
+curl (7.26.0-1+wheezy12) [security]
+    command line tool for transferring data with URL syntax
+cutycapt (0.0~svn6-3)
+    utility to capture WebKit's rendering of a web page
+cvs2html (1.98-3)
+    create HTML versions of CVS logs
+d-push (2.0-1.1)
+    open source implementation of the ActiveSync protocol
+dacs (1.4.27b-2)
+    Distributed Access Control System (DACS)
+dacs-examples (1.4.27b-2)
+    Distributed Access Control System (DACS) - example web root
+dansguardian (2.10.1.1-5)
+    Web content filtering
+davical (1.1.1-1)
+    The DAViCal CalDAV & CardDAV Server
+dcmtk-www (3.6.0-12)
+    OFFIS DICOM toolkit worklist www server application
+debian-timeline (18)
+    Web-based timeline of the Debian GNU/Linux project
+dh-make-drupal (1.3-1+deb7u1)
+    Create Debian packages from Drupal modules and themes
+dh-make-php (0.3.0)
+    Creates Debian source packages for PHP PEAR and PECL extensions
+dh-xsp (2.10-2.4)
+    debhelper add-on to handle ASP.NET sites
+dicoweb (2.1-3)
+    RFC 2229 compliant modular dictionary server (web interface)
+didiwiki (0.5-11)
+    simple wiki implementation with built-in webserver
+dillo (3.0.2-2)
+    Small and fast web browser
+djview-plugin (4.9-2)
+    Browser plugin for the DjVu image format
+djvulibre-plugin (4.9-2)
+    Transition package, djvulibre-plugin to djview-plugin
+djvulibre-plugin
+    virtual package provided by djview-plugin
+djvuserve (3.5.25.3-1)
+    CGI program for unbundling DjVu files on the fly
+dnshistory (1.3-2+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.3-2 [armhf, s390x])
+    Translating and storing of IP addresses from log files
+doc-central (1.8.2+nmu3)
+    web-based documentation browser
+docvert (4.0-7)
+    converts word processor files to HTML
+docvert-libreoffice (4.0-7)
+    converts word processor files to HTML using LibreOffice
+docvert-openoffice.org (1:3.4.0~ooo340m1-7)
+    converts word processor files to HTML using LibreOffice
+dokuwiki (0.0.20120125b-2+deb7u1)
+    standards compliant simple to use wiki
+dotlrn (2.5.0+dfsg-6+wheezy4)
+    e-learning portal system based on OpenACS
+drraw (2.2b2-4)
+    simple web based presentation front-end for RRDtool
+drupal7 (7.14-2+deb7u9) [security]
+    fully-featured content management framework
+dtc-xen (0.5.17-1)
+    SOAP daemon and scripts to allow control panel management for Xen VMs
+dtc-xen-firewall (0.5.17-1)
+    small firewall script for your dom0
+dwb (20120628hg-1)
+    lightweight webkit browser
+dynalogin-client-php (0.9.14-2)
+    two-factor HOTP authentication - PHP client
+dyndns (2012.0112-1)
+    dynamic DNS (DDNS) update client implemented in Perl
+elinks (0.12~pre5-9)
+    advanced text-mode WWW browser
+elinks-data (0.12~pre5-9)
+    advanced text-mode WWW browser - data files
+elinks-lite (0.12~pre5-9)
+    advanced text-mode WWW browser - lightweight version
+elserv (0.4.0+0.20011203cvs-17.1)
+    HTTP server that runs on Emacsen
+eot-utils (1.0-1)
+    Tools to convert from OTF or TTF to EOT font format
+extplorer (2.1.0b6+dfsg.3-4+deb7u1)
+    web file explorer and manager using Ext JS
+ezmlm-browse (0.10-3)
+    Web browser for ezmlm-idx archives
+fcgiwrap (1.0.3-3)
+    simple server to run CGI applications over FastCGI
+fckeditor (1:2.6.6-3)
+    rich text format javascript web editor
+flashplugin-nonfree (1:3.2+wheezy1) [contrib]
+    Adobe Flash Player - browser plugin
+florence (0.5.1-1)
+    extensible and scalable virtual keyboard for GNOME
+fookebox (0.6.1-1)
+    web-based jukebox frontend to mpd
+foxyproxy (3.4-1.1~deb7u1)
+    advanced proxy management tool for Iceweasel - transitional dummy package
+freetable (2.3-4)
+    Facilitates production of HTML tables
+frontaccounting (2.2.10-3.1)
+    web-based double-entry accounting and ERP program
+ftpcopy (0.6.7-3)
+    FTP clients collection
+funkload (1.13.0-1.1)
+    web testing tool
+fusedav (0.2-3.1)
+    filesystem to mount WebDAV shares
+gallery (1.5.10.dfsg-1.1)
+    a web-based photo album written in php
+gcap (0.1.1-1)
+    YouTube closed caption retriever
+get-flash-videos (1.25~git2012.06.27-1)
+    video downloader for various Flash-based video hosting sites
+glpi (0.83.31-1)
+    IT and Asset management software
+gosa (2.7.4-4.3~deb7u2)
+    Web Based LDAP Administration Program
+gosa-desktop (2.7.4-4.3~deb7u2)
+    Desktop integration for GOsa²
+gosa-dev (2.7.4-4.3~deb7u2)
+    GOsa² development utilities
+gosa-help-de (2.7.4-4.3~deb7u2)
+    German online help for GOsa²
+gosa-help-en (2.7.4-4.3~deb7u2)
+    English online help for GOsa
+gosa-help-fr (2.7.4-4.3~deb7u2)
+    French online help for GOsa²
+gosa-help-nl (2.7.4-4.3~deb7u2)
+    Dutch online help for GOsa
+gosa-plugin-connectivity (2.7.4-4.3~deb7u2)
+    connectivity plugin for GOsa²
+gosa-plugin-dhcp (2.7.4-4.3~deb7u2)
+    dhcp plugin for GOsa²
+gosa-plugin-dhcp-schema (2.7.4-4.3~deb7u2)
+    LDAP schema for GOsa² dhcp plugin
+gosa-plugin-dns (2.7.4-4.3~deb7u2)
+    dns plugin for GOsa²
+gosa-plugin-dns-schema (2.7.4-4.3~deb7u2)
+    LDAP schema for GOsa² dns plugin
+gosa-plugin-fai (2.7.4-4.3~deb7u2)
+    fai plugin for GOsa²
+gosa-plugin-fai-schema (2.7.4-4.3~deb7u2)
+    LDAP schema for GOsa² fai plugin
+gosa-plugin-gofax (2.7.4-4.3~deb7u2)
+    gofax plugin for GOsa²
+gosa-plugin-gofon (2.7.4-4.3~deb7u2)
+    gofon plugin for GOsa²
+gosa-plugin-goto (2.7.4-4.3~deb7u2)
+    goto plugin for GOsa²
+gosa-plugin-kolab (2.7.4-4.3~deb7u2)
+    kolab plugin for GOsa²
+gosa-plugin-kolab-schema (2.7.4-4.3~deb7u2)
+    LDAP schema for GOsa² kolab plugin
+gosa-plugin-ldapmanager (2.7.4-4.3~deb7u2)
+    ldapmanager plugin for GOsa²
+gosa-plugin-mail (2.7.4-4.3~deb7u2)
+    base mail plugin for GOsa²
+gosa-plugin-mit-krb5 (2.7.4-4.3~deb7u2)
+    mit-krb5 plugin for GOsa²
+gosa-plugin-mit-krb5-schema (2.7.4-4.3~deb7u2)
+    LDAP schema for GOsa² mit-krb5 plugin
+gosa-plugin-nagios (2.7.4-4.3~deb7u2)
+    nagios plugin for GOsa²
+gosa-plugin-nagios-schema (2.7.4-4.3~deb7u2)
+    LDAP schema for GOsa² nagios plugin
+gosa-plugin-netatalk (2.7.4-4.3~deb7u2)
+    netatalk plugin for GOsa²
+gosa-plugin-opengroupware (2.7.4-4.3~deb7u2)
+    opengroupware plugin for GOsa²
+gosa-plugin-openxchange (2.7.4-4.3~deb7u2)
+    openxchange plugin for GOsa²
+gosa-plugin-openxchange-schema (2.7.4-4.3~deb7u2)
+    LDAP schema for GOsa² openxchange plugin
+gosa-plugin-opsi (2.7.4-4.3~deb7u2)
+    opsi plugin for GOsa²
+gosa-plugin-phpgw (2.7.4-4.3~deb7u2)
+    phpgw plugin for GOsa²
+gosa-plugin-phpgw-schema (2.7.4-4.3~deb7u2)
+    LDAP schema for GOsa² phpgw plugin
+gosa-plugin-phpscheduleit (2.7.4-4.3~deb7u2)
+    phpscheduleit plugin for GOsa²
+gosa-plugin-phpscheduleit-schema (2.7.4-4.3~deb7u2)
+    LDAP schema for GOsa² phpscheduleit plugin
+gosa-plugin-pptp (2.7.4-4.3~deb7u2)
+    pptp plugin for GOsa²
+gosa-plugin-pptp-schema (2.7.4-4.3~deb7u2)
+    LDAP schema for GOsa² pptp plugin
+gosa-plugin-pureftpd (2.7.4-4.3~deb7u2)
+    pureftpd plugin for GOsa²
+gosa-plugin-pureftpd-schema (2.7.4-4.3~deb7u2)
+    LDAP schema for GOsa² pureftpd plugin
+gosa-plugin-rolemanagement (2.7.4-4.3~deb7u2)
+    rolemanagement plugin for GOsa²
+gosa-plugin-rsyslog (2.7.4-4.3~deb7u2)
+    rsyslog plugin for GOsa²
+gosa-plugin-samba (2.7.4-4.3~deb7u2)
+    samba3 plugin for GOsa²
+gosa-plugin-scalix (2.7.4-4.3~deb7u2)
+    scalix plugin for GOsa²
+gosa-plugin-squid (2.7.4-4.3~deb7u2)
+    squid plugin for GOsa²
+gosa-plugin-ssh (2.7.4-4.3~deb7u2)
+    ssh plugin for GOsa²
+gosa-plugin-ssh-schema (2.7.4-4.3~deb7u2)
+    LDAP schema for GOsa² ssh plugin
+gosa-plugin-sudo (2.7.4-4.3~deb7u2)
+    sudo plugin for GOsa²
+gosa-plugin-sudo-schema (2.7.4-4.3~deb7u2)
+    LDAP schema for GOsa² sudo plugin
+gosa-plugin-systems (2.7.4-4.3~deb7u2)
+    systems plugin for GOsa²
+gosa-plugin-uw-imap (2.7.4-4.3~deb7u2)
+    uw-imap plugin for GOsa²
+gosa-plugin-webdav (2.7.4-4.3~deb7u2)
+    webdav plugin for GOsa²
+gosa-schema (2.7.4-4.3~deb7u2)
+    LDAP schema for GOsa
+gtml (3.5.4-7)
+    HTML pre-processor
+hiki (0.8.8.1-3)
+    Wiki Engine written in Ruby
+htcheck (1:2.0.0~rc1-2+b1)
+    Utility for checking web site for dead/external links
+htcheck-php (1:2.0.0~rc1-2)
+    Simple php interface to database generated by ht://Check
+htdig (1:3.2.0b6-12)
+    web search and indexing system - binaries
+html2text (1.3.2a-15+b1 [armhf, s390x], 1.3.2a-15 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc])
+    advanced HTML to text converter
+html2wml (0.4.11-1)
+    converts HTML pages to WML (WAP) or i-mode pages
+htmldoc (1.8.27-8)
+    HTML processor that generates indexed HTML, PS, and PDF
+htmldoc-common (1.8.27-8)
+    Common arch-independent files for htmldoc
+httperf (0.9.0-2+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.9.0-2 [armhf, s390x])
+    An HTTP server performance tester
+httpfs2 (0.1.4-1)
+    FUSE filesystem for mounting files from http servers
+httpie (0.1.6+20120309git-2.1)
+    CLI, cURL-like tool for humans
+httrack (3.46.1-1)
+    Copy websites to your computer (Offline browser)
+hv3 (3.0~fossil20110109-2)
+    Lightweight web browser
+hyde (0.8.5a1-4)
+    static website generator with the power of Django templates
+icedtea-6-plugin (1.4-3~deb7u2 [amd64, armel, armhf, i386, powerpc, s390x, sparc], 1.3.2-1 [ia64, s390]) [security]
+    web browser plugin based on OpenJDK and IcedTea to execute Java applets
+icedtea-7-plugin (1.4-3~deb7u2 [amd64, armel, armhf, i386, powerpc, s390x, sparc], 1.3.2-1 [ia64, s390]) [security]
+    web browser plugin based on OpenJDK and IcedTea to execute Java applets
+icedtea-plugin (1.4-3~deb7u2) [security]
+    web browser plugin to execute Java applets (dependency package)
+iceowl-extension (31.6.0-1~deb7u1 [amd64, armel, armhf, i386, s390, s390x], 31.5.0-1~deb7u1 [powerpc, sparc], 17.0.10-1~deb7u1 [ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel]) [security]
+    Calendar Extension for Thunderbird/Icedove
+iceweasel (31.6.0esr-1~deb7u1 [amd64, armel, armhf, i386, powerpc, s390x], 24.8.1esr-1~deb7u1 [kfreebsd-amd64, kfreebsd-i386, s390], 24.5.0esr-1~deb7u1 [sparc], 17.0.10esr-1~deb7u1 [ia64, mips, mipsel]) [security]
+    Web browser based on Firefox
+iceweasel-downthemall (2.0.13-2)
+    iceweasel extension with advanced download capabilities - dummy package
+iceweasel-downthemall
+    virtual package provided by xul-ext-downthemall
+iceweasel-l10n-af (1:31.6.0esr-1~deb7u1) [security]
+    Afrikaans language package for Iceweasel
+iceweasel-l10n-all (1:31.6.0esr-1~deb7u1) [security]
+    All language packages for Iceweasel (meta)
+iceweasel-l10n-ar (1:31.6.0esr-1~deb7u1) [security]
+    Arabic language package for Iceweasel
+iceweasel-l10n-be (1:31.6.0esr-1~deb7u1) [security]
+    Belarusian language package for Iceweasel
+iceweasel-l10n-bg (1:31.6.0esr-1~deb7u1) [security]
+    Bulgarian language package for Iceweasel
+iceweasel-l10n-bn-in (1:31.6.0esr-1~deb7u1) [security]
+    Bengali (India) language package for Iceweasel
+iceweasel-l10n-ca (1:31.6.0esr-1~deb7u1) [security]
+    Catalan language package for Iceweasel
+iceweasel-l10n-cs (1:31.6.0esr-1~deb7u1) [security]
+    Czech language package for Iceweasel
+iceweasel-l10n-csb (1:31.6.0esr-1~deb7u1) [security]
+    Kashubian language package for Iceweasel
+iceweasel-l10n-cy (1:31.6.0esr-1~deb7u1) [security]
+    Welsh language package for Iceweasel
+iceweasel-l10n-da (1:31.6.0esr-1~deb7u1) [security]
+    Danish language package for Iceweasel
+iceweasel-l10n-de (1:31.6.0esr-1~deb7u1) [security]
+    German language package for Iceweasel
+iceweasel-l10n-el (1:31.6.0esr-1~deb7u1) [security]
+    Modern Greek language package for Iceweasel
+iceweasel-l10n-en-gb (1:31.6.0esr-1~deb7u1) [security]
+    English (United Kingdom) language package for Iceweasel
+iceweasel-l10n-eo (1:31.6.0esr-1~deb7u1) [security]
+    Esperanto language package for Iceweasel
+iceweasel-l10n-es-ar (1:31.6.0esr-1~deb7u1) [security]
+    Spanish (Argentina) language package for Iceweasel
+iceweasel-l10n-es-es (1:31.6.0esr-1~deb7u1) [security]
+    Spanish (Spain) language package for Iceweasel
+iceweasel-l10n-et (1:31.6.0esr-1~deb7u1) [security]
+    Estonian language package for Iceweasel
+iceweasel-l10n-eu (1:31.6.0esr-1~deb7u1) [security]
+    Basque language package for Iceweasel
+iceweasel-l10n-fi (1:31.6.0esr-1~deb7u1) [security]
+    Finnish language package for Iceweasel
+iceweasel-l10n-fr (1:31.6.0esr-1~deb7u1) [security]
+    French language package for Iceweasel
+iceweasel-l10n-fy-nl (1:31.6.0esr-1~deb7u1) [security]
+    Western Frisian (Netherlands) language package for Iceweasel
+iceweasel-l10n-ga-ie (1:31.6.0esr-1~deb7u1) [security]
+    Irish (Ireland) language package for Iceweasel
+iceweasel-l10n-gl (1:31.6.0esr-1~deb7u1) [security]
+    Galician language package for Iceweasel
+iceweasel-l10n-gu-in (1:31.6.0esr-1~deb7u1) [security]
+    Gujarati (India) language package for Iceweasel
+iceweasel-l10n-he (1:31.6.0esr-1~deb7u1) [security]
+    Hebrew language package for Iceweasel
+iceweasel-l10n-hi-in (1:31.6.0esr-1~deb7u1) [security]
+    Hindi (India) language package for Iceweasel
+iceweasel-l10n-hu (1:31.6.0esr-1~deb7u1) [security]
+    Hungarian language package for Iceweasel
+iceweasel-l10n-id (1:31.6.0esr-1~deb7u1) [security]
+    Indonesian language package for Iceweasel
+iceweasel-l10n-is (1:31.6.0esr-1~deb7u1) [security]
+    Icelandic language package for Iceweasel
+iceweasel-l10n-it (1:31.6.0esr-1~deb7u1) [security]
+    Italian language package for Iceweasel
+iceweasel-l10n-ja (1:31.6.0esr-1~deb7u1) [security]
+    Japanese language package for Iceweasel
+iceweasel-l10n-kn (1:31.6.0esr-1~deb7u1) [security]
+    Kannada language package for Iceweasel
+iceweasel-l10n-ko (1:31.6.0esr-1~deb7u1) [security]
+    Korean language package for Iceweasel
+iceweasel-l10n-ku (1:31.6.0esr-1~deb7u1) [security]
+    Kurdish language package for Iceweasel
+iceweasel-l10n-lt (1:31.6.0esr-1~deb7u1) [security]
+    Lithuanian language package for Iceweasel
+iceweasel-l10n-lv (1:31.6.0esr-1~deb7u1) [security]
+    Latvian language package for Iceweasel
+iceweasel-l10n-mk (1:31.6.0esr-1~deb7u1) [security]
+    Macedonian language package for Iceweasel
+iceweasel-l10n-mr (1:31.6.0esr-1~deb7u1) [security]
+    Marathi language package for Iceweasel
+iceweasel-l10n-nb-no (1:31.6.0esr-1~deb7u1) [security]
+    Norwegian Bokmål (Norway) language package for Iceweasel
+iceweasel-l10n-nl (1:31.6.0esr-1~deb7u1) [security]
+    Dutch language package for Iceweasel
+iceweasel-l10n-nn-no (1:31.6.0esr-1~deb7u1) [security]
+    Norwegian Nynorsk (Norway) language package for Iceweasel
+iceweasel-l10n-pa-in (1:31.6.0esr-1~deb7u1) [security]
+    Panjabi (India) language package for Iceweasel
+iceweasel-l10n-pl (1:31.6.0esr-1~deb7u1) [security]
+    Polish language package for Iceweasel
+iceweasel-l10n-pt-br (1:31.6.0esr-1~deb7u1) [security]
+    Portuguese (Brazil) language package for Iceweasel
+iceweasel-l10n-pt-pt (1:31.6.0esr-1~deb7u1) [security]
+    Portuguese (Portugal) language package for Iceweasel
+iceweasel-l10n-ro (1:31.6.0esr-1~deb7u1) [security]
+    Romanian language package for Iceweasel
+iceweasel-l10n-ru (1:31.6.0esr-1~deb7u1) [security]
+    Russian language package for Iceweasel
+iceweasel-l10n-si (1:31.6.0esr-1~deb7u1) [security]
+    Sinhala language package for Iceweasel
+iceweasel-l10n-sk (1:31.6.0esr-1~deb7u1) [security]
+    Slovak language package for Iceweasel
+iceweasel-l10n-sl (1:31.6.0esr-1~deb7u1) [security]
+    Slovenian language package for Iceweasel
+iceweasel-l10n-sq (1:31.6.0esr-1~deb7u1) [security]
+    Albanian language package for Iceweasel
+iceweasel-l10n-sr (1:31.6.0esr-1~deb7u1) [security]
+    Serbian language package for Iceweasel
+iceweasel-l10n-sv-se (1:31.6.0esr-1~deb7u1) [security]
+    Swedish (Sweden) language package for Iceweasel
+iceweasel-l10n-te (1:31.6.0esr-1~deb7u1) [security]
+    Telugu language package for Iceweasel
+iceweasel-l10n-th (1:31.6.0esr-1~deb7u1) [security]
+    Thai language package for Iceweasel
+iceweasel-l10n-tr (1:31.6.0esr-1~deb7u1) [security]
+    Turkish language package for Iceweasel
+iceweasel-l10n-uk (1:31.6.0esr-1~deb7u1) [security]
+    Ukrainian language package for Iceweasel
+iceweasel-l10n-zh-cn (1:31.6.0esr-1~deb7u1) [security]
+    Chinese (China) language package for Iceweasel
+iceweasel-l10n-zh-tw (1:31.6.0esr-1~deb7u1) [security]
+    Chinese (Taiwan) language package for Iceweasel
+iceweasel-scrapbook (1.5.4-1)
+    transitional dummy package
+iceweasel-scrapbook
+    virtual package provided by xul-ext-scrapbook
+iceweasel-vimperator (3.3-2)
+    Iceweasel extension to make it have vim look and feel
+ifetch-tools (0.15.23b-1)
+    Collect, monitor, and view images from ip cameras
+igal2 (2.1-1)
+    online image gallery generator
+iipimage-server (0.9.9-2)
+    Web-based streamed viewing and zooming of ultra high-resolution images
+ikiwiki (3.20120629)
+    a wiki compiler
+ilohamail (0.8.14-0rc3sid6.2)
+    Light weight yet full featured multilingual web-based IMAP/POP3 client
+imageindex (1.1-2.1)
+    generate static HTML galleries from images
+imaptool (0.9-12)
+    tool for creating client-side image maps
+imgsizer (2.7-3)
+    Adds WIDTH and HEIGHT attributes to IMG tags in HTML files
+imposm (2.4.0+dfsg-0.1)
+    importer for OpenStreetMap data
+interchange (5.7.7-2)
+    e-commerce and general HTTP database display system
+interchange-cat-standard (5.7.7-2)
+    Standard store, a sample Interchange catalog
+interchange-ui (5.7.7-2)
+    Interchange administration interface (UI)
+ip2host (1.10-2)
+    Resolve IPs to hostnames in web server logs
+javascript-common (7)
+    Base support for javascript library packages
+jesred (1.2pl1-17)
+    A redirector for the Squid proxy
+jffnms (0.9.3-3)
+    PHP Network Management System
+jigl (2.0.1+20060126-4)
+    Generates a static html photo gallery from one or more directories of images
+jpoker (1.0.16-2.1)
+    javascript online poker client
+jquery-jplayer-bluemonday (2.1.0-1)
+    Blue Monday skin for jPlayer
+jquery-jplayer-pinkflag (2.1.0-1)
+    Pink Flag skin for jPlayer
+jsmath (3.6c-1.1)
+    TeX equations in HTML documents
+jsmath-fonts-sprite (1.0-2)
+    raster fonts for jsMath plugin spriteImageFonts
+jwchat (1.0+dfsg-1.1)
+    a full featured, web-based Jabber chat client
+klinkstatus (4:4.8.4-1)
+    web link validity checker
+klone (2.1.0~rc1-1)
+    embedded web application development framework
+klone-package (0.3)
+    tool for creating custom KLone web server packages
+knowledgeroot (0.9.9.5-6)
+    web-based knowledgebase system
+konqueror (4:4.8.4-2)
+    advanced file manager, web browser and document viewer
+konqueror-nsplugins (4:4.8.4-2)
+    Netscape plugin support for Konqueror
+kpart-webkit (1.3~git20120518.9a111005-3)
+    WebKit KPart
+ldap-account-manager (3.7-2)
+    webfrontend for managing accounts in an LDAP directory
+ldap-account-manager-lamdaemon (3.7-2)
+    Quota and home directory management for LDAP Account Manager
+ledgersmb (1.3.18-2)
+    financial accounting and ERP program
+letodms (3.3.9+dfsg-1)
+    document management system based on PHP and MySQL
+libapache2-mod-gnutls (0.5.10-1.1+deb7u1) [security]
+    Apache module for SSL and TLS encryption with GnuTLS
+libapache2-mod-php5filter (5.4.39-0+deb7u2) [security]
+    server-side, HTML-embedded scripting language (apache 2 filter module)
+libapache2-mod-shib2 (2.4.3+dfsg-5+deb7u1) [security]
+    Federated web single sign-on system (Apache module)
+libjs-asciimathml (2.0.2-1)
+    a library to render high quality mathematical formulas in a browser
+libjs-backbone (0.5.3-2+deb7u1)
+    some Backbone for JS Apps with Models, Views, Collections, and Events
+libjs-codemirror (2.23-1)
+    JavaScript editor interface for code-like content
+libjs-cropper (1.2.2-1)
+    JavaScript image cropper UI
+libjs-debugger (0.5-4)
+    a console logger for debugging JavaScript
+libjs-dojo-core (1.7.2+dfsg-1)
+    Modular JavaScript toolkit
+libjs-dojo-dijit (1.7.2+dfsg-1)
+    Modular JavaScript toolkit - Dijit
+libjs-dojo-dojox (1.7.2+dfsg-1)
+    Modular JavaScript toolkit - DojoX
+libjs-edit-area (0.8.2-1)
+    a free javascript editor for source code
+libjs-excanvas (0.r3-3)
+    HTML5 Canvas for Internet Explorer
+libjs-extjs (3.0.3+dfsg0-1)
+    a cross-browser JavaScript library
+libjs-flot (0.7+dfsg-2)
+    plotting library for jQuery
+libjs-flotr (0.2.1~r301-1)
+    plotting library for the Prototype Framework
+libjs-jac (1.3.4+dfsg-1)
+    JavaScript Jabber Client Library
+libjs-jquery (1.7.2+dfsg-1)
+    JavaScript library for dynamic web applications
+libjs-jquery-cookie (6-1)
+    jQuery cookie plugin
+libjs-jquery-countdown (6-1)
+    jQuery Countdown
+libjs-jquery-easing (6-1)
+    jQuery Easing Plugin
+libjs-jquery-event-drag (6-1)
+    jQuery Event Drag
+libjs-jquery-event-drop (6-1)
+    jQuery Event Drop
+libjs-jquery-fancybox (6-1)
+    fancy lightbox alternative
+libjs-jquery-form (6-1)
+    jQuery Form Plugin
+libjs-jquery-galleriffic (6-1)
+    jQuery Galleriffic plugin
+libjs-jquery-history (6-1)
+    jQuery history plugin
+libjs-jquery-jfeed (6-1)
+    jQuery RSS/Atom feed parser plugin
+libjs-jquery-jplayer (2.1.0-2)
+    HTML5 Audio & Video for jQuery with a Flash fallback
+libjs-jquery-jush (6-1)
+    jQuery Syntax Highlighter
+libjs-jquery-livequery (6-1)
+    jQuery Live Query
+libjs-jquery-meiomask (6-1)
+    jQuery mask plugin
+libjs-jquery-metadata (6-1)
+    jQuery plugin for parsing metadata from elements
+libjs-jquery-mobile (1.1.0-3)
+    Touch-Optimized Web Framework for Smartphones & Tablets
+libjs-jquery-mousewheel (6-1)
+    jQuery Mousewheel Plugin
+libjs-jquery-opacityrollover (6-1)
+    jQuery Opacity Rollover plugin
+libjs-jquery-tablesorter (6-1)
+    Flexible client-side table sorting
+libjs-jquery-tipsy (6-1)
+    jQuery Facebook-style tooltip plugin
+libjs-jquery-treetable (6-1)
+    jQuery treeTable Plugin
+libjs-jquery-ui (1.8.ooops.21+dfsg-2)
+    JavaScript UI library for dynamic web applications
+libjs-jquery-ui-theme-base (1.8.21+dfsg-1)
+    Base theme for jQuery UI
+libjs-jquery-ui-theme-black-tie (1.8.21+dfsg-1)
+    Black Tie theme for jQuery UI
+libjs-jquery-ui-theme-blitzer (1.8.21+dfsg-1)
+    Blitzer theme for jQuery UI
+libjs-jquery-ui-theme-cupertino (1.8.21+dfsg-1)
+    Cupertino theme for jQuery UI
+libjs-jquery-ui-theme-dark-hive (1.8.21+dfsg-1)
+    Dark Hive theme for jQuery UI
+libjs-jquery-ui-theme-dot-luv (1.8.21+dfsg-1)
+    Dot Luv theme for jQuery UI
+libjs-jquery-ui-theme-eggplant (1.8.21+dfsg-1)
+    Eggplant theme for jQuery UI
+libjs-jquery-ui-theme-excite-bike (1.8.21+dfsg-1)
+    Excite Bike theme for jQuery UI
+libjs-jquery-ui-theme-flick (1.8.21+dfsg-1)
+    Flick theme for jQuery UI
+libjs-jquery-ui-theme-hot-sneaks (1.8.21+dfsg-1)
+    Hot Sneaks theme for jQuery UI
+libjs-jquery-ui-theme-humanity (1.8.21+dfsg-1)
+    Humanity theme for jQuery UI
+libjs-jquery-ui-theme-le-frog (1.8.21+dfsg-1)
+    Le Frog theme for jQuery UI
+libjs-jquery-ui-theme-mint-choc (1.8.21+dfsg-1)
+    Mint Choc theme for jQuery UI
+libjs-jquery-ui-theme-overcast (1.8.21+dfsg-1)
+    Overcast theme for jQuery UI
+libjs-jquery-ui-theme-pepper-grinder (1.8.21+dfsg-1)
+    Pepper Grinder theme for jQuery UI
+libjs-jquery-ui-theme-redmond (1.8.21+dfsg-1)
+    Redmond theme for jQuery UI
+libjs-jquery-ui-theme-smoothness (1.8.21+dfsg-1)
+    Smoothness theme for jQuery UI
+libjs-jquery-ui-theme-south-street (1.8.21+dfsg-1)
+    South Street theme for jQuery UI
+libjs-jquery-ui-theme-start (1.8.21+dfsg-1)
+    Start theme for jQuery UI
+libjs-jquery-ui-theme-sunny (1.8.21+dfsg-1)
+    Sunny theme for jQuery UI
+libjs-jquery-ui-theme-swanky-purse (1.8.21+dfsg-1)
+    Swanky Purse theme for jQuery UI
+libjs-jquery-ui-theme-trontastic (1.8.21+dfsg-1)
+    Trontastic theme for jQuery UI
+libjs-jquery-ui-theme-ui-darkness (1.8.21+dfsg-1)
+    UI Darkness theme for jQuery UI
+libjs-jquery-ui-theme-ui-lightness (1.8.21+dfsg-1)
+    UI Lightness theme for jQuery UI
+libjs-jquery-ui-theme-vader (1.8.21+dfsg-1)
+    Vader theme for jQuery UI
+libjs-jshash (2.2-3)
+    calculate secure hash algorithms in JavaScript
+libjs-mathjax (1.1-2)
+    open-source JavaScript display engine for LaTeX and MathML
+libjs-mochikit (1.4.2-4)
+    JavaScript library inspired by Python
+libjs-mootools (1.4.5~debian1-2.1)
+    compact JavaScript framework
+libjs-openlayers (2.11+ds1-1)
+    JavaScript library for displaying map data in web browsers
+libjs-prototype (1.7.0-2)
+    JavaScript Framework for dynamic web applications
+libjs-scriptaculous (1.9.0-2)
+    JavaScript library for dynamic web applications
+libjs-simile-timeline (2.3.0+dfsg-0.1)
+    JavaScript library for web-based interactive timelines
+libjs-slimbox (2.04-1)
+    Slimbox is a visual clone of the popular Lightbox
+libjs-sphinxdoc (1.1.3+dfsg-4)
+    JavaScript support for Sphinx documentation
+libjs-strophe (1.0.1.dfsg-2)
+    Library for writing XMPP clients
+libjs-swfobject (2.2+dfsg-1)
+    tool to embed Flash content into webpages
+libjs-swfupload (2.2.0.1+ds1-2)
+    javascript library to use Flash's upload functionality
+libjs-underscore (1.1.6-1+deb7u1)
+    JavaScript's functional programming helper library
+libjs-xmlextras (20060529-1)
+    creates a common interface to use of the XML objects provided by IE and Mozilla
+libjs-yui (2.9.0.dfsg.0.1-0.1)
+    Yahoo User Interface Library
+libjs-yui3-common (3.5.1-1)
+    Yahoo User Interface Library v3 (common files)
+libjs-yui3-debug (3.5.1-1)
+    Yahoo User Interface Library v3 (debug files)
+libjs-yui3-full (3.5.1-1)
+    Yahoo User Interface Library v3 (full, uncompressed files)
+libjs-yui3-min (3.5.1-1)
+    Yahoo User Interface Library v3 (minified files)
+libreoffice-script-provider-js (1:3.5.4+dfsg2-0+deb7u3) [security]
+    JavaScript script support provider for LibreOffice scripting framework
+linkchecker (7.9-2)
+    check websites and HTML documents for broken links
+linkchecker-gui (7.9-2)
+    check websites and HTML documents for broken links (GUI client)
+linkchecker-web (7.9-2)
+    check websites and HTML documents for broken links (web client)
+linklint (2.3.5-5)
+    A fast link checker and web site maintenance tool
+links (2.7-1+deb7u1)
+    Web browser running in text mode
+links2 (2.7-1+deb7u1)
+    Web browser running in both graphics and text mode
+llgal (0.13.17-2)
+    Command-line online gallery generator
+logstalgia (1.0.3-3)
+    web server access log visualizer
+luakit (2012.03.25-1)
+    A fast and small web browser extensible by Lua
+lynx (2.8.8dev.12-2)
+    Text-mode WWW Browser (transitional package)
+lynx-cur (2.8.8dev.12-2)
+    Text-mode WWW Browser with NLS support (development version)
+lynx-cur-wrapper (2.8.8dev.12-2)
+    Wrapper for lynx-cur (transitional package)
+mailto (1.3.2-3)
+    WWW Forms to Mail Gateway
+mantis (1.2.18-1) [security]
+    web-based bug tracking system
+markdown (1.0.1-7)
+    Text-to-HTML conversion tool
+mediawiki (1:1.19.20+dfsg-0+deb7u3)
+    website engine for collaborative work
+mediawiki-extensions (3.5~deb7u2)
+    Extensions for MediaWiki -- Meta package
+mediawiki-extensions-base (3.5~deb7u2)
+    Extensions for MediaWiki -- Base package
+mediawiki-extensions-collection (3.5~deb7u2)
+    Extensions for MediaWiki -- Collection extension
+mediawiki-extensions-confirmedit (3.5~deb7u1) [security]
+    Extensions for MediaWiki -- ConfirmEdit extension
+mediawiki-extensions-geshi (3.5~deb7u2)
+    Extensions for MediaWiki -- SyntaxHighlight_GeSHi extension
+mediawiki-extensions-graphviz (3.5~deb7u2)
+    Extensions for MediaWiki -- GraphViz extension
+mediawiki-extensions-ldapauth (3.5~deb7u2)
+    Extensions for MediaWiki -- LdapAuthentication extension
+mediawiki-extensions-math (2:1.0+git20120528-6)
+    math rendering plugin for MediaWiki (common files)
+mediawiki-extensions-openid (3.5~deb7u2)
+    Extensions for MediaWiki -- OpenID extension
+mediawiki-math-texvc (2:1.0+git20120528-6)
+    math rendering plugin for MediaWiki (texvc binary files)
+memcached (1.4.13-0.2+deb7u1)
+    A high-performance memory object caching system
+memcachedb (1.2.0-9)
+    Persistent storage engine using the memcache protocol
+micro-proxy (20021030+debian-5)
+    really small HTTP/HTTPS proxy
+midori (0.4.3+dfsg-0.1)
+    fast, lightweight graphical web browser
+mirmon (2.6-2)
+    monitor the state of mirrors
+mnemosyne-blog (0.12-2)
+    Maildir-to-blog compiler with XML templating and Python extensions
+mod-musicindex-common (1.3.7-2)
+    Common files for mod-musicindex
+mono-apache-server4 (2.10-2.4)
+    ASP.NET 1.1 backend for mod_mono Apache module
+mono-fastcgi-server4 (2.10-2.4)
+    ASP.NET 4.0 backend for FastCGI webservers
+mono-xsp4 (2.10-2.4)
+    simple web server to run ASP.NET 4.0 applications
+mono-xsp4-base (2.10-2.4)
+    base libraries for XSP 4.0
+movabletype-opensource (5.1.4+dfsg-4+deb7u2) [security]
+    Well-known blogging engine
+movabletype-plugin-core (5.1.4+dfsg-4+deb7u2) [security]
+    Core Movable Type plugins
+movabletype-plugin-zemanta (5.1.4+dfsg-4+deb7u2) [security]
+    Zemanta Movable Type plugin
+mozilla-diggler (0.9-21)
+    A set of URL manipulation utilities for Iceape and Iceweasel's location bar
+mozilla-gtk-vnc (0.5.0-3.1)
+    VNC viewer widget for GTK+2 (mozilla plugin)
+mozilla-livehttpheaders (0.17-3)
+    transitional dummy package
+mozilla-nukeimage (0.3-12)
+    Mozilla context menu option to remove image from display
+mozvoikko (2.0.1-1)
+    Finnish spell-checker extension for Iceweasel (transitional package)
+mp4h (1.3.1-6)
+    Macro processor for HTML documents
+mrtg-rrd (0.7-5)
+    Generating graphs for MRTG statistics (CGI)
+multiwatch (1.0.0-rc1-2)
+    Forks and watches multiple instances of a program
+nanoblogger (3.4.2-3)
+    Small weblog engine for the command line
+nanoblogger-extra (3.4.2-2)
+    Nanoblogger plugins
+netrik (1.16.1-1.1)
+    text mode WWW browser with vi like keybindings
+netsurf (2.9-2)
+    Small web browser with CSS support - Transition package
+netsurf-common (2.9-2)
+    Small web browser with CSS support common files
+netsurf-fb (2.9-2)
+    Small web browser with CSS support for framebuffers
+netsurf-gtk (2.9-2)
+    Small web browser with CSS support for GTK
+nicovideo-dl (0.0.20120212-1)
+    Download videos from www.nicovideo.jp
+novnc (2012.1~e3+dfsg+1-4)
+    HTML5 VNC client
+ntlmaps (0.9.9.0.1-11.2)
+    NTLM Authorization Proxy Server
+nurpawiki (1.2.3-5+b17 [amd64, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, sparc], 1.2.3-5+b16 [armel], 1.2.3-5+b13 [ia64, mips, mipsel, s390], 1.2.3-5+b3 [armhf], 1.2.3-5+b1 [s390x])
+    Wiki with integrated to-do list and scheduler
+ocsinventory-reports (2.0.5-1.1)
+    Hardware and software inventory tool (Administration Console)
+ocsinventory-server (2.0.5-1.1)
+    Hardware and software inventory tool (Communication Server)
+omt (0.1.16)
+    A tool for mirroring web pages
+openload (0.1.2-2)
+    Tool for load testing of web applications
+otrs (3.1.7+dfsg1-8+deb7u5) [security]
+    Open Ticket Request System (OTRS 3)
+otrs2 (3.1.7+dfsg1-8+deb7u5) [security]
+    Open Ticket Request System
+parser3 (3.4.2-2)
+    Parser 3, HTML-embedded scripting language (metapackage)
+parser3-cgi (3.4.2-2)
+    Parser 3, HTML-embedded scripting language (CGI binary)
+parser3-common (3.4.2-2)
+    Common files for packages built from the Parser 3 source
+parser3-mysql (10.4-1)
+    MySQL driver for Parser 3
+pavuk (0.9.35-2.3)
+    Multiprotocol file grabber with textual and graphic control
+pear-horde-channel (5)
+    PEAR Horde channel definition file
+perlbal (1.80-2)
+    Perl-based reverse proxy load balancer and web server
+pgn2web (0.4-1)
+    convert PGN chess game files into webpages
+phamm (0.5.18-3.1)
+    PHP front-end to manage virtual services on LDAP - main package
+phamm-ldap (0.5.18-3.1)
+    PHP front-end to manage virtual services on LDAP - back-end files
+phamm-ldap-amavis (0.5.18-3.1)
+    PHP front-end to manage virtual services on LDAP - back-end files
+phamm-ldap-vacation (0.5.18-3.1)
+    PHP front-end to manage virtual services on LDAP - back-end files
+php-pear (5.4.39-0+deb7u2) [security]
+    PEAR - PHP Extension and Application Repository
+php5 (5.4.39-0+deb7u2) [security]
+    server-side, HTML-embedded scripting language (metapackage)
+php5-cgi (5.4.39-0+deb7u2) [security]
+    server-side, HTML-embedded scripting language (CGI binary)
+php5-cli (5.4.39-0+deb7u2) [security]
+    command-line interpreter for the php5 scripting language
+php5-common (5.4.39-0+deb7u2) [security]
+    Common files for packages built from the php5 source
+php5-curl (5.4.39-0+deb7u2) [security]
+    CURL module for php5
+php5-gd (5.4.39-0+deb7u2) [security]
+    GD module for php5
+php5-gmp (5.4.39-0+deb7u2) [security]
+    GMP module for php5
+php5-imap (5.4.39-0+deb7u2) [security]
+    IMAP module for php5
+php5-interbase (5.4.39-0+deb7u2) [security]
+    interbase/firebird module for php5
+php5-ldap (5.4.39-0+deb7u2) [security]
+    LDAP module for php5
+php5-mcrypt (5.4.39-0+deb7u2) [security]
+    MCrypt module for php5
+php5-mysql (5.4.39-0+deb7u2) [security]
+    MySQL module for php5
+php5-odbc (5.4.39-0+deb7u2) [security]
+    ODBC module for php5
+php5-pgsql (5.4.39-0+deb7u2) [security]
+    PostgreSQL module for php5
+php5-pspell (5.4.39-0+deb7u2) [security]
+    pspell module for php5
+php5-recode (5.4.39-0+deb7u2) [security]
+    recode module for php5
+php5-snmp (5.4.39-0+deb7u2) [security]
+    SNMP module for php5
+php5-sqlite (5.4.39-0+deb7u2) [security]
+    SQLite module for php5
+php5-sybase (5.4.39-0+deb7u2) [security]
+    Sybase / MS SQL Server module for php5
+php5-tidy (5.4.39-0+deb7u2) [security]
+    tidy module for php5
+php5-xmlrpc (5.4.39-0+deb7u2) [security]
+    XML-RPC module for php5
+php5-xsl (5.4.39-0+deb7u2) [security]
+    XSL module for php5
+phpbb3 (3.0.10-4+deb7u1)
+    full-featured, skinnable non-threaded web forum
+phpmyadmin (4:3.4.11.1-2+deb7u1)
+    MySQL web administration tool
+phppgadmin (5.0.4-1)
+    web-based administration tool for PostgreSQL
+phpreports (0.4.9-2.1)
+    XML-based report generator for PHP
+phpsysinfo (3.0.17-1)
+    PHP based host information
+phpwebcounter (1.0-1)
+    simple and light web hit counter
+phpwebcounter-extra (20071108-1)
+    extra graphical numbers to PHP Web Counter
+pnopaste (1.4-5)
+    Pastebin with syntax highlighting
+pnopaste-cli (1.4-5)
+    Pastebin with syntax highlighting (cli tool)
+polipo (1.0.4.1-1.2)
+    a small, caching web proxy
+poppass-cgi (3-5.1)
+    CGI script to interact with a poppassd server
+prewikka (1.0.0-1.2)
+    Security Information Management System [ Web Interface ]
+privoxy (3.0.19-2+deb7u2) [security]
+    Privacy enhancing HTTP Proxy
+proxytrack (3.46.1-1)
+    Build HTTP Caches using archived websites copied by HTTrack
+pubtal (3.5-1)
+    Template driven web site builder for small sites
+puf (1.0.0-7)
+    Parallel URL fetcher
+pwget (2010.1012+git5feaa59-1)
+    downloader utility which resembles wget (implemented in Perl)
+pyblosxom (1.4.3-1)
+    a lightweight file-based weblog system
+python-albatross (1.36-5.4)
+    Toolkit for Stateful Web Applications
+python-albatross-common (1.36-5.4)
+    Toolkit for Stateful Web Applications (common files)
+python-myghty (1.1-5)
+    Python based templating framework originally based on HTML::Mason
+python-myghtyutils (0.52-4)
+    Set of utility classes used by Myghty templating
+python-pylons (1.0-2)
+    Python web framework emphasizing flexibility and rapid development
+python-quixote (2.7~b2-1+b2 [amd64, i386, kfreebsd-amd64, kfreebsd-i386, mips, powerpc, sparc], 2.7~b2-1+b1 [armel, ia64, mipsel, s390], 2.7~b2-1 [armhf, s390x])
+    A highly Pythonic Web application framework
+python-quixote1 (1.2-4.1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.2-4.1 [armhf, s390x])
+    A highly Pythonic Web application framework
+python-scgi (1.13-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.13-1 [armhf, s390x])
+    Server-side implementation of the SCGI protocol
+qtm (1.3.6-1)
+    Web-log interface program
+radicale (0.7-1.1)
+    simple calendar server - daemon
+ratproxy (1.58+dfsg-3+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.58+dfsg-3 [armhf, s390x])
+    passive web application security assessment tool
+rawdog (2.13.dfsg.1-1)
+    RSS Aggregator Without Delusions Of Grandeur
+redmine (1.4.4+dfsg1-2+deb7u1)
+    flexible project management web application
+redmine-mysql (1.4.4+dfsg1-2+deb7u1)
+    metapackage providing MySQL dependencies for Redmine
+redmine-pgsql (1.4.4+dfsg1-2+deb7u1)
+    metapackage providing PostgreSQL dependencies for Redmine
+redmine-plugin-botsfilter (1.02-2)
+    Redmine plugin to restrict common bots access
+redmine-sqlite (1.4.4+dfsg1-2+deb7u1)
+    metapackage providing sqlite dependencies for Redmine
+rekonq (0.9.2-1)
+    KDE web browser based on Webkit
+rest2web (0.5.2~alpha+svn-r248-2)
+    web site builder using ReStructured Text as basic content format
+rmagic (2.21-5)
+    Report Magic for Analog
+roundcube (0.7.2-9+deb7u1)
+    skinnable AJAX based webmail solution for IMAP servers - metapackage
+roundcube-core (0.7.2-9+deb7u1)
+    skinnable AJAX based webmail solution for IMAP servers
+roundcube-mysql (0.7.2-9+deb7u1)
+    metapackage providing MySQL dependencies for RoundCube
+roundcube-pgsql (0.7.2-9+deb7u1)
+    metapackage providing PostgreSQL dependencies for RoundCube
+roundcube-plugins (0.7.2-9+deb7u1)
+    skinnable AJAX based webmail solution for IMAP servers - plugins
+roundcube-plugins-extra (0.7-20120110)
+    skinnable AJAX based webmail solution - extra plugins
+roundup (1.4.20-1.1)
+    an issue-tracking system
+rpm2html (1.11.2-3)
+    generate HTML index from directories of RPMs
+rtgui (0.2.81-4)
+    Web based front-end for rTorrent
+rtmpdump (2.4+20111222.git4e06e21-1)
+    small dumper for media content streamed over the RTMP protocol
+rtpg-www (0.2.11-3)
+    web based front end for rTorrent
+ruby-compass (0.12.2~dfsg-2)
+    Stylesheet Framework streamlining creation and maintainance of CSS
+ruby-sass (3.1.19-3)
+    powerful but elegant CSS compiler that makes CSS fun again
+sa-learn-cyrus (0.3.5-1.1)
+    Train SpamAssassin with spam/ham from user's imap mailbox(es)
+samidare (0.7-1)
+    web page updates checker
+samizdat (0.7.0-1)
+    Web collaboration and open publishing engine
+sarg (2.3.2-2)
+    squid analysis report generator
+sbox-dtc (1.11.6-1)
+    CGI chroot wrapper script for safer hosting environment
+scuttle (0.7.4-8.1)
+    Web-based social bookmarking system
+serverstats (0.8.2-10)
+    a simple tool for creating graphs using rrdtool
+shellinabox (2.14-1)
+    publish command line shell through AJAX interface
+siege (2.70-3)
+    HTTP regression testing and benchmarking utility
+simpleid (0.8.1-13)
+    simple OpenID provider implemented in PHP
+simpleid-ldap (1.0.0-1)
+    simple OpenID provider implemented in PHP - LDAP plugin
+simpleid-store-dynalogin (0.9.14-2)
+    two-factor HOTP authentication - OpenID provider
+simplesamlphp (1.9.2-1)
+    Authentication and federation application supporting several protocols
+simplyhtml (0.13.1-3)
+    Java word processor based on HTML and CSS
+sitecopy (1:0.16.6-4)
+    program for managing a WWW site via FTP, SFTP, DAV or HTTP
+skipfish (2.05b-1)
+    fully automated, active web application security reconnaissance tool
+smarty-gettext (1.0b1-7)
+    Gettext plugin enabling internationalization in Smarty
+smarty-validate (3.0.3-2)
+    Server-side form validation plugin for Smarty
+smarty3 (3.1.10-2)
+    Template engine for PHP
+solr-common (3.6.0+dfsg-1+deb7u1)
+    Enterprise search server based on Lucene3 - common files
+spawn-fcgi (1.6.3-1)
+    A fastcgi process spawner
+spip (2.1.17-1+deb7u4)
+    website engine for publishing
+spl-webspl (1.0~pre6-3.1+b1)
+    SPL based web application framework
+spotweb (20111002+dfsg-4.1)
+    web interface to search and filter Usenet spots
+sputnik (12.06.27-2)
+    Extensible wiki
+sqcwa (0.3-3.1)
+    Workaround for Squid not caching some pages
+sql-ledger (3.0.3-1)
+    Web based double-entry accounting program
+squid (2.7.STABLE9-4.1+deb7u1) [security]
+    Internet object cache (WWW proxy cache)
+squid-cgi (3.1.20-2.2+deb7u2)
+    Full featured Web Proxy cache (HTTP proxy) - control CGI
+squid-common (2.7.STABLE9-4.1+deb7u1) [security]
+    Internet object cache (WWW proxy cache) - common files
+squid-prefetch (1.1-2.3)
+    Simple page-prefetch for Squid web proxy
+squid3 (3.1.20-2.2+deb7u2)
+    Full featured Web Proxy cache (HTTP proxy)
+squid3-common (3.1.20-2.2+deb7u2)
+    Full featured Web Proxy cache (HTTP proxy) - common files
+squidclient (3.1.20-2.2+deb7u2)
+    Full featured Web Proxy cache (HTTP proxy) - control utility
+squidguard (1.5-1)
+    filter and redirector plugin for Squid
+squidtaild (2.1a6-6)
+    Squid log monitoring program
+squirrelmail (2:1.4.23~svn20120406-2)
+    Webmail for nuts
+squirrelmail-compatibility (2.0.16-1)
+    SquirrelMail plugin: Let other plugins work with older/newer SM versions
+squirrelmail-decode (1.2-1)
+    SquirrelMail support for decoding exotic character sets
+squirrelmail-lockout (1.7-2)
+    SquirrelMail plugin: Disallow access to users/domains
+squirrelmail-logger (2.3.1-1)
+    SquirrelMail plugin: Add logging functionality to your webmail interface
+squirrelmail-quicksave (2.4.5-1)
+    SquirrelMail plugin: Auto-save messages while composing
+squirrelmail-secure-login (1.4-3)
+    SquirrelMail plugin: Force users to use SSL encrypted connections
+squirrelmail-sent-confirmation (1.6-2)
+    SquirrelMail plugin: display a confimation message after sending mails
+squirrelmail-spam-buttons (2.3.1-1)
+    SquirrelMail plugin: Place "Spam" buttons on the mailbox message list page
+squirrelmail-viewashtml (3.8-3)
+    SquirrelMail plugin: View mails as HTML
+surf (0.4.1-8)
+    simple web browser
+surfraw (2.2.8-1)
+    fast unix command line interface to WWW
+surfraw-extra (2.2.8-1)
+    extra surfraw search tools with heavy dependencies
+swaml (0.1.1-1)
+    Semantic Web Archive of Mailing Lists
+swish++ (6.1.5-2.2)
+    Simple Document Indexing System for Humans: C++ version
+swish-e (2.4.7-3)
+    Simple Web Indexing System for Humans - Enhanced
+swish-e-dev (2.4.7-3)
+    Simple Web Indexing System for Humans - Enhanced
+td2planet (0.2.0-2)
+    Ruby-based server-side blog aggregator
+tdiary (3.1.3-3)
+    Communication-friendly weblog system
+tdiary-contrib (3.1.20120506-3)
+    Plugins of tDiary to add functionalities
+tdiary-mode (3.1.20120506-3)
+    tDiary editing mode for Emacsen
+tdiary-plugin (3.1.3-3)
+    Plugins of tDiary to add functionalities
+tdiary-theme (3.1.3-3)
+    Themes of tDiary to change the design
+themole (0.3-1)
+    automatic SQL injection exploitation tool
+thin (1.3.1-3)
+    fast and very simple Ruby web server
+thin1.8 (1.3.1-3)
+    Transitional package for thin
+thin1.8
+    virtual package provided by thin
+tidy (20091223cvs-1.2)
+    HTML syntax checker and reformatter
+tilecache (2.11-2)
+    a web map tile caching system
+tilelite (0.1.5-2)
+    lightweight Mapnik tile-server
+tilestache (1.31.0-1)
+    map tiles caching system
+tinymce (3.4.8+dfsg0-1)
+    platform independent web based Javascript/HTML WYSIWYG editor
+tinyproxy (1.8.3-3)
+    A lightweight, non-caching, optionally anonymizing HTTP proxy
+tntnet-runtime (2.1-2+deb7u1)
+    Tntnet runtime system
+torchat (0.9.9.550-2)
+    decentralized instant messenger built on top of the Tor Network
+torrentflux (2.4-5.1)
+    web based, feature-rich BitTorrent download manager
+trac (0.12.5-3~deb7u1)
+    Enhanced wiki and issue tracking system for software development projects
+trac-announcer (0.12.1+r10986-2)
+    enhanced e-mail notification system for Trac
+trac-batchmodify (0.8.0+r10978-1)
+    modify several Trac tickets together in one shot
+trac-bitten (0.6+final-3)
+    continuous integration plugin for Trac
+trac-bitten-slave (0.6+final-3)
+    continuous integration plugin for Trac
+trac-customfieldadmin (0.2.6+r10460-1)
+    panel for administrating custom ticket fields in Trac
+trac-diavisview (0.1+r11124-2)
+    Renders dia and vdx files in Trac
+trac-email2trac (2.4.7-1)
+    Creates and amends Trac tickets from e-mail
+trac-httpauth (1.1+r6675-1)
+    Force HTTP authentication from within Trac
+trac-ja-resource (0.12.2.ja1-1)
+    Japanese resources for trac
+trac-jsgantt (0.9+r11145-1)
+    displays Trac tickets as a Gantt chart in a wiki page
+trac-mastertickets (3.0.2+20111224-2)
+    adds inter-ticket dependencies to Trac
+trac-odtexport (0.6.0+svn10787-2)
+    Export Trac wiki pages as OpenDocument (ODT) files
+trac-privatetickets (2.0.3-3)
+    Allows Trac users to only see tickets they are associated with
+trac-privateticketsplugin (2.0.3-3)
+    transitional dummy package for trac-privatetickets
+trac-roadmap (0.4.1+r11241-1)
+    enhances the Trac roadmap with sorting and filtering
+trac-sensitivetickets (0.21-1)
+    Plugin for Trac ticketing system to hide tickets marked as sensitive
+trac-subtickets (0.1.1+253f019-1)
+    sub-ticket feature for Trac tickets
+trac-tags (0.6.0+svn11105-1)
+    Tagging plugin for Trac wiki and issue tracking system
+trac-virtualticketpermissions (1.0.0+svn4153-1)
+    Extended permissions plugin for Trac ticketing system
+trac-wikiprint (1.9.2-1.1)
+    Make Trac wiki pages printable, exporting to PDF or printable HTML
+trac-wysiwyg (0.12.0.3+r10725-1)
+    WYSIWYG style editor for the Trac issue tracking system
+trac-xmlrpc (1.1.2+r10706-1)
+    XML-RPC interface to the Trac wiki and issue tracking system
+trafficserver (3.0.5-1)
+    fast, scalable and extensible HTTP/1.1 compliant caching proxy server
+trafficserver-dev (3.0.5-1)
+    Apache Traffic Server Software Developers Kit (SDK)
+trafficserver-plugin-conf-remap (3.0.5-1)
+    Apache Traffic Server conf_remap plugin
+typo3 (4.5.19+dfsg1-5+wheezy4) [security]
+    web content management system (meta)
+typo3-database (4.5.19+dfsg1-5+wheezy4) [security]
+    web content management system (database)
+typo3-dummy (4.5.19+dfsg1-5+wheezy4) [security]
+    web content management system (basic site structure)
+typo3-src-4.5 (4.5.19+dfsg1-5+wheezy4) [security]
+    web content management system (core)
+ukolovnik (1.4-1)
+    Simple todo manager using PHP and MySQL
+urlwatch (1.11-1)
+    tool for monitoring webpages for updates
+usemod-wiki (1.0.5-1+deb7u1)
+    Perl-based Wiki clone
+uwsgi (1.2.3+dfsg-5+deb7u1)
+    fast, self-healing application container server
+uwsgi-app-integration-plugins (1.2.3+dfsg-5+deb7u1)
+    plugins for integration of uWSGI and application
+uwsgi-core (1.2.3+dfsg-5+deb7u1)
+    fast, self-healing application container server (core)
+uwsgi-extra (1.2.3+dfsg-5+deb7u1)
+    fast, self-healing application container server (extra files)
+uwsgi-infrastructure-plugins (1.2.3+dfsg-5+deb7u1)
+    infrastructure plugins for uWSGI
+uwsgi-plugin-admin (1.2.3+dfsg-5+deb7u1)
+    admin plugin for uWSGI
+uwsgi-plugin-cache (1.2.3+dfsg-5+deb7u1)
+    cache plugin for uWSGI
+uwsgi-plugin-carbon (1.2.3+dfsg-5+deb7u1)
+    carbon plugin for uWSGI
+uwsgi-plugin-cgi (1.2.3+dfsg-5+deb7u1)
+    CGI plugin for uWSGI
+uwsgi-plugin-echo (1.2.3+dfsg-5+deb7u1)
+    echo plugin for uWSGI
+uwsgi-plugin-erlang (1.2.3+dfsg-5+deb7u1)
+    Erlang plugin for uWSGI
+uwsgi-plugin-fastrouter (1.2.3+dfsg-5+deb7u1)
+    fastrouter plugin for uWSGI
+uwsgi-plugin-fiber (1.2.3+dfsg-5+deb7u1)
+    fiber loop engine plugin for uWSGI
+uwsgi-plugin-graylog2 (1.2.3+dfsg-5+deb7u1)
+    graylog2 plugin for uWSGI
+uwsgi-plugin-greenlet-python (1.2.3+dfsg-5+deb7u1)
+    greenlet plugin for uWSGI (Python)
+uwsgi-plugin-http (1.2.3+dfsg-5+deb7u1)
+    HTTP server plugin for uWSGI
+uwsgi-plugin-jvm-openjdk-6 (1.2.3+dfsg-5+deb7u1)
+    Java plugin for uWSGI (OpenJDK 6)
+uwsgi-plugin-jwsgi-openjdk-6 (1.2.3+dfsg-5+deb7u1)
+    JWSGI plugin for uWSGI (OpenJDK 6)
+uwsgi-plugin-logsocket (1.2.3+dfsg-5+deb7u1)
+    logsocket plugin for uWSGI
+uwsgi-plugin-lua5.1 (1.2.3+dfsg-5+deb7u1)
+    Lua WSAPI plugin for uWSGI (Lua 5.1)
+uwsgi-plugin-nagios (1.2.3+dfsg-5+deb7u1)
+    Nagios plugin for uWSGI
+uwsgi-plugin-ping (1.2.3+dfsg-5+deb7u1)
+    ping plugin for uWSGI
+uwsgi-plugin-probeconnect (1.2.3+dfsg-5+deb7u1)
+    probeconnect plugin for uWSGI
+uwsgi-plugin-probepg (1.2.3+dfsg-5+deb7u1)
+    probepg plugin for uWSGI
+uwsgi-plugin-psgi (1.2.3+dfsg-5+deb7u1)
+    Perl PSGI plugin for uWSGI
+uwsgi-plugin-pyerl-python (1.2.3+dfsg-5+deb7u1)
+    pyerl plugin for uWSGI (Python)
+uwsgi-plugin-pyerl-python3 (1.2.3+dfsg-5+deb7u1)
+    pyerl plugin for uWSGI (Python 3)
+uwsgi-plugin-python (1.2.3+dfsg-5+deb7u1)
+    Python WSGI plugin for uWSGI
+uwsgi-plugin-python3 (1.2.3+dfsg-5+deb7u1)
+    Python 3 WSGI plugin for uWSGI
+uwsgi-plugin-rack-ruby1.8 (1.2.3+dfsg-5+deb7u1)
+    Rack plugin for uWSGI (Ruby 1.8)
+uwsgi-plugin-rack-ruby1.9.1 (1.2.3+dfsg-5+deb7u1)
+    Rack plugin for uWSGI (Ruby 1.9.1)
+uwsgi-plugin-rpc (1.2.3+dfsg-5+deb7u1)
+    RPC plugin for uWSGI
+uwsgi-plugin-rrdtool (1.2.3+dfsg-5+deb7u1)
+    rrdtool plugin for uWSGI
+uwsgi-plugin-rsyslog (1.2.3+dfsg-5+deb7u1)
+    rsyslog plugin for uWSGI
+uwsgi-plugin-signal (1.2.3+dfsg-5+deb7u1)
+    signal plugin for uWSGI
+uwsgi-plugin-symcall (1.2.3+dfsg-5+deb7u1)
+    symcall plugin for uWSGI
+uwsgi-plugin-syslog (1.2.3+dfsg-5+deb7u1)
+    syslog plugin for uWSGI
+uwsgi-plugin-ugreen (1.2.3+dfsg-5+deb7u1)
+    uGreen plugin for uWSGI
+uwsgi-plugins-all (1.2.3+dfsg-5+deb7u1)
+    all available plugins for uWSGI
+uzbl (0.0.0~git.20120514-1.1)
+    Lightweight Webkit browser following the UNIX philosophy
+varnish (3.0.2-2+deb7u1)
+    state of the art, high-performance web accelerator
+visitors (0.7-9)
+    fast web server log analyzer
+vlogger (1.3-3.1)
+    virtual web logfile rotater/parser
+w3c-markup-validator (1.2+dfsg-6)
+    W3C Markup Validator
+w3cam (0.7.2-6.2)
+    a simple CGI to retrieve images from video4linux device
+w3m (0.5.3-8)
+    WWW browsable pager with excellent tables/frames support
+w3m-img (0.5.3-8)
+    inline image extension support utilities for w3m
+wap-wml-tools (0.0.4-6) [non-free]
+    Wireless Markup Language development and test tools
+wapua (0.06.1-2)
+    Web browser for WAP WML pages
+wbox (5-1)
+    HTTP testing tool and configuration-less HTTP server
+wdg-html-validator (1.6.2-7)
+    WDG HTML Validator
+webalizer (2.23.05-1)
+    web server log analysis program
+webauth-tests (4.1.1-2)
+    Tests for the WebAuth authentication modules
+webauth-utils (4.1.1-2)
+    Command-line utilities for WebAuth authentication
+webauth-weblogin (4.1.1-2)
+    Central login server for WebAuth authentication
+webcheck (1.10.4)
+    website link and structure checker
+webdruid (0.5.4-12.1)
+    A web server log file analysis tool
+webgen0.4 (0.4.7-8)
+    template based static website generator
+webgen0.5 (0.5.14+dfsg1-3)
+    fast, powerful, and extensible static website generator
+webhttrack (3.46.1-1)
+    Copy websites to your computer, httrack with a Web interface
+webhttrack-common (3.46.1-1)
+    webhttrack common files
+webissues-server (0.8.5-3)
+    a network system supporting team collaboration (server)
+webkit2pdf (0.2-4)
+    export web pages to PDF files or printer
+webmagick (2.02-11)
+    create gallery thumbnails for website
+wfo (0.1-2)
+    Offline editing tool for Wiki pages and blogs
+wget (1.13.4-3+deb7u2)
+    retrieves files from the web
+wiliki (0.6.2-1)
+    Yet another Wiki clone written in Scheme
+wims-help (4.01-2)
+    help files for wims
+witty (3.2.1-2+deb7u1)
+    C++ library for webapps [runtime] (transition package)
+witty
+    virtual package provided by libwtext32, libwttest2, libwtfcgi32, libwt32, libwthttp32
+wmf (1.0.5-6+b1 [mips, mipsel], 1.0.5-6 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, powerpc, s390, s390x, sparc])
+    Web Mail Folder
+wml (2.0.12ds1-3+deb7u1)
+    off-line HTML generation toolkit
+wordpress (3.6.1+dfsg-1~deb7u5)
+    weblog manager
+wput (0.6.2-3)
+    tiny wget-like ftp-client for uploading files
+wwwconfig-common (0.2.2)
+    Debian web auto configuration
+xapian-omega (1.2.12-1)
+    CGI search interface and indexers using Xapian
+xul-ext-adblock-plus (2.1-1+deb7u1)
+    Advertisement blocking extension for web browsers
+xul-ext-adblock-plus-element-hiding-helper (1.2.2-1)
+    extension for Adblock Plus meant to make creating element hiding rules easier
+xul-ext-all-in-one-sidebar (0.7.16+really-0.7.14-1)
+    sidebar extension for Iceweasel/Firefox
+xul-ext-autofill-forms (0.9.8.3-5)
+    Iceweasel/Firefox add-on that enables you to fill out web forms faster
+xul-ext-automatic-save-folder (1.0.4-3)
+    Download helper for Firefox which automates the sorting and saving of files
+xul-ext-certificatepatrol (2.0.14-3+deb7u1)
+    Certificate Monitor for Iceweasel/Icedove/Iceape
+xul-ext-cookie-monster (1.1.0-5~deb7u1)
+    makes it very easy to manage cookies in a whitelist-based way
+xul-ext-custom-tab-width (1.0.1-2)
+    Iceweasel/Firefox extension for setting a custom tab width
+xul-ext-debianbuttons (1.9-1)
+    Buttons for querying Debian-related pages with Iceweasel/Firefox
+xul-ext-dom-inspector (1:2.0.11-1)
+    tool for inspecting the DOM of pages in Iceweasel and Iceape
+xul-ext-downthemall (2.0.13-2)
+    iceweasel extension with advanced download capabilities
+xul-ext-firebug (1.12.8+dfsg-1+deb7u1)
+    web development plugin for Iceweasel/Firefox
+xul-ext-firegestures (1.6.16-1)
+    enables you to execute various commands with five types of gestures
+xul-ext-firetray (0.4.6-1~deb7u2)
+    system tray extension for Icedove and Iceweasel alike applications
+xul-ext-firexpath (0.9.7-1)
+    extension for Firebug to edit, inspect and generate XPath expressions
+xul-ext-flashblock (1.5.17-1~deb7u1)
+    Mozilla extension to block Adobe Flash content
+xul-ext-flashgot (1.4.5+dfsg-1)
+    Extension to handle downloads with external download managers
+xul-ext-foxyproxy-standard (3.4-1.1~deb7u1)
+    advanced proxy management tool for Iceweasel, Icedove and Iceape
+xul-ext-googlebookmarks (1.5-3)
+    extension meant for managing your Google Bookmarks
+xul-ext-greasemonkey (1.15-1~deb7u1)
+    customization of webpages with user scripts
+xul-ext-itsalltext (1.6.4-1)
+    Iceweasel/Firefox extension to edit textareas using an external editor
+xul-ext-livehttpheaders (0.17-3)
+    Adds information about the HTTP headers to Iceweasel and Iceape
+xul-ext-monkeysphere (0.6.1-1)
+    Iceweasel/Firefox extension for using Monkeysphere on the web
+xul-ext-mozvoikko (2.0.1-1)
+    Finnish spell-checker extension for Iceweasel
+xul-ext-noscript (2.6.8.19-1~deb7u1)
+    permissions manager for Iceweasel and Iceape
+xul-ext-nosquint (2.1.5-1)
+    extension for Iceweasel/Firefox to control the size of text of websites
+xul-ext-openinbrowser (1.11-6)
+    open files directly in the browser
+xul-ext-personasplus (1.6.2-2)
+    free, easy-to-install skins for Firefox/Iceweasel
+xul-ext-perspectives (4.3.1-1+deb7u1)
+    verify HTTPS sites through notary servers
+xul-ext-pwdhash (1.7-13)
+    per-site password generator for Mozilla browsers
+xul-ext-refcontrol (0.8.16-2)
+    control what gets sent as the HTTP Referer on a per-site basis
+xul-ext-requestpolicy (0.5.25-1)
+    improve your browsing: more private, more secure
+xul-ext-sage (1.5.2-2~deb7u1)
+    lightweight RSS and Atom feed reader
+xul-ext-scrapbook (1.5.4-1)
+    Iceweasel/Firefox extension to save and manage Web pages
+xul-ext-searchload-options (0.6.3-2)
+    tweak the searchbar's functionality
+xul-ext-sieve (0.2.3d-2~deb7u2)
+    extension that implements the ManageSieve protocol
+xul-ext-status4evar (0.2012.04.21.13-1)
+    Status bar widgets and progress indicators for Firefox 4+
+xul-ext-syncplaces (4.1.2-2)
+    synchronice Bookmarks and Passwords via WebDAV
+xul-ext-tabmixplus (0.4.0.2-1)
+    adds dozens of new capabilities to tabbed browsing
+xul-ext-toggle-proxy (1.5-2)
+    Toggle Proxy adds a status bar icon to toggle between two proxy settings
+xul-ext-treestyletab (0.14.2012050301-1)
+    Show tabs like a tree
+xul-ext-ubiquity (0.6.1~pre20111123-1)
+    browser interface based on natural language input
+xul-ext-uppity (1.5.8-3)
+    toolbar button to "go up" on the web
+xul-ext-useragentswitcher (0.7.3-1)
+    Iceweasel/Firefox addon that allows the user to choose user agents
+xul-ext-wot (20110704-2)
+    shows you which websites are trustworthy
+xul-ext-zarafa-drag-n-drop (1.2-1)
+    Zarafa Drag and Drop plugin
+xul-ext-zotero (3.0.7-1)
+    Iceweasel extension to organize and share your research sources
+xxxterm (1:1.11.3-1)
+    Minimalist's web browser
+yaws-chat (1.94-1)
+    Chat application for Yaws web server
+yaws-mail (1.94-1)
+    Webmail application for Yaws web server
+yaws-wiki (1.94-1)
+    Wiki application for Yaws web server
+yaws-yapp (1.94-1)
+    Provides an easy way to deploy applications for Yaws web server
+yocto-reader (0.9.4)
+    web based RSS reader
+yui-builder (1.0.0b1+dfsg-1)
+    Build environment for YUI
+zendframework (1.11.13-1.1)
+    powerful PHP framework
+zendframework-bin (1.11.13-1.1)
+    binary scripts for zendframework
+zendframework-resources (1.11.13-1.1)
+    resource scripts for zendframework
+zine (0.2~20100905-1)
+    Python powered blog engine 

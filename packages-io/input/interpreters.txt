@@ -1,0 +1,696 @@
+afnix (2.2.0-2)
+    Compiler and run-time for the AFNIX programming language
+aplus-fsf (4.22.1-6)
+    A+ programming language run-time environment
+brandy (1.20~pre5-4)
+    BBC BASIC V interpreter
+bwbasic (2.20pl2-11)
+    Bywater BASIC Interpreter
+c-repl (0.0.20071223-1)
+    read-eval-print loop for C
+cairo-5c (1.8.1)
+    nickle bindings for the cairo graphics library
+cduce (0.5.5-1)
+    programming language adapted to the manipulation of XML data
+clasp (2.0.6-2)
+    conflict-driven nogood learning answer set solver
+clif (0.93-9)
+    C language interpreter
+clips (6.24-3)
+    "C" Language Integrated Production System
+clips-common (6.24-3)
+    CLIPS common files and examples
+coala (1.0.1-5)
+    translates action languages into answer set programs
+cpp (4:4.7.2-1 [amd64, i386, kfreebsd-amd64, kfreebsd-i386], 4:4.6.3-8 [armel, armhf, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    GNU C preprocessor (cpp)
+cpp-4.4 (4.4.7-2)
+    GNU C preprocessor
+cpp-4.6 (4.6.3-14)
+    GNU C preprocessor
+cpp-4.7 (4.7.2-5)
+    GNU C preprocessor
+depqbf (0.1-1)
+    solver for quantified boolean formulae
+dh-lua (15)
+    helper tools for maintaining Lua-related packages
+elza (1.4.3-16)
+    Script language for automating HTTP requests
+empty-expect (0.6.18b-3)
+    Run processes and applications under pseudo-terminal
+erlang (1:15.b.1-dfsg-4+deb7u1)
+    Concurrent, real-time, distributed functional language
+erlang-appmon (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP application monitor
+erlang-asn1 (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP modules for ASN.1 support
+erlang-base (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP virtual machine and base applications
+erlang-base-hipe (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP HiPE enabled virtual machine and base applications
+erlang-common-test (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP application for automated testing
+erlang-corba (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP applications for CORBA support
+erlang-crypto (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP cryptographic modules
+erlang-debugger (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP application for debugging and testing
+erlang-dev (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP development libraries and headers
+erlang-dialyzer (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP discrepancy analyzer application
+erlang-diameter (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP implementation of RFC 3588 protocol
+erlang-edoc (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP module for generating documentation
+erlang-eldap (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP LDAP library
+erlang-erl-docgen (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP documentation stylesheets
+erlang-et (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP event tracer application
+erlang-eunit (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP module for unit testing
+erlang-examples (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP application examples
+erlang-gs (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP graphics system
+erlang-guestfs (1:1.18.1-1+deb7u3)
+    guest disk image management system - Erlang bindings
+erlang-ic (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP IDL compiler
+erlang-ic-java (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP IDL compiler (Java classes)
+erlang-inets (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP Internet clients and servers
+erlang-inviso (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP trace tool
+erlang-jinterface (1:15.b.1-dfsg-4+deb7u1)
+    Java communication tool to Erlang
+erlang-megaco (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP implementation of Megaco/H.248 protocol
+erlang-mnesia (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP distributed relational/object hybrid database
+erlang-mode (1:15.b.1-dfsg-4+deb7u1)
+    Erlang major editing mode for Emacs
+erlang-nox (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP applications that don't require X Window System
+erlang-observer (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP application for investigating distributed systems
+erlang-odbc (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP interface to SQL databases
+erlang-os-mon (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP operating system monitor
+erlang-parsetools (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP parsing tools
+erlang-percept (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP concurrency profiling tool
+erlang-pman (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP process manager
+erlang-public-key (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP public key infrastructure
+erlang-reltool (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP release management tool
+erlang-runtime-tools (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP runtime tracing/debugging tools
+erlang-snmp (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP SNMP applications
+erlang-src (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP applications sources
+erlang-ssh (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP implementation of SSH protocol
+erlang-ssl (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP implementation of SSL
+erlang-syntax-tools (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP modules for handling abstract Erlang syntax trees
+erlang-test-server (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP server for automated application testing
+erlang-toolbar (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP graphical toolbar
+erlang-tools (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP various tools
+erlang-tv (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP table viewer
+erlang-typer (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP code type annotator
+erlang-webtool (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP helper for web-based tools
+erlang-wx (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP bindings to wxWidgets
+erlang-x11 (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP applications that require X Window System
+erlang-xmerl (1:15.b.1-dfsg-4+deb7u1)
+    Erlang/OTP XML tools
+expect (5.45-2)
+    Automates interactive applications
+falconpl (0.9.6.9-git20120606-2)
+    Falcon P.L. - command line tools
+gadfly (1.0.0-15.1)
+    Server and interactive shell for Gadfly SQL database
+gawk (1:4.0.1+dfsg-2.1+b1 [s390x], 1:4.0.1+dfsg-2.1 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc])
+    GNU awk, a pattern scanning and processing language
+gforth (0.7.0+ds2-0.1)
+    GNU Forth Language Environment
+gforth-common (0.7.0+ds2-0.1)
+    GNU Forth architecture-independent dictionaries
+gforth-lib (0.7.0+ds2-0.1)
+    GNU Forth Language Environment architecture-dependent files
+gjs (1.32.0-5)
+    Mozilla-based javascript bindings for the GNOME platform
+gnome-js-common (0.1.2-1)
+    Common modules for GNOME JavaScript interpreters
+gnu-smalltalk (3.2.4-2)
+    GNU Smalltalk interpreter and image
+gnu-smalltalk-browser (3.2.4-2)
+    GNU Smalltalk browser
+gnu-smalltalk-common (3.2.4-2)
+    GNU Smalltalk class library sources and extras
+gnudatalanguage (0.9.2-4)
+    Free IDL compatible incremental compiler
+god (0.7.18-3)
+    Fully configurable process monitoring
+god
+    virtual package provided by ruby-god
+gpsmanshp (1.2.1-1)
+    A Tcl interface to shapelib
+grcm (0.1.6-1)
+    GNOME application to initiate connections to remote machines
+gringo (3.0.4-3)
+    grounding tools for (disjunctive) logic programs
+haserl (0.9.29-3)
+    CGI scripting program for embedded environments
+hugs (98.200609.21-5.3)
+    A Haskell 98 interpreter
+icedtea-6-jre-cacao (6b34-1.13.6-1~deb7u1 [amd64, armel, armhf, i386, mipsel, powerpc], 6b33-1.13.5-2~deb7u1 [mips], 6b27-1.12.6-1~deb7u1 [s390]) [security]
+    Alternative JVM for OpenJDK, using Cacao
+intercal (29:0.29-2)
+    an INTERCAL de-obfuscator
+libdb5.1-tcl (5.1.29-5)
+    Berkeley v5.1 Database Libraries for Tcl [module]
+libexpat-gst (3.2.4-2)
+    Expat bindings for GNU Smalltalk
+libfilesystem-ruby1.9.1 (0.5-3.1)
+    Ruby1.9.1 extension for file-system information
+libgdbm-gst (3.2.4-2)
+    GDBM bindings for GNU Smalltalk
+libgl-gst (3.2.4-2)
+    OpenGL bindings for GNU Smalltalk
+libgtk2-gst (3.2.4-2)
+    GTK+ bindings and environment for GNU Smalltalk
+libgv-guile (2.26.3-14+deb7u2)
+    Guile bindings for graphviz
+libgv-lua (2.26.3-14+deb7u2)
+    Lua bindings for graphviz
+libgv-tcl (2.26.3-14+deb7u2)
+    Tcl bindings for graphviz
+libhamlib2-tcl (1.2.15.1-1)
+    Run-time library to control radio transceivers and receivers
+liblua5.1-apr1 (0.23.2-1)
+    Transitional package for lua-apr
+liblua5.1-apr1
+    virtual package provided by lua-apr
+liblua5.1-bitop0 (1.0.2-1)
+    Transitional package for lua-bitop
+liblua5.1-bitop0
+    virtual package provided by lua-bitop
+liblua5.1-cgi-dev (5.1.4+dfsg-2)
+    Transitional package for lua-cgi
+liblua5.1-cgi-dev
+    virtual package provided by lua-cgi
+liblua5.1-cgi0 (5.1.4+dfsg-2)
+    Transitional package for lua-cgi
+liblua5.1-cgi0
+    virtual package provided by lua-cgi
+liblua5.1-copas-dev (1.1.6-5)
+    Transitional package for lua-copas
+liblua5.1-copas-dev
+    virtual package provided by lua-copas
+liblua5.1-copas0 (1.1.6-5)
+    Transitional package for lua-copas
+liblua5.1-copas0
+    virtual package provided by lua-copas
+liblua5.1-cosmo0 (10.04.06-4)
+    Transitional package for lua-cosmo
+liblua5.1-cosmo0
+    virtual package provided by lua-cosmo
+liblua5.1-coxpcall0 (1.13.0-6)
+    Transitional package for lua-coxpcall
+liblua5.1-coxpcall0
+    virtual package provided by lua-coxpcall
+liblua5.1-cyrussasl0 (1.0.0-4)
+    Transitional package for lua-cyrussasl
+liblua5.1-cyrussasl0
+    virtual package provided by lua-cyrussasl
+liblua5.1-doc0 (3.0.1-5)
+    Transitional package for lua-doc
+liblua5.1-doc0
+    virtual package provided by lua-doc
+liblua5.1-event0 (0.4.1-2)
+    Transitional package for lua-event
+liblua5.1-event0
+    virtual package provided by lua-event
+liblua5.1-iconv0 (7-1)
+    Transitional package for lua-iconv
+liblua5.1-iconv0
+    virtual package provided by lua-iconv
+liblua5.1-json (1.3-1)
+    Transitional package for lua-json
+liblua5.1-json
+    virtual package provided by lua-json
+liblua5.1-leg0 (0.1.2-8)
+    Transitional package for lua-leg
+liblua5.1-leg0
+    virtual package provided by lua-leg
+liblua5.1-logging (1.2.0-1)
+    Transitional package for lua-logging
+liblua5.1-logging
+    virtual package provided by lua-logging
+liblua5.1-logging-dev (1.2.0-1)
+    Transitional package for lua-logging
+liblua5.1-logging-dev
+    virtual package provided by lua-logging
+liblua5.1-lpeg2 (0.10.2-5)
+    Transitional package for lua-lpeg
+liblua5.1-lpeg2
+    virtual package provided by lua-lpeg
+liblua5.1-markdown0 (0.32-4)
+    Transitional package for lua-markdown
+liblua5.1-markdown0
+    virtual package provided by lua-markdown
+liblua5.1-md5-0 (1.1.2-6)
+    Transitional package for lua-md5
+liblua5.1-md5-0
+    virtual package provided by lua-md5
+liblua5.1-oocairo0 (1.4-1.2)
+    provides Lua with full access to the Cairo vector graphics API
+liblua5.1-oopango0 (1.1-1)
+    provides Lua with full access to the Pango text rendering API
+liblua5.1-posix-dev (5.1.19-2)
+    Transitional package for lua-posix-dev
+liblua5.1-posix-dev
+    virtual package provided by lua-posix-dev
+liblua5.1-posix1 (5.1.19-2)
+    Transitional package for lua-posix
+liblua5.1-posix1
+    virtual package provided by lua-posix
+liblua5.1-rex-onig0 (2.6.0-2)
+    Transitional package for lua-rex-onig
+liblua5.1-rex-onig0
+    virtual package provided by lua-rex-onig
+liblua5.1-rex-pcre0 (2.6.0-2)
+    Transitional package for lua-rex-pcre
+liblua5.1-rex-pcre0
+    virtual package provided by lua-rex-pcre
+liblua5.1-rex-posix0 (2.6.0-2)
+    Transitional package for lua-rex-posix
+liblua5.1-rex-posix0
+    virtual package provided by lua-rex-posix
+liblua5.1-rings-dev (1.2.3-1)
+    Transitional package for lua-rings-dev
+liblua5.1-rings-dev
+    virtual package provided by lua-rings-dev
+liblua5.1-rings0 (1.2.3-1)
+    Transitional package for lua-rings
+liblua5.1-rings0
+    virtual package provided by lua-rings
+liblua5.1-rrd0 (1.4.7-2)
+    time-series data storage and display system (Lua 5.1 interface)
+liblua5.1-sec1 (0.4.1-1)
+    Transitional package for lua-sec
+liblua5.1-sec1
+    virtual package provided by lua-sec
+liblua5.1-soap-dev (3.0-3)
+    Transitional package for lua-soap
+liblua5.1-soap-dev
+    virtual package provided by lua-soap
+liblua5.1-soap0 (3.0-3)
+    Transitional package for lua-soap
+liblua5.1-soap0
+    virtual package provided by lua-soap
+liblua5.1-sql-mysql-2 (2.3.0-1+build0)
+    Transitional package for lua-sql-mysql
+liblua5.1-sql-mysql-2
+    virtual package provided by lua-sql-mysql
+liblua5.1-sql-postgres-2 (2.3.0-1+build0)
+    Transitional package for lua-sql-postgres
+liblua5.1-sql-postgres-2
+    virtual package provided by lua-sql-postgres
+liblua5.1-sql-sqlite3-2 (2.3.0-1+build0)
+    Transitional package for lua-sql-sqlite3
+liblua5.1-sql-sqlite3-2
+    virtual package provided by lua-sql-sqlite3
+liblua5.1-sql-sqlite3-dev (2.3.0-1+build0)
+    Transitional package for lua-sql-sqlite3-dev
+liblua5.1-sql-sqlite3-dev
+    virtual package provided by lua-sql-sqlite3-dev
+liblua5.1-svn-dev (0.4.0-7)
+    Transitional package for lua-svn-dev
+liblua5.1-svn-dev
+    virtual package provided by lua-svn-dev
+liblua5.1-svn1 (0.4.0-7)
+    Transitional package for lua-svn
+liblua5.1-svn1
+    virtual package provided by lua-svn
+liblua5.1-wsapi-fcgi-1 (1.5-3)
+    Transitional package for lua-wsapi-fcgi
+liblua5.1-wsapi-fcgi-1
+    virtual package provided by lua-wsapi-fcgi
+liblua5.1-wsapi1 (1.5-3)
+    Transitional package for lua-wsapi
+liblua5.1-wsapi1
+    virtual package provided by lua-wsapi
+liblua5.1-xmlrpc-dev (1.2.1-5)
+    Transitional package for lua-xmlrpc
+liblua5.1-xmlrpc-dev
+    virtual package provided by lua-xmlrpc
+liblua5.1-xmlrpc0 (1.2.1-5)
+    Transitional package for lua-xmlrpc
+liblua5.1-xmlrpc0
+    virtual package provided by lua-xmlrpc
+liblua5.1-zip-dev (1.2.3-11)
+    Transitional package for lua-zip-dev
+liblua5.1-zip-dev
+    virtual package provided by lua-zip-dev
+liblua5.1-zip0 (1.2.3-11)
+    Transitional package for lua-zip
+liblua5.1-zip0
+    virtual package provided by lua-zip
+libncurses-gst (3.2.4-2)
+    Ncurses bindings for GNU Smalltalk
+libow-tcl (2.8p15-1)
+    Dallas 1-wire support: Tcl bindings
+libpostgresql-gst (3.2.4-2)
+    PostgreSQL bindings for GNU Smalltalk
+libredcloth-ruby (4.2.9-2+deb7u2) [security]
+    Transitional package for ruby-redcloth
+libredcloth-ruby
+    virtual package provided by ruby-redcloth
+libredcloth-ruby1.8 (4.2.9-2+deb7u2) [security]
+    Transitional package for ruby-redcloth
+libredcloth-ruby1.8
+    virtual package provided by ruby-redcloth
+libsdl-gst (3.2.4-2)
+    SDL bindings for GNU Smalltalk
+libsdl-image-gst (3.2.4-2)
+    SDL_image bindings for GNU Smalltalk
+libsdl-mixer-gst (3.2.4-2)
+    SDL_mixer bindings for GNU Smalltalk
+libsdl-sound-gst (3.2.4-2)
+    SDL_sound bindings for GNU Smalltalk
+libsdl-ttf-gst (3.2.4-2)
+    SDL_ttf bindings for GNU Smalltalk
+libsqlite-tcl (2.8.17-7)
+    SQLite Tcl bindings
+libsqlite3-gst (3.2.4-2)
+    SQLite bindings for GNU Smalltalk
+libsqlite3-tcl (3.7.13-1+deb7u1)
+    SQLite 3 Tcl bindings
+libtcl-chiark-1 (1.1.1)
+    Tcl interfaces for adns, cdb, crypto, etc.
+libtcltk-ruby1.8 (1.8.7.358-7.1+deb7u2) [security]
+    Tcl/Tk interface for Ruby 1.8
+lua-apr (0.23.2-1)
+    Apache Portable Runtime library for the Lua language
+lua-bitop (1.0.2-1)
+    fast bit manipulation library for the Lua language
+lua-cgi (5.1.4+dfsg-2)
+    CGI library for the Lua language
+lua-copas (1.1.6-5)
+    Copas is a dispatcher of concurrent TCP/IP requests
+lua-cosmo (10.04.06-4)
+    Template library for the Lua language
+lua-coxpcall (1.13.0-6)
+    Protected function calls across coroutines for Lua
+lua-curl (0.3.0-7)
+    libcURL bindings for the Lua language version 5.1
+lua-curses (5.1.19-2)
+    curses library for the Lua language
+lua-cyrussasl (1.0.0-4)
+    Cyrus SASL library for the Lua language
+lua-dbi-common (0.5+svn78-4)
+    DBI library for the Lua language, common files
+lua-dbi-mysql (0.5+svn78-4)
+    DBI library for the Lua language, MySQL backend
+lua-dbi-postgresql (0.5+svn78-4)
+    DBI library for the Lua language, PostgreSQL backend
+lua-dbi-sqlite3 (0.5+svn78-4)
+    DBI library for the Lua language, sqlite3 backend
+lua-doc (3.0.1-5)
+    Documentation generator for lua
+lua-event (0.4.1-2)
+    asynchronous event notification library for Lua
+lua-expat (1.2.0-5+deb7u1)
+    libexpat bindings for the Lua language
+lua-filesystem (1.5.0+16+g84f1af5-1)
+    luafilesystem library for the Lua language
+lua-iconv (7-1)
+    iconv bindings for the Lua programming language
+lua-iconv-dev (7-1)
+    iconv bindings for Lua - development files
+lua-json (1.3-1)
+    JSON decoder/encoder for Lua
+lua-ldap (1.1.0-1-geeac494-3)
+    LDAP library for the Lua language
+lua-leg (0.1.2-8)
+    Lua 5.1 grammar, with parsing and manipulation facilities
+lua-lgi (0.6.2-1)
+    Lua bridge to GObject based libraries
+lua-logging (1.2.0-1)
+    Logging library for the Lua language
+lua-lpeg (0.10.2-5)
+    LPeg library for the Lua language
+lua-markdown (0.32-4)
+    Pure Lua 5.1 implementation of the Markdown text-to-html markup
+lua-md5 (1.1.2-6)
+    MD5 library for the Lua language
+lua-orbit (2.2.0+dfsg1-1)
+    MVC web framework for Lua
+lua-penlight (1.0.2+htmldoc-2)
+    Collection of general purpose libraries for the Lua language
+lua-posix (5.1.19-2)
+    posix library for the Lua language
+lua-rex-onig (2.6.0-2)
+    Onig regular expressions library for the Lua language
+lua-rex-pcre (2.6.0-2)
+    Perl regular expressions library for the Lua language
+lua-rex-posix (2.6.0-2)
+    POSIX regular expressions library for the Lua language
+lua-rex-tre (2.6.0-2)
+    TRE regular expressions library for the Lua language
+lua-rings (1.2.3-1)
+    Lua state creation and control library for the Lua language
+lua-sec (0.4.1-1)
+    SSL socket library for the Lua language
+lua-soap (3.0-3)
+    SOAP library for the Lua language
+lua-socket (2.0.2-8)
+    TCP/UDP socket library for the Lua language
+lua-sql-mysql (2.3.0-1+build0)
+    luasql library for the Lua language
+lua-sql-postgres (2.3.0-1+build0)
+    luasql library for the Lua language
+lua-sql-sqlite3 (2.3.0-1+build0)
+    luasql library for the Lua language
+lua-svn (0.4.0-7)
+    Subversion library for the Lua language
+lua-wsapi (1.5-3)
+    Web server API abstraction layer for the Lua language
+lua-wsapi-fcgi (1.5-3)
+    Web server API fastcgi backend
+lua-xmlrpc (1.2.1-5)
+    xmlrpc library for the Lua language
+lua-zip (1.2.3-11)
+    zip library for the Lua language
+lua-zlib (0.2-1)
+    zlib library for the Lua language
+lua5.1 (5.1.5-4+deb7u1)
+    Simple, extensible, embeddable programming language
+lua5.2 (5.2.1-3+deb7u1)
+    Simple, extensible, embeddable programming language
+lua50 (5.0.3-6)
+    Small embeddable language with simple procedural syntax
+luadoc (3.0.1-5)
+    Documentation generation library for the Lua language
+luarocks (2.0.9-1)
+    deployment and management system for Lua modules
+m4 (1.4.16-3)
+    a macro processing language
+mawk (1.3.3-17)
+    a pattern scanning and text processing language
+mono-devel (2.10.8.1-8+deb7u1) [security]
+    Mono development tools
+mono-runtime (2.10.8.1-8+deb7u1) [security]
+    Mono runtime
+neko (1.8.1-6+b1)
+    Lightweight virtual machine - compiler and tools
+newt-tcl (0.52.14-11.1)
+    NEWT module for Tcl
+nickle (2.76-1)
+    desk calculator language
+nqp (0.1~2012.01-5)
+    Not Quite Perl compiler
+openjdk-6-jre (6b34-1.13.6-1~deb7u1 [amd64, armel, armhf, i386, ia64, mipsel, powerpc, s390x], 6b33-1.13.5-2~deb7u1 [mips], 6b27-1.12.6-1~deb7u1 [s390, sparc]) [security]
+    OpenJDK Java runtime, using Hotspot JIT
+openjdk-6-jre-headless (6b34-1.13.6-1~deb7u1 [amd64, armel, armhf, i386, ia64, mipsel, powerpc, s390x], 6b33-1.13.5-2~deb7u1 [mips], 6b27-1.12.6-1~deb7u1 [s390, sparc]) [security]
+    OpenJDK Java runtime, using Hotspot JIT (headless)
+openjdk-6-jre-lib (6b34-1.13.6-1~deb7u1) [security]
+    OpenJDK Java runtime (architecture independent libraries)
+original-awk (2011-08-10-2)
+    The original awk described in "The AWK Programming Language"
+parrot (4.0.0-3)
+    virtual machine for dynamic languages
+parrot-minimal (4.0.0-3)
+    minimal install of the Parrot VM
+pforth (21-11)
+    portable Forth interpreter
+polyml (5.2.1-1.1)
+    interpreter and interactive compiler for the Standard ML programming language
+rakudo (0.1~2012.01-1)
+    Perl 6 implementation on top of Parrot virtual machine
+regina-rexx (3.6-2)
+    Regina REXX interpreter
+rep-gtk (1:0.90.0-2+b2 [kfreebsd-amd64], 1:0.90.0-2 [amd64, armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    GTK+ binding for librep
+rep-gtk-gnome (1:0.90.0-2)
+    Dummy package for transition
+rhino (1.7R3-5)
+    JavaScript engine written in Java
+ri1.8 (1.8.7.358-7.1+deb7u2) [security]
+    Ruby Interactive reference (for Ruby 1.8)
+ruby1.8 (1.8.7.358-7.1+deb7u2) [security]
+    Interpreter of object-oriented scripting language Ruby 1.8
+ruby1.8-examples (1.8.7.358-7.1+deb7u2) [security]
+    Examples for Ruby 1.8
+sdlbrt (0.0.20070714-4)
+    BASIC interpreter for game development - runtime interpreter
+seed (3.2.0-2)
+    GObject JavaScript bindings for the webkit engine - Interpreter
+shoes (0.r396-5.3)
+    tiny graphics and windowing toolkit using Ruby
+sisc (1.16.6-1.1)
+    A Java integrated, fully R5RS compliant Scheme system
+slang-cfitsio (0.3.8+nosvn-4.1)
+    read and write FITS files from S-Lang
+slang-curl (0.2.1-4.2)
+    transfer files using HTTP and FTP from S-Lang
+slang-expat (0.5.0-2)
+    S-Lang bindings for the expat XML parser
+slang-gdbm (1.7.1-4)
+    access to GDBM databases from S-Lang
+slang-gsl (0.7.0-5.1)
+    GNU Scientific Library binding for S-Lang
+slang-histogram (0.3.2a-3.1)
+    create and manipulate histograms from S-Lang
+slang-pvm (0.1.5-12.1)
+    PVM (Parallel Virtual Machine) interface for S-Lang
+slang-sqlite (0.4.0-3.1)
+    S-Lang bindings to the sqlite3 database library
+slang-tess (0.3.0-6)
+    regression testing system for the S-Lang scripting language
+slang-wildcard (0.5.0-2)
+    adds a wildcard match function to S-Lang
+slsh (2.2.4-15)
+    Interpreter for S-Lang language
+spidermonkey-bin (24.8.1esr-2~deb7u1 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, s390, s390x, sparc], 17.0.10esr-1~deb7u1 [ia64, mips, mipsel])
+    standalone JavaScript/ECMAScript (ECMA-262) interpreter
+squeak-vm (1:4.4.7.2357-1.1)
+    The Squeak Smalltalk System (virtual machine)
+swi-prolog (5.10.4-5)
+    ISO/Edinburgh-style Prolog interpreter
+swi-prolog-java (5.10.4-5)
+    Bidirectional interface between SWI-Prolog and Java
+swi-prolog-nox (5.10.4-5)
+    ISO/Edinburgh-style Prolog interpreter (without X support)
+swi-prolog-odbc (5.10.4-5)
+    ODBC library for SWI-Prolog
+swi-prolog-x (5.10.4-5)
+    User interface library for SWI-Prolog (with X support)
+swig (2.0.7-3)
+    Generate scripting interfaces to C/C++ code
+swig-examples (2.0.7-3)
+    Examples for applications of SWIG
+swig2.0 (2.0.7-3)
+    Generate scripting interfaces to C/C++ code
+swig2.0-examples (2.0.7-3)
+    Examples for applications of SWIG
+tcl (8.5.0-2.1)
+    The Tool Command Language (default version) - run-time files
+tcl-combat (0.8.1-1)
+    CORBA scripting with Tcl
+tcl-funtools (1.4.4-3)
+    Minimal buy-in FITS library (Tcl interface)
+tcl-memchan (2.3-2)
+    Tcl extension for in-memory channels - runtime library
+tcl-signal (1.4-1)
+    "Signal" extension for Tcl
+tcl-tclreadline (2.1.0-12)
+    GNU Readline Extension for Tcl/Tk
+tcl-tls (1.6+dfsg-3)
+    TLS OpenSSL extension to Tcl
+tcl-trf (2.1.4-dfsg1-1)
+    Tcl data transformations - runtime library
+tcl-vfs (1.3-20080503-3)
+    Exposes Tcl's virtual filesystem C API to the Tcl script level
+tcl-vtk (5.8.0-13+b1)
+    Tcl bindings for VTK
+tcl-xpa (2.1.14-2)
+    Seamless communication between Unix programs (Tcl interface)
+tcl8.4 (8.4.19-5)
+    Tcl (the Tool Command Language) v8.4 - run-time files
+tcl8.5 (8.5.11-2)
+    Tcl (the Tool Command Language) v8.5 - run-time files
+tcl8.5-kwwidgets (1.0.0~cvs20100930-8)
+    Cross-Platform GUI Toolkit - TCL/TK
+tclcurl (7.22.0-1)
+    Tcl bindings to libcurl
+tclex (1.2a1-15)
+    A lexical analyzer generator for Tcl
+tclgeoip (0.2-1)
+    Tcl extension implementing GeoIP lookup functions
+tcllib (1.14-dfsg-3)
+    Standard Tcl Library
+tclodbc (2.5.1-1.1)
+    The ODBC extension to Tcl
+tclspice (24-1) [non-free]
+    NGspice library for Tcl
+tclthread (1:2.6.7-1)
+    Tcl extension implementing script level access to Tcl threading capabilities
+tclx8.4 (8.4.0-3)
+    Extended Tcl (TclX) - shared library
+tclxapian (1.2.12-2)
+    Xapian search engine interface for Tcl
+tclxml (3.3~svn11-2)
+    Tcl library for XML parsing
+tix (8.4.3-4)
+    The Tix library for Tk -- runtime package
+tk (8.5.0-2.1)
+    The Tk toolkit for Tcl and X11 (default version) - run-time files
+tk-html3 (3.0~fossil20110109-2)
+    Render HTML and CSS content with tk
+tk-table (2.10-1)
+    Table extension for Tcl/Tk
+tk-tktray (1.3.9-2)
+    Freedesktop system tray icon support for Tcl/Tk on X11
+tk8.4 (8.4.19-5)
+    Tk toolkit for Tcl and X11, v8.4 - run-time files
+tk8.5 (8.5.11-2)
+    Tk toolkit for Tcl and X11, v8.5 - run-time files
+tkcon (2:2.5-1)
+    Enhanced interactive console for developing in Tcl
+tkinspect (5.1.6p10-4)
+    Tk application inspector for developing in Tcl
+tklib (0.5-3)
+    standard Tk Library
+xmltv (0.5.63-2)
+    Functionality related to the XMLTV file format for TV listings
+xmltv-gui (0.5.63-2)
+    Graphical user interface related to the XMLTV file format
+xmltv-util (0.5.63-2)
+    Utilities related to the XMLTV file format for TV listings
+yforth (0.1beta-23)
+    small freeware Forth environment in ANSI C
+zlib-gst (3.2.4-2)
+    Zlib bindings for GNU Smalltalk
+znc-tcl (0.206-2)
+    advanced modular IRC bouncer (Tcl extension) 

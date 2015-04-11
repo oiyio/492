@@ -1,0 +1,414 @@
+abiword (2.9.2+svn20120603-8)
+    efficient, featureful word processor with collaboration
+abiword-common (2.9.2+svn20120603-8)
+    efficient, featureful word processor with collaboration -- common files
+abiword-plugin-grammar (2.9.2+svn20120603-8)
+    grammar checking plugin for AbiWord
+abiword-plugin-mathview (2.9.2+svn20120603-8)
+    equation editor plugin for AbiWord
+alpine-pico (2.02+dfsg-2)
+    Simple text editor from Alpine, a text-based email client
+aoeui (1.6~dfsg-2)
+    lightweight, unobtrusive, Dvorak-optimized text editor
+apel (10.8-2)
+    portable library for emacsen
+axe (6.1.2-15.1) [non-free]
+    An editor for X
+bbe (0.2.2-1)
+    sed-like editor for binary files
+bear-factory (0.6.0-1+b1)
+    Editors for Plee the Bear
+beav (1:1.40-18)
+    binary editor and viewer
+bhl (1.7.3-2)
+    Emacs mode for converting annotated text to HTML and LaTeX
+bitmap-mule (8.5+0.20030825.0433-12)
+    bitmap handler for GNU Emacs
+bless (0.6.0-4)
+    A full featured hexadecimal editor
+bvi (1.3.2-2)
+    binary file editor
+cherrytree (0.25.4-1)
+    hierarchical note taking application
+cream (0.43-3)
+    VIM macros that make the VIM easier to use for beginners
+crypt++el (2.94-1)
+    Emacs-Lisp Code for handling compressed and encrypted files
+css-mode (0.11-7)
+    A Cascading Style Sheets (CSS) editing mode for Emacs
+cssed (0.4.0-4)
+    graphical CSS editor
+cxref-emacs (1.6d-6)
+    Generates LaTeX and HTML documentation for C programs
+dhex (0.67-1)
+    ncurses based hex editor with diff mode
+diffuse (0.4.6-1)
+    graphical tool for merging and comparing text files
+e3 (1:2.71-1)
+    A very small editor
+ed (1.6-2)
+    classic UNIX line editor
+editra (0.6.58-1)
+    simple multi-platform text editor
+efte (1.1-1)
+    Advanced lightweight configurable editor
+el-get (3.1-1)
+    install and manage elisp code for Emacs
+elvis (2.2.0-11.1)
+    powerful clone of the vi/ex text editor (with X11 support)
+elvis-common (2.2.0-11.1)
+    common files for elvis, elvis-console and elvis-tools
+elvis-console (2.2.0-11.1)
+    powerful clone of the vi/ex text editor (without X11 support)
+elvis-tiny (1.4-23)
+    Tiny vi compatible editor for the base system
+elvis-tools (2.2.0-11.1)
+    text editing tools for programmers (elvfmt, elvtags, ref)
+emacs (45.0)
+    GNU Emacs editor (metapackage)
+emacs23 (23.4+1-4)
+    The GNU Emacs editor (with GTK+ user interface)
+emacs23
+    virtual package provided by emacs23-nox, emacs23-lucid
+emacs23-bin-common (23.4+1-4)
+    The GNU Emacs editor's shared, architecture dependent files
+emacs23-common (23.4+1-4)
+    The GNU Emacs editor's shared, architecture independent infrastructure
+emacs23-common-non-dfsg (23.4+1-1) [non-free]
+    GNU Emacs shared, architecture independent, non-DFSG items
+emacs23-el (23.4+1-4)
+    GNU Emacs LISP (.el) files
+emacs23-lucid (23.4+1-4)
+    The GNU Emacs editor
+emacs23-nox (23.4+1-4)
+    The GNU Emacs editor (without X support)
+emacs24-common-non-dfsg (24.1+1-1) [non-free]
+    GNU Emacs common non-DFSG items, including the core documentation
+emacsen-common (2.0.5)
+    Common facilities for all emacsen
+emacspeak (29.0-9)
+    speech output interface to Emacs
+entagged (0.35-4)
+    Java Audio File Tagger
+exuberant-ctags (1:5.9~svn20110310-4+deb7u1)
+    build tag file indexes of source code definitions
+focuswriter (1.3.6-1)
+    Fullscreen distraction-free writing program
+freemind (0.9.0+dfsg-2)
+    Java Program for creating and viewing Mindmaps
+freemind-browser (0.9.0+dfsg-2)
+    Java Applet for publishing Mindmaps produced with FreeMind
+freemind-plugins-help (0.9.0+dfsg-2)
+    Java Plugin for FreeMind to show an extended online help
+freemind-plugins-script (0.9.0+dfsg-2)
+    Java Plugin for FreeMind to add scripting capabilities
+freemind-plugins-svg (0.9.0+dfsg-2)
+    Java Plugin for FreeMind to export Mindmaps to SVG and PDF
+freeplane (1.1.3-2)
+    Java program to create and edit mind maps.
+frescobaldi (2.0.5+ds1-1)
+    Qt4 LilyPond sheet music editor
+fte (0.50.2b6-1)
+    Text editor for programmers - base package
+fte-console (0.50.2b6-1)
+    Text editor for programmers - console edition, no I18N support
+fte-docs (0.50.2b6-1)
+    Documentation and examples for the FTE editor
+fte-terminal (0.50.2b6-1)
+    Text editor for programmers - version for terminals
+fte-xwindow (0.50.2b6-1)
+    Text editor for programmers - X Window System edition with I18N support
+gecrit (2.8.3-1)
+    simple, easy-to-use Python IDE
+gnuserv (3.12.8-3)
+    Allows you to attach to an already running Emacs
+goby (1.1-1)
+    WYSIWYG presentation tool for Emacs
+gwrite (0.5.1-2)
+    simple GTK+ HTML5 rich text editor
+hexedit (1.2.12-4)
+    view and edit files in hexadecimal or in ASCII
+html-helper-mode (3.0.4kilo-2)
+    A popular HTML editing mode for emacs
+inform-mode (1.5.8-3)
+    Emacs mode for editing Inform files
+initz (0.0.11+20030603cvs-17.1)
+    Handles the switching of various initialization files of emacsen
+jaxe (3.5-2)
+    JAva Xml Editor
+jed (1:0.99.19-2.1)
+    editor for programmers (textmode version)
+jed-common (1:0.99.19-2.1)
+    S-Lang runtime files for jed and xjed
+jed-extra (2.5.6-2)
+    collection of useful Jed modes and utilities
+jedit (4.5.2+dfsg-1)
+    Plugin-based editor for programmers
+jeex (12.0.4-1)
+    visual editor to view and edit files in hexadecimal
+joe (3.7-2.3)
+    user friendly full screen text editor
+joe
+    virtual package provided by joe-jupp
+joe-jupp (3.1.21-1)
+    reimplement the joe Debian package using jupp
+jove (4.16.0.73-1)
+    Jonathan's Own Version of Emacs - a compact, powerful editor
+js2-mode (0~20090723b-2)
+    Emacs mode for editing Javascript programs
+juffed (0.8.1-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.8.1-1 [armhf, s390x])
+    Lightweight Qt 4 text editor
+jupp (3.1.21-1)
+    user friendly full screen text editor
+jvim-canna (3.0-2.1b-3)
+    Japanized VIM (Canna version)
+kabikaboo (1.7-1)
+    Writing Assistant
+kate (4:4.8.4-1)
+    K Advanced Text Editor
+kimagemapeditor (4:4.8.4-1)
+    HTML image map editor
+kwrite (4:4.8.4-1)
+    simple graphical text editor
+le (1.14.3-2)
+    Text editor with block and binary operations
+leafpad (0.8.18.1-3)
+    GTK+ based simple text editor
+ledit (2.03-1)
+    line editor for interactive programs
+levee (3.5a-3)
+    very small vi clone
+lfhex (0.42-3.1)
+    large file hex editor
+libreoffice (1:3.5.4+dfsg2-0+deb7u3 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1:3.5.4+dfsg2-0+deb7u2 [ia64]) [security]
+    office productivity suite
+libreoffice-base-core (1:3.5.4+dfsg2-0+deb7u3 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1:3.5.4+dfsg2-0+deb7u2 [ia64]) [security]
+    office productivity suite -- shared library
+libreoffice-calc (1:3.5.4+dfsg2-0+deb7u3 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1:3.5.4+dfsg2-0+deb7u2 [ia64]) [security]
+    office productivity suite -- spreadsheet
+libreoffice-common (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- arch-independent files
+libreoffice-core (1:3.5.4+dfsg2-0+deb7u3 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1:3.5.4+dfsg2-0+deb7u2 [ia64]) [security]
+    office productivity suite -- arch-dependent files
+libreoffice-draw (1:3.5.4+dfsg2-0+deb7u3 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1:3.5.4+dfsg2-0+deb7u2 [ia64]) [security]
+    office productivity suite -- drawing
+libreoffice-emailmerge (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- email mail merge
+libreoffice-gcj (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Java libraries for GIJ
+libreoffice-impress (1:3.5.4+dfsg2-0+deb7u3 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1:3.5.4+dfsg2-0+deb7u2 [ia64]) [security]
+    office productivity suite -- presentation
+libreoffice-java-common (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- arch-independent Java support files
+libreoffice-math (1:3.5.4+dfsg2-0+deb7u3 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1:3.5.4+dfsg2-0+deb7u2 [ia64]) [security]
+    office productivity suite -- equation editor
+libreoffice-style-crystal (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Crystal symbol style
+libreoffice-style-galaxy (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Galaxy (Default) symbol style
+libreoffice-style-hicontrast (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Hicontrast symbol style
+libreoffice-style-oxygen (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Oxygen symbol style
+libreoffice-style-tango (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Tango symbol style
+libreoffice-writer (1:3.5.4+dfsg2-0+deb7u3 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1:3.5.4+dfsg2-0+deb7u2 [ia64]) [security]
+    office productivity suite -- word processor
+lpe (1.2.6.13-0.1)
+    Lightweight Programmer's Editor
+lua-mode (20110121-1)
+    Emacs mode for editing Lua programs
+lyx (2.0.3-3)
+    document processor
+lyx-common (2.0.3-3)
+    architecture-independent files for LyX
+malaga-mode (7.12-4)
+    System for automatic language analysis - emacs mode
+medit (1.0.93-1)
+    Useful programming and around-programming text editor
+mg (20110905-1.1)
+    microscopic GNU Emacs-style editor
+mmm-mode (0.4.8-7)
+    Multiple Major Mode for Emacs
+monkeystudio (1.9.0.2-2)
+    Qt 4 Integrated Development Environment (IDE)
+monkeystudio-common (1.9.0.2-2)
+    Qt 4 Integrated Development Environment (IDE) - common files
+morla (0.16.1-1.1)
+    GTK+ RDF editor
+mousepad (0.2.16-6)
+    simple Xfce oriented text editor
+nano (2.2.6-1+b2 [armhf], 2.2.6-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    small, friendly text editor inspired by Pico
+nano-tiny (2.2.6-1+b2 [armhf], 2.2.6-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    small, friendly text editor inspired by Pico - tiny build
+ncurses-hexedit (0.9.7-14.1)
+    Edit files/disks in hex, ASCII and EBCDIC
+ne (2.4-1)
+    easy-to-use and powerful text editor
+nedit (1:5.6~cvs20081118-7)
+    powerful, customizable, Motif based text editor
+ng-cjk (1.5~beta1-3)
+    Nihongo MicroGnuEmacs with CJK support
+ng-cjk-canna (1.5~beta1-3)
+    Nihongo MicroGnuEmacs with CJK and Canna support
+ng-common (1.5~beta1-3)
+    Common files used by ng-* packages
+ng-latin (1.5~beta1-3)
+    Nihongo MicroGnuEmacs with Latin support
+nvi (1.81.6-8.2)
+    4.4BSD re-implementation of vi
+omegat (2.3.0.1+dfsg-3)
+    Computer Assisted Translation (CAT) tool
+omegat-plugin-tokenizer (0.4.2+dfsg-2)
+    Lucene tokenizers plugin for OmegaT
+openoffice.org (1:3.4.0~ooo340m1-7)
+    office productivity suite
+openoffice.org-calc (1:3.4.0~ooo340m1-7)
+    office productivity suite -- spreadsheet
+openoffice.org-common (1:3.4.0~ooo340m1-7)
+    office productivity suite -- arch-independent files
+openoffice.org-draw (1:3.4.0~ooo340m1-7)
+    office productivity suite -- drawing
+openoffice.org-emailmerge (1:3.4.0~ooo340m1-7)
+    office productivity suite -- email mail merge
+openoffice.org-gcj (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Java libraries for GIJ
+openoffice.org-impress (1:3.4.0~ooo340m1-7)
+    office productivity suite -- presentation
+openoffice.org-java-common (1:3.4.0~ooo340m1-7)
+    office productivity suite -- arch-independent Java support files
+openoffice.org-math (1:3.4.0~ooo340m1-7)
+    office productivity suite -- equation editor
+openoffice.org-style-crystal (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Crystal symbol style
+openoffice.org-style-galaxy (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Galaxy (Default) symbol style
+openoffice.org-style-hicontrast (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Hicontrast symbol style
+openoffice.org-style-oxygen (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Oxygen symbol style
+openoffice.org-style-tango (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Tango symbol style
+openoffice.org-writer (1:3.4.0~ooo340m1-7)
+    office productivity suite -- word processor
+proofgeneral (4.2~pre120605-2)
+    generic frontend for proof assistants
+pyragua (0.2.5-5)
+    Very lightweight Python editor
+pyroom (0.4.1-6)
+    distractionless fullscreen text editor
+retext (3.1.0-1)
+    Simple text editor for Markdown and reStructuredText
+retext-wpgen (3.1.0-1)
+    Webpages generation tool for Markdown and reStructuredText
+rnc-mode (1.0b3-1)
+    Emacs editing mode for RELAX NG Compact syntax
+scala-mode-el (20111005-2)
+    Emacs major mode for editing scala source code
+scite (3.0.2-3)
+    Lightweight GTK-based Programming Editor
+sciteproj (0.7.05-2)
+    project manager for the SciTE editor
+scribes (0.4~r543-2)
+    simple, slim and sleek, yet powerful text editor for GNOME
+sml-mode (4.1-2)
+    Emacs major mode for editing Standard ML programs
+speechd-el (2.5-4)
+    Emacs speech client using Speech Dispatcher
+tads2-mode (1.2-2)
+    Emacs mode for editing TADS code
+tea (33.1.0-1)
+    text editor with syntax highlighting & UTF support
+tea-data (33.1.0-1)
+    text editor with syntax highlighting & UTF support (data files)
+tetradraw (2.0.3-8.2)
+    ANSI drawing and viewing utility
+texmacs (1:1.0.7.15-2)
+    WYSIWYG mathematical text editor using TeX fonts
+texmacs-common (1:1.0.7.15-2)
+    WYSIWYG mathematical text editor using TeX fonts
+texstudio (2.3+debian-3)
+    Latex Editor
+texworks (0.5~svn1007-1)
+    Environment for authoring TeX (LaTeX, ConTeXt, etc) documents
+texworks-help-en (0.5~svn1007-1)
+    English help files for TeXworks
+texworks-scripting-lua (0.5~svn1007-1)
+    Plugin to bring Lua scripting to TeXworks
+texworks-scripting-python (0.5~svn1007-1)
+    Plugin to bring Python scripting to TeXworks
+the (3.3~rc1-2)
+    Full-screen character mode text editor
+tweak (3.01-8)
+    Efficient text-mode hex editor
+vigor (0.016-19)
+    nvi with the evil paperclip
+vile (9.8g-2)
+    VI Like Emacs - vi work-alike
+vile-common (9.8g-2)
+    VI Like Emacs - support files for vile/xvile
+vile-filters (9.8g-2)
+    VI Like Emacs - highlighting filters for vile/xvile
+vim (2:7.3.547-7)
+    Vi IMproved - enhanced vi editor
+vim
+    virtual package provided by vim-gnome, vim-athena, vim-gtk, vim-nox
+vim-addon-manager (0.5.2)
+    manager of addons for the Vim editor
+vim-athena (2:7.3.547-7)
+    Vi IMproved - enhanced vi editor - with Athena GUI
+vim-common (2:7.3.547-7)
+    Vi IMproved - Common files
+vim-conque (2.3-1)
+    plugin for running interactive commands in a Vim buffer
+vim-gnome (2:7.3.547-7)
+    Vi IMproved - enhanced vi editor - with GNOME2 GUI
+vim-gtk (2:7.3.547-7)
+    Vi IMproved - enhanced vi editor - with GTK2 GUI
+vim-gui-common (2:7.3.547-7)
+    Vi IMproved - Common GUI files
+vim-latexsuite (20120125.768-2)
+    view, edit and compile LaTeX documents from within Vim
+vim-nox (2:7.3.547-7)
+    Vi IMproved - enhanced vi editor - with scripting languages support
+vim-rails (4.5~20110829-1)
+    vim development tools for Rails development
+vim-runtime (2:7.3.547-7)
+    Vi IMproved - Runtime files
+vim-scripts (20121007)
+    plugins for vim, adding bells and whistles
+vim-syntax-gtk (20110314-1)
+    Syntax files to highlight GTK+ keywords in vim
+vim-tiny (2:7.3.547-7)
+    Vi IMproved - enhanced vi editor - compact version
+vim-vimerl (1.4.1+git20120509.89111c7-2)
+    Erlang plugin for Vim
+vim-vimerl-syntax (1.4.1+git20120509.89111c7-2)
+    Erlang syntax for Vim
+vim-vimoutliner (0.3.4+pristine-9)
+    script for building an outline editor on top of Vim
+wily (0.13.41-7.2)
+    A work-alike of the Acme programming environment for Plan 9
+wordgrinder (0.3.3-1)
+    a simple word processor that runs in a terminal
+writetype (1.2.130+bzr139-1)
+    application designed to help students write more easily
+x2 (1.1.0-1)
+    brand new Text Editor for the GNOME desktop
+xjed (1:0.99.19-2.1)
+    editor for programmers (x11 version)
+xtrkcad (1:4.0.2-2+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1:4.0.2-2 [armhf, s390x])
+    Model Train Track CAD Program
+xvile (9.8g-2)
+    VI Like Emacs - vi work-alike (X11)
+xwpe (1.5.30a-2.1)
+    Programming environment and editor for console and X11
+yaml-mode (0.0.7-1)
+    emacs mode for YAML files
+yudit (2.8.1-4)
+    Unicode text editor (arch-dependent binaries)
+yudit-common (2.8.1-4)
+    Unicode text editor (arch-independent files)
+zile (2.3.21-1)
+    very small Emacs-subset editor

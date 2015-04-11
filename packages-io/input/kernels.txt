@@ -1,0 +1,638 @@
+atmel-firmware (1.3-4) [non-free]
+    Firmware for Atmel at76c50x wireless networking chips.
+aufs-tools (1:3.0+20120411-2)
+    Tools to manage aufs filesystems
+backfire-dkms (0.83-1+deb7u1)
+    kernel module for signal benchmarking (DKMS)
+blcr-dkms (0.8.5-2)
+    DKMS support for BLCR kernel module
+blktap-dkms (2.0.91-1)
+    Xen API blktap kernel component DKMS package
+bluez-firmware (1.2-3) [non-free]
+    Firmware for Bluetooth devices
+broadcom-sta-dkms (5.100.82.112-8) [non-free]
+    dkms source for the Broadcom STA Wireless driver
+cloop-src (2.6.39.2-1)
+    Source of the compressed loopback device module
+dahdi-source (1:2.6.1+dfsg2-1)
+    DAHDI telephony interface - source code for kernel driver
+device3dfx-source (2011.07.03-1)
+    Linux 2.2+ device driver source for 3Dfx boards
+dkms (2.2.0.3-1.2)
+    Dynamic Kernel Module Support Framework
+fglrx-modules-dkms (1:12-6+point-3) [non-free]
+    dkms module source for the non-free ATI/AMD RadeonHD display driver
+fglrx-source (1:12-6+point-3) [non-free]
+    kernel module source for the non-free ATI/AMD RadeonHD display driver
+firmware-atheros (0.36+wheezy.1) [non-free]
+    Binary firmware for Atheros wireless cards
+firmware-b43-installer (1:015-14.1) [contrib]
+    Installer package for firmware for the b43 driver
+firmware-b43-lpphy-installer (1:015-14.1) [contrib]
+    Installer package for firmware for the b43 driver (LP-PHY version)
+firmware-b43legacy-installer (1:015-14.1) [contrib]
+    Installer package for firmware for the b43legacy driver
+firmware-bnx2 (0.36+wheezy.1) [non-free]
+    Binary firmware for Broadcom NetXtremeII
+firmware-bnx2x (0.36+wheezy.1) [non-free]
+    Binary firmware for Broadcom NetXtreme II 10Gb
+firmware-brcm80211 (0.36+wheezy.1) [non-free]
+    Binary firmware for Broadcom 802.11 wireless cards
+firmware-intelwimax (0.36+wheezy.1) [non-free]
+    Binary firmware for Intel WiMAX Connection
+firmware-ipw2x00 (0.36+wheezy.1) [non-free]
+    Binary firmware for Intel Pro Wireless 2100, 2200 and 2915
+firmware-ivtv (0.36+wheezy.1) [non-free]
+    Binary firmware for iTVC15-family MPEG codecs (ivtv and pvrusb2 drivers)
+firmware-iwlwifi (0.36+wheezy.1) [non-free]
+    Binary firmware for Intel PRO/Wireless 3945 and 802.11n cards
+firmware-libertas (0.36+wheezy.1) [non-free]
+    Binary firmware for Marvell Libertas 8xxx wireless cards
+firmware-linux (0.36+wheezy.1) [non-free]
+    Binary firmware for various drivers in the Linux kernel (meta-package)
+firmware-linux-free (3.2)
+    Binary firmware for various drivers in the Linux kernel
+firmware-linux-nonfree (0.36+wheezy.1) [non-free]
+    Binary firmware for various drivers in the Linux kernel
+firmware-myricom (0.36+wheezy.1) [non-free]
+    Binary firmware for Myri-10G Ethernet adapters
+firmware-netxen (0.36+wheezy.1) [non-free]
+    Binary firmware for QLogic Intelligent Ethernet (3000 and 3100 Series)
+firmware-qlogic (0.36+wheezy.1) [non-free]
+    Binary firmware for QLogic IBA7220, QLA1xxx, ISP2xxx and SP2x2
+firmware-ralink (0.36+wheezy.1) [non-free]
+    Binary firmware for Ralink wireless cards
+firmware-realtek (0.36+wheezy.1) [non-free]
+    Binary firmware for Realtek wired and wireless network adapters
+fuse4bsd-dkms (0.3.9~pre1.20080208-4)
+    FUSE module for kFreeBSD
+gnumach (2:1.3.99.dfsg.git20120610-1)
+    Dummy transition package for gnumach-image-*
+gnumach
+    virtual package provided by gnumach-image-1.3.99-486-dbg, gnumach-image-1.3.99-xen-486-dbg
+gnumach-image-1-486 (2:1.3.99.dfsg.git20120610-1)
+    GNU version of the Mach microkernel
+gnumach-image-1-xen-486 (2:1.3.99.dfsg.git20120610-1)
+    GNU version of the Mach microkernel
+gnumach-image-1.3.99-486 (2:1.3.99.dfsg.git20120610-1)
+    GNU version of the Mach microkernel
+gnumach-image-1.3.99-xen-486 (2:1.3.99.dfsg.git20120610-1)
+    GNU version of the Mach microkernel for Xen
+grub-invaders (1.0.0-12)
+    multiboot compliant kernel game
+iscsitarget-dkms (1.4.20.2-10.1)
+    iSCSI Enterprise Target kernel module source - dkms version
+kernel-package (12.036+nmu3)
+    A utility for building Linux kernel related Debian packages.
+kernel-patch-atopacct (1:1.23-1)
+    save additional statistical counters for atop in the record
+kernel-patch-atopcnt (1:1.23-1)
+    additional statistical counters for atop
+kernel-patch-grsecurity2 (2.9.1+3.2.21-201206221855-1)
+    transitional package for Debian Lenny
+kernel-patch-scripts (0.99.36+nmu1)
+    Scripts to help dealing with packaged kernel patches
+kernel-patch-viewos (0.20120115-2)
+    View-OS - Kernel patch for better UMView performances
+kfreebsd-downloader (9.0-3+deb70.1) [contrib]
+    kernel of FreeBSD (upstream version)
+kfreebsd-downloader-9 (9.0-3+deb70.1) [contrib]
+    kernel of FreeBSD (upstream version)
+kfreebsd-downloader-9.0 (9.0-3+deb70.1) [contrib]
+    kernel of FreeBSD (upstream version)
+kfreebsd-headers-486 (9+1)
+    header files for kernel of FreeBSD (meta-package)
+kfreebsd-headers-686 (9+1)
+    header files for kernel of FreeBSD (meta-package)
+kfreebsd-headers-8-486 (8.3-6+deb7u1)
+    header files for kernel of FreeBSD 9 (meta-package)
+kfreebsd-headers-8-686 (8.3-6+deb7u1)
+    header files for kernel of FreeBSD 9 (meta-package)
+kfreebsd-headers-8-686-smp (8.3-6+deb7u1)
+    header files for kernel of FreeBSD 8 (transitional package)
+kfreebsd-headers-8-amd64 (8.3-6+deb7u1)
+    header files for kernel of FreeBSD 9 (meta-package)
+kfreebsd-headers-8-malta (8.3-6+deb7u1)
+    header files for kernel of FreeBSD 9 (meta-package)
+kfreebsd-headers-8-xen (8.3-6+deb7u1)
+    header files for kernel of FreeBSD 9 (meta-package)
+kfreebsd-headers-8.3-1 (8.3-6+deb7u1)
+    Common architecture-specific header files for kernel of FreeBSD 8.3
+kfreebsd-headers-8.3-1-486 (8.3-6+deb7u1)
+    header files for kernel of FreeBSD 8.3
+kfreebsd-headers-8.3-1-686 (8.3-6+deb7u1)
+    header files for kernel of FreeBSD 8.3
+kfreebsd-headers-8.3-1-686-smp (8.3-6+deb7u1)
+    header files for kernel of FreeBSD 8.3 (transitional package)
+kfreebsd-headers-8.3-1-amd64 (8.3-6+deb7u1)
+    header files for kernel of FreeBSD 8.3
+kfreebsd-headers-8.3-1-malta (8.3-6+deb7u1)
+    header files for kernel of FreeBSD 8.3
+kfreebsd-headers-8.3-1-xen (8.3-6+deb7u1)
+    header files for kernel of FreeBSD 8.3
+kfreebsd-headers-9-486 (9.0-10+deb70.9) [security]
+    header files for kernel of FreeBSD 9 (meta-package)
+kfreebsd-headers-9-686 (9.0-10+deb70.9) [security]
+    header files for kernel of FreeBSD 9 (meta-package)
+kfreebsd-headers-9-686-smp (9.0-10+deb70.9) [security]
+    header files for kernel of FreeBSD 9 (transitional package)
+kfreebsd-headers-9-amd64 (9.0-10+deb70.9) [security]
+    header files for kernel of FreeBSD 9 (meta-package)
+kfreebsd-headers-9-malta (9.0-10+deb70.9) [security]
+    header files for kernel of FreeBSD 9 (meta-package)
+kfreebsd-headers-9-xen (9.0-10+deb70.9) [security]
+    header files for kernel of FreeBSD 9 (meta-package)
+kfreebsd-headers-9.0-2 (9.0-10+deb70.9 [amd64, i386, kfreebsd-amd64, kfreebsd-i386, mipsel], 9.0-10+deb70.7 [armel, armhf, ia64, mips, powerpc, s390, s390x, sparc]) [security]
+    Common architecture-specific header files for kernel of FreeBSD 9.0
+kfreebsd-headers-9.0-2-486 (9.0-10+deb70.9) [security]
+    header files for kernel of FreeBSD 9.0
+kfreebsd-headers-9.0-2-686 (9.0-10+deb70.9) [security]
+    header files for kernel of FreeBSD 9.0
+kfreebsd-headers-9.0-2-686-smp (9.0-10+deb70.9) [security]
+    header files for kernel of FreeBSD 9.0 (transitional package)
+kfreebsd-headers-9.0-2-amd64 (9.0-10+deb70.9) [security]
+    header files for kernel of FreeBSD 9.0
+kfreebsd-headers-9.0-2-malta (9.0-10+deb70.9) [security]
+    header files for kernel of FreeBSD 9.0
+kfreebsd-headers-9.0-2-xen (9.0-10+deb70.9) [security]
+    header files for kernel of FreeBSD 9.0
+kfreebsd-headers-amd64 (9+1)
+    header files for kernel of FreeBSD (meta-package)
+kfreebsd-headers-malta (9+1)
+    header files for kernel of FreeBSD (meta-package)
+kfreebsd-headers-xen (9+1)
+    header files for kernel of FreeBSD (meta-package)
+kfreebsd-image-486 (9+1)
+    kernel of FreeBSD (meta-package)
+kfreebsd-image-686 (9+1)
+    kernel of FreeBSD (meta-package)
+kfreebsd-image-8-486 (8.3-6+deb7u1)
+    kernel of FreeBSD 9 (meta-package)
+kfreebsd-image-8-686 (8.3-6+deb7u1)
+    kernel of FreeBSD 9 (meta-package)
+kfreebsd-image-8-686-smp (8.3-6+deb7u1)
+    kernel of FreeBSD 8 (transitional package)
+kfreebsd-image-8-amd64 (8.3-6+deb7u1)
+    kernel of FreeBSD 9 (meta-package)
+kfreebsd-image-8-malta (8.3-6+deb7u1)
+    kernel of FreeBSD 9 (meta-package)
+kfreebsd-image-8-xen (8.3-6+deb7u1)
+    kernel of FreeBSD 9 (meta-package)
+kfreebsd-image-8.3-1-486 (8.3-6+deb7u1)
+    kernel of FreeBSD 8.3 image
+kfreebsd-image-8.3-1-686 (8.3-6+deb7u1)
+    kernel of FreeBSD 8.3 image
+kfreebsd-image-8.3-1-686-smp (8.3-6+deb7u1)
+    kernel of FreeBSD 8.3 (transitional package)
+kfreebsd-image-8.3-1-amd64 (8.3-6+deb7u1)
+    kernel of FreeBSD 8.3 image
+kfreebsd-image-8.3-1-malta (8.3-6+deb7u1)
+    kernel of FreeBSD 8.3 image
+kfreebsd-image-8.3-1-xen (8.3-6+deb7u1)
+    kernel of FreeBSD 8.3 image
+kfreebsd-image-9-486 (9.0-10+deb70.9) [security]
+    kernel of FreeBSD 9 image (meta-package)
+kfreebsd-image-9-686 (9.0-10+deb70.9) [security]
+    kernel of FreeBSD 9 image (meta-package)
+kfreebsd-image-9-686-smp (9.0-10+deb70.9) [security]
+    kernel of FreeBSD 9 (transitional package)
+kfreebsd-image-9-amd64 (9.0-10+deb70.9) [security]
+    kernel of FreeBSD 9 image (meta-package)
+kfreebsd-image-9-malta (9.0-10+deb70.9) [security]
+    kernel of FreeBSD 9 image (meta-package)
+kfreebsd-image-9-xen (9.0-10+deb70.9) [security]
+    kernel of FreeBSD 9 image (meta-package)
+kfreebsd-image-9.0-2-486 (9.0-10+deb70.9) [security]
+    kernel of FreeBSD 9.0 image
+kfreebsd-image-9.0-2-686 (9.0-10+deb70.9) [security]
+    kernel of FreeBSD 9.0 image
+kfreebsd-image-9.0-2-686-smp (9.0-10+deb70.9) [security]
+    kernel of FreeBSD 9.0 (transitional package)
+kfreebsd-image-9.0-2-amd64 (9.0-10+deb70.9) [security]
+    kernel of FreeBSD 9.0 image
+kfreebsd-image-9.0-2-malta (9.0-10+deb70.9) [security]
+    kernel of FreeBSD 9.0 image
+kfreebsd-image-9.0-2-xen (9.0-10+deb70.9) [security]
+    kernel of FreeBSD 9.0 image
+kfreebsd-image-amd64 (9+1)
+    kernel of FreeBSD (meta-package)
+kfreebsd-image-malta (9+1)
+    kernel of FreeBSD (meta-package)
+kfreebsd-image-xen (9+1)
+    kernel of FreeBSD (meta-package)
+kfreebsd-kernel-headers (0.83)
+    kFreeBSD headers for development
+kfreebsd-source-8.3 (8.3-6+deb7u1)
+    source code for kernel of FreeBSD 8.3 with Debian patches
+kfreebsd-source-9.0 (9.0-10+deb70.9) [security]
+    source code for kernel of FreeBSD 9.0 with Debian patches
+leds-alix-source (0.0.1-1.1)
+    Source for the LEDs driver of PCEngines ALIX 2/3 boards
+libertas-firmware (9.70.7.p0.0-2) [non-free]
+    Firmware for Marvell's libertas wireless chip series (dummy package)
+libertas-firmware
+    virtual package provided by firmware-libertas
+linux-base (3.5)
+    Linux image base package
+linux-headers-3.2.0-4-486 (3.2.65-1+deb7u2) [security]
+    Header files for Linux 3.2.0-4-486
+linux-headers-3.2.0-4-4kc-malta (3.2.65-1+deb7u2) [security]
+    Header files for Linux 3.2.0-4-4kc-malta
+linux-headers-3.2.0-4-5kc-malta (3.2.65-1+deb7u2) [security]
+    Header files for Linux 3.2.0-4-5kc-malta
+linux-headers-3.2.0-4-686-pae (3.2.65-1+deb7u2) [security]
+    Header files for Linux 3.2.0-4-686-pae
+linux-headers-3.2.0-4-all (3.2.65-1+deb7u2) [security]
+    All header files for Linux 3.2 (meta-package)
+linux-headers-3.2.0-4-all-amd64 (3.2.65-1+deb7u2) [security]
+    All header files for Linux 3.2 (meta-package)
+linux-headers-3.2.0-4-all-armel (3.2.65-1+deb7u2) [security]
+    All header files for Linux 3.2 (meta-package)
+linux-headers-3.2.0-4-all-armhf (3.2.65-1+deb7u2) [security]
+    All header files for Linux 3.2 (meta-package)
+linux-headers-3.2.0-4-all-i386 (3.2.65-1+deb7u2) [security]
+    All header files for Linux 3.2 (meta-package)
+linux-headers-3.2.0-4-all-ia64 (3.2.65-1+deb7u2) [security]
+    All header files for Linux 3.2 (meta-package)
+linux-headers-3.2.0-4-all-mips (3.2.65-1+deb7u2) [security]
+    All header files for Linux 3.2 (meta-package)
+linux-headers-3.2.0-4-all-mipsel (3.2.65-1+deb7u2) [security]
+    All header files for Linux 3.2 (meta-package)
+linux-headers-3.2.0-4-all-powerpc (3.2.65-1+deb7u2) [security]
+    All header files for Linux 3.2 (meta-package)
+linux-headers-3.2.0-4-all-s390 (3.2.65-1+deb7u2) [security]
+    All header files for Linux 3.2 (meta-package)
+linux-headers-3.2.0-4-all-s390x (3.2.65-1+deb7u2) [security]
+    All header files for Linux 3.2 (meta-package)
+linux-headers-3.2.0-4-all-sparc (3.2.65-1+deb7u2) [security]
+    All header files for Linux 3.2 (meta-package)
+linux-headers-3.2.0-4-amd64 (3.2.65-1+deb7u2) [security]
+    Header files for Linux 3.2.0-4-amd64
+linux-headers-3.2.0-4-common (3.2.65-1+deb7u2) [security]
+    Common header files for Linux 3.2.0-4
+linux-headers-3.2.0-4-common-rt (3.2.65-1+deb7u2) [security]
+    Common header files for Linux 3.2.0-4-rt
+linux-headers-3.2.0-4-iop32x (3.2.65-1+deb7u2) [security]
+    Header files for Linux 3.2.0-4-iop32x
+linux-headers-3.2.0-4-itanium (3.2.65-1+deb7u2) [security]
+    Header files for Linux 3.2.0-4-itanium
+linux-headers-3.2.0-4-ixp4xx (3.2.65-1+deb7u2) [security]
+    Header files for Linux 3.2.0-4-ixp4xx
+linux-headers-3.2.0-4-kirkwood (3.2.65-1+deb7u2) [security]
+    Header files for Linux 3.2.0-4-kirkwood
+linux-headers-3.2.0-4-loongson-2f (3.2.65-1+deb7u2) [security]
+    Header files for Linux 3.2.0-4-loongson-2f
+linux-headers-3.2.0-4-mckinley (3.2.65-1+deb7u2) [security]
+    Header files for Linux 3.2.0-4-mckinley
+linux-headers-3.2.0-4-mv78xx0 (3.2.65-1+deb7u2) [security]
+    Header files for Linux 3.2.0-4-mv78xx0
+linux-headers-3.2.0-4-mx5 (3.2.65-1+deb7u2) [security]
+    Header files for Linux 3.2.0-4-mx5
+linux-headers-3.2.0-4-octeon (3.2.65-1+deb7u2) [security]
+    Header files for Linux 3.2.0-4-octeon
+linux-headers-3.2.0-4-omap (3.2.65-1+deb7u2) [security]
+    Header files for Linux 3.2.0-4-omap
+linux-headers-3.2.0-4-orion5x (3.2.65-1+deb7u2) [security]
+    Header files for Linux 3.2.0-4-orion5x
+linux-headers-3.2.0-4-powerpc (3.2.65-1+deb7u2) [security]
+    Header files for Linux 3.2.0-4-powerpc
+linux-headers-3.2.0-4-powerpc-smp (3.2.65-1+deb7u2) [security]
+    Header files for Linux 3.2.0-4-powerpc-smp
+linux-headers-3.2.0-4-powerpc64 (3.2.65-1+deb7u2) [security]
+    Header files for Linux 3.2.0-4-powerpc64
+linux-headers-3.2.0-4-r4k-ip22 (3.2.65-1+deb7u2) [security]
+    Header files for Linux 3.2.0-4-r4k-ip22
+linux-headers-3.2.0-4-r5k-cobalt (3.2.65-1+deb7u2) [security]
+    Header files for Linux 3.2.0-4-r5k-cobalt
+linux-headers-3.2.0-4-r5k-ip32 (3.2.65-1+deb7u2) [security]
+    Header files for Linux 3.2.0-4-r5k-ip32
+linux-headers-3.2.0-4-rt-686-pae (3.2.65-1+deb7u2) [security]
+    Header files for Linux 3.2.0-4-rt-686-pae
+linux-headers-3.2.0-4-rt-amd64 (3.2.65-1+deb7u2) [security]
+    Header files for Linux 3.2.0-4-rt-amd64
+linux-headers-3.2.0-4-s390x (3.2.65-1+deb7u2) [security]
+    Header files for Linux 3.2.0-4-s390x
+linux-headers-3.2.0-4-sb1-bcm91250a (3.2.65-1+deb7u2) [security]
+    Header files for Linux 3.2.0-4-sb1-bcm91250a
+linux-headers-3.2.0-4-sb1a-bcm91480b (3.2.65-1+deb7u2) [security]
+    Header files for Linux 3.2.0-4-sb1a-bcm91480b
+linux-headers-3.2.0-4-sparc64 (3.2.65-1+deb7u2) [security]
+    Header files for Linux 3.2.0-4-sparc64
+linux-headers-3.2.0-4-sparc64-smp (3.2.65-1+deb7u2) [security]
+    Header files for Linux 3.2.0-4-sparc64-smp
+linux-headers-3.2.0-4-versatile (3.2.65-1+deb7u2) [security]
+    Header files for Linux 3.2.0-4-versatile
+linux-headers-3.2.0-4-vexpress (3.2.65-1+deb7u2) [security]
+    Header files for Linux 3.2.0-4-vexpress
+linux-headers-486 (3.2+46)
+    Header files for Linux 486 configuration (meta-package)
+linux-headers-4kc-malta (3.2+46)
+    Header files for Linux 4kc-malta configuration (meta-package)
+linux-headers-5kc-malta (3.2+46)
+    Header files for Linux 5kc-malta configuration (meta-package)
+linux-headers-686-pae (3.2+46)
+    Header files for Linux 686-pae configuration (meta-package)
+linux-headers-amd64 (3.2+46)
+    Header files for Linux amd64 configuration (meta-package)
+linux-headers-iop32x (3.2+46)
+    Header files for Linux iop32x configuration (meta-package)
+linux-headers-itanium (3.2+46)
+    Header files for Linux itanium configuration (meta-package)
+linux-headers-ixp4xx (3.2+46)
+    Header files for Linux ixp4xx configuration (meta-package)
+linux-headers-kirkwood (3.2+46)
+    Header files for Linux kirkwood configuration (meta-package)
+linux-headers-loongson-2f (3.2+46)
+    Header files for Linux loongson-2f configuration (meta-package)
+linux-headers-mckinley (3.2+46)
+    Header files for Linux mckinley configuration (meta-package)
+linux-headers-mv78xx0 (3.2+46)
+    Header files for Linux mv78xx0 configuration (meta-package)
+linux-headers-mx5 (3.2+46)
+    Header files for Linux mx5 configuration (meta-package)
+linux-headers-octeon (3.2+46)
+    Header files for Linux octeon configuration (meta-package)
+linux-headers-omap (3.2+46)
+    Header files for Linux omap configuration (meta-package)
+linux-headers-orion5x (3.2+46)
+    Header files for Linux orion5x configuration (meta-package)
+linux-headers-powerpc (3.2+46)
+    Header files for Linux powerpc configuration (meta-package)
+linux-headers-powerpc-smp (3.2+46)
+    Header files for Linux powerpc-smp configuration (meta-package)
+linux-headers-powerpc64 (3.2+46)
+    Header files for Linux powerpc64 configuration (meta-package)
+linux-headers-r4k-ip22 (3.2+46)
+    Header files for Linux r4k-ip22 configuration (meta-package)
+linux-headers-r5k-cobalt (3.2+46)
+    Header files for Linux r5k-cobalt configuration (meta-package)
+linux-headers-r5k-ip32 (3.2+46)
+    Header files for Linux r5k-ip32 configuration (meta-package)
+linux-headers-rt-686-pae (3.2+46)
+    Header files for Linux rt-686-pae configuration (meta-package)
+linux-headers-rt-amd64 (3.2+46)
+    Header files for Linux rt-amd64 configuration (meta-package)
+linux-headers-s390x (3.2+46)
+    Header files for Linux s390x configuration (meta-package)
+linux-headers-sb1-bcm91250a (3.2+46)
+    Header files for Linux sb1-bcm91250a configuration (meta-package)
+linux-headers-sb1a-bcm91480b (3.2+46)
+    Header files for Linux sb1a-bcm91480b configuration (meta-package)
+linux-headers-sparc64 (3.2+46)
+    Header files for Linux sparc64 configuration (meta-package)
+linux-headers-sparc64-smp (3.2+46)
+    Header files for Linux sparc64-smp configuration (meta-package)
+linux-headers-versatile (3.2+46)
+    Header files for Linux versatile configuration (meta-package)
+linux-headers-vexpress (3.2+46)
+    Header files for Linux vexpress configuration (meta-package)
+linux-image-3.2.0-4-486 (3.2.65-1+deb7u2) [security]
+    Linux 3.2 for older PCs
+linux-image-3.2.0-4-4kc-malta (3.2.65-1+deb7u2) [security]
+    Linux 3.2 for MIPS Malta
+linux-image-3.2.0-4-5kc-malta (3.2.65-1+deb7u2) [security]
+    Linux 3.2 for MIPS Malta (64-bit)
+linux-image-3.2.0-4-686-pae (3.2.65-1+deb7u2) [security]
+    Linux 3.2 for modern PCs
+linux-image-3.2.0-4-amd64 (3.2.65-1+deb7u2) [security]
+    Linux 3.2 for 64-bit PCs
+linux-image-3.2.0-4-iop32x (3.2.65-1+deb7u2) [security]
+    Linux 3.2 for IOP32x
+linux-image-3.2.0-4-itanium (3.2.65-1+deb7u2) [security]
+    Linux 3.2 for Itanium
+linux-image-3.2.0-4-ixp4xx (3.2.65-1+deb7u2) [security]
+    Linux 3.2 for IXP4xx
+linux-image-3.2.0-4-kirkwood (3.2.65-1+deb7u2) [security]
+    Linux 3.2 for Marvell Kirkwood
+linux-image-3.2.0-4-loongson-2f (3.2.65-1+deb7u2) [security]
+    Linux 3.2 for Loongson 2F
+linux-image-3.2.0-4-mckinley (3.2.65-1+deb7u2) [security]
+    Linux 3.2 for Itanium II
+linux-image-3.2.0-4-mv78xx0 (3.2.65-1+deb7u2) [security]
+    Linux 3.2 for Marvell 78xx0
+linux-image-3.2.0-4-mx5 (3.2.65-1+deb7u2) [security]
+    Linux 3.2 for Freescale i.MX51/53
+linux-image-3.2.0-4-octeon (3.2.65-1+deb7u2) [security]
+    Linux 3.2 for Octeon
+linux-image-3.2.0-4-omap (3.2.65-1+deb7u2) [security]
+    Linux 3.2 for TI OMAP3+
+linux-image-3.2.0-4-orion5x (3.2.65-1+deb7u2) [security]
+    Linux 3.2 for Marvell Orion
+linux-image-3.2.0-4-powerpc (3.2.65-1+deb7u2) [security]
+    Linux 3.2 for uniprocessor 32-bit PowerPC
+linux-image-3.2.0-4-powerpc-smp (3.2.65-1+deb7u2) [security]
+    Linux 3.2 for multiprocessor 32-bit PowerPC
+linux-image-3.2.0-4-powerpc64 (3.2.65-1+deb7u2) [security]
+    Linux 3.2 for 64-bit PowerPC
+linux-image-3.2.0-4-r4k-ip22 (3.2.65-1+deb7u2) [security]
+    Linux 3.2 for SGI IP22
+linux-image-3.2.0-4-r5k-cobalt (3.2.65-1+deb7u2) [security]
+    Linux 3.2 for Cobalt
+linux-image-3.2.0-4-r5k-ip32 (3.2.65-1+deb7u2) [security]
+    Linux 3.2 for SGI IP32
+linux-image-3.2.0-4-rt-686-pae (3.2.65-1+deb7u2) [security]
+    Linux 3.2 for modern PCs, PREEMPT_RT
+linux-image-3.2.0-4-rt-amd64 (3.2.65-1+deb7u2) [security]
+    Linux 3.2 for 64-bit PCs, PREEMPT_RT
+linux-image-3.2.0-4-s390x (3.2.65-1+deb7u2) [security]
+    Linux 3.2 for IBM zSeries
+linux-image-3.2.0-4-s390x-tape (3.2.65-1+deb7u2) [security]
+    Linux 3.2 for IBM zSeries, IPL from tape
+linux-image-3.2.0-4-sb1-bcm91250a (3.2.65-1+deb7u2) [security]
+    Linux 3.2 for BCM91250A
+linux-image-3.2.0-4-sb1a-bcm91480b (3.2.65-1+deb7u2) [security]
+    Linux 3.2 for BCM91480B
+linux-image-3.2.0-4-sparc64 (3.2.65-1+deb7u2) [security]
+    Linux 3.2 for uniprocessor 64-bit UltraSPARC
+linux-image-3.2.0-4-sparc64-smp (3.2.65-1+deb7u2) [security]
+    Linux 3.2 for multiprocessor 64-bit UltraSPARC
+linux-image-3.2.0-4-versatile (3.2.65-1+deb7u2) [security]
+    Linux 3.2 for Versatile
+linux-image-3.2.0-4-vexpress (3.2.65-1+deb7u2) [security]
+    Linux 3.2 for ARM Ltd. Versatile Express
+linux-image-486 (3.2+46)
+    Linux for older PCs (meta-package)
+linux-image-4kc-malta (3.2+46)
+    Linux for MIPS Malta (meta-package)
+linux-image-5kc-malta (3.2+46)
+    Linux for MIPS Malta (64-bit) (meta-package)
+linux-image-686-pae (3.2+46)
+    Linux for modern PCs (meta-package)
+linux-image-amd64 (3.2+46)
+    Linux for 64-bit PCs (meta-package)
+linux-image-iop32x (3.2+46)
+    Linux for IOP32x (meta-package)
+linux-image-itanium (3.2+46)
+    Linux for Itanium (meta-package)
+linux-image-ixp4xx (3.2+46)
+    Linux for IXP4xx (meta-package)
+linux-image-kirkwood (3.2+46)
+    Linux for Marvell Kirkwood (meta-package)
+linux-image-loongson-2f (3.2+46)
+    Linux for Loongson 2F (meta-package)
+linux-image-mckinley (3.2+46)
+    Linux for Itanium II (meta-package)
+linux-image-mv78xx0 (3.2+46)
+    Linux for Marvell 78xx0 (meta-package)
+linux-image-mx5 (3.2+46)
+    Linux for Freescale i.MX51 (meta-package)
+linux-image-octeon (3.2+46)
+    Linux for Octeon (meta-package)
+linux-image-omap (3.2+46)
+    Linux for TI OMAP3+ (meta-package)
+linux-image-orion5x (3.2+46)
+    Linux for Marvell Orion (meta-package)
+linux-image-powerpc (3.2+46)
+    Linux for uniprocessor 32-bit PowerPC (meta-package)
+linux-image-powerpc-smp (3.2+46)
+    Linux for multiprocessor 32-bit PowerPC (meta-package)
+linux-image-powerpc64 (3.2+46)
+    Linux for 64-bit PowerPC (meta-package)
+linux-image-r4k-ip22 (3.2+46)
+    Linux for SGI IP22 (meta-package)
+linux-image-r5k-cobalt (3.2+46)
+    Linux for Cobalt (meta-package)
+linux-image-r5k-ip32 (3.2+46)
+    Linux for SGI IP32 (meta-package)
+linux-image-rt-686-pae (3.2+46)
+    Linux for modern PCs (meta-package), PREEMPT_RT
+linux-image-rt-amd64 (3.2+46)
+    Linux for 64-bit PCs (meta-package), PREEMPT_RT
+linux-image-s390x (3.2+46)
+    Linux for IBM zSeries (meta-package)
+linux-image-s390x-tape (3.2+46)
+    Linux for IBM zSeries (meta-package), IPL from tape
+linux-image-sb1-bcm91250a (3.2+46)
+    Linux for BCM91250A (meta-package)
+linux-image-sb1a-bcm91480b (3.2+46)
+    Linux for BCM91480B (meta-package)
+linux-image-sparc64 (3.2+46)
+    Linux for uniprocessor 64-bit UltraSPARC (meta-package)
+linux-image-sparc64-smp (3.2+46)
+    Linux for multiprocessor 64-bit UltraSPARC (meta-package)
+linux-image-versatile (3.2+46)
+    Linux for Versatile (meta-package)
+linux-image-vexpress (3.2+46)
+    Linux for ARM Ltd. Versatile Express (meta-package)
+linux-patch-debianlogo (1.16)
+    Display a Debian logo on a framebuffer device at boottime
+linux-patch-grsecurity2 (2.9.1+3.2.21-201206221855-1)
+    grsecurity kernel patch
+linux-patch-xenomai (2.6.0-2)
+    Linux kernel patches for Xenomai
+linux-source (3.2+46)
+    Linux kernel source (meta-package)
+linux-source
+    virtual package provided by linux-source-3.2
+linux-source-3.2 (3.2.65-1+deb7u2) [security]
+    Linux kernel source for version 3.2 with Debian patches
+linux-tools (3.2+46)
+    Performance analysis tools for Linux (meta-package)
+linux-wlan-ng (0.2.9+dfsg-5)
+    utilities for wireless prism2 cards
+linux-wlan-ng-firmware (0.2.9+dfsg-5) [contrib]
+    firmware files used by the linux-wlan-ng driver
+logfs-tools (20110927-1)
+    Tools to manage logfs filesystems
+mga-vid-source (2.6.32-1)
+    Kernel driver for the back-end scaler on Matrox cards (source)
+module-assistant (0.11.4)
+    tool to make module package creation easier
+ndiswrapper-dkms (1.57-1)
+    Source for the ndiswrapper Linux kernel module (DKMS)
+ndiswrapper-source (1.57-1)
+    Source for the ndiswrapper Linux kernel module
+nvidia-kernel-3.2.0-4-486 (304.125+1+1+3.2.65-1) [non-free]
+    NVIDIA binary kernel module for Linux 3.2.0-4-486
+nvidia-kernel-3.2.0-4-686-pae (304.125+1+1+3.2.65-1) [non-free]
+    NVIDIA binary kernel module for Linux 3.2.0-4-686-pae
+nvidia-kernel-3.2.0-4-amd64 (304.125+1+1+3.2.65-1) [non-free]
+    NVIDIA binary kernel module for Linux 3.2.0-4-amd64
+nvidia-kernel-486 (304.125+3.2.0+1) [non-free]
+    NVIDIA kernel module for Linux (486 flavor)
+nvidia-kernel-686-pae (304.125+3.2.0+1) [non-free]
+    NVIDIA kernel module for Linux (686-pae flavor)
+nvidia-kernel-amd64 (304.125+3.2.0+1) [non-free]
+    NVIDIA kernel module for Linux (amd64 flavor)
+nvidia-kernel-common (20120630+3) [contrib]
+    NVIDIA binary kernel module support files
+nvidia-kernel-dkms (304.125-1) [non-free]
+    NVIDIA binary kernel module DKMS source
+nvidia-kernel-dkms
+    virtual package provided by nvidia-kernel-legacy-173xx-dkms, nvidia-kernel-legacy-96xx-dkms, nvidia-kernel-legacy-71xx-dkms, nvidia-kernel-dkms
+nvidia-kernel-legacy-173xx-dkms (173.14.35-4) [non-free]
+    NVIDIA binary kernel module DKMS source (173xx legacy version)
+nvidia-kernel-legacy-173xx-source (173.14.35-4) [non-free]
+    NVIDIA binary kernel module source (173xx legacy version)
+nvidia-kernel-legacy-71xx-dkms (71.86.15-3) [non-free]
+    NVIDIA binary kernel module DKMS source (71xx legacy version)
+nvidia-kernel-legacy-71xx-source (71.86.15-3) [non-free]
+    NVIDIA binary kernel module source (71xx legacy version)
+nvidia-kernel-legacy-96xx-dkms (96.43.23-3) [non-free]
+    NVIDIA binary kernel module DKMS source (96xx legacy version)
+nvidia-kernel-legacy-96xx-source (96.43.23-3) [non-free]
+    NVIDIA binary kernel module source (96xx legacy version)
+nvidia-kernel-source (304.125-1) [non-free]
+    NVIDIA binary kernel module source
+open-vm-dkms (2:8.8.0+2012.05.21-724730-1+nmu2)
+    Source for VMware guest systems driver (DKMS)
+openafs-modules-dkms (1.6.1-3+deb7u2)
+    AFS distributed filesystem kernel module DKMS source
+openafs-modules-source (1.6.1-3+deb7u2)
+    AFS distributed filesystem kernel module source
+openswan-modules-dkms (1:2.6.37-3+deb7u1) [security]
+    Internet Key Exchange daemon - DKMS source
+openvswitch-datapath-dkms (1.4.2+git20120612-9.1~deb7u1)
+    Open vSwitch datapath module source - DKMS version
+oss4-dkms (4.2-build2006-2+deb7u1)
+    Open Sound System - DKMS module sources
+rtai-source (3.8.1-4)
+    Real Time Application Interface (module source)
+sl-modem-dkms (2.9.11~20110321-8+deb7u1) [non-free]
+    SmartLink software modem driver - module building source
+squashfs-tools (1:4.2-5)
+    Tool to create and append to squashfs filesystems
+tp-smapi-dkms (0.41-1)
+    ThinkPad hardware/firmware access modules source - dkms version
+tp-smapi-source (0.41-1)
+    ThinkPad hardware/firmware access modules source
+user-mode-linux (3.2-2um-1+deb7u2+b2)
+    User-mode Linux (kernel)
+v4l2loopback-dkms (0.6.1-1)
+    Source for the v4l2loopback driver (DKMS)
+virtualbox-dkms (4.1.18-dfsg-2+deb7u4) [security]
+    x86 virtualization solution - kernel module sources for dkms
+virtualbox-guest-dkms (4.1.18-dfsg-2+deb7u4) [security]
+    x86 virtualization solution - guest addition module source for dkms
+virtualbox-guest-source (4.1.18-dfsg-2+deb7u4) [security]
+    x86 virtualization solution - guest addition module source
+virtualbox-ose-dkms (4.1.18-dfsg-2+deb7u4) [security]
+    transitional package for virtualbox-dkms
+virtualbox-ose-guest-dkms (4.1.18-dfsg-2+deb7u4) [security]
+    transitional package for virtualbox-guest-dkms
+vpb-driver-source (4.2.55-1)
+    Voicetronix telephony hardware driver source
+west-chamber-dkms (20100405+svn20111107.r124-1)
+    iptable extension for bypassing content filtering firewall (dkms)
+xen-hypervisor-4.1-amd64 (4.1.4-3+deb7u5) [security]
+    Xen Hypervisor on AMD64
+xen-hypervisor-4.1-i386 (4.1.4-3+deb7u5) [security]
+    Xen Hypervisor on i386
+xen-linux-system-3.2.0-4-686-pae (3.2.65-1+deb7u2) [security]
+    Xen system with Linux 3.2 on modern PCs (meta-package)
+xen-linux-system-3.2.0-4-amd64 (3.2.65-1+deb7u2) [security]
+    Xen system with Linux 3.2 on 64-bit PCs (meta-package)
+xen-linux-system-686-pae (3.2+46)
+    Xen system with Linux for modern PCs (meta-package)
+xen-linux-system-amd64 (3.2+46)
+    Xen system with Linux for 64-bit PCs (meta-package)
+xen-system-amd64 (4.1.4-3+deb7u5) [security]
+    Xen System on AMD64 (meta-package)
+xen-system-i386 (4.1.4-3+deb7u5) [security]
+    Xen System on i386 (meta-package)
+xen-utils-4.1 (4.1.4-3+deb7u5) [security]
+    XEN administrative tools
+xtables-addons-dkms (1.42-2)
+    Extensions targets and matches for iptables
+zd1211-firmware (2.21.0.0-1) [non-free]
+    Firmware images for the zd1211rw wireless driver 

@@ -1,0 +1,1634 @@
+a2ps (1:4.14-1.1+deb7u1)
+    GNU a2ps - 'Anything to PostScript' converter and pretty-printer
+abcm2ps (6.6.17-1)
+    Translates ABC music description files to PostScript (or SVG)
+acheck (0.5.1)
+    Check common localisation mistakes
+acheck-rules (0.3.1)
+    Basic rules for acheck
+acheck-rules
+    virtual package provided by acheck-rules-fr
+acheck-rules-fr (0.6)
+    French rules for acheck
+ack (1.39-12)
+    Kanji code converter
+aephea (10.008-2)
+    text-based authoring tool for HTML
+aewan (1.0.01-3)
+    ASCII-art Editor Without A Name
+aft (2:5.098-2)
+    "free form" document preparation system
+agrep (4.17-9) [non-free]
+    text search tool with support for approximate patterns
+aiksaurus (1.2.1+dev-0.12-6.1)
+    an English-language thesaurus (utility)
+antiword (0.37-8)
+    Converts MS Word files to text, PS and PDF
+apsfilter (7.2.6-1.3)
+    Magic print filter with automatic file type recognition
+apvlv (0.1.1-1.2+b1)
+    PDF viewer with Vim-like behaviour
+asciidoc (8.6.7-1)
+    Highly configurable text format for writing documentation
+aspell (0.60.7~20110707-1)
+    GNU Aspell spell-checker
+aspell-am (0.03-1-4)
+    Amharic dictionary for aspell
+aspell-ar (0.0.20060329-4)
+    Arabic dictionary for aspell
+aspell-ar-large (1.2-0-2)
+    Large Arabic dictionary for aspell
+aspell-bg (4.1-3)
+    Bulgarian dictionary for aspell
+aspell-bn (1:0.01.1-1-2)
+    Bengali (bn) dictionary for GNU aspell
+aspell-br (0.50-2-6)
+    Breton dictionary for GNU Aspell
+aspell-ca (0.20111230b-4)
+    Catalan dictionary for aspell
+aspell-cs (0.51.0-1)
+    Czech dictionary for GNU Aspell
+aspell-cy (0.50-3-6)
+    Welsh dictionary for GNU Aspell
+aspell-da (1.6.25-1.1)
+    The Comprehensive Danish Dictionary (DSDO) - aspell
+aspell-de (20120607-1)
+    German dictionary for aspell
+aspell-de-alt (1:2-28)
+    German dictionary for aspell (old spelling)
+aspell-el (0.50-3-6)
+    Greek dictionary for GNU Aspell
+aspell-en (7.1-0-1)
+    English dictionary for GNU Aspell
+aspell-eo (2.1.2000.02.25-45)
+    Esperanto dictionary for aspell
+aspell-eo-cx7 (2.1.2000.02.25-45)
+    Esperanto dictionary for aspell, "cx" 7bit encoding
+aspell-es (1.11-4)
+    Spanish dictionary for aspell
+aspell-et (1:20030606-20)
+    Estonian dictionary for Aspell
+aspell-eu-es (0.4.20081029-6)
+    Basque (Euskera) dictionary for aspell
+aspell-fa (0.11-0-2)
+    Persian dictionary for GNU Aspell
+aspell-fi (0.7-18)
+    The Finnish dictionary for aspell
+aspell-fo (0.4.1-1)
+    Faroese dictionary for aspell
+aspell-fr (0.50-3-7)
+    French dictionary for aspell
+aspell-ga (0.50-4-4)
+    Irish (Gaeilge) dictionary for GNU Aspell
+aspell-gl-minimos (0.5-35)
+    Aspell dictionary for Galician (minimos)
+aspell-gu (0.03-0-7)
+    Gujarati (gu) dictionary for GNU aspell
+aspell-he (1.0-0-5)
+    Hebrew dictionary for aspell
+aspell-hi (0.02-5)
+    Hindi (hi) dictionary for GNU aspell
+aspell-hr (0.51-4)
+    The Croatian dictionary for GNU Aspell
+aspell-hsb (0.02.0-1)
+    Upper Sorbian dictionary for GNU Aspell
+aspell-hu (0.99.4.2-0-3)
+    Hungarian dictionary for aspell
+aspell-hy (0.10.0-0-2)
+    Armenian dictionary for GNU Aspell
+aspell-is (0.51-0-4)
+    Icelandic dictionary for GNU Aspell
+aspell-it (2.4-20070901-0-2)
+    The Italian dictionary for GNU Aspell
+aspell-kk (0.2-1)
+    Kazakh dictionary for GNU Aspell
+aspell-kn (0.01-2-2)
+    Kannada (kn) dictionary for GNU aspell
+aspell-ku (0.20-0-5)
+    Kurdish dictionary for aspell
+aspell-lt (1.2.1-3)
+    aspell dictionary for Lithuanian (LT)
+aspell-lv (0.9.4-5)
+    Latvian dictionary for Aspell
+aspell-ml (0.04-1-5)
+    Malayalam (ml) dictionary for GNU aspell
+aspell-mr (0.10-8)
+    Marathi (mr) dictionary for GNU aspell
+aspell-nl (1:2.10-1)
+    Dutch dictionary for Aspell
+aspell-no (2.0.10-5.1)
+    Norwegian dictionary for aspell
+aspell-or (0.03-1-5)
+    Oriya (or) dictionary for GNU aspell
+aspell-pa (0.01-1-4)
+    Punjabi (pa) dictionary for GNU aspell
+aspell-pl (20110901-1)
+    Polish dictionary for aspell
+aspell-pt (1.5)
+    Portuguese dictionaries for GNU Aspell (old package)
+aspell-pt-br (20110527-2)
+    Brazilian Portuguese dictionary for GNU Aspell
+aspell-pt-pt (20091013-4)
+    European Portuguese dictionary for GNU Aspell
+aspell-ro (3.3.7-1)
+    Romanian dictionary for GNU aspell
+aspell-ru (0.99g5-18)
+    Russian dictionary for Aspell
+aspell-sk (0.52-0-4)
+    Slovak dictionary for GNU Aspell
+aspell-sl (0.60-3)
+    The Slovenian dictionary for GNU Aspell
+aspell-sv (0.51-0-3)
+    Swedish dictionary for GNU aspell
+aspell-ta (20040424-1-1)
+    Tamil (ta) dictionary for GNU aspell
+aspell-te (0.01-2-5)
+    Telugu (te) dictionary for GNU aspell
+aspell-tl (0.4-0-10)
+    Tagalog dictionary for GNU Aspell
+aspell-uk (1.6.5-2)
+    Ukrainian dictionary for GNU Aspell
+aspell-uz (0.6.0-1)
+    The Uzbek dictionary for GNU Aspell
+atp (1.2-11)
+    text to PostScript converter with some C syntax highlighting
+bgoffice-computer-terms (0.0.200909080118-1)
+    English-Bulgarian dictionary of computer terms
+bgoffice-dict-downloader (0.09) [contrib]
+    download dictionaries for gbgoffice
+bibutils (4.12-5)
+    interconvert various bibliographic data formats
+bidiv (1.5-4)
+    BiDi viewer - command-line tool displaying logical Hebrew/Arabic
+bomstrip (9-6)
+    tool to strip Byte-Order Marks from UTF-8 text files
+bookview (3.2.1-1)
+    Tcl/Tk based NDTP(Network Dictionary Transfer Protocol) client
+boxes (1.0.1a-2.3)
+    Textmode box- and comment drawing filter
+brazilian-conjugate (3.0~beta4-15)
+    Brazilian Portuguese verb conjugator
+buthead (1.1-2)
+    copy all but the first few lines
+calibre (0.8.51+dfsg1-0.1)
+    e-book converter and library management
+calibre-bin (0.8.51+dfsg1-0.1)
+    e-book converter and library management
+calligrawords (1:2.4.4-3)
+    word processor for the Calligra Suite
+calligrawords-data (1:2.4.4-3)
+    data files for Words word processor
+catdoc (0.94.4-1.1)
+    MS-Word to TeX or plain text converter
+cb2bib (1.4.8-1)
+    extract bibliographic references from various sources
+cbedic (4.0-3) [contrib]
+    Text-mode Bulgarian/English Dictionary
+cconv (0.6.2-1)
+    simplified-traditional chinese conversion tool
+cd-circleprint (0.7.0-3)
+    prints round cd-labels
+cdcover (0.9.1-10)
+    Creating Data-CD Covers
+chm2pdf (0.9.1-1.1)
+    A Python script that converts CHM files into PDF files
+chordii (4.3+repack-2)
+    Text file (chordpro format) to music sheet converter
+cjet (0.8.9-3)
+    transitional dummy package for cjet printer driver
+codegroup (19981025-6)
+    Convert any file, including binary, into 5 letter code
+collatinus (10.0-3)
+    lemmatisation of latin text
+colordiff (1.0.10-1)
+    tool to colorize 'diff' output
+confget (1.03-1)
+    read variables from INI-style configuration files
+cstocs (1:3.42-2)
+    Recoding utility and Czech sorter
+cupsddk (1.5.3-5+deb7u5) [security]
+    Common UNIX Printing System (transitional package)
+cupsddk
+    virtual package provided by cups-ppdc
+dacco-common (0.9+20071227-5)
+    Catalan/English dictionary (xml files)
+dadadodo (1.04-4)
+    Exterminates all rational thought
+dancer-xml (0.8.2.1-3)
+    non-conformant docbook-xml to html/latex conversion
+darnwdl (0.5-2)
+    WDL document format viewer
+datapm (0.10-1.1)
+    Data packaging system and utilities
+dav-text (0.8.5-5)
+    A minimalist ncurses-based text editor
+dawgdic-tools (0.4.3-1)
+    command line tools for DAWG dictionaries
+dbacl (1.12-2.1)
+    digramic Bayesian text classifier
+dbar (0.0.20100524-3)
+    general purpose ASCII graphic percentage meter/progressbar
+dblatex (0.3.4-2)
+    Produces DVI, PostScript, PDF documents from DocBook sources
+dbtoepub (0+svn9150-2)
+    DocBook XML to .epub converter
+ddtc (0.17.1)
+    Deal with ddts mails
+debiandoc-sgml (1.2.27)
+    DebianDoc SGML DTD and formatting tools
+diakonos (0.9.0-1)
+    Customizable, usable console-based text editor
+diatheke (1.6.2+dfsg-5)
+    command line bible browsing and search tool
+dico (2.1-3+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 2.1-3 [armhf, s390x])
+    RFC 2229 compliant dictionary client
+dico-module-guile (2.1-3+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 2.1-3 [armhf, s390x])
+    RFC 2229 compliant modular dictionary server (Guile module)
+dico-module-mediawiki (2.1-3)
+    RFC 2229 compliant modular dictionary server (mediawiki module)
+dico-module-python (2.1-3+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 2.1-3 [armhf, s390x])
+    RFC 2229 compliant modular dictionary server (Python module)
+dicod (2.1-3+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 2.1-3 [armhf, s390x])
+    RFC 2229 compliant modular dictionary server
+dict (1.12.0+dfsg-5)
+    dictionary client
+dict-bouvier (6.revised-3.2)
+    John Bouvier's Law Dictionary for the USA
+dict-de-en (1.7-2)
+    German-English translation dictionary for dictd
+dict-devil (1.0-12)
+    "The Devil's Dictionary" by Ambrose Bierce
+dict-elements (20001107-a-6)
+    Data regarding the Elements
+dict-foldoc (20120518-1)
+    FOLDOC dictionary database
+dict-freedict-afr-deu (1.3-4)
+    Dict package for Afrikaans-German Freedict dictionary
+dict-freedict-cro-eng (1.3-4)
+    Dict package for Croatian-English Freedict dictionary
+dict-freedict-cze-eng (1.3-4)
+    Dict package for Czech-English Freedict dictionary
+dict-freedict-dan-eng (1.3-4)
+    Dict package for Danish-English Freedict dictionary
+dict-freedict-deu-eng (1.3-4)
+    Dict package for German-English Freedict dictionary
+dict-freedict-deu-fra (1.3-4)
+    Dict package for German-French Freedict dictionary
+dict-freedict-deu-ita (1.3-4)
+    Dict package for German-Italian Freedict dictionary
+dict-freedict-deu-nld (1.3-4)
+    Dict package for German-Dutch Freedict dictionary
+dict-freedict-deu-por (1.3-4)
+    Dict package for German-Portuguese Freedict dictionary
+dict-freedict-eng-ara (1.3-4)
+    Dict package for English-Arabic Freedict dictionary
+dict-freedict-eng-cro (1.3-4)
+    Dict package for English-Croatian Freedict dictionary
+dict-freedict-eng-cze (1.3-4)
+    Dict package for English-Czech Freedict dictionary
+dict-freedict-eng-deu (1.3-4)
+    Dict package for English-German Freedict dictionary
+dict-freedict-eng-fra (1.3-4)
+    Dict package for English-French Freedict dictionary
+dict-freedict-eng-hin (1.3-4)
+    Dict package for English-Hindi Freedict dictionary
+dict-freedict-eng-hun (1.3-4)
+    Dict package for English-Hungarian Freedict dictionary
+dict-freedict-eng-iri (1.3-4)
+    Dict package for English-Irish Freedict dictionary
+dict-freedict-eng-ita (1.3-4)
+    Dict package for English-Italian Freedict dictionary
+dict-freedict-eng-lat (1.3-4)
+    Dict package for English-Latin Freedict dictionary
+dict-freedict-eng-nld (1.3-4)
+    Dict package for English-Dutch Freedict dictionary
+dict-freedict-eng-por (1.3-4)
+    Dict package for English-Portuguese Freedict dictionary
+dict-freedict-eng-rom (1.3-4)
+    Dict package for English-Romanian Freedict dictionary
+dict-freedict-eng-rus (1.3-4)
+    Dict package for English-Russian Freedict dictionary
+dict-freedict-eng-scr (1.3-4)
+    Dict package for English-Serbo-Croat Freedict dictionary
+dict-freedict-eng-spa (1.3-4)
+    Dict package for English-Spanish Freedict dictionary
+dict-freedict-eng-swa (1.3-4)
+    Dict package for English-Swahili Freedict dictionary
+dict-freedict-eng-swe (1.3-4)
+    Dict package for English-Swedish Freedict dictionary
+dict-freedict-eng-tur (1.3-4)
+    Dict package for English-Turkish Freedict dictionary
+dict-freedict-eng-wel (1.3-4)
+    Dict package for English-Welsh Freedict dictionary
+dict-freedict-fra-deu (1.3-4)
+    Dict package for French-German Freedict dictionary
+dict-freedict-fra-eng (1.3-4)
+    Dict package for French-English Freedict dictionary
+dict-freedict-fra-nld (1.3-4)
+    Dict package for French-Dutch Freedict dictionary
+dict-freedict-gla-deu (1.3-4)
+    Dict package for Scottish Gaelic-German Freedict dictionary
+dict-freedict-hin-eng (1.3-4)
+    Dict package for Hindi-English Freedict dictionary
+dict-freedict-hun-eng (1.3-4)
+    Dict package for Hungarian-English Freedict dictionary
+dict-freedict-iri-eng (1.3-4)
+    Dict package for Irish-English Freedict dictionary
+dict-freedict-ita-deu (1.3-4)
+    Dict package for Italian-German Freedict dictionary
+dict-freedict-ita-eng (1.3-4)
+    Dict package for Italian-English Freedict dictionary
+dict-freedict-jpn-deu (1.3-4)
+    Dict package for Japanese-German Freedict dictionary
+dict-freedict-lat-deu (1.3-4)
+    Dict package for Latin-German Freedict dictionary
+dict-freedict-lat-eng (1.3-4)
+    Dict package for Latin-English Freedict dictionary
+dict-freedict-nld-deu (1.3-4)
+    Dict package for Dutch-German Freedict dictionary
+dict-freedict-nld-eng (1.3-4)
+    Dict package for Dutch-English Freedict dictionary
+dict-freedict-nld-fra (1.3-4)
+    Dict package for Dutch-French Freedict dictionary
+dict-freedict-por-deu (1.3-4)
+    Dict package for Portuguese-German Freedict dictionary
+dict-freedict-por-eng (1.3-4)
+    Dict package for Portuguese-English Freedict dictionary
+dict-freedict-scr-eng (1.3-4)
+    Dict package for Serbo-Croat-English Freedict dictionary
+dict-freedict-slo-eng (1.3-4)
+    Dict package for Slovak-English Freedict dictionary
+dict-freedict-spa-eng (1.3-4)
+    Dict package for Spanish-English Freedict dictionary
+dict-freedict-swa-eng (1.3-4)
+    Dict package for Swahili-English Freedict dictionary
+dict-freedict-swe-eng (1.3-4)
+    Dict package for Swedish-English Freedict dictionary
+dict-freedict-tur-deu (1.3-4)
+    Dict package for Turkish-German Freedict dictionary
+dict-freedict-tur-eng (1.3-4)
+    Dict package for Turkish-English Freedict dictionary
+dict-freedict-wel-eng (1.3-4)
+    Dict package for Welsh-English Freedict dictionary
+dict-gazetteer2k (1.0.0-5.2)
+    Placeholder package to install entire Gazetteer 2000
+dict-gazetteer2k-counties (1.0.0-5.2)
+    Counties Database for the 2000 US Gazetteer
+dict-gazetteer2k-places (1.0.0-5.2)
+    Places Database for the 2000 US Gazetteer
+dict-gazetteer2k-zips (1.0.0-5.2)
+    ZIP and ZCTA database for the 2000 US Gazetteer
+dict-gcide (0.48.1)
+    Comprehensive English Dictionary
+dict-jargon (4.4.7-2)
+    dict package for The Jargon Lexicon
+dict-moby-thesaurus (1.0-6.2)
+    Largest and most comprehensive thesaurus
+dict-vera (1:1.17-6)
+    Dictionary of computer related acronyms -- dict format
+dict-wn (1:3.0-29)
+    electronic lexical database of English language for dict
+dictd (1.12.0+dfsg-5)
+    dictionary server
+dictem (1.0.2-1)
+    Dict client for emacs
+diction (1.10~rc4-1)
+    Utilities to help with style and diction (English and German)
+dictionaries-common (1.12.11)
+    Common utilities for spelling dictionary tools
+dictzip (1.12.0+dfsg-5)
+    compression utility for dictionary databases
+ding (1.7-2)
+    Graphical dictionary lookup program for Unix (Tk)
+discount (2.1.3-3)
+    Implementation of Markdown markup language in C
+djtools (1.2.7)
+    tools for HP DeskJet printer
+djvusmooth (0.2.11-1)
+    graphical editor for DjVu
+dl10n (3.00)
+    Debian infrastructure and tools for localization
+docbook (4.5-5.1)
+    standard SGML representation system for technical documents
+docbook-dsssl (1.79-7)
+    modular DocBook DSSSL stylesheets, for print and HTML
+docbook-ebnf (1.2~cr1-5.1)
+    EBNF module for the XML version of the DocBook DTD
+docbook-html-forms (1.1.0-4.1)
+    Extension to DocBook XML for generating html forms
+docbook-mathml (1.1CR1-2)
+    Extension to DocBook XML for using MathML markup
+docbook-simple (1.1-4.2)
+    simplified DocBook XML Doctype and css stylesheets
+docbook-slides (3.4.0-5)
+    XML Slides DTD and XSL Stylesheets
+docbook-to-man (1:2.0.0-31)
+    converter from DocBook SGML into roff man macros
+docbook-utils (0.6.14-3)
+    Convert DocBook files to other formats (HTML, RTF, PS, man, PDF)
+docbook-website (2.5.0.0-8)
+    XML Website DTD and XSL Stylesheets
+docbook-xml (4.5-7.2)
+    standard XML documentation system for software and systems
+docbook-xsl (1.76.1+dfsg-1)
+    stylesheets for processing DocBook XML to various output formats
+docbook-xsl-ns (1.76.1+dfsg-1)
+    stylesheets for processing DocBook 5 XML to various output formats
+docbook-xsl-saxon (1.00.dfsg.1-5)
+    Java extensions for use with DocBook XML stylesheets (Saxon)
+docbook2odf (0.244-1.1)
+    XSLT based conversions from docbook to Oasis Open Document (openoffice.org)
+docbook2x (0.8.8-8)
+    Converts DocBook/XML documents into man pages and TeXinfo
+docbook5-xml (5.0-2)
+    standard XML documentation system for software and systems
+docdiff (0.4.0-2)
+    Compares two files word by word / char by char
+doconce (0.7.3-1)
+    document once, include anywhere
+docx2txt (1.2-1+deb7u1)
+    Convert Microsoft OOXML files to plain text
+dos2unix (6.0-1)
+    convert text file line endings between CRLF and LF
+dtdinst (20091111-5)
+    XML DTD to XML instance format converter
+e2ps (4.34-4)
+    Convert plain text into PostScript
+eblook (1:1.6.1-12)
+    electronic dictionary search command using EB Library
+ebnetd (1:1.0.dfsg.1-4.3)
+    the server of EBNET protocol
+ebnetd-common (1:1.0.dfsg.1-4.3)
+    Common files for the EBNETD suite
+ebview (0.3.6.2-1.2)
+    EPWING dictionary viewer
+edict (2012.05.09-1)
+    English / Japanese dictionary
+editmoin (1.17-1)
+    edit MoinMoin wiki pages with your favourite editor
+elyxer (1.2.3-1)
+    standalone LyX to HTML converter
+enamdict (2012.05.09-1)
+    Dictionary of Japanese proper names
+enca (1.13-4)
+    Extremely Naive Charset Analyser - binaries
+enchant (1.6.0-7)
+    Wrapper for various spell checker engines (binary programs)
+enscript (1.6.5.90-2)
+    converts text to Postscript, HTML or RTF with syntax highlighting
+expat (2.1.0-1+deb7u1)
+    XML parsing C library - example application
+fbreader (0.12.10dfsg-8)
+    e-book reader
+ffe (0.2.8-1)
+    Tool for parsing flat and CSV files and converting them to different formats
+figlet (2.2.5-2)
+    Make large character ASCII banners out of ordinary text
+filepp (1.8.0-3)
+    A generic perl-based file pre-processor
+fldiff (1.1+0-2)
+    A graphical diff program
+flip (1.20-1)
+    convert text file line endings between Unix and DOS formats
+fntsample (3.2-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 3.2-1 [armhf, s390x])
+    program for making font samples
+foomatic-db (20120523-1)
+    OpenPrinting printer support - database
+foomatic-db
+    virtual package provided by foomatic-db-compressed-ppds
+foomatic-db-compressed-ppds (20120523-1)
+    OpenPrinting printer support - Compressed PPDs derived from the database
+foomatic-db-engine (4.0.8-3)
+    OpenPrinting printer support - programs
+foomatic-db-gutenprint (5.2.9-1)
+    OpenPrinting printer support - database for Gutenprint printer drivers
+foomatic-filters (4.0.17-1)
+    OpenPrinting printer support - filters
+fop (1:1.0.dfsg2-6)
+    XML formatter driven by XSL Formatting Objects (XSL-FO.)
+g2p-sk (0.4.2-1)
+    Phonetic transcription for Slovak language
+gaiksaurus (1.2.1+dev-0.12-6.1)
+    graphical interface to the Aiksaurus toolkit (GTK+ frontend)
+galax (1.1-10+b3 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, sparc], 1.1-10+b1 [armhf, ia64, mips, mipsel, s390], 1.1-10 [s390x])
+    XQuery implementation with static typing - command line front-ends
+galax-extra (1.1-10+b3 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, sparc], 1.1-10+b1 [armhf, ia64, mips, mipsel, s390], 1.1-10 [s390x])
+    XQuery implementation with static typing - utilities
+gbgoffice (1.4-8)
+    bgoffice dictionary frontend (GTK2)
+ghostscript (9.05~dfsg-6.3+deb7u1)
+    interpreter for the PostScript language and for PDF
+ghostscript-cups (9.05~dfsg-6.3+deb7u1)
+    interpreter for the PostScript language and for PDF - CUPS filters
+ghostscript-x (9.05~dfsg-6.3+deb7u1)
+    interpreter for the PostScript language and for PDF - X11 support
+gnome-u2ps (0.0.4-4.2)
+    tool to convert UTF-8 text to PostScript
+gnuhtml2latex (0.4-2)
+    Convert HTML files to LaTeX
+gnuvd (1.0.11-1) [contrib]
+    Query the online Dutch Van Dale dictionary
+gnuvd-gnome (1.0.11-1) [contrib]
+    Query the online Dutch Van Dale dictionary - GNOME frontend
+goldendict-wordnet (1:3.0-29)
+    electronic lexical database of English language for dict
+grap (1.43-2)
+    program for typesetting graphs
+grc (1.4)
+    generic colouriser for everything
+groff (1.21-9)
+    GNU troff text-formatting system
+groff-base (1.21-9)
+    GNU troff text-formatting system (base system components)
+gv (1:3.7.3-1)
+    PostScript and PDF viewer for X
+halibut (1.0+svn20090906-6)
+    yet another free document preparation system
+hannah-foo2zjs (1:1) [contrib]
+    Graphical firmware downloader for the foo2zjs package
+hlins (0.39-19)
+    Insert URLs into html documents
+hspell (1.1-2)
+    Hebrew spell checker and morphological analyzer
+hspell-gui (0.2.6-5.1)
+    graphical front-end for the hspell hebrew spell checker
+html-xml-utils (6.1-1)
+    HTML and XML manipulation utilities
+html2ps (1.0b7-1)
+    HTML to PostScript converter
+hunspell (1.3.2-4)
+    spell checker and morphological analyzer (program)
+hunspell-an (0.2-1)
+    Aragonese dictionary for hunspell
+hunspell-ar (3.1-1)
+    Arabic dictionary for hunspell
+hunspell-be (0.53-3)
+    Belarusian dictionary for hunspell and academic orthography
+hunspell-da (1:3.3.0-4)
+    Danish dictionary for hunspell
+hunspell-de-at (20120607-1)
+    Austrian (German) dictionary for hunspell
+hunspell-de-at-frami (1:3.3.0-4)
+    Austrian (German) dictionary for hunspell ("frami" version)
+hunspell-de-ch (20120607-1)
+    Swiss (German) dictionary for hunspell
+hunspell-de-ch-frami (1:3.3.0-4)
+    Swiss (German) dictionary for hunspell ("frami" version)
+hunspell-de-de (20120607-1)
+    German dictionary for hunspell
+hunspell-de-de-frami (1:3.3.0-4)
+    German dictionary for hunspell ("frami" version)
+hunspell-de-med (20110608-1)
+    German medical dictionary for hunspell
+hunspell-en-ca (1:3.3.0-4)
+    English_canadian dictionary for hunspell
+hunspell-en-us (20070829-6)
+    English_american dictionary for hunspell
+hunspell-eu-es (0.4.20081029-6)
+    Basque (Euskera) dictionary for hunspell
+hunspell-fr (1:3.3.0-4)
+    French dictionary for hunspell
+hunspell-gl-es (2.2a-10)
+    Galician dictionary for hunspell
+hunspell-hu (1:3.3.0-4)
+    Hungarian dictionary for hunspell
+hunspell-kk (1.1-2)
+    Kazakh dictionary for hunspell
+hunspell-ko (0.5.5-1)
+    Korean dictionary for hunspell
+hunspell-ml (0.1-2)
+    Malayalam dictionary for hunspell
+hunspell-ne (1:3.3.0-4)
+    Nepali dictionary for hunspell
+hunspell-ro (1:3.3.0-4)
+    Romanian dictionary for hunspell
+hunspell-ru (20120501-1)
+    Russian dictionary for hunspell
+hunspell-ru
+    virtual package provided by myspell-ru
+hunspell-se (1.0~beta6.20081222-1.2)
+    North Sámi Hunspell dictionary
+hunspell-sh (1:3.3.0-4)
+    Serbian (Latin) dictionary for hunspell
+hunspell-sr (1:3.3.0-4)
+    Serbian (Cyrillic) dictionary for hunspell
+hunspell-sv-se (1.51-1)
+    Swedish (SE) dictionary for hunspell
+hunspell-tools (1.3.2-4)
+    tools for hunspell
+hunspell-uz (0.6-3.2)
+    The Uzbek dictionary for Hunspell
+hunspell-vi (1:3.3.0-4)
+    Vietnamese dictionary for hunspell
+hyphen-af (1:3.3.0-4)
+    Afrikaans hyphenation patterns for LibreOffice/OpenOffice.org
+hyphen-as (0.7.0-1)
+    Assamese hyphenation patterns for OpenOffice.org/LibreOffice
+hyphen-bn (0.7.0-2)
+    Bengali hyphenation patterns for OpenOffice.org/LibreOffice
+hyphen-ca (1:3.3.0-4)
+    Catalan hyphenation patterns for LibreOffice/OpenOffice.org
+hyphen-de (1:3.3.0-4)
+    German hyphenation patterns for LibreOffice/OpenOffice.org
+hyphen-en-us (2.8.3-2)
+    US English hyphenation patterns for LibreOffice/OpenOffice.org
+hyphen-fr (1:3.3.0-4)
+    French hyphenation patterns for LibreOffice/OpenOffice.org
+hyphen-gu (0.7.0-2)
+    Gujarati hyphenation patterns for OpenOffice.org/LibreOffice
+hyphen-hi (0.7.0-3)
+    Hindi hyphenation patterns for OpenOffice.org/LibreOffice
+hyphen-hr (20060617-2.3)
+    Croatian hyphenation pattern for OpenOffice.org
+hyphen-hu (1:3.3.0-4)
+    Hungarian hyphenation patterns for LibreOffice/OpenOffice.org
+hyphen-it (1:3.3.0-4)
+    Italian hyphenation patterns for LibreOffice/OpenOffice.org
+hyphen-kn (0.7.0-2)
+    Kannada hyphenation patterns for OpenOffice.org/LibreOffice
+hyphen-mr (0.7.0-1)
+    Marathi hyphenation patterns for OpenOffice.org/LibreOffice
+hyphen-pa (0.7.0-1)
+    Punjabi hyphenation patterns for OpenOffice.org/LibreOffice
+hyphen-pl (1:3.0a-4)
+    Polish hyphenation patterns for LibreOffice/OpenOffice.org
+hyphen-ro (1:3.3.0-4)
+    Romanian hyphenation patterns for LibreOffice/OpenOffice.org
+hyphen-sh (1:3.3.0-4)
+    Serbian (Latin) hyphenation patterns for LibreOffice/OpenOffice.org
+hyphen-sl (1:3.3.0-4)
+    Slovenian hyphenation patterns for LibreOffice/OpenOffice.org
+hyphen-sr (1:3.3.0-4)
+    Serbian (Cyrillic) hyphenation patterns for LibreOffice/OpenOffice.org
+hyphen-ta (0.7.0-1)
+    Tamil hyphenation patterns for OpenOffice.org/LibreOffice
+hyphen-te (0.7.0-1)
+    Telugu hyphenation patterns for OpenOffice.org/LibreOffice
+hyphen-zu (1:3.3.0-4)
+    Zulu hyphenation patterns for LibreOffice/OpenOffice.org
+iamerican (3.3.02-6)
+    American English dictionary for ispell (standard version)
+iamerican-huge (3.3.02-6)
+    American English dictionary for ispell (huge)
+iamerican-insane (3.3.02-6)
+    American English dictionary for ispell (insane version)
+iamerican-large (3.3.02-6)
+    American English dictionary for ispell (large)
+iamerican-small (3.3.02-6)
+    American English dictionary for ispell (small)
+ibrazilian (3.0~beta4-15)
+    Brazilian Portuguese dictionary for ispell
+ibritish (3.3.02-6)
+    British English dictionary for ispell (standard version)
+ibritish-huge (3.3.02-6)
+    British English dictionary for ispell (huge)
+ibritish-insane (3.3.02-6)
+    British English dictionary for ispell (insane version)
+ibritish-large (3.3.02-6)
+    British English dictionary for ispell (large)
+ibritish-small (3.3.02-6)
+    British English dictionary for ispell (small)
+ibulgarian (4.1-3)
+    Bulgarian dictionary for ispell
+icatalan (0.20111230b-4)
+    Catalan dictionary for ispell
+iczech (20040229-5.1)
+    The Czech dictionary for ispell
+idanish (1.6.25-1.1)
+    The Comprehensive Danish Dictionary (DSDO) - ispell
+idutch (1:2.10-1)
+    Dutch dictionary for Ispell
+idzebra-2.0 (2.0.44-3)
+    IDZebra metapackage (the works)
+idzebra-2.0-common (2.0.44-3)
+    IDZebra common files
+idzebra-2.0-examples (2.0.44-3)
+    IDZebra example configurations
+idzebra-2.0-utils (2.0.44-3)
+    IDZebra utility programs
+ienglish-common (3.3.02-6)
+    Common files for British and American ispell dictionaries
+iesperanto (2.1.2000.02.25-45)
+    Esperanto dictionary for ispell
+iestonian (1:20030606-20)
+    Estonian dictionary for Ispell
+ifaroese (0.4.1-1)
+    Faroese dictionary for ispell
+ifinnish (0.7-18)
+    A medium-size Finnish dictionary for Ispell
+ifinnish-large (0.7-18)
+    A large Finnish dictionary for Ispell
+ifinnish-small (0.7-18)
+    A small Finnish dictionary for Ispell
+ifrench (1.4-26)
+    French dictionary for ispell (Hydro-Quebec version)
+ifrench-gut (1:1.0-30)
+    French dictionary for ispell (GUTenberg version)
+igaelic (0.50-8)
+    A Scots Gaelic dictionary for ispell
+igalician-minimos (0.5-35)
+    Ispell dictionary for Galician (minimos)
+ihungarian (1.2+repack-2)
+    Hungarian dictionary for ispell
+iirish (2.0-21)
+    An Irish (Gaeilge) dictionary for ispell
+iitalian (1:2.3-3)
+    Italian dictionary for ispell
+ijsgutenprint (5.2.9-1)
+    inkjet server - Ghostscript driver for Gutenprint
+ilithuanian (1.2.1-3)
+    ispell dictionary for Lithuanian (LT)
+imanx (0.50-9.1)
+    A Manx Gaelic dictionary for ispell
+imediff2 (1.1.2-1)
+    interactive full screen 2-way merge tool
+impose+ (0.2-12)
+    Postscript utilities for two-up printing, bbox, etc
+ingerman (20120607-1)
+    New German orthography dictionary for ispell
+inorwegian (2.0.10-5.1)
+    Norwegian dictionary for ispell
+iogerman (1:2-28)
+    Old German orthography dictionary for ispell
+ipolish (20120520-1)
+    Polish dictionary for ispell
+iportuguese (20120604-1)
+    European Portuguese dictionary for ispell
+irussian (0.99g5-18)
+    Russian dictionary for Ispell
+ispanish (1.11-4)
+    Spanish dictionary for ispell
+ispell (3.3.02-6)
+    International Ispell (an interactive spelling corrector)
+iswedish (1.4.5-2.1)
+    Swedish dictionary for ispell
+iswiss (20120607-1)
+    Swiss (German) orthography dictionary for ispell
+itagalog (0.3.1-3)
+    Tagalog dictionary for Ispell
+itstool (1.1.3-1)
+    tool for translating XML documents with PO files
+iukrainian (1.6.5-2)
+    Ukrainian dictionary for ispell
+jade (1.2.1-47.1+b1)
+    James Clark's DSSSL Engine
+jing (20091111-5)
+    RELAX NG validator
+jless (382-iso262-3)
+    A file pager program, similar to more(1) supporting ISO2022
+kakasi (2.3.5~pre1+cvs20071101-1)
+    KAnji KAna Simple Inverter
+kakasi-dic (2.3.5~pre1+cvs20071101-1)
+    KAKASI dictionary files
+kanatest (0.4.8-2.1)
+    beginner's drill game to learn Japanese kana characters
+kanjidic (2012.05.09-1)
+    Kanji Dictionary
+kanjidic-xml (2012.05.09-1)
+    Kanji Dictionary in XML format
+katoob (0.5.9.1-3)
+    A Gtk2 light weight multilingual BiDi aware text editor
+kcc (2.3-12)
+    Kanji code filter
+khmerconverter (1.4-1)
+    converts between legacy Khmer encodings and Unicode
+kindleclip (0.3-3)
+    User interface for managing Amazon Kindle's "My Clippings" file
+konwert (1.8-11.2)
+    Charset conversion for files or terminal I/O
+konwert-dev (1.8-11.2)
+    Tools to define new charset conversion for konwert
+konwert-filters (1.8-11.2)
+    Filters used by konwert for charset conversion
+kthesaurus (1:2.4.4-3)
+    thesaurus for the Calligra Suite
+kwalify (0.7.2-2)
+    parser, schema validator, and data-binding tool for YAML and JSON.
+lcdf-typetools (2.92+dfsg1-0.1~deb7u1)
+    Programs to manipulate OpenType and multiple-master fonts
+ldapvi (1.7-9)
+    perform an LDAP search and update results using a text editor
+ldp-docbook-dsssl (0.0.20040321-2)
+    The Linux Documentation Project's DSSSL stylesheets
+ldp-docbook-xsl (0.0.20040321-2)
+    The Linux Documentation Project's XSL stylesheets
+le-dico-de-rene-cougnenc (1.3-2.1)
+    the "Dico" by Rene Cougnenc
+less (444-4)
+    pager program similar to more
+libaa-bin (1.4p5-40)
+    sample programs using aalib
+libexttextcat-data (3.2.0-2)
+    Language detection library - data files
+liblouis-bin (2.4.1-1)
+    Braille translation library - utilities
+liblouis-data (2.4.1-1)
+    Braille translation library - data
+liblouisutdml-bin (2.2.0-1)
+    Braille UTDML translation utilities
+liblouisutdml-data (2.2.0-1)
+    Braille UTDML translation library - data
+liblouisxml-bin (2.4.0-3)
+    Braille XML translation utilities
+liblouisxml-data (2.4.0-3)
+    Braille XML translation library - data
+libreoffice-lightproof-en (0.4.2+1.5~b3-3)
+    Lightproof grammar checker for LibreOffice (English)
+libreoffice-lightproof-hu (1.4.3+1.5~b3-3)
+    Lightproof grammar checker for LibreOffice (Hungarian)
+libreoffice-lightproof-ru-ru (0.3.1+1.5~b3-3)
+    Lightproof grammar checker for LibreOffice (Russian)
+libreoffice-voikko (3.3-3)
+    Finnish language tools for LibreOffice
+libreoffice-writer2latex (1.0.2-8)
+    Writer/Calc to LaTeX converter extension for LibreOffice
+libreoffice-writer2xhtml (1.0.2-8)
+    Writer/Calc to XHTML converter extension for LibreOffice
+libreoffice-zemberek (1.0~rc2-10.4)
+    Turkish spell checker extension for LibreOffice
+libstemmer-tools (0+svn546-2)
+    Simple word stemming utility using Snowball
+libwbxml2-utils (0.10.7-1)
+    Binary XML utilities
+libxml2-utils (2.8.0+dfsg1-7+wheezy3) [security]
+    XML utilities
+lincredits (0.7)
+    Generate nicely-formatted versions of the Linux CREDITS file
+link-grammar (4.7.4-2)
+    Carnegie Mellon University's link grammar parser
+link-grammar-dictionaries-en (4.7.4-2)
+    Carnegie Mellon University's link grammar parser (English dictionary)
+link-grammar-dictionaries-lt (4.7.4-2)
+    Carnegie Mellon University's link grammar parser (Lithuanian dictionary)
+linuxdoc-tools (0.9.68+b1 [i386], 0.9.68 [amd64, armel, armhf, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    convert LinuxDoc SGML source into other formats
+linuxdoc-tools-info (0.9.68)
+    Info output facility of LinuxDoc-Tools
+linuxdoc-tools-latex (0.9.68)
+    LaTeX/PS/PDF output facility of LinuxDoc-Tools
+linuxdoc-tools-text (0.9.68)
+    Text output facility of LinuxDoc-Tools
+logidee-tools (1.2.12)
+    Tools to write courses in XML and export them to various formats
+lookup (1.08b-11)
+    interactive utility to search text files quickly
+lout (3.39-1)
+    Typesetting system, an alternative to (La)TeX
+lout-common (3.39-1)
+    Common files for the Lout typesetting system
+ludevit (7)
+    converter from standard Slovak into the L. Štúr version
+lv (4.51-2)
+    Powerful Multilingual File Viewer
+magicfilter (1.2-64)
+    automatic printer filter
+makedic (6.5deb2-8)
+    dictionary compiler for KDrill
+mgdiff (1.0-29)
+    xdiff clone
+miscfiles (1.4.2.dfsg.1-9)
+    Dictionaries and other interesting files
+misery (0.2-1)
+    Simple accounting package for groups, clubs, holidays
+morsegen (0.2.1-1)
+    convert text file to ASCII morse code
+most (5.0.0a-2.1)
+    Pager program similar to more and less
+mova (4.0-4.2)
+    Scripts for Mova-format dictionary
+mp (3.7.1-11)
+    pretty-printer for email messages and other text files
+mpage (2.5.6-1)
+    print multiple pages per sheet on PostScript printer
+mueller7-dict (2002.02.27-8)
+    Mueller English/Russian dictionary in dict format
+mueller7accent-dict (2002.02.27-8)
+    Mueller English/Russian dictionary with accents in dict format
+mupdf (0.9-2+deb7u2)
+    lightweight PDF viewer
+mupdf-tools (0.9-2+deb7u2)
+    commmand line tools for the MuPDF viewer
+myspell-af (1:3.3.0-4)
+    Afrikaans dictionary for myspell
+myspell-bg (4.1-3)
+    Bulgarian dictionary for myspell
+myspell-ca (0.20111230b-4)
+    Catalan dictionary for myspell
+myspell-cs (20040229-5.1)
+    Czech dictionary for myspell
+myspell-da (1.6.25-1.1)
+    The Comprehensive Danish Dictionary (DSDO) - myspell
+myspell-de-at (20120607-1)
+    Austrian (German) dictionary for myspell
+myspell-de-ch (20120607-1)
+    Swiss (German) dictionary for myspell
+myspell-de-de (20120607-1)
+    German dictionary for myspell
+myspell-de-de-oldspell (1:2-28)
+    German dictionary for myspell (old orthography)
+myspell-el-gr (0.8-1.1)
+    Greek (el_GR) dictionary for myspell
+myspell-en-au (2.1-5.3)
+    English_australian dictionary for myspell
+myspell-en-gb (1:3.3.0-4)
+    English_british dictionary for myspell
+myspell-en-us (1:3.3.0-4)
+    English_american dictionary for myspell
+myspell-en-za (1:3.3.0-4)
+    English_southafrican dictionary for myspell
+myspell-eo (2.1.2000.02.25-45)
+    Esperanto dictionary for myspell
+myspell-es (1.11-4)
+    Spanish dictionary for myspell
+myspell-et (1:20030606-20)
+    Estonian dictionary for MySpell
+myspell-fa (0.20070816-3)
+    Persian (Farsi) dictionary for myspell
+myspell-fi (0.7-18)
+    The Finnish dictionary for myspell
+myspell-fo (0.4.1-1)
+    Faroese dictionary for myspell
+myspell-fr (1.4-26)
+    French dictionary for myspell (Hydro-Quebec version)
+myspell-fr-gut (1:1.0-30)
+    French dictionary for myspell (GUTenberg version)
+myspell-ga (2.0-21)
+    An Irish (Gaeilge) dictionary for OpenOffice and Mozilla
+myspell-gd (0.50-8)
+    Scots Gaelic dictionary for myspell
+myspell-gv (0.50-9.1)
+    Manx Gaelic dictionary for myspell
+myspell-he (1.1-2)
+    Hebrew dictionary for myspell
+myspell-hr (20060617-2.3)
+    Croatian dictionary for myspell
+myspell-hu (1.2+repack-2)
+    Hungarian dictionary for myspell
+myspell-hu
+    virtual package provided by hunspell-hu
+myspell-hy (0.20.0-2)
+    Armenian dictionary for myspell
+myspell-it (1:3.3.0-4)
+    Italian dictionary for myspell
+myspell-ku (0.20.0-2)
+    Kurdish (Kurmanji) dictionary for myspell
+myspell-lt (1.2.1-3)
+    myspell dictionary for Lithuanian (LT)
+myspell-lv (0.9.4-5)
+    Latvian dictionary for Myspell
+myspell-nb (2.0.10-5.1)
+    Norwegian Bokmål dictionary for myspell
+myspell-nl (1:2.10-1)
+    Dutch dictionary for Hunspell
+myspell-nn (2.0.10-5.1)
+    Norwegian Nynorsk dictionary for myspell
+myspell-pl (20120520-1)
+    Polish dictionary for myspell
+myspell-pt (20091013-4)
+    Portuguese dictionaries for myspell
+myspell-pt-br (20110527-2)
+    Brazilian Portuguese dictionary for myspell
+myspell-pt-pt (20091013-4)
+    European Portuguese dictionary for myspell
+myspell-ru (0.99g5-18)
+    Russian dictionary for MySpell
+myspell-sk (0.5.5a-2.3)
+    Slovak dictionary for myspell
+myspell-sl (1.0-5)
+    Slovenian dictionary for myspell
+myspell-sw (1:3.3.0-4)
+    Swahili dictionary for myspell
+myspell-th (1:3.3.0-4)
+    Thai dictionary for myspell
+myspell-tl (0.4-0-10)
+    Tagalog dictionary for myspell/hunspell
+myspell-uk (1.6.5-2)
+    Ukrainian dictionary for myspell
+mythes-ca (1:3.3.0-4)
+    Catalan Thesaurus for LibreOffice/OpenOffice.org
+mythes-cs (1:3.3.0-4)
+    Czech Thesaurus for LibreOffice/OpenOffice.org
+mythes-de (20120516-2)
+    German Thesaurus for OpenOffice.org/LibreOffice
+mythes-de-ch (20120516-2)
+    German Thesaurus for OpenOffice.org/LibreOffice (Swiss Version)
+mythes-en-au (2.1-5.3)
+    Australian English Thesaurus for OpenOffice.org
+mythes-en-us (1:3.3.0-4)
+    English Thesaurus for LibreOffice/OpenOffice.org
+mythes-fr (1:3.3.0-4)
+    French Thesaurus for LibreOffice/OpenOffice.org
+mythes-hu (1:3.3.0-4)
+    Hungarian Thesaurus for LibreOffice/OpenOffice.org
+mythes-it (2.0.7.gh.deb1-4.1)
+    Italian Thesaurus for OpenOffice.org 2
+mythes-ne (1:3.3.0-4)
+    Nepali Thesaurus for LibreOffice/OpenOffice.org
+mythes-pl (1.5-4)
+    Polish thesaurus for LibreOffice/OpenOffice.org
+mythes-ro (1:3.3.0-4)
+    Romanian Thesaurus for LibreOffice/OpenOffice.org
+mythes-ru (1:3.3.0-4)
+    Russian Thesaurus for LibreOffice/OpenOffice.org
+mythes-sk (1:3.3.0-4)
+    Slovak Thesaurus for LibreOffice/OpenOffice.org
+namazu2 (2.0.21-6)
+    full text search engine - binary and CGI script
+namazu2-common (2.0.21-6)
+    full text search engine - documentation
+namazu2-index-tools (2.0.21-6)
+    full text search engine - index handling tools
+natbraille (2.0rc3-1)
+    French braille typesetting program
+ndtpd (1:1.0.dfsg.1-4.3)
+    the Network Dictionary Transfer Protocol server
+nkf (2.12-1)
+    Network Kanji code conversion Filter
+ocrodjvu (0.7.9-1)
+    tool to perform OCR on DjVu documents
+odt2txt (0.4+git20100620-1+b1)
+    simple converter from OpenDocument Text to plain text
+ooo2dbk (2.1.0-1)
+    converts OpenOffice.org SXW documents to DocBook XML
+opendict (0.6.3-3.1)
+    computer dictionary for several dictionary formats
+opendict-plugins-lingvosoft (0.8-2) [contrib]
+    plugins for OpenDict - LingvoSoft Online Dictionaries
+openjade (1.4devel1-20.1+b1)
+    Implementation of the DSSSL language
+openjade1.3 (1.3.2-11.1+b1)
+    Implementation of the DSSSL language
+openoffice.org-dtd-officedocument1.0 (2:1.0+LibO3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- legacy 1.0 XML DTD
+openoffice.org-hyphenation-af (1:3.4.0~ooo340m1-7)
+    Afrikaans hyphenation patterns for LibreOffice/OpenOffice.org
+openoffice.org-hyphenation-af
+    virtual package provided by hyphen-af
+openoffice.org-hyphenation-ca (1:3.4.0~ooo340m1-7)
+    Catalan hyphenation patterns for LibreOffice/OpenOffice.org
+openoffice.org-hyphenation-ca
+    virtual package provided by hyphen-ca
+openoffice.org-hyphenation-de (1:3.4.0~ooo340m1-7)
+    German hyphenation patterns for LibreOffice/OpenOffice.org
+openoffice.org-hyphenation-de
+    virtual package provided by hyphen-de
+openoffice.org-hyphenation-en-us (1:3.4.0~ooo340m1-7)
+    US English hyphenation patterns for LibreOffice/OpenOffice.org
+openoffice.org-hyphenation-en-us
+    virtual package provided by hyphen-en-us
+openoffice.org-hyphenation-fr (1:3.4.0~ooo340m1-7)
+    French hyphenation patterns for LibreOffice/OpenOffice.org
+openoffice.org-hyphenation-fr
+    virtual package provided by hyphen-fr
+openoffice.org-hyphenation-hu (1:3.4.0~ooo340m1-7)
+    Hungarian hyphenation patterns for LibreOffice/OpenOffice.org
+openoffice.org-hyphenation-hu
+    virtual package provided by hyphen-hu
+openoffice.org-hyphenation-it (1:3.4.0~ooo340m1-7)
+    Italian hyphenation patterns for LibreOffice/OpenOffice.org
+openoffice.org-hyphenation-it
+    virtual package provided by hyphen-it
+openoffice.org-hyphenation-lt (1.2.1-3)
+    Lithuanian hyphenation pattern for OpenOffice.org
+openoffice.org-hyphenation-pl (1:3.4.0~ooo340m1-7)
+    Polish hyphenation patterns for LibreOffice/OpenOffice.org
+openoffice.org-hyphenation-pl
+    virtual package provided by hyphen-pl
+openoffice.org-hyphenation-ro (1:3.4.0~ooo340m1-7)
+    Romanian hyphenation patterns for LibreOffice/OpenOffice.org
+openoffice.org-hyphenation-ro
+    virtual package provided by hyphen-ro
+openoffice.org-hyphenation-sh (1:3.4.0~ooo340m1-7)
+    Serbian (Latin) hyphenation patterns for LibreOffice/OpenOffice.org
+openoffice.org-hyphenation-sh
+    virtual package provided by hyphen-sh
+openoffice.org-hyphenation-sl (1:3.4.0~ooo340m1-7)
+    Slovenian hyphenation patterns for LibreOffice/OpenOffice.org
+openoffice.org-hyphenation-sl
+    virtual package provided by hyphen-sl
+openoffice.org-hyphenation-sr (1:3.4.0~ooo340m1-7)
+    Serbian (Cyrillic) hyphenation patterns for LibreOffice/OpenOffice.org
+openoffice.org-hyphenation-sr
+    virtual package provided by hyphen-sr
+openoffice.org-hyphenation-zu (1:3.4.0~ooo340m1-7)
+    Zulu hyphenation patterns for LibreOffice/OpenOffice.org
+openoffice.org-thesaurus-ca (1:3.4.0~ooo340m1-7)
+    Catalan Thesaurus for LibreOffice/OpenOffice.org
+openoffice.org-thesaurus-ca
+    virtual package provided by mythes-ca
+openoffice.org-thesaurus-cs (1:3.4.0~ooo340m1-7)
+    Czech Thesaurus for LibreOffice/OpenOffice.org
+openoffice.org-thesaurus-cs
+    virtual package provided by mythes-cs
+openoffice.org-thesaurus-de (1:3.4.0~ooo340m1-7)
+    German Thesaurus for OpenOffice.org/LibreOffice
+openoffice.org-thesaurus-de
+    virtual package provided by mythes-de
+openoffice.org-thesaurus-de-ch (1:3.4.0~ooo340m1-7)
+    German Thesaurus for OpenOffice.org/LibreOffice (Swiss Version)
+openoffice.org-thesaurus-de-ch
+    virtual package provided by mythes-de-ch
+openoffice.org-thesaurus-en-us (1:3.4.0~ooo340m1-7)
+    English Thesaurus for LibreOffice/OpenOffice.org
+openoffice.org-thesaurus-en-us
+    virtual package provided by mythes-en-us
+openoffice.org-thesaurus-fr (1:3.4.0~ooo340m1-7)
+    French Thesaurus for LibreOffice/OpenOffice.org
+openoffice.org-thesaurus-fr
+    virtual package provided by mythes-fr
+openoffice.org-thesaurus-hu (1:3.4.0~ooo340m1-7)
+    Hungarian Thesaurus for LibreOffice/OpenOffice.org
+openoffice.org-thesaurus-hu
+    virtual package provided by mythes-hu
+openoffice.org-thesaurus-it (1:3.4.0~ooo340m1-7)
+    Italian Thesaurus for OpenOffice.org 2
+openoffice.org-thesaurus-ne (1:3.4.0~ooo340m1-7)
+    Nepali Thesaurus for LibreOffice/OpenOffice.org
+openoffice.org-thesaurus-ne
+    virtual package provided by mythes-ne
+openoffice.org-thesaurus-pl (1:3.4.0~ooo340m1-7)
+    Polish thesaurus for LibreOffice/OpenOffice.org
+openoffice.org-thesaurus-pl
+    virtual package provided by mythes-pl
+openoffice.org-thesaurus-ro (1:3.4.0~ooo340m1-7)
+    Romanian Thesaurus for LibreOffice/OpenOffice.org
+openoffice.org-thesaurus-ro
+    virtual package provided by mythes-ro
+openoffice.org-thesaurus-ru (1:3.4.0~ooo340m1-7)
+    Russian Thesaurus for LibreOffice/OpenOffice.org
+openoffice.org-thesaurus-ru
+    virtual package provided by mythes-ru
+openoffice.org-thesaurus-sk (1:3.4.0~ooo340m1-7)
+    Slovak Thesaurus for LibreOffice/OpenOffice.org
+openoffice.org-thesaurus-sk
+    virtual package provided by mythes-sk
+openoffice.org-voikko (1:3.4.0~ooo340m1-7)
+    Finnish language tools for LibreOffice
+openoffice.org-writer2latex (1:3.4.0~ooo340m1-7)
+    Writer/Calc to LaTeX converter extension for LibreOffice
+openoffice.org-writer2xhtml (1:3.4.0~ooo340m1-7)
+    Writer/Calc to XHTML converter extension for LibreOffice
+openoffice.org-zemberek (1:3.4.0~ooo340m1-7)
+    Turkish spell checker extension for LibreOffice
+openprinting-ppds (20120523-1)
+    OpenPrinting printer support - PostScript PPD files
+openprinting-ppds-extra (20120523-1)
+    Transitional package
+openprinting-ppds-extra
+    virtual package provided by openprinting-ppds
+opensaml2-schemas (2.4.3-4)
+    Security Assertion Markup Language library (XML schemas)
+opensaml2-tools (2.4.3-4)
+    Security Assertion Markup Language command-line tools
+opensp (1.5.2-10+b1 [armhf, s390x], 1.5.2-10 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc])
+    OpenJade group's SGML parsing tools
+openthesaurus-de-text (20120516-2)
+    German Text Thesaurus for e.g. ding
+page-crunch (1.0.1-3)
+    PDF and PS manipulation for printing needs
+pandoc (1.9.4.2-2)
+    general markup converter
+paps (0.6.8-6)
+    UTF-8 to PostScript converter using Pango
+par (1.52-3)
+    Paragraph reformatter
+parsewiki (0.4.3-1)
+    Documentation System Based on ASCII Text
+patchutils (0.3.2-1.1)
+    Utilities to work with patches
+pdf2djvu (0.7.12-2+b1)
+    PDF to DjVu converter
+pdfchain (1:0.3.3-2)
+    graphical user interface for the PDF Tool Kit
+pdfcube (0.0.4-2+b1)
+    PDF document viewer with 3D effects
+pdfresurrect (0.11-1)
+    tool for extracting/scrubbing versioning data from PDF documents
+pdfsam (1.1.4-2)
+    PDF Split and Merge
+pdftk (1.44-7)
+    tool for manipulating PDF documents
+plywood (0.5.11+nmu2)
+    Playwriting typing and typesetting help
+po4a (0.42-1)
+    tools for helping translation of documentation
+poedit (1.4.6.1-5.1)
+    gettext catalog editor
+poster (1:20050907-1)
+    Create large posters out of PostScript pages
+pptview (8.0-7) [non-free]
+    view PowerPoint presentations
+prime (1.0.0.1-2.2)
+    Japanese PRedictive Input Method Editor
+prime-dict (1.0.0-2)
+    Japanese PRedictive Input Method Editor (dictionary)
+printer-driver-all (0.20120416)
+    printer drivers metapackage
+printer-driver-all-enforce (0.20120416)
+    printer drivers metapackage - enforcing version
+printer-driver-c2050 (0.3b-4)
+    printer driver for Lexmark 2050 Color Jetprinter
+printer-driver-c2esp (24-2)
+    printer driver for Kodak ESP AiO color inkjet Series
+printer-driver-cjet (0.8.9-3)
+    printer driver for Canon LBP laser printers
+printer-driver-escpr (1.1.1-2)
+    printer driver for Epson Inkjet that use ESC/P-R
+printer-driver-foo2zjs (20120510dfsg0-1)
+    printer driver for ZjStream-based printers
+printer-driver-hpcups (3.12.6-3.1+deb7u1)
+    HP Linux Printing and Imaging - CUPS Raster driver (hpcups)
+printer-driver-hpijs (3.12.6-3.1+deb7u1)
+    HP Linux Printing and Imaging - gs IJS driver (hpijs)
+printer-driver-m2300w (0.51-7)
+    printer driver for Minolta magicolor 2300W/2400W color laser printers
+printer-driver-min12xxw (0.0.9-6)
+    printer driver for KonicaMinolta PagePro 1[234]xxW
+printer-driver-pnm2ppa (1.13-4)
+    printer driver for HP-GDI printers
+printer-driver-ptouch (1.3-4)
+    printer driver Brother P-touch label printers
+printer-driver-pxljr (1.3+repack0-2)
+    printer driver for HP Color LaserJet 35xx/36xx
+printer-driver-sag-gdi (0.1-3)
+    printer driver for Ricoh Aficio SP 1000s/SP 1100s
+printer-driver-splix (2.0.0+svn306-2)
+    Driver for Samsung and Xerox SPL2 and SPLc laser printers
+printfilters-ppd (2.13-11.1)
+    filters from the GNUlpr printing system
+ps2eps (1.68-1)
+    convert PostScript to EPS (Encapsulated PostScript) files
+psgml (1.3.2-14)
+    Emacs major mode for editing SGML documents
+psrip (1.3-7)
+    Extract images from PostScript files
+pstotext (1.9-6)
+    Extract text from PostScript and PDF files
+psutils (1.17.dfsg-1)
+    PostScript document handling utilities
+ptex2tex (0.4-1)
+    easy generation of (possibly complex) LaTeX environments
+publican-debian (0.2)
+    Debian brand for Publican
+python-cheetah (2.4.4-3)
+    text-based template engine and Python code generator
+qdacco (0.8.2-1)
+    offline Dacco Catalan <-> English dictionary frontend (qt)
+qpdf (2.3.1-4)
+    tools for and transforming and inspecting PDF files
+raptor-utils (1.4.21-7.1)
+    Raptor RDF parser and serializer utilities
+raptor2-utils (2.0.8-2)
+    Raptor 2 RDF parser and serializer utilities
+rasqal-utils (0.9.29-1)
+    Rasqal RDF Query utilities
+rdtool (0.6.34-4)
+    RD document formatter
+rdtool-elisp (0.6.34-4)
+    Emacs-lisp rd-mode for writing RD document
+re (0.1-5+b1 [i386, ia64, mips, mipsel, powerpc, s390, sparc], 0.1-5 [amd64, armel, armhf, kfreebsd-amd64, kfreebsd-i386, s390x])
+    Russian Anywhere -- Russian text converter
+recode (3.6-20)
+    Character set conversion utility
+redland-utils (1.0.15-1+b1)
+    Redland Resource Description Framework (RDF) Utility programs
+rednotebook (1.4.0-1)
+    daily journal with calendar, templates and keyword searching
+rman (3.2-6)
+    PolyglotMan - Reverse compile man pages
+rmligs-german (20120607-1)
+    remove incorrectly used ligatures from LaTeX documents
+roffit (0.7~20100607+git790d154-3)
+    convert nroff manual pages into HTML
+rotix (0.83-4)
+    A program to generate rotational obfuscations
+rsstail (1.8-1)
+    console RSS reader that monitors a feed and outputs new entries
+rttool (1.0.3-2)
+    RT table formatter
+rxp (1.5.0-1)
+    A validating XML parser
+s5 (1.1.dfsg.2-5)
+    simple HTML-based presentation system
+sary (1:1.2.0-2.1)
+    A suffix array library (program)
+scowl (7.1-1)
+    Spell-Checker Oriented Word Lists
+screader (1.8-7)
+    Screen reader using software or hardware speech synthesizer
+sdf (2.001+1-2)
+    Simple Document Parser
+sdic (2.1.3-22) [contrib]
+    Emacs interface for Japanese dictionaries
+sdic-edict (2.1.3-22) [contrib]
+    installer for EDICT dictionaries for sdic
+sdic-eijiro (2.1.3-22) [contrib]
+    installer for EIJIRO dictionaries for sdic
+sdic-gene95 (2.1.3-22) [contrib]
+    installer for GENE95 dictionaries for sdic
+sdop (0.71-1)
+    Simplified DocBook Processor
+seetxt (0.72-4)
+    lightweight text file and man page viewer
+serdi (0.14.0~dfsg0-2)
+    lightweight RDF syntax library - serdi tool
+sgml-base (1.26+nmu4)
+    SGML infrastructure and SGML catalog file support
+sgml-data (2.0.8)
+    common SGML and XML data
+sgml-spell-checker (0.0.20040919-3)
+    spell checker for SGML documents
+sgml2x (1.0.0-11.3)
+    generic formatter for SGML/XML documents using DSSSL stylesheets
+sgmlspl (1.03ii-32)
+    SGMLS-based example Perl script for processing SGML parser output
+sgmltools-lite (3.0.3.0.cvs.20010909-16)
+    convert DocBook SGML source into HTML using DSSSL
+sgrep (1.94a-4)
+    tool to search a file for structured pattern
+shibboleth-sp2-schemas (2.4.3+dfsg-5+deb7u1) [security]
+    Federated web single sign-on system (schemas)
+since (1.1-2)
+    tail(1) work-alike that saves and uses state information
+sisu (3.3.2-1)
+    documents - structuring, publishing in multiple formats and search
+sisu-complete (3.3.2-1)
+    installs all SiSU related packages
+sisu-markup-samples (3.0.1-1) [non-free]
+    document markup examples for sisu, publish and search framework
+sisu-pdf (3.3.2-1)
+    dependencies to convert SiSU LaTeX output to pdf
+sisu-postgresql (3.3.2-1)
+    SiSU dependencies for use with PostgreSQL database
+sisu-sqlite (3.3.2-1)
+    SiSU dependencies for use with SQLite database
+slice (1.3.8-11)
+    Extract out pre-defined slices of an ASCII file
+sordi (0.8.0~dfsg0-1)
+    library for storing RDF data in memory - sordi tool
+sp (1.3.4-1.2.1-47.1+b1)
+    James Clark's SGML parsing tools
+spell (1.0-24+b1 [armel, ia64], 1.0-24 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    GNU Spell, a clone of Unix `spell'
+spellutils (0.7-5)
+    Utilities to spell-check selectively
+stardict-czech (20110701-1)
+    Stardict package for Czech dictionary of foreign words
+stardict-english-czech (20120601-1) [non-free]
+    Stardict package for English-Czech dictionary
+stardict-german-czech (20120201-1) [non-free]
+    Stardict package for German-Czech dictionary
+stardict-xmlittre (1:1.0-1)
+    French Littré dictionary for stardict
+stx2any (1.56-2)
+    Converter from structured plain text to other formats
+suikyo-table (2.1.0-3)
+    Romaji Hiragana conversion library (conversion table)
+swath (0.4.3-3)
+    Thai word segmentation program
+sword-comm-mhcc (1.1-4)
+    Matthew Henry Concise Commentary for SWORD
+sword-comm-scofield (1.0-3)
+    Scofield Reference Notes, 1917 edition for SWORD
+sword-comm-tdavid (1.1-3)
+    C. H. Spurgeon's Treasury of David for SWORD
+sword-dict-naves (1.1-3)
+    Naves Topical Bible for SWORD
+sword-dict-strongs-greek (1.2-3)
+    Strong's Greek Bible Dictionary for SWORD
+sword-dict-strongs-hebrew (1.2-3)
+    Strong's Hebrew Bible Dictionary for SWORD
+sword-text-kjv (2.3-2)
+    King James Version with Strongs Numbers for SWORD
+sword-text-sparv (1.5-1)
+    Spanish Reina-Valera Bible (1909) for SWORD
+sword-text-web (1.4-3)
+    World English Bible (WEB) for SWORD
+sylseg-sk (0.7-1)
+    Syllabic segmentation for Slovak language
+t1utils (1.37-1)
+    Collection of simple Type 1 font manipulation programs
+t2html (2010.0302+gitbec03e2-2)
+    text to HTML converter implemented in Perl
+tcs (1-11)
+    character set translator
+texi2html (1.82+dfsg1-1)
+    Convert Texinfo files to HTML
+texinfo (4.13a.dfsg.1-10)
+    Documentation system for on-line information and printed output
+tmexpand (0.1.2.0-3)
+    text-macro processing script to create HTML and SGML documents
+tmispell-voikko (0.7.1-3)
+    Ispell wrapper which uses Voikko for spell-checking
+tnef (1.4.9-1)
+    Tool to unpack MIME application/ms-tnef attachments
+toilet (0.3-1)
+    display large colourful characters in text mode
+trang (20091111-5)
+    XML schema converter
+trans-de-en (1.7-2)
+    German-English translation dictionary
+translate (0.6-11)
+    translates words from English into German or viceversa
+translate-docformat (0.6-5)
+    any-to-any document translation system
+tre-agrep (0.8.0-3)
+    approximate grep utility based on the tre library
+troffcvt (1.04-21)
+    Converts troff source to HTML, RTF, and plain text
+trueprint (5.3-4)
+    pretty printing of source code
+txt2html (2.51-1)
+    Text to HTML converter
+txt2man (1.5.5-4)
+    Converts flat ASCII text to man page format
+txt2tags (2.6-3)
+    conversion tool to generating several file formats
+txtreader (0.6.5-1)
+    text viewer, mainly used for reading novels
+udo (6.4.1-1)
+    universal document - text processing utility
+unhtml (2.3.9-3)
+    Remove the markup tags from an HTML file
+uni2ascii (4.18-2)
+    UTF-8 to 7-bit ASCII and vice versa converter
+unoconv (0.5-1)
+    converter between LibreOffice document formats
+unrtf (0.21.5-3~deb7u1) [security]
+    RTF to other formats converter
+unsort (1.1.2-1)
+    reorders lines in a file in semirandom ways
+vera (1.17-6)
+    Dictionary of computer related acronyms -- info format
+verbiste (0.1.34-1)
+    French and Italian conjugator
+vilistextum (2.6.9-1.1)
+    a HTML to text converter
+voikko-fi (1.12-1)
+    Description of Finnish morphology written in Malaga
+vtprint (2.0.2-12)
+    Prints to term emulator via ANSI codes
+w3-dtd-mathml (2.0.0.0-5)
+    Mathematical Markup Language V2.0 DTD
+w3c-dtd-xhtml (1.2-4)
+    W3C eXtensible HyperText Markup Language (XHTML) DTD
+w3c-sgml-lib (1.2-3)
+    w3.org DTD and catalog files
+wamerican (7.1-1)
+    American English dictionary words for /usr/share/dict
+wamerican-huge (7.1-1)
+    American English dictionary words for /usr/share/dict
+wamerican-insane (7.1-1)
+    American English dictionary words for /usr/share/dict
+wamerican-large (7.1-1)
+    American English dictionary words for /usr/share/dict
+wamerican-small (7.1-1)
+    American English dictionary words for /usr/share/dict
+wbrazilian (3.0~beta4-15)
+    Brazilian Portuguese wordlist
+wbritish (7.1-1)
+    British English dictionary words for /usr/share/dict
+wbritish-huge (7.1-1)
+    British English dictionary words for /usr/share/dict
+wbritish-insane (7.1-1)
+    British English dictionary words for /usr/share/dict
+wbritish-large (7.1-1)
+    British English dictionary words for /usr/share/dict
+wbritish-small (7.1-1)
+    British English dictionary words for /usr/share/dict
+wbulgarian (4.1-3)
+    Bulgarian dictionary words for /usr/share/dict
+wcanadian (7.1-1)
+    Canadian English dictionary words for /usr/share/dict
+wcanadian-huge (7.1-1)
+    Canadian English dictionary words for /usr/share/dict
+wcanadian-insane (7.1-1)
+    Canadian English dictionary words for /usr/share/dict
+wcanadian-large (7.1-1)
+    Canadian English dictionary words for /usr/share/dict
+wcanadian-small (7.1-1)
+    Canadian English dictionary words for /usr/share/dict
+wcatalan (0.20111230b-4)
+    Catalan dictionary words for /usr/share/dict
+wdanish (1.6.25-1.1)
+    The Comprehensive Danish Dictionary (DSDO) - wordlist
+wdiff (1.1.2-1)
+    Compares two files word by word
+wdutch (1:2.10-1)
+    list of Dutch words
+wfaroese (0.4.1-1)
+    Faroese dictionary / wordlist
+wfinnish (0.7-18)
+    A small Finnish dictionary for /usr/share/dict
+wfrench (1.2.3-10)
+    French dictionary words for /usr/share/dict
+wgaelic (0.50-8)
+    A Scots Gaelic word list
+wgalician-minimos (0.5-35)
+    Wordlist for Galician (minimos)
+wgerman-medical (20110608-1)
+    German medical dictionary words for /usr/share/dict
+whyteboard (0.41.1-4)
+    overlay painting and annotation application
+wiki2beamer (0.9.4-1)
+    Tool to create LaTeX beamer presentations in wiki syntax
+wikipedia2text (0.11-2)
+    displays Wikipedia articles on the command line
+wirish (2.0-21)
+    Irish (Gaeilge) dictionary words for /usr/share/dict
+witalian (1.7.5)
+    Italian dictionary words for /usr/share/dict/
+wmanx (0.50-9.1)
+    Manx Gaelic dictionary words for /usr/share/dict
+wngerman (20120607-1)
+    New German orthography wordlist
+wnorwegian (2.0.10-5.1)
+    Norwegian word list
+wogerman (1:2-28)
+    Old German dictionary for /usr/share/dict
+wordnet (1:3.0-29)
+    electronic lexical database of English language
+wordnet-base (1:3.0-29)
+    electronic lexical database of English language (base data)
+wordnet-grind (1:3.0-29)
+    WordNet lexicographer files processor
+wordnet-gui (1:3.0-29)
+    electronic lexical database of English language
+wordnet-sense-index (1:3.0-29)
+    electronic lexical database of English language (index.sense)
+wp2x (2.5-mhi-10.1)
+    WordPerfect 5.x documents to whatever converter
+wpolish (20120520-1)
+    Polish dictionary words for /usr/share/dict
+wportuguese (20120604-1)
+    European Portuguese wordlist
+wpp (2.13.1.35-3)
+    The Web Preprocessor - a Perl script to preprocess HTML files
+writer2latex (1.0.2-8)
+    OpenOffice.org Writer/Calc to LaTeX/XHTML converter
+wspanish (1.0.26)
+    Spanish dictionary words for /usr/share/dict
+wswedish (1.4.5-2.1)
+    Swedish dictionary words for /usr/share/dict
+wswiss (20120607-1)
+    Swiss (German) orthography wordlist
+wukrainian (1.6.5-2)
+    Ukrainian dictionary words for /usr/share/dict
+wv (1.2.9-3)
+    Programs for accessing Microsoft Word documents
+xalan (1.10-6)
+    XSLT processor
+xfpt (0.09-1)
+    generate XML from plain text
+xhtml2ps (1.0b7-1)
+    HTML to PostScript converter (Tcl/Tk GUI frontend)
+xindy (2.4-1.1)
+    index generator for structured documents like LaTeX or SGML
+xindy-rules (2.4-1.1)
+    rule files for xindy
+xjdic (24-8)
+    Japanese-English dictionary search program
+xless (1.7-14.1)
+    file browsing tool for the X Window System
+xml-core (0.13+nmu2)
+    XML infrastructure and XML catalog file support
+xml2rfc (1.36-5) [non-free]
+    XML-based formatting tool for RFCs
+xmldiff (0.6.10-2+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.6.10-2 [armhf, s390x])
+    tree to tree correction between xml documents
+xmlroff (0.6.2-1.1)
+    XSL formatter mainly for DocBook
+xmlsec1 (1.2.18-2)
+    XML security command line processor
+xmlstarlet (1.3.1-3)
+    command line XML toolkit
+xmlto (0.0.25-2)
+    XML-to-any converter
+xmltooling-schemas (1.4.2-5)
+    XML schemas for XMLTooling
+xpdf (3.03-10)
+    Portable Document Format (PDF) reader
+xqilla (2.3.0-1)
+    XQuery and XPath 2.0 command line interpreter
+xsltproc (1.1.26-14.1)
+    XSLT 1.0 command line processor
+ydpdict (1.0.0-2) [contrib]
+    interface for Collins and Langenscheidt dictionaries
+yiyantang (0.7.0-3.1)
+    Terminal-based Chinese automatic encoding converter
+yodl (3.00.0-6)
+    Your Own Document Language (Yodl) is a pre-document language
+zathura (0.1.2-4)
+    PDF viewer with a minimalistic interface
+zathura-djvu (0.1-1)
+    DjVu support for zathura
+zathura-ps (0.1-1)
+    PostScript support for zathura
+zemberek-server (0.7.1-12.1)
+    Turkish spellcheck server
+zh-autoconvert (0.3.16-3)
+    Chinese HZ/GB/BIG5/UNI/UTF7/UTF8 encodings auto-converter
+zoem (11-166-1)
+    general-purpose macro/programming language for transforming text
+zpspell (0.4.3-4.1)
+    Command line interface for zemberek-server 

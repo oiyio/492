@@ -1,0 +1,1361 @@
+
+agda (2.3.0.1-2)
+    dependently typed functional programming language
+agda-mode (2.3.0.1-2)
+    dependently typed functional programming language — emacs mode
+akonadi-backend-mysql (1.7.2-3)
+    MySQL storage backend for Akonadi
+akonadi-backend-postgresql (1.7.2-3)
+    PostgreSQL storage backend for Akonadi
+akonadi-backend-sqlite (1.7.2-3)
+    SQLite storage backend for Akonadi
+and (1.2.2-4.1)
+    Auto Nice Daemon
+apertium (3.1.0-2)
+    Shallow-transfer machine translation engine
+apertium-dbus (0.1-1.1)
+    A D-Bus service for the Apertium machine translation system
+apertium-en-ca (0.8.9-1+b1)
+    Apertium linguistic data to translate between English and Catalan
+apertium-en-es (0.6.0-1.1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.6.0-1.1 [armhf])
+    Apertium linguistic data to translate between English and Spanish
+apertium-eo-ca (0.9.0-1.1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.9.0-1.1 [armhf])
+    Apertium linguistic data to translate between Esperanto and Catalan
+apertium-eo-es (0.9.0-1.1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.9.0-1.1 [armhf])
+    Apertium linguistic data to translate between Esperanto and Spanish
+apertium-es-ca (1.1.0-1)
+    Apertium linguistic data to translate between Spanish and Catalan
+apertium-es-gl (1.0.7-1)
+    Apertium linguistic data to translate between Spanish and Galician
+apertium-es-pt (1.0.3-2.1)
+    Apertium linguistic data to translate between Spanish and Portuguese
+apertium-es-ro (0.7.1-2.1)
+    Apertium linguistic data to translate between Spanish and Romanian
+apertium-eu-es (0.3.1-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.3.1-1 [armhf])
+    Apertium linguistic data to translate between Basque and Spanish
+apertium-fr-ca (1.0.2-1)
+    Apertium linguistic data to translate between French and Catalan
+apertium-fr-es (0.9.0-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.9.0-1 [armhf])
+    Apertium linguistic data to translate between French and Spanish
+apertium-oc-ca (1.0.5-1.1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.0.5-1.1 [armhf])
+    Apertium linguistic data to translate between Occitan and Catalan
+apertium-oc-es (1.0.5-1.1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.0.5-1.1 [armhf])
+    Apertium linguistic data to translate between Occitan and Spanish
+apertium-pt-ca (0.8.1-1)
+    Apertium linguistic data to translate between Portuguese and Catalan
+apertium-pt-gl (0.9.1-1)
+    Apertium linguistic data to translate between Portuguese and Galician
+apertium-tolk (0.2-2.2)
+    Graphical user interface for Apertium
+apoo (2.2-2)
+    An Assembly course aid
+ascii2binary (2.14-1)
+    Convert between ASCII, hexadecimal and binary representations
+at-spi2-core (2.5.3-2)
+    Assistive Technology Service Provider Interface (dbus core)
+athcool (0.3.12-3)
+    tool to enable powersaving mode for Athlon/Duron processors
+atitvout (0.4-13)
+    ATI TV Out Support Program
+augeas-lenses (0.10.0-1)
+    Set of lenses needed by libaugeas0 to parse config files
+avr-evtd (1.7.7-2)
+    AVR watchdog daemon for Linkstation/Kuroboxes
+beancounter (0.8.10)
+    A stock portfolio performance monitoring tool
+birthday (1.6.2-3)
+    Display information about pending events on login
+blcr-testsuite (0.8.5-2)
+    Userspace tools to Checkpoint and Restart Linux processes
+blcr-util (0.8.5-2)
+    Userspace tools to Checkpoint and Restart Linux processes
+blends-common (0.6.16.2)
+    Debian Pure Blends common package
+bochsbios (2.4.6-5)
+    BIOS for the Bochs emulator
+brewtarget (1.2.4+dfsg-1.1)
+    GUI beer brewing software
+bugz (0.9.3-2)
+    command-line interface to Bugzilla
+byobu (5.16-1.1)
+    powerful command line "window manager" and shell multiplexer
+ca-certificates (20130119+deb7u1)
+    Common CA certificates
+cachefilesd (0.9-3.1)
+    support fscache on already mounted filesystem
+cairo-perf-utils (1.12.2-3)
+    The Cairo 2D vector graphics library performance utilities
+carettah (0.1.2-1)
+    Presentation tool written with Haskell.
+cbios (0.25-2)
+    open source MSX BIOS roms
+chasen (2.4.5-6)
+    Japanese Morphological Analysis System
+chasen-dictutils (2.4.5-6)
+    Japanese Morphological Analysis System - utilities for dictionary
+chemical-mime-data (0.1.94-6)
+    chemical MIME and file type support for desktops
+chkrootkit (0.49-4.1+deb7u2)
+    rootkit detector
+cldump (0.11~dfsg-1)
+    Clarion database files extractor
+clex (3.15-1)
+    command line file manager which uses the ncurses library
+clipf (0.4-1)
+    command line minimalistic personal finance manager
+clipit (1.4.1-1)
+    lightweight GTK+ clipboard manager
+cloop-utils (2.6.39.2-1)
+    Tools for handling with cloop compressed volumes
+clutter-1.0-tests (1.10.8-2)
+    Open GL based interactive canvas library (test programs)
+cmatrix (1.2a-4)
+    simulates the display from "The Matrix"
+console-cyrillic (0.9-16.2)
+    Better Cyrillic support for Linux console
+couchdb (1.2.0-5)
+    RESTful document oriented database
+cpuburn (1.4a-3)
+    Collection of programs to put heavy load on CPU
+crosshurd (1.7.44)
+    Install a Debian system
+curtain (0.1-1)
+    handy curtain for the desktop
+dballe (5.18-1)
+    Database for punctual meteorological data (Command line tools)
+dballe-common (5.18-1)
+    Common data files for all DB-All.e modules
+dbf2mysql (1.14a-3.1+b4 [i386, ia64, mips, mipsel, powerpc, s390, sparc], 1.14a-3.1+b2 [amd64, armel, kfreebsd-amd64, kfreebsd-i386], 1.14a-3.1+b1 [armhf, s390x])
+    xBase <--> MySQL
+dbview (1.0.4-1)
+    View dBase III files
+debbugs (2.4.1)
+    The bug tracking system based on the active Debian BTS
+debian-archive-keyring (2014.3~deb7u1)
+    GnuPG archive keys of the Debian archive
+debian-edu-archive-keyring (2013.03.15)
+    GnuPG archive keys of the Debian Edu archive
+debian-edu-config (1.702)
+    Configuration files for Skolelinux systems
+debian-edu-install (1.720+deb7u1)
+    Set d-i values to install Debian Edu without questions
+debian-installer-7.0-netboot-amd64 (20130613+deb7u2.b4)
+    Debian-installer network boot images for amd64
+debian-installer-7.0-netboot-armel (20130613+deb7u2.b4)
+    Debian-installer network boot images for armel
+debian-installer-7.0-netboot-armhf (20130613+deb7u2.b4)
+    Debian-installer network boot images for armhf
+debian-installer-7.0-netboot-i386 (20130613+deb7u2.b4)
+    Debian-installer network boot images for i386
+debian-installer-7.0-netboot-ia64 (20130613+deb7u2.b4)
+    Debian-installer network boot images for ia64
+debian-installer-7.0-netboot-kfreebsd-amd64 (20130613+deb7u2.b4)
+    Debian-installer network boot images for kfreebsd-amd64
+debian-installer-7.0-netboot-kfreebsd-i386 (20130613+deb7u2.b4)
+    Debian-installer network boot images for kfreebsd-i386
+debian-installer-7.0-netboot-mips (20130613+deb7u2.b4)
+    Debian-installer network boot images for mips
+debian-installer-7.0-netboot-mipsel (20130613+deb7u2.b4)
+    Debian-installer network boot images for mipsel
+debian-installer-7.0-netboot-powerpc (20130613+deb7u2.b4)
+    Debian-installer network boot images for powerpc
+debian-installer-7.0-netboot-sparc (20130613+deb7u2.b4)
+    Debian-installer network boot images for sparc
+debian-keyring (2013.04.21)
+    GnuPG keys of Debian Developers
+debian-ports-archive-keyring (2012.01.08)
+    GnuPG archive keys of the debian-ports archive
+debichem-abinitio (0.0.3)
+    DebiChem Ab Initio Calculations
+debichem-cheminformatics (0.0.3)
+    DebiChem Cheminformatics
+debichem-modelling (0.0.3)
+    DebiChem 3D Molecular Modelling and Visualization
+debichem-molmech (0.0.3)
+    DebiChem Molecular Mechanics
+debichem-polymer (0.0.3)
+    DebiChem polymer sequence editors and mass spectrometry
+debichem-semiempirical (0.0.3)
+    DebiChem Semi Empirical
+debichem-tasks (0.0.3)
+    DebiChem tasks for tasksel
+debichem-view-edit-2d (0.0.3)
+    DebiChem 2D structure editors
+debichem-visualisation (0.0.3)
+    DebiChem 3D Viewers and Calculation Output Visualization
+debroster (1.17)
+    A package for use at expos.
+desktopnova (0.8.1-1)
+    utility that changes the wallpaper automatically
+desktopnova-module-gnome (0.8.1-1)
+    GNOME module for DesktopNova
+desktopnova-module-xfce (0.8.1-1)
+    Xfce module for DesktopNova
+desktopnova-tray (0.8.1-1)
+    tray icon for DesktopNova
+dialog (1.1-20120215-2)
+    Displays user-friendly dialog boxes from shell scripts
+directvnc (0.7.7-1)
+    VNC client using the framebuffer as display
+display-dhammapada (0.23-7)
+    fortune-like collection of Buddhist sayings
+dtach (0.8-2.1)
+    emulates the detach/attach feature of screen
+dtaus (0.9-1+b1 [armel, ia64], 0.9-1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Paperless money transfer with German banks on floppies
+e2tools (0.0.16-6.1)
+    utilities for manipulating files in an ext2/ext3 filesystem
+eancheck (1.0-1.1)
+    Check digit validator for EAN/PLU/UPC barcode numbers
+ecryptfs-utils (99-1)
+    ecryptfs cryptographic filesystem (utilities)
+education-astronomy (1.713+deb7u1)
+    Debian Edu astronomy related applications
+education-chemistry (1.713+deb7u1)
+    Debian Edu chemistry related applications
+education-common (1.713+deb7u1)
+    Debian Edu common packages
+education-desktop-other (1.713+deb7u1)
+    Debian Edu non-GNOME- and non-KDE-specific desktop applications
+education-development (1.713+deb7u1)
+    Debian Edu software development related educational applications
+education-electronics (1.713+deb7u1)
+    Debian Edu electronics related applications
+education-geography (1.713+deb7u1)
+    Debian Edu applications for geography
+education-graphics (1.713+deb7u1)
+    Debian Edu graphics related applications
+education-language (1.713+deb7u1)
+    Debian Edu language related educational applications
+education-laptop (1.713+deb7u1)
+    Debian Edu laptop packages
+education-logic-games (1.713+deb7u1)
+    Debian Edu logic games
+education-main-server (1.713+deb7u1)
+    Debian Edu main server packages
+education-mathematics (1.713+deb7u1)
+    Debian Edu mathematical applications
+education-menus (1.713+deb7u1)
+    Debian Edu menu reorganization
+education-misc (1.713+deb7u1)
+    Debian Edu miscellaneous applications for education
+education-music (1.713+deb7u1)
+    Debian Edu music and sound applications
+education-networked (1.713+deb7u1)
+    Debian Edu networked minimal packages
+education-physics (1.713+deb7u1)
+    Debian Edu physics related applications
+education-services (1.713+deb7u1)
+    Debian Edu services for educational institutions
+education-standalone (1.713+deb7u1)
+    Debian Edu standalone workstation packages
+education-tasks (1.713+deb7u1)
+    Debian Edu tasks for tasksel
+education-thin-client (1.713+deb7u1)
+    Debian Edu networked thin client packages
+education-thin-client-server (1.713+deb7u1)
+    Debian Edu networked thin client server packages
+education-workstation (1.713+deb7u1)
+    Debian Edu networked workstation packages
+elektra-bin (0.7.1-1)
+    elektra configuration store, binaries
+emboss-test (6.4.0-2)
+    test files for the EMBOSS package
+ept-cache (1.0.9)
+    Obsolete commandline tool to search the package archive
+esekeyd (1.2.7-1)
+    multimedia keyboard daemon for Linux
+esniper (2.27.0-1)
+    simple, lightweight tool for sniping ebay auctions
+espctag (0.3-1)
+    ID666 tags editor
+extra-xdg-menus (1.0-4)
+    Extra menu categories for applications under GNOME and KDE
+ezgo-accessories (0.7.1)
+    EzGo Accessories
+ezgo-education (0.7.1)
+    EzGo Education
+ezgo-games (0.7.1)
+    EzGo Games
+ezgo-imaging (0.7.1)
+    EzGo imaging
+ezgo-multimedia (0.7.1)
+    EzGo multimedia
+ezgo-network (0.7.1)
+    EzGo network
+ezgo-office (0.7.1)
+    EzGo Office
+ezgo-tasks (0.7.1)
+    EzGo tasks for tasksel
+fbautostart (2.718281828-1)
+    XDG compliant autostarting app for Fluxbox
+fcode-utils (1.0.2-3)
+    OpenBIOS FCode utilities
+fcoe-utils (1.0.23-1)
+    Fibre Channel over Ethernet utilities
+felix-latin (2.0-3.1)
+    Latin-French dictionary, by Felix Gaffiot
+felix-latin-data (2.0-3.1)
+    Scanned pages of Felix Gaffiot's Latin-French dictionary
+ferret (0.6-3)
+    CASE tool for data model editing
+file-kanji (1.1-16)
+    kanji code checker
+fprintd (0.4.1-5-g73edad0-3)
+    D-Bus daemon for fingerprint reader access
+fso-datad (0.11.0-1)
+    freesmartphone data daemon
+fso-deviced (0.11.4-1+b1)
+    freesmartphone.org device daemon
+fso-deviced-ezx (0.11.4-1+b1)
+    fso-deviced config files and plugins for Motorola EZX-platform
+fso-deviced-gta04 (0.11.4-1+b1)
+    fso-deviced config files and plugins for the GTA04
+fso-deviced-htc (0.11.4-1+b1)
+    fso-deviced config files and plugins for HTC devices
+fso-deviced-n900 (0.11.4-1+b1)
+    fso-deviced config files and plugins for Nokia 900
+fso-deviced-openmoko (0.11.4-1+b1)
+    fso-deviced config files and plugins for GTA02 Freerunner and GTA01
+fso-deviced-palmpre (0.11.4-1+b1)
+    fso-deviced config files and plugins for PalmPre devices
+fso-deviced-player-canberra (0.11.4-1+b1)
+    Canberra player module for fso-deviced
+fso-deviced-player-gstreamer (0.11.4-1+b1)
+    Gstreamer player module for fso-deviced
+fso-frameworkd (0.9.5.9+git20110512-4)
+    freesmartphone.org Framework Daemon
+fso-frameworkd-gta01 (0.9.5.9+git20110512-4)
+    configuration files for freesmartphone.org Framework Daemon for GTA01
+fso-frameworkd-gta02 (0.9.5.9+git20110512-4)
+    configuration files for freesmartphone.org Framework Daemon for GTA02
+fso-gpsd (0.8-3.1)
+    gpsd subset compatibility daemon for the freesmarpthone.org frameworkd
+fso-gsm0710muxd (0.9.3.1-3)
+    GSM 07.10 Multiplexer
+fso-gsmd (0.11.3-2)
+    freesmartphone.org GSM daemon
+fso-gsmd-ezx (0.11.3-2)
+    freesmartphone.org GSM daemon for Motorola EZX devices
+fso-gsmd-gta04 (0.11.3-2)
+    freesmartphone.org GSM daemon for the GTA04 device
+fso-gsmd-htc (0.11.3-2)
+    freesmartphone.org GSM daemon for HTC devices
+fso-gsmd-openmoko (0.11.3-2)
+    freesmartphone.org GSM daemon for Openmoko devices
+fso-sounds-yue-base (20081031-2)
+    Yue base ringtones for the freesmartphone.org frameworkd
+fso-sounds-yue-full (20081031-2)
+    Yue full ringtones for the freesmartphone.org frameworkd
+fso-usaged (0.11.0-1)
+    freesmartphone.org usage daemon
+fso-usaged-htc (0.11.0-1)
+    freesmartphone.org usage daemon for HTC devices
+fso-usaged-openmoko (0.11.0-1)
+    freesmartphone.org usage daemon for Openmoko devices
+fso-usaged-palmpre (0.11.0-1)
+    freesmartphone.org usage daemon for Palm Pre devices
+fspy (0.1.1-1)
+    filesystem activity monitoring tool
+funcoeszz (8.3-2)
+    script with 65 useful mini applications
+fuse-posixovl (1.2.20120215+gitf5bfe35-1)
+    FUSE file system that provides POSIX functionality
+fuseext2 (0.4-1)
+    File System in User Space - Module for ext2
+fusefat (0.1a-1)
+    File System in User Space - Module for FAT
+fuseiso9660 (0.3-1)
+    File System in User Space - Module for ISO9660
+fxcyberjack (3.99.5final.sp03-1)
+    Graphical diagnostics and maintenance tool for Reiner SCT Cyberjacks
+gaduhistory (0.5-2)
+    EKG history viewer
+games-thumbnails (20120227)
+    thumbnails of games in Debian
+gatos (0.0.5-19)
+    ATI All-in-Wonder TV capture software
+gconjugue (0.7.2-1)
+    gtk program to conjugate Brazilian verbs
+gcpegg (5.1-13)
+    Global Consciousness Project EGG Software
+gearman (0.33-2)
+    Distributed job queue
+gearman-job-server (0.33-2)
+    Job server for the Gearman distributed job queue
+gearman-tools (0.33-2)
+    Tools for the Gearman distributed job queue
+gems (1.1.1-2)
+    Shows a console session in several terminals
+geneweb (6.05.1-1)
+    genealogy software with web interface
+gfxboot (4.5.0-3)
+    tool to test and create graphical boot logos (runtime)
+gfxboot-dev (4.5.0-3)
+    tool to test and create graphical boot logos (development)
+gfxboot-examples (4.5.0-67.1-3)
+    tool to test and create graphical boot logos (example themes)
+gfxboot-themes-kde (4.5.0-67.1-2)
+    tool to test and create graphical boot logos (KDE theme)
+gfxboot-themes-opensuse (4.5.0-67.1-2)
+    tool to test and create graphical boot logos (openSUSE theme)
+gfxboot-themes-sled (4.5.0-67.1-2)
+    tool to test and create graphical boot logos (SLED theme)
+gfxboot-themes-sles (4.5.0-67.1-2)
+    tool to test and create graphical boot logos (SLES theme)
+gfxboot-themes-upstream (4.5.0-67.1-2)
+    tool to test and create graphical boot logos (upstream theme)
+gis-data (0.0.2)
+    Debian GIS data
+gis-gps (0.0.2)
+    GPS related programs
+gis-osm (0.0.2)
+    OpenStreetMap related programs
+gis-remotesensing (0.0.2)
+    Remote sensing and earth observation
+gis-statistics (0.0.2)
+    Statistics with geographical data
+gis-tasks (0.0.2)
+    Debian GIS tasks for tasksel
+gis-web (0.0.2)
+    Present geographic information via web map server
+gis-workstation (0.0.2)
+    Geographic Information Systems (GIS) workstation
+git-stuff (11-1)
+    additional Git utilities
+gmt-coast-low (1:2.1.1-1)
+    Low resolution coastlines for the Generic Mapping Tools
+gmt-coast-low
+    virtual package provided by gmt-gshhs-low
+gmt-gshhs-full (2.2.0-2)
+    Full resolution coastlines for the Generic Mapping Tools
+gmt-gshhs-high (2.2.0-2)
+    High resolution coastlines for the Generic Mapping Tools
+gmt-gshhs-low (2.2.0-2)
+    Low resolution coastlines for the Generic Mapping Tools
+gmt-tutorial-ps (3.4.4-1)
+    Tutorial for the Generic Mapping Tools (PostScript)
+gmysqlcc (0.3.0-2+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.3.0-2+b1 [armhf, s390x])
+    graphical client for managing MySQL databases
+gnumed-client (1.1.17+dfsg-1)
+    medical practice management - Client
+gnumed-client-de (1.1.17+dfsg-1)
+    medical practice management - Client for German users
+gnumed-common (1.1.17+dfsg-1)
+    medical practice management - common files
+gnumed-server (16.17-1)
+    medical practice management - server
+goldencheetah (2.1-4)
+    set of analysis tools for cycling performance
+googleearth-package (0.7.0) [contrib]
+    utility to automatically build a Debian package of Google Earth
+gpm (1.20.4-6)
+    General Purpose Mouse interface
+gprompter (0.8.8-1)
+    intelligent predictive GTK+ text editor
+gpsd (3.6-4+deb7u1)
+    Global Positioning System - daemon
+gpsd-clients (3.6-4+deb7u1)
+    Global Positioning System - clients
+gpsman (6.4.3-1)
+    A GPS data graphical manager
+gpstrans (0.41-3)
+    communicate with a Garmin Global Positioning System receiver
+gpxviewer (0.4.3-1)
+    views GPS traces collected in the GPX format
+gramadoir (0.6-4.1)
+    Irish language grammar checker (integration scripts)
+grok (1.20110708.1-4)
+    powerful pattern-matching and reacting tool
+gscanbus (0.8-1)
+    scan IEEE1394 (firewire/i.link) bus
+gsimplecal (1.5-1)
+    lightweight GUI calendar application
+gsm0710muxd (1.13-1+b1 [amd64, armel, ia64], 1.13-1 [armhf, i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    GSM 07.10 Multiplexer
+gtypist (2.9.1-2.1)
+    simple ncurses touch typing tutor
+gwsetup (6.05.1-1)
+    utilities to configure and manipulate Geneweb databases
+gwtp (6.05.1-1)
+    web interface interacting with Geneweb databases
+haveged (1.4-4)
+    Linux entropy source using the HAVEGE algorithm
+hdapsd (1:20090401-2)
+    HDAPS daemon for IBM/Lenovo ThinkPads and Apple iBooks/PowerBooks
+hdhomerun-config (20120405-1)
+    Configuration utility for Silicon Dust HD HomeRun
+hicolor-icon-theme (0.12-1)
+    default fallback theme for FreeDesktop.org icon themes
+hijra-applet (0.2.1-1) [non-free]
+    Hijri Islamic Calendar tray applet and GNOME shell extension
+hnb (1.9.18-9)
+    hierarchical notebook
+http-icons (0~20041010-1)
+    classic MIME icons
+hwdata (0.234-1)
+    hardware identification / configuration data
+ibus-table-cangjie (1.3.4-1)
+    ibus-table input method: CangJie (dummy package)
+ibus-table-cangjie-big (1.3.4-1)
+    ibus-table input method: CangJie (big)
+ibus-table-cangjie3 (1.3.4-1)
+    ibus-table input method: CangJie3
+ibus-table-cangjie5 (1.3.4-1)
+    ibus-table input method: CangJie5
+ibus-table-cantonese (1.3.4-1)
+    ibus-table input method: Cantonese
+ibus-table-easy (1.3.4-1)
+    ibus-table input method: Easy (dummy package)
+ibus-table-easy-big (1.3.4-1)
+    ibus-table input method: Easy (big)
+ibus-table-quick (1.3.4-1)
+    ibus-table input method: Quick (dummy package)
+ibus-table-quick-classic (1.3.4-1)
+    ibus-table input method: Quick Classic
+ibus-table-quick3 (1.3.4-1)
+    ibus-table input method: Quick3
+ibus-table-quick5 (1.3.4-1)
+    ibus-table input method: Quick5
+ibus-table-scj6 (1.3.4-1)
+    ibus-table input method: Smart CangJie 6
+ibus-table-stroke5 (1.3.4-1)
+    ibus-table input method: Stroke5
+ibus-table-wubi (1.3.4-1)
+    ibus-table input method: Wubi
+icicles (23.0+20110910-2)
+    emacs library that enhances minibuffer/input completion
+idn (1.25-2)
+    Command line and Emacs interface to GNU Libidn
+indi-bin (0.9.1-2)
+    INDI server, drivers and tools
+inotify-tools (3.14-1)
+    command-line programs providing a simple interface to inotify
+insserv (1.14.0-5)
+    boot sequence organizer using LSB init.d script dependency information
+installation-report (2.49)
+    system installation report
+iodbc (3.52.7-2+deb7u1)
+    GTK+ config frontend for the iODBC Driver Manager
+ipadic (2.7.0+main-3)
+    Dictionaries for ChaSen (Binary data)
+ipadic
+    virtual package provided by naist-jdic
+ipadic-common (2.7.0+main-3)
+    Dictionaries for ChaSen (UTF-8 text)
+iso-codes (3.41-1)
+    ISO language, territory, currency, script codes and their translations
+isomd5sum (1:1.0.7+git.20110618.6c9cd2f-1)
+    ISO9660 checksum utilities
+isoquery (1.7-1)
+    Search and display various ISO codes (country, language, ...)
+itools (1.0-3)
+    Islamic hijri date and prayer time utilities
+java-package (0.50+nmu2) [contrib]
+    Utility for creating Java Debian packages
+jbofihe (0.38-5.1)
+    A parser for the lojban language
+jclic (0.2.1.0-1)
+    Tool for the development & use of multimedia educational activities
+juman (5.1-2.1)
+    Japanese morphological analysis system
+juman-dic (5.1-2.1)
+    Juman dictionary in text format
+junior-arcade (1.20)
+    Debian Jr. arcade games
+junior-art (1.20)
+    Debian Jr. Art
+junior-config (1.20)
+    Debian Jr. Project common package
+junior-games-card (1.20)
+    Debian Jr. Card Games
+junior-games-gl (1.20)
+    Debian Jr. 3D Games (hardware acceleration required)
+junior-games-net (1.20)
+    Debian Jr. Network Games
+junior-games-sim (1.20)
+    Debian Jr. Simulation Games
+junior-games-text (1.20)
+    Debian Jr. Text Games
+junior-math (1.20)
+    Debian Jr. educational math
+junior-programming (1.20)
+    Debian Jr. programming
+junior-puzzle (1.20)
+    Debian Jr. Puzzles
+junior-sound (1.20)
+    Debian Jr. sound
+junior-system (1.20)
+    Debian Jr. System tools
+junior-tasks (1.20)
+    Debian Jr. tasks for tasksel
+junior-typing (1.20)
+    Debian Jr. typing
+junior-writing (1.20)
+    Debian Jr. writing
+k4dirstat (2.7.3-1)
+    graphical disk usage display with cleanup facilities
+keyboards-rg (0.2)
+    Various keyboard layouts for X-window and linux console
+killer (0.90-8)
+    Background job killer
+ktoblzcheck (1.39-1)
+    tool for verification of account numbers and bank codes
+kumofs (0.4.13-5)
+    simple and fast distributed key-value store
+ldm (2:2.2.11-2)
+    LTSP display manager
+ldm-server (2:2.2.11-2)
+    server components for LTSP display manager
+ldm-themes (12.07.1)
+    Collection of themes for the LTSP login manager
+letterize (1.3-3)
+    phone digits to letter-mnemonics
+libatk-adaptor (2.5.3-2)
+    AT-SPI 2 toolkit bridge
+libatk-adaptor-data (2.5.3-2)
+    AT-SPI 2 toolkit bridge - data
+libatk1.0-data (2.4.0-2)
+    Common files for the ATK accessibility toolkit
+libavifile-0.7-bin (1:0.7.48~20090503.ds-13)
+    toolkit for libavifile
+libavifile-0.7-common (1:0.7.48~20090503.ds-13)
+    toolkit for libavifile
+libchewing3-data (0.3.3-4)
+    intelligent phonetic input method library - data files
+libchipcard-libgwenhywfar60-plugins (5.0.3beta-3)
+    crypttoken plugin to libgwenhywfar
+libchipcard-tools (5.0.3beta-3)
+    tools for accessing chipcards
+libclutter-imcontext-0.1-bin (0.1.4-3)
+    Open GL based interactive canvas library IMContext framework
+libdatrie1-bin (0.2.5-3)
+    Programs for double-array trie library
+libelementary-bin (0.7.0.55225-1)
+    EFL-based widget set library - helper programs
+libelementary-data (0.7.0.55225-1)
+    runtime data-files for libelementary
+libfm-data (0.1.17-2.1)
+    file management support (common data)
+libfm-gtk-bin (0.1.17-2.1)
+    file management support (utilities)
+libglib2.0-bin (2.33.12+really2.32.4-5)
+    Programs for the GLib library
+libgtk-3-bin (3.4.2-7)
+    programs for the GTK+ graphical user interface library
+libgtk-3-common (3.4.2-7)
+    common files for the GTK+ graphical user interface library
+libgtk2.0-bin (2.24.10-2)
+    programs for the GTK+ graphical user interface library
+libgtk2.0-common (2.24.10-2)
+    common files for the GTK+ graphical user interface library
+libgtkmathview-bin (0.8.0-8)
+    rendering engine for MathML documents
+libhsm-bin (1:1.3.9-5)
+    library for interfacing PKCS#11 Hardware Security Modules
+libindi-data (0.9.1-2)
+    Instrument-Neutral Device Interface library -- shared data
+libjana-examples (0.0.0+git20091215.9ec1da8a-2+b4 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.0.0+git20091215.9ec1da8a-2+b1 [armhf, s390x])
+    Example applications for libjana, libjana-ecal and libjana-gtk
+libjana-test (0.0.0+git20091215.9ec1da8a-2+b4 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.0.0+git20091215.9ec1da8a-2+b1 [armhf, s390x])
+    A set of test applications for libjana and libjana-ecal
+libmgl-data (1.11.2-17)
+    library for scientific graphs. (data files)
+libmx-bin (1.4.6-1)
+    toolkit for the Moblin user experience (utilities)
+libmx-common (1.4.6-1)
+    toolkit for the Moblin user experience (common files)
+libnfo1-bin (1.0.1-1)
+    an utility to read NFO files which uses libnfo
+libotr2-bin (3.2.1-1+deb7u1)
+    toolkit for Off-the-Record Messaging library
+libpam-mklocaluser (0.8~deb7u1)
+    Configure PAM to create a local user if it do not exist already
+libphone-ui-common (1:0.0.1+git20110825-3)
+    SHR library for user interface (configuration files)
+libphone-ui-shr (0.1+git20110827-3+b1)
+    SHR library for user interface, EFL backend
+libphone-ui-shr-data (0.1+git20110827-3+b1)
+    SHR library for user interface, EFL backend (data files)
+libplayer-bin (2.0.1-2.1)
+    test utilities for libplayer
+libqscintilla2-designer (2.6.2-2)
+    Qt4 Designer plugin for QScintilla 2
+libreoffice-filter-binfilter (1:3.5.4+dfsg2-0+deb7u3 [amd64, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, s390, s390x, sparc], 1:3.5.4+dfsg2-0+deb7u2 [ia64]) [security]
+    office productivity suite -- legacy filters (e.g. StarOffice 5.2)
+libreoffice-filter-mobiledev (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- mobile devices filters
+libreoffice-mysql-connector (1.0.1+LibO3.5.4+dfsg2-0+deb7u3 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.0.1+LibO3.5.4+dfsg2-0+deb7u2 [ia64]) [security]
+    MySQL Connector extension for LibreOffice
+libreoffice-pdfimport (1.0.5+LibO3.5.4+dfsg2-0+deb7u3 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.0.5+LibO3.5.4+dfsg2-0+deb7u2 [ia64]) [security]
+    LibreOffice extension for importing PDF documents
+libreoffice-presentation-minimizer (1.0.3+LibO3.5.4+dfsg2-0+deb7u3 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.0.3+LibO3.5.4+dfsg2-0+deb7u2 [ia64]) [security]
+    LibreOffice extension for size-efficient presentations
+libreoffice-presenter-console (1.1.0+LibO3.5.4+dfsg2-0+deb7u3 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1.1.0+LibO3.5.4+dfsg2-0+deb7u2 [ia64]) [security]
+    LibreOffice Impress extension for a separate presenter's console
+libreoffice-report-builder (1:1.2.1+LibO3.5.4+dfsg2-0+deb7u3) [security]
+    LibreOffice extension for building database reports
+libreoffice-report-builder-bin (1:3.5.4+dfsg2-0+deb7u3 [amd64, armel, armhf, i386, mips, mipsel, powerpc, s390, s390x, sparc], 1:3.5.4+dfsg2-0+deb7u2 [ia64]) [security]
+    LibreOffice extension for building database reports -- libraries
+libreoffice-sdbc-postgresql (1:3.5.4+dfsg2-0+deb7u3 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1:3.5.4+dfsg2-0+deb7u2 [ia64]) [security]
+    PostgreSQL SDBC driver for LibreOffice
+libreoffice-wiki-publisher (1.1.1+LibO3.5.4+dfsg2-0+deb7u3) [security]
+    LibreOffice extension for working with MediaWiki articles
+libsmi2-common (0.4.8+dfsg2-7)
+    library to access SMI MIB information - MIB module files
+libsocialweb-common (0.25.20-2.1)
+    socialweb library to fetch data from social service (common files)
+libsocialweb-service (0.25.20-2.1)
+    socialweb library to fetch data from social service (dbus service)
+libsugarext-data (0.96.1-2)
+    GTK3-based Sugar toolkit - common files
+libtrain-bin (0.9b-11) [contrib]
+    Command line interface for libtrain
+libtxc-dxtn-s2tc-bin (0~git20110809-3)
+    S2TC texture compression and conversion tools
+libvalhalla-bin (2.0.0-4+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 2.0.0-4 [armhf, s390x])
+    test utilities for libvalhalla
+libwildmidi-config (0.2.3.4-2.1)
+    software MIDI player configuration
+libwpg-tools (0.2.1-1)
+    Tools from libwpg for converting WP Graphics to Raw/SVG
+libxbase2.0-bin (2.0.0-8.5)
+    xbase compatible C++ class library (utilities)
+lifelines (3.0.61-2)
+    text-based genealogy software
+lifelines-reports (3.0.61-2)
+    reports for lifelines, a genealogy software system
+lightspeed (1.2a-8+b1)
+    Shows how objects moving at relativistic speeds look like
+linuxlogo (5.11-1)
+    Color ANSI System Logo
+live-boot (3.0.1-1)
+    Live System Boot Scripts
+live-boot-initramfs-tools (3.0.1-1)
+    Live System Boot Scripts (initramfs-tools backend)
+live-build (3.0.5-1)
+    Live System Build Scripts
+live-build-cgi (3.0.5-1)
+    Live System Build Scripts (CGI frontend)
+live-config (3.0.23-1+deb7u1)
+    Live System Configuration Scripts
+live-config-systemd (3.0.23-1+deb7u1)
+    Live System Configuration Scripts (systemd backend)
+live-config-sysvinit (3.0.23-1+deb7u1)
+    Live System Configuration Scripts (sysvinit backend)
+live-config-upstart (3.0.23-1+deb7u1)
+    Live System Configuration Scripts (upstart backend)
+live-tools (3.0.20-1)
+    Live System Support Scripts
+lockfile-progs (0.1.17)
+    Programs for locking and unlocking files and mailboxes
+lockout (0.2.3-2)
+    A self-imposed discipline and productivity enforcer
+lojban-common (1.5+dfsg-0.1)
+    commonly-used wordlists for the Lojban language
+lsb (4.1+Debian8+deb7u1)
+    Linux Standard Base 4.1 support package
+lsb-base (4.1+Debian8+deb7u1)
+    Linux Standard Base 4.1 init script functionality
+lsb-core (4.1+Debian8+deb7u1)
+    Linux Standard Base 4.1 core support package
+lsb-cxx (4.1+Debian8+deb7u1)
+    Linux Standard Base 4.1 C++ support package
+lsb-desktop (4.1+Debian8+deb7u1)
+    Linux Standard Base 4.1 Desktop support package
+lsb-graphics (4.1+Debian8+deb7u1)
+    Linux Standard Base 4.1 graphics support package
+lsb-invalid-mta (4.1+Debian8+deb7u1)
+    Linux Standard Base sendmail dummy
+lsb-languages (4.1+Debian8+deb7u1)
+    Linux Standard Base 4.1 Runtime Languages package
+lsb-multimedia (4.1+Debian8+deb7u1)
+    Linux Standard Base 4.1 Multimedia package
+lsb-printing (4.1+Debian8+deb7u1)
+    Linux Standard Base 4.1 Printing package
+lsb-release (4.1+Debian8+deb7u1)
+    Linux Standard Base version reporting utility
+lsb-security (4.1+Debian8+deb7u1)
+    Linux Standard Base 4.1 Security package
+ltsp-client (5.4.2-6+deb7u1)
+    complete LTSP client environment
+ltsp-client-core (5.4.2-6+deb7u1)
+    basic LTSP client environment
+ltsp-server (5.4.2-6+deb7u1)
+    basic LTSP server environment
+ltsp-server-standalone (5.4.2-6+deb7u1)
+    complete LTSP server environment
+lttoolbox (3.1.0-1.1)
+    Apertium lexical processing modules and tools
+maitreya (6.0.5+dfsg2-1)
+    Software for Vedic and western astrology
+malaga-bin (7.12-4)
+    System for automatic language analysis
+mapserver-bin (6.0.1-3.2+deb7u2)
+    MapServer utilities
+maptool (0.5.0~svn5126+dfsg.1-3)
+    Converts OpenStreetMap maps to Navit
+marble (4:4.8.4-3)
+    globe and map widget
+marble-data (4:4.8.4-3)
+    data files for Marble
+marble-plugins (4:4.8.4-3)
+    plugins for Marble
+matroxset (0.4-8)
+    switch output modes, including TV out, of Matrox video cards
+mboxcheck (0.2.0)
+    MBOX scan utility
+mdbus2 (2.3.0-1)
+    DBus introspection command line utility
+mecab (0.99.3-3)
+    Japanese morphological analysis system
+mecab-ipadic (2.7.0-20070801+main-1)
+    IPA dictionary compiled for Mecab
+mecab-ipadic-utf8 (2.7.0-20070801+main-1)
+    IPA dictionary encoded in UTF-8 compiled for Mecab
+mecab-jumandic (5.1+20070304-3)
+    Juman dictionary compiled for Mecab
+mecab-jumandic-utf8 (5.1+20070304-3)
+    Juman dictionary encoded in UTF-8 compiled for Mecab
+mecab-naist-jdic (0.6.3.b-20111013-3)
+    free Japanese Dictionaries for mecab (replacement of mecab-ipadic)
+mecab-naist-jdic-eucjp (0.6.3.b-20111013-3)
+    free Japanese Dictionaries for mecab (replacement of mecab-ipadic) in EUC-JP
+mecab-utils (0.99.3-3)
+    Support programs of Mecab
+med-bio (1.13.2)
+    Debian Med micro-biology packages
+med-bio-dev (1.13.2)
+    Debian Med packages for development of micro-biology applications
+med-cloud (1.13.2)
+    Debian Med bioinformatics applications usable in cloud computing
+med-config (1.13.2)
+    Debian Med general config package
+med-data (1.13.2)
+    Debian Med drug databases
+med-dental (1.13.2)
+    Debian Med packages related to dental practice
+med-epi (1.13.2)
+    Debian Med epidemiology related packages
+med-imaging (1.13.2)
+    Debian Med imaging packages
+med-imaging-dev (1.13.2)
+    Debian Med packages for medical image development
+med-oncology (1.13.2)
+    Debian Med packages for oncology
+med-pharmacy (1.13.2)
+    Debian Med packages for pharmaceutical research
+med-physics (1.13.2)
+    Debian Med packages for medical physicists
+med-practice (1.13.2)
+    Debian Med packages for practice management
+med-psychology (1.13.2)
+    Debian Med packages for psychology
+med-rehabilitation (1.13.2)
+    Debian Med packages for rehabilitation technologies
+med-statistics (1.13.2)
+    Debian Med statistics
+med-tasks (1.13.2)
+    Debian Med tasks for tasksel
+med-tools (1.13.2)
+    Debian Med several tools
+med-typesetting (1.13.2)
+    Debian Med support for typesetting and publishing
+memtest86 (4.0s-1)
+    thorough real-mode memory tester
+memtest86+ (4.20-1.1)
+    thorough real-mode memory tester
+metacity-common (1:2.34.3-4)
+    shared files for the Metacity window manager
+metastore (1+20080623+debian-3)
+    Store and restore metadata from a filesystem
+mga-vid-common (2.6.32-1)
+    Module aliases and test program for /dev/mga_vid
+mhc (0.25.1+20120403-2)
+    schedule management tool for emacsen
+mhc-utils (0.25.1+20120403-2)
+    command line/GUI utilities for the MHC schedule management system
+minbar (0.2.1-7)
+    GNOME Islamic prayer times application
+minbar-data (0.2.1-7)
+    GNOME Islamic prayer times application - data package
+mkuzip (9.0+ds1-11~deb7u1)
+    Disk image compression utility
+mmorph (2.3.4.2-12.1)
+    A two-level morphology tool for natural language processing
+mnemosyne (2.0~RC1-3)
+    spaced repetition flash-card program
+moblin-menus (0.1.6-1)
+    Moblin config and data file for desktop menus
+mtink (1.0.16-6)
+    Status monitor tool for Epson inkjet printers
+mtkbabel (0.8.3.1-1)
+    Tool for managing i-Blue 747 and compatible GPS data loggers
+mutter-common (3.4.1-5)
+    shared files for the Mutter window manager
+mylvmbackup (0.13-2)
+    quickly creating backups of MySQL server's data files
+mysql-client (5.5.41-0+wheezy1) [security]
+    MySQL database client (metapackage depending on the latest version)
+mysql-client
+    virtual package provided by mysql-client-5.5
+mysql-common (5.5.41-0+wheezy1) [security]
+    MySQL database common files, e.g. /etc/mysql/my.cnf
+mysql-server (5.5.41-0+wheezy1) [security]
+    MySQL database server (metapackage depending on the latest version)
+mythtv-status (0.10.2-3)
+    Show the status of a MythTV backend
+nagiosgrapher (1.7.1-4)
+    Charting add-on for Nagios
+naist-jdic (1:0.4.3-3.1)
+    free Japanese Dictionaries for ChaSen (replacement of ipadic)
+naist-jdic-utf8 (1:0.4.3-3.1)
+    free Japanese Dictionaries for ChaSen (replacement of ipadic) in UTF-8
+navit (0.5.0~svn5126+dfsg.1-3)
+    Car navigation system with routing engine
+navit-data (0.5.0~svn5126+dfsg.1-3)
+    Car navigation system with routing engine - data files
+navit-graphics-gtk-drawing-area (0.5.0~svn5126+dfsg.1-3)
+    Car navigation system with routing engine - GTK+ graphic plugin
+navit-graphics-qt-qpainter (0.5.0~svn5126+dfsg.1-3)
+    Car navigation system with routing engine - Qt graphic plugin
+navit-gui-gtk (0.5.0~svn5126+dfsg.1-3)
+    Car navigation system with routing engine - GTK+ GUI
+navit-gui-internal (0.5.0~svn5126+dfsg.1-3)
+    Car navigation system with routing engine - internal GUI
+ncurses-base (5.9-10)
+    basic terminal type definitions
+ncurses-examples (5.9-10)
+    test programs and examples for ncurses
+ncurses-term (5.9-10)
+    additional terminal type definitions
+ndiswrapper-common (1.57-1)
+    Common scripts required to use the utilities for ndiswrapper
+ndiswrapper-utils-1.9 (1.57-1)
+    Userspace utilities for the ndiswrapper Linux kernel module
+netplan (1.10.1-2)
+    network server for `plan'
+nettle-bin (2.4-3)
+    low level cryptographic library (binary tools)
+nodm (0.11-1.3)
+    automatic display manager
+nss-passwords (0.1.1-1)
+    read passwords from a Mozilla keyring
+nut-nutrition (15.5-1)
+    dietary nutrition analysis software
+nvidia-installer-cleanup (20120630+3) [contrib]
+    Cleanup after driver installation with the nvidia-installer
+nvidia-support (20120630+3) [contrib]
+    NVIDIA binary graphics driver support files
+nvram-wakeup (1.1-1)
+    A tool to read/write the WakeUp time from/to the BIOS
+nwall (1.32+debian-4.1)
+    version of wall that uses GNU readline
+nyancat (1.0+git20120523.99dc310-1)
+    Animated terminal Nyancat
+nyancat-server (1.0+git20120523.99dc310-1)
+    Animated terminal Nyancat server configurations
+omhacks (0.16-1)
+    command line interface to OpenMoko hardware
+onetime (1.122-1)
+    command-line encryption using the "one-time pad" method
+ooohg (09.12a-8) [non-free]
+    Set of 1600 free of charge maps for libreoffice/openoffice.org
+open-jtalk-mecab-naist-jdic (1.05-1)
+    NAIST Japanese Dictionary for Open JTalk
+openbios-ppc (1.0+svn1060-1)
+    PowerPC Open Firmware
+openbios-sparc (1.0+svn1060-1)
+    SPARC Open Firmware
+openbmap-logger (0.4.0-6)
+    gsm/gps-data logger for the openBmap project
+opendnssec (1:1.3.9-5)
+    dependency package to install full OpenDNSSEC suite
+opendnssec-common (1:1.3.9-5)
+    common configuration files for OpenDNSSEC suite
+openhackware (0.4.1-6)
+    OpenFirmware emulator for PowerPC
+openoffice.org-filter-binfilter (1:3.4.0~ooo340m1-7)
+    office productivity suite -- legacy filters (e.g. StarOffice 5.2)
+openoffice.org-filter-mobiledev (1:3.4.0~ooo340m1-7)
+    office productivity suite -- mobile devices filters
+openoffice.org-mysql-connector (1:3.4.0~ooo340m1-7)
+    MySQL Connector extension for LibreOffice
+openoffice.org-pdfimport (1:3.4.0~ooo340m1-7)
+    LibreOffice extension for importing PDF documents
+openoffice.org-presentation-minimizer (1:3.4.0~ooo340m1-7)
+    LibreOffice extension for size-efficient presentations
+openoffice.org-presenter-console (1:3.4.0~ooo340m1-7)
+    LibreOffice Impress extension for a separate presenter's console
+openoffice.org-report-builder (1:3.4.0~ooo340m1-7)
+    LibreOffice extension for building database reports
+openoffice.org-sdbc-postgresql (1:3.4.0~ooo340m1-7)
+    LibreOffice extension for PostgreSQL SDBC driver
+openoffice.org-wiki-publisher (1:3.4.0~ooo340m1-7)
+    LibreOffice extension for working with MediaWiki articles
+openstereogram (0.1+20080921-2)
+    Stereogram ("Magic Eye") generator with GUI
+openstv (1.6.1-1)
+    single transferable vote and instant runoff voting software
+openteacher (2.3-1)
+    learn words in a foreign language
+ora2pg (8.11-1) [contrib]
+    Oracle to PostgreSQL database schema converter
+org-mode (7.8.11-1)
+    keep notes, maintain ToDo lists, and do project planning in emacs
+othman (0.2.7-1) [non-free]
+    electronic Quran browser
+otp (1:1.2.1-1)
+    Generator for One Time Pads or Passwords
+p11-kit (0.12-3)
+    Utilities for working with the p11-glue library and proxy module
+parcellite (1.0.2~rc5-1)
+    lightweight GTK+ clipboard manager
+pastebinit (1.3-4)
+    command-line pastebin client
+pax-utils (0.2.3-2)
+    Security-focused ELF files checking tool
+pcscd (1.8.4-1+deb7u1)
+    Middleware to access a smart card using PC/SC (daemon side)
+pct-scanner-scripts (0.0.4-3)
+    scan and create merged DjVu and PDF documents for archiving
+pfm (1.5.4-1)
+    PostgreSQL graphical client using Tcl/Tk
+phonefsod (0.1+git20110827-3)
+    SHR daemon for freesmartphone.org interaction
+phoneui-apps (0.1+git20111214-2)
+    SHR applications
+phoneuid (0.1+git20110506-2+b1)
+    SHR daemon for user interaction
+plan (1.10.1-2)
+    X/Motif day planner (dynamically compiled with LessTif2)
+ploticus (2.41-5)
+    script driven business graphics package
+plymouth (0.8.5.1-5)
+    Graphical Boot Animation and Logger
+plymouth-dev (0.8.5.1-5)
+    Graphical Boot Animation and Logger (development)
+plymouth-drm (0.8.5.1-5)
+    Graphical Boot Animation and Logger (DRM)
+plymouth-themes-all (0.8.5.1-5)
+    Graphical Boot Animation and Logger (themes metapackage)
+plymouth-themes-fade-in (0.8.5.1-5)
+    Graphical Boot Animation and Logger (fade-in theme)
+plymouth-themes-glow (0.8.5.1-5)
+    Graphical Boot Animation and Logger (glow theme)
+plymouth-themes-script (0.8.5.1-5)
+    Graphical Boot Animation and Logger (script theme)
+plymouth-themes-solar (0.8.5.1-5)
+    Graphical Boot Animation and Logger (solar theme)
+plymouth-themes-spinfinity (0.8.5.1-5)
+    Graphical Boot Animation and Logger (spinfinity theme)
+plymouth-themes-spinner (0.8.5.1-5)
+    Graphical Boot Animation and Logger (spinner theme)
+plymouth-x11 (0.8.5.1-5)
+    Graphical Boot Animation and Logger
+podget (0.5.8-1)
+    Podcast aggregrator/downloader optimized for cron
+poppler-data (0.4.5-10)
+    encoding data for the poppler PDF rendering library
+popularity-contest (1.56)
+    Vote for your favourite packages automatically
+postgis (1.5.3-2)
+    Geographic objects support for PostgreSQL -- common files
+postgresql-9.1-ip4r (1.05-0.1)
+    IPv4 and IPv4 range index types for PostgreSQL 9.1
+postgresql-9.1-postgis (1.5.3-2)
+    Geographic objects support for PostgreSQL 9.1
+postgresql-filedump (9.1.0-1)
+    Utility to format PostgreSQL files
+preload (0.6.4-2)
+    adaptive readahead daemon
+presage (0.8.8-1)
+    intelligent predictive text entry platform (tools and demos)
+presage-dbus (0.8.8-1)
+    intelligent predictive text entry platform (dbus service)
+primaxscan (0.93beta3-10+b1)
+    Primax Colorado Direct scanner software
+proll (18-6)
+    JavaStation PROM 2.x compatible replacement
+provami (5.18-1)
+    Graphical interface to DB-All.e databases
+pscan (1.2-9)
+    Format string security checker for C files
+ptop (3.6.2-5)
+    PostgreSQL performance monitoring tool akin to top
+pymissile (0.0.20060725-2)
+    Control Marks and Spencer USB Missile Launcher
+pyprompter (0.8.8-1)
+    intelligent predictive wxPython text editor
+python-dogtail (0.6.1-3.2)
+    GUI test tool and automation framework
+qemu-keymaps (1.1.2+dfsg-6a+deb7u6)
+    QEMU keyboard maps
+qemu-kvm (1.1.2+dfsg-6+deb7u6)
+    Full virtualization on x86 hardware
+qemu-system (1.1.2+dfsg-6a+deb7u6)
+    QEMU full system emulation binaries
+qemu-user (1.1.2+dfsg-6a+deb7u6)
+    QEMU user mode emulation binaries
+qemu-user-static (1.1.2+dfsg-6a+deb7u6)
+    QEMU user mode emulation binaries (static version)
+qemu-utils (1.1.2+dfsg-6a+deb7u6)
+    QEMU utilities
+qemuctl (0.2-2)
+    controlling GUI for qemu
+qpid-client (0.16-6+deb7u1)
+    enterprise messaging system - AMQP client
+qpid-specs (0.16-1)
+    QPID spec information
+qpid-tools (0.14-1)
+    Python bindings for qpid/mlib
+qpidd (0.16-6+deb7u1)
+    enterprise messaging system - AMQP broker
+qt-at-spi (0.3.1-3)
+    at-spi accessibility plugin for Qt
+quitcount (2.0-1)
+    Small tool which may help yourself quit smoking
+qviaggiatreno (2010.11.1-1)
+    Qt tool to monitor the Italian railway traffic
+remembrance-agent (2.12-7)
+    Emacs mode to help find relevant texts
+reptyr (0.3-2)
+    Tool for moving running programs between ptys
+request-tracker4 (4.0.7-5+deb7u3) [security]
+    extensible trouble-ticket tracking system
+rig (1.11-1)
+    Random identity generator
+routeplanner (0.19)
+    A highway trip planner
+routino (2.2-4+deb7u1)
+    Set of tools to find a path between two points.
+routino-www (2.2-4+deb7u1)
+    Web frontend for routino
+rt-tests (0.83-1+deb7u1)
+    Test programs for rt kernels
+rt4-apache2 (4.0.7-5+deb7u3) [security]
+    Apache 2 specific files for request-tracker4
+rt4-clients (4.0.7-5+deb7u3) [security]
+    mail gateway and command-line interface to request-tracker4
+rt4-db-mysql (4.0.7-5+deb7u3) [security]
+    MySQL database backend for request-tracker4
+rt4-db-postgresql (4.0.7-5+deb7u3) [security]
+    PostgreSQL database backend for request-tracker4
+rt4-db-sqlite (4.0.7-5+deb7u3) [security]
+    SQLite database backend for request-tracker4
+rt4-fcgi (4.0.7-5+deb7u3) [security]
+    External FastCGI support for request-tracker4
+rtirq-init (20120505-1)
+    startup script for realtime-preempt enabled kernels
+s3ql (1.11.1-3+deb7u1)
+    Full-featured file system for online data storage
+sapgui-package (0.0.10) [contrib]
+    utility to build SAP GUI related Debian packages
+sb16ctrl-bochs (2.4.6-5)
+    control utility for Bochs emulated SB16 card
+scanbuttond (0.2.3.cvs20090713-8)
+    Scanner button daemon
+screen (4.1.0~20120320gitdb59704-7)
+    terminal multiplexer with VT100/ANSI terminal emulation
+seabios (1.7.0-1)
+    Legacy BIOS implementation
+sfst (1.2.0-1.2)
+    Stuttgart finite-state transducer tools
+shared-desktop-ontologies (0.10.0-1)
+    shared ontologies for semantic searching
+shared-mime-info (1.0-1+b1)
+    FreeDesktop.org shared MIME database and spec
+shatag (0.4-2)
+    tool to store file checksums in extended attributes, and work with them
+shutdown-at-night (0.10+deb7u2)
+    System to shut down clients at night, and wake them in the morning
+signing-party (1.1.4-1)
+    Various OpenPGP related tools
+simple-cdd (0.3.14)
+    create custom debian-installer CDs
+sitesummary (0.1.8+deb7u1)
+    Generate site summary of submitting hosts (server part)
+sitesummary-client (0.1.8+deb7u1)
+    Generate site summary of submitting hosts (client part)
+sitplus (1.0.3-3)
+    Free software framework for ludic-therapeutic activities
+sitplus-data (1.0.3-3)
+    Data files for Sitplus, a framework for ludic-therapeutic activities
+sl-modem-daemon (2.9.11~20110321-8+deb7u1) [non-free]
+    SmartLink software modem daemon
+slashtime (0.5.13-1)
+    Display the time in various places
+slbackup-php (0.4.3-2+deb7u1)
+    Web-based administration tool for slbackup
+smtm (1.6.10)
+    Show Me The Money is a configurable Perl/Tk stock ticker program
+sparc-utils (1.9-4+b1)
+    Miscellaneous tools useful for sparc systems
+sphinxsearch (2.0.4-1.1)
+    Fast standalone full-text SQL search engine
+spice-client (0.11.0-1+deb7u1)
+    Implements the client side of the SPICE protocol
+spice-client-gtk (0.12-5)
+    Simple clients for interacting with SPICE servers
+spinner (1.2.4-3)
+    Sends small packets over a idle link
+spotlighter (0.1-1)
+    gtk interface to make annotations on the screen
+spu-tools (2.3.0.136-1)
+    user space tools for the Cell broadband engine
+sqldeveloper-package (0.2.4) [contrib]
+    Oracle SQL Developer Debian package builder
+steghide (0.5.1-9+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.5.1-9 [armhf, s390x])
+    A steganography hiding tool
+stx-btree-demo (0.8.6-1)
+    b+tree implementation in c++, demo program
+sugar-turtleart-activity (98-1)
+    a LOGO-like tool for teaching programming - Sugar activity
+sugarplum (0.9.10-17.2)
+    an automated and intelligent spam trap/cache-poisoner
+summain (0.14-1)
+    create file manifests with checksums
+svdrpservice-dev (0.0.4-14)
+    VDR svdrpservice plugin development files
+svtools (0.6-2)
+    Utilities for daemontools and multilog
+swac-explore (0.2-1.2)
+    audio collections of words (SWAC) explorer
+swac-get (0.3-2.1)
+    audio collections of words (SWAC) manager
+sysbench (0.4.12-1+b1)
+    Cross-platform and multi-threaded benchmark tool
+syslinux-themes-debian (11-1.1)
+    collection of boot loaders (theme metapackage)
+syslinux-themes-debian-squeeze (11-1.1)
+    collection of boot loaders (debian-squeeze theme)
+syslinux-themes-debian-wheezy (11-1.1)
+    collection of boot loaders (debian-wheezy theme)
+sysvbanner (1.0.15)
+    System-V banner clone
+t1lib-bin (5.1.2-3.6)
+    Type 1 font rasterizer library - user binaries
+tablix2 (0.3.5-2)
+    Kernel for solving general timetabling problems
+tack (1.07-1)
+    terminfo action checker
+tagcoll (2.0.13-1.1)
+    Commandline tool to perform operations on tagged collections
+task-spooler (0.7.3-1)
+    personal job scheduler
+terminator (0.95-1)
+    multiple GNOME terminals in one window
+termsaver (0.1.1-1)
+    simple text-based terminal screensaver
+thawab (3.0.13-1) [non-free]
+    Arabic/Islamic encyclopedia system
+thinkfan (0.8.1-1)
+    simple and lightweight fan control program
+tina (0.1.11-3)
+    text-based personal information manager
+tokyotyrant (1.1.40-4.1+b1)
+    Tokyo Tyrant: network interface to Tokyo Cabinet
+tora (2.1.3-2)
+    graphical toolkit for database developers and administrators
+ttyrec (1.0.8-5)
+    Terminal interaction recorder and player (for tty)
+turtleart (98-1)
+    a LOGO-like tool for teaching programming
+tuxonice-userui (1.1-1)
+    user-space interfaces for TuxOnIce
+umview (0.8.2-1)
+    View-OS in user space - Core and base modules
+umview-mod-umdevtap (0.8.2-1)
+    View-OS in user space - Virtual TUN/TAP module
+umview-mod-umfuseext2 (0.4-1)
+    View-OS in user space - ext2 module for UMFUSE
+umview-mod-umfusefat (0.1a-1)
+    View-OS in user space - FAT module for UMFUSE
+umview-mod-umfuseiso9660 (0.3-1)
+    View-OS in user space - ISO9660 module for UMFUSE
+umview-mod-umlwip (0.8.2-1)
+    View-OS in user space - LWIPv6 gateway module
+umview-mod-viewfs (0.8.2-1)
+    View-OS in user space - Filesystem mangling modules
+unicode-data (6.1.0-1)
+    Property data for the Unicode character set
+unionfs-fuse (0.24-2.2)
+    Fuse implementation of unionfs
+uniutils (2.27-1)
+    Tools for finding out what is in a Unicode file
+urlview (0.9-19)
+    Extracts URLs from text
+user-he (1.0.20)
+    Hebrew support for Debian based systems
+utf8-migration-tool (0.5.7)
+    Debian UTF-8 migration wizard
+vcsh (1.0-1)
+    manage config files in $HOME via fake bare git repositories
+vdmfec (1.0-2)
+    recover lost blocks using Forward Error Correction
+vdr-plugin-xine (0.9.4-7)
+    allows xine to be a display for vdr, the Video Disk Recorder
+vgabios (0.7a-3)
+    VGA BIOS software for the Bochs and Qemu emulated VGA card
+virtualbox (4.1.18-dfsg-2+deb7u4) [security]
+    x86 virtualization solution - base binaries
+virtualbox-fuse (4.1.18-dfsg-2+deb7u4) [security]
+    x86 virtualization solution - virtual filesystem
+virtualbox-guest-additions-iso (4.1.18-1) [non-free]
+    guest additions iso image for VirtualBox
+virtualbox-guest-utils (4.1.18-dfsg-2+deb7u4) [security]
+    x86 virtualization solution - non-X11 guest utilities
+virtualbox-ose (4.1.18-dfsg-2+deb7u4) [security]
+    transitional package for virtualbox
+virtualbox-ose-fuse (4.1.18-dfsg-2+deb7u4) [security]
+    transitional package for virtualbox-fuse
+virtualbox-ose-guest-source (4.1.18-dfsg-2+deb7u4) [security]
+    transitional package for virtualbox-guest-source
+virtualbox-ose-guest-utils (4.1.18-dfsg-2+deb7u4) [security]
+    transitional package for virtualbox-guest-utils
+virtualbox-ose-guest-x11 (4.1.18-dfsg-2+deb7u4) [security]
+    transitional package for virtualbox-guest-x11
+virtualbox-ose-qt (4.1.18-dfsg-2+deb7u4) [security]
+    transitional package for virtualbox-qt
+virtualbox-ose-source (4.1.18-dfsg-2+deb7u4) [security]
+    transitional package for virtualbox-source
+virtualbox-qt (4.1.18-dfsg-2+deb7u4) [security]
+    x86 virtualization solution - Qt based user interface
+virtualbox-source (4.1.18-dfsg-2+deb7u4) [security]
+    x86 virtualization solution - kernel module source
+vlan (1.9-3)
+    user mode programs to enable VLANs on your ethernet devices
+weirdx (1.0.32-6)
+    X server in Java
+welcome2l (3.04-25)
+    Linux ANSI boot logo
+when (1.1.29-1)
+    tiny personal calendar
+wm-icons (0.4.0-5.1)
+    Themed icon set that is Window Manager agnostic.
+worklog (1.8-6)
+    Keep Track of Time worked on Projects
+wotsap (0.7-2)
+    OpenPGP Web of Trust analyzer and pathfinder
+wreport-common (2.4-1)
+    common data files for libwreport
+wuzzah (0.53-2)
+    inobtrusively monitor your friends
+x-loader-omap3-beagle (1.5.1+git20110715+fca7cd2-2)
+    Board initialization helper for TI OMAP 3 Beagle boards
+x-loader-omap3-igepv2 (1.5.1+git20110715+fca7cd2-2)
+    Board initialization helper for IGEP v2 and v3 boards
+x-loader-omap3-overo (1.5.1+git20110715+fca7cd2-2)
+    Board initialization helper for Gumstix Overo boards
+x-loader-omap4-panda (1.5.1+git20110715+fca7cd2-2)
+    Board initialization helper for TI OMAP 4 Panda boards
+xcal (4.1-19)
+    a graphical calendar with memos and reminder alarms
+xchat-xsys (2.2.0-2+b2 [armel, ia64], 2.2.0-2+b1 [amd64, i386, mips, mipsel, powerpc, s390, sparc], 2.2.0-2 [armhf, kfreebsd-amd64, kfreebsd-i386, s390x])
+    x-chat plugin that can display your current system statistics
+xhtml-relaxng (20091111-5)
+    Implementation in RELAX NG of the modularization of XHTML
+xmldiff-xmlrev (0.6.10-2)
+    xmldiff output formatter
+zookeeper-bin (3.3.5+dfsg1-2)
+    Command line utilities for zookeeper 

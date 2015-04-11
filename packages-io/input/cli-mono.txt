@@ -1,0 +1,606 @@
+cli-common (0.8.2)
+    common files between all CLI packages
+cli-common-dev (0.8.2)
+    common files for building CLI packages
+db4otool (8.0.184.15484+dfsg-2)
+    native OODBMS for CLI (documentation)
+gnome-desktop-sharp2 (2.26.0-8)
+    GNOME Desktop# 2.24 suite, CLI bindings for GNOME
+gnome-sharp2 (2.24.2-3)
+    GNOME# 2.24 suite, CLI bindings for GNOME
+gnome-sharp2-examples (2.24.2-3)
+    sample applications for GNOME# 2.24
+gtk-sharp2 (2.12.10-5)
+    GTK# 2.10 suite, CLI bindings for GTK+
+gtk-sharp2-examples (2.12.10-5)
+    sample applications for the GTK# 2.10 toolkit
+gtk-sharp2-gapi (2.12.10-5)
+    C source parser and C# code generator for GObject based APIs
+libactiviz.net-cil (1:1.0~git20111123-6)
+    Tool for generating C# wrappers around VTK
+libampsharp-cil-dev (2.0.4-2)
+    Asynchronous Messaging Protocol library for the CLI.
+libampsharp2.0-cil (2.0.4-2)
+    Asynchronous Messaging Protocol library for the CLI.
+libantlr2.7-cil (2.7.7+dfsg-4)
+    language tool for constructing recognizers, compilers etc
+libappindicator0.1-cil (0.4.92-2)
+    allow applications to export a menu into the panel -- CLI bindings
+libappindicator0.1-cil-dev (0.4.92-2)
+    allow applications to export a menu into the panel -- CLI development
+libart2.0-cil (2.24.2-3)
+    CLI binding for libart 2.3
+libart2.0-cil-dev (2.24.2-3)
+    CLI binding for libart 2.3
+libavahi-cil-dev (0.6.19-4.2)
+    CLI bindings for Avahi
+libavahi-ui-cil-dev (0.6.19-4.2)
+    CLI bindings for Avahi Ui
+libavahi-ui0.0-cil (0.6.19-4.2)
+    CLI bindings for Avahi Ui
+libavahi1.0-cil (0.6.19-4.2)
+    CLI bindings for Avahi
+libboo-cil-dev (0.9.5~git20110729.r1.202a430-2)
+    python-like language and compiler for the CLI - library files
+libboo2.0.9-cil (0.9.5~git20110729.r1.202a430-2)
+    python-like language and compiler for the CLI - library files
+libclutter-cil (1.0.0~alpha3~git20090817.r1.349dba6-8)
+    Open GL based interactive canvas library -- CLI Bindings
+libclutter-cil-dev (1.0.0~alpha3~git20090817.r1.349dba6-8)
+    Open GL based interactive canvas library -- CLI development files
+libdb4o-cil-dev (8.0.184.15484+dfsg-2)
+    native OODBMS for CLI - development files
+libdb4o8.0-cil (8.0.184.15484+dfsg-2)
+    native OODBMS for CLI
+libdbus-glib1.0-cil (0.5.0-4)
+    CLI implementation of D-Bus (GLib mainloop integration)
+libdbus-glib1.0-cil-dev (0.5.0-4)
+    CLI implementation of D-Bus (GLib mainloop integration) - development files
+libdbus1.0-cil (0.7.0-5)
+    CLI implementation of D-Bus
+libdbus1.0-cil-dev (0.7.0-5)
+    CLI implementation of D-Bus - development files
+libflickrnet-cil-dev (1:2.2.0-4)
+    Flickr.Net API Library
+libflickrnet2.2-cil (1:2.2.0-4)
+    Flickr.Net API Library
+libgconf2.0-cil (2.24.2-3)
+    CLI binding for GConf 2.24
+libgconf2.0-cil-dev (2.24.2-3)
+    CLI binding for GConf 2.24
+libgdata-cil-dev (2.1.0.0-1)
+    Google GData CLI client library
+libgdata2.1-cil (2.1.0.0-1)
+    Google GData CLI client library
+libgdcm-cil (2.2.0-14.1)
+    Grassroots DICOM CLI bindings
+libgio-cil (2.22.3-2)
+    CLI binding for the GIO I/O stack 2.22
+libgio2.0-cil-dev (2.22.3-2)
+    CLI binding for the GIO I/O stack 2.22
+libgkeyfile-cil-dev (0.1-4)
+    GObject-based wrapper library for GKeyFile -- CLI development files
+libgkeyfile1.0-cil (0.1-4)
+    GObject-based wrapper library for GKeyFile -- CLI bindings
+libglade2.0-cil (2.12.10-5)
+    CLI binding for the Glade libraries 2.6
+libglade2.0-cil-dev (2.12.10-5)
+    CLI binding for the Glade libraries 2.6
+libglib2.0-cil (2.12.10-5)
+    CLI binding for the GLib utility library 2.12
+libglib2.0-cil-dev (2.12.10-5)
+    CLI binding for the GLib utility library 2.12
+libgmime2.6-cil (2.6.10-1)
+    CLI binding for the GMime library
+libgmime2.6-cil-dev (2.6.10-1)
+    CLI binding for the GMime library
+libgnome-keyring1.0-cil (1.0.0-4)
+    CLI library to access the GNOME Keyring daemon
+libgnome-keyring1.0-cil-dev (1.0.0-4)
+    CLI library to access the GNOME Keyring daemon
+libgnome-vfs2.0-cil (2.24.2-3)
+    CLI binding for GnomeVFS 2.24
+libgnome-vfs2.0-cil-dev (2.24.2-3)
+    CLI binding for GnomeVFS 2.24
+libgnome2.0-cil-dev (2.24.2-3)
+    CLI binding for GNOME 2.24
+libgnome2.24-cil (2.24.2-3)
+    CLI binding for GNOME 2.24
+libgnomedesktop2.0-cil-dev (2.26.0-8)
+    CLI binding for GNOME Desktop 2.24
+libgnomedesktop2.20-cil (2.26.0-8)
+    CLI binding for GNOME Desktop 2.24
+libgpod-cil (0.8.2-7)
+    CLI bindings for libgpod
+libgpod-cil-dev (0.8.2-7)
+    CLI bindings for libgpod -- development files
+libgstreamer0.10-cil-dev (0.9.2-4)
+    CLI bindings to GStreamer - development files
+libgstreamer0.9-cil (0.9.2-4)
+    CLI bindings to GStreamer
+libgtk-sharp-beans-cil (2.14.1-3)
+    Supplementary CLI bindings for GTK 2.14+
+libgtk-sharp-beans2.0-cil-dev (2.14.1-3)
+    Supplementary CLI bindings for GTK 2.14+ - development package
+libgtk2.0-cil (2.12.10-5)
+    CLI binding for the GTK+ toolkit 2.12
+libgtk2.0-cil-dev (2.12.10-5)
+    CLI binding for the GTK+ toolkit 2.12
+libgtkglarea-cil-dev (0.0.17-6)
+    CLI bindings for the GTK OpenGL area widget
+libgtkglarea-cil-examples (0.0.17-6)
+    gtkglarea-sharp examples
+libgtkglarea0.0-cil (0.0.17-6)
+    CLI bindings for the GTK OpenGL area widget
+libgtkhtml3.14-cil-dev (2.26.0-8)
+    CLI binding for GtkHTML 3.24
+libgtkhtml3.16-cil (2.26.0-8)
+    CLI binding for GtkHTML 3.24
+libgtksourceview2-2.0-cil (2.26.0-8)
+    CLI binding for GtkSourceView 2.2
+libgtksourceview2-cil-dev (2.26.0-8)
+    CLI binding for GtkSourceView 2.2
+libgudev1.0-cil (0.1-3)
+    GObject-based wrapper library for libudev -- CLI bindings
+libgudev1.0-cil-dev (0.1-3)
+    GObject-based wrapper library for libudev -- CLI development files
+libhyena-cil (0.5-2)
+    set of utility libraries for the CLI
+libhyena-cil-dev (0.5-2)
+    set of utility libraries for the CLI - development files
+libindicate-gtk0.1-cil (0.6.92-1)
+    CLI bindings for libindicate-gtk3
+libindicate-gtk0.1-cil-dev (0.6.92-1)
+    CLI bindings for libindicate-gtk2 - development files
+libindicate0.1-cil (0.6.92-1)
+    CLI bindings for libindicate5
+libindicate0.1-cil-dev (0.6.92-1)
+    CLI bindings for libindicate5 - development files
+libkarma-cil (0.1.2-2.3)
+    Rio Karma access library [CLI runtime library]
+libkarma-cil-dev (0.1.2-2.3)
+    Rio Karma access library [CLI library development files]
+libkitware-mummy-runtime1.0-cil (1.0.2-5)
+    Mummy CLI bindings
+liblog4net-cil-dev (1.2.10+dfsg-6)
+    highly configurable logging API for the CLI
+liblog4net1.2-cil (1.2.10+dfsg-6)
+    highly configurable logging API for the CLI
+libmono-2.0-1 (2.10.8.1-8+deb7u1) [security]
+    Mono JIT library
+libmono-2.0-dev (2.10.8.1-8+deb7u1) [security]
+    Mono JIT library - Development files
+libmono-accessibility4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono Accessibility library (for CLI 4.0)
+libmono-addins-cil-dev (0.6.2-2)
+    addin framework for extensible CLI applications/libraries
+libmono-addins-gui-cil-dev (0.6.2-2)
+    GTK# frontend library for Mono.Addins
+libmono-addins-gui0.2-cil (0.6.2-2)
+    GTK# frontend library for Mono.Addins
+libmono-addins-msbuild-cil-dev (0.6.2-2)
+    MSBuild task library for Mono.Addins
+libmono-addins-msbuild0.2-cil (0.6.2-2)
+    MSBuild task library for Mono.Addins
+libmono-addins0.2-cil (0.6.2-2)
+    addin framework for extensible CLI applications/libraries
+libmono-c5-1.1-cil (2.10.8.1-8+deb7u1) [security]
+    Mono C5 library
+libmono-cairo4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono Cairo library (for CLI 4.0)
+libmono-cecil-cil (0.9.5+dfsg-2)
+    library to generate and inspect CIL assemblies
+libmono-cecil-cil-dev (0.9.5+dfsg-2)
+    library to generate and inspect CIL assemblies
+libmono-cecil-flowanalysis-cil (0.1~vcs20110809.r1.b34edf6-2)
+    FlowAnalysis extension for Mono.Cecil
+libmono-cecil-flowanalysis-cil-dev (0.1~vcs20110809.r1.b34edf6-2)
+    FlowAnalysis extension for Mono.Cecil
+libmono-cecil-private-cil (2.10.8.1-8+deb7u1) [security]
+    Mono.Cecil library
+libmono-cecil-vb0.9-cil (2.10-2)
+    Visual Basic 2010 Cecil libraries for Mono
+libmono-cil-dev (2.10.8.1-8+deb7u1) [security]
+    Mono Base Class Libraries (BCL) - Development files
+libmono-codecontracts4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono.CodeContracts library (for CLI 4.0)
+libmono-compilerservices-symbolwriter4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono.CompilerServices.SymbolWriter library (for CLI 4.0)
+libmono-corlib4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono core library (for CLI 4.0)
+libmono-csharp4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono.CSharp library (for CLI 4.0)
+libmono-custommarshalers4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono CustomMarshalers library (for CLI 4.0)
+libmono-data-tds4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono Data Library (for CLI 4.0)
+libmono-debugger-soft2.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono Soft Debugger library (for CLI 2.0)
+libmono-debugger-soft4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono Soft Debugger library (for CLI 4.0)
+libmono-fuse-cil (0.4.2+dfsg-3+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, powerpc, sparc], 0.4.2+dfsg-3 [s390x])
+    CLI binding for FUSE
+libmono-http4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono.Http library (for CLI 4.0)
+libmono-i18n-cjk4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono I18N.CJK library (for CLI 4.0)
+libmono-i18n-mideast4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono I18N.MidEast library (for CLI 4.0)
+libmono-i18n-other4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono I18N.Other library (for CLI 4.0)
+libmono-i18n-rare4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono I18N.Rare library (for CLI 4.0)
+libmono-i18n-west2.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono I18N.West library (for CLI 2.0)
+libmono-i18n-west4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono I18N.West library (for CLI 4.0)
+libmono-i18n4.0-all (2.10.8.1-8+deb7u1) [security]
+    Mono I18N libraries (for CLI 4.0)
+libmono-i18n4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono I18N base library (for CLI 4.0)
+libmono-ldap4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono LDAP library (for CLI 4.0)
+libmono-management2.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono Management library (for CLI 2.0)
+libmono-management4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono Management library (for CLI 4.0)
+libmono-messaging-rabbitmq2.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono Messaging RabbitMQ library (for CLI 2.0)
+libmono-messaging-rabbitmq4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono Messaging RabbitMQ library (for CLI 4.0)
+libmono-messaging2.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono Messaging library (for CLI 2.0)
+libmono-messaging4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono Messaging library (for CLI 4.0)
+libmono-microsoft-build-engine4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono Microsoft.Build.Engine library (for CLI 4.0)
+libmono-microsoft-build-framework4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono Microsoft.Build.Framework library (for CLI 4.0)
+libmono-microsoft-build-tasks-v4.0-4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono Microsoft.Build.Tasks.v4.0 library (for CLI 4.0)
+libmono-microsoft-build-utilities-v4.0-4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono Microsoft.Build.Utilities.v4.0 library (for CLI 4.0)
+libmono-microsoft-csharp4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono Microsoft.CSharp library (for CLI 4.0)
+libmono-microsoft-visualbasic10.0-cil (2.10-2)
+    Visual Basic 2010 runtime libraries for Mono
+libmono-microsoft-visualbasic8.0-cil (2.10-2)
+    Visual Basic 2005 runtime libraries for Mono
+libmono-microsoft-visualc10.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono Microsoft.VisualC library (for CLI 4.0)
+libmono-microsoft-web-infrastructure1.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono Microsoft.Web.Infrastructure library (for CLI 4.0)
+libmono-npgsql4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono Npgsql library (for CLI 4.0)
+libmono-opensystem-c4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono OpenSystem.C library (for CLI 4.0)
+libmono-oracle4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono Oracle library (for CLI 4.0)
+libmono-peapi4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono PEAPI library (for CLI 4.0)
+libmono-posix4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono.Posix library (for CLI 4.0)
+libmono-profiler (2.10.8.1-8+deb7u1) [security]
+    Mono profiler libraries
+libmono-rabbitmq2.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono RabbitMQ.Client library (for CLI 2.0)
+libmono-rabbitmq4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono RabbitMQ.Client library (for CLI 4.0)
+libmono-reflection-cil (1.0+git20110407+d2343843-2)
+    CLI reflection helper library
+libmono-reflection-cil-dev (1.0+git20110407+d2343843-2)
+    CLI reflection helper library
+libmono-relaxng4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono Relaxng library (for CLI 4.0)
+libmono-security4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono Security library (for CLI 4.0)
+libmono-sharpzip4.84-cil (2.10.8.1-8+deb7u1) [security]
+    Mono SharpZipLib library (for CLI 4.0)
+libmono-simd2.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono SIMD (for CLI 2.0)
+libmono-simd4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono SIMD (for CLI 4.0)
+libmono-sqlite4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono Sqlite library (for CLI 4.0)
+libmono-system-componentmodel-composition4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.ComponentModel.Composition library (for CLI 4.0)
+libmono-system-componentmodel-dataannotations4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.ComponentModel.DataAnnotations library (for CLI 4.0)
+libmono-system-configuration-install4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.Configuration.Install library (for CLI 4.0)
+libmono-system-configuration4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.Configuration library (for CLI 4.0)
+libmono-system-core4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.Core library (for CLI 4.0)
+libmono-system-data-datasetextensions4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.Data.DataSetExtensions library (for CLI 4.0)
+libmono-system-data-linq2.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.Data.Linq Library (for CLI 2.0)
+libmono-system-data-linq4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.Data.Linq Library (for CLI 4.0)
+libmono-system-data-services-client4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.Data.Services.Client library (for CLI 4.0)
+libmono-system-data-services4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.Data.Services library (for CLI 4.0)
+libmono-system-data4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.Data library (for CLI 4.0)
+libmono-system-design4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.Design Library (for CLI 4.0)
+libmono-system-drawing-design4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.Drawing.Design (for CLI 4.0)
+libmono-system-drawing4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.Drawing library (for CLI 4.0)
+libmono-system-dynamic4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.Dynamic library (for CLI 4.0)
+libmono-system-enterpriseservices4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.EnterpriseServices library (for CLI 4.0)
+libmono-system-identitymodel-selectors4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.IdentityModel.Selectors Library (for CLI 4.0)
+libmono-system-identitymodel4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.IdentityModel Library (for CLI 4.0)
+libmono-system-ldap4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.DirectoryServices library (for CLI 4.0)
+libmono-system-management4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.Management library (for CLI 4.0)
+libmono-system-messaging4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.Messaging library (for CLI 4.0)
+libmono-system-net4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.Net library (for CLI 4.0)
+libmono-system-numerics4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.Numerics library (for CLI 4.0)
+libmono-system-runtime-caching4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.Runtime.Caching Library (for CLI 4.0)
+libmono-system-runtime-durableinstancing4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.Runtime.DurableInstancing Library (for CLI 4.0)
+libmono-system-runtime-serialization-formatters-soap4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.Runtime.Serialization.Formatters.Soap Library (for CLI 4.0)
+libmono-system-runtime-serialization4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.Runtime.Serialization Library (for CLI 4.0)
+libmono-system-runtime4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.Runtime library (for CLI 4.0)
+libmono-system-security4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.Security library (for CLI 4.0)
+libmono-system-servicemodel-discovery4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.ServiceModel.Discovery Library (for CLI 4.0)
+libmono-system-servicemodel-routing4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.ServiceModel.Routing Library (for CLI 4.0)
+libmono-system-servicemodel-web4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.ServiceModel.Web Library (for CLI 4.0)
+libmono-system-servicemodel4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.ServiceModel Library (for CLI 4.0)
+libmono-system-serviceprocess4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.ServiceProcess library (for CLI 4.0)
+libmono-system-transactions4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.Transactions library (for CLI 4.0)
+libmono-system-web-abstractions4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.Web.Abstractions library (for CLI 4.0)
+libmono-system-web-applicationservices4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.Web.ApplicationServices library (for CLI 4.0)
+libmono-system-web-dynamicdata4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.Web.DynamicData library (for CLI 4.0)
+libmono-system-web-extensions-design4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.Web.Extensions.Design library (for CLI 4.0)
+libmono-system-web-extensions4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.Web.Extensions library (for CLI 4.0)
+libmono-system-web-mvc1.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono ASP.NET MVC Library (for CLI 2.0)
+libmono-system-web-mvc2.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono ASP.NET MVC Library (for CLI 2.0)
+libmono-system-web-routing4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.Web.Routing (for CLI 4.0)
+libmono-system-web-services4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.Web.Services (for CLI 4.0)
+libmono-system-web4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.Web library (for CLI 4.0)
+libmono-system-windows-forms-datavisualization4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.Windows.Forms.DataVisualization Library (for CLI 4.0)
+libmono-system-windows-forms4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.Windows.Forms Library (for CLI 4.0)
+libmono-system-xaml4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.Xaml Library (for CLI 4.0)
+libmono-system-xml-linq4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.Xml.Linq library (for CLI 4.0)
+libmono-system-xml4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System.Xml library (for CLI 4.0)
+libmono-system4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono System libraries (for CLI 4.0)
+libmono-tasklets2.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono Tasklets library (for CLI 2.0)
+libmono-tasklets4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono Tasklets library (for CLI 4.0)
+libmono-uia-atkbridge1.0-cil (2.1-2)
+    Bridge between UIA providers and ATK
+libmono-uia-cil-dev (2.1-4)
+    Implementations of members and interfaces based on MS UIA API
+libmono-uia-winforms1.0-cil (2.1-2)
+    Implementation of UIA providers
+libmono-uia3.0-cil (2.1-4)
+    Implementations of members and interfaces based on MS UIA API
+libmono-upnp-cil (0.1.2-1)
+    client/server libraries for UPnP -- CIL assemblies
+libmono-upnp-cil-dev (0.1.2-1)
+    client/server libraries for the UPnP -- development files
+libmono-wcf3.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono WCF libraries (for CLI 2.0)
+libmono-web4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono.Web library (for CLI 4.0)
+libmono-webbrowser2.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono Web Browser library (for CLI 2.0)
+libmono-webbrowser4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono Web Browser library (for CLI 4.0)
+libmono-webmatrix-data4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono WebMatrix.Data Library (for CLI 4.0)
+libmono-windowsbase3.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono WindowsBase library (for CLI 2.0)
+libmono-windowsbase4.0-cil (2.10.8.1-8+deb7u1) [security]
+    Mono WindowsBase library (for CLI 4.0)
+libmono-zeroconf-cil-dev (0.9.0-4)
+    CLI library for multicast DNS service discovery
+libmono-zeroconf1.0-cil (0.9.0-4)
+    CLI library for multicast DNS service discovery
+libmonogame-cil (2.5.1+dfsg-3)
+    Free implementation of XNA - Assemblies
+libmonogame-cil-dev (2.5.1+dfsg-3)
+    Free implementation of XNA - Development files
+libmysql-cil-dev (6.4.3-2)
+    MySQL database connector for CLI
+libmysql6.4-cil (6.4.3-2)
+    MySQL database connector for CLI
+libndesk-dbus-glib1.0-cil (0.4.1-4)
+    CLI implementation of D-Bus (GLib mainloop integration)
+libndesk-dbus-glib1.0-cil-dev (0.4.1-4)
+    CLI implementation of D-Bus (GLib mainloop integration)
+libndesk-dbus1.0-cil (0.6.0-6)
+    CLI implementation of D-Bus
+libndesk-dbus1.0-cil-dev (0.6.0-6)
+    CLI implementation of D-Bus
+libnewtonsoft-json-cil-dev (4.5r6-1)
+    high-performance JSON framework for .NET -- development files
+libnewtonsoft-json4.5-cil (4.5r6-1)
+    high-performance JSON framework for .NET
+libnini-cil-dev (1.1.0+dfsg.2-4)
+    CLI library for managing configuration files
+libnini1.1-cil (1.1.0+dfsg.2-4)
+    CLI library for managing configuration files
+libnotify-cil-dev (0.4.0~r3032-6)
+    CLI library for desktop notifications
+libnotify0.4-cil (0.4.0~r3032-6)
+    CLI library for desktop notifications
+libnunit-cil-dev (2.6.0.12051+dfsg-2)
+    Unit test framework for CLI - Development files
+libnunit2.6-cil (2.6.0.12051+dfsg-2)
+    Unit test framework for CLI - Assemblies
+libopentk-cil-dev (1.0.20101006+dfsg1-1)
+    Open Toolkit wrapper for OpenGL, OpenAL and OpenCL - Dev files
+libopentk1.0-cil (1.0.20101006+dfsg1-1)
+    Open Toolkit wrapper for OpenGL, OpenAL and OpenCL - Assemblies
+libpoppler-cil (0.0.3-2)
+    PDF rendering library -- CLI bindings
+libpoppler-cil-dev (0.0.3-2)
+    PDF rendering library -- CLI development files
+librhash-cil-dev (1.2.9-8+deb7u1)
+    development files for CLI bindings of LibRHash
+librhash1.0-cil (1.2.9-8+deb7u1)
+    CLI interface for LibRHash hash sums calculation library
+librsvg2-2.0-cil-dev (2.26.0-8)
+    CLI binding for RSVG 2.22
+librsvg2-2.18-cil (2.26.0-8)
+    CLI binding for RSVG 2.22
+libsemweb1.0-cil (1.05+dfsg-5)
+    Semantic Web/RDF library
+libsublib-cil (0.9-4)
+    CLI library that eases the development of subtitling applications
+libtaglib-cil-dev (2.0.4.0-1)
+    CLI library for accessing audio and video files metadata
+libtaglib2.0-cil (2.0.4.0-1)
+    CLI library for accessing audio and video files metadata
+libtaoframework-devil-cil-dev (2.1.svn20090801-9)
+    Tao CLI binding for DevIL - development files
+libtaoframework-devil1.6-cil (2.1.svn20090801-9)
+    Tao CLI binding for DevIL
+libtaoframework-ffmpeg-cil-dev (2.1.svn20090801-9)
+    Tao CLI binding for FFmpeg - development files
+libtaoframework-ffmpeg0.4-cil (2.1.svn20090801-9)
+    Tao CLI binding for FFmpeg
+libtaoframework-freeglut-cil-dev (2.1.svn20090801-9)
+    Tao CLI binding for freeglut - development files
+libtaoframework-freeglut2.4-cil (2.1.svn20090801-9)
+    Tao CLI binding for freeglut
+libtaoframework-freetype-cil-dev (2.1.svn20090801-9)
+    Tao CLI binding for FreeType - development files
+libtaoframework-freetype2.3-cil (2.1.svn20090801-9)
+    Tao CLI binding for FreeType
+libtaoframework-ftgl-cil-dev (2.1.svn20090801-9)
+    Tao CLI binding for FTGL - development files
+libtaoframework-ftgl2.1-cil (2.1.svn20090801-9)
+    Tao CLI binding for FTGL
+libtaoframework-lua-cil-dev (2.1.svn20090801-9)
+    Tao CLI binding for Lua - development files
+libtaoframework-lua5.1-cil (2.1.svn20090801-9)
+    Tao CLI binding for Lua
+libtaoframework-ode-cil-dev (2.1.svn20090801-9)
+    Tao CLI binding for ODE - development files
+libtaoframework-ode0.9-cil (2.1.svn20090801-9)
+    Tao CLI binding for ODE
+libtaoframework-openal-cil-dev (2.1.svn20090801-9)
+    Tao CLI binding for OpenAL - development files
+libtaoframework-openal1.1-cil (2.1.svn20090801-9)
+    Tao CLI binding for OpenAL
+libtaoframework-opengl-cil-dev (2.1.svn20090801-9)
+    Tao CLI binding for OpenGL and GLU - development files
+libtaoframework-opengl3.0-cil (2.1.svn20090801-9)
+    Tao CLI binding for OpenGL and GLU
+libtaoframework-physfs-cil-dev (2.1.svn20090801-9)
+    Tao CLI binding for PhysicsFS - development files
+libtaoframework-physfs1.0-cil (2.1.svn20090801-9)
+    Tao CLI binding for PhysicsFS
+libtaoframework-sdl-cil-dev (2.1.svn20090801-9)
+    Tao CLI binding for SDL - development files
+libtaoframework-sdl1.2-cil (2.1.svn20090801-9)
+    Tao CLI binding for SDL
+libvirtuoso5.5-cil (6.1.4+dfsg1-7)
+    high-performance database - Mono assemblies
+libvte0.16-cil (2.26.0-8)
+    CLI binding for VTE 0.16
+libvte0.16-cil-dev (2.26.0-8)
+    CLI binding for VTE 0.16
+libvtkgdcm-cil (2.2.0-14.1)
+    Grassroots DICOM VTK CLI bindings
+libwebkit-cil-dev (0.3-6)
+    CLI binding for the WebKit library - development package
+libwebkit1.1-cil (0.3-6)
+    CLI binding for the WebKit library
+libwnck1.0-cil-dev (2.26.0-8)
+    CLI binding for wnck 2.24
+libwnck2.20-cil (2.26.0-8)
+    CLI binding for wnck 2.24
+libzeitgeist-cil-dev (0.8.0.0-4)
+    CLI bindings for Zeitgeist Project - development files
+libzeitgeist0.8-cil (0.8.0.0-4)
+    CLI bindings for Zeitgeist Project
+libzeroc-ice3.4-cil (3.4.2-8.2)
+    Ice for C# libraries
+mono-4.0-gac (2.10.8.1-8+deb7u1) [security]
+    Mono GAC tool (for CLI 4.0)
+mono-4.0-service (2.10.8.1-8+deb7u1) [security]
+    Mono service manager for CLI 4.0
+mono-addins-utils (0.6.2-2)
+    Command-line utility for Mono.Addins management
+mono-complete (2.10.8.1-8+deb7u1) [security]
+    complete Mono runtime, development tools and all libraries
+mono-dmcs (2.10.8.1-8+deb7u1) [security]
+    Mono C# 4.0 compiler for CLI 4.0
+mono-profiler (2.10-6)
+    Mono profiler
+mono-runtime-sgen (2.10.8.1-8+deb7u1) [security]
+    Mono runtime - SGen (experimental)
+mono-tools-devel (2.10-6)
+    Various development tools for mono
+mono-tools-gui (2.10-6)
+    Various GUI tools for mono
+mono-upnp-bin (0.1.2-1)
+    client/server libraries for UPnP -- executables
+mono-vbnc (2.10-2)
+    Mono Visual Basic Compiler (VB.NET)
+mono-winforms-a11y (2.1-2)
+    Accessibility support for WinForms applications in Mono
+mono-xsp (2.10-2.4)
+    simple web server to run ASP.NET applications - default version
+mono-xsp2 (2.10-2.4)
+    simple web server to run ASP.NET 2.0 applications
+mono-xsp2-base (2.10-2.4)
+    base libraries for XSP 2.0
+monodevelop (3.0.3.2+dfsg-1)
+    Development Environment for GNOME
+monodevelop-database (3.0.3.2+dfsg-1)
+    Database plugin for MonoDevelop
+monodevelop-nunit (3.0.3.2+dfsg-1)
+    NUnit plugin for MonoDevelop
+monodevelop-versioncontrol (3.0.3.2+dfsg-1)
+    VersionControl plugin for MonoDevelop
+monodoc-browser (2.10-6)
+    MonoDoc GTK+ based viewer
+openmcdf (1.5.2-1)
+    Structured Storage Explorer
+xsddiagram (0.10-1)
+    XML Schema Definition (XSD) diagram viewer

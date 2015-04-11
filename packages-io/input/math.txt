@@ -1,0 +1,624 @@
+acl2 (4.3-3)
+    Computational Logic for Applicative Common Lisp: main binary
+acl2-books (4.3-3)
+    Computational Logic for Applicative Common Lisp: compiled libraries
+acl2-books-certs (4.3-3)
+    Computational Logic for Applicative Common Lisp: library certificates
+acl2-books-source (4.3-3)
+    Computational Logic for Applicative Common Lisp: library sources
+acl2-emacs (4.3-3)
+    Computational Logic for Applicative Common Lisp: emacs interface
+acl2-infix (4.3-3)
+    Computational Logic for Applicative Common Lisp: infix interface
+acl2-infix-source (4.3-3)
+    Computational Logic for Applicative Common Lisp: infix source
+acl2-source (4.3-3)
+    Computational Logic for Applicative Common Lisp: source files
+admesh (0.95-12)
+    Tool for processing triangulated solid meshes
+alt-ergo (0.94-2)
+    Automatic theorem prover dedicated to program verification
+ann-tools (1.1.2+doc-3)
+    Approximate Nearest Neighbor Searching library (tools)
+apcalc (2.12.4.4-3)
+    Arbitrary precision calculator (original name: calc)
+apcalc-common (2.12.4.4-3)
+    Arbitrary precision calculator (common files)
+aribas (1.64-5)
+    interpreter for arithmetic
+autoclass (3.3.6.dfsg.1-1)
+    automatic classification or clustering
+axiom (20120501-1)
+    General purpose computer algebra system: main binary and modules
+axiom-databases (20120501-1)
+    General purpose computer algebra system: generated text databases
+axiom-graphics (20120501-1)
+    General purpose computer algebra system: graphics subsystem
+axiom-graphics-data (20120501-1)
+    General purpose computer algebra system: graphics subsystem
+axiom-hypertex (20120501-1)
+    General purpose computer algebra system: hypertex subsystem
+axiom-hypertex-data (20120501-1)
+    General purpose computer algebra system: hypertex subsystem
+axiom-source (20120501-1)
+    General purpose computer algebra system: source files
+axiom-test (20120501-1)
+    General purpose computer algebra system: regression test inputs
+axiom-tex (20120501-1)
+    General purpose computer algebra system: style file for TeX
+bc (1.06.95-2+b1 [amd64, sparc], 1.06.95-2 [armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x])
+    The GNU bc arbitrary precision calculator language
+blacs-mpi-test (1.1-31)
+    Basic Linear Algebra Comm. Subprograms - Test files for MPI
+blacs-test-common (1.1-31)
+    Test data for BLACS testers
+bliss (0.72-4)
+    tool to compute graph automorphisms and labelings
+bugsx (1.08-12) [non-free]
+    program to evolve biomorphs using genetic algorithms
+cadabra (1.29-1)
+    field-theory motivated computer algebra system
+calligrasheets (1:2.4.4-3)
+    spreadsheet for the Calligra Suite
+cantor (4:4.8.4-2)
+    interface for mathematical applications
+cantor-backend-kalgebra (4:4.8.4-2)
+    KAlgebra backend for Cantor
+cantor-backend-maxima (4:4.8.4-2)
+    Maxima backend for Cantor
+cantor-backend-octave (4:4.8.4-2)
+    Octave backend for Cantor
+cantor-backend-qalculate (4:4.8.4-2)
+    Qalculate! backend for Cantor
+cantor-backend-r (4:4.8.4-2)
+    R backend for Cantor
+cantor-backend-sage (4:4.8.4-2)
+    Sage backend for Cantor
+cantor-backend-scilab (4:4.8.4-2)
+    Scilab backend for Cantor
+carmetal (3.5.2+dfsg-1)
+    dynamic geometry software with highly ergonomic UI
+cimg-dev (1.4.9-2)
+    powerful image processing library
+cliquer (1.21-1)
+    clique searching program
+concalc (0.9.2-2)
+    console calculator
+coq (8.3.pl4+dfsg-2)
+    proof assistant for higher-order logic (toplevel and compiler)
+coq-theories (8.3.pl4+dfsg-2)
+    proof assistant for higher-order logic (theories)
+coqide (8.3.pl4+dfsg-2)
+    proof assistant for higher-order logic (gtk interface)
+cpushare (0.48-4)
+    client and server for the CPUShare distributed computing platform
+cuba-partview (3.0+20111124-2)
+    partition viewer for the Cuba library
+cvc3 (2.4.1-4)
+    Automatic theorem prover for SMT problems
+cvc3-el (2.4.1-4)
+    Emacs mode for CVC3
+dc (1.06.95-2+b1 [amd64, sparc], 1.06.95-2 [armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x])
+    The GNU dc arbitrary precision reverse-polish calculator
+dicelab (0.7-1)
+    evaluate the statistical distribution of dice rolls
+dolfin-bin (1.0.0-7)
+    Executable scripts for DOLFIN
+drgeo (1.1.0-10)
+    interactive geometry software
+dynare (4.3.0-2)
+    platform for handling a wide class of economic models
+dynare-common (4.3.0-2)
+    platform for handling a wide class of economic models
+dynare-matlab (4.3.0-2) [contrib]
+    MATLAB support for Dynare
+eukleides (1.5.4-2)
+    Euclidean geometry drawing language
+euler (1.61.0-8.1)
+    interactive mathematical programming environment
+evolver (2.30c.dfsg-3)
+    Surface Evolver
+fenics (1:1.0.0-1)
+    automation of computational mathematical modeling
+formed (3.3f-1.1)
+    formula editor for first-order logic formulae
+freefem (3.5.8-5)
+    PDE oriented language using Finite Element Method
+freefem++ (3.19.1-1)
+    Provides the binaries of the FreeFem++ FE suite
+freefem-examples (3.5.8-5)
+    Example files for FreeFEM
+freefem3d (1.0pre10-3.1)
+    Language and solver for partial differential equations in 3D
+freemat (4.0-5)
+    mathematics framework (mostly matlab compatible)
+freemat-data (4.0-5)
+    freemat data files
+freemat-help (4.0-5)
+    freemat help files
+galculator (1.3.4-1)
+    A GTK+ 2.0 based calculator
+gambit (0.2010.09.01-1.1)
+    game theory software and tools
+gap (4r4p12-2)
+    Groups, Algorithms and Programming computer algebra system
+gap-character-tables (1r1p3-5)
+    GAP Library of character tables
+gap-core (4r4p12-2)
+    GAP computer algebra system, core components
+gap-guava (3.6-2)
+    Coding theory library for GAP
+gap-libs (4r4p12-2)
+    GAP computer algebra system, essential GAP libraries
+gap-online-help (4r4p12-2)
+    GAP computer algebra system, online help
+gap-prim-groups (4r4p10-1)
+    Database of primitive groups for GAP
+gap-small-groups (4r4p10-1)
+    Database of small groups for GAP
+gap-small-groups-extra (4r4p10-1)
+    Large database of small groups for GAP
+gap-table-of-marks (1r1p4-1)
+    GAP table of marks library
+gap-trans-groups (4r4p10-1)
+    Database of transitive groups for GAP
+gbase (0.5-2.2)
+    small numeric base converter
+gcalctool (6.4.2.1-3)
+    GNOME desktop calculator
+genus2reduction (0.3-2.2)
+    Conductor and Reduction Types for Genus 2 Curves
+geomview (1.9.4-3)
+    interactive geometry viewing program
+gfan (0.3dfsg-1.1)
+    Program for computing with Groebner fans
+gfm (1.03-2)
+    Texas Instruments hand-helds file manipulation program for X
+ggobi (2.1.10-4)
+    Data visualization system for high-dimensional data
+ginac-tools (1.6.2-1)
+    GiNaC symbolic framework support tools
+glpk (4.45-1)
+    linear programming kit
+glpk-utils (4.45-1)
+    linear programming kit - utility files
+gmp-ecm (6.4.2-1)
+    Factor integers using the Elliptic Curve Method
+gnumeric (1.10.17-1.1)
+    spreadsheet application for GNOME - main program
+gnumeric-common (1.10.17-1.1)
+    spreadsheet application for GNOME - common files
+gnumeric-plugins-extra (1.10.17-1.1)
+    spreadsheet application for GNOME - additional plugins
+gnuplot (4.6.0-8)
+    Command-line driven interactive plotting program
+gnuplot-mode (1:0.6.0-8)
+    Yet another Gnuplot mode for Emacs
+gnuplot-nox (4.6.0-8)
+    Command-line driven interactive plotting program. No-X package
+gnuplot-nox
+    virtual package provided by gnuplot-x11, gnuplot-qt
+gnuplot-qt (4.6.0-8)
+    Command-line driven interactive plotting program. QT-package
+gnuplot-x11 (4.6.0-8)
+    Command-line driven interactive plotting program. X-package
+gnuplot-x11
+    virtual package provided by gnuplot-qt
+grace (1:5.1.22-13)
+    XY graphing and plotting tool
+graphmonkey (1.7-3)
+    a GTK#-based graphing calculator
+graphthing (1.3.2-3.1)
+    tool to create, manipulate and study graphs
+gretl (1.9.9-1)
+    GNU Regression, Econometric & Time-Series Library
+gretl-common (1.9.9-1)
+    GNU Regression, Econometric & Time-Series Library -- scripts package
+gretl-data (1.9.9-1)
+    GNU Regression, Econometric & Time-Series Library -- data package
+grpn (1.1.2-3.1)
+    GTK+ reverse polish notation calculator
+gsl-bin (1.15+dfsg.2-2)
+    GNU Scientific Library (GSL) -- binary package
+hol-light (20120602-1)
+    HOL Light theorem prover
+hol88 (2.02.19940316-15)
+    Higher Order Logic, system image
+hol88-contrib-help (2.02.19940316-15)
+    Higher Order Logic, user contributed online help files
+hol88-contrib-source (2.02.19940316-15)
+    Higher Order Logic, user contributed source
+hol88-help (2.02.19940316-15)
+    Higher Order Logic, online help files
+hol88-library (2.02.19940316-15)
+    Higher Order Logic, binary library modules
+hol88-library-help (2.02.19940316-15)
+    Higher Order Logic, library online help files
+hol88-library-source (2.02.19940316-15)
+    Higher Order Logic, library source files
+hol88-source (2.02.19940316-15)
+    Higher Order Logic, source files
+hyantesite (1.3.0-1)
+    geomatic tool to compute neighbourhood population potential
+jacal (1b9-2.1)
+    Interactive symbolic math system
+jags (3.2.0-1)
+    Just Another Gibbs Sampler for Bayesian MCMC simulation
+jfractionlab (0.91-2)
+    Educative program to practice fractions
+jgraph (83-22)
+    Jim Plank's program for producing PostScript graphs
+kalgebra (4:4.8.4-1)
+    algebraic graphing calculator
+kalgebra-common (4:4.8.4-1)
+    contains files common for kalgebra and kalgebramobile
+kalgebramobile (4:4.8.4-1)
+    algebraic graphing calculator for small touch based interfaces
+kali (3.1-11)
+    Draw tilings, frieze patterns, and so on
+kbruch (4:4.8.4-1)
+    fraction learning aid for KDE
+kcalc (4:4.8.4-2)
+    simple and scientific calculator
+kig (4:4.8.4-1)
+    interactive geometry tool for KDE
+kmplot (4:4.8.4-2)
+    mathematical function plotter for KDE
+ladr4-apps (0.0.200902a-2.1)
+    the LADR deduction library, miscellaneous applications
+lcalc (0.0.20080205-1.2)
+    a program for calculating with L-functions
+libaac-tactics-coq (0.2.pl2-7)
+    Coq tactics for reasoning modulo AC (theories)
+libcdd-test (094b.dfsg-4.2)
+    Test programs for libcdd-dev
+libfloat-coq (1:8.3pl1-4)
+    Coq library on floating-point arithmetic
+libgts-bin (0.7.6+darcs110121-1.1)
+    utility binaries for libgts
+libplplot-ada0 (5.9.9-5)
+    Ada support for PLplot, a plotting library
+libreoffice-nlpsolver (0.9~beta1-9)
+    "Solver for Nonlinear Programming" extension for LibreOffice
+libssreflect-coq (1.3pl4-1)
+    small scale reflection library for Coq (theories)
+lie (2.2.2+dfsg-2)
+    Computer algebra package for Lie group computations
+lp-solve (5.5.0.13-7)
+    Solve (mixed integer) linear programming problems
+lrslib (0.42c-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.42c-1 [armhf, s390x])
+    package to enumerate vertices and extreme rays of a convex polyhedron
+lybniz (1.3.2-2)
+    mathematical function graph plotter
+mace2 (3.3f-1.1)
+    program that searches for finite models of first-order statements
+mandelbulber (1:1.11-1)
+    3D fractal renderer and animator
+maria (1.3.5-4)
+    reachability analyzer for Algebraic System Nets
+mathomatic (15.8.2-2)
+    portable Computer Algebra System (CAS)
+mathomatic-primes (15.8.2-2)
+    prime number tools for mathomatic
+mathpiper (0.81f+svn4469+dfsg3-1)
+    Java Computer Algebra System
+matita (0.99.1-1)
+    interactive theorem prover
+maxima (5.27.0-3)
+    Computer algebra system -- base system
+maxima-emacs (5.27.0-3)
+    Computer algebra system -- emacs interface
+maxima-share (5.27.0-3)
+    Computer algebra system -- extra code
+maxima-src (5.27.0-3)
+    Computer algebra system -- source code
+maxima-test (5.27.0-3)
+    Computer algebra system -- test suite
+mcl (1:12-068-1)
+    Markov Cluster algorithm
+mcrl2 (201202.0-2+b1)
+    formal specification language toolset
+metis-edf (4.1-2-3) [non-free]
+    Family of Multilevel Partitioning Algorithms
+ministat (20100628-1)
+    a simple tool for statistical comparison of data sets
+minlog (4.0.99.20100221-5.2)
+    Proof assistant based on first order natural deduction calculus
+model-builder (0.4.1-6)
+    graphical ODE simulator
+mumps-test (4.10.0.dfsg-3)
+    Example/test binaries using MUMPS
+nauty (2.4r2-1) [non-free]
+    command line tools to compute graph automorphisms
+num-utils (0.5-11)
+    programs for dealing with numbers from the command line
+octave (3.6.2-5+deb7u1)
+    GNU Octave language for numerical computations
+octave-audio (1.1.4-4)
+    functions to work with audio files in Octave
+octave-benchmark (1.1.1-4)
+    code to benchmark speed of Octave
+octave-common (3.6.2-5+deb7u1)
+    architecture-independent files for octave
+octave-communications (1.1.1-1)
+    communications package for Octave
+octave-communications-common (1.1.1-1)
+    communications package for Octave (arch-indep files)
+octave-control (2.3.52-1)
+    control functions for Octave from Octave-Forge
+octave-data-smoothing (1.3.0-2)
+    functions to do data smoothing on noisy data
+octave-dataframe (0.9.1-1)
+    manipulate data in Octave similar to R data.frame
+octave-econometrics (1:1.0.8-6)
+    econometrics functions for Octave
+octave-epstk (2.4-1)
+    GNU Octave encapsulated postscript toolkit
+octave-financial (0.4.0-1)
+    financial manipulation and plotting functions
+octave-fixed (0.7.10-5)
+    fixed point computation for Octave
+octave-fpl (1.2.0-3)
+    plot data on unstructured triangular and tetrahedral meshes in Octave
+octave-ga (0.10.0-1)
+    genetic optimization code for Octave
+octave-general (1.3.1-1)
+    provide extra general functions for Octave
+octave-geometry (1.5.0-1)
+    geometric computing functions for Octave
+octave-gsl (1.0.8-5)
+    GSL binding for Octave
+octave-image (1.0.15-1)
+    image manipulation for Octave
+octave-io (1.0.19-1)
+    input/output data functions for Octave
+octave-java (1.2.8-6)
+    Java objects manipulation interface for Octave
+octave-linear-algebra (2.2.0-1)
+    additional linear-algebra functions for Octave
+octave-mapping (1.0.7-4)
+    geographical mapping functions for Octave
+octave-miscellaneous (1.1.0-1)
+    miscellaneous tools for Octave
+octave-missing-functions (1.0.2-4)
+    finds functions that are in Matlab but not in Octave
+octave-nan (2.5.5-2)
+    handles data with and without missing values in Octave
+octave-nnet (0.1.13-2)
+    feed forward multi-layer neural network functions for Octave
+octave-nurbs (1.3.6-1)
+    non-uniform rational B-splines for Octave
+octave-ocs (0.1.3-1)
+    circuit simulator for Octave
+octave-octcdf (1.1.4-2)
+    NetCDF data files interface for Octave
+octave-octgpr (1.2.0-3)
+    functions to smooth and interpolate scattered data in Octave
+octave-odepkg (0.8.2-2)
+    solve differential equations and initial value problems in Octave
+octave-openmpi-ext (1.0.2-1)
+    Octave toolbox for parallel computing using MPI
+octave-optim (1.2.0-1)
+    unconstrained non-linear optimization toolkit for Octave
+octave-optiminterp (0.3.3-2)
+    optimal interpolation package for Octave
+octave-pfstools (1.8.5-1)
+    octave bindings for pfstools
+octave-plot (1.1.0-2)
+    additional plotting tools for Octave
+octave-plplot (5.9.9-5)
+    Octave support for PLplot, a plotting library
+octave-quaternion (2.0.0-1)
+    quaternion package for Octave
+octave-secs1d (0.0.8-4)
+    semi conductor simulator in 1D for Octave
+octave-secs2d (0.0.8-4)
+    semi conductor simulator in 2D for Octave
+octave-signal (1.1.3-1)
+    signal processing functions for Octave
+octave-sockets (1.0.8-1)
+    communication through Internet sockets in Octave
+octave-specfun (1.1.0-1)
+    special mathematical functions for Octave
+octave-splines (1.0.7-4)
+    cubic spline functions for Octave
+octave-statistics (1.1.3-1)
+    additional statistical functions for Octave
+octave-strings (1.1.0-1)
+    additional string manipulation functions for Octave
+octave-struct (1.0.10-1)
+    additional structure manipulation functions for Octave
+octave-symbolic (1.1.0-1)
+    symbolic package for Octave
+octave-tsa (4.2.4-1)
+    time series analysis in Octave
+octave-vrml (1.0.13-1)
+    VRML functions for Octave
+octave-zenity (0.5.7-5)
+    simple graphical user interfaces using zenity in Octave
+open-axiom (1.4.1+svn~2626-2)
+    open scientific computation platform
+open-axiom-databases (1.4.1+svn~2626-2)
+    open scientific computation platform: generated text databases
+open-axiom-graphics (1.4.1+svn~2626-2)
+    open scientific computation platform: graphics subsystem
+open-axiom-graphics-data (1.4.1+svn~2626-2)
+    open scientific computation platform: graphics subsystem data
+open-axiom-hypertex (1.4.1+svn~2626-2)
+    open scientific computation platform: hypertex subsystem
+open-axiom-hypertex-data (1.4.1+svn~2626-2)
+    open scientific computation platform: hypertex subsystem data
+open-axiom-source (1.4.1+svn~2626-2)
+    open scientific computation platform: source files
+open-axiom-test (1.4.1+svn~2626-2)
+    open scientific computation platform: regression test inputs
+open-axiom-tex (1.4.1+svn~2626-2)
+    open scientific computation platform: style file for TeX
+orpie (1.5.1-10)
+    RPN calculator for the terminal
+otter (3.3f-1.1)
+    resolution-style theorem prover
+palp (1.1-1.2)
+    A Package for Analyzing Lattice Polytopes
+pari-elldata (0.20120415-1)
+    PARI/GP Computer Algebra System elliptic curves (elldata)
+pari-extra (3-1)
+    PARI/GP Computer Algebra System extra data files
+pari-galdata (0.20080411-2)
+    PARI/GP Computer Algebra System Galois resolvents (galdata)
+pari-galpol (1.0-1)
+    PARI/GP Computer Algebra System Galois polynomial database
+pari-gp (2.5.1-2)
+    PARI/GP Computer Algebra System binaries
+pari-gp2c (0.0.7pl3-1)
+    PARI/GP GP to C compiler
+pari-seadata (0.20090618-1)
+    PARI/GP Computer Algebra System modular polynomials (seadata)
+parmetis-test (3.1.1-4+b1 [armel, mips, mipsel, s390, sparc], 3.1.1-4 [amd64, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, powerpc, s390x]) [non-free]
+    Parallel Graph Partitioning and Sparse Matrix Ordering Tests
+pdl (1:2.4.11-4)
+    perl data language: Perl extensions for numerics
+pgapack (1.1.1-3)
+    General-purpose genetic algorithm package
+pgplot5 (5.2.2-19) [non-free]
+    large subroutine library for plotting scientific data
+pi (1.3.2-1.2)
+    Compute Archimedes' constant Pi to arbitrary precision
+picviz (0.5-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.5-1 [armhf, s390x])
+    Parallel coordinates plotter
+plotdrop (0.5.2-3)
+    A minimal GNOME frontend to GNUPlot
+plotutils (2.6-3)
+    GNU plotutils command line tools based on libplot
+plplot-tcl (5.9.9-5)
+    Tcl/Tk support for PLplot, a plotting library
+plplot-tcl-dev (5.9.9-5)
+    Tcl/Tk development support for PLplot, a plotting library
+polylib-utils (5.22.5-3+dfsg)
+    Various tools using libpolylib
+prover9 (0.0.200902a-2.1)
+    theorem prover and countermodel generator
+prover9-mace4 (0.5.dfsg-2.1)
+    GUI for Prover9 and Mace4
+psignifit (2.5.6-3)
+    Fitting and testing hypotheses about psychometric functions
+pspp (0.7.9+git20120620-1.1)
+    Statistical analysis tool
+ptscotch (5.1.12b.dfsg-1.2+b1 [amd64], 5.1.12b.dfsg-1.2 [armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    MPI programs and libraries for graph, mesh and hypergraph partitioning
+pyecm (2.0.1-1)
+    integer factorization with the Elliptic Curve Method (ECM)
+pyxplot (0.8.4-5+b1)
+    data plotting program producing publication-quality output
+qalc (0.9.7-8)
+    Powerful and easy to use command line calculator
+qalculate-gtk (0.9.7-3)
+    Powerful and easy to use desktop calculator - GTK+ version
+qhull-bin (2009.1-3)
+    calculate convex hulls and related structures (utilities)
+qtiplot (0.9.8.8-5+b1)
+    data analysis and scientific plotting
+qtoctave (0.10.1-3)
+    Qt front-end to Octave
+quickplot (0.10.3-1)
+    fast interactive 2D plotter and data viewer
+r-bioc-hilbertvis (1.14.0-1)
+    GNU R package to visualise long vector data
+regina-normal (4.93-1)
+    software for 3-manifold topology and normal surfaces
+regina-normal-mpi (4.93-1)
+    MPI utilities for Regina, the 3-manifold topology software
+relational (1.1-1)
+    Educational tool for relational algebra (graphical user interface)
+relational-cli (1.1-1)
+    Educational tool for relational algebra (command line interface)
+rheolef (6.1-2.1)
+    efficient Finite Element environment
+rkward (0.5.7-2+deb7u1)
+    KDE frontend to the R statistics language
+rlplot (1.5-2)
+    GUI application for generating publication quality graphs
+rocs (4:4.8.4-1)
+    graph theory IDE
+sc (7.16-3)
+    Text-based spreadsheet with VI-like keybindings
+scalapack-mpi-test (1.8.0-9)
+    Scalable Linear Algebra Package - Test files for MPICH
+scalapack-pvm-test (1.8.0-9)
+    Scalable Linear Algebra Package - Test files for PVM
+scilab (5.3.3-10)
+    Scientific software package for numerical computations
+scilab-ann (0.4.2.4-1)
+    Scilab module for artificial neural networks
+scilab-celestlab (2.3.0-1-1)
+    Library of space flight dynamics functions based on Scilab.
+scilab-cli (5.3.3-10)
+    Scientific software package - Command Line Interpreter
+scilab-data (5.3.3-10)
+    Scientific software package for numerical computations (data files)
+scilab-full-bin (5.3.3-10)
+    Scientific software package for numerical computations (all binary files)
+scilab-include (5.3.3-10)
+    Scientific software package for numerical computations (include files)
+scilab-jims (1.0-1)
+    Binds Java from the Scilab engine
+scilab-minimal-bin (5.3.3-10)
+    Scientific software package for numerical computations (minimal binary files)
+scilab-plotlib (0.42-1)
+    "Matlab-like" Plotting library for Scilab
+scilab-scimysql (0.1.1-5)
+    Scilab interface to MySQL
+scilab-test (5.3.3-10)
+    Scientific software package for numerical computations (test files)
+scotch (5.1.12b.dfsg-1.2+b1 [amd64], 5.1.12b.dfsg-1.2 [armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    programs and libraries for graph, mesh and hypergraph partitioning
+sdpa (7.3.8+dfsg-1)
+    High-performance package for SemiDefinite Programs
+sdpam (7.3.8+dfsg-1)
+    Matlab/Octave interface of SDPA
+sgb (1:20090810-1) [non-free]
+    The Stanford GraphBase: combinatorial data and algorithms
+snappea (3.0d3-22)
+    program for creating and studying hyperbolic 3-manifolds
+socnetv (0.90-3)
+    social network analysis and visualisation application
+speedcrunch (0.10.1-4)
+    High precision calculator
+spline (1.2-1)
+    Akima spline interpolation
+stda (1.1.1-1)
+    simple tools for data analysis (stda)
+sympow (1.019-4)
+    Special values of symmetric power elliptic curve L-functions
+tachyon (0.99~b2+dfsg-0.4)
+    Parallel/Multiprocessor Ray Tracing Software
+tapecalc (20070214-2)
+    a full-screen tape editor that lets the user edit a calculation
+tetgen (1.4.3-1) [non-free]
+    Quality Tetrahedral Mesh Generator
+tiemu (3.02-1.2)
+    Texas Instruments calculators emulator (without GDB)
+tiemu-skinedit (1.27-2)
+    skin editor for TiEmu
+tilp (7.0-1)
+    TI hand-helds <-> PC communication (transitional dummy package)
+tilp
+    virtual package provided by tilp2
+tilp2 (1.12-1+b1 [armel, ia64], 1.12-1 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc])
+    Texas Instruments hand-helds <-> PC communication program for X
+wcalc (2.4-1.1)
+    A flexible command-line scientific calculator
+why (2.30+dfsg-5+b1 [amd64, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390], 2.30+dfsg-5 [armel, s390x, sparc])
+    Software verification tool
+wxgeometrie (0.133.1-1)
+    Swiss army knife for the math teacher
+wxmaxima (12.04.0-1)
+    GUI for the computer algebra system Maxima
+wzip (1.1.3)
+    Lossy compression and denoising
+xgraph (12.1-16)
+    Plotting program, reads stdin, allows interactive zooming
+xmaxima (5.27.0-3)
+    Computer algebra system -- x interface
+yacas (1.3.2-1)
+    Computer Algebra System 

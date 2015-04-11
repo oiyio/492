@@ -1,0 +1,396 @@
+advene (1.0-1)
+    Annotate DVDs, Exchange on the Net
+aegisub (2.1.9-1)
+    advanced subtitle editor
+arista (0.9.7-4)
+    multimedia transcoder for the GNOME Desktop
+atomicparsley (0.9.2~svn110-4)
+    read, parse and set metadata of MPEG-4 and 3gp files
+aview (1.3.0rc1-9)
+    A high quality ASCII art image viewer and video player
+bino (1.4.0-1)
+    3D video player
+browser-plugin-gnash (0.8.11~git20120629-1+deb7u1)
+    GNU Shockwave Flash (SWF) player - Plugin for Mozilla and derivatives
+browser-plugin-vlc (2.0.0-2)
+    multimedia plugin for web browsers based on VLC
+cfourcc (0.1.2-8)
+    command line tool for changing FourCC in Microsoft RIFF AVI files
+crtmpserver (1.0~dfsg-3)
+    High performance RTMP/RTSP streaming server
+crtmpserver-apps (1.0~dfsg-3)
+    base applications for the crtmpserver platform
+crtmpserver-dev (1.0~dfsg-3)
+    Development files for the crtmpserver platform
+deejayd-xine (0.9.0-4)
+    Deejayd XINE backend
+devede (3.22.0-1)
+    simple application to create Video DVDs
+dirac (1.0.2-6)
+    open and royalty free high quality video codec - commandline utilities
+dov4l (0.9-4.1)
+    program to set and query settings of video4linux devices
+dragonplayer (4:4.8.4-2)
+    simple video player
+dvb-apps (1.1.1+rev1483-1)
+    Digital Video Broadcasting (DVB) applications
+dvblast (2.2-1)
+    Simple and powerful dvb-streaming application
+dvbsnoop (1.4.50-4)
+    DVB / MPEG stream analyzer
+dvbstream (0.6+cvs20090621-1)
+    Broadcast a DVB Transport stream over a LAN
+dvbstreamer (2.1.0-2.3)
+    a console based streamer for DVB/ATSC service(s)
+dvbtune (0.5.ds-1)
+    Simple tuning application for DVB cards
+dvd+rw-tools (7.1-10+b1 [kfreebsd-amd64, kfreebsd-i386], 7.1-10 [amd64, armel, armhf, i386, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    DVD+-RW/R tools
+dvdauthor (0.7.0-1.1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.7.0-1.1+b1 [armhf, s390x])
+    create DVD-Video file system
+dvdbackup (0.4.2-1)
+    tool to rip DVD's from the command line
+dvdtape (1.6-1)
+    Create DVD master filesystems on DLT media
+dvgrab (3.5-2)
+    grab digital video data via IEEE1394 and USB links
+dvsink (0.8.3.6-1+b2 [amd64, armel, i386, ia64, mips, mipsel, powerpc, s390, sparc], 0.8.3.6-1+b1 [armhf, s390x])
+    programs to sink streams from dvswitch
+dvsource (0.8.3.6-1+b2 [amd64, armel, i386, ia64, mips, mipsel, powerpc, s390, sparc], 0.8.3.6-1+b1 [armhf, s390x])
+    programs to provide source streams for dvswitch
+dvswitch (0.8.3.6-1+b2 [amd64, armel, i386, ia64, mips, mipsel, powerpc, s390, sparc], 0.8.3.6-1+b1 [armhf, s390x])
+    basic video mixer for live DV streams
+enna (0.4.1~r3557-2.1)
+    a powerful MediaCenter application based on EFL
+enna-theme (0.4.1~r3557-2.1)
+    data files for Enna, a MediaCenter application
+fbtv (3.102-3)
+    television viewer - Linux framebuffer application
+ffmpeg2theora (0.27-2)
+    Theora video encoder using ffmpeg
+ffmpegthumbnailer (2.0.7-2)
+    fast and lightweight video thumbnailer
+ffmsindex (2.17-1)
+    Command line tool to create ffms2 index files
+flvmeta (1.0.11-1)
+    Metadata injector for FLV video files
+flvtool2 (1.0.6-4)
+    a manipulation tool for flash video files
+freetuxtv (0.6.5~dfsg1-1)
+    Internet television and radio player
+freevo (1.9.2b2-4.2)
+    home theater framework - binaries
+freevo-data (1.9.2b2-4.2)
+    home theater framework - themes and data
+freevo-lirc (1.9.2b2-4.2)
+    home theater framework - LIRC support
+frei0r-plugins (1.1.22git20091109-1.2)
+    minimalistic plugin API for video effects, plugins collection
+gecko-mediaplayer (1.0.6-1)
+    Multimedia plug-in for Gecko browsers
+get-iplayer (2.82-2+deb7u1)
+    download/stream available BBC iPlayer TV and radio programmes
+gmlive (0.22.3-1)
+    live video frontend for mplayer
+gnash (0.8.11~git20120629-1+deb7u1)
+    GNU Shockwave Flash (SWF) player
+gnash-common (0.8.11~git20120629-1+deb7u1)
+    GNU Shockwave Flash (SWF) player - Common files/libraries
+gnash-cygnal (0.8.11~git20120629-1+deb7u1)
+    GNU Shockwave Flash (SWF) player - Media server
+gnash-ext-fileio (0.8.11~git20120629-1+deb7u1)
+    GNU Shockwave Flash (SWF) player - Fileio extension
+gnash-ext-lirc (0.8.11~git20120629-1+deb7u1)
+    GNU Shockwave Flash (SWF) player - LIRC extension
+gnash-ext-mysql (0.8.11~git20120629-1+deb7u1)
+    GNU Shockwave Flash (SWF) player - MySQL extension
+gnash-tools (0.8.11~git20120629-1+deb7u1)
+    GNU Shockwave Flash (SWF) player - Command-line Tools
+gnome-dvb-client (1:0.2.8-1)
+    client for gnome-dvb-daemon
+gnome-dvb-daemon (1:0.2.8-1)
+    daemon to setup your DVB devices, record and watch TV shows and browse EPG
+gnome-mplayer (1.0.6-1)
+    GTK+ interface for MPlayer
+gopchop (1.1.8-5)
+    fast, lossless cuts-only editor for MPEG2 video files
+growisofs (7.1-10+b1 [kfreebsd-amd64, kfreebsd-i386], 7.1-10 [amd64, armel, armhf, i386, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    DVD+-RW/R recorder
+gst123 (0.3.1-1)
+    GStreamer based command line media player
+gstreamer0.10-crystalhd (1:0.0~git20110715.fdd2f19-9)
+    Crystal HD Video Decoder (GStreamer plugin)
+gstreamer0.10-ffmpeg (0.10.13-5)
+    FFmpeg plugin for GStreamer
+gtk-recordmydesktop (0.3.8-4.1)
+    Graphical frontend for recordMyDesktop screencast tool
+gxine (0.5.907-2+deb7u1)
+    the xine video player, GTK+/Gnome user interface
+gxineplugin (0.5.907-2+deb7u1)
+    the xine video player, GTK+/Gnome; launcher plugin for Mozilla
+hasciicam (1.1.2-1)
+    (h)ascii for the masses: live video as text
+i965-va-driver (1.0.17-1)
+    VAAPI driver for Intel G45 & HD Graphics family
+imagination (3.0-2)
+    DVD slide show maker
+imagination-common (3.0-2)
+    DVD slide show maker - common files
+kaffeine (1.2.2-2)
+    versatile media player for KDE
+kdenlive (0.9.2-2)
+    non-linear video editor
+kdenlive-data (0.9.2-2)
+    non-linear video editor (data files)
+kino (1.3.4-1.3)
+    Non-linear editor for Digital Video data
+klash (0.8.11~git20120629-1+deb7u1)
+    GNU Shockwave Flash (SWF) player - Standalone player for KDE
+kmplayer (1:0.11.3c-1)
+    media player for KDE
+konqueror-plugin-gnash (0.8.11~git20120629-1+deb7u1)
+    GNU Shockwave Flash (SWF) player - Plugin for Konqueror
+kplayer (1:0.7-2.1)
+    A KDE media player based on MPlayer
+landell (0.92.1-1.1)
+    audio and video streams manager
+libav-tools (6:0.8.17-1) [security]
+    Multimedia player, server, encoder and transcoder
+libdv-bin (1.0.0-6)
+    software library for DV format digital video (sample apps)
+libsox-fmt-ffmpeg (14.4.0-3+deb7u1)
+    SoX ffmpeg format library
+libxine1-all-plugins (1.1.21-1+deb7u1)
+    xine video/media player library ‒ meta package for all plugins
+libxine1-ffmpeg (1.1.21-1+deb7u1)
+    MPEG-related plugins for libxine1
+libxine1-gnome (1.1.21-1+deb7u1)
+    GNOME-related plugins for libxine1
+libxine2-xvdr (1.0.7+cvs20120609.1902-1)
+    Xine input plugin for vdr-plugin-xineliboutput streams
+libxineliboutput-fbfe (1.0.7+cvs20120609.1902-1)
+    Local framebuffer frontend for the xineliboutput plugin
+libxineliboutput-sxfe (1.0.7+cvs20120609.1902-1)
+    Local X-Server frontend for the xineliboutput plugin
+lives (1.6.2~ds1-2)
+    Video Editing system allowing users to edit and create video
+lives-data (1.6.2~ds1-2)
+    Data files for LiVES
+luvcview (1:0.2.6-6)
+    USB Video Class grabber
+m2vrequantiser (1.1-1)
+    MPEG-2 streams requantization
+me-tv (1.3.7-0.2)
+    Me TV, it's TV for me computer
+mencoder (2:1.0~rc4.dfsg1+svn34540-1+deb7u1) [security]
+    MPlayer's Movie Encoder
+mkvtoolnix (5.6.0-1)
+    Set of command-line tools to work with Matroska files
+mkvtoolnix-gui (5.6.0-1)
+    Set of tools to work with Matroska files - GUI frontend
+moovida (1.0.9+bzr1614-1.1)
+    The Moovida media center application
+moovida-plugins-bad (1.0.9+bzr1614-1)
+    Moovida plugins from the "bad" set
+moovida-plugins-good (1.0.9+bzr1614-1)
+    Moovida plugins from the "good" set
+moovida-plugins-ugly (1.0.9+bzr1614-1)
+    Moovida plugins from the "ugly" set
+motion (3.2.12-3.4)
+    V4L capture program supporting motion detection
+mplayer-gui (2:1.0~rc4.dfsg1+svn34540-1+deb7u1) [security]
+    movie player for Unix-like systems
+mplayer-skin-blue (1.6-2)
+    blue skin for mplayer
+mplayer2 (2.0-554-gf63dbad-1+b1)
+    next generation movie player for Unix-like systems
+multicat (2.0-3)
+    Set of tools for multicast and transport stream manipulation
+mumudvb (1.7.1-1)
+    multicasts all channels of a DVB transponder on a network
+nomnom (0.3.1-1)
+    download videos from Youtube and other similar video websites
+nvidia-vdpau-driver (304.125-1) [non-free]
+    NVIDIA vdpau driver
+oggvideotools (0.8a-1)
+    A toolbox for manipulating and creating Ogg video files
+openshot (1.4.2-1.1)
+    Create and edit videos and movies
+photofilmstrip (1.9.91+dfsg-1)
+    Slideshow creator with Ken Burns effect
+pia (3.102-3)
+    movie player for xawtw
+python-pyxine (0.1alpha2-7+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.1alpha2-7 [armhf, s390x])
+    interface to the xine media player for Python
+python-templayer (1.5.1-1)
+    layered template library for Python
+pyvnc2swf (0.9.5-5)
+    screen recording tool with Flash (SWF) output
+recordmydesktop (0.3.8.1+svn602-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.3.8.1+svn602-1 [armhf, s390x])
+    Captures audio-video data of a Linux desktop session
+scantv (3.102-3)
+    television channel-scanner
+shotdetect (1.0.86-1)
+    scene change detector
+smpeg-gtv (0.4.5+cvs20030824-5)
+    SMPEG GTK+ MPEG audio/video player
+smpeg-plaympeg (0.4.5+cvs20030824-5)
+    SMPEG command line MPEG audio/video player
+smplayer (0.8.0-1+deb7u1)
+    complete front-end for MPlayer and MPlayer2
+smplayer-themes (0.1.20+dfsg-1)
+    complete front-end for MPlayer - icon themes
+smplayer-translations (0.8.0-1+deb7u1)
+    complete front-end for MPlayer and MPlayer2 - translation files
+snappy (0.2-1)
+    Powerful media player with a minimalistic interface
+streamer (3.102-3)
+    television capture tool (images/movies)
+swfmill (0.3.2-1)
+    xml2swf and swf2xml processor
+toonloop (2.2.0-1+b1)
+    live animation editor
+totem (3.0.1-8)
+    Simple media player for the GNOME desktop based on GStreamer
+totem-common (3.0.1-8)
+    Data files for the Totem media player
+totem-mozilla (3.0.1-8)
+    Totem Mozilla plugin
+totem-plugin-arte (3.1.2-1)
+    Totem plugin to watch streams from arte.tv
+totem-plugins (3.0.1-8)
+    Plugins for the Totem media player
+totem-plugins-dvb-daemon (1:0.2.8-1)
+    totem plugin for gnome-dvb-daemon
+transcode (3:1.1.7-3)
+    Text console video-stream processing tool
+transmageddon (0.20-1)
+    video transcoder for Linux and Unix systems built using GStreamer
+tsdecrypt (8.1-1)
+    decrypt MPEG transport stream
+tvnamer (2.2.1-1)
+    utility to rename TV-show episodes files
+tvtime (1.0.2-10)
+    television display application
+v4l-conf (3.102-3)
+    tool to configure video4linux drivers
+vamps (0.99.2-4)
+    Tool to recompress and modify the structure of a DVD
+vdr (1.7.28-1)
+    Video Disk Recorder for DVB cards
+vdr-dev (1.7.28-1)
+    Video Disk Recorder for DVB cards
+vdr-plugin-dvbhddevice (1.7.28-1)
+    Plugin that adds support for full featured HD-DVB cards to VDR
+vdr-plugin-dvbsddevice (1.7.28-1)
+    Plugin that adds support for full featured SD-DVB cards to VDR
+vdr-plugin-dvd (0.3.6~b03+cvs20090426.0013-14)
+    DVD playback plugin for VDR
+vdr-plugin-epgsearch (1.0.0+git20120325-4)
+    VDR plugin that provides extensive EPG searching capabilities
+vdr-plugin-epgsync (0.0.4-12)
+    VDR plugin for EPG synchronization between VDR systems
+vdr-plugin-examples (1.7.28-1)
+    Plugins for vdr to show some possible features
+vdr-plugin-femon (1.7.17-3)
+    DVB frontend status monitor plugin for VDR
+vdr-plugin-fritzbox (1.4.3-2)
+    VDR plugin to access certain functions of an AVM Fritz!Box
+vdr-plugin-games (0.6.3-39)
+    VDR plugin providing OSD games like tetris, snake and more
+vdr-plugin-infosatepg (0.0.11-10)
+    include TechniSat EPG data via satelite in vdr
+vdr-plugin-live (0.2.0+git20120428-3)
+    Web administration plugin for VDR
+vdr-plugin-mp3 (0.10.2-14)
+    MP3 playback plugin for VDR
+vdr-plugin-mplayer (0.10.2-14)
+    MPlayer playback plugin for VDR
+vdr-plugin-osdserver (0.1.3-7)
+    VDR plugin to provide other programs access to the OSD
+vdr-plugin-osdteletext (0.9.3-2)
+    Teletext plugin for VDR
+vdr-plugin-prefermenu (0.6.6-37)
+    VDR plugin that implements a preferred channels menu
+vdr-plugin-remote (0.4.0-31)
+    VDR Plugin to support the built-in remote control port of DVB-Cards
+vdr-plugin-remoteosd (0.1.1-5)
+    VDR plugin to control the OSD of a remote VDR
+vdr-plugin-skinenigmang (0.1.2+git20120628-1)
+    Skin plugin for VDR
+vdr-plugin-spider (0.2.2-14)
+    Plugin to vdr that implements the card game "Spider Arachnid"
+vdr-plugin-streamdev-client (0.6.0-2)
+    VDR Plugin to stream Live-TV to other VDR's - client part
+vdr-plugin-streamdev-server (0.6.0-2)
+    VDR Plugin to stream Live-TV to other VDR's - server part
+vdr-plugin-sudoku (0.3.5-12)
+    VDR-Plugin to generate and solve Sudokus
+vdr-plugin-svdrpext (0.1.1-8)
+    Transitional dummy package
+vdr-plugin-svdrpext
+    virtual package provided by vdr-plugin-svdrposd
+vdr-plugin-svdrposd (0.1.1-8)
+    VDR plugin that extends the SVDRP command set of VDR
+vdr-plugin-svdrpservice (0.0.4-14)
+    VDR plugin that provides a SVDRP service for other plugins
+vdr-plugin-vcd (0.9-22)
+    VDR Plugin for playing (S)VCD's
+vdr-plugin-weather (0.2.1e-63)
+    Weather plugin for VDR
+vdr-plugin-xineliboutput (1.0.7+cvs20120609.1902-1)
+    VDR plugin for Xine based sofdevice frontends
+vdradmin-am (3.6.9-2)
+    Web-based administration tool for vdr
+videocut (0.2.0-11)
+    application for creating compositions of screenshots from videos
+vlc-plugin-fluidsynth (2.0.3-5+deb7u2+b1) [security]
+    FluidSynth plugin for VLC
+vlc-plugin-notify (2.0.3-5+deb7u2+b1) [security]
+    LibNotify plugin for VLC
+vlc-plugin-svg (2.0.3-5+deb7u2+b1) [security]
+    SVG plugin for VLC
+vlc-plugin-zvbi (2.0.3-5+deb7u2+b1) [security]
+    VBI teletext plugin for VLC
+w-scan (20120605-1)
+    Channel scanning tool for DVB and ATSC channels
+winff (1.4.2-3)
+    graphical video and audio batch converter using ffmpeg
+wmtv (0.6.5-16.1)
+    Dockable video4linux TV player for WindowMaker
+xawtv (3.102-3)
+    television viewer - X11 application
+xawtv-plugin-qt (3.102-3)
+    television viewer - QuickTime plugin
+xawtv-plugins (3.102-3)
+    television viewer - plugins
+xawtv-tools (3.102-3)
+    television viewer - tools
+xbmc (2:11.0~git20120510.82388d5-1)
+    XBMC Media Center (arch-independent data package)
+xbmc-bin (2:11.0~git20120510.82388d5-1+b1)
+    XBMC Media Center (binary data package)
+xbmc-eventclients-common (2:11.0~git20120510.82388d5-1)
+    XBMC Media Center (Event Client Common package)
+xbmc-eventclients-j2me (2:11.0~git20120510.82388d5-1)
+    XBMC Media Center (Event Client J2ME package)
+xbmc-eventclients-ps3 (2:11.0~git20120510.82388d5-1)
+    XBMC Media Center (Event Client PS3 package)
+xbmc-eventclients-wiiremote (2:11.0~git20120510.82388d5-1+b1)
+    XBMC Media Center (Event Client WII Remote support package)
+xbmc-eventclients-xbmc-send (2:11.0~git20120510.82388d5-1)
+    XBMC Media Center (Event Client XBMC-SEND package)
+xine-console (0.99.7-1)
+    the xine video player, user interface
+xine-plugin (1.0.2-4)
+    xine-based media player plugin for Mozilla browsers
+xine-ui (0.99.7-1)
+    the xine video player, user interface
+xineliboutput-fbfe (1.0.7+cvs20120609.1902-1)
+    Remote Framebuffer frontend for vdr-plugin-xineliboutput
+xineliboutput-sxfe (1.0.7+cvs20120609.1902-1)
+    Remote X-Server frontend for vdr-plugin-xineliboutput
+xjadeo (0.6.4-1)
+    Video player with JACK sync
+xvba-va-driver (0.8.0-5) [contrib]
+    XvBA-based backend for VA API (AMD fglrx implementation) 

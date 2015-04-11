@@ -1,0 +1,126 @@
+aclock.app (0.2.3-4.3)
+    Analog dockapp clock for GNUstep
+addresses.framework (0.4.7-1)
+    Database API backend framework for GNUstep
+addressmanager.app (0.4.7-1+b5 [amd64, i386], 0.4.7-1+b4 [armel, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.4.7-1 [armhf, s390x])
+    Personal Address Manager for GNUstep
+addressview.framework (0.4.7-1)
+    Address display/edit framework for GNUstep
+adun.app (0.81-5+b3 [kfreebsd-amd64, kfreebsd-i386], 0.81-5+b2 [amd64, i386], 0.81-5+b1 [armel, ia64, mips, mipsel, powerpc, s390, sparc], 0.81-5 [armhf, s390x])
+    Molecular Simulator for GNUstep
+affiche.app (0.6.0-8+b3 [kfreebsd-amd64, kfreebsd-i386], 0.6.0-8+b2 [amd64, i386], 0.6.0-8+b1 [armel, ia64, mips, mipsel, powerpc, s390, sparc], 0.6.0-8 [armhf, s390x])
+    An application to "stick" little notes on the desktop
+agenda.app (0.42.2-1)
+    Calendar manager for GNUstep
+batmon.app (0.6-1)
+    Battery monitor for GNUstep
+camera.app (0.8.0-9+b3 [kfreebsd-amd64, kfreebsd-i386], 0.8.0-9+b2 [amd64, i386], 0.8.0-9+b1 [armel, ia64, mips, mipsel, powerpc, s390, sparc], 0.8.0-9 [armhf, s390x])
+    GNUstep application for digital still cameras
+cenon.app (3.93-1.2)
+    Vector graphics tool for GNUstep
+charmap.app (0.2-11+b2 [kfreebsd-amd64, kfreebsd-i386], 0.2-11+b1 [amd64, i386], 0.2-11 [armel, armhf, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    Character map for GNUstep
+cynthiune.app (0.9.5-14)
+    Music player for GNUstep
+dictionaryreader.app (0+20080616+dfsg-2+b4 [kfreebsd-amd64, kfreebsd-i386], 0+20080616+dfsg-2+b3 [amd64, i386], 0+20080616+dfsg-2+b2 [armel, ia64, mips, mipsel, powerpc, s390, sparc], 0+20080616+dfsg-2 [armhf, s390x])
+    Dict client for GNUstep
+edenmath.app (1.1.1a-7+b5 [amd64, i386], 1.1.1a-7+b4 [armel, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.1.1a-7 [armhf, s390x])
+    Scientific calculator for GNUstep
+ftp.app (0.3-1)
+    File transfer protocol application for GNUstep
+gnustep (7.7)
+    User applications for the GNUstep Envireonment
+gnustep-back-common (0.20.1-2.1)
+    GNUstep GUI Backend - common files
+gnustep-base-common (1.22.1-4+deb7u1)
+    GNUstep Base library - common files
+gnustep-base-examples (1.22.1-4+deb7u1)
+    Examples using the GNUstep Base Library
+gnustep-base-runtime (1.22.1-4+deb7u1)
+    GNUstep Base library - daemons and tools
+gnustep-common (2.6.2-2)
+    Common files for the core GNUstep environment
+gnustep-core-devel (7.7)
+    GNUstep Development Environment -- core libraries
+gnustep-devel (7.7)
+    GNUstep Development Environment -- development tools
+gnustep-dl2 (0.12.0-9+nmu1)
+    Objective-C Classes needed for Database Access
+gnustep-dl2-postgresql-adaptor (0.12.0-9+nmu1)
+    gnustep-dl2 adaptor to connect to PostgreSQL
+gnustep-dl2-sqlite-adaptor (0.12.0-9+nmu1)
+    gnustep-dl2 adaptor to connect to SQLite
+gnustep-examples (1:1.3.0-1)
+    GNUstep example applications
+gnustep-games (7.7)
+    GNUstep games
+gnustep-gpbs (0.20.1-2.1)
+    GNUstep PasteBoard server
+gnustep-gui-common (0.20.0-3)
+    GNUstep GUI Library - common files
+gnustep-gui-runtime (0.20.0-3+b1 [amd64], 0.20.0-3 [armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    GNUstep GUI Library - runtime files
+gnustep-icons (1.0-5)
+    Several free icons for use with GNUstep and others
+gnustep-make (2.6.2-2)
+    Basic GNUstep Makefiles
+gomoku.app (1.2.9-1+b3 [kfreebsd-amd64, kfreebsd-i386], 1.2.9-1+b2 [amd64, i386], 1.2.9-1+b1 [armel, ia64, mips, mipsel, powerpc, s390, sparc], 1.2.9-1 [armhf, s390x])
+    Extended TicTacToe game for GNUstep
+gorm.app (1.2.16-1+deb7u1)
+    Visual Interface Builder for GNUstep
+gridlock.app (1.10-3.2)
+    A collection of grid-based board games for GNUstep
+grr.app (0.9.0-1)
+    RSS reader for GNUstep
+gtamsanalyzer.app (0.42-6+b4 [kfreebsd-amd64, kfreebsd-i386], 0.42-6+b3 [amd64, i386], 0.42-6+b2 [armel, ia64, mips, mipsel, powerpc, s390, sparc], 0.42-6 [armhf, s390x])
+    Qualitative Research Software for GNUstep
+gworkspace.app (0.8.8-1.1)
+    GNUstep Workspace Manager
+helpviewer.app (0.3-7+b4 [kfreebsd-amd64, kfreebsd-i386], 0.3-7+b3 [amd64, i386], 0.3-7+b2 [armel, ia64, mips, mipsel, powerpc, s390, sparc], 0.3-7 [armhf, s390x])
+    Online help viewer for GNUstep programs
+lusernet.app (0.4.2-6+b3 [kfreebsd-amd64, kfreebsd-i386], 0.4.2-6+b2 [amd64, i386], 0.4.2-6+b1 [armel, ia64, mips, mipsel, powerpc, s390, sparc], 0.4.2-6 [armhf, s390x])
+    News reader for GNUstep
+lynkeos.app (1.2-6+b3 [kfreebsd-amd64, kfreebsd-i386], 1.2-6+b2 [amd64, i386], 1.2-6+b1 [armel, armhf, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    Tool to process planetary astronomical images for GNUstep
+mixer.app (1.8.0-5)
+    Another mixer application designed for WindowMaker
+mknfonts.tool (0.5-11+b5 [kfreebsd-amd64], 0.5-11+b4 [kfreebsd-i386], 0.5-11+b3 [amd64, i386], 0.5-11+b2 [armel, ia64, mips, mipsel, powerpc, s390, sparc], 0.5-11 [armhf, s390x])
+    Create nfont packages for GNUstep
+mpdcon.app (1.1.99-5+b4 [kfreebsd-amd64, kfreebsd-i386], 1.1.99-5+b3 [amd64, i386], 1.1.99-5+b2 [armel, ia64, mips, mipsel, powerpc, s390, sparc], 1.1.99-5 [armhf, s390x])
+    MPD controller for GNUstep
+plopfolio.app (0.1.0-6+b4 [kfreebsd-amd64, kfreebsd-i386], 0.1.0-6+b3 [amd64, i386], 0.1.0-6+b2 [armel, ia64, mips, mipsel, powerpc, s390, sparc], 0.1.0-6 [armhf, s390x])
+    Personal dashboard for GNUstep
+poe.app (0.5.1-5+b4 [kfreebsd-amd64, kfreebsd-i386], 0.5.1-5+b3 [amd64, i386], 0.5.1-5+b2 [armel, ia64, mips, mipsel, powerpc, s390, sparc], 0.5.1-5 [armhf, s390x])
+    Vorbis comment editor
+preview.app (0.8.5-9)
+    General purpose image viewer for GNUstep
+price.app (1.1.0-1)
+    Image filtering and manipulation using GNUstep
+projectcenter.app (0.6.0-2)
+    IDE for GNUstep Development
+shisen.app (1.2.1-1+b5 [amd64, i386], 1.2.1-1+b4 [armel, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.2.1-1 [armhf, s390x])
+    Shisen-sho puzzle game for GNUstep
+stepbill.app (2.4-5+b5 [amd64, i386], 2.4-5+b4 [armel, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 2.4-5 [armhf, s390x])
+    Get rid of those nasty Wingdows viruses
+steptalk (0.10.0-5+b2 [kfreebsd-amd64, kfreebsd-i386], 0.10.0-5+b1 [amd64, i386], 0.10.0-5 [armel, armhf, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    GNUstep Scripting Framework
+systempreferences.app (1.1.0-2+b4 [kfreebsd-amd64, kfreebsd-i386], 1.1.0-2+b3 [amd64, i386], 1.1.0-2+b2 [armel, ia64, mips, mipsel, powerpc, s390, sparc], 1.1.0-2 [armhf, s390x])
+    GNUstep preferences application
+talksoup.app (1.0alpha-32-g55b4d4e-1.2+b2 [kfreebsd-amd64, kfreebsd-i386], 1.0alpha-32-g55b4d4e-1.2+b1 [amd64, i386], 1.0alpha-32-g55b4d4e-1.2 [armel, armhf, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    IRC client for GNUstep
+terminal.app (0.9.4+cvs20051125-6.1+b2 [amd64, i386, kfreebsd-amd64, kfreebsd-i386], 0.9.4+cvs20051125-6.1 [armel, armhf, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    Terminal Emulator for GNUstep
+textedit.app (4.0+20061029-3.4)
+    Text editor for GNUstep
+timemon.app (4.1-2+b4 [kfreebsd-amd64, kfreebsd-i386], 4.1-2+b3 [amd64, i386, mips], 4.1-2+b2 [armel, ia64, mipsel, powerpc, s390, sparc], 4.1-2 [armhf, s390x])
+    CPU time usage monitor for GNUstep
+viewpdf.app (1:0.2dfsg1-4)
+    Portable Document Format (PDF) viewer for GNUstep
+volumecontrol.app (0.5-3.1+b1 [amd64, i386, kfreebsd-amd64, kfreebsd-i386], 0.5-3.1 [armel, armhf, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    Audio mixer for GNUstep
+wmppp.app (1.3.0-8)
+    PPP dial control and network load monitor with NeXTStep look
+wrapperfactory.app (0.1.0-4+b4 [kfreebsd-amd64, kfreebsd-i386], 0.1.0-4+b3 [amd64, i386], 0.1.0-4+b2 [armel, ia64, mips, mipsel, powerpc, s390, sparc], 0.1.0-4 [armhf, s390x])
+    Application wrappers configuration tool for GNUstep
+zipper.app (1.3-2.1)
+    Tool for inspecting the contents of a compressed archive 

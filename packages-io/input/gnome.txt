@@ -1,0 +1,896 @@
+accerciser (3.4.1-1)
+    interactive Python accessibility explorer for the GNOME desktop
+agave (0.4.7-2.1+b1)
+    colorscheme designer for the GNOME desktop
+alarm-clock-applet (0.3.3-1)
+    Alarm Clock applet
+almanah (0.9.1-1+b1 [s390x], 0.9.1-1 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc])
+    Application to ease management of a personal diary
+anjuta (2:3.4.3-1)
+    GNOME development IDE, for C/C++
+anjuta-extras (3.4.0-1)
+    plugins and extras for anjuta
+apwal (0.4.5-1)
+    icon-based floating application launcher with transparency
+at-spi (1.32.0-2)
+    Assistive Technology Service Provider Interface
+at-spi
+    virtual package provided by libatk-adaptor
+autokey-gtk (0.90.1-1.1)
+    desktop automation utility - GTK+ version
+balsa (2.4.12-1)
+    e-mail client for GNOME
+banshee-community-extensions (2.4.0-1)
+    set of community contributed extensions for Banshee
+banshee-extension-awn (2.4.0-1)
+    AWN integration extension for Banshee
+banshee-extension-lcd (2.4.0-1)
+    LCD display integration extension for Banshee
+banshee-extension-liveradio (2.4.0-1)
+    LiveRadio extension for Banshee
+banshee-extension-magnatune (2.4.0-1)
+    Magnatune for Banshee
+banshee-extension-openvp (2.4.0-1)
+    visualizations extension for Banshee
+banshee-extension-radiostationfetcher (2.4.0-1)
+    radio station fetcher extension for Banshee
+banshee-extension-streamrecorder (2.4.0-1)
+    StreamRecorder extension for Banshee
+banshee-extension-telepathy (2.4.0-1)
+    Telepathy extension for Banshee
+banshee-extensions-common (2.4.0-1)
+    common files for banshee-community-extensions
+baobab (3.4.1-1)
+    GNOME disk usage analyzer
+bareftp (0.3.9-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, powerpc, sparc], 0.3.9-1 [s390x])
+    FTP client for GNOME
+basenji (0.9.0-1)
+    Cross-platform media indexing/search tool
+beast (0.7.4-5)
+    music synthesis and composition framework
+bibledit (4.6-1)
+    transitional dummy package to bibledit-gtk
+bibledit-bibletime (1.1.1-1)
+    Glue between bibledit and bibletime
+bibledit-data (4.6-1)
+    transitional dummy package to bibledit-gtk-data
+bibledit-gtk (4.6-1)
+    Bible translation tool
+bibledit-gtk-data (4.6-1)
+    documentation and data for bibledit-gtk, a Bible translation tool
+bibledit-xiphos (1.1.1-1)
+    Glue between bibledit and xiphos
+blam (1.8.9-3)
+    simple RSS aggregator for GNOME
+brasero (3.4.1-4)
+    CD/DVD burning application for GNOME
+brasero-cdrkit (3.4.1-4)
+    cdrkit extensions for the Brasero burning application
+brasero-common (3.4.1-4)
+    Common files for the Brasero CD burning application and library
+brightside (1.4.0-4.1)
+    Add reactivity to the corners and edges of your GNOME desktop
+cameramonitor (0.2-2.1)
+    Webcam monitoring in system tray
+camorama (0.19-2.2)
+    gnome utility to view and save images from a webcam
+caribou (0.4.4-1)
+    Configurable on screen keyboard with scanning mode
+caribou-antler (0.4.4-1)
+    Configurable on screen keyboard with scanning mode
+celestia-gnome (1.6.1+dfsg-2)
+    real-time visual space simulation (GNOME frontend)
+cellwriter (1.3.4-1.1)
+    grid-entry handwriting input panel
+cheese (3.4.2-2)
+    tool to take pictures and videos from your webcam
+cheese-common (3.4.2-2)
+    Common files for the Cheese tool to take pictures and videos
+clearlooks-phenix-theme (2.0.5-1)
+    GTK3 port of Clearlooks theme
+command-runner-applet (0.2-2)
+    panel applet which periodically displays a command output
+conduit (0.3.17-1.1)
+    synchronization tool for GNOME
+contacts (0.9-2+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.9-2+b1 [armhf, s390x])
+    lightweight addressbook
+coriander (2.0.1-1)
+    control IEEE1394 digital camera
+cortina (0.7.3-1)
+    Wallpaper changer for gnome
+cups-pk-helper (0.2.3-3)
+    PolicyKit helper to configure cups with fine-grained privileges
+dates (0.4.8-3+b1)
+    calendar optimised for embedded devices
+devilspie (0.22-2)
+    find windows and perform actions on them
+devilspie2 (0.20-1)
+    LUA-based window matching utility
+dia-gnome (0.97.2-8)
+    Diagram editor (GNOME version)
+dmz-cursor-theme (0.4.3)
+    Style neutral, scalable cursor theme
+dots (0.0.20100108-3)
+    Braille typesetting program for GNOME
+education-desktop-gnome (1.713+deb7u1)
+    Debian Edu GNOME desktop applications
+eiciel (0.9.8.1-3)
+    graphical editor for POSIX ACLs and extended user attributes
+ekiga (3.2.7-6)
+    H.323 and SIP compatible VoIP client
+emma (0.6-4)
+    extendable MySQL managing assistant
+empathy (3.4.2.3-2+deb7u1)
+    GNOME multi-protocol chat and call client
+empathy-common (3.4.2.3-2+deb7u1)
+    GNOME multi-protocol chat and call client (common files)
+eog (3.4.2-1+build1)
+    Eye of GNOME graphics viewer program
+eog-dev (3.4.2-1+build1)
+    Development files for the Eye of GNOME
+eog-plugins (3.4.1-1)
+    set of plugins for eog
+epiphany-browser (3.4.2-2.1)
+    Intuitive GNOME web browser
+epiphany-browser-data (3.4.2-2.1)
+    Data files for the GNOME web browser
+epiphany-extensions (3.4.0-2)
+    Extensions for Epiphany web browser
+etherape (0.9.12-1)
+    graphical network monitor
+evince (3.4.0-3.1)
+    Document (PostScript, PDF) viewer
+evince-common (3.4.0-3.1)
+    Document (PostScript, PDF) viewer - common files
+evince-gtk (3.4.0-3.1)
+    Document (PostScript, PDF) viewer (GTK+ version)
+evolution (3.4.4-3)
+    groupware suite with mail client and organizer
+evolution-common (3.4.4-3)
+    architecture independent files for Evolution
+evolution-data-server (3.4.4-3+deb7u1)
+    evolution database backend server
+evolution-data-server-common (3.4.4-3+deb7u1)
+    architecture independent files for Evolution Data Server
+evolution-ews (3.4.4-2)
+    Exchange Web Services integration for Evolution
+evolution-exchange (3.4.4-1)
+    Exchange plugin for the Evolution groupware suite
+evolution-mapi (3.4.4-1)
+    Exchange support for the Evolution groupware suite
+evolution-plugins (3.4.4-3)
+    standard plugins for Evolution
+evolution-plugins-experimental (3.4.4-3)
+    experimental plugins for Evolution
+evolution-rss (0.3.91-2)
+    Evolution RSS Reader Plugin
+evolution-webcal (2.32.0-2+b2 [armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 2.32.0-2+b1 [amd64, armhf, s390x])
+    webcal: URL handler for GNOME and Evolution
+f-spot (0.8.2-5)
+    personal photo management application
+file-roller (3.4.2-1)
+    archive manager for GNOME
+fuss-launcher (0.5-1)
+    a simple application launcher
+g2ipmsg (0.9.6+dfsg-1.1)
+    IP messenger clone for GNOME2 environments
+ganyremote (5.13-1)
+    GTK+ frontend for anyRemote
+gaupol (0.19.2-1)
+    subtitle editor for text-based subtitle files
+gbackground (1.3-1)
+    interval-based gnome background changer
+gbirthday (0.6.6-2)
+    birthday reminder applet
+gbonds (2.0.3-2.1)
+    U.S. savings bond inventory program for GNOME
+gbonds-data (2.0.3-2.1)
+    GBonds data files
+gco (0.5.0-6)
+    comics organizer
+gcolor2 (0.4-2.1)
+    Simple GTK2 color selector and picker
+gcr (3.4.1-3)
+    GNOME crypto services (daemon and tools)
+gdesklets (0.36.1-5+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.36.1-5 [armhf, s390x])
+    Architecture for desktop applets
+gdevilspie (1:0.5-2)
+    User friendly interface for devilspie
+gdm3 (3.4.1-8)
+    Next generation GNOME Display Manager
+gedit (3.4.2-1)
+    official text editor of the GNOME desktop environment
+gedit-common (3.4.2-1)
+    official text editor of the GNOME desktop environment (support files)
+gedit-latex-plugin (3.4.0-1)
+    gedit plugin for composing and compiling LaTeX documents
+gedit-plugins (3.4.0-1)
+    set of plugins for gedit
+gedit-r-plugin (0.7.1.2-Gtk3-1)
+    Gedit plugin for R statistical computing language
+gedit-source-code-browser-plugin (3.0.3-2)
+    source code class and function browser plugin for Gedit
+genius (1.0.14-1)
+    advanced general purpose calculator program (CLI frontend)
+genius-common (1.0.14-1)
+    advanced general purpose calculator program (common files)
+gfax (0.7.7+ds-2)
+    GNOME frontend for fax programs
+ghemical (3.0.0-1+b1 [armel, mips, mipsel, s390, s390x, sparc], 3.0.0-1 [amd64, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, powerpc])
+    GNOME molecular modelling environment
+ghex (3.4.1-1)
+    GNOME Hex editor for files
+gip (1.7.0-1-3)
+    IP calculator for GNOME desktop environment
+gjots2 (2.3.15-1)
+    Simple jotter (outline processor) for X11/gtk-gnome
+gkbd-capplet (3.4.0.2-1)
+    GNOME Panel applet for libgnomekbd
+glabels (3.0.0-3+b1)
+    label, business card and media cover creation program for GNOME
+glabels-data (3.0.0-3)
+    data files for gLabels
+glotski (0.2-7)
+    Slide blocks to reach a goal
+gmanedit (0.4.2-5)
+    GTK+ man pages editor
+gniall (0.7.1-7+b1 [mips, mipsel], 0.7.1-7 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, powerpc, s390, s390x, sparc])
+    program that tries to learn a human language
+gnoemoe (2.2.0+dfsg-2.2)
+    A GNOME MOO Client
+gnome (1:3.4+7+deb7u1)
+    Full GNOME Desktop Environment, with extra components
+gnome-accessibility-themes (3.4.2-2.1)
+    Accessibility themes for the GNOME desktop
+gnome-activity-journal (0.8.0-2)
+    graphical user interface for Zeitgeist
+gnome-alsamixer (0.9.7~cvs.20060916.ds.1-3)
+    ALSA sound mixer for GNOME
+gnome-applets (3.4.1-3)
+    Various applets for the GNOME panel - binary files
+gnome-applets-data (3.4.1-3)
+    Various applets for the GNOME panel - data files
+gnome-audio (2.22.2-1)
+    Audio files for GNOME
+gnome-backgrounds (3.4.2-1)
+    Set of backgrounds packaged with the GNOME desktop
+gnome-blog (0.9.1-5)
+    GNOME application to post to weblog entries
+gnome-bluetooth (3.4.2-1)
+    GNOME Bluetooth tools
+gnome-boxes (3.4.3+dfsg-1)
+    Simple GNOME app to access remote or virtual systems
+gnome-brave-icon-theme (5.5.1-1)
+    blue variation of the GNOME-Colors icon theme
+gnome-cards-data (1:3.4.1-1)
+    data files for the GNOME card games
+gnome-codec-install (0.4.7+nmu1)
+    GStreamer codec installer
+gnome-color-chooser (0.2.5-1)
+    GTK+/GNOME desktop appearance customization tool
+gnome-color-manager (3.4.2-1)
+    Color management integration for the GNOME desktop environment
+gnome-colors (5.5.1-1)
+    set of GNOME icon themes
+gnome-colors-common (5.5.1-1)
+    common icons for all GNOME-Colors icon themes
+gnome-commander (1.2.8.15-3+b1)
+    nice and fast file manager for the GNOME desktop
+gnome-commander-data (1.2.8.15-3)
+    Data files for GNOME Commander
+gnome-common (3.4.0.1-1)
+    common scripts and macros to develop with GNOME
+gnome-contacts (3.4.1-1+b1)
+    Contacts manager for GNOME
+gnome-control-center (1:3.4.3.1-2)
+    utilities to configure the GNOME desktop
+gnome-control-center-data (1:3.4.3.1-2)
+    configuration applets for GNOME - data files
+gnome-core (1:3.4+7+deb7u1)
+    GNOME Desktop Environment -- essential components
+gnome-desktop-data (2.32.1-2)
+    Common files for GNOME desktop apps
+gnome-desktop-environment (1:3.4+7+deb7u1)
+    The GNOME Desktop Environment - transitional package
+gnome-desktop3-data (3.4.2-1)
+    Common files for GNOME desktop apps
+gnome-devel-docs (3.4.1-1)
+    GNOME developer documentation
+gnome-dictionary (3.4.0-2)
+    GNOME dictionary application
+gnome-do (0.9-1+b1)
+    Quickly perform actions on your desktop
+gnome-do-plugins (0.8.4-5)
+    Extra functionality for GNOME Do
+gnome-doc-utils (0.20.10-1)
+    collection of documentation utilities for the GNOME project
+gnome-documents (0.4.2-2)
+    Document manager for GNOME
+gnome-dust-icon-theme (5.5.1-1)
+    chocolate variation of the GNOME-Colors icon theme
+gnome-extra-icons (1.1-2)
+    Optional GNOME icons
+gnome-font-viewer (3.4.0-2)
+    font viewer for GNOME
+gnome-games (1:3.4.2-3)
+    games for the GNOME desktop
+gnome-games-data (1:3.4.2-3)
+    data files for the GNOME games
+gnome-games-extra-data (3.2.0-4)
+    games for the GNOME desktop (extra artwork)
+gnome-genius (1.0.14-1)
+    advanced general purpose calculator program (Gnome frontend)
+gnome-gmail (1.8.2-1)
+    support for Gmail as the preferred email application in GNOME
+gnome-human-icon-theme (5.5.1-1)
+    orange variation of the GNOME-Colors icon theme
+gnome-hwp-support (0.1.4-1)
+    HWP document integration for GNOME desktop
+gnome-icon-theme (3.4.0-2)
+    GNOME Desktop icon theme
+gnome-icon-theme-extras (3.4.0-1)
+    GNOME Desktop icon theme (additional icons)
+gnome-icon-theme-gartoon (0.5-4)
+    Gartoon icon theme for GTK+ 2.x
+gnome-icon-theme-nuovo (0.5-4.1)
+    Dropline Nuovo icon theme for GTK+ 2.x
+gnome-icon-theme-suede (0.2.5-1)
+    Suede icon theme for GTK+ 2.x
+gnome-icon-theme-symbolic (3.4.0-2)
+    GNOME desktop icon theme (symbolic icons)
+gnome-icon-theme-yasis (0.4.2-1)
+    YASIS (Yet Another Scalable Icon Set)
+gnome-illustrious-icon-theme (5.5.1-1)
+    pink variation of the GNOME-Colors icon theme
+gnome-keyring (3.4.1-5)
+    GNOME keyring services (daemon and tools)
+gnome-media (3.4.0-1)
+    GNOME media utilities
+gnome-media-profiles (3.0.0-1)
+    GNOME Media Profiles library
+gnome-menus (3.4.2-5)
+    GNOME implementation of the freedesktop menu specification
+gnome-mime-data (2.18.0-1)
+    base MIME and Application database for GNOME.
+gnome-mount (0.9~git20110731-1)
+    wrapper for (un)mounting and ejecting storage devices
+gnome-mud (0.11.2-1)
+    The GNOME MUD client
+gnome-nds-thumbnailer (3.0.0-1)
+    Nintendo DS roms thumbnailer for GNOME
+gnome-nettool (3.2.0-1)
+    network information tool for GNOME
+gnome-noble-icon-theme (5.5.1-1)
+    purple variation of the GNOME-Colors icon theme
+gnome-online-accounts (3.4.2-2)
+    GNOME Online Accounts
+gnome-orca (3.4.2-2)
+    Scriptable screen reader
+gnome-osd (0.12.2-1.1)
+    OSD message framework for GNOME
+gnome-packagekit (3.4.2-2)
+    Graphical distribution neutral software management tools
+gnome-packagekit-data (3.4.2-2)
+    Data files for graphical distribution neutral software management tools
+gnome-panel (3.4.2.1-4)
+    launcher and docking facility for GNOME
+gnome-panel-data (3.4.2.1-4)
+    common files for the GNOME Panel
+gnome-phone-manager (0.68-3+b1)
+    control aspects of your mobile phone from your GNOME 2 desktop
+gnome-photo-printer (0.7.0-1.2)
+    tool for Gnome to print several photos on one page
+gnome-pie (0.5.3-1)
+    visual application launcher for GNOME
+gnome-power-manager (3.4.0-2)
+    power management tool for the GNOME desktop
+gnome-rdp (0.3.0.9-3)
+    remote desktop client for GNOME
+gnome-schedule (2.1.1-4)
+    GNOME scheduler for automatic tasks
+gnome-screensaver (3.4.1-1)
+    GNOME screen saver and locker
+gnome-screensaver-flags (0.1-1)
+    Screensaver for GNOME with flags of the world.
+gnome-screenshot (3.4.1-1)
+    screenshot application for GNOME
+gnome-search-tool (3.4.0-2+b1)
+    GNOME tool to search files
+gnome-session (3.4.2.1-4)
+    GNOME Session Manager - GNOME 3 session
+gnome-session-bin (3.4.2.1-4)
+    GNOME Session Manager - Minimal runtime
+gnome-session-canberra (0.28-6)
+    GNOME session log in and log out sound events
+gnome-session-common (3.4.2.1-4)
+    GNOME Session Manager - common files
+gnome-session-fallback (3.4.2.1-4)
+    GNOME Session Manager - GNOME fallback session
+gnome-settings-daemon (3.4.2+git20121218.7c1322-3+deb7u3)
+    daemon handling the GNOME session settings
+gnome-shell (3.4.2-7+deb7u1)
+    graphical shell for the GNOME desktop
+gnome-shell-common (3.4.2-7+deb7u1)
+    common files for the GNOME graphical shell
+gnome-shell-extensions (3.4.0-2)
+    Extensions to extend functionality of GNOME Shell
+gnome-shell-timer (0.0.20120615+gitbde3fd2-1)
+    GNOME Shell extension providing a countdown timer in the top panel
+gnome-specimen (0.4-8)
+    Simple font preview and compare application for GNOME
+gnome-split (1.1-1)
+    GNOME Split - File splitter for GNOME desktop
+gnome-subtitles (1.2-4)
+    Subtitle editor for the GNOME Desktop environment
+gnome-sushi (0.4.1-3)
+    sushi is a quick previewer for nautilus
+gnome-system-log (3.4.1-3)
+    system log viewer for GNOME
+gnome-system-monitor (3.4.1-2+b1)
+    Process viewer and system resource monitor for GNOME
+gnome-system-tools (3.0.0-2)
+    Cross-platform configuration utilities for GNOME
+gnome-terminal (3.4.1.1-2)
+    GNOME terminal emulator application
+gnome-terminal-data (3.4.1.1-2)
+    Data files for the GNOME terminal emulator
+gnome-theme-gilouche (11.1.2-2)
+    openSUSE Gilouche Theme
+gnome-themes (2.30.2-1)
+    official themes for the GNOME desktop
+gnome-themes-extras (2.22.0-3)
+    extra themes for the GNOME desktop
+gnome-themes-standard (3.4.2-2.1)
+    Standard GNOME themes
+gnome-themes-standard-data (3.4.2-2.1)
+    Data files for GNOME standard themes
+gnome-tweak-tool (3.4.0.1-2)
+    tool to adjust advanced configuration settings for GNOME
+gnome-user-guide (3.4.2-1+build1)
+    GNOME user's guide
+gnome-user-share (3.0.2-1+b1 [armel], 3.0.2-1 [amd64, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    User level public file sharing via WebDAV or ObexFTP
+gnome-video-arcade (0.8.3-1) [contrib]
+    Simple MAME frontend
+gnome-video-effects (0.4.0-1)
+    GNOME Video Effects
+gnome-video-effects-frei0r (0.4.0-1)
+    GNOME Video Effects - frei0r plugins
+gnome-wine-icon-theme (5.5.1-1)
+    red variation of the GNOME-Colors icon theme
+gnome-wise-icon-theme (5.5.1-1)
+    green variation of the GNOME-Colors icon theme
+gnome-xcf-thumbnailer (1.0-1.1)
+    GNOME thumbnailer for GIMP XCF files.
+gnomecatalog (0.3.4.2-1)
+    catalog CD, DVD and hard disk files
+gnomekiss (2.0-4)
+    A KiSS paper doll viewer for GNOME
+gnomint (1.2.1-4)
+    x509 Certification Authority management tool for GNOME
+gnote (0.8.3-1)
+    desktop note taking program using Wiki style links
+gnotime (2.3.1~snapshot20091119-5)
+    utility for tracking and invoicing time spent on projects
+gnucash (1:2.4.10-6)
+    personal and small-business financial-accounting software
+gnucash-common (1:2.4.10-6)
+    common files for the financial-accounting software Gnucash
+goobox (3.0.1-5)
+    CD player and ripper with GNOME 3 integration
+gourmet (0.15.9-1)
+    A gtk-based recipe organizer and shopping list generator
+gpaint (0.3.3-6)
+    GNU Paint - a small, easy to use paint program for GNOME
+gparted (0.12.1-2+b1 [amd64], 0.12.1-2 [armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    GNOME partition editor
+gphpedit (0.9.98-2)
+    development environment for PHP/HTML/CSS
+gramps (3.4.0-1)
+    Genealogical research program
+greenwich (0.8.2-6)
+    graphical whois client for GNOME
+griffith (0.13-3)
+    film collection manager
+gsettings-desktop-schemas (3.4.2-3)
+    GSettings deskop-wide schemas
+gsettings-desktop-schemas-dev (3.4.2-3)
+    Development files for GSettings desktop-wide schemas
+gshare (0.94-12)
+    Easy user-level file sharing for GNOME
+gsql (0.2.2-1.2+b1)
+    Integrated database development tool for GNOME
+gsql-mysql-engine (0.2.2-1.2+b1)
+    MySQL engine for GSQL
+gsql-plugins (0.2.2-1.2+b1)
+    Plugins for GSQL
+gsql-postgresql-engine (0.2.2-1.2+b1)
+    PostgreSQL engine for GSQL
+gstm (1.2-8)
+    SSH tunnel manager for GNOME
+gstreamer0.10-gnonlin (0.10.17-2)
+    non-linear editing module for GStreamer
+gtetrinet (0.7.11-3+b2 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.7.11-3+b1 [s390x])
+    multiplayer tetris-like game
+gtg (0.2.9-1)
+    organizer for the GNOME desktop environment
+gthumb (3:3.0.1-2)
+    image viewer and browser
+gthumb-data (3:3.0.1-2)
+    image viewer and browser - arch-independent files
+gtk-doc-tools (1.18-2)
+    GTK+ documentation tools
+gtk-vector-screenshot (0.3.2-1)
+    takes screenshots of applications as PDF or SVG files
+gtk2-engines (1:2.20.2-2)
+    theme engines for GTK+ 2.x
+gtk2-engines-nodoka (0.7.0-1.1)
+    Nodoka theme engine for GTK+ 2.x
+gtk2-engines-oxygen (1.2.4-1)
+    Oxygen widget theme for GTK+-based applications
+gtk2-engines-qtcurve (1.8.15-4)
+    This is a set of widget styles for Gtk2 based apps
+gtk2-engines-ubuntulooks (0.9.12-2)
+    'ubuntulooks' theme for GTK+ 2.x
+gtk3-engines-oxygen (1.0.4-1)
+    Oxygen widget theme for GTK3-based applications
+gtk3-engines-unico (1.0.2-1)
+    Unico Gtk+ 3 theme engine
+gtranslator (2.91.4-1)
+    PO-file editor for the GNOME Desktop
+gucharmap (1:3.4.1.1-2.1)
+    Unicode character picker and font browser
+gvfs-backends (1.12.3-4)
+    userspace virtual filesystem - backends
+gvfs-bin (1.12.3-4)
+    userspace virtual filesystem - binaries
+gvfs-fuse (1.12.3-4)
+    userspace virtual filesystem - fuse server
+gwaei (3.4.3-1)
+    Japanese-English Dictionary for GNOME
+gxmessage (2.20.0-1)
+    xmessage clone based on GTK+
+hamster-applet (2.91.3+git20120514.b9fec3e1-1)
+    time tracking applet for GNOME
+hdate-applet (0.15.11-1.1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.15.11-1.1+b1 [armhf, s390x])
+    Hebrew calendar applet
+homebank (4.4-1)
+    Manage your personal accounts at home
+homebank-data (4.4-1)
+    Data files for homebank
+hotwire (0.721-2)
+    Extensible graphical command execution shell
+icewm-gnome-support (1.3.7-4)
+    GNOME support files for IceWM
+indicator-applet (0.5.0-1)
+    GNOME panel indicator applet
+indicator-applet-appmenu (0.5.0-1)
+    GNOME panel indicator applet with integrated application menu
+indicator-applet-complete (0.5.0-1)
+    GNOME panel indicator applet with all indicators
+indicator-applet-session (0.5.0-1)
+    GNOME panel indicator applet with session related indicators
+indicator-application (0.5.0-1)
+    application menu indicator
+indicator-application-gtk2 (0.5.0-1)
+    application menu indicator - GTK2 version
+indicator-messages (0.6.0-1)
+    indicator that collects messages that need a response
+indicator-messages-gtk2 (0.6.0-1)
+    indicator that collects messages that need a response
+indicator-session (0.3.96-1)
+    indicator showing session management, status and user switching
+indicator-session-gtk2 (0.3.96-1)
+    indicator showing session management, status and user switching
+indicator-status-provider-emesene (0.6.0-1)
+    indicator-messages status provider for emesene
+indicator-status-provider-mc5 (0.6.0-1)
+    indicator-messages status provider for telepathy mission-control-5
+indicator-status-provider-pidgin (0.6.0-1)
+    indicator-messages status provider for pidgin
+indicator-status-provider-telepathy (0.6.0-1)
+    indicator-messages status provider for telepathy (pre-mc5)
+ipwatchd-gnotify (1.0.1-1+b1 [amd64, armel, i386, ia64, mips, mipsel, powerpc, s390, sparc], 1.0.1-1 [armhf, s390x])
+    Gnome notification tool for IPwatchD
+istanbul (0.2.2-9)
+    Desktop session recorder producing Ogg Theora video
+junior-gnome (1.20)
+    Debian Jr. for GNOME
+langdrill (0.3-7)
+    language drills to test vocabulary
+libbonobo2-bin (2.24.3-1)
+    Bonobo CORBA interfaces library -- support binaries
+libbonobo2-common (2.24.3-1)
+    Bonobo CORBA interfaces library -- support files
+libgdl-3-common (3.4.2-1)
+    GNOME DevTool libraries - common files
+libgsf-bin (1.14.21-2.1)
+    Structured File Library - programs
+libreoffice-evolution (1:3.5.4+dfsg2-0+deb7u3 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1:3.5.4+dfsg2-0+deb7u2 [ia64]) [security]
+    office productivity suite -- Evolution addressbook support
+libreoffice-gnome (1:3.5.4+dfsg2-0+deb7u3 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1:3.5.4+dfsg2-0+deb7u2 [ia64]) [security]
+    office productivity suite -- GNOME integration
+libreoffice-gtk (1:3.5.4+dfsg2-0+deb7u3 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1:3.5.4+dfsg2-0+deb7u2 [ia64]) [security]
+    office productivity suite -- GTK+ integration
+libreoffice-gtk3 (1:3.5.4+dfsg2-0+deb7u3 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 1:3.5.4+dfsg2-0+deb7u2 [ia64]) [security]
+    office productivity suite -- GTK+ 3.0 integration
+lifeograph (0.8.2.dfsg-1)
+    Private digital diary
+liferea (1.8.6-1.1)
+    feed aggregator for GNOME
+liferea-data (1.8.6-1.1)
+    architecture independent data for liferea
+link-monitor-applet (3.0-8)
+    GNOME Panel Applet with bar graph of round-trip times to hosts
+link-monitor-applet-common (3.0-8)
+    GNOME Panel Applet with graph of round-trip times to hosts (data)
+mail-notification (5.4.dfsg.1-6+b1 [amd64, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, powerpc, s390x], 5.4.dfsg.1-6 [armel, mips, mipsel, s390, sparc])
+    mail notification in system tray
+mail-notification-evolution (5.4.dfsg.1-6+b1 [amd64, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, powerpc, s390x], 5.4.dfsg.1-6 [armel, mips, mipsel, s390, sparc])
+    evolution support for mail notification
+maximus (0.4.14-3)
+    Automaximizing window management tool
+mdbtools-gmdb (0.7-1+deb7u1)
+    JET / MS Access database (MDB) file viewer
+meld (1.6.1-1)
+    graphical tool to diff and merge files
+mess-desktop-entries (0.2-2) [contrib]
+    Desktop entries for MESS ROMs
+mousetweaks (3.4.2-1)
+    mouse accessibility enhancements for the GNOME desktop
+mpop-gnome (1.0.27-1)
+    POP3 mail retriever - with GNOME keyring support
+nautilus (3.4.2-1+build1)
+    file manager and graphical shell for GNOME
+nautilus-actions (3.2.2-1)
+    nautilus extension to configure programs to launch
+nautilus-compare (0.0.4-1)
+    Context menu comparison extension for Nautilus file manager
+nautilus-data (3.4.2-1+build1)
+    data files for nautilus
+nautilus-dropbox (1.4.0-3) [non-free]
+    Dropbox integration for Nautilus
+nautilus-emblems (0.1.0-2)
+    emblems property page for nautilus
+nautilus-filename-repairer (0.1.1-2)
+    Nautilus extension for filename encoding repair
+nautilus-image-converter (0.3.1~git20110416-1)
+    nautilus extension to mass resize or rotate images
+nautilus-image-manipulator (1.1-2)
+    Resize and send images from Nautilus
+nautilus-open-terminal (0.19-2+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.19-2 [armhf, s390x])
+    nautilus plugin for opening terminals in arbitrary paths
+nautilus-pastebin (0.7.1-1)
+    Nautilus extension to send files to a pastebin
+nautilus-scripts-manager (1.7-1)
+    simple tool for nautilus scripts management
+nautilus-sendto (3.0.3-2+b1)
+    integrates Evolution and Pidgin into the Nautilus file manager
+nautilus-sendto-empathy (3.4.2.3-2+deb7u1)
+    GNOME multi-protocol chat and call client (nautilus-sendto plugin)
+nautilus-share (0.7.3-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.7.3-1 [armhf, s390x])
+    Nautilus extension to share folder using Samba
+nemiver (0.9.2-1)
+    Standalone graphical debugger for GNOME
+netspeed (0.16-3)
+    Traffic monitor applet for GNOME
+network-manager-gnome (0.9.4.1-5)
+    network management framework (GNOME frontend)
+ontv (3.2.0-1)
+    GNOME Applet for monitoring current and upcoming TV programs
+ooo-thumbnailer (0.2-5)
+    thumbnailer for OpenOffice.org documents
+openoffice.org-evolution (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Evolution addressbook support
+openoffice.org-gnome (1:3.4.0~ooo340m1-7)
+    office productivity suite -- GNOME integration
+openoffice.org-gtk (1:3.4.0~ooo340m1-7)
+    office productivity suite -- GTK+ integration
+oregano (0.70-1)
+    tool for schematical capture of electronic circuits
+passepartout (0.7.1-1+b1 [armel, armhf, mips, mipsel, powerpc, s390, sparc], 0.7.1-1 [amd64, i386, ia64, kfreebsd-amd64, kfreebsd-i386, s390x])
+    XML-based Desktop Publishing Application
+pdfmod (0.9.1-7)
+    simple tool for modifying PDF documents
+pithos (0.3.17-1)
+    Pandora Radio client for the GNOME desktop
+pitivi (0.15.2-0.1)
+    non-linear audio/video editor using GStreamer
+planner (0.14.6-1)
+    project management application
+planner-data (0.14.6-1)
+    Data files for planner
+playitslowly (1.4.0-1)
+    Plays back audio files at a different speed or pitch
+policykit-1-gnome (0.105-2)
+    GNOME authentication agent for PolicyKit-1
+pybliographer (1.2.14-3)
+    tool for manipulating bibliographic databases
+pypar2 (1.4-6)
+    graphical frontend for the par2 utility
+pyrenamer (0.6.0-1.1)
+    mass file renamer written in PyGTK
+referencer (1.1.6-2+b4 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.1.6-2+b2 [armhf, s390x])
+    GNOME Document Organiser
+remmina (1.0.0-4+deb7u1)
+    remote desktop client for GNOME desktop environment
+remmina-common (1.0.0-4+deb7u1)
+    common files for remmina remote desktop client
+remmina-plugin-gnome (1.0.0-4+deb7u1)
+    GNOME plugin for remmina remote desktop client
+remmina-plugin-nx (1.0.0-4+deb7u1)
+    NX plugin for remmina remote desktop client
+remmina-plugin-rdp (1.0.0-4+deb7u1)
+    RDP plugin for remmina remote desktop client
+remmina-plugin-telepathy (1.0.0-4+deb7u1)
+    Telepathy plugin for remmina remote desktop client
+remmina-plugin-vnc (1.0.0-4+deb7u1)
+    VNC plugin for remmina remote desktop client
+remmina-plugin-xdmcp (1.0.0-4+deb7u1)
+    XDMCP plugin for remmina remote desktop client
+revelation (0.4.13-1.2)
+    GNOME2 Password manager
+rhythmbox (2.97-2.1)
+    music player and organizer for GNOME
+rhythmbox-data (2.97-2.1)
+    data files for rhythmbox
+rhythmbox-plugin-cdrecorder (2.97-2.1)
+    burning plugin for rhythmbox music player
+rhythmbox-plugins (2.97-2.1)
+    plugins for rhythmbox music player
+routeplanner-gnome (0.19)
+    A highway trip planner (GNOME interface)
+sanduhr (1.93-4)
+    An alarm clock designed as an hourglass
+screenlets (0.1.2-8)
+    Widget-like mini-applications for GNOME
+screenruler (0.960+bzr41-1)
+    measure objects on screen with a variety of metrics
+seahorse (3.4.1-2)
+    GNOME front end for GnuPG
+seahorse-daemon (3.2.2-1)
+    Seahorse pass phrase caching agent
+sensors-applet (3.0.0-0.2)
+    Display readings from hardware sensors in your Gnome panel
+sflphone-daemon (1.1.0-2+b1)
+    SIP and IAX2 compatible VoIP phone - core daemon
+sflphone-data (1.1.0-2)
+    SIP and IAX2 compatible VoIP phone - common data
+sflphone-evolution (1.1.0-2+b1)
+    SIP and IAX2 compatible VoIP phone - Evolution plugin
+sflphone-gnome (1.1.0-2+b1)
+    SIP and IAX2 compatible VoIP phone - GNOME client
+shiki-brave-theme (4.6-1)
+    blue variation of the Shiki-Colors theme
+shiki-colors (4.6-1)
+    set of Metacity/GTK-2+ themes
+shiki-colors-metacity-theme (4.6-1)
+    set of Metacity themes
+shiki-dust-theme (4.6-1)
+    chocolate variation of the Shiki-Colors theme
+shiki-human-theme (4.6-1)
+    orange variation of the Shiki-Colors theme
+shiki-illustrious-theme (4.6-1)
+    pink variation of the Shiki-Colors theme
+shiki-noble-theme (4.6-1)
+    purple variation of the Shiki-Colors theme
+shiki-wine-theme (4.6-1)
+    red variation of the Shiki-Colors theme
+shiki-wise-theme (4.6-1)
+    green variation of the Shiki-Colors theme
+shotwell (0.12.3-2+deb7u1)
+    digital photo organizer
+shotwell-common (0.12.3-2+deb7u1)
+    digital photo organizer - common files
+simple-scan (3.4.2-1)
+    Simple Scanning Utility
+smuxi (0.8.10-3)
+    graphical IRC client
+smuxi-engine (0.8.10-3)
+    Engine library for Smuxi
+smuxi-engine-irc (0.8.10-3)
+    IRC engine for Smuxi
+smuxi-engine-twitter (0.8.10-3)
+    Twitter engine for Smuxi
+smuxi-engine-xmpp (0.8.10-3)
+    XMPP / Jabber / GTalk / Facebook Chat engine for Smuxi
+smuxi-frontend (0.8.10-3)
+    Frontend library for Smuxi
+smuxi-frontend-gnome (0.8.10-3)
+    GNOME frontend for Smuxi
+smuxi-frontend-gnome-irc (0.8.10-3)
+    IRC support for GNOME frontend for Smuxi
+smuxi-frontend-stfl (0.8.10-3)
+    STFL frontend for Smuxi (experimental)
+smuxi-server (0.8.10-3)
+    Server application for Smuxi
+software-center (5.1.2debian3.1)
+    Utility for browsing, installing, and removing software
+solfege (3.20.6-1)
+    Ear training software
+solfege-oss (3.20.6-1)
+    OSS module for GNU Solfege
+sound-juicer (3.4.0-3)
+    GNOME CD Ripper
+soundconverter (2.0.1-1)
+    GNOME application to convert audio files into other formats
+specto (0.2.2-3.2)
+    Unobtrusive update notification program
+ssh-askpass-gnome (1:6.0p1-4+deb7u2)
+    interactive X program to prompt users for a passphrase for ssh-add
+stackapplet (1.4.0-2)
+    panel applet to track reputation on StackExchange sites
+subtitleeditor (0.33.0-1)
+    Graphical subtitle editor with sound waves representation
+system-config-printer-udev (1.3.7-4)
+    Utilities to detect and configure printers automatically
+tamil-gtk2im (2.2-4.4)
+    Tamil input method for GTK-2
+tangerine (0.3.4-3)
+    music server using DAAP
+tasks (0.20-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.20-1+b1 [armhf, s390x])
+    simple to do manager
+tasque (0.1.9-2)
+    simple task management application
+teg (0.11.2+debian-3)
+    Turn based strategy game
+telegnome (0.1.1-5)
+    graphical teletext viewer
+thewidgetfactory (0.2.1-2)
+    a showcase for GTK+ widgets
+tinyeartrainer (0.1.0-2)
+    A tool to learn recognizing musical intervals
+tomboy (1.10.0-2+b2 [ia64], 1.10.0-2 [amd64, armel, i386, kfreebsd-amd64, kfreebsd-i386, powerpc, s390x, sparc])
+    desktop note taking program using Wiki style links
+tomboy-latex (0.5-4)
+    LaTeX plugin for Tomboy
+tracker-explorer (0.14.1-3)
+    metadata database, indexer and search tool - developer tool
+tracker-gui (0.14.1-3)
+    metadata database, indexer and search tool - GNOME frontends
+ttb (1.0.1+20101115-1)
+    (Dutch) teletekst browser for the desktop
+uim-applet-gnome (1:1.8.1-4)
+    Universal Input Method - GNOME applet
+update-manager-core (0.200.5-2.1)
+    APT update manager core functionality
+update-manager-gnome (0.200.5-2.1)
+    GNOME application that manages software updates
+update-notifier (0.99.3debian11)
+    Daemon which notifies about package updates
+update-notifier-common (0.99.3debian11)
+    Files shared between update-notifier and adept
+verbiste-gnome (0.1.34-1)
+    French and Italian conjugator - GNOME interface
+vinagre (3.4.2-2)
+    remote desktop client for the GNOME Desktop
+vino (3.4.2-1+b1)
+    VNC server for GNOME
+widemargin (1.0.11-4)
+    bible reading and study application
+winwrangler (0.2.4-3)
+    Small desktop daemon to perform advanced window
+workrave (1.9.909+abc941eb70-1)
+    Repetitive Strain Injury prevention tool
+workrave-data (1.9.909+abc941eb70-1)
+    Repetitive Strain Injury prevention tool (data files)
+xchat-gnome (1:0.30.0~git20110821.e2a400-0.2+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1:0.30.0~git20110821.e2a400-0.2 [armhf, s390x])
+    simple and featureful IRC client for GNOME
+xchat-gnome-common (1:0.30.0~git20110821.e2a400-0.2)
+    data files for XChat-GNOME
+xiphos (3.1.5+dfsg-1+b2 [amd64, armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 3.1.5+dfsg-1+b1 [kfreebsd-amd64])
+    environment for Bible reading, study, and research
+xiphos-data (3.1.5+dfsg-1)
+    data files for Xiphos Bible study software
+yelp (3.4.2-1+b1)
+    Help browser for GNOME
+yelp-tools (3.4.1-1)
+    Yelp documentation tools
+yelp-xsl (3.4.2-1)
+    XSL stylesheets for the yelp help browser
+zapping (0.10~cvs6-8)
+    television viewer for the GNOME environment
+zenity (3.4.0-2)
+    Display graphical dialog boxes from shell scripts
+zenity-common (3.4.0-2)
+    Display graphical dialog boxes from shell scripts (common files) 

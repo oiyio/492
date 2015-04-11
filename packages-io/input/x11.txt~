@@ -1,0 +1,1605 @@
+
+9menu (1.8-5)
+    Creates X menus from the shell
+9wm (1.2-9)
+    emulation of the Plan 9 window manager 8-1/2
+aewm (1.3.12-2.1)
+    minimalist window manager for X11
+aewm++ (1.1.2-5)
+    minimal window manager written in C++
+aewm++-goodies (1.0-9)
+    utilities to complement a minimal window manager
+afterstep (2.2.11-7)
+    window manager with the NEXTSTEP look and feel
+afterstep-data (2.2.11-7)
+    data files for AfterStep window manager
+alevt (1:1.6.2-5)
+    X11 Teletext/Videotext browser
+alevt
+    virtual package provided by dvb-apps
+alltray (0.71b-1)
+    Dock any program into the system tray
+amd-clinfo (1:12-6+point-3) [non-free]
+    AMD OpenCL info utility
+amd-libopencl1 (1:12-6+point-3) [non-free]
+    AMD OpenCL library
+amd-opencl-dev (1:12-6+point-3) [non-free]
+    AMD OpenCL development files
+amd-opencl-icd (1:12-6+point-3) [non-free]
+    AMD OpenCL ICD
+amiwm (0.20.48-8) [non-free]
+    The Amiga look alike window manager
+amoeba (1.1-26) [contrib]
+    fast-paced, polished OpenGL demonstration by Excess
+amoeba-data (1.1-6) [non-free]
+    Fast-paced, polished OpenGL demonstration by Excess (data)
+amora-applet (1.2~svn699-1)
+    use a bluetooth device as X remote control (systray applet)
+amora-cli (1.2~svn699-1)
+    use a bluetooth device as X remote control (commandline tool)
+aosd-cat (0.2.7-1)
+    an on screen display tool which uses libaosd
+app-install-data (2012.06.16.1)
+    Application Installer Data Files
+arandr (0.1.6-1)
+    Simple visual front end for XRandR
+asclock (2.0.12-23)
+    clock designed with the NeXTStep look
+asclock-themes (2.0.12-23)
+    Theme files for ASclock, a clock applet
+asmix (1.5-4.1)
+    display a volume knob
+asmon (0.71-5)
+    system resource monitor dockapp for Afterstep and WindowMaker
+aterm (1.0.1-8)
+    Afterstep XVT - a VT102 emulator for the X window system
+aterm-ml (1.0.1-8)
+    Afterstep XVT - a VT102 emulator for the X window system
+autocutsel (0.9.0-2)
+    Keep the X clipboard and the cutbuffer in sync
+awesome (3.4.13-1)
+    highly configurable X window manager
+awesome-extra (2012061101)
+    additional modules for awesome
+bandwidthcalc (0.2-1)
+    file transfer time calculator written in GTK+
+bbpager (0.4.7-3)
+    Pager for the blackbox and fluxbox window managers
+bbrun (1.6-6)
+    A tool for the blackbox/fluxbox window managers that runs commands
+bbtime (0.1.5-12)
+    Time tool for the blackbox/fluxbox window managers
+bdfresize (1.5-6)
+    tool for resizing BDF format font
+betaradio (1.4-1)
+    Internet radio of Taiwan
+big-cursor (3.8)
+    larger mouse cursors for X
+blackbox (0.70.1-13)
+    Window manager for X
+blackbox-themes (0.5)
+    Themes for the Blackbox Windowmanager
+blueman (1.23-1)
+    Graphical bluetooth manager
+bluetile (0.6-1)
+    full-featured tiling for the GNOME desktop environment
+boats (201204-1)
+    a race scenario drawing tool
+boinc-manager (7.0.27+dfsg-5)
+    GUI to control and monitor the BOINC core client
+bubblefishymon (0.6.4-5)
+    system load dockapp with a duck
+buici-clock (0.4.9.2)
+    attractive desktop clock
+cairo-clock (0.3.4-2)
+    Analog clock drawn with vector-graphics
+cairo-dock (3.0.0-2+deb7u1)
+    Light eye-candy fully themable animated dock for Linux desktop
+cairo-dock-alsamixer-plug-in (3.0.0-1+b1 [amd64], 3.0.0-1 [armel, armhf, i386, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - Alsamixer plug-in
+cairo-dock-animated-icons-plug-in (3.0.0-1+b1 [amd64, kfreebsd-amd64], 3.0.0-1 [armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - Animated icons plug-in
+cairo-dock-cairo-penguin-plug-in (3.0.0-1+b1 [amd64, kfreebsd-amd64], 3.0.0-1 [armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - Cairo-Penguin plug-in
+cairo-dock-clipper-plug-in (3.0.0-1+b1 [amd64, kfreebsd-amd64], 3.0.0-1 [armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - Clipper plug-in
+cairo-dock-clock-plug-in (3.0.0-1+b1 [amd64, kfreebsd-amd64], 3.0.0-1 [armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - Clock plug-in
+cairo-dock-core (3.0.0-2+deb7u1)
+    Light eye-candy fully themable animated dock for Linux desktop
+cairo-dock-dbus-plug-in (3.0.0-1+b1 [amd64, kfreebsd-amd64], 3.0.0-1 [armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - Dbus plug-in
+cairo-dock-desklet-rendering-plug-in (3.0.0-1+b1 [amd64, kfreebsd-amd64], 3.0.0-1 [armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - Desklet rendering plug-in
+cairo-dock-dialog-rendering-plug-in (3.0.0-1+b1 [amd64, kfreebsd-amd64], 3.0.0-1 [armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - Dialog rendering plug-in
+cairo-dock-dnd2share-plug-in (3.0.0-1+b1 [amd64, kfreebsd-amd64], 3.0.0-1 [armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - Dnd2share plug-in
+cairo-dock-drop-indicator-plug-in (3.0.0-1+b1 [amd64, kfreebsd-amd64], 3.0.0-1 [armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - Drop indicator plug-in
+cairo-dock-dustbin-plug-in (3.0.0-1+b1 [amd64, kfreebsd-amd64], 3.0.0-1 [armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - Dustbin plug-in
+cairo-dock-folders-plug-in (3.0.0-1+b1 [amd64, kfreebsd-amd64], 3.0.0-1 [armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - Folders plug-in
+cairo-dock-gmenu-plug-in (3.0.0-1+b1 [amd64, kfreebsd-amd64], 3.0.0-1 [armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - GMenu plug-in
+cairo-dock-gnome-integration-plug-in (3.0.0-1+b1 [amd64, kfreebsd-amd64], 3.0.0-1 [armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - GNOME integration plug-in
+cairo-dock-icon-effect-plug-in (3.0.0-1+b1 [amd64, kfreebsd-amd64], 3.0.0-1 [armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - Icon effect plug-in
+cairo-dock-illusion-plug-in (3.0.0-1+b1 [amd64, kfreebsd-amd64], 3.0.0-1 [armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - Illusion plug-in
+cairo-dock-impulse-plug-in (3.0.0-1+b1 [amd64, kfreebsd-amd64], 3.0.0-1 [armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - Implus plug-in
+cairo-dock-kde-integration-plug-in (3.0.0-1+b1 [amd64, kfreebsd-amd64], 3.0.0-1 [armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - KDE integration plug-in
+cairo-dock-keyboard-indicator-plug-in (3.0.0-1+b1 [amd64, kfreebsd-amd64], 3.0.0-1 [armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - Keyboard indicator plug-in
+cairo-dock-logout-plug-in (3.0.0-1+b1 [amd64, kfreebsd-amd64], 3.0.0-1 [armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - Logout plug-in
+cairo-dock-mail-plug-in (3.0.0-1+b1 [amd64, kfreebsd-amd64], 3.0.0-1 [armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - Mail plug-in
+cairo-dock-messaging-menu-plug-in (3.0.0-1+b1 [amd64, kfreebsd-amd64], 3.0.0-1 [armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - Messaging menu plug-in
+cairo-dock-motion-blur-plug-in (3.0.0-1+b1 [amd64, kfreebsd-amd64], 3.0.0-1 [armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - Motion blur plug-in
+cairo-dock-musicplayer-plug-in (3.0.0-1+b1 [amd64, kfreebsd-amd64], 3.0.0-1 [armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - Music player plug-in
+cairo-dock-netspeed-plug-in (3.0.0-1+b1 [amd64, kfreebsd-amd64], 3.0.0-1 [armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - Netspeed plug-in
+cairo-dock-plug-in-data (3.0.0-1)
+    Cairo-dock - Plug-in data files
+cairo-dock-plug-ins (3.0.0-1+b1 [amd64, kfreebsd-amd64], 3.0.0-1 [armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - All plug-ins
+cairo-dock-powermanager-plug-in (3.0.0-1+b1 [amd64, kfreebsd-amd64], 3.0.0-1 [armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - Powermanager plug-in
+cairo-dock-quick-browser-plug-in (3.0.0-1+b1 [amd64, kfreebsd-amd64], 3.0.0-1 [armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - Quick browser plug-in
+cairo-dock-recent-events-plug-in (3.0.0-1+b1 [amd64, kfreebsd-amd64], 3.0.0-1 [armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - Recent events plug-in
+cairo-dock-remote-control-plug-in (3.0.0-1+b1 [amd64, kfreebsd-amd64], 3.0.0-1 [armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - Remote control plug-in
+cairo-dock-rendering-plug-in (3.0.0-1+b1 [amd64, kfreebsd-amd64], 3.0.0-1 [armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - Rendering plug-in
+cairo-dock-rssreader-plug-in (3.0.0-1+b1 [amd64, kfreebsd-amd64], 3.0.0-1 [armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - RSS Reader plug-in
+cairo-dock-shortcuts-plug-in (3.0.0-1+b1 [amd64, kfreebsd-amd64], 3.0.0-1 [armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - Shortcuts plug-in
+cairo-dock-showdesktop-plug-in (3.0.0-1+b1 [amd64, kfreebsd-amd64], 3.0.0-1 [armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - Show desktop plug-in
+cairo-dock-showmouse-plug-in (3.0.0-1+b1 [amd64, kfreebsd-amd64], 3.0.0-1 [armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - Showmouse plug-in
+cairo-dock-slider-plug-in (3.0.0-1+b1 [amd64, kfreebsd-amd64], 3.0.0-1 [armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - Slider plug-in
+cairo-dock-stack-plug-in (3.0.0-1+b1 [amd64, kfreebsd-amd64], 3.0.0-1 [armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - Stack plug-in
+cairo-dock-switcher-plug-in (3.0.0-1+b1 [amd64, kfreebsd-amd64], 3.0.0-1 [armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - Switcher plug-in
+cairo-dock-system-monitor-plug-in (3.0.0-1+b1 [amd64, kfreebsd-amd64], 3.0.0-1 [armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - System Monitor plug-in
+cairo-dock-systray-plug-in (3.0.0-1+b1 [amd64, kfreebsd-amd64], 3.0.0-1 [armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - Systray plug-in
+cairo-dock-terminal-plug-in (3.0.0-1+b1 [amd64, kfreebsd-amd64], 3.0.0-1 [armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - Terminal plug-in
+cairo-dock-tomboy-plug-in (3.0.0-1+b1 [amd64, kfreebsd-amd64], 3.0.0-1 [armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - Tomboy plug-in
+cairo-dock-toons-plug-in (3.0.0-1+b1 [amd64, kfreebsd-amd64], 3.0.0-1 [armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - Toons plug-in
+cairo-dock-weather-plug-in (3.0.0-1+b1 [amd64, kfreebsd-amd64], 3.0.0-1 [armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - Weather plug-in
+cairo-dock-weblets-plug-in (3.0.0-1+b1 [amd64, kfreebsd-amd64], 3.0.0-1 [armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - Weblets plug-in
+cairo-dock-wifi-plug-in (3.0.0-1+b1 [amd64, kfreebsd-amd64], 3.0.0-1 [armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - Wifi plug-in
+cairo-dock-xfce-integration-plug-in (3.0.0-1+b1 [amd64, kfreebsd-amd64], 3.0.0-1 [armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - Xfce integration plug-in
+cairo-dock-xgamma-plug-in (3.0.0-1+b1 [amd64, kfreebsd-amd64], 3.0.0-1 [armel, armhf, i386, ia64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Cairo-dock - Xgamma plug-in
+cdcat (1.8-1)
+    media catalog program
+chameleon-cursor-theme (0.5-4)
+    modern but not gaudy X11 mouse theme
+choosewm (0.1.6-3)
+    fake x-session-manager allowing the user to choose a wm
+clfswm (20111015.git51b0a02-2)
+    A(nother) Common Lisp FullScreen Window Manager
+cmatrix-xfont (1.2a-4)
+    X11 font for cmatrix
+cnee (3.13-1)
+    X event recorder/replayer - command-line flavor
+codeblocks-common (10.05-2.1)
+    common files for Code::Blocks IDE
+codeblocks-contrib (10.05-2.1)
+    contrib plugins for Code::Blocks IDE
+comix (4.0.4-1)
+    GTK Comic Book Viewer
+comixcursors-lefthanded (0.7.2-2)
+    X11 mouse pointer themes with a comic art feeling (LH, translucent)
+comixcursors-lefthanded-opaque (0.7.2-2)
+    X11 mouse pointer themes with a comic art feeling (LH, opaque)
+comixcursors-righthanded (0.7.2-2)
+    X11 mouse pointer themes with a comic art feeling (RH, translucent)
+comixcursors-righthanded-opaque (0.7.2-2)
+    X11 mouse pointer themes with a comic art feeling (RH, opaque)
+compiz-fusion-bcop (0.8.4-1)
+    Compiz Fusion option code generator
+convertall (0.4.2-1)
+    very flexible unit converter
+crystalcursors (1.1.1-13)
+    X11 mouse theme with the crystal look&feel
+ctwm (3.7-3.3)
+    Claude's Tab window manager
+dasher (4.11-2)
+    A graphical predictive text input system
+dasher-data (4.11-2)
+    Data files for dasher
+dbus-x11 (1.6.8-1+deb7u6) [security]
+    simple interprocess messaging system (X11 deps)
+dclock (2.2.2-6)
+    Digital clock for the X Window System with flexible display
+desklaunch (1.1.8)
+    A small utility for creating desktop icons
+deskmenu (1.4.5)
+    A root menu for X11 window managers
+desktop-base (7.0.3)
+    common files for the Debian Desktop
+desktop-profiles (1.4.15+nmu2)
+    framework for setting up desktop profiles
+docker (1.4-5)
+    System tray for KDE3/GNOME2 docklet applications
+docky (2.1.4-1)
+    Elegant, powerful, clean dock
+douf00 (3.0.0-1)
+    lightweight, slim and straight forward Presentation Tool
+drawterm (20110822-1)
+    graphical client for Plan 9 CPU servers
+driconf (0.9.1-2)
+    DRI configuration applet
+dunst (0.2.0-3)
+    minimalistic notification daemon
+dwm (6.0-4+deb7u1)
+    dynamic window manager
+dxpc (3.9.2-3)
+    differential X protocol compressor
+dzen2 (0.8.5-4)
+    General-purpose messaging and notification program for X11
+education-desktop-lxde (1.713+deb7u1)
+    Debian Edu LXDE desktop applications
+education-desktop-sugar (1.713+deb7u1)
+    Debian Edu sugar desktop environment
+electricsheep (2.7~b12+svn20091224-1.1)
+    screensaver showing collective dream of sleeping computers
+emelfm2-svg-icons (20100219-2)
+    icon SVG files from emelfm2 project
+epdfview (0.1.8-3)
+    Lightweight pdf viewer based on poppler libs
+eterm (0.9.6-1)
+    Enlightened Terminal Emulator
+evilvte (0.5.1-1)
+    lightweight terminal emulator based on VTE
+evilwm (1.0.0-1)
+    a minimalist window manager for X11
+ewipe (1.2.0-8)
+    Yet another presentation tool based on Tcl/Tk
+fact++ (1.5.3~dfsg-1)
+    description logic reasoner for the semantic web
+fbdesk (1.4.1-10)
+    desktop icons for window managers
+fbpager (0.1.5~git20090221.1.8e0927e6-1)
+    a pager application for the Fluxbox window manager
+fbpanel (6.1-6)
+    lightweight X11 desktop panel
+fbxkb (0.6-1.1)
+    X11 keyboard indicator and switcher
+fdpowermon (1.5)
+    simple battery power monitor for laptops with ACPI
+fdpowermon-icons (1.5)
+    icons for fdpowermon
+fglrx-atieventsd (1:12-6+point-3) [non-free]
+    external events daemon for the non-free ATI/AMD RadeonHD display driver
+fglrx-control (1:12-6+point-3) [non-free]
+    control panel for the non-free ATI/AMD RadeonHD display driver
+fglrx-driver (1:12-6+point-3) [non-free]
+    non-free ATI/AMD RadeonHD display driver
+floatbg (1.0-28)
+    slowly modify the color of the X root window
+fluxbox (1.3.2-4)
+    Highly configurable and low resource X11 Window manager
+flwm (1.02+cvs20080422-9)
+    Fast Light Window Manager
+fookb-plainx (3.0-3+b1 [kfreebsd-i386], 3.0-3 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, mips, mipsel, powerpc, s390, s390x, sparc])
+    An Xkb state indicator -- plain X version.
+fookb-wmaker (3.0-3+b1 [kfreebsd-i386], 3.0-3 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, mips, mipsel, powerpc, s390, s390x, sparc])
+    An Xkb state indicator -- WindowMaker version.
+fprint-demo (20080303git-5)
+    simple GTK+ testing libfprint's functions
+fqterm (0.9.6.10-1.1)
+    BBS client written in QT4
+freerdp-x11 (1.0.1-1.1+deb7u3)
+    RDP client for Windows Terminal Services
+fspanel (0.7-13)
+    minimalist panel for X
+fsviewer-icons (1.0-6)
+    icons for fsviewer to make it look more like the NeXT FileViewer
+fvwm (1:2.5.30.ds-1.1)
+    F(?) Virtual Window Manager
+fvwm-crystal (3.0.5.dfsg-5)
+    Pretty Desktop Environment based on fvwm
+fvwm-icons (20070101-1)
+    icon *.xpm files from fvwm development site
+fvwm1 (1.24r-55)
+    Old version of the F(?) Virtual Window Manager
+gcstar (1.6.2-1)
+    Manage your collections of movies, games, books, music and more
+gdeskcal (0.57.1-2.1)
+    A desktop calendar featuring transparency with smooth alpha-blending
+gentoo (0.19.13-2)
+    fully GUI-configurable, two-pane X file manager
+gexec (0.4-1)
+    Small command executer with autocompletion using GTK+
+gjiten (2.6-2.2)
+    Japanese dictionary for GNOME
+gkrellkam (2.0.0-1.1)
+    GKrellM plugin that displays a periodically updating image
+gkrellm (2.3.5-3)
+    GNU Krell Monitors
+gkrellm-bfm (0.6.4-5)
+    system load plugin for gkrellm with a duck
+gkrellm-hdplop (0.9.9-2.1)
+    hard drive activity monitor GKrellM plugin
+gkrellm-ibam (1:0.5.2-2.1)
+    Advanced battery monitor for laptops - gkrellm plugin
+gkrellm-leds (0.8.0-1.2)
+    Keyboard LED monitor for GKrellM
+gkrellm-mldonkey (0.9.7-2.1)
+    mldonkey plugin for gkrellm2
+gkrellm-reminder (2.0.0-3+b1 [armel, ia64], 2.0.0-3 [amd64, armhf, i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    useful reminder plugin for gkrellm
+gkrellm-thinkbat (0.2.2-1)
+    ThinkPad laptops battery status indicator for GKrellM
+gkrellm-x86info (0.0.2-9)
+    gkrellm plugin displaying the current processor speed
+gkrellm-xkb (1.05-5)
+    Keyboard layout indicator plugin for GKrellM
+gkrellmd (2.3.5-3)
+    GNU Krell Monitors Server
+gkrellmitime (1.0.1-5)
+    Internet time plugin for gkrellm
+gkrellmoon (0.6-5)
+    Gkrellm Moon Clock Plugin
+gkrellmwireless (2.0.3-1+b1 [mips, mipsel], 2.0.3-1 [amd64, armel, armhf, i386, ia64, powerpc, s390, s390x, sparc])
+    802.11 wireless link monitor plugin for GKrellM
+gkrellshoot (0.4.4-1)
+    Plugin for gkrellm to lock the screen and make screenshots
+gkrelltop (2.2.13-1+b2 [armel, ia64], 2.2.13-1+b1 [mipsel, powerpc], 2.2.13-1 [amd64, armhf, i386, mips, s390, s390x, sparc])
+    Top three intensive processes plugin for gkrellm
+gkrelltopd (2.2.13-1+b2 [armel, ia64], 2.2.13-1+b1 [mipsel, powerpc], 2.2.13-1 [amd64, armhf, i386, mips, s390, s390x, sparc])
+    Top three intensive processes plugin for gkrellmd
+gkrelluim (0.3.1-4+b1)
+    GKrellM plugin for uim
+gkrellweather (2.0.8-2)
+    A weather monitor plugin for GKrellM
+globs (0.2.0~svn50-4)
+    GL Open Benchmark Suite
+glurp (0.12.3-1)
+    GTK+ frontend to the Music Player Daemon (MPD)
+gmrun (0.9.2-2.1)
+    Featureful CLI-like GTK+ application launcher
+gnee (3.13-1)
+    X event recorder/replayer - GUI flavor
+gngb (20060309-3+b1 [armel, ia64], 20060309-3 [amd64, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    a Color Gameboy emulator
+gnome-mag (1:0.16.3-1)
+    a screen magnifier for the GNOME desktop
+gnome-panel-control (3.5.0-7)
+    command line utility to invoke GNOME panel run dialog/menu
+goban-original-games (1.1-2)
+    Original games set for the Goban screensaver
+goban-ss (1.1-2)
+    Goban screensaver
+gpe-appmgr (2.8-3)
+    application manager for GPE desktop
+gpe-clock (0.27-2)
+    alarm clock tray applet for GPE
+gpe-confd (0.16-2)
+    GPE configuration daemon
+gpe-contacts (0.49-2)
+    contact manager for GPE
+gpe-edit (0.41-1)
+    GPE Palmtop Environment text editor
+gpe-gallery (0.97-4)
+    GPE image gallery and viewer with slideshow support
+gpe-icons (0.25-1)
+    Common icons used by GPE programs
+gpe-question (0.04-3)
+    GPE interface for asking questions from shell scripts
+gpe-screenshot (0.4-4)
+    screenshot application for GPE
+gpe-soundbite (1.0.6-2)
+    voice memo player/recorder for GPE
+gpe-soundserver (0.4-3)
+    start and stop the GPE sound service
+gpe-su (0.20-1)
+    root shell for GPE
+gpe-tetris (0.6.4-2)
+    tetris game for small screens and embedded devices
+gpe-timesheet (0.32-2)
+    keep track of time spent on a task in GPE
+gpe-what (0.43-4)
+    context-sensitive help for GPE
+gpodder (2.20.1-1)
+    podcast client and feed aggregator
+grabc (1.1-2)
+    simple program to determine the color string in hex by clicking on a pixel
+grafx2 (2.3-1.1)
+    ultimate 256-color bitmap paint program
+grdesktop (0.23+d040330-3)
+    GNOME frontend for the rdesktop client
+gregorio (2.0-1.2)
+    command-line tool to typeset Gregorian chant
+gregoriotex (2.0-1.2)
+    LuaTeX style for Gregorian chant scores
+grisbi (0.8.9-1)
+    personal finance management program
+grisbi-common (0.8.9-1)
+    shared files for the finance management program Grisbi
+gromit (20041213-9)
+    GTK based tool to make annotations on screen
+grsync (1.2.0-1)
+    GTK+ frontend for rsync
+grun (0.9.3-1)
+    GTK based Run dialog
+gsetroot (1.1-2.2)
+    a C/Gtk-based front-end for Esetroot
+gtk-3-examples (3.4.2-7)
+    example files for GTK+ 3
+gtk-chtheme (0.3.1-5)
+    GTK+ 2.0 theme changer and previewer utility
+gtk-redshift (1.7-2)
+    Adjusts the color temperature of your screen with GTK+ integration
+gtk-smooth-themes (0.5.8-2.3)
+    A set of themes for the Smooth GTK+ Engine
+gtk-theme-switch (2.1.0-2)
+    GTK+ theme switching utility
+gtk2-engines-aurora (1.5.1-3)
+    Aurora gtk+-2.0 theme engine
+gtk2-engines-moblin (1.1.1-1.1)
+    gtk2 engines for moblin
+gtk2-engines-murrine (0.98.1.1-5)
+    cairo-based gtk+-2.0 theme engine
+gtk2-engines-wonderland (1.0-8)
+    Wonderland theme for GTK+-2.0
+gtk2.0-examples (2.24.10-2)
+    example files for GTK+ 2.0
+gtkcookie (0.4-5)
+    editor for cookie files
+gtkguitune (0.8-6)
+    Guitar and other instruments tuner
+gtklp (1.2.7-2.3)
+    printing tool for CUPS on the GNOME Desktop
+gtktrain (0.9b-13) [contrib]
+    The train-routing calculator with GTK+ interface
+guake (0.4.3-3)
+    Drop-down terminal for GNOME Desktop Environment
+gvidm (0.8-11)
+    quickly and easily change video resolutions in X
+gvncviewer (0.5.0-3.1)
+    VNC viewer using gtk-vnc
+gwaterfall (0.1-5)
+    View all characters of a font in all sizes
+gworkspace-apps-wrappers (0.8.8-1.1)
+    Application wrappers for GWorkspace
+gxneur (0.15.0-2.1)
+    GTK+ frontend for xneur keyboard layout switcher
+hardinfo (0.5.1-1.2)
+    Displays system information
+herbstluftwm (0.3-1)
+    manual tiling window manager for X11
+hotkeys (0.5.7.4-0.3+b1 [amd64, armel, i386, ia64, mips, mipsel, powerpc, s390, sparc], 0.5.7.4-0.3 [armhf, s390x])
+    A hotkeys daemon for your Internet/multimedia keyboard in X
+hpanel (0.3.2-4)
+    minimalist panel for X
+hsetroot (1.0.2-1)
+    tool for compose root-pixmaps for X11
+human-icon-theme (0.28.debian-3.3) [non-free]
+    Human Icon theme
+i3 (4.2-2)
+    metapackage (i3 window manager, screen locker, menu, statusbar)
+i3-wm (4.2-2)
+    improved dynamic tiling window manager
+i3lock (2.4.1-1)
+    improved screen locker
+icewm (1.3.7-4)
+    wonderful Win95-OS/2-Motif-like window manager
+icewm-common (1.3.7-4)
+    wonderful Win95-OS/2-Motif-like window manager
+icewm-experimental (1.3.7-4)
+    wonderful Win95-OS/2-Motif-like window manager
+icewm-lite (1.3.7-4)
+    wonderful Win95-OS/2-Motif-like window manager
+icon-naming-utils (0.8.90-2)
+    script for maintaining backwards compatibility of Tango Project
+idesk (0.7.5-4.2)
+    Program to show icons on the desktop
+im-config (0.21)
+    Input method configuration framework
+im-switch (1.23)
+    Input method switch framework
+im-switch
+    virtual package provided by im-config
+impressive (0.10.3-2)
+    PDF presentation tool with eye candies
+imwheel (1.0.0pre12-9)
+    program to support non-standard buttons on mice in Linux
+intel-gpu-tools (1.2-1)
+    tools for debugging the Intel graphics driver
+isdnutils-xtools (1:3.25+dfsg1-3.3~deb7u1)
+    ISDN utilities - graphical tools
+italc-client (1:1.0.13-1.4)
+    Intelligent Teaching and Learning with Computers - Client
+italc-master (1:1.0.13-1.4)
+    Intelligent Teaching and Learning with Computers - Master
+ivtv-utils (1.4.1-2) [contrib]
+    utilities for use with the ivtv kernel driver
+joy2key (1.6.3-1)
+    Translate joystick movements into equivalent keystrokes
+jumpapplet (20-2)
+    autojump notification icon, to jump to frequently used directories
+jwm (2.1.0-3)
+    very small lightweight pure X11 window manager with tray and menus
+kanjipad (2.0.0-6+b1 [mips, mipsel], 2.0.0-6 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, powerpc, s390, s390x, sparc])
+    handwriting recognition tool for Kanji
+kasumi (2.5-2)
+    Simple dictionary utility for Anthy
+kbdd (0.6-4)
+    Per-window keyboard layout switching daemon for X
+kde-config-touchpad (0.8.1-1)
+    touchpad configuration tool (synaptiks)
+kde-window-manager (4:4.8.4-6)
+    K window manager (KWin)
+kdepim-runtime (4:4.4.11.1-6)
+    runtime components for Akonadi KDE
+kdocker (4.6-2)
+    lets you dock any application into the system tray
+keyjnote (0.10.3-2)
+    PDF presentation tool with eye candies (transition package)
+keyjnote
+    virtual package provided by impressive
+keylaunch (1.3.9)
+    A small utility for binding commands to a hot key
+kic (2.4a-1.1) [non-free]
+    Enhanced KIC layout editor
+kinput2-canna (3.1-10.3)
+    An input server for X11 applications that want Japanese text input
+kinput2-canna-wnn (3.1-10.3)
+    An input server for X11 applications that want Japanese text input
+kinput2-common (3.1-10.3)
+    Files shared among kinput2 packages
+kinput2-wnn (3.1-10.3)
+    An input server for X11 applications that want Japanese text input
+klavaro (1.9.4-2)
+    Flexible touch typing tutor
+kterm (6.2.0-46)
+    Multi-lingual terminal emulator for X
+larswm (7.5.3-6)
+    Lars Window Manager with tiled windows
+launchy (2.5-1)
+    smart search launcher for installed programs or files
+launchy-plugins (2.5-1)
+    plugins for launchy, the smart search launcher
+launchy-skins (2.5-1)
+    more skins for launchy, the smart search launcher
+lesstif-bin (1:0.95.2-1.1)
+    user binaries for LessTif
+libfreerdp-plugins-standard (1.0.1-1.1+deb7u3)
+    RDP client for Windows Terminal Services (plugins)
+libgnomecanvas2-common (2.30.3-1.2)
+    powerful object-oriented display engine - common files
+libitalc (1:1.0.13-1.4)
+    Intelligent Teaching and Learning with Computers - common libraries
+libixp (0.5-5)
+    simple 9P client-/server-library
+libnxcl-bin (0.9-3.1)
+    NX X compression client library---runtime
+libx11-data (2:1.5.0-1+deb7u1)
+    X11 client-side library
+libxfont-dev (1:1.4.5-5) [security]
+    X11 font rasterisation library (development headers)
+libxfont1 (1:1.4.5-5) [security]
+    X11 font rasterisation library
+libxfont1-dbg (1:1.4.5-5) [security]
+    X11 font rasterisation library (debug package)
+lightdm (1.2.2-4)
+    simple display manager
+lightdm-gtk-greeter (1.1.6-2)
+    simple display manager (GTK+ greeter)
+lightdm-vala (1.2.2-4)
+    simple display manager (Vala files)
+lingot (0.9.1-2+b1 [kfreebsd-amd64, kfreebsd-i386], 0.9.1-2 [amd64, armel, armhf, i386, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    accurate and easy to use musical instrument tuner
+ltpanel (0.2-5)
+    lightweight tasklist panel for minimalist WMs
+lwm (1.2.2-4)
+    lightweight window manager
+lxappearance-obconf (0.2.0-4)
+    LXDE GTK+ theme switcher (plugin)
+lxde-common (0.5.5-6)
+    LXDE configuration data
+lxde-icon-theme (0.5.0-1)
+    LXDE standard icon theme
+lxinput (0.3.2-1)
+    LXDE keyboard and mouse configuration
+lxlauncher (0.2.2-3)
+    LXDE launcher for netbooks
+lxmenu-data (0.1.2-2)
+    LXDE freedesktop.org menu specification
+lxpanel (0.5.10-1)
+    LXDE panel
+lxpolkit (0.1.0-4)
+    LXDE PolicyKit authentication agent
+lxrandr (0.1.2-3)
+    LXDE monitor configuration tool
+lxsession (0.4.6.1-4)
+    LXDE default session manager
+lxtask (0.1.4-3)
+    LXDE task manager
+lxterminal (0.1.11-4)
+    LXDE terminal emulator
+mcomix (0.98-1)
+    GTK+ image viewer for comic books
+mesa-utils (8.0.1-2+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, powerpc, s390, sparc], 8.0.1-2+b2 [armhf, mipsel, s390x])
+    Miscellaneous Mesa GL utilities
+metacity (1:2.34.3-4)
+    lightweight GTK+ window manager
+metacity-themes (1.0.11)
+    Themes for the Gtk2 metacity window manager
+mgp (1.13a+upstream20090219-6)
+    MagicPoint- an X11 based presentation tool
+miwm (1.1-3)
+    minimalist window manager with virtual workspaces
+mlterm (3.1.2-1.3)
+    MultiLingual TERMinal
+mlterm-common (3.1.2-1.3)
+    MultiLingual TERMinal, common files
+mlterm-im-ibus (3.1.2-1.3)
+    MultiLingual TERMinal, IBus input method plugin
+mlterm-im-m17nlib (3.1.2-1.3)
+    MultiLingual TERMinal, m17nlib input method plugin
+mlterm-im-scim (3.1.2-1.3)
+    MultiLingual TERMinal, scim input method plugin
+mlterm-im-uim (3.1.2-1.3)
+    MultiLingual TERMinal, uim input method plugin
+mlterm-tiny (3.1.2-1.3)
+    MultiLingual TERMinal, tiny version
+mlterm-tools (3.1.2-1.3)
+    MultiLingual TERMinal, additional tools
+moblin-cursor-theme (0.3-3)
+    moblin cursor theme
+moblin-icon-theme (0.10.0-1)
+    moblin icon theme
+moblin-sound-theme (0.3-1)
+    moblin sound theme
+motif-clients (2.3.3-8) [non-free]
+    Open Motif - X11 clients (mwm, xmbind)
+mpeg2dec (0.4.1-3)
+    Simple libmpeg2 video decoder application
+mrxvt (0.5.4-1.1)
+    lightweight multi-tabbed X terminal emulator - complete version
+mrxvt-cjk (0.5.4-1.1)
+    lightweight multi-tabbed X terminal emulator - CJK version
+mrxvt-common (0.5.4-1.1)
+    lightweight multi-tabbed X terminal emulator - common files
+mrxvt-mini (0.5.4-1.1)
+    lightweight multi-tabbed X terminal emulator - minimalistic version
+murrine-themes (0.98.4)
+    themes for gtk2 murrine engine
+mutter (3.4.1-5)
+    lightweight GTK+ window manager
+nabi (0.99.11-2)
+    Korean X input method server plus imhangul status monitor
+nitrogen (1.5.2-1)
+    wallpaper browser and changing utility for X
+nlkt (0.3.2.2-1)
+    non-linear keyboard trainer
+notebook-gtk2 (0.2rel-2.2)
+    A GTK+ logbook editor
+notification-daemon (0.7.6-1)
+    daemon for displaying passive pop-up notifications
+notification-daemon
+    virtual package provided by xfce4-notifyd, dunst, plasma-widgets-workspace, notify-osd
+notify-osd (0.9.34-2)
+    daemon that displays passive pop-up notifications
+notion (3+2012042300-1) [non-free]
+    tiling tabbed window manager designed for keyboard users
+numlockx (1.2-4)
+    enable NumLock in X11 sessions
+nuvola-icon-theme (4:4.8.4-5)
+    Nuvola icon theme
+nvclock (0.8b4+cvs20100914-4)
+    Overclock an NVIDIA card
+nvclock-gtk (0.8b4+cvs20100914-4)
+    Overclock an NVIDIA card (GTK+ interface)
+nvclock-qt (0.8b4+cvs20100914-4)
+    Overclock an NVIDIA card (Qt interface)
+nvidia-detect (304.125-1) [non-free]
+    NVIDIA GPU detection utility
+nvidia-glx (304.125-1) [non-free]
+    NVIDIA metapackage
+nvidia-glx-legacy-173xx (173.14.35-4) [non-free]
+    NVIDIA metapackage (173xx legacy version)
+nvidia-glx-legacy-96xx (96.43.23-3) [non-free]
+    NVIDIA metapackage (96xx legacy version)
+nvidia-settings (304.88-1) [contrib]
+    Tool for configuring the NVIDIA graphics driver
+nvidia-settings
+    virtual package provided by nvidia-settings-legacy-173xx
+nvidia-settings-legacy-173xx (173.14.35-2) [contrib]
+    Tool for configuring the NVIDIA graphics driver
+nvidia-xconfig (304.48-1) [contrib]
+    X configuration tool for non-free NVIDIA drivers
+nxproxy (3.5.0.12-1+b1 [i386], 3.5.0.12-1 [amd64, armel, armhf, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    NX proxy
+obconf (1:2.0.3+20110805+debian-1)
+    preferences manager for Openbox window manager
+obmenu (1.0-2+nmu1)
+    Graphical menu editor for openbox
+oboinus (2.2-4)
+    background previewer and setter for X implemented in Python
+odot (1.2.0-1)
+    task list manager written in Gtk2-Perl
+olvwm (4.4.3.2p1.4-28.1)
+    OpenLook virtual window manager
+olwm (3.2p1.4-28.1)
+    Open Look Window Manager
+openbox (3.5.0-7)
+    standards compliant, fast, light-weight, extensible window manager
+openbox-themes (1.0.2)
+    Themes for the Openbox window manager
+openlp (1.9.10-1)
+    Church lyrics projection application
+openvrml-lookat (0.18.9-5+deb7u1)
+    VRML viewer
+oroborus (2.0.20)
+    A lightweight themeable windowmanager for X
+osdsh (0.7.0-10)
+    Overlays your screen with various system information
+osmo (0.2.10+svn922-2+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.2.10+svn922-2 [armhf, s390x])
+    personal organizer for GTK+
+oxygen-icon-theme (4:4.8.4-1)
+    Oxygen icon theme
+oxygencursors (0.0.2012-06-kde4.8-2.1)
+    Oxygen mouse cursor theme
+password-gorilla (1.5.3.4-1)
+    cross-platform password manager
+pauker (1.8+dfsg-5)
+    generic card based learning program
+pcf2bdf (1.04-4)
+    convert X11 font from PCF to BDF format
+pclock (0.13.1-6)
+    clock dock app for Window Maker window manager
+pcmanx-gtk2 (1.1-2)
+    user-friendly telnet client mainly targets BBS users
+pdfshuffler (0.6.0-1)
+    merge, split and re-arrange pages from PDF documents
+pekwm (0.1.14-2)
+    very light window manager
+pekwm-themes (1.0.5-3)
+    themes for the pekwm window manager
+perlpanel (1:0.9.1+cvs20051225-2)
+    lean menu and launcher panel written in Perl and Gtk2
+perroquet (1.1.1-3)
+    program to train your oral skills in foreign languages
+pinot (1.0-1)
+    meta-search engine for local files and web queries
+pinpoint (1:0.1.5~20120318-1+b1)
+    hacker-friendly presentation program
+plasmidomics (0.2.0-2)
+    draw plasmids and vector maps with PostScript graphics export
+pngphoon (1.1-2)
+    Creates a png file with the current phase of the moon
+pondus (0.8.0-1)
+    personal weight manager for GTK+2
+pspresent (1.3-4)
+    fullscreen PostScript presentation tool
+pterm (0.62-9+deb7u2) [security]
+    PuTTY terminal emulator
+pyntor (0.6-4)
+    flexible and componentized presentation program
+qbrew (0.4.1-3)
+    Homebrewer's recipe calculator
+qlandkartegt (1.5.0~dfsg1-1+deb7u1)
+    GPS mapping (GeoTiff and vector) and GPSr management
+qmf-examples (1.0.7~2011w23.2-2.1)
+    Qt Messaging Framework (QMF) examples
+qstardict (0.12.9-1.1)
+    International dictionary written using Qt4
+qt4-demos (4:4.8.2+dfsg-11)
+    Qt 4 examples and demos
+qt4-qtconfig (4:4.8.2+dfsg-11)
+    Qt 4 configuration tool
+qtemu (1.0.5-2)
+    graphical user interface for QEMU
+qterm (1:0.5.12-1.1)
+    BBS client for X Window System written in Qt
+qtmobility-examples (1.2.0-3)
+    Qt Mobility examples
+qwo (0.5-2+b2 [ia64], 0.5-2+b1 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    An efficient input method for touch screens
+rabbit (1.0.8-2)
+    presentation tool using RD, a simple text format
+rabbit-mode (1.0.8-2)
+    Emacs-lisp rabbit-mode for writing RD document using Rabbit
+ratmenu (2.3.20)
+    Creates X menus from the shell
+ratpoison (1.4.5-4)
+    keyboard-only window manager
+rdesktop (1.7.1-1)
+    RDP client for Windows NT/2000 Terminal Server and Windows Servers
+recoll (1.17.3-2)
+    Personal full text search package with a Qt GUI
+redet (8.26-1.1)
+    regular expression development and execution tool
+redshift (1.7-2)
+    Adjusts the color temperature of your screen
+rhinote (0.7.4-1)
+    virtual sticky-notes for your desktop
+ristretto (0.3.7-1)
+    lightweight picture-viewer for the Xfce desktop environment
+robojournal (0.2.1-1)
+    cross-platform journal/diary tool
+root-tail (1.2-3)
+    Displays select log files in the X root window
+rox-filer (2.10-3)
+    A simple graphical file manager for X11
+roxterm (2.6.5-1)
+    Multi-tabbed GTK+/VTE terminal emulator - virtual package for GTK3
+roxterm-common (2.6.5-1)
+    Multi-tabbed GTK+/VTE terminal emulator - common files
+roxterm-gtk2 (2.6.5-1)
+    Multi-tabbed GTK+/VTE terminal emulator - GTK2 version
+roxterm-gtk3 (2.6.5-1)
+    Multi-tabbed GTK+/VTE terminal emulator - GTK3 version
+rss-glx (0.9.1-5+b4 [amd64], 0.9.1-5+b3 [armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.9.1-5+b2 [armhf, s390x])
+    Really Slick Screensavers GLX Port
+rubrica (2.0-1.3)
+    An addressbook for the GNOME desktop
+rxvt (1:2.6.4-14)
+    VT102 terminal emulator for the X Window System
+rxvt-beta (2.7.10-6)
+    VT102 terminal emulator for the X Window System
+rxvt-ml (1:2.6.4-14)
+    multi-lingual VT102 terminal emulator for the X Window System
+rxvt-unicode (9.15-2+deb7u1)
+    RXVT-like terminal emulator with Unicode support
+rxvt-unicode
+    virtual package provided by rxvt-unicode-lite, rxvt-unicode-256color
+rxvt-unicode-256color (9.15-2+deb7u1)
+    multi-lingual terminal emulator with Unicode support for X11
+rxvt-unicode-lite (9.15-2+deb7u1)
+    RXVT-like terminal emulator with basic Unicode support
+s3dx11gate (0.2.2-8)
+    3d gateway for x11 desktops
+sakura (3.0.4-2)
+    simple but powerful libvte-based terminal emulator
+sapphire (0.15.8-9)
+    A minimal but configurable X11R6 window manager
+sawfish (1:1.5.3-2.1+b1)
+    a window manager for X11
+sawfish-data (1:1.5.3-2.1)
+    sawfish architecture independent data
+sawfish-merlin-ugliness (1.3.1-1)
+    More flexible functions for sawfish
+sawfish-themes (0.13)
+    Themes for the Sawfish window manager
+scolasync (3.1-1)
+    graphic tool to copy data to or from a set of USB storage media
+slim (1.3.4-2)
+    desktop-independent graphical login manager for X11
+smartdimmer (0.8b4+cvs20100914-4)
+    Change LCD brightness on GeForce cards
+spectrwm (1.0.0-1)
+    dynamic tiling window manager
+spice-vdagent (0.10.1-1)
+    Spice agent for Linux
+squeeze (0.2.3-12)
+    modern and advanced archive manager for Xfce
+ssh-askpass-fullscreen (0.3-3.1)
+    Under Gnome2, asks user for a passphrase for ssh-add
+sshmenu (3.18-2)
+    Menu for quick connections to your remote hosts
+stalonetray (0.8.1-1)
+    Standalone freedesktop.org and KDE systray implementation
+stopmotion (0.6.2+git.1.10d2ea43-1.1)
+    program for creating stop motion animations
+strigi-client (0.7.7-3)
+    Qt4 client for Strigi Desktop Search
+stterm (0.0~20120124+hg226-2)
+    bare bones and simple terminal for windowed system
+stumpwm (1:20110819.gitca08e08-2)
+    tiling, keyboard driven Common Lisp window manager
+subtle (0.11.3224-xi-1)
+    grid-based manual tiling window manager
+suckless-tools (38-2)
+    simple commands for minimalistic window managers
+sucrose-0.96 (0.96.1-2.1)
+    Sugar graphical shell - Sucrose 0.96
+sugar-artwork-0.84 (0.84.4-3)
+    Sugar graphical shell - artwork
+sugar-artwork-0.88 (0.88.1-4)
+    Sugar graphical shell - artwork
+sugar-artwork-0.96 (0.96.2-1)
+    Sugar graphical shell - artwork
+sugar-calculate-activity (40-2)
+    calculate activity for the Sugar graphical shell
+sugar-connect-activity (22-1.1)
+    collaborative activity à la Connect Four
+sugar-emulator-0.96 (0.96.1-2.1)
+    Sugar graphical shell - emulator
+sugar-etoys-activity (116-3) [contrib]
+    Sugar wrapper around the Squeak Etoys programming language
+sugar-irc-activity (8-1.1)
+    Sugar IRC Activity
+sugar-memorize-activity (35-1)
+    Sugar activity for creating and playing matching games
+sugar-physics-activity (7+dfsg-1.1)
+    physics simulator for the Sugar graphical shell
+sugar-pippy-activity (46~dfsg-2)
+    simple Python programming activity for Sugar
+sugar-presence-service-0.84 (0.84.3-1)
+    Sugar graphical shell - presence service
+sugar-presence-service-0.88 (0.88.0-3)
+    Sugar graphical shell - presence service
+sugar-presence-service-0.90 (0.90.2-1)
+    Sugar graphical shell - presence service
+sugar-record-activity (82-1.1)
+    Sugar Record Activity
+sugar-session-0.96 (0.96.1-2.1)
+    Sugar graphical shell - window manager
+sugar-terminal-activity (28-1.1)
+    Sugar Terminal activity
+sugar-tools-0.96 (0.96.1-2.1)
+    Sugar graphical shell - window manager
+sunclock (3.57-2)
+    fancy clock showing time and geographical data
+sunclock-maps (3.57-2)
+    sunclock vector graphic maps
+swisswatch (0.6-14)
+    Swiss Railway Clock for the X Window System
+synergy (1.3.8-2)
+    Share mouse, keyboard and clipboard over the network
+tabble (0.43-1)
+    program launcher with tabs for X
+tangerine-icon-theme (0.26.debian-3) [non-free]
+    Tangerine Icon theme
+tango-icon-theme (0.8.90-5)
+    Tango icon theme
+tdc (1.2-1)
+    Tiny Dockable Clock (tdc) is a simple and tiny dockable clock
+telak (0.6-1)
+    display remote or local pictures on your desktop
+teleport (0.34-7)
+    moves running applications between displays
+termit (2.9.4-2)
+    Simple terminal emulator based on vte library, embedded lua
+tightvncserver (1.3.9-6.4)
+    virtual network computing server software
+tilda (0.09.6-2)
+    terminal emulator with first person shooter console likeness
+tint2 (0.11+svn20111022-3)
+    lightweight taskbar
+tinywm (1.3-9)
+    tiny window manager
+tkdesk (2.0-9.1)
+    Tk/tcl based X11 Desktop/File manager
+torque-client-x11 (2.4.16+dfsg-1+deb7u4)
+    GUI for torque clients
+trayer (1.1.4-2)
+    Lightweight GTK2-based systray for UNIX desktop
+tritium (0.3.8-2)
+    a tabbed/tiling window manager
+ttf-opensymbol (2:102.2+LibO3.5.4+dfsg2-0+deb7u3) [security]
+    transitional package for fonts-opensymbol
+ttf-opensymbol
+    virtual package provided by fonts-opensymbol
+ttf-wqy-microhei (0.2.0-beta-1.1)
+    A droid derived Sans-Seri style CJK font
+twm (1:1.0.6-1+b1 [armhf], 1:1.0.6-1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    Tab window manager
+uim-dict-gtk (1:1.8.1-4)
+    Universal Input Method - GTK+2.x Japanese dictionary tool
+uim-dict-gtk3 (1:1.8.1-4)
+    Universal Input Method - GTK+3.x Japanese dictionary tool
+uim-gtk2.0 (1:1.8.1-4)
+    Universal Input Method - GTK+2.x front end
+uim-gtk3 (1:1.8.1-4)
+    Universal Input Method - GTK+3.x front end
+uim-qt (1:1.8.1-4)
+    Universal Input Method - Qt 4.x front end
+uim-xim (1:1.8.1-4)
+    Universal Input Method - XIM compatibility interface
+unagi (0.3.3-2)
+    Modular X compositing manager
+unagi-dev (0.3.3-2)
+    Modular X compositing manager - development files
+unburden-home-dir (0.3.1.2)
+    Remove or move cache files automatically from user's home
+unclutter (8-18)
+    hides the mouse cursor in X after a period of inactivity
+unicode-screensaver (0.4-1)
+    screensaver displaying unicode characters
+unifont-bin (1:5.1.20080914-1.3)
+    utilities for manipulating the GNU Unifont
+unixodbc-bin (2.3.0-3)
+    Graphical tools for ODBC management and browsing
+usbview (1.1-1)
+    USB device viewer
+usermode (1.109-1)
+    Graphical tools for certain user account management tasks
+v4l2ucp (2.0.2-4)
+    Video for Linux 2 Universal Control Panel
+vala-terminal (1.3-3)
+    Terminal emulator for mobile devices
+vdesk (1.2-3.1)
+    manages virtual desktops for minimal window managers
+vdpau-va-driver (0.7.3-2)
+    VDPAU-based backend for VA API
+vdpauinfo (0.0.6-1)
+    Video Decode and Presentation API for Unix (vdpauinfo utility)
+videogen (0.32-5)
+    Create arbitrary-res modelines using hardware parameters
+virtualbox-guest-x11 (4.1.18-dfsg-2+deb7u4) [security]
+    x86 virtualization solution - X11 guest utilities
+vmware-view-open-client (4.5.0-297975+dfsg-4+b1) [contrib]
+    VMware View Open Client
+vnc4server (4.1.1+X4.3.0-37.1)
+    Virtual network computing server software
+vncsnapshot (1.2a-5.1)
+    A utility that takes JPEG snapshots from VNC servers
+vtwm (5.4.7-2.2+b2 [armel, ia64], 5.4.7-2.2+b1 [i386, kfreebsd-amd64, powerpc], 5.4.7-2.2 [amd64, armhf, kfreebsd-i386, mips, mipsel, s390, s390x, sparc])
+    Virtual Tab Window Manager
+w9wm (0.4.2-7)
+    enhanced window manager based on 9wm
+wavbreaker (0.11-1)
+    tool to split wave files into multiple chunks
+wayv (0.3-5)
+    Experimental hand writing/gesture recognition program
+wbar (1.3.3+dfsg2-1)
+    light and fast launch bar
+wdm (1.28-13+deb7u1)
+    WINGs Display Manager - an xdm replacement with a WindowMaker look
+webissues (1.0.2-1)
+    network system supporting team collaboration
+windowlab (1.40-1)
+    small and simple Amiga-like window manager
+wininfo (0.7-5)
+    dynamic window information viewer
+wm2 (4+svn20090216-2)
+    small, unconfigurable window manager
+wmacpi (2.2~rc5-1)
+    ACPI battery monitor for WindowMaker
+wmail (2.0-3)
+    WindowMaker docklet watching your inbox
+wmaker (0.95.3-2)
+    NeXTSTEP-like window manager for X
+wmaker-common (0.95.3-2)
+    Window Maker - Architecture independent files
+wmaker-data (0.9~3-4)
+    several free icons for use with WindowMaker and others
+wmanager (0.2.1-11)
+    window-manager selection tool used at X startup
+wmbattery (2.41)
+    display laptop battery info, dockable in WindowMaker
+wmbiff (0.4.27-2.1)
+    A dockable app that displays information about mailboxes
+wmbubble (1.46-3)
+    system-load meter for Window Maker that features a duck
+wmbutton (0.6.1-3.1)
+    dockapp displaying nine configurable buttons
+wmcalclock (1.25-15)
+    A dock.app which simply tells time and date
+wmclock (1.0.14-1)
+    dockable clock applet for Window Maker
+wmclockmon (0.8.1-2)
+    Displays a clock in 12/24h mode with alarm mode
+wmcoincoin (2.5.1e-1)
+    Humourous dockapp for browsing DaCode sites' news and board
+wmcpu (1.4-4)
+    Window Maker docking app similar to xosview
+wmcpuload (1.0.1-3.2)
+    Dockapp that displays the current CPU usage
+wmctrl (1.07-7)
+    control an EWMH/NetWM compatible X Window Manager
+wmdate (0.7-4)
+    Calendar for window manager docking bars
+wmdiskmon (0.0.2-2)
+    dockapp to display disk usage
+wmdrawer (0.10.5-1.1)
+    a button launcher
+wmforkplop (0.9.3-2)
+    monitors forking activity and displays top CPU consuming processes
+wmfrog (0.2.0-4)
+    dockapp for graphically indicating the weather
+wmhdplop (0.9.9-2.1)
+    hard drive activity monitor dockapp
+wmifinfo (0.09-5)
+    Dockapp that shows information for all interfaces
+wmifs (1.3b1-20)
+    WindowMaker dock app for monitoring network traffic
+wmii (3.9.2+debian-4)
+    lightweight tabbed and tiled X11 window manager, version 3
+wmitime (0.3-11)
+    clock dock app showing time and internet time
+wmix (3.1-5)
+    Dockapp mixer for OSS
+wmlongrun (0.3.0-pre1-4.2)
+    A program to monitor longrun status
+wmmatrix (0.2-12)
+    View The Matrix in a Window Maker dock application
+wmmemload (0.1.6-7)
+    WindowMaker dockapp to monitor memory and swap usage
+wmmixer (1.7-1)
+    mixer application designed for WindowMaker
+wmmon (1.1+20120402-1)
+    Window Maker dockapp for monitoring system information
+wmmoonclock (1.28-1)
+    WindowMaker moon phase dockapp
+wmnet (1.06-1)
+    network monitor for WindowMaker
+wmnut (0.64-1)
+    WindowMaker dock app that displays UPS statistics from NUT's upsd
+wmpinboard (1.0-11)
+    Window Maker dock applet resembling a miniature pinboard
+wmressel (0.8-5)
+    Dock app to change X11 resolutions
+wmshutdown (0.2-9)
+    dockapp to shutdown or reboot your machine
+wmtemp (0.0.6-3.3)
+    WM dock applet displaying lm_sensors temperature values
+wmtime (1.0b2-10)
+    Window Maker dockapp that displays the time and date
+wmwave (0.4-9+b1 [amd64, armel, i386, ia64, mips, mipsel, powerpc, s390, sparc], 0.4-9 [armhf, s390x])
+    Monitor status of an 802.11 wireless ethernet link
+wmweather (2.4.5-1)
+    WindowMaker dockapp that shows your current weather
+wmweather+ (2.13-1)
+    WindowMaker dock app that shows your current weather
+wmwork (0.2.5-4)
+    Keep track of time worked on projects
+wmxres (1.2-10)
+    dock application to select your display mode among those possible
+worker (2.19.2-2)
+    highly configurable two-paned file manager for X
+worker-data (2.19.2-2)
+    data files for worker
+x-tile (2.2.1-2)
+    tile selected windows in different ways
+x11-apps (7.7~2)
+    X applications
+x11-common (1:7.7+3~deb7u1)
+    X Window System (X.Org) infrastructure
+x11-session-utils (7.6+2)
+    X session utilities
+x11-utils (7.7~1)
+    X11 utilities
+x11-xfs-utils (7.7~1)
+    X font server utilities
+x11-xkb-utils (7.7~1)
+    X11 XKB utilities
+x11-xserver-utils (7.7~3)
+    X server utilities
+x11proto-bigreqs-dev (1:1.1.2-1)
+    X11 Big Requests extension wire protocol
+x11proto-composite-dev (1:0.4.2-2)
+    X11 Composite extension wire protocol
+x11proto-core-dev (7.0.23-1)
+    X11 core wire protocol and auxiliary headers
+x11proto-damage-dev (1:1.2.1-2)
+    X11 Damage extension wire protocol
+x11proto-dmx-dev (1:2.3.1-2)
+    X11 Distributed Multihead X extension wire protocol
+x11proto-dri2-dev (2.6-2)
+    X11 DRI2 extension wire protocol
+x11proto-fixes-dev (1:5.0-2)
+    X11 Fixes extension wire protocol
+x11proto-fonts-dev (2.1.2-1)
+    X11 font extension wire protocol
+x11proto-gl-dev (1.4.15-1)
+    X11 OpenGL extension wire protocol
+x11proto-input-dev (2.2-1)
+    X11 Input extension wire protocol
+x11proto-kb-dev (1.0.6-2)
+    X11 XKB extension wire protocol
+x11proto-print-dev (1.0.5-2)
+    X11 Printing extension (Xprint) wire protocol
+x11proto-randr-dev (1.3.2-2)
+    X11 RandR extension wire protocol
+x11proto-record-dev (1.14.2-1)
+    X11 Record extension wire protocol
+x11proto-render-dev (2:0.11.1-2)
+    X11 Render extension wire protocol
+x11proto-resource-dev (1.2.0-3)
+    X11 Resource extension wire protocol
+x11proto-scrnsaver-dev (1.2.2-1)
+    X11 Screen Saver extension wire protocol
+x11proto-video-dev (2.3.1-2)
+    X11 Video extension wire protocol
+x11proto-xcmisc-dev (1.2.2-1)
+    X11 XC-Miscellaneous extension wire protocol
+x11proto-xext-dev (7.2.1-1)
+    X11 various extension wire protocol
+x11proto-xf86bigfont-dev (1.2.0-3)
+    X11 Big Fonts extension wire protocol
+x11proto-xf86dga-dev (2.1-3)
+    X11 Direct Graphics Access extension wire protocol
+x11proto-xf86dri-dev (2.1.1-2)
+    X11 DRI extension wire protocol
+x11proto-xf86vidmode-dev (2.3.1-2)
+    X11 Video Mode extension wire protocol
+x11proto-xinerama-dev (1.2.1-2)
+    X11 Xinerama extension wire protocol
+x11vnc (0.9.13-1)
+    VNC server to allow remote access to an existing X session
+x11vnc-data (0.9.13-1)
+    data files for x11vnc
+x2goclient (3.99.2.1-5)
+    X2Go Client application (Qt4)
+x2goplugin (3.99.2.1-5)
+    X2Go Client (Qt4) as browser plugin
+x2vnc (1.7.2-5)
+    Link a VNC and an X display together, simulating a multiheaded display
+x2x (1.27.svn.20060501-4)
+    Link two X displays together, simulating a multiheaded display
+xapm (3.2.2-14+b1 [armel, ia64, powerpc], 3.2.2-14 [amd64, armhf, i386, mips, mipsel, s390, s390x, sparc])
+    X program to monitor APM battery status
+xarchiver (1:0.5.2+20090319+dfsg-4.1)
+    GTK+ frontend for most used compression formats
+xarclock (1.0-13)
+    reversed xclock
+xauth (1:1.0.7-1)
+    X authentication utility
+xautolock (1:2.2-3)
+    Program launcher for idle X sessions
+xautomation (1.03-1.1)
+    Control X from the command line, and find things on the screen
+xaw3dg (1.5+E-18.2)
+    Xaw3d widget set
+xbacklight (1.1.2-1)
+    simple utility to set the backlight level
+xbase-clients (1:7.7+3~deb7u1)
+    miscellaneous X clients - metapackage
+xbattbar (1.4.3-1)
+    Display battery status in X11
+xbindkeys (1.8.5-1)
+    Associate a combination of keys or mouse buttons with a shell command
+xbindkeys-config (0.1.3-2)
+    an easy to use gtk program for configuring Xbindkeys
+xbitmaps (1.1.1-1)
+    Base X bitmaps
+xca (0.9.3-1)
+    x509 Certification Authority management tool based on QT4
+xcalib (0.8.dfsg1-2)
+    Tiny monitor calibration loader for Xorg
+xcb (2.4-4.3)
+    Pigeon holes for your cut and paste selections
+xchm (2:1.20-1)
+    Compiled HTML Help (CHM) file viewer for X
+xclip (0.12+svn84-2)
+    command line interface to X selections
+xcolors (1.5a-7)
+    display all X11 color names and colors
+xcolorsel (1.1a-17)
+    display colors and names in X
+xcompmgr (1.1.5-1)
+    X composition manager
+xcursor-themes (1.0.3-1)
+    Base X cursor themes
+xdaliclock (2.36+debian-1)
+    Melting digital clock
+xdiskusage (1.48-10.1)
+    Displays a graphic of your disk usage with du
+xdm (1:1.1.11-1)
+    X display manager
+xdmx (2:1.12.4-6+deb7u6) [security]
+    distributed multihead X server
+xdmx-tools (2:1.12.4-6+deb7u6) [security]
+    Distributed Multihead X tools
+xdotool (1:2.20100701.2961-3+deb7u3)
+    simulate X11 keyboard/mouse input
+xfe (1.32.5-2)
+    lightweight file manager for X11
+xfe-themes (1.32.5-2)
+    lightweight file manager for X11 (themes)
+xfonts-traditional (1.6)
+    Traditional fixed-width fonts for X
+xfonts-utils (1:7.7~1)
+    X Window System font utility programs
+xfs (1:1.0.8-7)
+    X font server
+xfstt (1.9-2)
+    X Font Server for TrueType fonts
+xicc (0.2-3)
+    set the ICC colour profile for an X display
+xinit (1.3.2-1)
+    X server initialisation tool
+xinput (1.6.0-1)
+    Runtime configuration and test of XInput devices
+xipmsg (0.8088-2.1)
+    A pop up style message communication software
+xiterm+thai (1.10-2)
+    X terminal program with Thai languague support
+xkb-data (2.5.1-3)
+    X Keyboard Extension (XKB) configuration data
+xkbind (2010.05.20-1)
+    X Keyboard Extension Indicator
+xkbset (0.5-5.1)
+    Small utility to change the AccessX settings of XKEYBOARD
+xkeycaps (2.47-4)
+    manipulate X11 keymaps (for xmodmap) graphically
+xlassie (1.8-21)
+    Dockable mail notifier w/ message count & POP3/APOP/IMAP support
+xmanpages-ja (4.1.0.20011224-6)
+    Japanese manual pages for X
+xmem (1.20-27.2)
+    Visual indicator of amount of memory/swap usage
+xmobar (0.14-4)
+    Lightweight status bar for X11 window managers with UTF-8 and Xft support
+xmonad (0.10-4+b2 [amd64, armhf, i386, powerpc, s390, sparc], 0.10-4+b1 [armel, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390x])
+    Lightweight X11 window manager written in Haskell
+xmotd (1.17.3b-5)
+    a message of the day browser for X
+xnee (3.13-1)
+    X event recorder/replayer - metapackage
+xnest (2:1.12.4-6+deb7u6) [security]
+    Nested X server
+xnetcardconfig (0.2.1-1)
+    A simple network card configuration wizard for X
+xneur (0.15.0-1.1)
+    in-place conversion of text typed in with a wrong keyboard layout
+xoo (0.8-1.1)
+    graphical wrapper around Xnest/Xephyr
+xorg (1:7.7+3~deb7u1)
+    X.Org X Window System
+xorg-dev (1:7.7+3~deb7u1)
+    X.Org X Window System development libraries
+xorg-sgml-doctools (1:1.10-1)
+    Common tools for building X.Org SGML documentation
+xoscope (2.0-3.2)
+    digital oscilloscope
+xosd-bin (2.2.14-2)
+    X On-Screen Display library - binary files
+xournal (0.4.6~pre20110721-1+b1)
+    GTK+ Application for note taking
+xpad (4.1-1)
+    sticky note application for X
+xpmutils (1:3.5.10-1)
+    X11 pixmap utilities
+xpp (1.5-cvs20050828-1.2)
+    X Printing Panel
+xpra (0.3.11+dfsg-1)
+    tool to detach/reattach running X programs
+xprintidle (0.2-5)
+    Small utility that prints user's idle time in X
+xresprobe (0.4.23debian1-1)
+    X Resolution Probe
+xrestop (0.4-7)
+    X11 server resource usage monitor
+xrootconsole (1:0.6-2)
+    Fancy X console display
+xrsh (5.92-8)
+    remote execution of XWindow programs
+xscreensaver (5.15-3)
+    Automatic screensaver for X
+xscreensaver-data (5.15-3)
+    data files to be shared among screensaver frontends
+xscreensaver-data-extra (5.15-3)
+    data files to be shared among screensaver frontends
+xscreensaver-gl (5.15-3)
+    GL(Mesa) screen hacks for xscreensaver
+xscreensaver-gl-extra (5.15-3)
+    GL(Mesa) screen hacks for xscreensaver
+xscreensaver-screensaver-bsod (5.15-3)
+    BSOD hack from XScreenSaver
+xscreensaver-screensaver-webcollage (5.15-3)
+    Webcollage hack from XScreenSaver
+xsel (1.2.0-1)
+    command-line tool to access X clipboard and selection buffers
+xsensors (0.70-2)
+    hardware health information viewer
+xserver-common (2:1.12.4-6+deb7u6) [security]
+    common files used by various X servers
+xserver-xephyr (2:1.12.4-6+deb7u6) [security]
+    nested X server
+xserver-xfbdev (2:1.12.4-6+deb7u6) [security]
+    Linux framebuffer device tiny X server
+xserver-xorg (1:7.7+3~deb7u1)
+    X.Org X server
+xserver-xorg-core (2:1.12.4-6+deb7u6) [security]
+    Xorg X server - core server
+xserver-xorg-core-dbg (2:1.12.4-6+deb7u6) [security]
+    Xorg - the X.Org X server (debugging symbols)
+xserver-xorg-dev (2:1.12.4-6+deb7u6) [security]
+    Xorg X server - development files
+xserver-xorg-input-acecad (1:1.5.0-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, sparc], 1:1.5.0-1+b1 [armhf])
+    X.Org X server -- AceCad input driver
+xserver-xorg-input-aiptek (1:1.4.1-1+b3 [ia64], 1:1.4.1-1+b2 [amd64, armel, i386, mips, mipsel, powerpc, sparc], 1:1.4.1-1+b1 [armhf])
+    X.Org X server -- Aiptek input driver
+xserver-xorg-input-all (1:7.7+3~deb7u1)
+    X.Org X server -- input driver metapackage
+xserver-xorg-input-elographics (1:1.4.1-1)
+    X.Org X server -- ELOGraphics input driver
+xserver-xorg-input-evdev (1:2.7.0-1+b2 [ia64], 1:2.7.0-1+b1 [amd64, armel, armhf, i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    X.Org X server -- evdev input driver
+xserver-xorg-input-joystick (1:1.6.1-1+b1)
+    X.Org X server -- joystick input driver
+xserver-xorg-input-kbd (1:1.6.1-1+b1)
+    X.Org X server -- keyboard input driver
+xserver-xorg-input-mouse (1:1.7.2-3)
+    X.Org X server -- mouse input driver
+xserver-xorg-input-mtrack (0.2.0-3)
+    Multitouch X input driver
+xserver-xorg-input-multitouch (1.0~rc2+git20110312-2+b2 [ia64], 1.0~rc2+git20110312-2+b1 [amd64, armel, armhf, i386, mips, mipsel, powerpc, sparc])
+    Multitouch X input driver
+xserver-xorg-input-mutouch (1:1.3.0-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, sparc], 1:1.3.0-1+b1 [armhf])
+    X.Org X server -- muTouch input driver
+xserver-xorg-input-synaptics (1.6.2-2)
+    Synaptics TouchPad driver for X.Org server
+xserver-xorg-input-vmmouse (1:12.9.0-1)
+    X.Org X server -- VMMouse input driver to use with VMWare
+xserver-xorg-input-void (1:1.4.0-1+b1)
+    X.Org X server -- void input driver
+xserver-xorg-input-wacom (0.15.0+20120515-2)
+    X.Org X server -- Wacom input driver
+xserver-xorg-video-all (1:7.7+3~deb7u1)
+    X.Org X server -- output driver metapackage
+xserver-xorg-video-apm (1:1.2.3-3)
+    X.Org X server -- APM display driver
+xserver-xorg-video-ark (1:0.7.4-1+b1)
+    X.Org X server -- ark display driver
+xserver-xorg-video-ati (1:6.14.4-8)
+    X.Org X server -- AMD/ATI display driver wrapper
+xserver-xorg-video-chips (1:1.2.4-2)
+    X.Org X server -- Chips display driver
+xserver-xorg-video-cirrus (1:1.4.0-2)
+    X.Org X server -- Cirrus display driver
+xserver-xorg-video-dummy (1:0.3.5-2+b1)
+    X.Org X server -- dummy display driver
+xserver-xorg-video-fbdev (1:0.4.2-4+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, sparc], 1:0.4.2-4+b1 [armhf])
+    X.Org X server -- fbdev display driver
+xserver-xorg-video-geode (2.11.13-3)
+    X.Org X server -- Geode GX2/LX display driver
+xserver-xorg-video-glamo (0.0.0+20100630.git16af3c00-3.1)
+    X.Org X server -- SMedia Glamo display driver
+xserver-xorg-video-glide (1.2.0-1+b1)
+    X.Org X server -- Glide display driver
+xserver-xorg-video-glint (1:1.2.7-1+b1)
+    X.Org X server -- Glint display driver
+xserver-xorg-video-i128 (1:1.3.5-1+b1)
+    X.Org X server -- i128 display driver
+xserver-xorg-video-i740 (1:1.3.2-4+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, sparc], 1:1.3.2-4+b1 [armhf])
+    X.Org X server -- i740 display driver
+xserver-xorg-video-intel (2:2.19.0-6)
+    X.Org X server -- Intel i8xx, i9xx display driver
+xserver-xorg-video-ivtv (1.1.2-1+b3) [contrib]
+    X.Org X server -- IVTV display driver
+xserver-xorg-video-mach64 (6.9.1-2)
+    X.Org X server -- ATI Mach64 display driver
+xserver-xorg-video-mga (1:1.5.0-3)
+    X.Org X server -- MGA display driver
+xserver-xorg-video-modesetting (0.3.0-1)
+    X.Org X server -- Generic modesetting driver
+xserver-xorg-video-msm (1.0.1+git20100122.5f7df591-3)
+    MSM/QSD X Window Enablement Project
+xserver-xorg-video-neomagic (1:1.2.6-1)
+    X.Org X server -- Neomagic display driver
+xserver-xorg-video-newport (1:0.2.3-2+b3)
+    X.Org X server -- Newport display driver
+xserver-xorg-video-nouveau (1:1.0.1-5)
+    X.Org X server -- Nouveau display driver
+xserver-xorg-video-nvidia (304.125-1) [non-free]
+    NVIDIA binary Xorg driver
+xserver-xorg-video-nvidia-legacy-173xx (173.14.35-4) [non-free]
+    NVIDIA binary Xorg driver (173xx legacy version)
+xserver-xorg-video-nvidia-legacy-96xx (96.43.23-3) [non-free]
+    NVIDIA binary Xorg driver (96xx legacy version)
+xserver-xorg-video-omap3 (0.1.1.1-1+b3 [armel], 0.1.1.1-1+b1 [armhf])
+    X.Org X server -- Omapfb display driver (NEON optimized)
+xserver-xorg-video-omapfb (0.1.1.1-1+b3 [armel], 0.1.1.1-1+b1 [armhf])
+    X.Org X server -- Omapfb display driver
+xserver-xorg-video-openchrome (1:0.2.906-2+deb7u1)
+    X.Org X server -- VIA display driver
+xserver-xorg-video-qxl (0.0.17-2+b1)
+    X.Org X server -- QXL display driver
+xserver-xorg-video-r128 (6.8.2-1)
+    X.Org X server -- ATI r128 display driver
+xserver-xorg-video-radeon (1:6.14.4-8)
+    X.Org X server -- AMD/ATI Radeon display driver
+xserver-xorg-video-rendition (1:4.2.4-3)
+    X.Org X server -- Rendition display driver
+xserver-xorg-video-s3 (1:0.6.3-5)
+    X.Org X server -- legacy S3 display driver
+xserver-xorg-video-s3virge (1:1.10.4-5)
+    X.Org X server -- S3 ViRGE display driver
+xserver-xorg-video-savage (1:2.3.4-1)
+    X.Org X server -- Savage display driver
+xserver-xorg-video-siliconmotion (1:1.7.6-1)
+    X.Org X server -- SiliconMotion display driver
+xserver-xorg-video-sis (1:0.10.4-1)
+    X.Org X server -- SiS display driver
+xserver-xorg-video-sisusb (1:0.9.4-3)
+    X.Org X server -- SiS USB display driver
+xserver-xorg-video-suncg14 (1:1.1.1-5+b3)
+    X.Org X server -- Sun CG14 display driver
+xserver-xorg-video-suncg3 (1:1.1.1-5+b3)
+    X.Org X server -- Sun CG3 display driver
+xserver-xorg-video-suncg6 (1:1.1.1-5+b3)
+    X.Org X server -- Sun CG6 display driver
+xserver-xorg-video-sunffb (1:1.2.1-4+b3)
+    X.Org X server -- Sun FFB display driver
+xserver-xorg-video-sunleo (1:1.2.0-5+b3)
+    X.Org X server -- Sun Leo display driver
+xserver-xorg-video-suntcx (1:1.1.1-5+b3)
+    X.Org X server -- Sun TCX display driver
+xserver-xorg-video-tdfx (1:1.4.4-1)
+    X.Org X server -- tdfx display driver
+xserver-xorg-video-tga (1:1.2.1-4+b3)
+    X.Org X server -- TGA display driver
+xserver-xorg-video-trident (1:1.3.5-1)
+    X.Org X server -- Trident display driver
+xserver-xorg-video-tseng (1:1.2.4-3)
+    X.Org X server -- Tseng display driver
+xserver-xorg-video-vesa (1:2.3.1-1+b2 [kfreebsd-amd64, kfreebsd-i386], 1:2.3.1-1+b1 [amd64, armel, armhf, i386, ia64, mips, mipsel, powerpc, sparc])
+    X.Org X server -- VESA display driver
+xserver-xorg-video-vmware (1:12.0.2-1+b1)
+    X.Org X server -- VMware display driver
+xserver-xorg-video-voodoo (1:1.2.4-2+b3 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, sparc], 1:1.2.4-2+b1 [armhf])
+    X.Org X server -- Voodoo display driver
+xserver-xspice (0.0.17-2+b1)
+    Xspice X server
+xterm (278-4)
+    X terminal emulator
+xtermcontrol (2.10-1)
+    dynamic configuration of xterm properties
+xtermset (0.5.2-5)
+    change the characteristics of an xterm
+xtightvncviewer (1.3.9-6.4)
+    virtual network computing client software for X
+xtrace (1.3.1-1)
+    trace communication between X client and server
+xtrans-dev (1.2.7-1)
+    X transport library (development files)
+xtrlock (2.2)
+    Minimal X display lock program
+xttitle (1.0-5)
+    Changes X terminal emulator window titles
+xtv (1.1-12)
+    View the screen of a remote X11 display
+xutils (1:7.7+3~deb7u1)
+    X Window System utility programs metapackage
+xutils-dev (1:7.7~1)
+    X Window System utility programs for development
+xvfb (2:1.12.4-6+deb7u6) [security]
+    Virtual Framebuffer 'fake' X server
+xview-clients (3.2p1.4-28.1)
+    XView client programs
+xview-examples (3.2p1.4-28.1)
+    XView contrib programs
+xviewg (3.2p1.4-28.1)
+    XView shared libraries
+xvkbd (3.0-1)
+    software virtual keyboard for X11
+xvt (2.1-20.1)
+    X terminal-emulator similar to xterm, but smaller
+xwit (3.4-14)
+    collection of simple routines to call some X11 functions
+xwrits (2.21-6.1)
+    reminds you to take a break from typing
+xxkb (1.11-2.1)
+    Keyboard state indicator and switcher for xkb
+xzoom (0.3-23)
+    magnify part of X display, with real-time updates
+yeahconsole (0.3.4-2.1)
+    drop-down X terminal emulator wrapper
+zekr (1.0.0+repack-7) [non-free]
+    Quranic Study Tool
+zim (0.56-1)
+    graphical text editor based on wiki technologies 

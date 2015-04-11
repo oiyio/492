@@ -1,0 +1,790 @@
+aegisub-l10n (2.1.9-1)
+    aegisub language packages
+calligra-l10n-ca (1:2.4.3-1)
+    Catalan (ca) localization files for Calligra
+calligra-l10n-cavalencia (1:2.4.3-1)
+    Southern Catalan (Valencian) (ca@valencia) files for Calligra
+calligra-l10n-cs (1:2.4.3-1)
+    Czech (cs) localization files for Calligra
+calligra-l10n-da (1:2.4.3-1)
+    Danish (da) localization files for Calligra
+calligra-l10n-de (1:2.4.3-1)
+    German (de) localization files for Calligra
+calligra-l10n-el (1:2.4.3-1)
+    Greek (el) localization files for Calligra
+calligra-l10n-engb (1:2.4.3-1)
+    British English (en_GB) localization files for Calligra
+calligra-l10n-es (1:2.4.3-1)
+    Spanish (es) localization files for Calligra
+calligra-l10n-et (1:2.4.3-1)
+    Estonian (et) localization files for Calligra
+calligra-l10n-fi (1:2.4.3-1)
+    Finnish (fi) localization files for Calligra
+calligra-l10n-fr (1:2.4.3-1)
+    French (fr) localization files for Calligra
+calligra-l10n-hu (1:2.4.3-1)
+    Hungarian (hu) localization files for Calligra
+calligra-l10n-it (1:2.4.3-1)
+    Italian (it) localization files for Calligra
+calligra-l10n-kk (1:2.4.3-1)
+    Kazakh (kk) localization files for Calligra
+calligra-l10n-nb (1:2.4.3-1)
+    Norwegian Bookmal (nb) localization files for Calligra
+calligra-l10n-nds (1:2.4.3-1)
+    Low Saxon (nds) localization files for Calligra
+calligra-l10n-nl (1:2.4.3-1)
+    Dutch (nl) localization files for Calligra
+calligra-l10n-pl (1:2.4.3-1)
+    Polish (pl) localization files for Calligra
+calligra-l10n-pt (1:2.4.3-1)
+    Portuguese (pt) localization files for Calligra
+calligra-l10n-ptbr (1:2.4.3-1)
+    Brazilian Portuguese (pt_BR) localization files for Calligra
+calligra-l10n-ru (1:2.4.3-1)
+    Russian (ru) localization files for Calligra
+calligra-l10n-sk (1:2.4.3-1)
+    Slovakian (sk) localization files for Calligra
+calligra-l10n-sv (1:2.4.3-1)
+    Swedish (sv) localization files for Calligra
+calligra-l10n-uk (1:2.4.3-1)
+    Ukrainian (uk) localization files for Calligra
+calligra-l10n-zhcn (1:2.4.3-1)
+    Chinese Simplified (zh_CN) localization files for Calligra
+calligra-l10n-zhtw (1:2.4.3-1)
+    Chinese Traditional (zh_TW) localization files for Calligra
+childsplay-alphabet-sounds-ca (0.9.1-2)
+    Catalan sound files for childsplay
+childsplay-alphabet-sounds-de (0.9.1-2)
+    German sound files for childsplay
+childsplay-alphabet-sounds-es (0.9.1-2)
+    Spanish sound files for childsplay
+childsplay-alphabet-sounds-fr (0.9.1-2)
+    French sound files for childsplay
+childsplay-alphabet-sounds-it (0.9.1-2)
+    Italian sound files for childsplay
+childsplay-alphabet-sounds-nl (0.9.1-1)
+    Dutch sound files for childsplay
+childsplay-alphabet-sounds-pt (0.9.1-1)
+    Portugese sound files for childsplay
+childsplay-alphabet-sounds-ru (0.9.1-1)
+    Russian sound files for childsplay
+childsplay-alphabet-sounds-sv (0.9.2-1)
+    Swedish sound files for childsplay
+chromium-l10n (37.0.2062.120-1~deb7u1)
+    chromium-browser language packages
+claws-mail-i18n (3.8.1-2)
+    Locale data for Claws Mail (i18n support)
+debconf-i18n (1.5.49)
+    full internationalization support for debconf
+famfamfam-flag-gif (0.1-2)
+    Free collection of countries' flags
+famfamfam-flag-png (0.1-2)
+    Free collection of countries' flags
+freemedforms-i18n (0.7.6-1)
+    translations of the FreeMedForms project
+gcc-4.4-locales (4.4.7-2)
+    GCC, the GNU compiler collection (native language support files)
+gcc-4.6-locales (4.6.3-14)
+    GCC, the GNU compiler collection (native language support files)
+gcc-4.7-locales (4.7.2-5)
+    GCC, the GNU compiler collection (native language support files)
+gutenprint-locales (5.2.9-1)
+    locale data files for Gutenprint
+icedove-l10n-all (1:31.2.0-1~deb7u1)
+    All language packages for Icedove (meta)
+icedove-l10n-ar (1:31.2.0-1~deb7u1)
+    Arabic language package for Icedove
+icedove-l10n-ast (1:31.2.0-1~deb7u1)
+    Asturian language package for Icedove
+icedove-l10n-be (1:31.2.0-1~deb7u1)
+    Belarusian language package for Icedove
+icedove-l10n-bg (1:31.2.0-1~deb7u1)
+    Bulgarian language package for Icedove
+icedove-l10n-bn-bd (1:31.2.0-1~deb7u1)
+    Bengali language package for Icedove
+icedove-l10n-br (1:31.2.0-1~deb7u1)
+    Breton language package for Icedove
+icedove-l10n-ca (1:31.2.0-1~deb7u1)
+    Catalan/Valencian language package for Icedove
+icedove-l10n-cs (1:31.2.0-1~deb7u1)
+    Czech language package for Icedove
+icedove-l10n-da (1:31.2.0-1~deb7u1)
+    Danish language package for Icedove
+icedove-l10n-de (1:31.2.0-1~deb7u1)
+    German language package for Icedove
+icedove-l10n-el (1:31.2.0-1~deb7u1)
+    Greek language package for Icedove
+icedove-l10n-en-gb (1:31.2.0-1~deb7u1)
+    English (Great Britain) language package for Icedove
+icedove-l10n-es-ar (1:31.2.0-1~deb7u1)
+    Spanish (Argentina) language package for Icedove
+icedove-l10n-es-es (1:31.2.0-1~deb7u1)
+    Spanish (Spain) language package for Icedove
+icedove-l10n-et (1:31.2.0-1~deb7u1)
+    Estonian language package for Icedove
+icedove-l10n-eu (1:31.2.0-1~deb7u1)
+    Basque language package for Icedove
+icedove-l10n-fi (1:31.2.0-1~deb7u1)
+    Finnish language package for Icedove
+icedove-l10n-fr (1:31.2.0-1~deb7u1)
+    French language package for Icedove
+icedove-l10n-fy-nl (1:31.2.0-1~deb7u1)
+    Frisian language package for Icedove
+icedove-l10n-ga-ie (1:31.2.0-1~deb7u1)
+    Irish (Ireland) language package for Icedove
+icedove-l10n-gd (1:31.2.0-1~deb7u1)
+    Gaelic (Scottish) language package for Icedove
+icedove-l10n-gl (1:31.2.0-1~deb7u1)
+    Galician language package for Icedove
+icedove-l10n-he (1:31.2.0-1~deb7u1)
+    Hebrew language package for Icedove
+icedove-l10n-hr (1:31.2.0-1~deb7u1)
+    Croatian language package for Icedove
+icedove-l10n-hu (1:31.2.0-1~deb7u1)
+    Hungarian language package for Icedove
+icedove-l10n-hy-am (1:31.2.0-1~deb7u1)
+    Armenian language package for Icedove
+icedove-l10n-id (1:31.2.0-1~deb7u1)
+    Indonesian language package for Icedove
+icedove-l10n-is (1:31.2.0-1~deb7u1)
+    Icelandic language package for Icedove
+icedove-l10n-it (1:31.2.0-1~deb7u1)
+    Italian language package for Icedove
+icedove-l10n-ja (1:31.2.0-1~deb7u1)
+    Japanese language package for Icedove
+icedove-l10n-ko (1:31.2.0-1~deb7u1)
+    Korean language package for Icedove
+icedove-l10n-lt (1:31.2.0-1~deb7u1)
+    Lithuanian language package for Icedove
+icedove-l10n-nb-no (1:31.2.0-1~deb7u1)
+    Bokmaal (Norway) language package for Icedove
+icedove-l10n-nl (1:31.2.0-1~deb7u1)
+    Dutch language package for Icedove
+icedove-l10n-nn-no (1:31.2.0-1~deb7u1)
+    Nynorsk (Norway) language package for Icedove
+icedove-l10n-pa-in (1:31.2.0-1~deb7u1)
+    Punjabi (India) language package for Icedove
+icedove-l10n-pl (1:31.2.0-1~deb7u1)
+    Polish language package for Icedove
+icedove-l10n-pt-br (1:31.2.0-1~deb7u1)
+    Portuguese (Brazil) language package for Icedove
+icedove-l10n-pt-pt (1:31.2.0-1~deb7u1)
+    Portuguese (Portugal) language package for Icedove
+icedove-l10n-rm (1:31.2.0-1~deb7u1)
+    Romansh language package for Icedove
+icedove-l10n-ro (1:31.2.0-1~deb7u1)
+    Romania language package for Icedove
+icedove-l10n-ru (1:31.2.0-1~deb7u1)
+    Russian language package for Icedove
+icedove-l10n-si (1:31.2.0-1~deb7u1)
+    Sinhala language package for Icedove
+icedove-l10n-sk (1:31.2.0-1~deb7u1)
+    Slovak language package for Icedove
+icedove-l10n-sl (1:31.2.0-1~deb7u1)
+    Slovenian language package for Icedove
+icedove-l10n-sq (1:31.2.0-1~deb7u1)
+    Albanian language package for Icedove
+icedove-l10n-sr (1:31.2.0-1~deb7u1)
+    Serbian language package for Icedove
+icedove-l10n-sv-se (1:31.2.0-1~deb7u1)
+    Swedish (Sweden) language package for Icedove
+icedove-l10n-ta-lk (1:31.2.0-1~deb7u1)
+    Tamil language package for Icedove
+icedove-l10n-tr (1:31.2.0-1~deb7u1)
+    Turkish language package for Icedove
+icedove-l10n-uk (1:31.2.0-1~deb7u1)
+    Ukrainian language package for Icedove
+icedove-l10n-vi (1:31.2.0-1~deb7u1)
+    Vietnamese language package for Icedove
+icedove-l10n-zh-cn (1:31.2.0-1~deb7u1)
+    Chinese (China) language package for Icedove
+icedove-l10n-zh-tw (1:31.2.0-1~deb7u1)
+    Chinese (Taiwan) language package for Icedove
+iceweasel-l10n-ach (1:31.6.0esr-1~deb7u1) [security]
+    Acoli language package for Iceweasel
+iceweasel-l10n-ak (1:24.8.1esr-1~deb7u1)
+    Akan language package for Iceweasel
+iceweasel-l10n-an (1:31.6.0esr-1~deb7u1) [security]
+    Aragonese language package for Iceweasel
+iceweasel-l10n-as (1:31.6.0esr-1~deb7u1) [security]
+    Assamese language package for Iceweasel
+iceweasel-l10n-ast (1:31.6.0esr-1~deb7u1) [security]
+    Asturian language package for Iceweasel
+iceweasel-l10n-bn-bd (1:31.6.0esr-1~deb7u1) [security]
+    Bengali (Bangladesh) language package for Iceweasel
+iceweasel-l10n-br (1:31.6.0esr-1~deb7u1) [security]
+    Breton language package for Iceweasel
+iceweasel-l10n-bs (1:31.6.0esr-1~deb7u1) [security]
+    Bosnian language package for Iceweasel
+iceweasel-l10n-en-za (1:31.6.0esr-1~deb7u1) [security]
+    English (South Africa) language package for Iceweasel
+iceweasel-l10n-es-cl (1:31.6.0esr-1~deb7u1) [security]
+    Spanish (Chile) language package for Iceweasel
+iceweasel-l10n-es-mx (1:31.6.0esr-1~deb7u1) [security]
+    Spanish (Mexico) language package for Iceweasel
+iceweasel-l10n-fa (1:31.6.0esr-1~deb7u1) [security]
+    Persian language package for Iceweasel
+iceweasel-l10n-ff (1:31.6.0esr-1~deb7u1) [security]
+    Fulah language package for Iceweasel
+iceweasel-l10n-gd (1:31.6.0esr-1~deb7u1) [security]
+    Scottish Gaelic language package for Iceweasel
+iceweasel-l10n-hr (1:31.6.0esr-1~deb7u1) [security]
+    Croatian language package for Iceweasel
+iceweasel-l10n-hsb (1:31.6.0esr-1~deb7u1) [security]
+    Upper Sorbian language package for Iceweasel
+iceweasel-l10n-hy-am (1:31.6.0esr-1~deb7u1) [security]
+    Armenian (Armenia) language package for Iceweasel
+iceweasel-l10n-kk (1:31.6.0esr-1~deb7u1) [security]
+    Kazakh language package for Iceweasel
+iceweasel-l10n-km (1:31.6.0esr-1~deb7u1) [security]
+    Central Khmer language package for Iceweasel
+iceweasel-l10n-lg (1:24.8.1esr-1~deb7u1)
+    Ganda language package for Iceweasel
+iceweasel-l10n-lij (1:31.6.0esr-1~deb7u1) [security]
+    Ligurian language package for Iceweasel
+iceweasel-l10n-mai (1:31.6.0esr-1~deb7u1) [security]
+    Maithili language package for Iceweasel
+iceweasel-l10n-ml (1:31.6.0esr-1~deb7u1) [security]
+    Malayalam language package for Iceweasel
+iceweasel-l10n-ms (1:31.6.0esr-1~deb7u1) [security]
+    Malay language package for Iceweasel
+iceweasel-l10n-nso (1:24.8.1esr-1~deb7u1)
+    Northern Sotho language package for Iceweasel
+iceweasel-l10n-or (1:31.6.0esr-1~deb7u1) [security]
+    Oriya language package for Iceweasel
+iceweasel-l10n-rm (1:31.6.0esr-1~deb7u1) [security]
+    Romansh language package for Iceweasel
+iceweasel-l10n-son (1:31.6.0esr-1~deb7u1) [security]
+    Songhai languages language package for Iceweasel
+iceweasel-l10n-ta (1:31.6.0esr-1~deb7u1) [security]
+    Tamil language package for Iceweasel
+iceweasel-l10n-ta-lk (1:24.8.1esr-1~deb7u1)
+    Tamil (Sri Lanka) language package for Iceweasel
+iceweasel-l10n-vi (1:31.6.0esr-1~deb7u1) [security]
+    Vietnamese language package for Iceweasel
+iceweasel-l10n-xh (1:31.6.0esr-1~deb7u1) [security]
+    Xhosa language package for Iceweasel
+iceweasel-l10n-zu (1:31.6.0esr-1~deb7u1) [security]
+    Zulu language package for Iceweasel
+islamic-menus (1.0.5-1)
+    Islamic menu categories for applications under GNOME and KDE
+k3b-i18n (2.0.2-6)
+    Sophisticated CD/DVD burning application - localizations files
+kde-l10n-ar (4:4.8.4-2)
+    Arabic (ar) localization files for KDE
+kde-l10n-bg (4:4.8.4-2)
+    Bulgarian (bg) localization files for KDE
+kde-l10n-bs (4:4.8.4-2)
+    Bosnian (bs) localization files for KDE
+kde-l10n-ca (4:4.8.4-2)
+    Catalan (ca) localization files for KDE
+kde-l10n-cavalencia (4:4.8.4-2)
+    Southern Catalan (Valencian) (ca@valencia) files for KDE
+kde-l10n-cs (4:4.8.4-2)
+    Czech (cs) localization files for KDE
+kde-l10n-da (4:4.8.4-2)
+    Danish (da) localization files for KDE
+kde-l10n-de (4:4.8.4-2)
+    German (de) localization files for KDE
+kde-l10n-el (4:4.8.4-2)
+    Greek (el) localization files for KDE
+kde-l10n-engb (4:4.8.4-2)
+    British English (en_GB) localization files for KDE
+kde-l10n-es (4:4.8.4-2)
+    Spanish (es) localization files for KDE
+kde-l10n-et (4:4.8.4-2)
+    Estonian (et) localization files for KDE
+kde-l10n-eu (4:4.8.4-2)
+    Basque (eu) localization files for KDE
+kde-l10n-fa (4:4.8.4-2)
+    Farsi (fa) localization files for KDE
+kde-l10n-fi (4:4.8.4-2)
+    Finnish (fi) localization files for KDE
+kde-l10n-fr (4:4.8.4-2)
+    French (fr) localization files for KDE
+kde-l10n-ga (4:4.8.4-2)
+    Irish Gaelic (ga) localization files for KDE
+kde-l10n-gl (4:4.8.4-2)
+    Galician (gl) localization files for KDE
+kde-l10n-he (4:4.8.4-2)
+    Hebrew (he) localization files for KDE
+kde-l10n-hr (4:4.8.4-2)
+    Croatian (hr) localization files for KDE
+kde-l10n-hu (4:4.8.4-2)
+    Hungarian (hu) localization files for KDE
+kde-l10n-ia (4:4.8.4-2)
+    Interlingua (ia) localization files for KDE
+kde-l10n-id (4:4.8.4-2)
+    Indonesian (id) localization files for KDE
+kde-l10n-is (4:4.8.4-2)
+    Icelandic (is) localization files for KDE
+kde-l10n-it (4:4.8.4-2)
+    Italian (it) localization files for KDE
+kde-l10n-ja (4:4.8.4-2)
+    Japanese (ja) localization files for KDE
+kde-l10n-kk (4:4.8.4-2)
+    Kazakh (kk) localization files for KDE
+kde-l10n-km (4:4.8.4-2)
+    Khmer (km) localization files for KDE
+kde-l10n-ko (4:4.8.4-2)
+    Korean (ko) localization files for KDE
+kde-l10n-lt (4:4.8.4-2)
+    Lithuanian (lt) localization files for KDE
+kde-l10n-lv (4:4.8.4-2)
+    Latvian (lv) localization files for KDE
+kde-l10n-nb (4:4.8.4-2)
+    Norwegian Bookmal (nb) localization files for KDE
+kde-l10n-nds (4:4.8.4-2)
+    Low Saxon (nds) localization files for KDE
+kde-l10n-nl (4:4.8.4-2)
+    Dutch (nl) localization files for KDE
+kde-l10n-nn (4:4.8.4-2)
+    Norwegian Nynorsk (nn) localization files for KDE
+kde-l10n-pa (4:4.8.4-2)
+    Punjabi (pa) localization files for KDE
+kde-l10n-pl (4:4.8.4-2)
+    Polish (pl) localization files for KDE
+kde-l10n-pt (4:4.8.4-2)
+    Portuguese (pt) localization files for KDE
+kde-l10n-ptbr (4:4.8.4-2)
+    Brazilian Portuguese (pt_BR) localization files for KDE
+kde-l10n-ro (4:4.8.4-2)
+    Romanian (ro) localization files for KDE
+kde-l10n-ru (4:4.8.4-2)
+    Russian (ru) localization files for KDE
+kde-l10n-si (4:4.8.4-2)
+    Sinhala (si) localization files for KDE
+kde-l10n-sk (4:4.8.4-2)
+    Slovakian (sk) localization files for KDE
+kde-l10n-sl (4:4.8.4-2)
+    Slovenian (sl) localization files for KDE
+kde-l10n-sr (4:4.8.4-2)
+    Serbian (sr) localization files for KDE
+kde-l10n-sv (4:4.8.4-2)
+    Swedish (sv) localization files for KDE
+kde-l10n-tg (4:4.8.4-2)
+    Tajik (tg) localization files for KDE
+kde-l10n-th (4:4.8.4-2)
+    Thai (th) localization files for KDE
+kde-l10n-tr (4:4.8.4-2)
+    Turkish (tr) localization files for KDE
+kde-l10n-ug (4:4.8.4-2)
+    Uygur (ug) localization files for KDE
+kde-l10n-uk (4:4.8.4-2)
+    Ukrainian (uk) localization files for KDE
+kde-l10n-vi (4:4.8.4-2)
+    Vietnamese (vi) localization files for KDE
+kde-l10n-wa (4:4.8.4-2)
+    Walloon (wa) localization files for KDE
+kde-l10n-zhcn (4:4.8.4-2)
+    Chinese Simplified (zh_CN) localization files for KDE
+kde-l10n-zhtw (4:4.8.4-2)
+    Chinese Traditional (zh_TW) localization files for KDE
+kdevelop-l10n (4:4.3.1-3)
+    localization files for the KDevelop IDE
+kdevelop-php-docs-l10n (1.3.1-2)
+    localization files for KDevelop PHP documentation plugin
+kdevelop-php-l10n (1.3.1-2)
+    localization files for KDevelop PHP plugin
+kdevplatform-l10n (1.3.1-2)
+    language package for the KDevelop platform
+kile-l10n (1:2.1.0-1)
+    KDE Integrated LaTeX Environment (localization)
+krb5-locales (1.10.1+dfsg-5+deb7u3) [security]
+    Internationalization support for MIT Kerberos
+libclaw-i18n (1.7.0-3)
+    Internationalisation files for libclaw.
+libgammu-i18n (1.31.90-1)
+    mobile phone management library (i18n files)
+libgphoto2-l10n (2.4.14-2)
+    gphoto2 digital camera library - localized messages
+libktorrent-l10n (1.2.1-1)
+    localization files for the KTorrent library
+libparted0-i18n (2.3-12)
+    disk partition manipulator - i18n support
+libqofexpensesobjects-data (0.1.9-2)
+    QOF expenses objects - translations
+libreoffice-l10n-af (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Afrikaans language package
+libreoffice-l10n-ar (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Arabic language package
+libreoffice-l10n-as (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Assamese language package
+libreoffice-l10n-ast (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Asturian language package
+libreoffice-l10n-be (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Belarussian language package
+libreoffice-l10n-bg (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Bulgarian language package
+libreoffice-l10n-bn (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Bengali language package
+libreoffice-l10n-br (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Breton language package
+libreoffice-l10n-bs (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Bosnian language package
+libreoffice-l10n-ca (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Catalan language package
+libreoffice-l10n-cs (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Czech language package
+libreoffice-l10n-cy (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Welsh language package
+libreoffice-l10n-da (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Danish language package
+libreoffice-l10n-de (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- German language package
+libreoffice-l10n-dz (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Dzongkha language package
+libreoffice-l10n-el (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Greek language package
+libreoffice-l10n-en-gb (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- English_british language package
+libreoffice-l10n-en-za (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- English_southafrican language package
+libreoffice-l10n-eo (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Esperanto language package
+libreoffice-l10n-es (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Spanish language package
+libreoffice-l10n-et (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Estonian language package
+libreoffice-l10n-eu (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Basque language package
+libreoffice-l10n-fa (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Farsi language package
+libreoffice-l10n-fi (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Finnish language package
+libreoffice-l10n-fr (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- French language package
+libreoffice-l10n-ga (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Gaelic language package
+libreoffice-l10n-gl (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Galician language package
+libreoffice-l10n-gu (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Gujarati language package
+libreoffice-l10n-he (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Hebrew language package
+libreoffice-l10n-hi (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Hindi language package
+libreoffice-l10n-hr (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Croatian language package
+libreoffice-l10n-hu (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Hungarian language package
+libreoffice-l10n-id (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Indonesian language package
+libreoffice-l10n-in (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Indic language packages
+libreoffice-l10n-is (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Icelandic language package
+libreoffice-l10n-it (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Italian language package
+libreoffice-l10n-ja (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Japanese language package
+libreoffice-l10n-ka (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Georgian language package
+libreoffice-l10n-km (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Khmer language package
+libreoffice-l10n-ko (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Korean language package
+libreoffice-l10n-ku (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Kurdish language package
+libreoffice-l10n-lt (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Lithuanian language package
+libreoffice-l10n-lv (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Latvian language package
+libreoffice-l10n-mk (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Macedonian language package
+libreoffice-l10n-ml (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Malayalam language package
+libreoffice-l10n-mn (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Mongolian language package
+libreoffice-l10n-mr (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Marathi language package
+libreoffice-l10n-nb (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Norwegian language package
+libreoffice-l10n-ne (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Nepalese language package
+libreoffice-l10n-nl (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Dutch language package
+libreoffice-l10n-nn (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Norwegian_nynorsk language package
+libreoffice-l10n-nr (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Ndebele language package
+libreoffice-l10n-nso (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Northern_sotho language package
+libreoffice-l10n-oc (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Occitan language package
+libreoffice-l10n-om (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Oromo language package
+libreoffice-l10n-or (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Oriya language package
+libreoffice-l10n-pa-in (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Punjabi language package
+libreoffice-l10n-pl (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Polish language package
+libreoffice-l10n-pt (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Portuguese language package
+libreoffice-l10n-pt-br (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Portuguese_brazilian language package
+libreoffice-l10n-ro (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Romanian language package
+libreoffice-l10n-ru (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Russian language package
+libreoffice-l10n-rw (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Kinarwanda language package
+libreoffice-l10n-si (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Sinhala language package
+libreoffice-l10n-sk (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Slovak language package
+libreoffice-l10n-sl (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Slovenian language package
+libreoffice-l10n-sr (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Serbian language package
+libreoffice-l10n-ss (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Swazi language package
+libreoffice-l10n-st (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Southern_sotho language package
+libreoffice-l10n-sv (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Swedish language package
+libreoffice-l10n-ta (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Tamil language package
+libreoffice-l10n-te (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Telugu language package
+libreoffice-l10n-tg (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Tajik language package
+libreoffice-l10n-th (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Thai language package
+libreoffice-l10n-tn (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Tswana language package
+libreoffice-l10n-tr (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Turkish language package
+libreoffice-l10n-ts (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Tsonga language package
+libreoffice-l10n-ug (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Uighur language package
+libreoffice-l10n-uk (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Ukrainian language package
+libreoffice-l10n-uz (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Uzbek language package
+libreoffice-l10n-ve (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Venda language package
+libreoffice-l10n-vi (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Vietnamese language package
+libreoffice-l10n-xh (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Xhosa language package
+libreoffice-l10n-za (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- South African language packages
+libreoffice-l10n-zh-cn (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Chinese_simplified language package
+libreoffice-l10n-zh-tw (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Chinese_traditional language package
+libreoffice-l10n-zu (1:3.5.4+dfsg2-0+deb7u3) [security]
+    office productivity suite -- Zulu language package
+menu-l10n (0.20120730)
+    localized menu entries for Debian menu.
+museeq-locales (1:0.2+svn20100315.r1208-2)
+    Translations for museeq
+openoffice.org-l10n-af (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Afrikaans language package
+openoffice.org-l10n-ar (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Arabic language package
+openoffice.org-l10n-as (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Assamese language package
+openoffice.org-l10n-ast (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Asturian language package
+openoffice.org-l10n-be-by (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Belarussian language package
+openoffice.org-l10n-bg (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Bulgarian language package
+openoffice.org-l10n-bn (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Bengali language package
+openoffice.org-l10n-br (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Breton language package
+openoffice.org-l10n-bs (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Bosnian language package
+openoffice.org-l10n-ca (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Catalan language package
+openoffice.org-l10n-cs (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Czech language package
+openoffice.org-l10n-cy (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Welsh language package
+openoffice.org-l10n-da (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Danish language package
+openoffice.org-l10n-de (1:3.4.0~ooo340m1-7)
+    office productivity suite -- German language package
+openoffice.org-l10n-dz (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Dzongkha language package
+openoffice.org-l10n-el (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Greek language package
+openoffice.org-l10n-en-gb (1:3.4.0~ooo340m1-7)
+    office productivity suite -- English_british language package
+openoffice.org-l10n-en-za (1:3.4.0~ooo340m1-7)
+    office productivity suite -- English_southafrican language package
+openoffice.org-l10n-eo (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Esperanto language package
+openoffice.org-l10n-es (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Spanish language package
+openoffice.org-l10n-et (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Estonian language package
+openoffice.org-l10n-eu (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Basque language package
+openoffice.org-l10n-fa (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Farsi language package
+openoffice.org-l10n-fi (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Finnish language package
+openoffice.org-l10n-fr (1:3.4.0~ooo340m1-7)
+    office productivity suite -- French language package
+openoffice.org-l10n-ga (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Gaelic language package
+openoffice.org-l10n-gl (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Galician language package
+openoffice.org-l10n-gu (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Gujarati language package
+openoffice.org-l10n-he (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Hebrew language package
+openoffice.org-l10n-hi-in (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Hindi language package
+openoffice.org-l10n-hr (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Croatian language package
+openoffice.org-l10n-hu (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Hungarian language package
+openoffice.org-l10n-id (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Indonesian language package
+openoffice.org-l10n-in (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Indic language packages
+openoffice.org-l10n-it (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Italian language package
+openoffice.org-l10n-ja (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Japanese language package
+openoffice.org-l10n-ka (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Georgian language package
+openoffice.org-l10n-km (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Khmer language package
+openoffice.org-l10n-ko (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Korean language package
+openoffice.org-l10n-ku (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Kurdish language package
+openoffice.org-l10n-lt (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Lithuanian language package
+openoffice.org-l10n-lv (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Latvian language package
+openoffice.org-l10n-mk (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Macedonian language package
+openoffice.org-l10n-ml (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Malayalam language package
+openoffice.org-l10n-mn (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Mongolian language package
+openoffice.org-l10n-mr (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Marathi language package
+openoffice.org-l10n-nb (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Norwegian language package
+openoffice.org-l10n-ne (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Nepalese language package
+openoffice.org-l10n-nl (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Dutch language package
+openoffice.org-l10n-nn (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Norwegian_nynorsk language package
+openoffice.org-l10n-nr (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Ndebele language package
+openoffice.org-l10n-ns (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Northern_sotho language package
+openoffice.org-l10n-oc (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Occitan language package
+openoffice.org-l10n-om (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Oromo language package
+openoffice.org-l10n-or (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Oriya language package
+openoffice.org-l10n-pa-in (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Punjabi language package
+openoffice.org-l10n-pl (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Polish language package
+openoffice.org-l10n-pt (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Portuguese language package
+openoffice.org-l10n-pt-br (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Portuguese_brazilian language package
+openoffice.org-l10n-ro (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Romanian language package
+openoffice.org-l10n-ru (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Russian language package
+openoffice.org-l10n-rw (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Kinarwanda language package
+openoffice.org-l10n-si (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Sinhala language package
+openoffice.org-l10n-sk (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Slovak language package
+openoffice.org-l10n-sl (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Slovenian language package
+openoffice.org-l10n-sr (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Serbian language package
+openoffice.org-l10n-ss (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Swazi language package
+openoffice.org-l10n-st (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Southern_sotho language package
+openoffice.org-l10n-sv (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Swedish language package
+openoffice.org-l10n-ta (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Tamil language package
+openoffice.org-l10n-te (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Telugu language package
+openoffice.org-l10n-tg (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Tajik language package
+openoffice.org-l10n-th (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Thai language package
+openoffice.org-l10n-tn (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Tswana language package
+openoffice.org-l10n-tr (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Turkish language package
+openoffice.org-l10n-ts (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Tsonga language package
+openoffice.org-l10n-ug (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Uighur language package
+openoffice.org-l10n-uk (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Ukrainian language package
+openoffice.org-l10n-uz (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Uzbek language package
+openoffice.org-l10n-ve (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Venda language package
+openoffice.org-l10n-vi (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Vietnamese language package
+openoffice.org-l10n-xh (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Xhosa language package
+openoffice.org-l10n-za (1:3.4.0~ooo340m1-7)
+    office productivity suite -- South African language packages
+openoffice.org-l10n-zh-cn (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Chinese_simplified language package
+openoffice.org-l10n-zh-tw (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Chinese_traditional language package
+openoffice.org-l10n-zu (1:3.4.0~ooo340m1-7)
+    office productivity suite -- Zulu language package
+pennmush-i18n (1.8.2p8-1.1)
+    i18n support files for the PennMUSH virtual world server
+phpbb3-l10n (3.0.10-4+deb7u1)
+    additional language files for phpBB
+pysycache-i18n (3.1-3)
+    Translations for PySyCache
+qtcurve-i18n (1.8.12-2)
+    Translation files for QtCurve
+qtmobility-l10n (1.2.0-3)
+    APIs for mobile device functionality - localization files
+rpm-i18n (4.10.0-5+deb7u2) [security]
+    localization and localized man pages for rpm
+squid-langpack (20120616-1)
+    Localized error pages for Squid
+squirrelmail-locales (1.4.18-20090526-1)
+    Translations for the SquirrelMail Webmail package
+sylpheed-i18n (3.2.0-1)
+    Locale data for Sylpheed (i18n support)
+tegaki-zinnia-japanese (0.3-1)
+    Japanese handwriting model for Zinnia
+tegaki-zinnia-simplified-chinese (0.3-1)
+    Simplified Chinese handwriting model for Zinnia
+tryton-modules-account-de-skr03 (2.2.0-2)
+    Tryton Application Platform (Financial and Accounting Module for Germany)
+tzdata (2014j-0wheezy1)
+    time zone and daylight-saving time data
+util-linux-locales (2.20.1-5.3)
+    Locales files for util-linux
+wordpress-l10n (3.6.1+dfsg-1~deb7u5)
+    weblog manager - language files
+wx2.8-i18n (2.8.12.1-12)
+    wxWidgets Cross-platform C++ GUI toolkit (i18n support)
+xfe-i18n (1.32.5-2)
+    lightweight file manager for X11 (i18n support) 

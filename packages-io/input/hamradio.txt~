@@ -1,0 +1,137 @@
+
+acfax (981011-14.1)
+    Receive faxes using your radio and sound card
+aldo (0.7.6-1)
+    Morse code training program
+antennavis (0.3.1-2)
+    antenna radiation pattern visualization software
+aprsd (1:2.2.5-13-5.2)
+    Internet Gateway for the Automatic Position Reporting System
+aprsdigi (2.4.4-3.2)
+    digipeater for APRS
+ax25-node (0.3.2-7.4)
+    Amateur Packet Radio Node program
+ax25-tools (0.0.10-rc2+cvs20120204-3)
+    tools for AX.25 interface configuration
+ax25-xtools (0.0.10-rc2+cvs20120204-3)
+    tools for AX.25 interface configuration -- X11-based
+baycomepp (0.10-12.2)
+    Drivers for the HB9JNX packet radio epp modem
+baycomusb (0.10-12.1)
+    Drivers for the HB9JNX packet radio usb modem
+chirp (0.1.12-1)
+    Configuration tool for amateur radios
+colrconv (0.99.3-4)
+    Convers client with curses color support
+cqrlog (1.4.1-1)
+    Advanced logging program for hamradio operators
+cutesdr (1.0.5-3)
+    simple demodulation and spectrum display program
+cw (3.0.2-1)
+    Morse code tutor - command line user interface
+cwcp (3.0.2-1)
+    Morse code tutor - text user interface
+cwdaemon (0.9.5-1)
+    morse daemon for the parallel or serial port
+cwirc (2.0.0-5)
+    X-Chat morse plugin
+d-rats (0.3.3-3)
+    Communications tool for D-STAR amateur radio
+fbb (7.04j-8.2)
+    Packet radio mailbox and utilities
+fccexam (1.0.3-1)
+    Study tool for USA FCC commercial radio license exams.
+fldigi (3.21.48-1)
+    digital modem program for hamradio operators
+gcb (1:1.07-3)
+    Utility to calculate long and short path to a location
+glfer (0.4.2-2)
+    program for reception and transmission of QRSS/DFCW signals
+gmfsk (0.6+0.7pre1-2.3)
+    MFSK, RTTY and other digital mode terminal for HF/amateur radio
+gpredict (1.3-2+b1 [armel, armhf, mips, mipsel, powerpc, s390, sparc], 1.3-2 [amd64, i386, ia64, kfreebsd-amd64, kfreebsd-i386, s390x])
+    Satellite tracking program
+gpsk31 (0.5-6)
+    GTK-based psk31
+grig (0.8.0-1)
+    graphical user interface to the Ham Radio Control Libraries
+gsmc (1.1-1.1)
+    Smith Chart calculator for impedance matching
+hamexam (1.2.0-1)
+    Study tool for USA FCC amateur radio (ham) exams.
+hamfax (0.8.1-1+b1)
+    Receive/send radio facsimile transmissions with Soundcard/PTC-II
+hamradiomenus (1.2+nmu1)
+    hamradio menus for GNOME and KDE
+icom (20040912-1.1)
+    Software control for ICOM radios with CI-V interface
+klog (0.5.9-1)
+    KDE ham radio logging program
+libhamlib-utils (1.2.15.1-1)
+    Utilities to support the hamlib radio control library
+linpsk (1.1-1.1+b1 [kfreebsd-amd64, kfreebsd-i386], 1.1-1.1 [amd64, armel, armhf, i386, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    program for operating PSK31/RTTY modes with X GUI
+morse (2.4-2)
+    training program about morse-code for aspiring radio hams
+multimon (1.0-5)
+    Linux Radio Transmission Decoder
+nec (2-16+b1 [ia64], 2-16 [amd64, armel, armhf, i386, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc])
+    NEC2 Antenna Modelling System
+nec2c (0.8-3)
+    translation of the NEC2 FORTRAN source code to the C language
+node (0.3.2-7.4)
+    Amateur Packet Radio Node program (transitional package)
+owx (0~20110415-3.1)
+    utility to program Wouxun dual-band handheld radios
+p10cfgd (1.0-14)
+    Remote configuration daemon for Gracilis Packeten
+predict (2.2.3-3.1)
+    Satellite Tracking Program with Optional Voice Output
+predict-gsat (2.2.3-3.1)
+    Graphical Satellite Tracking Client Program
+qantenna (0.2.3-2)
+    Qt based program for viewing antennas as described by NEC files
+qrq (0.3.0-2)
+    high speed morse trainer, similar to DL4MM's Rufz
+qsstv (7.1.7-3)
+    Qt-based slow-scan TV and fax
+quisk (3.6.2-1)
+    Software Defined Radio (SDR)
+soundmodem (0.16-1+b1)
+    Sound Card Amateur Packet Radio Modems
+splat (1.4.0-2)
+    analyze point-to-point terrestrial RF communication links
+tk2 (1.1-9.1)
+    Tk GUI for the ICOM IC-R2 receiver
+tk5 (0.6-6.1)
+    Experimental Software for the ICOM IC-R5 Receiver
+trustedqsl (1.13-3)
+    QSL log signing for the Logbook of the World (LoTW)
+tucnak2 (2.47-2+deb7u1)
+    VHF/UHF/SHF Hamradio contest log version 2
+twclock (3.1-1)
+    World clock for ham radio operators
+twpsk (4.0-1)
+    Soundcard-based X program for operating PSK31
+wsjt (5.9.7.r383-1.6)
+    weak-signal amateur radio communications
+wwl (1.3+db-1.1)
+    Calculates distance and azimuth between two Maidenhead locators
+xcwcp (3.0.2-1)
+    Morse code tutor - graphical user interface
+xdemorse (1.3-6)
+    GTK+ Morse Code Decoding Software
+xlog (2.0.5-2)
+    GTK+ Logging program for Hamradio Operators
+xlog-data (2.0.5-2)
+    data for xlog, a GTK+ Logging program for Hamradio Operators
+xnec2c (1:1.4-1)
+    calculate and display radio antenna properties
+xnecview (1.35-7.1)
+    NEC structure and gain pattern viewer
+xsmc-calc (1.0.0-6.1)
+    Smith Chart calculator for X
+yagiuda (1.19-8)
+    software to analyse performance of Yagi-Uda antennas
+z8530-utils2 (3.0-1-6.1)
+    Utilities for Z8530 based HDLC cards for AX.25 

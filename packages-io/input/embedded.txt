@@ -1,0 +1,48 @@
+gpe (0.2.9-1.1)
+    The G Palmtop Environment (GPE) metapackage
+gpe-conf (0.2.9-1.1)
+    configuration toolset for GPE
+gpe-login (0.95-2)
+    login window for the G Palmtop Environment
+gpe-ownerinfo (0.28-3)
+    details of the GPE device owner
+gpe-ownerinfo-dev (0.28-3)
+    access the device owner information
+libgtkstylus (0.3-2)
+    stylus tap support for Gtk+
+libts-bin (1.0-11)
+    touch screen library utilities
+literki (0.0.0+20100113.git1da40724-1)
+    Keyboard with configurable layout and transparency
+matchbox (1:5)
+    base X environment for resource-limited systems
+matchbox-common (0.9.1-5)
+    common files for Matchbox Project applications
+matchbox-desktop (2.0-4)
+    desktop application launcher for resource-limited systems
+matchbox-keyboard (0.1+svn20080916-9+b1)
+    on-screen keyboard
+matchbox-keyboard-im (0.1+svn20080916-9+b1)
+    on-screen keyboard
+matchbox-panel (0.9.3-8)
+    desktop panel for resource-limited systems
+matchbox-panel-manager (0.1-6)
+    panel manager for matchbox-panel
+matchbox-themes-extra (0.3-3)
+    extra themes for matchbox-window-manager
+matchbox-window-manager (1.2-osso21-1+b1)
+    window manager for resource-limited systems
+openocd (0.5.0-1)
+    Open on-chip JTAG debug solution for ARM and MIPS systems
+openwince-include (0.3.2-3.1)
+    Common include files for the open wince project
+openwince-jtag (0.5.1-6)
+    allows programming jtag capable devices such as CPUs or FPGAs
+tsconf (1.0-11)
+    touch screen library common files
+urjtag (0.10+r2007-1)
+    JTAG programmer for various flash parts and boards
+usbprog (0.2.0-2)
+    Firmware programming tool for the USBprog hardware
+usbprog-gui (0.2.0-2)
+    GUI firmware programming tool for the USBprog hardware 

@@ -1,0 +1,1760 @@
+a2jmidid (7+dfsg0-1)
+    Daemon for exposing legacy ALSA MIDI in JACK MIDI systems
+abcde (2.5.3-1)
+    A Better CD Encoder
+abcmidi (20070318-2)
+    converter from ABC to MIDI format and back
+abcmidi-yaps (20070318-2)
+    yet another ABC to PostScript converter
+abgate (1.1.6-1)
+    LV2 noise gate plugin
+abraca (0.7.0-1)
+    Simple and powerful graphical client for XMMS2
+aconnectgui (0.9.0rc2-1-9)
+    graphical ALSA sequencer connection manager
+acoustid-fingerprinter (0.4-2)
+    Acoustid fingerprinter
+adplay (1.6-1.1)
+    console-based OPL2 audio player
+aeolus (0.8.4-6)
+    Synthesised pipe organ emulator
+aj-snapshot (0.9.6-1)
+    make snapshots of JACK connections
+aliki (0.1.0-1)
+    Measurement tool for Impulse Responses
+alsa-base (1.0.25+3~deb7u1)
+    ALSA driver configuration files
+alsa-firmware-loaders (1.0.25-2) [contrib]
+    ALSA software loaders for specific hardware
+alsa-oss (1.0.25-1)
+    ALSA wrapper for OSS applications
+alsa-tools (1.0.25-2)
+    Console based ALSA utilities for specific hardware
+alsa-tools-gui (1.0.25-2)
+    GUI based ALSA utilities for specific hardware
+alsa-utils (1.0.25-4)
+    Utilities for configuring and using ALSA
+alsamixergui (0.9.0rc2-1-9.1)
+    graphical soundcard mixer for ALSA soundcard driver
+alsaplayer-alsa (0.99.80-5.1)
+    PCM player designed for ALSA (ALSA output module)
+alsaplayer-common (0.99.80-5.1)
+    PCM player designed for ALSA (common files)
+alsaplayer-daemon (0.99.80-5.1)
+    PCM player designed for ALSA (non-interactive version)
+alsaplayer-esd (0.99.80-5.1)
+    PCM player designed for ALSA (EsounD output module)
+alsaplayer-gtk (0.99.80-5.1)
+    PCM player designed for ALSA (GTK+ version)
+alsaplayer-jack (0.99.80-5.1)
+    PCM player designed for ALSA (JACK output module)
+alsaplayer-nas (0.99.80-5.1)
+    PCM player designed for ALSA (NAS output module)
+alsaplayer-oss (0.99.80-5.1)
+    PCM player designed for ALSA (OSS output module)
+alsaplayer-text (0.99.80-5.1)
+    PCM player designed for ALSA (text version)
+alsaplayer-xosd (0.99.80-5.1)
+    PCM player designed for ALSA (osd version)
+alsoft-conf (1.4.3-1)
+    OpenAL-Soft configuration utility
+amarok (2.6~beta1+75.g47e75df-1)
+    easy to use media player based on the KDE Platform
+amarok-common (2.6~beta1+75.g47e75df-1)
+    architecture independent files for Amarok
+amb-plugins (0.8.1-3)
+    ambisonics LADPSA plugins
+ambdec (0.5.1-2)
+    Ambisonic decoder for first and second order
+ample (0.5.7-7)
+    A simple MP3 server easy to use
+ams (2.0.1-5)
+    Realtime modular synthesizer for ALSA
+amsynth (1.3.0-2)
+    two oscillator software synthesizer
+aqualung (0.9~beta11-1.2+b1)
+    Gapless Gtk-based audio player
+ardour (1:2.8.14-2)
+    digital audio workstation (graphical gtk2 interface)
+ardour
+    virtual package provided by ardour-altivec, ardour-i686
+ardour-altivec (1:2.8.14-2)
+    digital audio workstation (graphical gtk2 interface) [altivec]
+ardour-i686 (1:2.8.14-2)
+    digital audio workstation (graphical gtk2 interface) [i686]
+arename (4.0-2)
+    automatic audio file renaming tool
+ario (1.5.1-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.5.1-1 [armhf, s390x])
+    GTK+ client for the Music Player Daemon (MPD)
+ario-common (1.5.1-1)
+    GTK+ client for the Music Player Daemon (MPD) (Common files)
+ascd (0.13.2-5)
+    CD player and mixer
+ascdc (0.3-14)
+    AfterStep CD changer
+asmixer (0.5-14)
+    AfterStep audio mixer
+asunder (2.2-1)
+    graphical audio CD ripper and encoder
+aubio-tools (0.3.2-4.2+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.3.2-4.2 [armhf, s390x])
+    a library for audio segmentation -- utilities
+audacious (3.2.4-1)
+    small and fast audio player which supports lots of formats
+audacious-dumb (0.80-1)
+    audacious plugin for MOD playback via libdumb
+audacious-plugins (3.2.4-1)
+    Base plugins for audacious
+audacious-plugins-data (3.2.4-1)
+    Data files for Audacious plugins
+audacity (2.0.1-1)
+    fast, cross-platform audio editor
+audacity-data (2.0.1-1)
+    fast, cross-platform audio editor (data)
+audiolink (0.05-1.2)
+    makes managing and searching for music easier
+audiopreview (0.6-2)
+    command-line tool to play previews of audio and video files
+audtty (0.1.12-3)
+    ncurses based frontend to audacious
+aumix (2.9.1-2)
+    Simple text-based mixer control program
+aumix
+    virtual package provided by aumix-gtk
+aumix-common (2.9.1-2)
+    Simple text-based mixer control program (common files)
+aumix-gtk (2.9.1-2)
+    Simple mixer control program with GUI and text interfaces
+autotalent (0.2-2)
+    pitch correction LADSPA plugin
+awesfx (0.5.1a-1.1)
+    utility programs for AWE32/64 and Emu10k1 driver
+azr3-jack (1.2.3-1)
+    drawbar organ simulator
+banshee (2.4.1-3+b1)
+    Media Management and Playback application
+banshee-extension-alarm (2.4.0-1)
+    Alarm extension for Banshee
+banshee-extension-albumartwriter (2.4.0-1)
+    Album art writer extension for Banshee
+banshee-extension-ampache (2.4.0-1)
+    Ampache extension for Banshee
+banshee-extension-coverwallpaper (2.4.0-1)
+    Cover wallpaper extension for Banshee
+banshee-extension-duplicatesongdetector (2.4.0-1)
+    Duplicate song detector extension for Banshee
+banshee-extension-foldersync (2.4.0-1)
+    Folder synchronization extension for Banshee
+banshee-extension-jamendo (2.4.0-1)
+    Jamendo extension for Banshee
+banshee-extension-karaoke (2.4.0-1)
+    Karaoke extension for Banshee
+banshee-extension-lastfmfingerprint (2.4.0-1)
+    Last.FM fingerprinting extension for Banshee
+banshee-extension-lirc (2.4.0-1)
+    LIRC integration extension for Banshee
+banshee-extension-lyrics (2.4.0-1)
+    Lyrics extension for Banshee
+banshee-extension-mirage (2.4.0-1)
+    Automatic Playlist Generation extension for Banshee
+banshee-extension-randombylastfm (2.4.0-1)
+    Random By Last.FM extension for Banshee
+banshee-extension-zeitgeistdataprovider (2.4.0-1)
+    Zeitgeist data provider extension for Banshee
+banshee-meego (2.4.1-3+b1)
+    Media Management and Playback application - MeeGo extension
+beep (1.3-3+b1)
+    advanced pc-speaker beeper
+beets (1.0~b14-2)
+    music tagger and library organizer
+bitmeter (1.2-3)
+    diagnosis tool for JACK audio software
+blepvco (0.1.0-3)
+    LADSPA, minBLEP-based, hard-sync-capable oscillator plugins
+blop (0.2.8-6)
+    Bandlimited wavetable-based oscillator plugins for LADSPA hosts
+bluemindo (0.3-4)
+    simple yet powerful audio player
+bplay (0.991-10)
+    Buffered audio file player/recorder
+bristol (0.60.10-3)
+    vintage synthesizer emulator
+bristol-data (0.60.10-3)
+    vintage synthesizer emulator (data files)
+brp-pacu (2.1.1+git20110314~repack1-2)
+    audio analysis tool
+brutefir (1.0k-2)
+    a software convolution engine
+bs2b-ladspa (0.9.1-3)
+    Bauer stereophonic-to-binaural DSP LADSPA plugin
+bse-alsa (0.7.4-5)
+    ALSA plugin for BEAST
+btag (1.1.3-1+b1)
+    interactive command-line based multimedia tag editor
+buzztard (0.5.0-4)
+    Modular music composer
+buzztard-bsl (0.5.0-2.1)
+    Buzztard - Buzz Song Loader Plugin
+buzztard-data (0.5.0-4)
+    Modular music composer - shared data files
+calf-plugins (0.0.18.6-5)
+    pack of audio plugins - effects and instruments
+cam (1.05-8)
+    Cpu's Audio Mixer for Linux
+caps (0.4.2-1)
+    C* Audio Plugin Suite
+cccd (0.3beta4-6.2)
+    A small GTK+ CD player program
+cd-discid (1.3.1-1)
+    CDDB DiscID utility
+cdcd (0.6.6-13.1)
+    command line or console based CD player
+cdparanoia (3.10.2+debian-10.1)
+    audio extraction tool for sampling CDs
+cdtool (2.1.8-release-2)
+    text-based audio CD player and CD-ROM control commands
+cecilia (2.0.5-2.2)
+    graphic user interface for CSound
+chuck (1.2.0.8.dfsg-1.4)
+    Concurrent, On-the-fly Audio Programming Language
+cicero (0.7.2-2) [contrib]
+    French and English Text-To-Speech for MBROLA
+clam-chordata (1.0.0-2)
+    CLAM Chordata, chord detection tool
+clam-networkeditor (1.4.0-3.1)
+    CLAM Network Editor, prototyping tool for CLAM
+clam-networkeditor-examples (1.4.0-3.1)
+    CLAM Network Editor, examples
+clementine (1.0.1+dfsg-2+b1)
+    modern music player and library organizer
+cmt (1.16-1)
+    a collection of LADSPA plugins
+cmus (2.4.3-2+deb7u1)
+    lightweight ncurses audio player
+cmus-plugin-ffmpeg (2.4.3-2+deb7u1)
+    lightweight ncurses audio player (FFmpeg plugin)
+codecgraph (20120114-1)
+    Generates graphviz graphs from HDA-Intel codec information
+composite (0.006.2+dfsg0-2)
+    Live performance sequencer
+composite-data (0.006.2+dfsg0-2)
+    Live performance sequencer (data files)
+cowbell (0.2.7.1-7)
+    An easy-to-use tag editor for your music files
+cplay (1.49-10)
+    A front-end for various audio players
+crip (3.9-1)
+    terminal-based ripper/encoder/tagger tool
+csladspa (1:5.17.11~dfsg-3)
+    LADSPA plugin for Csound
+csound (1:5.17.11~dfsg-3)
+    powerful and versatile sound synthesis software
+csound-data (1:5.17.11~dfsg-3)
+    data files used by the csound library
+csound-gui (1:5.17.11~dfsg-3)
+    GUI interfaces and opcodes for Csound
+csound-utils (1:5.17.11~dfsg-3)
+    miscellaneous utilities for the Csound system
+cyclist (0.1~alpha55-6)
+    Utility for converting Max/MSP binary patches to text
+daisy-player (7.1.1-1)
+    player for DAISY Digital Talking Books
+darkice (1.0-1)
+    Live audio streamer
+darksnow (0.6.1-3)
+    simple graphical user interface to darkice
+dbmix (0.9.8-6.2)
+    DJ mixer for digital audio streams
+decibel-audio-player (1.04-1)
+    simple and nice music player for the GNOME desktop
+deejayd (0.9.0-4)
+    Network controllable media player daemon
+deejayd-client (0.9.0-4)
+    Client library and command line tool to access the deejayd server
+deejayd-gstreamer (0.9.0-4)
+    Deejayd GStreamer backend
+deejayd-webui (0.9.0-4)
+    Web interface for deejayd
+deejayd-webui-extension (0.9.0-4)
+    Deejayd web user interface Iceweasel extension
+denemo (0.9.2-3)
+    gtk+ front end to GNU Lilypond
+denemo-data (0.9.2-3)
+    data for denemo
+devrplay3 (3.3.2-14)
+    rplay network audio system - basic library
+dino (0.2.8-3)
+    Integrated MIDI piano roll editor and sequencer engine
+dir2ogg (0.11.8-1)
+    audio file converter into ogg-vorbis format
+draai (20110603-1)
+    A command-line music player for MPD
+dradio (3.8-2)
+    danmarks Radio netradio, podcast, and TV player
+drc (3.2.0~dfsg0-1)
+    digital room correction
+drumstick-tools (0.5.0-3)
+    Qt4/C++ wrapper for ALSA Sequencer - utilities
+ears (1.0.1-2.1)
+    collection of Last.fm clients and CD-ripping tools
+easyh10 (1.5-1)
+    Utility to manage the iRiver H10 music player
+easymp3gain-gtk (0.5.0+svn135-1)
+    GUI for MP3Gain, VorbisGain and AACGain
+easytag (2.1.7-2)
+    viewing, editing and writing ID3 tags
+ebook-speaker (2.0-3)
+    eBook reader that reads aloud in a synthetic voice
+ebumeter (0.1.0~dfsg-2)
+    Loudness measurement according to EBU-R128
+ecasound (2.9.0-1)
+    multitrack-capable audio recorder and effect processor
+ecatools (2.9.0-1)
+    multitrack-capable audio recorder and effect processor (tools)
+eflite (0.4.1-6)
+    Festival-Lite based emacspeak speech server
+emms (3.0+20110425+1.git298e022-4+b1 [s390x], 3.0+20110425+1.git298e022-4 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc])
+    Emacs MultiMedia System
+enscribe (0.1.0-1.1)
+    convert images into sounds
+eq10q (1.2-2)
+    LV2 equalizer
+esound-common (0.2.41-10)
+    Enlightened Sound Daemon - Common files
+espeak (1.46.02-2)
+    Multi-lingual software speech synthesizer
+espeak-data (1.46.02-2)
+    Multi-lingual software speech synthesizer: speech data files
+espeak-gui (0.4-3)
+    graphical user interface for eSpeak
+espeakedit (1.46.02-2)
+    Multi-lingual software speech synthesizer - editor
+esperanza (0.4.0+git20091017-2+b1)
+    XMMS2 client which aims to be as feature-full and easy-to-use as possible
+etktab (3.2-4)
+    ASCII guitar tab editor
+exaile (0.3.2.2-3)
+    flexible, full-featured audio player
+exaile-plugin-contextinfo (0.3.2.2-3)
+    Exaile plugin for contextual information
+exaile-plugin-ipod (0.3.2.2-3)
+    Exaile plugin for iPod support
+exaile-plugin-moodbar (0.3.2.2-3)
+    Exaile plugin for moodbar
+exfalso (2.4-1)
+    audio tag editor for GTK+
+extace (1.9.9-6)
+    waveform viewer
+eyed3 (0.6.18-1)
+    Display and manipulate id3-tags on the command-line
+ezstream (0.5.6~dfsg-1)
+    easy media streaming client over icecast servers
+faad (2.7-8)
+    freeware Advanced Audio Decoder player
+fadecut (0.1.1-1)
+    toolset to rip audiostreams, cut, fade in/out and tag the resulting audiofiles
+fapg (0.41-1)
+    Fast Audio Playlist Generator
+faust (0.9.46-2)
+    functional programming language for realtime audio applications
+faustworks (0.3.2~repack0-1)
+    IDE for Faust dsp programming language
+fbx-playlist (20070531+dfsg.1-3)
+    graphical editor for FreeBox playlist
+festival (1:2.1~release-5.1)
+    General multi-lingual speech synthesis system
+festival-czech (0.3-2)
+    Czech support for Festival speech synthesis system
+festival-freebsoft-utils (0.10-3)
+    Festival extensions and utilities
+festival-hi (0.1-9)
+    festival text to speech synthesizer for Hindi language
+festival-mr (0.1-9)
+    festival text to speech synthesizer for Marathi language
+festival-te (0.3.3-4)
+    festival text to speech synthesizer for Telugu (te) language
+festlex-cmu (1.4.0-6)
+    CMU dictionary for Festival
+festlex-ifd (2.0+debian0-3)
+    Italian support for Festival
+festlex-oald (1.4.0-3.1) [non-free]
+    Festival lexicon from Oxford Advanced Learners' Dictionary
+festlex-poslex (1.4.0-5)
+    Part of speech lexicons and ngram from English
+festvox-czech-dita (1.0.0-2)
+    Czech adult female speaker "dita" for Festival
+festvox-czech-krb (1.0.0-2)
+    Czech child male speaker "krb" for Festival
+festvox-czech-machac (1.0.0-2)
+    Czech adult male speaker "machac" for Festival
+festvox-czech-ph (0.1-3)
+    Czech male speaker for Festival
+festvox-don (1.4.0-4) [contrib]
+    minimal British English male speaker for festival
+festvox-ellpc11k (1.4.0-3) [non-free]
+    Castilian Spanish male speaker for Festival
+festvox-en1 (1.95-1) [contrib]
+    mbrola-en1 voice support for festival
+festvox-hi-nsk (0.1-9)
+    Hindi male speaker for festival
+festvox-italp16k (2.0+debian0-3)
+    Italian female speaker for Festival
+festvox-itapc16k (2.0+debian0-3)
+    Italian male speaker for Festival
+festvox-kallpc16k (1.4.0-5)
+    American English male speaker for festival, 16khz sample rate
+festvox-kallpc8k (1.4.0-4)
+    American English male speaker for festival, 8khz sample rate
+festvox-kdlpc16k (1.4.0-5)
+    American English male speaker for festival, 16khz sample rate
+festvox-kdlpc8k (1.4.0-5)
+    American English male speaker for festival, 8khz sample rate
+festvox-mr-nsk (0.1-9)
+    Marathi male speaker for festival
+festvox-rablpc16k (1.4.0-2) [contrib]
+    British English male speaker for festival, 16khz sample rate
+festvox-rablpc8k (1.4.0-2) [contrib]
+    British English male speaker for festival, 8khz sample rate
+festvox-ru (0.5-5)
+    Russian male speaker for Festival
+festvox-suopuhe-common (1.0g-20051204-3)
+    Common files for Festival Finnish speakers
+festvox-suopuhe-lj (1.0g-20051204-3)
+    Finnish female speaker for Festival
+festvox-suopuhe-mv (20041119-1)
+    Finnish male speaker for festival
+festvox-te-nsk (0.3.3-4)
+    Telugu (te) male speaker for festival
+festvox-us1 (1.95-1) [contrib]
+    mbrola-us1 voice support for festival
+festvox-us2 (1.95-1) [contrib]
+    mbrola-us2 voice support for festival
+festvox-us3 (1.95-1) [contrib]
+    mbrola-us3 voice support for festival
+ffado-dbus-server (2.0.99+svn2171-2)
+    FFADO D-Bus server
+ffado-mixer-qt4 (2.0.99+svn2171-2)
+    FFADO D-Bus mixer applets (QT4)
+ffado-tools (2.0.99+svn2171-2)
+    FFADO debugging and firmware tools
+fil-plugins (0.3.0-3)
+    parametric equalizer LADSPA plugin
+fische (3.2.2-3)
+    stand-alone sound visualisation for Linux
+flac (1.2.1-6+deb7u1)
+    Free Lossless Audio Codec - command line tools
+flactag (2.0.4-1)
+    Tagger for whole-album FLAC files using data from MusicBrainz
+flake (0.11-2)
+    Alternative encoder for the Free Lossless Audio Codec
+flashplugin-nonfree-extrasound (0.0.svn2431-3) [contrib]
+    Adobe Flash Player platform support library for Esound and OSS
+flite (1.4-release-6)
+    Small run-time speech synthesis engine
+fluid-soundfont-gm (3.1-5)
+    Fluid (R3) General MIDI SoundFont (GM)
+fluid-soundfont-gs (3.1-5)
+    Fluid (R3) General MIDI SoundFont (GS)
+fluidsynth (1.1.5-2)
+    Real-time MIDI software synthesizer
+fluidsynth-dssi (1.0.0-6)
+    DSSI wrapper for the FluidSynth SoundFont-playing synthesizer
+fmit (0.99.2-1)
+    Free Music Instrument Tuner
+fmtools (2.0.5)
+    FM radio tuner
+foo-yc20 (1.3.0-5)
+    YC-20 organ emulation
+forked-daapd (0.19gcd-2.1)
+    media server with support for RSP, DAAP, DACP and AirTunes
+freebirth (0.3.2-8+b1 [kfreebsd-i386], 0.3.2-8 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, mips, mipsel, powerpc, s390, s390x, sparc])
+    Bass synthesizer/sample player/sequencer
+freebirth-data (0.3.2-8)
+    Bass synthesizer/sample player/sequencer -- sound samples
+freepats (20060219-1)
+    Free patch set for MIDI audio synthesis
+freeplayer (20070531+dfsg.1-3)
+    wrapper around vlc for French ADSL FreeBox
+freewheeling (0.6-1.1+b2 [kfreebsd-amd64, kfreebsd-i386], 0.6-1.1+b1 [amd64, armel, armhf, i386, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    live looping musical instrument
+freqtweak (0.7.2-4+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.7.2-4 [armhf, s390x])
+    Realtime audio frequency spectral manipulation
+gbemol (0.3.2-2)
+    Graphical frontend for the Music Player Daemon (MPD)
+gbsplay (0.0.91-1)
+    A Gameboy sound player
+gcdmaster (1:1.2.3-0.3)
+    GNOME GUI for cdrdao
+gdigi (0.2.0+hg20110905r195-1)
+    utility to control DigiTech effect pedals
+gespeaker (0.7-3)
+    GTK+ front-end for eSpeak and mbrola
+ghostess (20120105-1)
+    A graphical DSSI plugin host
+gigedit (0.2.0-1)
+    instrument editor for Gigasampler files
+gimmix (0.5.7.1-4)
+    graphical music player daemon (MPD) client using GTK+2
+gjacktransport (0.5.3-1)
+    access to the JACK's transport mechanism as touchable slider
+gjay (0.3.2-1)
+    An automatic and learning DJ for audacious
+gkrellm-gkrellmpc (0.1~beta10-2)
+    GKrellM plugin for controlling MPD
+gkrellm-radio (2.0.4-1.1)
+    FM radio tuner for GKrellM
+gkrellm-volume (2.1.13-1)
+    A mixer plugin for GKrellM
+gkrellxmms2 (0.7.1-2)
+    GKrellM plugin to control xmms2
+gladish (1+dfsg0-3)
+    graphical interface for LADI Session Handler
+gmerlin (1.2.0~dfsg+1-1)
+    multiformat media player
+gmerlin-data (1.2.0~dfsg+1-1)
+    multiformat media player - data files
+gmerlin-plugins-base (1.2.0~dfsg+1-1)
+    gmerlin plugins from the "base" set
+gmidimonitor (3.6+dfsg0-1)
+    GTK+ application that shows MIDI events
+gmod (3.1-14)
+    Module player for Ultrasound and SB AWE soundcards
+gmorgan (0.40-1)
+    MIDI rhythm station emulator software
+gmpc (11.8.16-6)
+    Gnome Music Player Client (graphical interface to MPD)
+gmpc-data (11.8.16-6)
+    Gnome Music Player Client - data files
+gmpc-dev (11.8.16-6)
+    Gnome Music Player Client (plugin development files)
+gmpc-plugins (11.8.16-1)
+    Plugins for the GNOME Music Player Client
+gmtp (1.3.3-1)
+    simple MP3 player client for MTP based devices
+gmusicbrowser (1.1.9-2)
+    graphic jukebox for large collections of mp3/ogg/flac/mpc files
+gnac (0.2.4-1)
+    audio converter for GNOME
+gnomad2 (2.9.6-4)
+    Manage a Creative Labs Nomad Jukebox
+gnomeradio (1.8-2)
+    FM-radio tuner for the GNOME desktop
+gnupod-tools (0.99.8-2.1)
+    command-line tools for the iPod family of portable music players
+goattracker (2.72-1)
+    C64 music editor
+gogglesmm (0.12.6-1)
+    Goggles Music Manager
+gom (0.30.2-5.4)
+    Command line and interactive ncurses-based OSS audio mixer
+gpe-mixer (0.50-1)
+    audio mixer frontend for GPE
+gramofile (1.6-9)
+    Transfer sound from gramophone records to CD
+gramophone2 (0.8.13a-1)
+    GRAMophone II is an algorithmic music generator
+gstreamer0.10-buzztard (0.5.0-2+deb7u1)
+    Buzztard - Support plugins for GStreamer
+gstreamer0.10-gconf (0.10.31-3+nmu1)
+    GStreamer plugin for getting the sink/source information from GConf
+gstreamer0.10-pulseaudio (0.10.31-3+nmu1)
+    GStreamer plugin for PulseAudio
+gtick (0.5.1-1)
+    Metronome application
+gtklick (0.6.4-3)
+    simple metronome GUI for JACK
+gtkpod (2.1.2-1)
+    manage songs and playlists on an Apple iPod
+gtkpod-data (2.1.2-1)
+    architecture-independent files for gtkpod
+guayadeque (0.3.5~ds0-4)
+    lightweight music player
+guitarix (0.22.4-1)
+    Rock guitar amplifier for Jack
+gwc (0.21.17~dfsg0-2)
+    Audio file denoiser
+gxmms2 (0.7.1-2)
+    XMMS2 client for the GNOME desktop
+gxtuner (2.0-2)
+    Tuner for Jack
+hexter (0.6.2-3+b2 [kfreebsd-amd64], 0.6.2-3+b1 [kfreebsd-i386], 0.6.2-3 [amd64, armel, armhf, i386, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    Yamaha DX7 modeling DSSI plugin
+horgand (1.14-5)
+    JACK capable organ softsynth
+horgand-data (1.14-5)
+    JACK capable organ softsynth (data files)
+hts-voice-nitech-jp-atr503-m001 (1.04-1) [contrib]
+    Japanese male voice data for Open JTalk
+htsengine (1.06-1)
+    frontend of HMM-based speech synthesis engine
+hydrogen (0.9.6~beta2-1)
+    advanced drum machine/step sequencer
+hydrogen-drumkits (0.9.3.20070703-3)
+    drumkits for Hydrogen
+icecast2 (2.3.2-9+deb7u2)
+    streaming media server
+icedax (9:1.1.11-2+b1 [kfreebsd-amd64, kfreebsd-i386], 9:1.1.11-2 [amd64, armel, armhf, i386, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    Creates WAV files from audio CDs
+ices2 (2.0.1-13)
+    Ogg Vorbis streaming source for Icecast 2
+id3 (0.15-3)
+    An ID3 Tag Editor
+id3ren (1.1b0-6)
+    id3 tagger and renamer
+id3tool (1.2a-4)
+    Command line editor for id3 tags
+id3v2 (0.1.12-2)
+    A command line id3v2 tag editor
+idjc (0.8.7-2)
+    graphical shoutcast/icecast client
+ifp-line-libifp (1.0.0.2-5)
+    command line tool to access iRiver iFP audio players
+ifpgui (1.0.0-3)
+    QT based manager for iRiver iFP audio players
+intone (0.77-2)
+    Elementary based mplayer frontend for audio files
+invada-studio-plugins-ladspa (0.3.1-2)
+    Invada Studio Plugins - a set of LADSPA audio plugins
+invada-studio-plugins-lv2 (1.2.0+repack0-4)
+    Invada Studio Plugins - a set of LV2 audio plugins
+ir.lv2 (1.3.1~dfsg0-3)
+    LV2 IR reverb
+iripdb (0.1.3b-1.1)
+    Generates the DB files for the iRiver iHP-1xx
+jaaa (0.6.0-2)
+    audio signal generator and spectrum analyser
+jack (3.1.1+cvs20050801-29)
+    Rip and encode CDs with one command
+jack-capture (0.9.67-1)
+    program for recording soundfiles with jack
+jack-keyboard (2.7.1-1)
+    Virtual MIDI keyboard for JACK MIDI
+jack-mixer (9-3)
+    JACK Audio Mixer
+jack-rack (1.4.8~rc1-1+b1 [kfreebsd-amd64, kfreebsd-i386], 1.4.8~rc1-1 [amd64, armel, armhf, i386, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    LADSPA effects "rack" for JACK
+jack-stdio (1.4-1)
+    program to pipe audio-data from and to JACK
+jack-tools (20101210-2)
+    various JACK tools: dl, record, scope, osc, plumbing, udp, play, transport
+jackd (5)
+    JACK Audio Connection Kit (default server package)
+jackd1 (1:0.121.3+20120418git75e3e20b-2.1)
+    JACK Audio Connection Kit (server and example clients)
+jackd1-firewire (1:0.121.3+20120418git75e3e20b-2.1)
+    JACK Audio Connection Kit (FFADO backend)
+jackd2 (1.9.8~dfsg.4+20120529git007cdc37-5)
+    JACK Audio Connection Kit (server and example clients)
+jackd2-firewire (1.9.8~dfsg.4+20120529git007cdc37-5)
+    JACK Audio Connection Kit (FFADO and FreeBoB backends)
+jackeq (0.5.9-2)
+    routes and manipulates audio from/to multiple sources
+jackmeter (0.4-1)
+    a basic command line meter for the JACK audio system
+jacktrip (1.0.5.patch2-1)
+    A System for High-Quality Audio Network Performance
+jajuk (1:1.9.6-1)
+    advanced jukebox and music organizer
+jalv (1.0.0~dfsg0-2)
+    tool to run LV2 plugins as stand-alone applications
+jamin (0.97.14~cvs~81203-4)
+    Audio mastering from a mixed down multitrack source with JACK
+japa (0.6.0-2)
+    JACK and ALSA Perceptual Analyser
+jcadencii (3.3.9+svn20110818.r1732-2)
+    Piano roll editor for singing synthesis
+jconvolver (0.9.2-1)
+    Convolution reverb Engine for JACK
+jconvolver-config-files (0.9.2-1)
+    Demo config files for jconvolver
+jkmeter (0.6.1-2)
+    horizontal or vertical bargraph audio level meter for Jack Audio Connection Kit
+jmeters (0.2.1-2)
+    multichannel audio level meter
+jnoise (0.6.0-3)
+    white and pink noise generator
+jnoisemeter (0.1.0-2)
+    audio test signals meter
+jokosher (0.11.5-5)
+    simple and easy to use audio multi-tracker
+jsymphonic (0.3.0.Ode.To.Freedom+svn387-7)
+    File manager for Sony's MP3 players
+juk (4:4.8.4-2)
+    music jukebox / music player
+juke (0.7-4)
+    A curses-based jukebox program
+klick (0.12.2-1+b2 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, powerpc, s390, sparc], 0.12.2-1+b1 [armhf, mipsel, s390x])
+    advanced metronome for JACK
+kluppe (0.6.14-1+b2 [amd64, armel, i386, ia64, mips, mipsel, powerpc, s390, sparc], 0.6.14-1 [armhf, s390x])
+    a loop-player and recorder designed for live use
+kmetronome (0.10.1-1)
+    ALSA MIDI Metronome
+kmidimon (0.7.4-2)
+    MIDI monitor using ALSA sequencer and KDE user interface
+kmix (4:4.8.4-2)
+    volume control and mixer
+kradio (4.0.4-1)
+    dummy transition package for Wheezy
+kradio4 (4.0.4-1)
+    comfortable radio application for KDE
+kscd (4:4.8.4-2)
+    audio CD player
+ladish (1+dfsg0-3)
+    session management system for JACK applications
+laditools (1.0.1-2)
+    Linux Audio Desktop Integration Tools
+ladspa-sdk (1.13-1)
+    sample tools for linux-audio-dev plugin architecture
+lakai (0.1-1)
+    transfers samples between a PC and an AKAI sampler
+lame (3.99.5+repack1-3)
+    MP3 encoding library (frontend)
+lastfm (1:1.5.4.27091+dfsg1-1)
+    music player for Last.fm personalized radio
+lastfmsubmitd (1.0.6-4)
+    submission daemon for the Last.fm social music network
+lastmp (1.0.6-4)
+    MPD client for lastfmsubmitd
+ld10k1 (1.0.25-2)
+    ALSA emu10k1/2 patch loader
+libchromaprint-tools (0.6-2)
+    audio fingerprinting library - tools
+libdca-utils (0.0.5-5)
+    decoding library for DTS Coherent Acoustics streams (utilities)
+libflake-dev (0.11-2)
+    Alternative encoder for the Free Lossless Audio Codec -- Development files
+libgsm-tools (1.0.13-4)
+    User binaries for a GSM speech compressor
+libid3-tools (3.8.3-15)
+    ID3 Tag Library: Utilities
+liblua5.1-luacsnd5.2 (1:5.17.11~dfsg-3)
+    Lua bindings for the Csound API
+libqmmp-misc (0.5.5-1+b1)
+    qmmp audio player -- plugins and auxiliary libraries
+libroar-plugins-universal (1.0~beta2-3)
+    Collection of host-independent plugins for libroar
+libsclang1 (1:3.4.5-1wheezy1)
+    SuperCollider language interpreter library
+libsox-fmt-all (14.4.0-3+deb7u1)
+    All SoX format libraries
+libsox-fmt-alsa (14.4.0-3+deb7u1)
+    SoX alsa format I/O library
+libsox-fmt-ao (14.4.0-3+deb7u1)
+    SoX Libao format I/O library
+libsox-fmt-base (14.4.0-3+deb7u1)
+    Minimal set of SoX format libraries
+libsox-fmt-mp3 (14.4.0-3+deb7u1)
+    SoX MP2 and MP3 format library
+libsox-fmt-oss (14.4.0-3+deb7u1)
+    SoX OSS format I/O library
+libsox-fmt-pulse (14.4.0-3+deb7u1)
+    SoX PulseAudio format I/O library
+libttspico-data (1.0+git20110131-2) [non-free]
+    Small Footprint TTS (lingware)
+libttspico-utils (1.0+git20110131-2) [non-free]
+    Small Footprint TTS (binaries)
+libvisual-0.4-plugins (0.4.0.dfsg.1-7)
+    Audio visualization framework plugins
+libvisual-projectm (2.1.0+dfsg-1)
+    libvisual module for projectM
+liguidsoap (1.0.1+repack1-1.1)
+    control GUI for liquidsoap
+lilv-utils (0.14.2~dfsg0-4)
+    library for simple use of LV2 plugins (runtime files)
+linphone (3.5.2-10)
+    SIP softphone - graphical client
+linphone-common (3.5.2-10)
+    Shared components of the linphone SIP softphone
+linphone-nogtk (3.5.2-10)
+    SIP softphone - console-only client
+liquidsoap (1.0.1+repack1-1.1)
+    audio streaming language
+liquidsoap-plugin-all (1.0.1+repack1-1.1)
+    audio streaming language -- all plugins
+liquidsoap-plugin-alsa (1.0.1+repack1-1.1)
+    audio streaming language -- ALSA plugin
+liquidsoap-plugin-ao (1.0.1+repack1-1.1)
+    audio streaming language -- AO plugin
+liquidsoap-plugin-camlimages (1.0.1+repack1-1.1)
+    audio streaming language -- Camlimages plugin
+liquidsoap-plugin-dssi (1.0.1+repack1-1.1)
+    audio streaming language -- DSSI plugin
+liquidsoap-plugin-faad (1.0.1+repack1-1.1)
+    audio streaming language -- FAAD plugin
+liquidsoap-plugin-flac (1.0.1+repack1-1.1)
+    audio streaming language -- FLAC plugin
+liquidsoap-plugin-gavl (1.0.1+repack1-1.1)
+    audio streaming language -- Gavl plugin
+liquidsoap-plugin-gd (1.0.1+repack1-1.1)
+    audio streaming language -- libgd plugin
+liquidsoap-plugin-graphics (1.0.1+repack1-1.1)
+    audio streaming language -- Graphics plugin
+liquidsoap-plugin-gstreamer (1.0.1+repack1-1.1)
+    audio streaming language -- GStreamer plugin
+liquidsoap-plugin-icecast (1.0.1+repack1-1.1)
+    audio streaming language -- Icecast plugin
+liquidsoap-plugin-jack (1.0.1+repack1-1.1)
+    audio streaming language -- JACK plugin
+liquidsoap-plugin-ladspa (1.0.1+repack1-1.1)
+    audio streaming language -- LADSPA plugin
+liquidsoap-plugin-lame (1.0.1+repack1-1.1)
+    audio streaming language -- Lame plugin
+liquidsoap-plugin-lastfm (1.0.1+repack1-1.1)
+    audio streaming language -- Lastfm plugin
+liquidsoap-plugin-lo (1.0.1+repack1-1.1)
+    audio streaming language -- LO plugin
+liquidsoap-plugin-mad (1.0.1+repack1-1.1)
+    audio streaming language -- Mad plugin
+liquidsoap-plugin-ogg (1.0.1+repack1-1.1)
+    audio streaming language -- Ogg plugin
+liquidsoap-plugin-oss (1.0.1+repack1-1.1)
+    audio streaming language -- OSS plugin
+liquidsoap-plugin-portaudio (1.0.1+repack1-1.1)
+    audio streaming language -- Portaudio plugin
+liquidsoap-plugin-pulseaudio (1.0.1+repack1-1.1)
+    audio streaming language -- Pulseaudio plugin
+liquidsoap-plugin-samplerate (1.0.1+repack1-1.1)
+    audio streaming language -- Samplerate plugin
+liquidsoap-plugin-schroedinger (1.0.1+repack1-1.1)
+    audio streaming language -- Schroedinger plugin
+liquidsoap-plugin-sdl (1.0.1+repack1-1.1)
+    audio streaming language -- SDL plugin
+liquidsoap-plugin-soundtouch (1.0.1+repack1-1.1)
+    audio streaming language -- Soundtouch plugin
+liquidsoap-plugin-speex (1.0.1+repack1-1.1)
+    audio streaming language -- Speex plugin
+liquidsoap-plugin-taglib (1.0.1+repack1-1.1)
+    audio streaming language -- Taglib plugin
+liquidsoap-plugin-theora (1.0.1+repack1-1.1)
+    audio streaming language -- Theora plugin
+liquidsoap-plugin-voaacenc (1.0.1+repack1-1.1)
+    audio streaming language -- Voaacenc plugin
+liquidsoap-plugin-vorbis (1.0.1+repack1-1.1)
+    audio streaming language -- Vorbis plugin
+liquidsoap-plugin-xmlplaylist (1.0.1+repack1-1.1)
+    audio streaming language -- Xmlplaylist plugin
+ll-scope (0.2.1-3)
+    an oscilloscope DSSI plugin
+lltag (0.14.4-2)
+    Automatic command-line mp3/ogg/flac file tagger and renamer
+lmms (0.4.10-2.3)
+    Linux Multimedia Studio
+lmms-common (0.4.10-2.3)
+    Linux Multimedia Studio - common files
+lv2-examples (1.0.0~dfsg2-2)
+    LV2 audio plugin specification (example plugins)
+lv2core (6.0+dfsg0-2)
+    LV2 audio plugin specification (dummy package)
+lv2fil (2.0+20100312.git18130f5a+dfsg0-2)
+    Stereo and mono LV2 plugins, four-band parametric equalisers
+lv2file (0.83-1)
+    Command-line program to apply LV2 effects to audio files
+lv2proc (0.4.0-4)
+    command line effect processor
+lv2vocoder (1-3)
+    LV2 vocoder plugin
+lxmms2 (0.1.3-1)
+    control XMMS2 with a LIRC compatible remote control
+lxmusic (0.4.4+git20100802-3)
+    minimalist music player for LXDE
+madfuload (1.2-4) [non-free]
+    Firmware loader for M-Audio DFU audio devices
+madplay (0.15.2b-8)
+    MPEG audio player in fixed point
+mbrola (3.01h-6) [non-free]
+    Multilingual software speech synthesizer
+mbrola-af1 (0.0.20040426-2) [non-free]
+    Afrikaans male voice for Mbrola
+mbrola-br1 (2.021-1) [non-free]
+    Brazilian Portuguese male voice for Mbrola
+mbrola-br3 (2.021-2) [non-free]
+    Brazilian Portuguese male voice for Mbrola
+mbrola-cr1 (0.0.19981028-2) [non-free]
+    Croatian male voice for Mbrola
+mbrola-cz2 (0.2-2) [non-free]
+    Czech male voice for Mbrola
+mbrola-de4 (0.0.20020812-1) [non-free]
+    German male voice for Mbrola
+mbrola-de5 (1.0-1) [non-free]
+    German female voice for Mbrola
+mbrola-de6 (0.0.20021125-2) [non-free]
+    German male voice for Mbrola
+mbrola-de7 (0.0.20030404-2) [non-free]
+    German female voice for Mbrola
+mbrola-ee1 (0.0.20020407-1) [non-free]
+    Estonian male voice for Mbrola
+mbrola-en1 (19980910-2) [non-free]
+    British English male voice for Mbrola
+mbrola-es1 (0.0.19980610-2) [non-free]
+    Spanish male voice for Mbrola
+mbrola-es2 (2.069-1) [non-free]
+    Spanish male voice for Mbrola
+mbrola-fr1 (2.050-1) [non-free]
+    French male voice for Mbrola
+mbrola-fr4 (0.0.19990521-2) [non-free]
+    French female voice for Mbrola
+mbrola-gr1 (19990610-1) [non-free]
+    Greek male voice for Mbrola
+mbrola-gr2 (0.0.20010521-2) [non-free]
+    Greek male voice for Mbrola
+mbrola-hu1 (1.002-2) [non-free]
+    Hungarian male voice for Mbrola
+mbrola-id1 (1-2) [non-free]
+    Indonesian male voice for Mbrola
+mbrola-it3 (0.1-2) [non-free]
+    Italian male voice for Mbrola
+mbrola-it4 (0.1-2) [non-free]
+    Italian female voice for Mbrola
+mbrola-la1 (0.0.20050615-2) [non-free]
+    Latin male voice for Mbrola
+mbrola-mx2 (0.1-1) [non-free]
+    Mexican Spanish male voice for Mbrola
+mbrola-nl2 (0.5-2) [non-free]
+    Dutch male voice for Mbrola
+mbrola-pl1 (0.1-2) [non-free]
+    Polish female voice for Mbrola
+mbrola-pt1 (1.0-2) [non-free]
+    European Portuguese female voice for Mbrola
+mbrola-ro1 (1.00-2) [non-free]
+    Romanian male voice for Mbrola
+mbrola-sw1 (1.00-2) [non-free]
+    Swedish male voice for Mbrola
+mbrola-sw2 (1.0-2) [non-free]
+    Swedish female voice for Mbrola
+mbrola-us1 (0.3-2) [non-free]
+    American English female voice for Mbrola
+mbrola-us2 (0.1-2) [non-free]
+    American English male voice for Mbrola
+mbrola-us3 (0.1-1) [non-free]
+    American English male voice for Mbrola
+mbrola-vz1 (2-1) [non-free]
+    Venezuelan Spanish male voice for Mbrola
+mcdp (0.4-5)
+    small console CD player
+mcp-plugins (0.4.0-2)
+    LADSPA plugins designed for Alsa Modular Synth
+mda-lv2 (1.0.0~dfsg0-1)
+    Paul Kellett's MDA plugins ported to LV2
+meterbridge (0.9.2-11)
+    Collection of Audio meters for the JACK audio server
+meterec (0.8~ds0-1+b1)
+    minimalistic multi track recoder
+mhwaveedit (1.4.21-2)
+    Simple and fast GTK2 sound editor
+midge (0.2.41-2)
+    A text to MIDI program
+mididings (0~20120419~ds0-1)
+    MIDI router and processor based on Python
+midish (1.0.4-1.1)
+    shell-like MIDI sequencer/filter
+midisport-firmware (1.2-4) [non-free]
+    Firmware loader for M-Audio's MidiSport devices
+mikmod (3.2.1-4)
+    Portable tracked music player
+milkytracker (0.90.85+dfsg-2.2)
+    music creation tool inspired by Fast Tracker 2
+mixxx (1.10.1~dfsg0-1)
+    Digital Disc Jockey Interface
+mixxx-data (1.10.1~dfsg0-1)
+    Digital Disc Jockey Interface -- data files
+mkcue (1-2.1)
+    Generates a CUE sheet from a CD
+moc (1:2.5.0~alpha4+svn20120224-1)
+    ncurses based console audio player
+moc-ffmpeg-plugin (1:2.5.0~alpha4+svn20120224-1)
+    ncurses based console audio player - ffmpeg plugin
+modplug-tools (0.5.3-1)
+    Modplug playing console tools
+monobristol (0.60.3-2.1)
+    simple GUI for Bristol
+moodbar (0.1.2-3)
+    Analysis program for creating a colorful visual representation of an audio file
+moosic (1.5.6-1)
+    Daemon/client combo to easily queue music files for playing
+mp3blaster (1:3.2.5-3)
+    Full-screen console mp3 and Ogg Vorbis player
+mp3burn (0.4.2-2.1)
+    burn audio CDs directly from MP3, Ogg Vorbis, or FLAC files
+mp3cd (1.27.0-2)
+    Burns normalized audio CDs from lists of MP3s/WAVs/Oggs/FLACs
+mp3check (0.8.7-1)
+    tool to check mp3 files for consistency
+mp3diags (1.0.11.076-3)
+    find issues in MP3 files and help to solve them
+mp3gain (1.5.2-r2-2+deb7u1)
+    Lossless mp3 normalizer with statistical analysis
+mp3info (0.8.5a-1)
+    An MP3 technical info viewer and ID3 1.x tag editor
+mp3info-gtk (0.8.5a-1)
+    MP3 info viewer and ID3 1.x tag editor -- GTK+ version
+mp3rename (0.6-9)
+    Rename mp3 files based on id3tags
+mp3roaster (0.3.0-6)
+    Perl hack for burning audio CDs out of MP3/OGG/FLAC/WAV files
+mp3splt (2.4.2-2)
+    command line interface to split MP3 and Ogg Vorbis files without reencoding
+mp3splt-gtk (0.7.2-2)
+    GTK interface to split MP3 and Ogg Vorbis files without reencoding
+mp3val (0.1.8-1)
+    program for MPEG audio stream validation
+mp3wrap (0.5-3)
+    Utility for MP3 wrapping (rolling multiple MP3s into one)
+mp4v2-utils (2.0.0~dfsg0-1)
+    library to read, create, and modify mp4 files (frontends)
+mpc (0.22-1)
+    command-line tool to interface MPD
+mpc123 (0.2.4-2)
+    command-line Musepack audio player
+mpd (0.16.7-2+b1 [amd64, armel, armhf, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, s390x, sparc], 0.16.7-2 [i386])
+    Music Player Daemon
+mpd-sima (0.9.2-2)
+    Automagically add titles to MPD playlist
+mpdcron (0.3+git20110303-3)
+    add scrobbler, rating, play counts and other functionalities to MPD
+mpdris (0.1.2-2)
+    media player interface (MPRIS) client for MPD
+mpdscribble (0.22-3)
+    Last.fm reporting client for mpd
+mpdtoys (0.24)
+    small command line tools and toys for MPD
+mpegdemux (0.1.4-3)
+    MPEG1/2 system stream demultiplexer
+mpg123 (1.14.4-1)
+    MPEG layer 1/2/3 audio player
+mpg123
+    virtual package provided by mpg321
+mpg321 (0.3.2-1.1)
+    Simple and lightweight command line MP3 player
+mpgtx (1.3.1-5)
+    toolbox to manipulate MPEG files (video, system, and audio)
+mppenc (1.16-1.1)
+    Musepack lossy audio codec encoder
+mudita24 (1.0.3+svn13-4)
+    ALSA GUI control tool for Envy24 (ice1712) soundcards
+mumble (1.2.3-349-g315b5f5-2.2+deb7u2)
+    Low latency VoIP client
+mumble-server (1.2.3-349-g315b5f5-2.2+deb7u2)
+    Low latency VoIP server
+muroard (0.1.10-2)
+    minimalist RoarAudio sound daemon
+muse (2.0-1)
+    Qt4-based audio/MIDI sequencer
+musepack-tools (2:0.1~r459-4)
+    MusePack commandline utilities
+musescore (1.2+dfsg-1)
+    Full featured WYSIWYG score editor
+musescore-common (1.2+dfsg-1)
+    Full featured WYSIWYG score editor (common files)
+musescore-soundfont-gm (1.2+dfsg-1)
+    Small GM SoundFont for MuseScore (TimGM6mb)
+music123 (16.3-3)
+    Command-line shell for sound-file players
+musiclibrarian (1.6-2.1)
+    A simple GUI tool to organize collections of music
+musique (1.1-2.1)
+    Simple but sophisticated graphical music player
+mustang-plug (1.1-2)
+    control Fender Mustang amplifiers
+nama (1.078-2)
+    Ecasound-based multitrack recorder/mixer
+nas (1.9.3-5wheezy1)
+    Network Audio System - local server
+nas-bin (1.9.3-5wheezy1)
+    Network Audio System - client binaries
+ncmpc (0.17-1)
+    ncurses-based audio player
+ncmpc-lyrics (0.17-1)
+    ncurses-based audio player (lyrics plugins)
+ncmpcpp (0.5.10-1.1)
+    ncurses-based client for the Music Player Daemon (MPD)
+nekobee (0.1.7-3)
+    Simple single-oscillator DSSI plugin
+normalize-audio (0.7.7-11)
+    adjusts the volume of WAV, MP3 and OGG files to a standard volume level
+nted (1.10.18-4)
+    Musical score editor
+nyquist (3.05-2)
+    language for music composition and sound synthesis
+oggconvert (0.3.3-2)
+    convert media files to free formats
+oggfwd (0.2-6)
+    basic icecast source client for audio and video streaming
+oidua (0.16.1-7)
+    audio file metadata lister
+omins (0.2.0-7.1)
+    collection of LADSPA plugins aimed at modular synthesizers
+open-jtalk (1.05-1)
+    Japanese text-to-speech system
+opencubicplayer (1:0.1.21-1.1)
+    UNIX port of Open Cubic Player
+opus-tools (0.1.2-1)
+    Opus codec command line tools
+oss-compat (2+deb7u2)
+    Open Sound System (OSS) compatibility package
+oss4-base (4.2-build2006-2+deb7u1)
+    Open Sound System - base package
+oss4-gtk (4.2-build2006-2+deb7u1)
+    Open Sound System - simple GTK2-based mixer control
+oss4-source (4.2-build2006-2+deb7u1)
+    Open Sound System - drivers sources
+pacpl (4.0.5-7.1)
+    multi-purpose audio converter/ripper/tagger script
+paman (0.9.4-1+b1 [powerpc], 0.9.4-1 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, s390, s390x, sparc])
+    PulseAudio Manager
+paprefs (0.9.10-1)
+    PulseAudio Preferences
+patchage (0.5.0+dfsg0-0.1+b1)
+    modular patch bay for Jack audio and Alsa Midi
+paulstretch (2.2-2-2)
+    Extreme sound time-stretch
+pavucontrol (1.0-1)
+    PulseAudio Volume Control
+pavumeter (0.9.3-4)
+    PulseAudio Volume Meter
+pd-arraysize (0.1-1)
+    Pd object to report the size of an array
+pd-aubio (0.3.2-4.2+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 0.3.2-4.2 [armhf, s390x])
+    aubio external for PureData
+pd-bassemu (0.3-3)
+    a Pd object for transistor bass emulation
+pd-beatpipe (0.1-3)
+    realtime scheduler/event-delay/quantizer object for Pd
+pd-boids (1.1.1-2)
+    a Pd library for the "boids" flocking simulator algorithm
+pd-bsaylor (0.1-2)
+    a library of FFT-based Pd objects by Ben Saylor
+pd-comport (0.1-3)
+    Pd object for reading and writing to serial ports
+pd-csound (1:5.17.11~dfsg-3)
+    Csound external for PureData
+pd-cxc (0.5.1-2)
+    Pd library for working with patterns and numbers
+pd-cyclone (0.1~alpha55-6)
+    Pd library of clones of Max/MSP 4.5 objects
+pd-earplug (0.2-3)
+    binaural filter based on KEMAR impulse measurement for Pd
+pd-ekext (0.1.1-2)
+    Pd objects for music information retrieval and polyphony control
+pd-ext13 (0.17.1-2)
+    a collection of file and message objects for Pd by dieb13
+pd-flite (0.02.3-1)
+    Speech synthesis for Pd
+pd-freeverb (1.2-3)
+    studio-quality Schroeder/Moorer reverb as a Pd object
+pd-ggee (0.26-3)
+    Pd library of GUI controls, synths, filters, and more
+pd-hcs (0.1-2)
+    a Pd library of experiments in UNIX, the Pd GUI, and more
+pd-hid (0.7-1)
+    Pd object for getting data from USB HID devices
+pd-iemambi (0.1-2)
+    Pd-objects for Ambisonics sound spatialization
+pd-iemmatrix (0.2-1)
+    Pd-objects for simple matrix operations
+pd-iemnet (0.1-3)
+    Pd library for low-level networking
+pd-jmmmp (0.1.1-1)
+    a collection of Pd GUI objects for musical performance
+pd-libdir (1.9-3)
+    provides support for the libdir library format for Pd
+pd-list-abs (0.1-1)
+    a library of list operations for Pd
+pd-mapping (0.2-2)
+    Pd library for creatively mapping data
+pd-markex (0.85-2)
+    Pd library of misc objects from Mark Danks
+pd-maxlib (1.5.4-1)
+    Pd library for analysing musical performance
+pd-mjlib (0.1.1-3)
+    library of Pd objects for composing music
+pd-moonlib (0.2-2)
+    library of Pd objects related to GUI control
+pd-motex (1.1.4-3)
+    a random collection of Pd objects by Iain Mott
+pd-osc (0.1-2)
+    Open Sound Control for Pd
+pd-pan (0.1-1)
+    a library of stereo panning algorithms for Pd
+pd-pddp (0.2-1)
+    support library for the Pure Data Documentation Project
+pd-pdogg (0.25.1-1)
+    collection of Ogg/Vorbis objects for Pd
+pd-plugin (0.2.1-3)
+    LADSPA and VST plug-in hosting for Pd
+pd-pmpd (0.9-4)
+    physical modeling library for Pd
+pd-purepd (0.1.1-1)
+    a library of standard objects re-implemented using Pd-vanilla
+pd-readanysf (0.42-1)
+    A Pd external for reading multiple audio file formats
+pd-sigpack (0.0.4.2-2)
+    signal processing effects library for Pd
+pd-smlib (0.12.1-2)
+    Pd library for mapping DSP data to controls
+pd-vbap (1.0.3.2-1)
+    Pd library for Vector Base Amplitude Panning spatialization
+pd-wiimote (0.3.2-2)
+    Pd object for accessing the wiimote controller
+pd-windowing (0.1-2)
+    library of windowing functions in Pd
+pd-zexy (2.2.5-1)
+    General Purpose addon library for Pd
+petri-foo (0.1.5-1)
+    MIDI controllable audio sampler - successor of specimen
+phasex (0.12.0+m1-6)
+    Phase Harmonic Advanced Synthesis EXperiment
+phonon (4:4.6.0.0-3)
+    multimedia framework from KDE - metapackage
+phonon-backend-gstreamer (4:4.6.0.0-2)
+    Phonon GStreamer 0.10.x backend
+phonon-backend-null (4:4.6.0.0-3)
+    multimedia framework from KDE - null back-end (no real back-end)
+phonon-backend-vlc (0.6.0-1)
+    Phonon VLC backend
+pianobar (2012.05.06-2)
+    console based player for Pandora radio
+picard (1.0-1)
+    Next-Generation MusicBrainz audio files tagger
+plait (1.6.2-1)
+    command-line jukebox
+playmidi (2.4debian-9.2)
+    MIDI player
+pmidi (1.6.0-5+b1 [kfreebsd-amd64, kfreebsd-i386], 1.6.0-5 [amd64, armel, armhf, i386, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    A command line midi player for ALSA
+pms (0.41-1)
+    Practical Music Search, an MPD client
+poc-streamer (0.4.2-3)
+    An MP3/Ogg multicast/HTTP streamer and MP3 cutting tool
+podracer (1.4-1.1)
+    podcast aggregator/downloader
+projectm-jack (2.1.0+dfsg-1)
+    projectM JackAudio module
+projectm-pulseaudio (2.1.0+dfsg-1)
+    projectM PulseAudio module
+promoe (0.1.1-3+b1)
+    GUI client for XMMS2
+puddletag (1.0.0~rc1-1)
+    simple, powerful audio tag editor
+pulseaudio (2.0-6.1)
+    PulseAudio sound server
+pulseaudio-esound-compat (2.0-6.1)
+    PulseAudio ESD compatibility layer
+pulseaudio-module-bluetooth (2.0-6.1)
+    Bluetooth module for PulseAudio sound server
+pulseaudio-module-gconf (2.0-6.1)
+    GConf module for PulseAudio sound server
+pulseaudio-module-jack (2.0-6.1)
+    jackd modules for PulseAudio sound server
+pulseaudio-module-lirc (2.0-6.1)
+    lirc module for PulseAudio sound server
+pulseaudio-module-raop (2.0-6.1)
+    RAOP module for PulseAudio sound server
+pulseaudio-module-x11 (2.0-6.1)
+    X11 module for PulseAudio sound server
+pulseaudio-module-zeroconf (2.0-6.1)
+    Zeroconf module for PulseAudio sound server
+pulseaudio-utils (2.0-6.1)
+    Command line tools for the PulseAudio sound server
+puredata (0.43.2-5)
+    realtime computer music and graphics system
+puredata-core (0.43.2-5)
+    realtime computer music and graphics system - core components
+puredata-extra (0.43.2-5)
+    realtime computer music and graphics system - extra files
+puredata-gui (0.43.2-5)
+    realtime computer music and graphics system - GUI
+puredata-import (1.3-3)
+    Pd object for loading libraries within a patch
+pygmy (0.48-3)
+    PyGTK client for the Music Player Daemon (MPD)
+python-eyed3 (0.6.18-1)
+    Python module for id3-tags manipulation
+pytone (3.0.0-1+b4 [amd64, armel, i386, ia64, mips, mipsel, powerpc, s390, sparc], 3.0.0-1+b3 [kfreebsd-amd64, kfreebsd-i386], 3.0.0-1 [armhf, s390x])
+    Music jukebox with advanced features for DJs and a text-mode user interface
+qasconfig (0.17.2-2)
+    ALSA configuration browser
+qashctl (0.17.2-2)
+    mixer for ALSA's High level Control Interface
+qasmixer (0.17.2-2)
+    ALSA mixer for the desktop
+qastools-common (0.17.2-2)
+    QasTools common files
+qjackctl (0.3.9-2)
+    User interface for controlling the JACK sound server
+qjackrcd (1.0.6~ds0-1)
+    Qt4 application to record JACK server outputs
+qmidiarp (0.5.0-1)
+    MIDI arpeggiator for ALSA
+qmidinet (0.1.2-1)
+    MIDI Network Gateway via UDP/IP Multicast
+qmidiroute (0.3.0-1+b1 [kfreebsd-amd64, kfreebsd-i386], 0.3.0-1 [amd64, armel, armhf, i386, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    a MIDI event router and filter
+qmmp (0.5.5-1+b1)
+    feature-rich audio player with support of many formats
+qmmp-plugin-projectm (0.5.5-1+b1)
+    qmmp audio player -- projectM visualization plugin
+qmpdclient (1.2.2-2)
+    Qt4 client for the Music Player Daemon (MPD)
+qsampler (0.2.2-5)
+    LinuxSampler GUI frontend based on the Qt toolkit
+qsynth (0.3.6-2)
+    fluidsynth MIDI sound synthesiser front-end
+qtractor (0.5.5-1)
+    MIDI/Audio multi-track sequencer application
+qtscrob (0.10-4)
+    audioscrobbler submitter for rockbox-format .scrobbler.log files
+quelcom (0.4.0-13)
+    Command line editing tools for MP3 and WAV files
+quodlibet (2.4-1)
+    audio library manager and player for GTK+
+quodlibet-plugins (1:2.4-1)
+    various contributed plugins for Quod Libet
+qutecsound (0.6.1-2)
+    frontend for the csound sound processor
+radio (3.102-3)
+    ncurses-based radio application
+radiotray (0.7.2-1)
+    online radio streaming player
+rakarrack (0.6.1-4)
+    Simple and easy guitar effects processor for GNU/Linux
+randomplay (0.60+nmu1)
+    command-line based shuffle music player that remembers songs between sessions
+recite (1.0-8.2)
+    English text speech synthesizer
+remuco-amarok (0.9.6-2)
+    duplex remote control for media players - Amarok adapter
+remuco-audacious (0.9.6-2)
+    duplex remote control for media players - Audacious adapter
+remuco-banshee (0.9.6-2)
+    duplex remote control for media players - Banshee adapter
+remuco-base (0.9.6-2)
+    duplex remote control for media players - base
+remuco-clementine (0.9.6-2)
+    duplex remote control for media players - Clementine adapter
+remuco-exaile (0.9.6-2)
+    duplex remote control for media players - Exaile adapter
+remuco-gmusicbrowser (0.9.6-2)
+    duplex remote control for media players - gmusicbrowser adapter
+remuco-mpd (0.9.6-2)
+    duplex remote control for media players - MPD adapter
+remuco-mplayer (0.9.6-2)
+    duplex remote control for media players - MPlayer adapter
+remuco-okular (0.9.6-2)
+    duplex remote control for media players - Okular adapter
+remuco-quodlibet (0.9.6-2)
+    duplex remote control for media players - Quod Libet adapter
+remuco-totem (0.9.6-2)
+    duplex remote control for media players - Totem adapter
+remuco-tvtime (0.9.6-2)
+    duplex remote control for media players - tvtime adapter
+remuco-vlc (0.9.6-2)
+    duplex remote control for media players - VLC adapter
+remuco-xmms2 (0.9.6-2)
+    duplex remote control for media players - XMMS2 adapter
+rev-plugins (0.3.1-2)
+    gverb-like ladspa plugin
+rexima (1.4-7)
+    simple ncurses/command-line mixer
+rio (1.07-11.1)
+    A command line Diamond Rio MP3 player controller
+ripit (3.9.0-2)
+    Textbased audio CD ripper
+ripperx (2.7.3-1)
+    a GTK-based audio CD ripper/encoder
+roaraudio (1.0~beta2-3)
+    sound server for audio mixing
+roarclients (1.0~beta2-3)
+    Collection of basic clients for the RoarAudio Sound System
+roarplaylistd (0.1.1-2)
+    RoarAudio PlayList Daemon (RPLD)
+roarplaylistd-codechelper-gst (0.1.1-2)
+    roarplaylistd helper script for GStreamer codecs
+roarplaylistd-tools (0.1.1-2)
+    Tools to control RoarAudio PlayList Daemon (RPLD)
+rosegarden (1:12.04-1)
+    music editor and MIDI/audio sequencer
+rotter (0.9-3)
+    JACK client for transmission recording and audio logging
+rplay-client (3.3.2-14)
+    rplay network audio system - basic clients
+rplay-contrib (3.3.2-14)
+    rplay network audio system - contributed binaries
+rplay-server (3.3.2-14)
+    rplay network audio system - server
+rubberband-cli (1.3-1.3)
+    an audio time-stretching and pitch-shifting utility
+rubberband-ladspa (1.3-1.3)
+    a LADSPA plugin for audio pitch-shifting
+rubberband-vamp (1.3-1.3)
+    Vamp plugins using Rubber Band
+rumor (1.0.5-1+b1 [kfreebsd-amd64, kfreebsd-i386], 1.0.5-1 [amd64, armel, armhf, i386, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    Realtime MIDI keyboard to Lilypond converter
+saytime (1.0-24)
+    speaks the current time through your sound card
+schism (2:0+20110101-1)
+    ImpulseTracker clone aiming at providing the same look&feel
+scrobble-cli (0.10-4)
+    audioscrobbler submitter for rockbox-format .scrobbler.log files
+seq24 (0.9.2-2)
+    Real time MIDI sequencer
+sfront (0.98-1)
+    MPEG 4 Structured Audio decoder
+shell-fm (0.7+git20100414-1)
+    console based player for last.fm radio streams
+showq (0.4.1+git20090622+dfsg0-1+b1)
+    MIDI controllable audio player
+sidplay (2.0.9-6)
+    Music player for tunes from C64 and C128 (console)
+sidplay-base (1.0.9-6)
+    Music player for tunes from C64 and C128 (console)
+sidplayfp (0.3.1-1)
+    Fork of sidplay2, a C64 and C128 music player
+siggen (2.3.10-5)
+    Waveform generation tools
+silentjack (0.3-2)
+    silence detector for the JACK audio system
+sineshaper (0.4.2-7)
+    Monophonic synth plugin with two oscillators and waveshapers
+slv2-jack (0.6.6+dfsg1-2)
+    Jack support for LV2 plugins
+smf-utils (1.3-2)
+    Utilities to support the smf library
+snd (11.7-2)
+    Sound file editor
+snd-gtk (11.7-2)
+    Sound file editor (dummy transitional package)
+snd-gtk
+    virtual package provided by snd-gtk-jack, snd-gtk-pulse
+snd-gtk-jack (11.7-2)
+    Sound file editor (GTK+ user interface - JACK)
+snd-gtk-pulse (11.7-2)
+    Sound file editor (GTK+ user interface - PulseAudio)
+snd-nox (11.7-2)
+    Sound file editor (without X support)
+snd-nox-alsa (11.7-2)
+    Sound file editor (dummy transitional package)
+snd-nox-alsa
+    virtual package provided by snd-nox
+sndfile-tools (1.03-2+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.03-2 [armhf, s390x])
+    A collection of programs for operating on sound files
+so-synth-lv2 (1.4-2)
+    Set of synthesizers for the LV2 plugin format
+sonata (1.6.2.1-5)
+    GTK+ client for the Music Player Daemon (MPD)
+songwrite (0.14-9)
+    guitar tablature editor and player
+sonic (0.1.17-1.1)
+    Simple utility to speed up or slow down speech
+sooperlooper (1.6.18~dfsg0-1)
+    Looping Sampler
+sound-icons (0.1-3)
+    Sounds for speech enabled applications
+sound-theme-freedesktop (0.7.pristine-2)
+    freedesktop.org sound theme
+soundstretch (1.6.0-3)
+    Stretches and pitch-shifts sound independently
+sox (14.4.0-3+deb7u1)
+    Swiss army knife of sound processing
+specimen (0.5.2rc3-5)
+    MIDI controllable audio sampler for GNU/Linux systems
+speech-dispatcher (0.7.1-6.2)
+    Common interface to speech synthesizers
+speech-dispatcher-festival (0.7.1-6.2)
+    Festival support for Speech Dispatcher
+speech-tools (1:2.1~release-5)
+    Edinburgh Speech Tools - user binaries
+speex (1.2~rc1-7)
+    The Speex codec command line tools
+spek (0.7-3)
+    acoustic spectrum analyser
+splay (0.9.5.2-13)
+    Sound player for MPEG-1,2 layer 1,2,3
+stk (4.4.3-2)
+    Sound Synthesis Toolkit (example applications)
+stops (0.3.0-1)
+    Stop and instrument definitions for Aeolus-0.6.x
+streamripper (1.64.6-1)
+    download online streams into audio files
+streamtuner2 (2.0.8-5)
+    Browser for Internet Radio Stations
+stretchplayer (0.503-2)
+    Audio file player with time stretch and pitch shifting
+stymulator (0.21a~dfsg-1)
+    Curses based player and converter for the YM chiptune format
+supercollider (1:3.4.5-1wheezy1)
+    real time audio synthesis programming language
+supercollider-common (1:3.4.5-1wheezy1)
+    common files for SuperCollider
+supercollider-dev (1:3.4.5-1wheezy1)
+    development files for SuperCollider
+supercollider-emacs (1:3.4.5-1wheezy1)
+    SuperCollider mode for Emacs
+supercollider-server (1:3.4.5-1wheezy1)
+    real time audio synthesis server
+supercollider-vim (1:3.4.5-1wheezy1)
+    SuperCollider mode for Vim
+swami (2.0.0+svn389-2)
+    MIDI instrument editor application
+sweep (0.9.3-6)
+    Audio editor and live playback tool
+swh-lv2 (1.0.15+20111107.gitec6b85e-1)
+    Steve Harris's SWH plugins ported to LV2
+swh-plugins (0.4.15+1-6)
+    Steve Harris's LADSPA plugins
+synaesthesia (2.4-3)
+    Program for representing sounds visually
+taggrepper (0.03.1-3)
+    search and match tags of audio files against regular expressions
+tagtool (0.12.3-8.1)
+    Tool to tag and rename MP3 and Ogg Vorbis files
+tap-plugins (0.7.2-1)
+    Tom's Audio Processing LADSPA plugins
+tclcsound (1:5.17.11~dfsg-3)
+    Tcl bindings and interpreters for Csound
+tempest-for-eliza (1.0.5-1)
+    demostrate electromagnetic emissions from computer systems
+terminatorx (3.84-2)
+    realtime audio synthesizer
+tetraproc (0.8.2-2)
+    Tetrahedral Microphone Processor for Ambisonic Recording
+timemachine (0.3.3-1)
+    JACK audio recorder for spontaneous and conservatory use
+timidity (2.13.2-40.1)
+    Software sound renderer (MIDI sequencer, MOD player)
+timidity-daemon (2.13.2-40.1)
+    runs TiMidity++ as a system-wide MIDI sequencer
+timidity-interfaces-extra (2.13.2-40.1)
+    TiMidity++ extra user interfaces
+tk707 (0.7.21-9.1+b1 [kfreebsd-amd64, kfreebsd-i386], 0.7.21-9.1 [amd64, armel, armhf, i386, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    drum sequencer for a sound card or MIDI device
+traverso (0.49.2-5)
+    Multitrack audio recorder and editor
+tse3play (0.3.1-4.3)
+    MIDI/TSE3MDL player/converter
+tuxguitar (1.2-13+deb7u1)
+    Multitrack guitar tablature editor and player (gp3 to gp5)
+tuxguitar-alsa (1.2-13+deb7u1)
+    tuxguitar plugin for sound playback using ALSA
+tuxguitar-fluidsynth (1.2-13+deb7u1)
+    tuxguitar plugin for sound playback using fluidsynth
+tuxguitar-jack (1.2-13+deb7u1)
+    tuxguitar plugin for sound playback using JACKD
+tuxguitar-jsa (1.2-13+deb7u1)
+    tuxguitar plugin for sound playback using Java Sound API
+tuxguitar-oss (1.2-13+deb7u1)
+    tuxguitar plugin for sound playback using OSS
+twolame (0.3.13-1)
+    MPEG Audio Layer 2 encoder (command line frontend)
+upse123 (1.0.0-1)
+    commandline player based on libupse
+vagalume (0.8.5-4)
+    GTK+-based client for Last.fm and compatible radio services
+vamp-examples (2.1-1)
+    example Vamp plugins and host
+vamp-plugin-sdk (2.1-1)
+    audio analysis and feature extraction plugins (SDK)
+vbrfix (0.24-7)
+    corrects MP3 files that have incorrect VBR information
+vclt-tools (0.1.2-3)
+    Collection of tools to create and manipulate VCLT playlists
+vco-plugins (0.3.0-2)
+    LADSPA plugin sporting anti-aliased oscillators
+veromix (0.18.3-1)
+    Mixer for the PulseAudio sound server (GTK+)
+veromix-common (0.18.3-1)
+    Mixer for the PulseAudio sound server (common)
+viridian (1.2-3)
+    play audio streams from an Ampache server
+vkeybd (1:0.1.18d-2)
+    Virtual MIDI Keyboard
+vmpk (0.4.0-3)
+    Virtual MIDI Piano Keyboard
+vocproc (0.2-3)
+    LV2 plugin for pitch shifting and vocoding
+volti (0.2.3-5)
+    control audio volume from system tray/notification area
+volumeicon-alsa (0.4.6-1)
+    systray volume icon for alsa
+vorbis-tools (1.4.0-1)
+    several Ogg Vorbis tools
+vorbisgain (0.37-2)
+    add Replay Gain volume tags to Ogg Vorbis files
+wah-plugins (0.0.2-2)
+    auto-wah LADSPA plugin
+wav2cdr (2.3.4-1)
+    Converts wav files into CD-ROM audio file format
+wavesurfer (1.8.8p3-1)
+    Sound Manipulation Program
+wavpack (4.60.1-3)
+    audio codec (lossy and lossless) - encoder and decoder
+whysynth (20090403-1.2+b1 [kfreebsd-amd64, kfreebsd-i386], 20090403-1.2 [amd64, armel, armhf, i386, ia64, mips, mipsel, powerpc, s390, s390x, sparc])
+    DSSI Soft Synth Interface
+wildmidi (0.2.3.4-2.1)
+    software MIDI player
+wmauda (0.8-2)
+    remote-control dockapp for Audacious
+wmcdplay (1.0beta1-10)
+    A CD player based on ascd designed for WindowMaker
+wmrack (1.4-2)
+    Combined CD Player + Mixer designed for WindowMaker
+wmxmms2 (0.6-6)
+    remote-control dockapp for XMMS2
+wsynth-dssi (0.1.3-4)
+    hack on Xsynth-DSSI to allow wavetable synthesis
+xcfa (4.3.1-1)
+    X Convert File Audio
+xfmpc (0.2.2-1)
+    graphical GTK+ MPD client
+xmix (2.1-6)
+    X11-based interface to the Linux sound driver mixer
+xmms2 (0.8+dfsg-4+deb7u1)
+    Client/server based media player system
+xmms2-client-avahi (0.8+dfsg-4+deb7u1)
+    XMMS2 - avahi client
+xmms2-client-cli (0.8+dfsg-4+deb7u1)
+    XMMS2 - cli client
+xmms2-client-medialib-updater (0.8+dfsg-4+deb7u1)
+    XMMS2 - medialib-updater client
+xmms2-client-nycli (0.8+dfsg-4+deb7u1)
+    XMMS2 - new cli client
+xmms2-core (0.8+dfsg-4+deb7u1)
+    XMMS2 - core package
+xmms2-icon (0.8+dfsg-4+deb7u1)
+    XMMS2 - icon package
+xmms2-plugin-airplay (0.8+dfsg-4+deb7u1)
+    XMMS2 - airplay output plug-in
+xmms2-plugin-all (0.8+dfsg-4+deb7u1)
+    XMMS2 - all plug-ins
+xmms2-plugin-alsa (0.8+dfsg-4+deb7u1)
+    XMMS2 - ALSA output
+xmms2-plugin-ao (0.8+dfsg-4+deb7u1)
+    XMMS2 - libao output plug-in
+xmms2-plugin-apefile (0.8+dfsg-4+deb7u1)
+    XMMS2 - Monkey's Audio decoder plug-in
+xmms2-plugin-asf (0.8+dfsg-4+deb7u1)
+    XMMS2 - ASF plug-in
+xmms2-plugin-asx (0.8+dfsg-4+deb7u1)
+    XMMS2 - ASX playlist plug-in
+xmms2-plugin-avcodec (0.8+dfsg-4+deb7u1)
+    XMMS2 - avcodec decoder
+xmms2-plugin-cdda (0.8+dfsg-4+deb7u1)
+    XMMS2 - CDDA plug-in
+xmms2-plugin-cue (0.8+dfsg-4+deb7u1)
+    XMMS2 - CUE playlist plug-in
+xmms2-plugin-curl (0.8+dfsg-4+deb7u1)
+    XMMS2 - curl transport for HTTP
+xmms2-plugin-daap (0.8+dfsg-4+deb7u1)
+    XMMS2 - daap plug-in
+xmms2-plugin-faad (0.8+dfsg-4+deb7u1)
+    XMMS2 - faad decoder
+xmms2-plugin-flac (0.8+dfsg-4+deb7u1)
+    XMMS2 - FLAC decoder
+xmms2-plugin-flv (0.8+dfsg-4+deb7u1)
+    XMMS2 - Flash Video plug-in
+xmms2-plugin-gme (0.8+dfsg-4+deb7u1)
+    XMMS2 - gme plug-in
+xmms2-plugin-gvfs (0.8+dfsg-4+deb7u1)
+    XMMS2 - gvfs plug-in
+xmms2-plugin-html (0.8+dfsg-4+deb7u1)
+    XMMS2 - HTML playlist plug-in
+xmms2-plugin-ices (0.8+dfsg-4+deb7u1)
+    XMMS2 - Ogg streaming output
+xmms2-plugin-icymetaint (0.8+dfsg-4+deb7u1)
+    XMMS2 - shoutcast metadata plug-in
+xmms2-plugin-id3v2 (0.8+dfsg-4+deb7u1)
+    XMMS2 - ID3v2 plug-in
+xmms2-plugin-jack (0.8+dfsg-4+deb7u1)
+    XMMS2 - JACK output
+xmms2-plugin-karaoke (0.8+dfsg-4+deb7u1)
+    XMMS2 - karaoke plug-in
+xmms2-plugin-m3u (0.8+dfsg-4+deb7u1)
+    XMMS2 - M3U playlist plug-in
+xmms2-plugin-mad (0.8+dfsg-4+deb7u1)
+    XMMS2 - libmad based mp3 decoder
+xmms2-plugin-mms (0.8+dfsg-4+deb7u1)
+    XMMS2 - MMS transport
+xmms2-plugin-modplug (0.8+dfsg-4+deb7u1)
+    XMMS2 - modplug decoder
+xmms2-plugin-mp4 (0.8+dfsg-4+deb7u1)
+    XMMS2 - MPEG-4 plug-in
+xmms2-plugin-mpg123 (0.8+dfsg-4+deb7u1)
+    XMMS2 - libmpg123 based mp3 decoder
+xmms2-plugin-musepack (0.8+dfsg-4+deb7u1)
+    XMMS2 - mpc decoder
+xmms2-plugin-normalize (0.8+dfsg-4+deb7u1)
+    XMMS2 - Normalize plug-in
+xmms2-plugin-ofa (0.8+dfsg-4+deb7u1)
+    XMMS2 - Open Fingerprint Architecture plug-in
+xmms2-plugin-oss (0.8+dfsg-4+deb7u1)
+    XMMS2 - OSS output
+xmms2-plugin-pls (0.8+dfsg-4+deb7u1)
+    XMMS2 - PLS playlist plug-in
+xmms2-plugin-pulse (0.8+dfsg-4+deb7u1)
+    XMMS2 - PulseAudio output plug-in
+xmms2-plugin-rss (0.8+dfsg-4+deb7u1)
+    XMMS2 - RSS podcast plug-in
+xmms2-plugin-sid (0.8+dfsg-4+deb7u1)
+    XMMS2 - libsidplay2 based decoder
+xmms2-plugin-smb (0.8+dfsg-4+deb7u1)
+    XMMS2 - Server Message Block (SMB) transport
+xmms2-plugin-sndfile (0.8+dfsg-4+deb7u1)
+    XMMS2 - sndfile decoder
+xmms2-plugin-speex (0.8+dfsg-4+deb7u1)
+    XMMS2 - Speex decoder
+xmms2-plugin-tta (0.8+dfsg-4+deb7u1)
+    XMMS2 - TTA decoder plug-in
+xmms2-plugin-vocoder (0.8+dfsg-4+deb7u1)
+    XMMS2 - vocoder plug-in
+xmms2-plugin-vorbis (0.8+dfsg-4+deb7u1)
+    XMMS2 - vorbis decoder
+xmms2-plugin-wavpack (0.8+dfsg-4+deb7u1)
+    XMMS2 - WavPack decoder plug-in
+xmms2-plugin-xml (0.8+dfsg-4+deb7u1)
+    XMMS2 - XML plug-in
+xmms2-plugin-xspf (0.8+dfsg-4+deb7u1)
+    XMMS2 - XSPF playlist plug-in
+xmms2-scrobbler (0.4.0-3)
+    Audioscrobbler/Last.FM client for XMMS2
+xmms2tray (0.5.1-2)
+    System tray integration for XMMS2
+xmp (3.4.0-1.1)
+    module player supporting AWE32, GUS, and software-mixing
+xmp-audacious (3.4.0-1.1)
+    XMP plugin for Audacious
+xmp-common (3.4.0-1.1)
+    common files for xmp and the xmp Audacious plugin
+xsynth-dssi (0.9.4-2)
+    classic-analog (VCOs-VCF-VCA) style software synthesizer
+xwax (0.9-2)
+    open-source vinyl emulation software for Linux
+yaret (2.1.0-5)
+    A console tool to turn CDs into encoded music
+yatm (0.6-1+b3 [armel, kfreebsd-amd64, kfreebsd-i386, mipsel, powerpc, s390], 0.6-1+b2 [amd64, i386, ia64, mips, sparc], 0.6-1 [armhf, s390x])
+    Command line audio file player with time stretching capabilities
+yauap (0.2.4-3)
+    simple command line audio player based on GStreamer
+yoshimi (0.060.12-2)
+    software synthesizer based on ZynAddSubFX
+yoshimi-data (0.060.12-2)
+    Presets for Yoshimi
+zeya (0.6-1)
+    web music server
+zita-ajbridge (0.2.2-1)
+    alsa to jack bridge
+zita-alsa-pcmi-utils (0.2.0-1)
+    Two simple demo programs zita-alsa-pcmi library
+zita-at1 (0.2.3-2)
+    JACK autotuner
+zita-lrx (0.1.0-1)
+    Command line jack application providing crossover filters
+zita-resampler (1.1.0-3)
+    resampler application written with libzita-resampler
+zita-rev1 (0.2.1-2)
+    pro-audio reverb effect
+zomg (0.5.14-2)
+    console-based libre.fm submission and radio client
+zynadd (1+git.20100609+dfsg0-2)
+    ZynAddSubFX engines converted to LV2 plugin format
+zynaddsubfx (2.4.0-2)
+    Realtime software synthesizer for Linux
+zynjacku (6-4)
+    JACK based host for LV2 synths and LV2 plugins 
