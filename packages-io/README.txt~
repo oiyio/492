@@ -1,42 +1,42 @@
-admin.txt : Administration Utilities
-cli-mono : Mono/CLI
-comm.txt : Communication Programs
-database.txt : Databases
-debug.txt : Debug packages
-devel.txt : Development
-doc.txt : Documentation
-editors.txt : Editors
-electronics.txt : Electronics
-embedded.txt : Embedded software
-fonts.txt : Fonts
-gnome.txt : GNOME
-gnu-r.txt : GNU R
+admin.txt : Administration Utilities					SYSTEM
+cli-mono : Mono/CLI							Developer TOOLS
+comm.txt : Communication Programs					SYSTEM
+database.txt : Databases						SYSTEM
+debug.txt : Debug packages						Developer TOOLS
+devel.txt : Development							Developer TOOLS
+doc.txt : Documentation							SYSTEM
+editors.txt : Editors							EDITORS
+electronics.txt : Electronics						SYSTEM
+embedded.txt : Embedded software					SYSTEM
+fonts.txt : Fonts							FONTS
+gnome.txt : GNOME							GNOME
+gnu-r.txt : GNU R							OTHERS
 gnustep.txt : GNUstep , The GNUstep environment.
-graphics.txt : Graphics
+graphics.txt : Graphics							GRAPHICS
 hamradio.txt : Ham Radio, Software for ham radio.
-haskell.txt : Haskell
+haskell.txt : Haskell							Developer TOOLS
 httpd.txt : Web servers and their modules.
-interpreters.txt : Interpreters,
-java.txt : Java
+interpreters.txt : Interpreters,      					Developer TOOLS
+java.txt : Java								Developer TOOLS
 kde.txt : KDE
 kernels.txt : Kernels
 libdevel.txt : Library Development
-libs.txt : Libraries
-lisp.txt : Lisp
+libs.txt : Libraries							Developer TOOLS
+lisp.txt : Lisp								Developer TOOLS
 localization.txt : Language packs
 mail.txt : Mail
-math.txt : Mathematics
+math.txt : Mathematics							SCIENCE
 misc.txt : Miscelleneous
 network.txt : Network
 news.txt : Newsgroup
 ocaml.txt : OCaml , everything about OCaml, an ML language imp.
 oldlibs.txt : Old libraries
 otherosfs.txt : Other OS's and file systems
-perl.txt : Perl
-php.txt : Php
+perl.txt : Perl								Developer TOOLS
+php.txt : Php								Developer TOOLS
 python.txt : Python
 ruby.txt : Ruby
-science.txt : Science
+science.txt : Science							SCIENCE
 shells.txt : Shells
 sound.txt : Sound, 
 tex.txt : TeX, The famous typesetting software and related programs.

@@ -1,0 +1,350 @@
+ess (12.04-4-1)
+    Emacs mode for statistical programming and data analysis
+littler (0.1.5-1)
+    GNU R scripting and command-line front-end
+r-base (2.15.1-4)
+    GNU R statistical computation and graphics system
+r-base-core (2.15.1-4)
+    GNU R core of statistical computation and graphics system
+r-base-dev (2.15.1-4)
+    GNU R installation of auxiliary GNU R packages
+r-bioc-biobase (2.14.0-1)
+    base functions for Bioconductor
+r-bioc-biocgenerics (0.2.0-1)
+    generic functions for Bioconductor
+r-bioc-cummerbund (1.2.0-1)
+    tool for analysis of Cufflinks RNA-Seq output
+r-bioc-edger (2.6.1~dfsg-1)
+    Empirical analysis of digital gene expression data in R
+r-bioc-limma (3.12.0~dfsg-1)
+    linear models for microarray data
+r-bioc-qvalue (1.30.0-1)
+    GNU R package for Q-value estimation for FDR control
+r-cran-abind (1.4-0-1)
+    GNU R abind multi-dimensional array combination function
+r-cran-amelia (1.6.1-1)
+    GNU R package supporting multiple imputation of missing data
+r-cran-amore (0.2-12-2)
+    GNU R: A MORE flexible neural network package
+r-cran-bayesm (2.2-4-1)
+    GNU R package for Bayesian inference
+r-cran-bitops (1.0-4.1-2)
+    GNU R package implementing bitwise operations
+r-cran-boot (1.3-5-1)
+    GNU R package for bootstrapping functions from Davison and Hinkley
+r-cran-cairodevice (2.19-1)
+    GNU R Cairo/Gtk2 device driver package
+r-cran-car (2.0-12-1)
+    GNU R Companion to Applied Regression by John Fox
+r-cran-catools (1.12-2)
+    GNU R package providing various utility functions
+r-cran-chron (2.3-42-1)
+    GNU R package for chronologically ordered objects
+r-cran-class (7.3-4-1)
+    GNU R package for classification
+r-cran-cluster (1.14.2-1)
+    GNU R package for cluster analysis by Rousseeuw et al
+r-cran-coda (0.14-7-1)
+    Output analysis and diagnostics for MCMC simulations in R
+r-cran-codetools (0.2-8-1)
+    GNU R package providing code analysis tools
+r-cran-colorspace (1.0.1-1+b1 [amd64, armel, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc], 1.0.1-1 [armhf, s390x])
+    GNU R Color Space Manipulation
+r-cran-combinat (0.0-8-3)
+    GNU R package with utilities for combinatorics
+r-cran-date (1.2.32-1)
+    GNU R package for date handling
+r-cran-dbi (0.2-5-2)
+    GNU R package providing a generic database interface
+r-cran-deal (1.2.34-1)
+    Learning Bayesian Networks with Mixed Variables
+r-cran-diagnosismed (0.2.3-2)
+    medical diagnostic test accuracy analysis toolkit
+r-cran-digest (0.5.2-1)
+    GNU R package for 'hash digest' of R data structures
+r-cran-domc (1.2.5-1)
+    GNU R parallel excution backend for %dopar% using multicore
+r-cran-dosnow (1.0.6-1)
+    GNU R parallel excution backend for %dopar% using snow
+r-cran-eco (3.1-4-2)
+    GNU R routines for Bayesian ecological inference
+r-cran-effects (2.1.1-1)
+    GNU R graphical and tabular effects display for glm models
+r-cran-epi (1.1.33-1)
+    GNU R epidemiological analysis
+r-cran-epibasix (1.1-3)
+    GNU R Elementary Epidemiological Functions
+r-cran-epicalc (2.14.1.6-1)
+    GNU R Epidemiological calculator
+r-cran-epir (0.9-38-1)
+    GNU R Functions for analysing epidemiological data
+r-cran-epitools (1:0.5-6-1)
+    GNU R Epidemiology Tools for Data and Graphics
+r-cran-erm (0.14-0-2)
+    GNU R package for 'extended Rasch modelling'
+r-cran-evd (2.2-4-2)
+    GNU R Functions for extreme value distributions
+r-cran-fasianoptions (2160.77-1)
+    GNU R package for financial engineering -- fAsianOptions
+r-cran-fassets (2100.78-3)
+    GNU R package for financial engineering -- fAssets
+r-cran-fbasics (2160.81-2)
+    GNU R package for financial engineering -- fBasics
+r-cran-fbonds (2100.75-3)
+    GNU R package for financial engineering -- fBonds
+r-cran-fcopulae (2110.78-1)
+    GNU R package for financial engineering -- fCopulae
+r-cran-fexoticoptions (2110.77-2)
+    GNU R package for financial engineering -- fExoticOptions
+r-cran-fextremes (2100.77-3)
+    GNU R package for financial engineering -- fExtremes
+r-cran-fgarch (2110.80.1-1)
+    GNU R package for financial engineering -- fGarch
+r-cran-fimport (2160.81-1)
+    GNU R package for financial engineering -- fImport
+r-cran-fmultivar (2100.76-3)
+    GNU R package for financial engineering -- fMultivar
+r-cran-fnonlinear (2100.76-4)
+    GNU R package for financial engineering -- fNonlinear
+r-cran-foptions (2160.81-1)
+    GNU R package for financial engineering -- fOptions
+r-cran-foreach (1.4.0-1)
+    GNU R foreach looping support
+r-cran-foreign (0.8.50-1)
+    GNU R package to read/write data from other stat. systems
+r-cran-fportfolio (2130.80-1)
+    GNU R package for financial engineering -- fPortfolio
+r-cran-fregression (2100.76-4)
+    GNU R package for financial engineering -- fRegression
+r-cran-ftrading (2100.76-3)
+    GNU R package for financial engineering -- fTrading
+r-cran-funitroots (2100.76-3)
+    GNU R package for financial engineering -- fUnitRoots
+r-cran-g.data (2.0-4)
+    GNU R package for delayed-data
+r-cran-gam (1.06.2-1)
+    Generalized Additive Models for R
+r-cran-gdata (2.11.0-1)
+    GNU R package with data manipulation tools by Greg Warnes et al
+r-cran-genabel (1.7-0-3)
+    GNU R package for genome-wide SNP association analysis
+r-cran-genetics (1.3.6-2)
+    GNU R package for population genetics
+r-cran-getopt (1.17-1)
+    GNU R package providing command-line parsing functionality
+r-cran-ggplot2 (0.8.9-1)
+    implementation of the Grammar of Graphics
+r-cran-gmaps (0.2-1)
+    GNU R support for producing geographic maps with grid graphics
+r-cran-gmodels (2.15.3-1)
+    GNU R package with tools for model fitting by Greg Warnes et al
+r-cran-gplots (2.11.0-1)
+    GNU R package with tools for plotting data by Greg Warnes et al
+r-cran-gregmisc (2.1.2-2)
+    GNU R package with miscellaneous functions by Greg Warnes et al
+r-cran-gtools (2.7.0-1)
+    GNU R package with R programming tools by Greg Warnes et al
+r-cran-haplo.stats (1.5.5-1)
+    GNU R package for haplotype analysis
+r-cran-hdf5 (1.6.10-1+b2 [mipsel], 1.6.10-1+b1 [amd64, armel, armhf, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, powerpc, s390, s390x, sparc])
+    GNU R package interfacing the NCSA HDF5 library
+r-cran-hmisc (3.9-3-1)
+    GNU R miscellaneous functions by Frank Harrell
+r-cran-inline (0.3.8-1)
+    GNU R package to inline C, C++, Fortran functions from R
+r-cran-int64 (1.1.2-1)
+    GNU R package 64 bit integer types
+r-cran-iterators (1.0.6-1)
+    GNU R iterator support for vectors, lists and other containers
+r-cran-its (1.1.8-2)
+    GNU R package for handling irregular time series
+r-cran-kernsmooth (2.23-8-1)
+    GNU R package for kernel smoothing and density estimation
+r-cran-lattice (0.20-6-1)
+    GNU R package for 'Trellis' graphics
+r-cran-latticeextra (0.6-19-1)
+    GNU R package of additional graphical displays based on lattice
+r-cran-lme4 (0.999999-0-1)
+    GNU R package for linear mixed effects model fitting
+r-cran-lmtest (0.9.30-1)
+    GNU R package for diagnostic checking in linear models
+r-cran-lpsolve (5.6.6-1)
+    GNU R package providing linear program solvers
+r-cran-mapdata (2.2-1-1)
+    GNU R support for producing geographic maps (supplemental data)
+r-cran-mapproj (1.1-8.3-2)
+    GNU R support for cartographic projections of map data
+r-cran-maps (2.2-5-1)
+    GNU R support for producing geographic maps
+r-cran-maptools (1:0.7-38-1) [non-free]
+    GNU R Tools for reading and handling spatial objects
+r-cran-mass (7.3-19-1)
+    GNU R package of Venables and Ripley's MASS
+r-cran-matchit (2.4-18-1)
+    GNU R package of nonparametric matching methods
+r-cran-matrix (1.0-6-1)
+    GNU R package of classes for dense and sparse matrices
+r-cran-mcmcpack (1.2-3-1)
+    R routines for Markov chain Monte Carlo model estimation
+r-cran-medadherence (1.02-1)
+    GNU R Medication Adherence: Commonly Used Definitions
+r-cran-mgcv (1.7-13-1)
+    GNU R package for multiple parameter smoothing estimation
+r-cran-misc3d (0.8-2-1)
+    GNU R collection of 3d plot functions and rgl-based isosurfaces
+r-cran-mnormt (1.4-5-1)
+    GNU R package providing multivariate normal and t distribution
+r-cran-mnp (2.6-2-1)
+    GNU R package for fitting multinomial probit (MNP) models
+r-cran-msm (1.1-1)
+    GNU R Multi-state Markov and hidden Markov models in continuous time
+r-cran-multcomp (1.2-12-1)
+    GNU R package for multiple comparison procedures
+r-cran-multicore (0.1-7-1)
+    GNU R parallel processing on multi-core or multi-cpu machines
+r-cran-mvtnorm (0.9-9992-1)
+    GNU R package to compute multivariate Normal and T distributions
+r-cran-nlme (3.1.104-1)
+    GNU R package for (non-)linear mixed effects models
+r-cran-nnet (7.3-4-1)
+    GNU R package for feed-forward neural networks
+r-cran-nws (2.0.0.3-2)
+    GNU R package for distributed programming via NetWorkSpaces
+r-cran-permute (0.7-0-1)
+    R functions for generating restricted permutations of data
+r-cran-plotrix (3.2-6-1)
+    GNU R package providing various plotting functions
+r-cran-plyr (1.7.1-1)
+    Tools for splitting, applying and combining data
+r-cran-polspline (1.1.5-5)
+    GNU R package providing polynomial spline fitting
+r-cran-proto (0.3-9.2-1)
+    Prototype object-based programming
+r-cran-pscl (1.03.5-1+deb70u1)
+    GNU R package for discrete data models
+r-cran-psy (1.0-4)
+    GNU R procedures for psychometrics
+r-cran-pvclust (1.2-2-1)
+    Hierarchical Clustering with P-Values via Multiscale Bootstrap
+r-cran-qtl (1.23-16-1)
+    GNU R package for genetic marker linkage analysis
+r-cran-quadprog (1.5-4-1)
+    GNU R package for solving quadratic programming problems
+r-cran-randomforest (4.6-6-1)
+    GNU R package implementing the random forest classificator
+r-cran-raschsampler (0.8-5-1)
+    GNU R package for sampling binary matrices with fixed margins
+r-cran-rcmdr (1.8-4-1)
+    GNU R platform-independent basic-statistics GUI
+r-cran-rcolorbrewer (1.0-5-1)
+    GNU R package providing suitable color palettes
+r-cran-rcpp (0.9.13-1)
+    GNU R package for Seamless R and C++ Integration
+r-cran-relimp (1.0-3-1)
+    GNU R package for inference on relative importance of regressors
+r-cran-reshape (0.8.4-1)
+    Flexibly reshape data
+r-cran-reshape2 (1.2.1-1)
+    Flexibly reshape data: a reboot of the reshape package
+r-cran-rggobi (2.1.17-1)
+    GNU R package for the GGobi data visualization system
+r-cran-rgl (0.92.798-1+deb7u1)
+    GNU R package for three-dimensional visualisation using OpenGL
+r-cran-rglpk (0.3-8-1)
+    GNU R interface to the GNU Linear Programing Kit
+r-cran-rgtk2 (2.20.24-1)
+    GNU R binding for Gtk2
+r-cran-rjags (3.3-1)
+    R interface to the JAGS Bayesian statistics package
+r-cran-rjava (0.9-3-1)
+    GNU R low-level interface to Java
+r-cran-rmpi (0.5-9-3)
+    GNU R package interfacing MPI libraries for distributed computing
+r-cran-rms (3.5-0-1)
+    GNU R regression modeling strategies by Frank Harrell
+r-cran-rmysql (0.9-3-1+b1)
+    GNU R package providing a DBI-compliant interface to MySQL
+r-cran-robustbase (0.8-1-1-1)
+    GNU R package providing basic robust statistics
+r-cran-rocr (1.0-4-3)
+    GNU R package to prepare and display ROC curves
+r-cran-rodbc (1.3-6-1)
+    GNU R package for ODBC database access
+r-cran-rpart (3.1.54-1)
+    GNU R package for recursive partitioning and regression trees
+r-cran-rquantlib (0.3.8-2)
+    GNU R package interfacing the QuantLib finance library
+r-cran-rserve (0.6-8-1)
+    GNU R Rserve tcp/ip server and sample clients
+r-cran-rsprng (1.0-2)
+    GNU R interface to SPRNG (Scalable Parallel RNGs)
+r-cran-rsqlite (0.11.1-1)
+    Database Interface R driver for SQLite
+r-cran-rsymphony (0.1-14-1)
+    GNU R interface to the SYMPHONY MILP solver
+r-cran-runit (0.4.26-1)
+    GNU R package providing unit testing framework
+r-cran-sandwich (2.2-9-1)
+    GNU R package for model-robust standard error estimates
+r-cran-scatterplot3d (0.3-33-1)
+    GNU R package for Visualizing Multivariate Data
+r-cran-slam (0.1-24-1)
+    GNU R sparse lighweight arrays and matrices package
+r-cran-sm (2.2-4.1-1)
+    GNU R package for kernel smoothing methods
+r-cran-sn (0.4-17-1)
+    GNU R package providing skew-normal and skew-t distributions
+r-cran-snow (1:0.3.9-1)
+    GNU R package for 'simple network of workstations'
+r-cran-sp (1:0.9-81-1)
+    GNU R classes and methods for spatial data
+r-cran-spatial (7.3-4-1)
+    GNU R package for spatial statistics
+r-cran-spc (1:0.4.1-1)
+    GNU R Statistical Process Control
+r-cran-stabledist (0.6-4-1)
+    GNU R package for stable distribution functions
+r-cran-stringr (0.6.0-1)
+    Make it easier to work with strings
+r-cran-strucchange (1.4-7-1)
+    GNU R package for structural change regression estimation
+r-cran-surveillance (1.2-1-3) [contrib]
+    development and the evaluation of epidemiological outbreak detection algorithms
+r-cran-survival (2.36-14-1)
+    GNU R package for survival analysis
+r-cran-teachingdemos (2.7-1)
+    GNU R Demonstrations for teaching and learning
+r-cran-timedate (2160.95-1)
+    GNU R package for financial engineering -- timeDate
+r-cran-timeseries (2160.94-1)
+    GNU R package for financial engineering -- timeSeries
+r-cran-tkrplot (0.0.23-1)
+    GNU R embedded Tk plotting device package
+r-cran-tseries (0.10-28-1)
+    GNU R package for time-series analysis and comp. finance
+r-cran-urca (1.2-6-1)
+    GNU R package providing unit root and cointegration tests
+r-cran-vcd (1:1.2-12-1)
+    GNU R Visualizing Categorical Data
+r-cran-vegan (2.0-3-1)
+    Community Ecology Package for R
+r-cran-vgam (0.8-7-1)
+    GNU R package for estimating vector generalized additive models
+r-cran-xml (3.9-4-1)
+    GNU R package for XML parsing and generation
+r-cran-xtable (1:1.5-6-1)
+    GNU R coerce data to LaTeX and HTML tables
+r-cran-zelig (3.5.5-1)
+    GNU R package providing a unified front-end for estimating statistical models
+r-cran-zoo (1.7-7-1)
+    GNU R package for totally ordered indexed observations
+r-mathlib (2.15.1-4)
+    GNU R standalone mathematics library
+r-other-bio3d (1.1-4-1)
+    GNU R package for biological structure analysis
+r-other-mott-happy (2.1-7)
+    GNU R package for fine-mapping complex diseases
+r-other-rot (1.0-4)
+    GNU R package of few tools needed by OpenTURNS
+r-recommended (2.15.1-4)
+    GNU R collection of recommended packages

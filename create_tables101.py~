@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 ######   testing in shell ######
-#####
+##### sqlite
 # import create_tables101 as cr
 # cr.createAll()
 # cr.insertToUser()
@@ -28,7 +28,12 @@ def createUsersTable():
 					uid INTEGER PRIMARY KEY AUTOINCREMENT,
 					username VARCHAR(20) NOT NULL,
 					password VARCHAR(20) NOT NULL,
-					fullname VARCHAR(30) NOT NULL,
+			A Tutorial Introduction
+
+Up-front warning: This is the beginning of a very basic tutorial on views, based on my experimentation with them. This tutorial assumes that you've read the appropriate tutorials up to and including More Advanced Joins (or that you understand the concepts behind them). This page is intended to give you a general idea of how views work and what they do, as well as some examples of when you could use them.
+Requirements for This Tutorial
+
+In order to perform the SQL statements in this tutorial, you will need access to a database hosted on a MySQL 5.x server, and you will need the CREATE TABLE and CREATE VIEW privileges on this table.		fullname VARCHAR(30) NOT NULL,
 					email VARCHAR(30) NOT NULL
 					)""")
 	im.execute("""CREATE INDEX uindex ON users (username)""")
@@ -47,6 +52,7 @@ def createPackagesTable():
 					pname VARCHAR(50) NOT NULL,
 					version VARCHAR(50) NOT NULL,
 					category VARCHAR(20) NOT NULL,
+					subcategory VARCHAR(20) NOT NULL,
 					total_rate INT NOT NULL,
 					total_download INT NOT NULL
 					)""")
@@ -62,7 +68,7 @@ def insertToPackages():
 
 	db = sqlite3.connect("mydb.db")
 	im = db.cursor()
-	
+
 	#skip user_id, bacause of autoincrement, thus NULL in mysql command.
 
 	with open("packages-io/output/lisp_output.txt",'r') as infile: 
@@ -73,7 +79,7 @@ def insertToPackages():
 			#im.execute(s)
 			im.execute("""INSERT INTO packages VALUES ( NULL, ?, ?, ?, 0, 0)""",(pname,pversion,"lisp"))
 	db.commit()
-		
+
 	print ("end")
 	db.close()
 

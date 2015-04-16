@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 ######   testing in shell ######
-#####
+##### sqlite
 # import create_tables101 as cr
 # cr.createAll()
 # cr.insertToUser()
@@ -47,6 +47,7 @@ def createPackagesTable():
 					pname VARCHAR(50) NOT NULL,
 					version VARCHAR(50) NOT NULL,
 					category VARCHAR(20) NOT NULL,
+					subcategory VARCHAR(20) NOT NULL,
 					total_rate INT NOT NULL,
 					total_download INT NOT NULL
 					)""")

@@ -1,0 +1,196 @@
+# -*- coding: utf-8 -*-
+######   testing in shell ######
+##### MariaDB
+
+
+# import create_tables_mariadb as cr
+# cr.createAll()
+# cr.insertToUser()
+# cr.test("ali","123")
+# cr.printAll()
+# cr.showAllTables();
+# cr.showAllRows();
+# cr.deleteRowFromUsers("ali")
+# deletion of tables are done via shell commands.
+# deletion of database are done via manually deleting .db file.
+import mysql.connector as mariadb
+
+############################## CREATE TABLES ##################################################
+def createAll():
+	createUsersTable()
+	createPackagesTable()
+	createCommentsTable()
+
+
+def createUsersTable():
+	mconn = mariadb.connect(user='root', password='1', database='db1')
+	im = mconn.cursor()
+
+
+	try:
+		im.execute("""CREATE TABLE users (
+		uid INTEGER NOT NULL AUTO_INCREMENT PRIMARY KEY,
+		username VARCHAR(20) NOT NULL,
+		password VARCHAR(20) NOT NULL,
+		fullname VARCHAR(30) NOT NULL,
+		email VARCHAR(30) NOT NULL ); """)
+	except mariadb.Error as error:
+		print("Error: {}".format(error))
+
+	
+	# im.execute("""CREATE INDEX uindex ON users (username)""")
+	mconn.commit() 
+	mconn.close()
+
+
+# pid | package_name | category | total_rate | total_download	
+def createPackagesTable():
+	mconn = mariadb.connect(user='root', password='1', database='db1')
+	im = mconn.cursor()
+
+
+
+
+	try:
+		im.execute("""CREATE TABLE packages (
+		pid INTEGER NOT NULL AUTO_INCREMENT PRIMARY KEY,
+		pname VARCHAR(50) NOT NULL,
+		version VARCHAR(50) NOT NULL,
+		category VARCHAR(20) NOT NULL,
+		subcategory VARCHAR(20) NOT NULL,
+		total_rate INT NOT NULL,
+		total_download INT NOT NULL); """)
+					
+		im.execute("""CREATE INDEX pindex ON packages (pname)""")
+	except mariadb.Error as error:
+		print("Error: {}".format(error))
+
+					
+	# im.execute("""CREATE INDEX pindex ON packages (pname)""")
+	
+	mconn.commit()
+	mconn.close()
+
+def createCommentsTable():
+	mconn = mariadb.connect(user='root', password='1', database='db1')
+	im = mconn.cursor()
+
+	try:
+		im.execute("""CREATE TABLE comments(
+		cid INTEGER NOT NULL AUTO_INCREMENT PRIMARY KEY,
+		username VARCHAR(50) NOT NULL,
+		pname VARCHAR(50) NOT NULL,
+		rate VARCHAR(20) NOT NULL,
+		comment INT NOT NULL,
+		date INT NOT NULL ); """)
+					
+	except mariadb.Error as error:
+		print("Error: {}".format(error))
+					
+	# im.execute("""CREATE INDEX cpindex ON comments (pname)""")
+	# im.execute("""CREATE INDEX cuindex ON comments (username)""")
+
+	mconn.commit()
+	mconn.close()
+############################## CREATE TABLES ##################################################
+
+
+############################## INSERT TO TABLES ###############################################
+def insertToPackages():
+
+	mconn = mariadb.connect(user='root', password='1', database='db1')
+	im = mconn.cursor()
+
+	#skip user_id, bacause of autoincrement, thus NULL in mysql command.
+
+	with open("packages-io/output/lisp_output.txt",'r') as infile: 
+		for line in infile:
+			pname = line.strip().split(' ')[0]
+			pversion = line.strip().split(' ')[1]
+			#s="INSERT INTO packages VALUES ( NULL, '" + pname + "', '" + pversion + "', 'lisp', 0, 0)"
+			#im.execute(s)
+			im.execute("""INSERT INTO packages VALUES ( NULL, ?, ?, ?, 0, 0)""",(pname,pversion,"lisp"))
+	mconn.commit()
+
+	print ("end")
+	mconn.close()
+
+
+def insertToUsers():
+
+	mconn = mariadb.connect(user='root', password='1', database='db1')
+	im = mconn.cursor()
+	
+	veriler = [
+				("ali","123","sanane","some@some"),
+				("omer","123","sanane","some@some"),
+				("ahmet","123","sanane","some@some"),
+				("huseyin","123","sanane","some@some"),
+				("kemal","123","sanane","some@some"),
+				("cagdas","123","sanane","some@some")
+			  ]
+	#skip user_id, bacause of autoincrement, thus NULL in mysql command.
+	for i in veriler:
+		im.execute("""INSERT INTO users 
+		VALUES (NULL, ?, ?, ?, ?)""", i)
+
+	mconn.commit()
+	mconn.close()
+############################## INSERT TO TABLES ###############################################
+
+
+##############################  OTHER OPERATIONS ##############################################
+def deleteRow(username):
+	mconn = mariadb.connect(user='root', password='1', database='db1')
+	im = mconn.cursor()
+
+	im.execute("DELETE FROM users WHERE username='" + username + "';" )
+	print ("something")
+	mconn.commit()
+	mconn.close()
+	
+
+	
+def test(username,password):	
+	mconn = mariadb.connect(user='root', password='1', database='db1')
+	im = mconn.cursor()
+
+	im.execute("""SELECT * FROM users WHERE
+	username = ? AND password = ?""", (username, password))
+
+	data = im.fetchone()
+
+	if data:
+		print (u"Welcome %s !" % data[1])
+
+	else:
+		print (u"Wrong username or password!")
+	mconn.close()
+# -*- coding: utf-8 -*-
+
+# show all rows inside a table.
+def showAllRows():
+	mconn = mariadb.connect(user='root', password='1', database='db1')
+	im = mconn.cursor()
+
+	im.execute("""SELECT * FROM users""")
+
+	veriler = im.fetchall()
+
+	print (veriler)
+	mconn.close()
+	
+# show all tables inside a selected database.
+def showAllTables(): 
+	mconn = mariadb.connect(user='root', password='1', database='db1')
+	im = mconn.cursor()
+	im.execute("""SELECT name FROM sqlite_master WHERE type='table'""")
+	veriler = im.fetchall()
+	print (veriler)
+	mconn.close()
+##############################  OTHER OPERATIONS ##############################################
+
+if __name__ == "__main__":
+ # if you call this script from the command line (the shell) it will
+ # run the 'main' function
+	#createAll()

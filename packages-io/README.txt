@@ -1,0 +1,50 @@
+admin.txt : Administration Utilities					SYSTEM
+cli-mono : Mono/CLI							Developer TOOLS
+comm.txt : Communication Programs					SYSTEM
+database.txt : Databases						SYSTEM
+debug.txt : Debug packages						Developer TOOLS
+devel.txt : Development							Developer TOOLS
+doc.txt : Documentation							SYSTEM
+editors.txt : Editors							EDITORS
+electronics.txt : Electronics						SYSTEM
+embedded.txt : Embedded software					SYSTEM
+fonts.txt : Fonts							FONTS
+gnome.txt : GNOME							GNOME
+gnu-r.txt : GNU R							OTHERS
+gnustep.txt : GNUstep , The GNUstep environment.			OTHERS
+graphics.txt : Graphics							GRAPHICS
+hamradio.txt : Ham Radio, Software for ham radio.
+haskell.txt : Haskell							Developer TOOLS
+httpd.txt : Web servers and their modules.
+interpreters.txt : Interpreters,      					Developer TOOLS
+java.txt : Java								Developer TOOLS
+kde.txt : KDE
+kernels.txt : Kernels
+libdevel.txt : Library Development
+libs.txt : Libraries							Developer TOOLS
+lisp.txt : Lisp								Developer TOOLS
+localization.txt : Language packs
+mail.txt : Mail
+math.txt : Mathematics							SCIENCE
+misc.txt : Miscelleneous
+network.txt : Network
+news.txt : Newsgroup
+ocaml.txt : OCaml , everything about OCaml, an ML language imp.
+oldlibs.txt : Old libraries
+otherosfs.txt : Other OS's and file systems
+perl.txt : Perl								Developer TOOLS
+php.txt : Php								Developer TOOLS
+python.txt : Python
+ruby.txt : Ruby
+science.txt : Science							SCIENCE
+shells.txt : Shells
+sound.txt : Sound, 
+tex.txt : TeX, The famous typesetting software and related programs.
+text.txt : Text Processing
+utils.txt : Utilities
+vcs.txt : Version control systems
+video.txt : Video viewers, editors, recording, streaming
+web.txt : Web software, web servers, browsers, proxies, download tools etc.
+x11.txt : X window system software
+xfce.txt : Xfce, a fast and lightweight Desktop Environment
+zope.txt : Zope/Plone Framework
